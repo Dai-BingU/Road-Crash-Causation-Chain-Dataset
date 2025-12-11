@@ -11,9 +11,10 @@ This dataset is curated using the Driving Reliability and Error Analysis Method 
 - **Methodology**: Curated using the Driving Reliability and Error Analysis Method (DREAM)
 - **Validation**: All cases manually reviewed for accuracy
 
-<div align="center">
-![Example Image](https://github.com/Dai-BingU/Road-Crash-Causation-Chain-Dataset/blob/main/example.png)
-</div>
+<p align="center">
+  <img src="https://github.com/Dai-BingU/Road-Crash-Causation-Chain-Dataset/blob/main/example.png" alt="Example Image">
+</p>
+
 
 **Purpose**
 

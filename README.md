@@ -18,18 +18,12 @@ This dataset is curated using the Driving Reliability and Error Analysis Method 
 </p>
 
 <p align="center">
-  <div style="display: inline-block; margin-right: 20px;">
-    <img src="https://github.com/Dai-BingU/Road-Crash-Causation-Chain-Dataset/blob/main/figure/Phenotype.png" alt="Phenotype Image">
-    <br>
-    Phenotype distributions
-  </div>
-  
-  <div style="display: inline-block;">
-    <img src="https://github.com/Dai-BingU/Road-Crash-Causation-Chain-Dataset/blob/main/figure/Genotype.png" alt="Genotype Image">
-    <br>
-    Genotype distributions
-  </div>
+  <img src="https://github.com/Dai-BingU/Road-Crash-Causation-Chain-Dataset/blob/main/figure/Phenotype.png" alt="Phenotype Image" style="display:inline-block; width:45%; margin-right:5%;">
+  <img src="https://github.com/Dai-BingU/Road-Crash-Causation-Chain-Dataset/blob/main/figure/Genotype.png" alt="Genotype Image" style="display:inline-block; width:45%;">
 </p>
+<br>
+<p align="center">Phenotype and genotype distributions in the Crash-Causation-Chain dataset</p>
+
 
 **Purpose**
 

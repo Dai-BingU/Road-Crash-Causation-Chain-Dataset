@@ -14,7 +14,7 @@ This dataset is curated using the Driving Reliability and Error Analysis Method 
 <p align="center">
   <img src="https://github.com/Dai-BingU/Road-Crash-Causation-Chain-Dataset/blob/main/example.png" alt="Example Image">
    <br>
-  <em>Case example</em>
+  Case example
 </p>
 
 

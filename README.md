@@ -4,14 +4,16 @@
 
 This dataset is curated using the Driving Reliability and Error Analysis Method (DREAM), based on the National Motor Vehicle Crash Causation Survey (NMVCCS) database. It contains 2,000 crash cases, each manually validated for accuracy. The dataset is designed for training large language models (LLMs) on crash causation inference tasks, providing a standardized corpus for analyzing and understanding crash causation chains in road safety contexts.
 
-![Example Image](https://github.com/Dai-BingU/Road-Crash-Causation-Chain-Dataset/blob/main/example.png)
-
 **Dataset Components**
 
 - **Number of Cases**: 2,000 crash cases
 - **Source**: NMVCCS (National Motor Vehicle Crash Causation Survey)
 - **Methodology**: Curated using the Driving Reliability and Error Analysis Method (DREAM)
 - **Validation**: All cases manually reviewed for accuracy
+
+<div align="center">
+![Example Image](https://github.com/Dai-BingU/Road-Crash-Causation-Chain-Dataset/blob/main/example.png)
+</div>
 
 **Purpose**
 

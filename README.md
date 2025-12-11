@@ -18,7 +18,6 @@ This dataset is curated using the Driving Reliability and Error Analysis Method 
 
 **Purpose**
 
-This dataset is intended for:
 - Training large language models (LLMs) on crash causation inference
 - Analyzing and understanding crash causation chains in road safety
 - Assisting in safety engineering and crash causation analysis

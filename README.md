@@ -138,6 +138,10 @@ The DREAM framework may allow reasonable alternative coding paths in some cases.
 
 If you identify a potentially incorrect, ambiguous, or disputable annotation, please contact the authors or open an issue in this repository. We will continue to review feedback and maintain updated versions of the dataset when necessary.
 
+## Acknowledgements
+
+We gratefully acknowledge the National Motor Vehicle Crash Causation Survey (NMVCCS) database as the source of the in-depth crash investigation records used in this study. We also acknowledge the Driving Reliability and Error Analysis Method (DREAM), which provides the methodological foundation for representing crash causation chains in this dataset.
+
 ## Citation
 
 If you use this dataset, please cite the associated paper:

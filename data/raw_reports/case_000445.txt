@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a five-lane urban east/west highway in a business district with multiple private drives intersecting on both sides of the road. There were two lanes in each direction with a third lane that was a multidirectional left turn-only lane. The highway was not physically divided. A two-way, two-lane side street intersected the highway from the north. This roadway was controlled by a stop sign. The east/west roadway had no traffic control device and was straight with an eight percent positive grade if traveling west. The east/west roadway had a posted speed limit of 72 kmph/45mph. Traffic counts show that the highway carries about 33,700 vehicles per day in the area where the crash occurred. On the left (south side) of the highway at one of the private drive entries there was an embankment that ran parallel to the highway with a twenty-nine percent negative side slope. Conditions at the time of the crash were daylight and dry under cloudy skies late on a weekday morning. Vehicle #1 was a 1994 Honda Civic that had just turned right from the side street onto the westbound highway and started to immediately change lanes to the left with the intent of getting into the left turn-only lane. As Vehicle #1 was entering the left turn-only lane, it was struck on the left front side by the front right corner of Vehicle #2. Vehicle #2 was a 1995 Ford F-150 pickup truck traveling west in the second lane when it swerved to its left in an attempt to avoid Vehicle #1, which had cut in front of it. After initial contact, Vehicle #1 came to rest about 10 meters west of impact facing south in the left eastbound travel lane. The driver of Vehicle #2 veered left, then straightened out and went straight into a curb, blowing all four tires and coming to rest parallel to the highway on the embankment facing west about 66 meters west of the first harmful event. Both vehicles were towed from the scene. Vehicle #1, was driven by a fifty-two-year old belted male, whose airbags did not deploy, and was uninjured in the crash. The driver was running a quick errand for work when the crash occurred. The Critical Pre-crash Event for Vehicle #1 was this vehicle traveling over the left lane line. The Critical Reason for the Critical Pre-crash Event was inadequate surveillance, as the driver failed to check his rear mirrors prior to making his lane changes. An associated factor coded to this driver was the use of a prescription medication to treat high cholesterol. Vehicle #2, was driven by a twenty-one-year old belted male, whose airbags also did not deploy and who was not injured in the crash. The driver was headed to a jobsite in a company vehicle at the time of the crash. The Critical Pre-crash Event for Vehicle #2 was other vehicle encroachment from same direction over the right lane line. The Critical Reason was not coded to this vehicle. An associated factor coded to this driver was the use of two medications used to treat depression.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning right
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

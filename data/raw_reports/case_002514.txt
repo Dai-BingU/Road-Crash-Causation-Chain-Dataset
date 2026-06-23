@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a four-lane interstate overpass with two paved emergency shoulders and concrete barriers on the west and east sides. The highway has a posted speed of 105 KMPH (65 MPH). Conditions were early evening on a weekday with dry roads and clear skies. Vehicle #1, a 2001 Pontiac Grand Am, was traveling south in the second lane of travel when a “phantom” vehicle (reported to be a red Dodge Ram) began to enter Vehicle #1's lane from the third lane of travel. This action of the phantom vehicle (which did not stop after supposedly cutting Vehicle #1 off) caused the driver of Vehicle #1 to lose control. The driver of Vehicle #1, a 21-year old male, reported that he slammed on his brakes and jerked the wheel to the right to avoid impact. These actions caused him to lose control and skid into the right concrete barrier. There was no evidence of contact between the phantom vehicle and Vehicle #1. The critical precrash event for the driver of Vehicle #1 was when he lost control of his vehicle due to his traveling too fast for conditions. The critical reason for the critical event was coded as “too fast for conditions to be able to respond to unexpected actions of other road users,” a decision error. The possibility of aggressive driving could not be ruled out, as the driver of Vehicle #1 stated that he was passing the phantom vehicle on the right. The presence of two young male passengers in Vehicle #1 may have also served as a distraction/contributing factor. Vehicle #1 was towed due to damages but no one was injured.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :

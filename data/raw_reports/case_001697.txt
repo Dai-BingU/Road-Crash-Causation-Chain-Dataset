@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a north/south rural two-lane road. As the road traveled northward it had a positive 3% grade and curved to the left (west) with a radius of curvature of 178.5 meters. Off the east side of the road there was a ditch with a downhill slope ranging between 11% and 68% that ran parallel to the road. Just off the west side of the road was a steep embankment that had an 85% grade. The posted speed limit was 48kph (30mph). Conditions were daylight and dry on a weekday afternoon. Vehicle #1 was a 1997 Chevrolet S-10 pickup traveling northbound on the two-lane road. Vehicle #2, a 2003 Kia Rio, was traveling southbound. Vehicle #1 edged off the right (east) side of the road as it entered the curve. The driver overcorrected and the pickup (V1) crossed into the southbound lanes in a counterclockwise yaw and struck the left side of Vehicle #2 with its front left corner. After initial impact Vehicle #1 continued north and departed the left (west) side of the road and struck the embankment with its front. The pickup (V1) then rolled right two quarter turns and came to rest on its top facing west partially off the west side of the road. Vehicle #2 rotated counterclockwise after impact and came to rest off the east side of the road facing north. Both vehicles were towed due to damage. Vehicle #1 was driven by a 43-year old female that was unbelted with no deployed airbags. She was transported to an area hospital with incapacitating injuries. She claimed to have no recollection of the crash events. The Critical Precrash Event for Vehicle #1 was this vehicle traveling over lane line on left side of travel lane. The Critical Reason for the Critical Event was overcompensation. Associated factors included a physical factor- sleep apnea. The driver overcompensated when she re-entered the roadway. In a hurry, late for appointment was included, the driver was behind schedule to pick her daughter up on the way to an appointment (both had appointment with psychiatrist). She also reported being under stress at work due to an adversarial relationship with management. The driver took several medications for sleep apnea, bipolar disorder, and posttraumatic stress disorder. Vehicle #2 was operated by a 61-year old female that was unbelted with no deployed airbags. She was transported to a local hospital with minor injuries. She attempted to avoid the collision by steering right but was unsuccessful. The Critical Precrash Event for Vehicle #2 other vehicle encroaching from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors included, but the driver does take a medication for high blood pressure.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Driver Physical, Driver Stress/Emotion, Drugs, Speed/Distance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

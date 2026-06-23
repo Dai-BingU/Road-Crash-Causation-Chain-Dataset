@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in a four-legged, traffic signal-controlled intersection. The north/south trafficway is level and divided by a curbed median. The speed limit for this trafficway is 80 kmph (50 mph). The northbound approach lanes are straight and consist of two through lanes, a left turn lane and a right turn lane. The southbound approach lanes curve to the right (the radius of curvature is 281 meters and the superelevation is two percent) and consist of two through lanes, a left turn lane and a right turn lane. The eastbound approach is level, straight and undivided and consists of a left turn lane and a through/right turn lane. The speed limit for this roadway is 72 kmph (45 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1992 Toyota Celica, was stopped northbound in lane four. Vehicle two (V2), a 2000 Toyota Camry, was southbound in lane three. Vehicle three (V3), a 2003 Ford Econoline van, was stopped eastbound in lane one. V1 entered the intersection turning left and the front struck the front of V2. V2 traveled to the southwest and the front struck the left side of V3. V1 and V2 were towed due to damage. The driver of V1, a seventeen-year-old female, provided little personal information. She stated that a driver in a vehicle behind her honked the horn and she proceeded into the intersection. This driver stated that she did not see V2 prior to the crash. She travels on this roadway weekly and was familiar with her vehicle. The driver of V2, a fifty-one-year-old female, was traveling with two older female passengers. She travels this route several times each month and was comfortable with her vehicle and passengers. This driver stated that she did not notice V1 until the crash. The driver of V3, a nineteen-year-old male, was on his way home for lunch from a job site. He was healthy, well rested and comfortable with his vehicle and his cargo (plumbing equipment). This driver stated that he saw the crash between V1 and V2 but could not avoid the crash with V2. The critical pre-crash event for V1 was coded: this vehicle traveling; turning left at intersection. The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see). This driver's inexperience and distraction by another driver honking their horn behind her were associated factors in this crash. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason for the critical pre-crash event for V2 was not coded to this vehicle. This driver's inadequate surveillance was an associated factor in this crash, as she stated she did not see V1 prior to impact. V3 was not involved first harmful event. The critical reason for the critical pre-crash event for V3 was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

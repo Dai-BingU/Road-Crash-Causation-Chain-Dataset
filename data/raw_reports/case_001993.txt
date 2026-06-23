@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a four-lane, two-way, undivided, dry, bituminous, level roadway that runs east to west. This road has a speed limit of 48 kmph (30 mph). A three-lane, dry, level, bituminous roadway, intersects this roadway. This intersecting roadway has one lane designated for southbound traffic, one lane designated for northbound traffic, and one lane designated for turning left (east) from the southbound lanes. This road also has a designated parking lane on the southbound side. This roadway has a speed limit of 40 kmph (25 mph). This intersection is controlled by a stop sign on the right side of lane one. There was a large yellow school bus parked parallel to the southbound lanes in the parking lane at the time of the crash. This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1985 Oldsmobile Cutlass was traveling southbound in lane one. Vehicle two (V2), a 2001 Jeep Cherokee was traveling eastbound in lane two. As V1 entered the intersection, the front of V2 contacted the right side of V1. Both vehicles stopped at impact and were towed due to damage. The driver of V1 was a healthy, unemployed 17-year-old male. This was the driver's first time driving on this roadway. The driver of V1 stated that he was stopped at the intersection for several seconds and could not see to his right nor could he see the stop sign because his view was obstructed by the parked school bus. However, the scene inspection revealed that if vehicle one was stopped within 10 meters (33 feet) of the intersection the bus did not obstruct the view of eastbound traffic or the stop sign. The driver of also stated that he was the first in line at the intersection. During his interview, this driver gave two accounts of the crash. The location of the school bus is considered an associative factor for vehicle one. While the view may not have been obstructed if V1 was stopped at the stop sign, the bus may have obstructed the view of the stop sign as V1 approached the intersection. The driver of V2, a sixty-seven year old male was not interviewed. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over [passing through] intersection. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: inadequate surveillance. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason for the critical pre-crash event for V2 was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

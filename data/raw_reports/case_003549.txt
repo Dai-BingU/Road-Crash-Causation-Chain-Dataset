@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred on a divided, north/south roadway at the intersection with a two-lane, undivided, east/west roadway. There are four travel lanes and a left curve for northbound traffic. The radius of the curve is 281 meters (922 feet). The roadway was level, wet and of concrete construction. Overhead traffic control lights control traffic at the intersection. The posted speed limit is 64 kmph (40 mph). Traffic was light at the time of the crash. This crash occurred before sunrise. The roadway was lighted and a light rain was falling. Vehicle one (V1), a 1972 Cadillac Fleetwood, was northbound in the second travel lane. The driver stated the vehicle ahead in his lane merged to the right and he became aware of a vehicle disabled in his lane. He abruptly applied the brakes and the vehicle slid off the road to the right. The front of V1 struck a concrete bus stop bench and a light pole. The vehicle came to rest off the roadway on the east side facing north. The vehicle was towed due to damage. The driver of V1, a twenty-eight year old male, was heading home from a friend's residence. This driver had been driving for about five minutes, drives the route rarely and is familiar with the vehicle. The critical pre-crash event for V1 was coded: this vehicle traveling - off the edge of the road on the right side. The critical reason for V1 was coded: driver related factor - incorrect evasive action. If this driver had lightly applied the brakes and steered right, the brakes would not have locked up and he could have maintained control. Additionally, this driver failed to look far enough ahead to see the disabled vehicle ahead.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Performance, Roadway, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

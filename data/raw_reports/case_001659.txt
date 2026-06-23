@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred a couple of hours before noon on a straight and level east/west asphalt roadway with two lanes going into each direction, and a divided painted center median. The road was wet and slick due to rain earlier in the morning, but at the time of the crash the weather conditions were cloudy with out rain. There were no restrictions to the road and the traffic was light. The posted speed limit is 56 kmph (35 mph). Vehicle one (V1), a 2004 Chevrolet Tahoe driven by a 58 year-old male, was traveling eastbound in the second lane swerved left across the median and into incoming traffic. Vehicle two (V2), a 1992 Chevrolet Corvette driven by a 35 year old female, was traveling westbound in the second lane. V1 was attempting to slow down, lost control due to the wet roadway and rotated counterclockwise. V1 departed the roadway into the center painted median. V1 then traveled into the on-coming number two travel lane. V1 was then struck on its right side by the front of V2. Both vehicle's came to final rest on the roadway. V2 was towed from the scene due to damage. The critical pre-crash event for V1 was coded: this vehicle traveling, opff the edge of the road on the left side. The critical reason for the critical event was coded to V1 as a driver related factor: too fast for conditions (specified as: wet roadway). V1 had three after market tires and rims and one OEM. Braking and overcompensation may have contributed to this crash. The critical pre-crash event for V2 was coded: other vehicle encroachment, from opposite direction - over left lane line. Critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Drugs, Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

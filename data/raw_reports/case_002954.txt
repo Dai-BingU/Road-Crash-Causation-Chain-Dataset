@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in the middle of a four-way intersection. The north/south road consisted of three-lanes, two-lanes going north one of which is a parking lane and one-lane going south. The east/west road was a two-lane road with one lane in each direction. It was raining and the asphalt road was wet and level. The posted speed limit for all directions of travel was 40 kmph (25 mph). Signalized traffic devices controlled all directions of the roadways. The crash occurred on a weekday in the early morning hours. The roadway was free of any defects. The traffic flow was normal for this roadway. Vehicle one, a 1999 Toyota Camry, was traveling southbound when the front contacted the left side of vehicle two, a 1994 Ford Taurus Wagon, traveling eastbound. Vehicle one traveled a few feet and hit vehicle three, a 1998 Mazda 626, traveling northbound. Vehicle two, after the initial impact, rotated counter-clockwise. Vehicle two was eventually towed because of damages, a bent left rear axle. The driver of vehicle one, a 23-year old male, was on his way to work and said he was very comfortable with the road, maybe too comfortable, he said. He saw the light changing, however, as he was talking to his passenger and listening to the radio he thought he could get through the intersection before the light turned completely red. He said he was traveling approximately 56 kmph (35 mph), roughly ten miles over the speed limit. He was not sure of the posted speed limit and looked around for the sign when asked. He is a relatively new driver with only six years experience. His vehicle received moderate damage and was not towed. The Critical Pre-Crash Event coded to V1 is: crossing over (passing through) intersection. The Critical Reason for V1 is: Illegal maneuver, a decision error, running the signalized traffic device on the wrong signal. Associated factors for this driver include: a non-experience driver, possible distraction of talking to his passenger and listening to the radio. Assumed other vehicles would yield to his aggressive driving. Driving over the posted speed limit. The driver of Vehicle two, a 51-year old female, said she was driving eastbound when as she began to pass through the intersection and was struck by vehicle one. She said her travel speed was roughly 40 kmph (25 mph) and was aware of the speed limit. She only travels on this roadway maybe once a week. However, said she been driving for several years. She was given some treatment on the scene by medics and was transported to the hospital with minor injuries. Her vehicle was later towed due to damages. Her left rear axle was bent and the frame bent onto the tire. The Critical Pre-Crash Event coded to V2 is: other motor vehicle encroachment: from crossing street, across path. The Critical Reason was not coded to this vehicle. She is currently taking medication for asthma and GERD. Vehicle three driver, a 46-year old male, was transported to the hospital by medics and could not be reached for comment, refused interview. The Critical Pre-Crash Event coded to V3 is: not involved in the first harmful event. The Critical Reason was not coded to this vehicle
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Roadway, Weather/Environment present problem 
+Vehicle 2:  Drugs, Roadway, Weather/Environment present problem 
+Vehicle 3:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

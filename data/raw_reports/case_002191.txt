@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred off the right side of a three-lane urban roadway at an intersection with a five-lane urban roadway. There were three lanes running westbound, with lane three being a left turn-only lane. The speed limit was posted as 56 kmph (35 mph) and traffic flow was normal. It was mid-afternoon on a weekday and the roads were dry roads and the sky was clear. Vehicle #1 was a 2005 Honda Civic driven by a 26-year old male. He was traveling westbound in lane one going approximately 35 mph through the intersection when he started to have an epileptic seizure. He blacked out and his vehicle veered off the roadway to the right, drove onto a paved sidewalk and then into a building window. Luckily, he was not critically injured but he was transported to a hospital and his car was towed due to damage. The Critical Pre-crash Event for Vehicle #1 was this vehicle traveling off the edge of the roadway on the right side. The Critical Reason was a driver related factor: heart attack or other physical impairment of the ability to act. The driver had epilepsy and had a history of seizures. He was low on his seizure medication, and toxicology tests indicated that the level of the medication in his blood was below therapeutic levels. This may have brought about the seizure. There were no other associated factors coded to the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This is a three vehicle rear-end crash that occurred during the morning dawn hours. The roadway is a concrete bridge over a railway beneath. The posted speed limit 72 kmph (45 mph). This is two way traffic, one northbound lane and one southbound lane, bounded on either side by raised one meter concrete barriers. There is a one meter wide pedestrian walkway west of the roadway. The crash location at the crest of the bridge was level. Vehicle one (V1) was a 2004 Nissan Sentra sedan driven by a 68 year-old male was stopped in the number one lane due to congested rush hour traffic. Vehicle two (V2), a 2001 GMC SUV driven by a 63 year-old female, was stopped behind V1 in the same traffic lane. Vehicle three (V3), a 1995 Dodge Ram pick-up driven by a 29 year-old male, was traveling south in lane one. Prior to the crash the driver of V3 stated that he was looking at gauges and when looked up traffic had stopped. He braked without lock-up and the front of V3 struck the rear of V2 causing V2 to move forward and striking the rear of V1 .All three vehicles came to final rest facing south in travel lane. V1 was towed from the scene and the driver was transported to a local medical facility. V2 and V3 were driven from the scene The critical pre-crash event for V3 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V3 as a driver related factor: internal distraction. The driver was looking down at his vehicle's gauges and did not realize the forward traffic was stopped. He also was frustrated with traffic. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. V1 was not involved in the first harmful event. The critical reason was not coded to this vehicle. The driver of V1 had the following pre-existing conditions: Lupus, Diverticulitus, chronic pain. He takes the following medications: Protonix, Tramadol,calcium supplements and unknown pain killers. He indicated he felt drowsy when this trip started.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Inexperience, Driver Physical, Driver Stress/Emotion, Drugs, Traffic present problem 
+Vehicle 2:  Driver Stress/Emotion present problem 
+Vehicle 3:  Decision, Distraction, Driver Inexperience, Driver Performance, Driver Stress/Emotion, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other- Not involved first harmful event
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Driver Related Factor- Internal distraction

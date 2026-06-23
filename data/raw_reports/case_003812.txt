@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the southbound lanes of a two-lane undivided roadway during the mid-afternoon hours. The roadway was straight with a posted speed limit of 89 KMPH (55 MPH). The roadway was wet and the sky was cloudy. This crash occurred on a weekday afternoon. Vehicle #1, a 1995 Toyota Camry station wagon, was traveling on the undivided roadway when it went over the right lane line and its right front impacted the left rear of Vehicle #2, a parked and unoccupied 1993 Oldsmobile Ciera. The Oldsmobile was parked on the right shoulder. The driver of Vehicle #1 then steered to the left across the southbound lane and into the northbound lane, overcorrected, came back across the southbound lane, and went off the roadway on the west side. The front right of Vehicle #1 struck a 15cm tree before coming to final rest against the tree, facing a westerly direction. The Toyota Camry Wagon was driven by a belted 52-year old male who was transported to an area hospital. The driver could not located for an interview and did not return messages left at the residence listed on his driver's license. The police report indicated that the driver of this vehicle might have had a seizure while driving. A witness to this crash stated that she saw the driver of Vehicle #1 looking down and to his right as if at something inside the vehicle before the crash. The Critical Pre-crash Event coded for Vehicle #1 was this vehicle traveling over the lane line on the right side. The Critical Reason for Critical Pre-crash Event was coded as poor directional control because the driver failed to keep his vehicle in his lane. The driver told medical staff that he had no memory of the crash but did say he had a history of seizure disorder. He could not say whether or not he had had a seizure prior to the crash, although his actions following the impact with Vehicle #2 indicate that he was conscious following that impact. Police did not consider alcohol or illegal drugs to be a factor in this crash and ordered no tests. Medical staff did order a BAC on the driver, and blood was drawn approximately 1.5 hours after the crash. The test indicated that the driver of Vehicle #1 had a BAC of .358, a level that was considered acute alcohol intoxication. The driver also told medical staff that he was taking five medications for his seizure disorder. Alcohol use, prescription drug use, and the history of seizure disorder were all coded as associated factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Performance, Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

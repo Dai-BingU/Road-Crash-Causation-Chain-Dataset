@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the afternoon of a weekday in the middle of a 4-way suburban neighborhood intersection. The intersection consists of two 2-lane city streets controlled with stop signs for each direction. The roads are straight, dry and have a posted speed limit of 56 kmph (35 mph). The weather condition was clear, dry, and daylight. V1, a 2004 Subaru Outback with one occupant, was northbound approaching the intersection where it intended to go straight. V2, a 1999 Toyota Corolla with one occupant, was stopped at the same intersection facing east, and intended to go straight. As V1 approached the intersection it failed to stop for its stop sign and struck the right side of V2 as they both entered the intersection at the same time. V1's driver was not injured but V2's driver was treated and released at a trauma center. Both vehicles were towed from scene. The driver of V1 is a 22-year-old female that did not see the stop sign as she approached the intersection. She swerved her Subaru to the right once she saw V2 drive across her path. This driver did not complete the entire interview so many questions are unknown. The Critical Precrash Event for V1 was coded "this vehicle crossing over (passing through) intersection". The Critical Reason for the Critical Event was coded "driver related factor: inattention, thought focus unknown." Associated factors include inadequate surveillance (failed to look to side), an illegal maneuver (failed to stop for TCD), and a sightline restriction (tree and shrubbery). The driver of V2 is an 87-year-old retired female that was returning home from her Encore class this afternoon when she was involved in this crash. She states that she stopped at a 4-way intersection facing east, looked in all directions, and then began to move forward. After entering the intersection, her vehicle was struck in the right front corner by a northbound vehicle (V1). This driver never saw V1 before the collision and reports that she looked in its direction before entering the intersection. This driver was transported to an emergency room where she was treated and released for bruising across the chest (seat belt-related injury). The Critical Precrash Event for V2 was coded "other vehicle encroaching from crossing street, across path." The Critical Reason for the Critical Event was not coded to this vehicle. An associated factor coded to V2 is the sightline restriction located at the southwest corner of the intersection (tree and shrubbery).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Roadway, Surveillance present problem 
+Vehicle 2:  Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

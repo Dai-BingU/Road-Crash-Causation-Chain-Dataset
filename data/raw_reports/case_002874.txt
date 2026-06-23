@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the center of a four-way intersection composed of a two-lane north/southbound roadway, and a two-lane east/westbound roadway. All roadways were bituminous and level. The posted speed limit of the north/southbound roadway was 72 kmph (45 mph) and the posted speed limit for the east/west roadway was 40 kmph (25 mph). The east/westbound roadway was controlled by stop signs on each corner. It was nighttime on a weekday. The roads were dry and the sky was clear. Traffic flow was light. V1, a 2004 Hyundai Elantra with two occupants, was stopped at the Stop Sign in the eastbound lane when an unknown vehicle traveling south stopped to make a left turn. The unknown vehicle flashed its headlights to signal it was yielding the right of way to V1. V1 proceeded to cross the intersection. At this time V2, a 2000 Dodge Durango with two occupants, was traveling south. V2 entered the right side shoulder in order to pass the stopped unknown vehicle. As V2 passed the stopped vehicle it struck V1 on the right side. The collision caused V1 to leave the roadway and strike a tree stump and for V2 to strike V3, a 2000 Pontiac Grand Prix with two occupants, which was stopped at the westbound Stop Sign waiting to turn left. V1, was driven by two 20-year-old males both of which were transported, stated that he was stopped waiting to cross the intersection when a southbound vehicle stopped and flashed its lights, indicating that V1 was clears to cross. V1 proceeded to cross and was struck on its right side by V2 as V2 passed the stopped southbound vehicle. The driver of V1 states the stopped vehicle restricted his sightline to V2 as V2 passed the stopped vehicle. V1 then continued off the roadway and struck a tree stump. V1 made no avoidance maneuvers. The Critical Precrash Event for V1 was “this vehicle traveling-crossing over (passing through) intersection”. The Critical Reason for the Critical Precrash Event was “driver related factor- inadequate surveillance”. The following associated factors were assigned: conversing with passenger and crossed with obstructed view. V2, was driven by a 65-year-old male, and a 59-year-old female, both of which were transported, stated that he was southbound when an unknown vehicle in front of him stopped to make a left turn. At which time V2 entered the right hand shoulder in order to pass the stopped vehicle. As V2 passed the stopped vehicle, V1 attempted to cross the intersection and was struck on the right side by V2. V2 states he observed V1 at the stop sign. V2 attempted to avoid V1 by applying his breaks and turning to the right. After the collision with V1, V2 was pushed into V3, which was stopped at the westbound stop sign. The Critical Precrash Event for V2 was “other vehicle encroachment-from crossing street, across path”. No Critical Reason was coded to this vehicle. The following associated factors were coded to this vehicle: conversing with passenger and illegal maneuver. V3, was driven by a 51-year-old male and a 51-year-old female, both of which were transported, stated that he was stopped at the westbound stop sign, when he observed V1 stop briefly before attempting to cross the intersection. At which time V2 was in the right hand shoulder passing a stopped unknown vehicle. V2 struck V1 and was pushed into the front of V3. V3 made no avoidance maneuver. The Critical Precrash Event for V3 was coded “not involved in first harmful event”. No Critical Reason was coded to this vehicle. The following associated factor was coded to this vehicle: conversing with passenger.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Roadway, Surveillance present problem 
+Vehicle 2:  Decision, Distraction present problem 
+Vehicle 3:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Passing or overtaking another vehicle
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

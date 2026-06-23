@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a five-lane urban highway with a grass median protected by a guardrail. There were five westbound lanes on a left curve with a 1 percent uphill grade. The roadway had a posted speed limit of 97 kmph (60 mph). Conditions were daylight and dry with clear skies. The setting was mid-morning hours on a weekday. Vehicle one was a 2004 Ford Explorer sport utility traveling west in lane two. Vehicle two was a 2004 Chevrolet Silverado 1500 pickup truck towing a single-axle trailer. V1 changed lanes to the right and slowed down in anticipation of an upcoming exit. V2 rear-ended V1 in lane one. Both vehicles traveled off the right side of the roadway past the exit. V1 came to rest on the roadside. V2 traveled around to the right in an arc, coming to rest partially on the exit off-ramp. During V2's path to final rest, the trailer jackknifed, damaging the right rear fender of V2. The Ford Explorer (V1) was driven by an 18-year old female who was transported to a local trauma center, along with all of her passengers. She stated that she was returning to college from home with her family. She changed lanes to the right in order to take the second of two exits at an interchange. She was struck from behind without warning. She estimated her travel and impact speeds to be 105 kmph (65 mph). The Ford sport utility was towed due to damage. The Critical Pre-crash Event for V1 was this vehicle decelerating. The Critical Reason was a driver-related factor of inadequate surveillance. This driver travels this roadway on a weekly basis, but has only been doing so for two to three months. She has been driving for a period of two years. The right rear tire of this vehicle had an unsafe tread depth. The Chevy Silverado (V2) was driven by a 48-year old male who was uninjured. He stated that he was returning to the shop from work when V1 merged into his lane and braked abruptly. He braked but was unable to avoid the collision. He estimated his travel and impact speeds to be 97 kmph (60 mph). The Chevrolet pickup truck was towed due to damage. The Critical Pre-crash Event for V2 was other vehicle in lane, other vehicle decelerating. No Critical Reason was coded to this vehicle. This driver has had only informal driver's education training.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- This vehicle decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

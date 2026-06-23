@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred during daylight hours on a weekday. The crash occurred on a straight stretch of a dry, level, bituminous roadway, with business driveways on both sides of the road. The roadway is designated a 56 kmph (35 mph) zone. At the time of the crash, there were no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 1972 Chevrolet Suburban, was traveling northbound in the third lane (left-turn only) of the five-lane, two-way, undivided roadway, intending to turn left into a private business drive. Vehicle two (V2), a 1964 Porsche 356 C two-door coupe, was traveling southbound in the second lane of opposing traffic. As V1 made its turn, the front of V1 impacted the front of V2. The 47-year-old male driver of V1 reported to police that he did not see the other vehicle's approach, and only noticed it after he began to execute the turn. He applied the brakes, but was unable to avoid the collision. He refused to be interviewed. The critical precrash event for V1 was: This vehicle traveling, turning left at intersection. The critical reason for the event was attributed to V1, and is coded: Driver related recognition error, inadequate surveillance (e.g., failed to look, looked but did not see). The 38-year-old male driver of V2 reported the he was aware of V1's intention to turn left across his path, and that he saw V1 “creeping” into his lane. He assumed that V1 would remain stopped and allow traffic to clear. When V1 began to execute the turn, the driver of V2 applied his brakes, but was unable to sufficiently slow the vehicle. The driver reported that his tires and brakes were in good repair. The critical precrash event for V2 was: Other vehicle encroachment, from opposite direction, over left lane line. The critical reason for the event was not attributed to V2, but an associative factor - false assumption - was coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

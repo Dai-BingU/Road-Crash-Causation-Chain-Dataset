@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred on a five-lane, divided, westbound roadway with a positive barrier at an exit ramp. The roadway was straight, dry, of concrete construction with an unknown positive grade. The posted speed limit is 97 kmph (60 mph). Traffic was moderate at the time of the crash. This crash occurred during daylight hours with clear skies. Vehicle one (V1), a 2005 Saturn Ion, with one occupant, was westbound in the first travel lane. Vehicle two (V2), a 1991 Dodge Caravan, was parked on the north shoulder in the gore area. V1 departed the roadway on the right side and the front of V1 struck the back of V2. V1 rotated clockwise and came to rest in the roadway facing west. V2 rotated counterclockwise and came to rest facing north on the shoulder. Both vehicles were towed due to damage. The driver of V1, a twenty-three year old male, was heading from home to work. This driver had been driving for about five minutes, drives the route daily and is familiar with the vehicle. The driver stated a pick-up in the second lane attempted to merge into his lane. He steered to the right to avoid the collision. He did not notice V2 on the shoulder until impact and did not attempt any evasive maneuvers. The critical pre-crash event for V1 was coded: this vehicle traveling- off the edge of the road on the right side. The critical reason for V1 was coded: driver related factor-incorrect evasive action. V2 was parked and unoccupied.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

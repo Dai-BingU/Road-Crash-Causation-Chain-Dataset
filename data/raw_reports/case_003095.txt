@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-car crash happened on a weekday during early morning hours on a divided (with positive barrier) concrete highway. The southbound lanes are level, consist of four lanes, have a left curve in the precrash area and are straight at the crash location. The posted speed limit is 89 kmph (55 mph). It was rush hour with heavy traffic with temporary stops for all vehicles. The weather was clear and the roads dry. The crash occurred just past a two-lane exit ramp. Vehicle one (V1), a 1997 Honda Accord, was traveling south in the first lane of traffic past the exit ramp. Vehicle two (V2), a 1999 Ford Mustang, and vehicle three (V3), a 2007 Dodge Magnum, were stopped in lane one ahead of V1. The front of V1 struck the back of V2. V2 moved forward and the front struck the back of V3. All vehicles came to rest at the point of impact. V1 was towed from the scene. A 30-year old male drove V1. This driver left the scene and was not interviewed. The police report indicated that this driver stated that he "couldn't stop his vehicle in time" to avoid the crash. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded as a driver related error: driving too fast to respond to unexpected actions of others. A 30-year old male drove V2. He was heading to work from his home. He was not in a hurry. He stated he saw the vehicle in front of him slow down and come to a complete stop due to the traffic ahead. He did the same and came to a full stop behind V3. He said he saw V1 coming up behind him and it appeared that the driver of V1 was applying the brakes in an attempt to avoid the crash. The critical pre crash event for V2 was coded: other vehicle in lane, traveling in same direction with higher speed. No critical reason for the critical event was coded to this vehicle. A 28-year old male drove V3. He said all vehicles were stopped at the time of the crash. He heard the crash behind him before V2 was pushed into his car. This driver was heading for a business meeting outside of town. He was driving a rental car he picked up the night prior to the crash. This driver rarely drives a car at all. He stated that he usually relies on public transportation and was driving the vehicle for this occasion only. V3 was not involved in the first harmful event. No critical reason for the critical event was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Driver Inexperience, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Decelerating in traffic lane
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary A two vehicle rear-end type collision occurred at noon on a Monday. The collision occurred with both vehicles heading southbound on a four lane undivided roadway. The pre-crash roadway for both vehicles is straight bituminous paving with an uphill grade of 5%. The roadway has a posted speed limit of 56 kmph (35 mph). The crash occurred in the second lane of two heading southbound. Vehicle one (V1), a 1994 Nissan Sentra sedan driven by a 54 year old female, was traveling southbound on the roadway in lane 2. Vehicle 2 (V2), a 2005 Hyundai Sonata sedan driven by a 19 year old male with one passenger, was also traveling southbound in lane 2. V2 had stopped behind a left turning vehicle at an intersection with no control devices. After the vehicle turned left, V2 began to accelerate at which time it was struck in the rear by the front of V1. V2 was driven from the scene, but V1 sustained disabling damage and was towed. The driver of V1 was transported to the hospital to check for possible injuries. The driver and passenger of V2 stated that they were behind a left turning vehicle, and that they had been struck just as they began to proceed forward. The driver of V1 stated that V2 stopped suddenly in front of her, after coming around the curve. The curve being referred to ended over 100 meters (328 feet) prior to the point of impact, negating the possibly of a sight line restriction. The driver of V1 also stated that there was no reason for V2 to be stopped at that location. The critical pre-crash event for V1 was coded: other vehicle in lane, traveling in same direction with lower steady speed. The critical reason for the critical event was attributed to V1 as a driver related factor: misjudgment of gap or other's speed. The critical pre-crash event was coded "other motor vehicle in lane traveling in same direction with higher speed."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Drugs, Speed/Distance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

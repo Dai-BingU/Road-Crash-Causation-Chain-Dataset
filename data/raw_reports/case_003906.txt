@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on a four-lane undivided straight level roadway with a T-type intersection controlled by a traffic signal. There were two northbound lanes and two southbound lanes. The roadway had a posted speed limit of 48 KPH (30 MPH). The weather was clear, the roadway dry and it was dusk at the time of this late afternoon weekday crash. Vehicle #1, a 1998 Chevrolet Lumina, was traveling north in the left hand lane with the intention of turning left at the traffic signal controlled intersection. Vehicle #2, a 1998 Subaru Legacy, was traveling south on the same roadway in the right hand lane. Vehicle #1 was waved through by a non-contact stopped vehicle in the southbound left lane. Vehicle #1 turned across the path of Vehicle #2. Vehicle #1's front struck the front of Vehicle #2. Vehicle #1 was rotated counterclockwise and came to rest facing in a southeasterly direction in the southbound left lane. Vehicle #2 continued and came to rest on the intersecting roadway facing in a southerly direction. The Chevrolet Lumina (Vehicle #1) was driven by a belted 67 year old female who was transported, treated and released at a local hospital with a complaint of pain. She stated that she had slowed as she approached the light and a non-contact stopped vehicle waved her on. As she proceeded to make the turn, traveling less than 16kph (10 mph), Vehicle #2 struck her, spinning her around so she was facing the way she had come. She indicated that she did not see Vehicle #2. Vehicle #1 was towed due to damage. The Critical Precrash Event for Vehicle #1 was turning left at the intersection. The Critical Reason for the Critical Event was coded as inadequate surveillance, a recognition error. This was chosen because the driver stated she proceeded to make the left turn because another motorist waved her through and she did not see Vehicle #2. An additional factor may be that the driver was concerned about returning home as quickly as possible. She stated that she had just picked up dinner and did not want it to get cold before she got home. Another associated factor coded to this driver was the use of prescription medications. She was taking 8 medications: four for diabetes, two high blood pressure medications with possible side effects of headache, dizziness and fatigue. One high cholesterol medication and one depression medication with possible side effects of nervousness, drowsiness, tiredness. The Subaru Legacy wagon (Vehicle #2) was driven by a belted 27 year old male who was not injured. He stated that he was traveling south, there were two vehicles about 40 feet ahead of him, and she turned between them and in front of him. He stated that she did not have enough window of opportunity. He braked and steered right, but was unable to avoid the collision. The Critical Precrash Event for Vehicle #2 was the encroachment of Vehicle #1 from the opposite direction over the left lane line. No Critical Reason for the Critical Event was coded to this vehicle. No other associated factors were coded to the driver of the Subaru and he was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

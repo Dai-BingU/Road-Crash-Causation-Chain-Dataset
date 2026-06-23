@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on at a T-intersection of a four lane arterial road and a two-lane residential side street. The urban four-lane roadway ran east/west and was undivided with two way left turn lane. The two lane residential side street went north/south and was controlled by a stop sign. Both roads were straight and level. Conditions were daylight and dry on a weekday afternoon. Vehicle #1 was a 1995 Chevy Blazer northbound attempting to turn left from the residential side street to go west on the four-lane road. Vehicle #2, a 2001 Nissan Sentra, was eastbound in the left lane of the four-lane road. The GMC (V1) began to turn left into the center two way left turn lane and stopped in the eastbound lanes. The front of the Nissan (V2) struck the left side of Vehicle #1. Both vehicles came to rest near impact and were towed due to damage. Vehicle #1 was driven by a 20-year-old male that was belted and not injured in the crash. The front right passenger, a 21-year-old female, was belted and transported to an area hospital with minor injuries. No airbags deployed. It appears the driver misjudged the gap distance and panicked when he realized he couldn't make it across to the center turn lane, stopping in the eastbound lanes. The Critical Precrash Event for Vehicle #1 was this vehicle turning left at intersection. The Critical Reason for the Critical Event was a decision error, misjudgment of gap or other's speed. Associated factors include an inappropriate/unsuccessful evasive action and a performance error since the driver panicked and stopped in the eastbound lanes. The driver also takes a prescription medication for seizures, but this didn't contribute to the crash. Vehicle #2 was operated by a 27-year-old female that was belted with deployed frontal airbags. She was not injured in the collision. The driver attempted to brake and steer left, leaving 33m of skid marks, but was unable to avoid a collision. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from crossing street, turning into opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. The driver was wearing contacts for a near-sighted condition. She also takes two prescription medications that did not contribute to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Drugs present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

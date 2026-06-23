@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred just after dawn on a clear morning. The crash occurred in lane-two on a two-lane interstate exit ramp. The roadway is bituminous, level, curves to the right, and has a super elevation of 2%. The speed limit is 65 mph (105 kmph). There were no adverse conditions at the time. Vehicle one (V1), a 2000 Ford Explorer was traveling south in lane two. Vehicle two (V2), an unknown large truck was southbound in lane one. Both vehicles were going at approximately the same speed as they entered the exit ramp. V2 changed lanes to the left and encroached into V1's travel lane. The left side of the trailer of V2 struck the right front side of V1. V2 then left the scene of the crash. V1 departed the left road edge and struck a guardrail causing V1 to roll to its left along it longitudinal axis two quarter turns for approximately fourteen meters were it came to final rest partially in lane two on its top facing northwest. V1 was towed due to disabling damage and the driver was transported to a local trauma center with incapacitating injuries. V1 contained one occupant, a 27 year-old female. The driver advised that the tractor/semi-trailer changed lanes and she steered left in an attempt to avoid the collision. The vehicle was forced off the roadway into the roadside and guardrail. She is familiar with the vehicle and drives the route daily. She was attentive to the driving task. The critical pre-crash event for V1 was coded: other vehicle encroachment-from adjacent lane (same direction)-over right lane line. There was no critical reason for the critical pre-crash event coded on this vehicle. V2 was only identified as a tractor/semi-trailer. The vehicle left the scene and no information is available on the driver or vehicle. The critical pre-crash event was coded: this vehicle traveling-over the lane line on left side of travel lane. The critical reason for V2 was coded: unknown reason for critical event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Unknown Reason - Unknown reason for critical event

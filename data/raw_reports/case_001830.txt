@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 1998 Ford Escort, was exiting a commercial drive, southbound, crossing 3 lanes of a 5 lane urban roadway, turning left to go eastbound on that same roadway. V2, a 1998 Ford F-150 pickup truck, was westbound in lane 1 of the same 5 lane, urban, cement, straight, level roadway. At the time of the crash it was daylight and the roadway was dry with a steady traffic flow. V2, front, contacted v1, left. Both vehicles came to rest facing southwest in the center (left turn lane). The driver of v1 was injured, transported, treated and released. V1 was towed due to damage. A complete driver interview and vehicle inspection was obtained for v1. The Critical Pre-Crash Event for v1 was turning left at intersection. A complete driver interview and vehicle inspection was obtained for v2. The Critical Pre-Crash Event for v2 was other vehicle encroachment from driveway, across path.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Leaving a parking position
+ 2 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

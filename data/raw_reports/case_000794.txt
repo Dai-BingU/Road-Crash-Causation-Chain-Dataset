@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred just past noon on a curve right, undivided, asphalt, uphill, two-lane, urban road. The road runs east and west at this location., There is a warning sign for pedestrian crossing and the speed limit on the road is 56 kmph (35 mph). There were no adverse weather conditions at the time. Vehicle one (V1), a 2001 Chevrolet Impala sedan, was driven by a 61 year-old female with a 76 year old female passenger. They were traveling westbound negotiating the slight curve to the right. V1 departed the right side of the road impacting a metal pole with its front. V1 continued in a northeasterly direction down an embankment into a canal. The vehicle floated down the canal for approximately 129.5 meters (425 feet) where it was stopped by some trees. The vehicle came to rest between the trees on its wheels facing south with water up to the belt line. V1 was towed from the scene after being removed from the canal, there was damage to the roof and left side caused by wrecker during tow out. The passenger stated the two were talking and driving to a restaurant to eat lunch and celebrate the passenger's birthday. The passenger noticed that the vehicle was going off the right side of the road and said something to the driver and noticed she had both arms around her chest. The driver suffers from emphysema, heart problems, poor circulation and clots in both legs. She takes medication for her lungs, heart and pain for arthritis. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical event was coded to V1 as a driver related factor: heart attack or other physical impairment of the ability to act.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

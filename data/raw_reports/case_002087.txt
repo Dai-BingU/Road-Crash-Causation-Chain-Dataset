@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash took place in the intersection of a six lane divided roadway and a two-lane roadway that ran parallel to the 6-lane roadway. There were three northbound lanes and three southbound lanes, at the intersection there was a forth lane in both directions for making U turns. This crash took place in the morning hours of a weekday and conditions were cloudy but dry. All roadway surfaces were bituminous. V1, a 1999 Volkswagen Passat, was stopped on the east side of the northbound lanes. V2, a 2001 Honda Civic was traveling southbound in lane three approaching the intersection. V1 crossed the northbound lanes, came to a rolling stop in the intersection and was initiating a left turn when the two vehicles came into contact in southbound lane three. V1 was driven by a 16 year-old female who had been licensed for six months at the time of the crash. She stated that although she traveled this route daily, she was uncomfortable driving this portion of the trip because of heavy traffic and speeds. She further stated that she had a clear view of V2 and thought that she had time to turn. The Critical Precrash Event for this vehicle was coded “this vehicle traveling, turning left at intersection”. The Critical Reason was coded “misjudgment of gap or other's speed”. Associated factors include the driver's inexperience and she was generally uncomfortable with the traffic speed and volume. V2 was driven by a 22 year-old male who was en route to work from his residence. This driver stated that he was traveling with the flow of traffic and saw the other vehicle but assumed that it would yield the right of way. The Critical Precrash Event for this vehicle was coded other vehicle encroachment, from crossing street turning into same direction. A critical reason was not coded to this vehicle. There were no associated factors coded to this vehicle and it was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Inexperience present problem 
+Vehicle 2:  Decision, Driver Fatigue, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

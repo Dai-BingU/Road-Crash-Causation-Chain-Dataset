@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a two-lane undivided roadway in an area near a Y-intersection. There was one southbound lane and one northbound lane. The roadway had a downhill grade of 9 percent southbound, was bituminous, and had a posted speed limit of 40 kmph (25 mph). It was early evening on a weekday and conditions were clear. V1 was a 2001 Chevrolet Malibu 4-door driven by a 56-year-old male. V2 was a 2003 Jeep Liberty sport utility vehicle driven by a 21 year-old female. V1 was traveling northbound and had just crossed over an intersection when the right side of the vehicle departed the roadway, traveling up a small embankment. The vehicle came back onto the roadway a short distance further and then crossed into the southbound travel lane where the front left corner of V1 sideswiped the left side of V2. V2 had been traveling southbound and the driver attempted to steer right to avoid the collision but there was not enough time. After V1 struck V2, V2 was spun counter-clockwise. During the rotation, V2's right rear wheel contacted the curb, breaking the wheel housing. The Critical Pre-crash Event for V1 was "this vehicle traveling over the lane line on left side of travel lane." The Critical Reason for the Critical Pre-crash Event was "driver related factor, internal distraction." The driver admitted to not paying attention to the road and was looking in the interior of the vehicle. He could not recall exactly what he was looking at but thought he may have been lighting a cigarette. It was also note on the PAR that the driver of this vehicle was under the influence of alcohol at the time, and poor directional control was also coded as an associated factor in the crash. The Critical Pre-crash Event for V2 was "other vehicle encroachment from opposite direction - over left lane line." The Critical Reason was not coded to this vehicle. The driver of V2 stated that she believes the driver of V1 attempted to flee the scene as evidenced by the large distance V1 traveled before coming to final rest. No associated factors were coded to the driver of V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Distraction, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred early evening just before dusk at a uncontrolled intersection. Road surface wet, level asphalt. Four lanes north/south and two lanes east/west from shopping areas. Posted speed limit 56 kmph (35 mph). Vehicle one (V1), a 2003 Kia Spectra sedan driven by a 51 year-old female, was traveling south in the second lane. Vehicle two (V2), a 1993 Toyota Camry sedan driven by a 18 year-old female with one passenger, was traveling northbound in the second lane. V1 stopped in the travel lane with the intention of turning left to go into a parking lot, where she was going to park the vehicle and visit a friend. V1 turned left in front of V2, The front of V2 collided with the right front of V1. Both vehicles rotated to the northeast to end up on the corner of the driveway blocking lane 1 of northbound traffic. Both vehicles were towed due to damage. The driver of V1 stated she looked, but did not see the other vehicle. She is clinically depressed and takes medication for her depression. In addition, the driver is a diabetic who mixes her own insulin and is taking Tylenol/Codeine. The day of the crash the driver had taken her medication, but had only consumed a hot dog that morning for breakfast. During the interview the driver appeared under the influence of either alcohol or drugs. Her slow movements and confusion led to this observation by the police. Later when her medical history was revealed, the driver had low blood sugar along with anti depressants in her system. The driver's ability to operate the motor vehicle may have been impaired by her low blood sugar and pain medication. The driver is prescribed the following medications: Loprazolam, Vasotec, Lexxel and Humlin N. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction-over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

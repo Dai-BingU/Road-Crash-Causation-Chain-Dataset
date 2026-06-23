@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This four vehicle crash occurred during early evening hours on a seven lane divided roadway at an intersection. This roadway runs north and south. The vehicles involved were in the fourth left turn only lane facing northbound. This bituminous asphalt roadway is level and was under construction at the time of the crash. There were construction barrels on both sides of the roadway. The intersection is a tri-light controlled intersection with left turn arrows. The speed limit for this roadway is 72 kmph (45 mph). The night was a clear night and the roadway was dark but lit. Vehicle one (V1) a 1996 Chevrolet Z-71 full size pick up truck driven by a 18 year-old male, was traveling northbound in lane four. Vehicle two (V2) a 1995 Plymouth Neon four door sedan driven by a 70 year-old male, was stopped in the forth northbound lane. Vehicle three (V3), a 2005 Mercury Mariner SUV driven by a 28 year-old female with one passenger, was stopped in the forth northbound lane. Vehicle four (V4), a 1991 Buick Regal coupe driven by a 46 year-old female, was stopped in the forth northbound lane. V4 was stopped in the left turn only lane at the intersection with a red traffic light. V3 was stopped in the same lane behind V4. V2 was stopped in the same lane behind V3. V1 was traveling in the same lane. V1's front impacted V2's back. V2's front was pushed into V3's back. V3's front was pushed into V4's back. After V1's initial impact with V2, V1's driver put V1 in reverse and attempted to leave the scene. V1 moved right of V2 and passed V2 and V3 on the right. V1 then went left and it's left side impacted V4's right side where it came to a final rest. V2, V3 and V4 came to final rest in their original travel lanes. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: type of driver error unknown. This driver refused the interview and vehicle inspection. It may be noted that the driver of V1 had a BAC of 0.17 according to the police report. The critical pre-crash event for V was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason not coded to this vehicle. V3 and V4 were not involved in first harmful event. The critical reason was not coded to either of these vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Traffic present problem 
+Vehicle 2:  Drugs, Traffic present problem 
+Vehicle 3:  Driver Fatigue, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown decision error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

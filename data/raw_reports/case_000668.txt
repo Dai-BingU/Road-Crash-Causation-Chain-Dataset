@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a Friday evening on a 4-lane highway divided by a guardrail (two lanes in each direction). The sun was just setting and conditions were clear and dry. The posted speed limit was 89 kmph (55 mph). V1, a 1992 GMC Jimmy, was driven by a 23-year old female. She was traveling northbound in the left lane and then for an unknown reason, her vehicle crossed from the second lane to the first lane, and then continued off of the roadway to the right. At that point, the front of V1 struck the rear of a disabled vehicle, a 2001 Pontiac Grand Prix. This impact pushed the disabled vehicle into the guardrail. After impact, V1 spun off of the parked vehicle, rotating clockwise before coming to final rest facing south, straddling both lanes of travel. The driver refused an interview after consulting with her attorney. There was a notation on the police report that the driver of V1 indicated that a phantom vehicle hit her and caused her to swerve. The evidence does not point to a previous impact, as the only other damage to the vehicle was already rusted. The police report also indicated that when first questioned, the driver of V1 stated that the phantom vehicle had just cut her off, forcing her to swerve to the right (she did not mention any contact). It should also be noted that the police report indicated that the BAC test result was 0.189. The Critical Pre-crash Event for V1 was when it departed the roadway on the right side. The Critical Reason for the Critical Pre-crash Event was coded as poor directional control. An associated factor was alcohol use.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Performance, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

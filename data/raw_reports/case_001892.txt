@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on an east / west urban interstate in the eastbound lanes. Eastbound the interstate had three lanes of travel with a guardrail on the left side separating the roadway from a wooded area with a steep drop. The roadway was straight and level with paved shoulders on either side. The crash occurred at mid-afternoon on a weekend under daylight and dry conditions. The posted speed limit was 89 KPH / 55 MPH. Vehicle 1, a 1997 Honda Civic, was traveling in the second eastbound lane when it crossed the dashed line to its right and impacted the left rear side of Vehicle 2, a 2003 Ford Mustang. After impact, Vehicle 1 crossed the right fog line and paved shoulder and went off the right side of the roadway still traveling eastbound, coming to rest on the other side of a grassy ditch on the right side of the roadway approximately eighty meters east of POI. Vehicle 2 went into a counter-clockwise spin and crossed the left two lanes of traffic, onto the left shoulder and impacted a guardrail with the its right rear corner, coming to rest about 120 meters east of POI facing southwest. Both vehicles were towed due to damage. Vehicle 1 was driven by a 35-year old male who was the beneficiary of deployed frontal air bags while wearing his lap and shoulder belt. He was uninjured in the crash. The driver of Vehicle 1 was charged by police with DUI. The driver had 2 different narcotics in his system at the time of the crash and also admitted to using marijuana that day. The Critical Pre-crash Event for Vehicle 1 was "This vehicle traveling: Over the lane line on right side of travel lane." The Critical Reason for the Critical Pre-crash Event was coded as a recognition error - internal distraction. Another contributing factor coded was poor directional control (failure to control vehicle with skill ordinarily expected). Fatigue was coded since the driver had slept only 2 ½ hours the morning of the crash and that was 10 hours pre-crash. The driver stated he was in a hurry to get home and had been on the phone just before the crash. He then dropped his phone on the floor, went to look for it and that was when his car departed his lane to the right. Vehicle 2 was driven by a 20-year old female who was belted and uninjured in the crash. Her airbag was not deployed. The Critical Pre-crash Event for Vehicle 2 was "Other vehicle encroachment: From adjacent lane (same direction) - over left lane line." The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. This vehicle had no associated factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Cell Phone Use, Distraction, Driver Fatigue, Driver Performance, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

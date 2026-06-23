@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the northbound lanes of a six-lane, divided, urban roadway with a raised concrete curb median. There were four northbound lanes and two left turn lanes. The roadway had a posted speed of 45 mph (72 kmph). The approach to the intersection had a grade of 4% downhill. The grade at the intersection was 3% uphill. Conditions were daylight and dry with clear skies. The crash occurred in the early afternoon hours on a weekday. Vehicle one was a 1999 International 9200 tractor pulling one trailer. Vehicle two was a Chevrolet Tahoe sport utility. Vehicle three was a 2005 Pontiac Sunfire coupe. V1 was traveling northbound in lane two approaching the intersection. V2 was stopped at the intersection in lane one. V3 was stopped at the intersection in lane two. While V1 was approaching the intersection and traveling downhill, the driver discovered that his brakes had failed. When he reached V2 and V3 at the intersection, he attempted to steer between the two vehicles. The right front side of V1 contacted the left rear side of V2. At the same moment, the left front side of V1 contacted the right side of V3. V1 continued another 190 feet through the intersection, coming to rest in the roadway. V2 and V3 traveled a short distance and came to rest. V1 was driven by a 47-year old male who was uninjured. He stated that he realized his brakes had failed and he just wanted to do what he could to not cause a serious crash. He estimated his travel speed to be 30 mph at the point of impact. V1 was inspected after the crash and an airbrake hose to the trailer was found to be loose. This was repaired and then V1 continued in service after the crash. The Critical Precrash Event for V1 was when another vehicle was stopped in his lane. The Critical Reason for the crash was a brake failure. V2 was driven by a 48-year old male who was uninjured. He expressed a lot of anger at the occurrence of the crash and refused to be interviewed or to have his vehicle inspected. V2 was not towed due to damage. The Critical Precrash Event for V2 was another vehicle traveling in the same direction with higher speed. No Critical Reason was coded to this driver. V3 was driven by a 20-year old female who suffered possible injuries but was not treated. She was persuaded by the driver of V2 to also refuse my interview, and was upset that the crash had occurred. V3 was towed due to damage. No Critical Precrash Event and no Critical Reason were coded to V3 because it was not involved in the first harmful event. No associated factors were coded to the driver of V3.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Degraded braking capability
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

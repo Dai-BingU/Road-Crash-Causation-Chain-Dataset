@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on the east roadside of a two-lane, northbound roadway. There was a northbound and southbound lane of travel, divided by a painted, asphalt median. The north bound travel direction was curved right with a 3% downhill grade and +8% superelevation. Conditions were dark and dry with clear skies. The crash occurred in the mid-evening hours of a weeknight. Vehicle one was a 1991 Honda Accord sedan traveling northbound in lane one negotiating a right curve. V1 traveled off the right side of the roadway and collided with a pair of trees, striking with the front plane. V1 came to rest against the two trees. V1 was driven by a 28-year old male who was transported to a local trauma center. He stated that he had recently discontinued use of a medication for preventing seizures, at the recommendation of his doctor. He recalls being in the middle of a drive home and then waking up in an ambulance. The investigating officer estimated the travel and impact speeds of this vehicle to be 72 and 64 kmph (45 and 40 mph). V1 was towed due to damage. The Critical Precrash Event for V1 was this vehicle traveling off the edge of the road on the right side. The Critical Precrash Event was a physical impairment of the ability to act. This driver had discontinued use of the prescription medication for seizures four days prior to the crash. He had been diagnosed with epilepsy, and had not had a seizure recently. The driver was unemployed at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

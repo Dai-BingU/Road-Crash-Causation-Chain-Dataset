@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of a two-way roadway with one-lane in each direction and a two-way roadway with two lanes in each direction. It was daylight and the conditions were clear with no adverse conditions. The roadway was level and had a posted speed limit of 48kmph (30mph). Vehicle # 1 was a 1999 Dodge Caravan, which was traveling northbound on the two-way roadway with one lane in each direction. As he crossed the intersection he was contacted on the right side by the front of Vehicle # 2. The Dodge Caravan (Vehicle # 1) was driven by a 66-year old male who did not sustain any injuries. The driver declined to participate in the study, but a witness stated that he stopped for the light, and then proceeded through the intersection while he had the red light. The minivan was towed due to damage. The Critical Pre-crash Event for Vehicle # 1 was coded as: This vehicle traveling, crossing through intersection. The Critical Reason for the Critical Event was coded as; Driver related error, Illegal maneuver. The associated factors were coded unknown. Vehicle # 2 was a 1988 Toyota Camry, which was traveling westbound on the left lane of the roadway. As he proceeded through the intersection, he contacted the right side of Vehicle # 1. The Toyota Camry (Vehicle# 2) was driven by a 57-year old male who did not sustain any injuries. The Camry was driven from the scene. The driver declined to participate in the study. The Critical Pre-crash Event for Vehicle # 2 was coded as: Other vehicle encroaching into lane, from crossing street, across path. The Critical Reason for the critical Event was not coded for this vehicle because the driver was not thought to have contributed to the crash. No other associated factors were coded to the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

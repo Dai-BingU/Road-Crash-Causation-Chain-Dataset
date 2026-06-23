@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred on a bridge that was part of a rural secondary arterial road that ran east/west and had one lane in each direction. The road was divided by a painted double yellow line. The westbound approach to the crash location consisted of a curve (radius=253.4m) right that was bordered by trees on either side and then as the road straightened out there was a bridge over a portion of lake that was about 140m long. The speed limit on the road was 72kph/45mph. Conditions at the time of the crash were daylight with heavy glare from the southwest reflecting from the lakes surface, and dry in the early afternoon on a weekend. V1 was a 2005 Ford F-150 extended cab pickup heading west on the road when after it rounded the curve right and started onto the bridge it crossed the centerline and sideswiped (left side to left side) V2, a 2003 GMC Yukon that was traveling east. V1 then sideswiped V3 in the same way. V3 was a 2003 Lincoln Aviator also traveling east on the road immediately behind V2. V1 then continued to head west in the eastbound lane and struck V4 a 1988 Jaguar XJS that was traveling east, head-on. V1 and V4 came to rest at impact. V1 and V4 were towed from the scene. V2 and V3 were turned around on the bridge by their drivers and as soon as they received permission by police drove from the scene. V1 was driven by a forty-year-old belted male who along with his two passengers was uninjured in the crash. He was driving his two children home after picking them up at their mother's home. When he came around the curve the sun just hit him in the eyes and he couldn't see anything. He started slowing down and must have blacked out or something because he doesn't remember hitting anything. He had also only recently returned home from an overseas deployment (military) where he saw combat. The Critical Precrash Event for V1 was “this vehicle traveling over the lane line on the left side of the travel lane”. The Critical Reason was coded as an environmental factor---“glare”. This driver complained immediately in his interview that he was temporarily blinded by the glare as he rounded the curve and broke cover of the trees. The driver had also taken some allergy medication earlier that day along with some blood pressure medication. Poor directional control was coded to this vehicle. The combat tour was coded as work related stress along with some longer hours than he was used to. His divorce also seemed to be weighing on his mind pretty heavily. V2 was driven by a thirty-seven year old belted female who was not injured in the crash. She stated that she was on her way to a salon when about halfway across the bridge she saw the pickup (V1) headed over the line toward her. I hit my brakes but didn't have anywhere to go. He (V1) hit me first on the left tire it felt like, then went a little down the side of my Yukon. Then her caused all that other mess. The Critical Precrash Event for V2 was “other vehicle encroachment from the opposite direction over the left lane line”. The Critical Reason was not coded to this vehicle. The driver had recent (7 weeks old) knee reconstruction surgery but stated that she was not taking any medications at the time of the crash. V3 was driven by a fifty two year old belted male who along with his three passengers was not injured in the crash. V3 was not involved in the 1st harmful event and the critical reason was not coded to this vehicle. No contributing factors were coded to this vehicle. V4 was also driven by a fifty two year old belted male who sustained possible injuries and was transported to a medical facility for treatment.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Driver Stress/Emotion, Drugs, Weather/Environment present problem 
+Vehicle 2:  Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Glare
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

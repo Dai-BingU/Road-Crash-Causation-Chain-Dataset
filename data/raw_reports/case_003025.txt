@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three vehicle crash occurred during early morning daylight hours at the stoplight controlled intersection of an eight lane grass median divided highway and a three lane two way roadway. Although there are left turn lanes at all approaches to the intersection, the traffic controls are not set up for left turns. The roadways are level and straight. The speed limit for the highway is 80 kmph (50 mph). The speed limit on the intersecting roadway is 48 kmph (30 mph). The roadway is dry bituminous. Vehicle one (V1), a 1997 Ford Escort sedan driven by a 33 year-old female with two passengers was stopped in the westbound left turn lane, waiting for traffic to clear in order to turn left (south). Vehicle two (V2), a 1996 Ford Windstar, driven by a 42 year-old male with one passenger was eastbound in the third traffic lane approaching the intersection. Vehicle three (V3), a 2004 Jeep Cherokee, driven by a 34 year-old male with one passenger was stopped in the first northbound lane at the intersection, waiting on the traffic light. Per interview with the driver V1, there was a non-contacted vehicle, a large truck, stopped eastbound in the fourth lane (left turn lane) at the intersection. Driver V1's view of approaching eastbound traffic was blocked by the non-contacted truck. V1 entered the intersection, proceeded to turn left and crossed the second eastbound thru lane, where it was struck in the right side by the front of V2. V1 rotated counterclockwise and came to final rest pointing east in the first eastbound thru lane just east of the intersection. V2 after the initial impact veered right, continued across the intersection in a south easterly direction, and struck the left side of V3 with it's front end. V2 came to final rest there. V3, after being struck in the left side rolled one quarter turn to the right, coming to final rest on it's right side on the grass at the edge of the roadway. All three vehicles were towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded as a driver related factor: turned with obstructed view. V1's sightline to V2 was restricted by the non-contacted vehicle. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason was not coded to this vehicle. V3 was not involved in first harmful event. The critical reason was not coded to this vehicle. Case Note: Upon interviewing Witness #2, who was also the investigating officer on the crash scene, the witness stated that although he doesn't remember any non-contacted truck eastbound in the left turn lane, it is "entirely possible that after seeing the crash I developed 'tunnel vision' and gave my fullest attention to dealing with the immediate concerns of the crash scene. There might have been a truck there and I just didn't notice it in the ensuing excitement."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Stress/Emotion, Drugs, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

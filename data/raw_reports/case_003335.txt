@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a barrier divided east/west urban interstate during the late afternoon rush hour on a weekday. The interstate had five lanes, emergency lane, and shoulder in each direction divided by a concrete barrier wall. It is straight and level with a posted speed 89kph (55mph) and 2002 traffic counts indicate the ten lanes carry just over 150,000 vehicles per day. Conditions were daylight, clear and dry. The setting afternoon sun was beginning to drop on the horizon but neither of the involved drivers felt that the sun was an issue. Vehicle #1 was a 1997 Nissan Altima traveling westbound in the fourth lane. Traffic was heavy and congested and tends to slow abruptly during rush hour in the area as it approaches an interchange undergoing construction one mile ahead. Vehicle #2, a 2000 Ford Ranger, was westbound in the same lane ahead of the Altima. Vehicle #2 was forced to come to a stop due to congestion and the front of vehicle #1 struck the back of vehicle #2. Both vehicles came to rest near impact. Vehicle #1 was driven by a 38-year-old male that was belted and not injured in the crash. The frontal airbags deployed and the vehicle was towed due to damage. The Altima's driver drove the road daily and was very familiar with the area and the vehicle. He estimated he was traveling 1½ car lengths behind the Ranger prior to impact. Vehicle #1's driver stated he wanted to change lanes to the right due to lighter traffic flow in the right lanes and because he needed to exit soon for fuel. He glanced over his right shoulder momentarily to check for a break in traffic and when he looked forward again as he began the lane change traffic ahead had come to a stop. The Altima didn't leave any pre impact skids and the driver doesn't believe he got to the brake pedal prior to impact. Police charged him with following too closely. The Critical Precrash Event for Vehicle #1 was coded other vehicle in lane traveling in same direction while decelerating since impact apparently occurred immediately after Vehicle #2 came to a stop. The Critical Reason for the Critical Event was a recognition error, external distraction. Other associated factors assigned to Vehicle #1 were inadequate surveillance-failed to look far enough ahead, and rush hour congestion. The driver of Vehicle #2 was a 45-year-old male that was belted and not injured in the collision. The Ranger sustained only minor damage and was driven from the scene. Vehicle #2's driver stated traffic slowed abruptly and just after he came to a complete stop he was struck by the Altima. The Critical Precrash Event for the Ranger was other vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. An associated factor was congestion.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a two-lane rural roadway. The roadway was undivided with dirt shoulders. The posted speed limit was 72 kph (45 mph) and had a 1% uphill grade. Conditions were daytime with cloud cover. The roadway surface was wet from an earlier shower. The crash occurred in the mid-morning hours of a weekday. Vehicle one was a 1997 Chevrolet Blazer sport utility. Vehicle two was a 2002 Ford Mustang coupe. V1 was traveling south on a concrete driveway approaching the roadway. V2 was traveling east approaching the intersecting driveway. V1 proceeded towards the roadway intending to turn left. The driver had just left his home, and discovered that the braking system was inoperable when he reached the roadway. V1 entered the roadway. The front of V2 contacted the right rear of V1. V1 rotated clockwise 90 degrees, went into a ditch and then rolled onto its left side, coming to rest on the south roadside. V2 continued towards final rest on the south shoulder. Vehicle one was driven by a 26-year old male who was uninjured. He mentioned that he had just left his house for the day and was in the driveway approaching the roadway when he realized the brakes didn't work. He stated that there was nothing he could do except go across the roadway. He had one other passenger who was uninjured. The Blazer was not towed due to damage. The Critical Precrash Event for V1 was control loss due to disabling vehicle failure. The Critical Reason for this Critical Event was brake system failure. There were no other associated factors coded to this driver. Vehicle two was driven by a 37-year old male who was uninjured. He stated that he was in the middle of moving belongings from one house to another and was on his last load at the time of the crash. The Mustang was towed due to damage. The Critical Precrash Event for V2 was the other vehicle encroachment from a crossing street turning into the same direction of travel. No Critical Reason was coded to this driver. An associated factor for this driver might be the stress of moving, though the driver denied feeling upset.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Brakes failed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

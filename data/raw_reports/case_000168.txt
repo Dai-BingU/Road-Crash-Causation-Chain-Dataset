@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at the intersection of an eight-lane road and a two-lane road. This intersection is controlled by traffic lights, which were functioning at the time of the crash. The speed limit for the roadway is 54 kmph (35 mph). The eight-lane road is divided with five-lanes for westbound traffic before the intersection and four-lanes for eastbound traffic before the intersection. This road is straight and level with no defects. This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one, a 1995 Nissan Maxima was eastbound in the fourth lane. Vehicle two, a 2004 Mitsubishi Galant was westbound in the third lane. Vehicle one turned left at the intersection and the front of vehicle two impacted the right of vehicle one. Vehicle one and vehicle two then side slapped with the right side of vehicle one impacting the left side of vehicle two. Vehicle one rotated counterclockwise and the right side impacted a guardrail. Vehicle one came to rest in the first westbound lane against the guardrail. Vehicle two came to rest in the intersection. Both vehicles were towed due to damage. The driver of vehicle one, a forty-three year old female was coming from the movie theatre and heading home at the time of the crash. This driver had just started driving less than a minute ago. This driver stated that she did not have a green arrow but did have the green light but the opposing traffic was stopped. This driver assumed she could go. This driver never saw vehicle two until it went into the intersection. This driver was taking an unknown Allergy and an unknown High Blood Pressure medication. This driver drives this vehicle daily and over this road on a daily basis. The driver of vehicle two, a thirty-two year old male was coming from a convention and heading to dinner. This driver is from out of town but comes into town about three or four times a year for conventions. This driver drives this vehicle daily and but only rarely over this roadway. The critical pre-crash event for vehicle one was coded as: this vehicle traveling, turning left at intersection. The critical reason for the critical pre-crash event was attributed to vehicle one and was coded as a driver related decision factor: false assumption of other's actions. The critical pre-crash event for vehicle two was coded as: other vehicle encroachment, from opposite direction- over left lane line. The critical reason for the critical pre-crash event for vehicle two was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Stress/Emotion, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

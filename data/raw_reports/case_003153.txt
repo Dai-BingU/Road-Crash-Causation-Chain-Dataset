@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred on a Thursday evening in the five westbound lanes of a 10-lane divided concrete interstate highway. This crash occurred in lane 2, on a downhill slope, approaching an interchange to another highway. Traffic was heavy with congestion due to rush hour traffic. The posted sped limit was 97 kmph (60 mph). Vehicle one (V1) is a 2000 Volkswagen Jetta 4-door sedan, which was trailing all of the other vehicles involved in this collision in the number-two travel lane. Vehicle two (V2) a 1999 K1500 Suburban was stopped in traffic facing westbound in lane 2. Vehicle three (V3) a 1990 Subaru Legacy was stopped facing westbound in lane two, ahead of V2. Vehicle four (V4) a 2004 GMC Yukon was stopped facing westbound in lane two ahead of V3. The front of V1 impacted with the rear of V2 pushing it forward. V2 then impacted the rear of V3 pushing V3 into the rear of V4. V2, V3 and V4 were driven from the scene, and V1 was pushed to the shoulder and then towed due to damage. The driver of V1 is a 23-year-old female who was fatigued from running a 5K marathon four days prior to the collision. She had been on the road for 3 to 3.5 hours and traveled approximately 370-kilometers (230-miles). She drives this road monthly, and is fairly familiar with the area. She was driving westbound in lane two with the cruise control on and set at 97 kmph (60 mph). She was consuming an alcohol beverage "as an energy drink". The police indicated on the police report that her ability was not impaired; however, she was cited with having an open container. This driver's cell phone was located in the lower center console, and plugged into the cigarette lighter. Her phone began to ring, and she looked down at it, to see who was calling, and decided not to answer it, when she looked up, traffic ahead of her was at a complete stop. She applied the brakes, and impacted the rear of V2. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for this crash was assigned to the driver of V1 as a driver recognition error; an internal distraction. The driver's cell phone ringing distracted the driver and she took her eyes off of the forward traffic too long. Other contributing factors for this driver are fatigue, and inattention. The driver of V2 is a 32-year-old female, was traveling with her children to visit family, she had traveled approximately 193-kilometers (120 miles) prior to the collision. This was the first time driving this vehicle, as the driver just purchased this vehicle four hours prior to the collision. This driver may have been slightly fatigued from moving heavy boxes while cleaning out the garage a few days prior. This vehicle was stopped completely for approximately 10 seconds prior to being impacted in the rear by V1. The driver of V2 observed through her rear view mirror that V1 was headed for her vehicle. There was nowhere for her to move to, and there was no suitable avoidance action to take. The critical pre-crash event for V2 was coded: other motor vehicle in lane/ traveling in same direction with higher speed. The critical reason for the critical event was not assigned to the driver of V2. The driver of V3 was unable to be reached for interview, V3 was not involved in first harmful event. The critical reason for the critical event was also not assigned to the driver of V3. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Distraction, Driver Fatigue, Drugs, Speed/Distance, Surveillance, Traffic present problem 
+Vehicle 2:  Driver Inexperience, Drugs, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at a four way urban intersection controlled by an on colors traffic signal. V1 and V2 were both traveling west on the east/west two-way, four-lane, roadway. The straight, level, bituminous road had a posted speed limit of 72 kmh (45 mph). Conditions at the time of the weekend, evening crash were dark but lighted, cloudy and dry. V1, a 1999 Ford Ranger XLT pick-up, was driven by a 53 year-old male who was looking for a restaurant and unfamiliar with the area. The driver stated that he stopped at the red traffic signal about 40 meters behind v2, who was also stopped, in lane two. The driver looked down to reach for a cigarette and was talking with his wife, who was the front right passenger. His wife was dialing a cell phone and also looking down. The driver noticed a vehicle to his left in the left turn only lane begin to proceed. That driver was turning left on a left turn green arrow for his lane. The driver of v1 was unfamiliar with the local traffic signal system where the left turn lane cycles while the through lanes are still stopped. The driver accelerated forward in his lane, without looking up, thinking that he also had a green light. The front of v1 struck the back of v2, who was still stopped. The driver of v1 had no avoidance maneuvers. Both vehicles came to rest straight ahead, in the intersection. V1 was drivable after the crash. The fully restrained driver and 52 year-old passenger refused treatment at the scene. V2, a 2004 Pontiac Grand Prix 4 door driven by a 51 year-old female on her way home from a fast food restaurant, was stopped in lane two at the light. The driver, who was looking at the traffic signal, did not see v1 prior to the crash and had no avoidance maneuvers. V2 was towed from the scene due to damage. The fully restrained driver was transported to a local trauma center. Her husband, the front right 71 year-old male passenger, refused treatment at the scene. The Critical Precrash Event coded to v1 was 'other motor vehicle in lane-stopped.' The Critical Reason for the Critical Event coded was a 'driver related factor, recognition error of internal distraction,' due to the driver looking down for the cigarette. A Contributing Factor of 'talking to passenger' was coded. An additional factor of 'unfamiliarity with the area, and the local traffic signal system' was also coded. The Critical Precrash Event coded to v2 was 'other motor vehicle in lane traveling in same direction with higher speed'. The Critical Reason for the Critical Event was not coded to this vehicle and no contributing factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

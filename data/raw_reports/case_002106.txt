@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at a four-leg intersection in a residential neighborhood. The two-way roadway without lane lines was controlled by stop signs in the east and west directions. The north and south directions of travel were not controlled. The roadway had a posted speed limit of 40 kmph (25 mph) and the northbound lane had a 6% downhill grade. The westbound lane had a 4% downhill grade. Conditions were daylight and dry with clear skies. The setting was mid-afternoon hours on a weekday. Vehicle one was a 1999 Dodge Durango sport utility traveling northbound in lane one. Vehicle two was a 1994 Ford Explorer sport utility traveling westbound in lane one. Both vehicles proceeded through the intersection. The front of v1 impacted the left of v2. V1 then came to rest in the intersection. V2 rotated counter-clockwise 90 degrees before rolling right. V2 rolled two quarter turns while traveling off the northwest corner of the intersection. It struck a mailbox with its right plane and then came to rest on its right/top side in a yard. The Dodge Durango (v1) was driven by a 17-year old male who was treated on scene with possible injuries. The mother of this driver stated that he was coming home from the pool with a friend. She said he was going straight through a neighborhood intersection when another vehicle ran the stop sign to his right causing the crash. His estimated travel and impact speeds were 40 kmph (25 mph). The Dodge sport utility was not towed due to police-reported damage. The Critical Precrash Event for v1 was other vehicle encroachment from a crossing street across the path of this vehicle. No Critical Reason was coded to this driver. This driver wore contact lenses for a nearsighted condition. He has been driving for a period of 15 months. Both rear tires on his Dodge Durango were at an inadequate tread depth. The Ford Explorer (v2) was driven by a 17-year old female who was transported to a local trauma center with non-incapacitating injuries. She stated that she was heading to a store from a friend's house. She was driving down a neighborhood street when she accidentally ran a stop sign. She saw the other vehicle about to hit her, so she braked without lockup. She was then struck in the left rear. All she remembers after that is rolling over and coming to rest on the vehicle's side. Her estimated travel and impact speeds were 48 kmph (30 mph). The Ford sport utility was towed due to damage. The Critical Precrash Event for v2 was this vehicle traveling passing through an intersection. The Critical Reason was a driver related factor of inadequate surveillance (looked but did not see). She had 230 pounds of tools and equipment in the vehicle at the time, which shifted during the rollover. She claimed to have been driving for almost 3 years, despite being only 17 years old.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Vehicle present problem 
+Vehicle 2:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

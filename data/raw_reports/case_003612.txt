@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in an interchange area. The southbound exit ramp consisted of three one-way lanes, with an uphill slope of more than two percent. The east/west roadway was a two-way, eight-lane road divided by a concrete curbed median. The slope of this road leading into the interchange was also uphill, greater than two percent. These were straight, asphalt roads with a posted speed of 48 kmph (30 mph) in each direction. Conditions were daylight on a weekday morning with dry roads and clear skies. Traffic flow was normal. V1, a 1998 Lincoln Continental with one occupant, was traveling southbound in lane three. V2, a 2004 Jaguar X-type with one occupant, was traveling westbound in lane two. Both vehicles were approaching the same intersection. V1 attempted to turn left at the intersection. The left side of V1 made contact with the front of V2. The impact was followed immediately by sideslap contact between the left side of V1 and the right side of V2. Both vehicles were towed due to damage. Both drivers were transported due to injury. V1, the Lincoln Continental, was driven by a 53-year old female, who sustained possible injuries. She stated that she was on her way to a doctor's appointment. She was behind a steady stream of traffic getting off the interstate. According to the driver, her arrow was green up until just before she got to the intersection. At that time the arrow turned yellow, and the driver entered the intersection with the intent to turn left, under a yellow arrow. She claimed that the other driver ran a red light. The Critical Precrash Event for V1 was this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was a decision error, illegal maneuver. The driver tried to beat the light, and continued to follow the traffic stream after her light turned red. One associated factor was a sightline restriction. As evidenced by the approach images, shrubbery combined with the uphill slope, created a sightline restriction. V2, the Jaguar X-type, was driven by a 40-year old female, who sustained possible injuries. She said that she was on her way to work from home. According to the driver, she was called in to work at 2:00am that morning to deliver a baby. She went home at 5:30am to sleep, but was called back into work just two and a half hours later. She indicated that she had worked ten days straight, that her job was too stressful, she had recent arguments with her boss regarding her shifts, and that she has been seriously thinking about quitting her job. While in the emergency room, the driver also made comments about suicide, and recent relationship problems. The Critical Precrash Event for V2 was other vehicle encroachment, from crossing street, turning into opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. There were numerous associated factors for this driver. Fatigue was probably the strongest associated factor. There were emotional factors, such as employment concerns, family concerns, and personal concerns. The driver was also thought to be in a hurry. This driver had been involved in arguments pertaining to employment prior to the crash, and was experiencing a great deal of work related stress.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway present problem 
+Vehicle 2:  Distraction, Driver Fatigue, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

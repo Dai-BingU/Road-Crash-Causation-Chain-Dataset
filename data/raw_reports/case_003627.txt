@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-lane east/west undivided roadway. The road curves to the north with a radius of curvature of 137 meters and impact occurred just east of the curves apex. Recent traffic counts indicate the road carries 4,310 vehicles per day at the crash site. The speed limit was 48kph (30mph). Conditions were dark and wet with heavy rain falling on a weekday night. Vehicle #1 was a 2003 GMC Envoy traveling east on the roadway with a 9% downgrade 50 meters prior to impact. Vehicle #2, a 1992 Dodge Daytona, was westbound with no grade, but a 9% negative super elevation to the north (right) 20 meters prior to impact. The Daytona (V2) was unable to negotiate the curve right (north) in the wet conditions and slid into the oncoming lane contacting the SUV's (V1) front left corner with its front left corner. After impact Vehicle #1 continued east and came to rest facing east 60 meters east of impact. Vehicle #2 rotated 270 degrees counterclockwise and came to rest facing north in the eastbound lane 14 meters west of impact. Both vehicles were towed due to damage. Vehicle #1 was driven by a 38-year old male that was belted. His wife, age 35, and two children, ages 6 and 3 were also belted. All four were transported to an area hospital with minor injuries. The driver stated that we were coming around the corner and he saw the other car come flying at like 89-97 kmph (55-60 mph). It was wet and V2 couldn't hold the curve. V2 started sliding straight and came over into my lane and hit us. No airbags in the vehicle deployed. EDR data extracted from the vehicle indicated the SUV was traveling 40kph (25mph) five seconds prior to algorithm enable and 48kph (30mph) one-second prior to AE. There was no braking during that five-second window. The Critical Precrash Event for Vehicle #1 was other vehicle encroaching from opposite direction over left lane. The Critical Reason for the Critical Event was not coded to this vehicle. The only associated factors were wet roads and rain. The driver was wearing glasses to correct a nearsighted condition. Vehicle #2 was operated by a 20-year old male that was not belted with a deployed frontal airbag. He was transported to an area hospital with serious injuries. The interviewee stated that the only thing the driver remembers is that he hydroplaned into the other lane and got hit head on. He tried to correct it but just kept sliding in the rain. The Critical Precrash Event for Vehicle #2 was this vehicle traveling over lane line on left side of travel lane. The Critical Reason for the Critical Event was too fast for conditions. Associated factors included wet roads, rain, and tire deficiency. The right front and right rear tires had 0 and 1mm of tread, respectively.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Too fast for conditions (specify) :

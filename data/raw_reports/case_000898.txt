@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary Case 2007-43-192 This two-vehicle crash occurred in the late evening of a weekend on an interstate highway. The 8-lane divided highway consists of four eastbound and four westbound lanes with a concrete divider separating the traffic. At the location of this crash there is an interchange with an additional exit lane for eastbound traffic. The roads are straight, flat, and have a posted speed limit of 105 kmph (65 mph). The weather conditions were cloudy, dark and it had been raining all day. V1, a 2007 Nissan Versa with one occupant, was eastbound in lane one approaching an exit ramp. V2, an unknown vehicle, was also eastbound in lane two behind V1. V2 attempted to merge into lane one and struck the back of V1, which caused V1 to depart the wet roadway. V1 struck a highway sign with its left side and drove to a controlled stop on the grass roadside. V1's driver was not injured but his rental car was towed from the scene. V2's driver did not stop after the crash and never returned to the scene. The driver of V1 is a 28-year-old male and Army solider that was on holiday break when he was involved in this crash. He left his home this morning and drove 10 hours to an airport intending to pickup a fellow soldier before they would both return to their Army base. This driver states that as he was traveling east in lane one (airport exit lane), an unknown vehicle traveling in the lane to his left cut into the exit lane and struck the back of his car. He said he never saw V2 until its headlights were directly behind him upon the impact. There were no other vehicles behind him as he was exiting. After the impact this driver lost control of his rental car on the wet roadway and departed the highway where it sideswiped a road sign and came to a stop on the grass roadside. EMS was dispatched to the scene but this driver was not injured and refused treatment. The Critical Precrash Event for V1 was coded other vehicle encroachment from adjacent lane - over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. The Critical Precrash Event for V2 was coded this vehicle traveling over the lane line on right side of travel lane. The Critical Reason for the Critical Event was coded driver related with an unknown decision error.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Drugs, Roadway, Weather/Environment present problem 
+Vehicle 2:  Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Changing lanes
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Unknown decision error

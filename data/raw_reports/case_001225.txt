@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the northbound lanes of a two-way, six-lane, suburban roadway. There were three northbound lanes, a northbound left turn lane, and two southbound lanes. The roadway had a posted speed limit of 72 kmph (45 mph) and the northbound lanes had a 1% uphill grade. Conditions were daylight and dry with clear skies. The setting was early afternoon on a weekday. Vehicle one was a 1994 Mazda Navajo compact sport utility traveling northbound in lane one approaching the intersection. Vehicle two was a 1997 Dodge Dakota pickup stopped facing west at the signal-controlled intersection. Witnesses report the light changing to red in the north/south directions and green in the east/west directions. Both vehicles proceeded through the intersection. The right plane of V1 was impacted by the front plane of V2. V1 then rolled left one complete turn, coming to rest on its wheels in the intersection. V1 was driven by a 22-year old male who was uninjured. He stated that he was making some lunch deliveries for work and was returning to the restaurant at the time of the crash. He recalls driving through the intersection and being struck without warning, and no chance for avoidance. He estimated his impact and travel speeds to be 72 kmph (45 mph). The sport utility was towed due to damage. The Critical Precrash Event for V1 was this vehicle traveling crossing over intersection. The Critical Reason was a recognition error of inadequate surveillance. An associated factor was the possible rush to complete more deliveries for his job, in hopes of higher commissions. The driver had corrected vision. V2 was driven by a 65-year old male who was uninjured. He stated that he was on his way to a doctor's appointment during this trip. He had waited at the red light for approximately 30 seconds before proceeding on green. He noted that the other driver appeared to be traveling at a high rate of speed, and by the time he noticed him he didn't have time to react in avoidance. This driver estimated his travel and impact speeds to be 8 kmph (5 mph). The pickup continued in service from the crash. The Critical Precrash Event for V2 was other motor vehicle in lane in crossover. No Critical Reason was coded to this vehicle. Associated factors for this driver included his recent retirement and corrected vision.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

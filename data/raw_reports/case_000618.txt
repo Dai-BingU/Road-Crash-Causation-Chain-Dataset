@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at the intersection of a north/south, eight lane, divided, straight roadway with a speed limit of 48 kph (30 mph) and an eastbound, four lane, one-way, level roadway with a speed limit of 56 kph (35 mph). The southbound lanes consist of three through lanes and a left turn lane. This crash occurred during daylight hours with light traffic. There were no adverse weather conditions at the time of the crash. Traffic at the intersection is controlled by signals. Vehicle one (V1), a 2006 Saab 9-3 with one occupant, was southbound in lane three. Vehicle two (V2), a 2001 Ford F-150 with two occupants, was eastbound in lane three. V1 entered the intersection on a red light and the front of V1 struck the left side of V2. V1 came to rest facing east in the intersection. V2 came to rest facing west east of the intersection. Both vehicles were towed due to damage. None of the occupants was transported. The driver of V1, a twenty year-old female, was traveling from a bank to work. She was well rested, in good health and comfortable with her vehicle. She drives this route daily. This driver stated that she assumed the traffic light was green when she entered the intersection. She stated the light at this intersection is always green after she stopped at the previous light. She did not see V2 prior to impact and therefore attempted no evasive maneuvers. She also stated that she was on her way to her first day of work at a new job. The critical pre-crash event for V1 was coded as "this vehicle traveling; crossing over (passing through) intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; inattention." This driver was listening to the radio and was a little concerned about learning a new job. She failed to look to the right and notice V2 entering the intersection. Additionally, she falsely assumed the light would be green because of prior experience of driving the route. The driver of V2, a twenty-three year-old male and an eighteen year-old male passenger, were traveling from the passenger's home to the passenger's school. The driver was well rested, in good health and comfortable with his vehicle. He drives this route daily. The driver stated that he had been talking to the passenger at the time of the collision. He failed to look to his left and detect V1 prior to entering the intersection. The critical pre-crash event for V2 was coded as "other vehicle encroachment; from crossing street, across path." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Stress/Emotion, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

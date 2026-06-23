@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The three-vehicle rear-end collision occurred during daylight hours on a weekday. At the time of the crash there were no adverse atmospheric conditions and the roadway was free of defects. Vehicle one (V1), a 1994 Plymouth Voyager minivan, was traveling westbound in a 56 kmph (35 mph) zone, in the second lane of a four-lane (two westbound lanes, two eastbound), two-way, undivided, dry, level, bituminous roadway, approaching slower traffic ahead. Vehicle two (V2), a 2005 Nissan Altima four-door sedan, was stopped ahead of V1 in the same lane. Vehicle three (V3), a 1996 Honda Accord four-door sedan, was stopped ahead of V2 in the same lane. As V1 approached V2, the driver's attention was diverted to his rear-view mirror, where he was looking at the vehicle immediately behind him. His attention retuned to the forward view too late to stop, and the front of V1 impacted the back of V2. V2 moved ahead and impacted the back of V3. All three vehicles came to rest generally in their original travel lane. The 64-year-old male driver of V1 was in good health and was well rested at the time of the crash. He reported that his attention was diverted briefly ahead and to the left, where he was looking at construction machinery. He then switched his attention rearward, where he was watching the vehicle behind him, which was trying to go around him. He applied the brakes when he recognized that a crash was imminent, but was unable to stop in time. The critical precrash event for V1 was: Other vehicle in lane, other vehicle stopped. The critical reason for the event was attributed to V1, and is coded as: driver related factor, external distraction. The 23-year-old male driver of V2 was in good health and was alert at the time of the crash. He was aware of the traffic ahead and came to a complete stop prior to the first harmful event. The critical precrash event for V2 was: other vehicle in lane, traveling in same direction with higher speed. The critical reason for the event is not attributed to V2. The 64-year-old male driver of V3 was in good health and alert at the time of the crash. He reported being completely stopped and engaged in a conversation with the passenger. He was aware that V2 had come to a complete stop behind him, but described V2 as having stopped close to his bumper. The critical precrash event for V3 was: other, not involved in first harmful event. The critical reason for the event was not attributed to V3.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Surveillance present problem 
+Vehicle 3:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

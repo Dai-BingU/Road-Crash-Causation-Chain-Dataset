@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a two lane roadway which merges with a residential roadway. The weather conditions were clear. Vehicle two which was a 1991 Ford Crown Victoria was driven by a 30 year old male was traveling north on the roadway. Vehicle one was a 2004 Toyota Sierra was driven by a 49 year old female also traveling north on the residential roadway. Vehicle one was traveling north when the driver made a U-turn onto the roadway across the path of Vehicle two. Vehicle two's front then struck Vehicle one on its left side. Attempts to talk with the Driver of Vehicle one has been unsuccessful. She stayed in her vehicle until the police arrived and avoided an interview. Researcher has left contact information at her place of residence three times with no reply. The Critical Precrash Event was coded this vehicle traveling turning left at intersection. The Critical Reason for the Critical Precrash Event was unknown reason for critical event because there was no interview with the driver of Vehicle one. Upon speaking to the driver of Vehicle two, the driver stated that he was going at a constant speed on the roadway when he saw Vehicle one begin to make a turn from the right side of the roadway to make a U-turn. He stated that he began blowing his horn but Vehicle one continued to make the turn without yielding. He said he slammed on his brakes and then struck Vehicle one. The front passenger was transported due to minor injuries. Vehicle two was towed due to damage. The Critical Precrash Event was coded other vehicle encroachment from crossing street, turning into opposite direction. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown decision error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

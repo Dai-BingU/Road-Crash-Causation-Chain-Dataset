@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of a rural north/south median divided highway and a two lane residential road. The highway is straight and level with shoulders and left turn lanes leading to a crossover that allows access to the two-lane road. The two-lane road intersected on the east and west and was controlled by stop signs. The posted speed limit on the highway was 89kph (55mph). Conditions were daylight and dry in the late afternoon on a weekday. The sun was setting, but was not believed to have been a factor in the collision. Vehicle #1 was a 1997 Buick Park Avenue traveling west on the two-lane road. Vehicle #2, a 1994 Nissan Altima, was southbound on the highway in the left lane. Vehicle #1 crossed the northbound lanes and stopped in the median crossover and waited for two non-contact southbound vehicles to turn left into the crossover. The Buick (V1) then proceeded across the southbound lanes and was struck in the right side by the front of the Nissan (V2). After initial impact Vehicle #1 rotated counterclockwise and Vehicle #2 rotated clockwise resulting in a secondary side slap impact between Vehicle #1's right and Vehicle #2's left. The Buick (V1) came to rest facing northeast in southwest corner of the intersection. The Nissan (V2) came to rest off the southwest corner of the intersection facing south. Both vehicles were towed due to damage. Vehicle #1 was operated by a 48-year old female that was belted with no deployed airbags. She was not injured in the crash. She stated that she stopped in the median crossover, waited for two other vehicles to turn left to the street she had just exited and started across the intersection. She said she looked after the other vehicles passed but didn't see any oncoming vehicles. The Critical Precrash Event for Vehicle #1 was this vehicle crossing over intersection. The Critical Reason for the Critical Event was a recognition error, inadequate surveillance. Researcher believes that the driver failed to look right again after the non-contact vehicles went past her. Associated factors included inadequate surveillance-failed to look to side. The driver was wearing prescription sunglasses that correct a nearsighted condition. She also takes several medications for various conditions. Vehicle #2 was operated by a 46-year old male that was not belted with deployed frontal airbags. He was transported to an area hospital with non-incapacitating injuries. Vehicle #2 left 22m of pre impact skids and steered into the right lane in an attempt to avoid the other vehicle. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from crossing street across path. The Critical Reason for the Critical Event was not coded to this vehicle. The only associated factor coded was the false assumption that the other vehicle would yield right of way.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

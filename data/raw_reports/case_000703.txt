@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on a north/south roadway at an intersection with an east/westbound roadway. The north/south roadway was a four-lane urban highway with a raised curb concrete median. There were four north and four southbound lanes with the following markings: lane 1 was a right turn and straight, lane 2 was straight only, lane 3 was straight only and lane four was left turn only. All lanes were controlled by a traffic signal at the intersection. The roadway had a posted speed of 56 KMPH (35 MPH). The conditions were late afternoon on a weekday with dry roads and clear skies. Vehicle # 1 was a 2002 Mercury Marquis traveling northbound in lane four going approximately 24 KMPH. Vehicle #2 was a 1999 Toyota Camry that was traveling southbound in lane one at approximately 56 KMPH, intending to travel straight through the intersection. Vehicle # 1 had a green light and attempted to make a left hand turn without giving Vehicle # 2 the right of way. Vehicle #2 also had a green light. The front of Vehicle #1 collided with the left front side of Vehicle # 2. Both vehicles came to rest upon impact. The Mercury Marquis was driven by an 82-year old male who was transported to a local hospital with injuries. He stated that he approached the intersection to make a left hand turn and never saw Vehicle # 2. The Marquis was towed due to damages. Associated factors include prescription medications used to treat arthritis pain and high blood pressure. Both medications include dizziness as a possible side effect. The Critical Precrash Event for the driver of Vehicle #1 was this vehicle turning left at an intersection. The Critical Reason for the critical precrash event was inadequate surveillance, as he did not even see Vehicle #2. He was issued a ticket for not yielding the right of way to Vehicle #2. The driver of Vehicle #2, a 38-year old female, had a green light as she went through the intersection. Vehicle #1 struck the front left side of her car. She too was injured and transported to a local hospital and her vehicle was towed due to damages. The Critical Precrash Event for the driver of Vehicle #2 was when another vehicle encroached into her lane from the opposite direction-over the left lane line. The Critical Reason was not coded to this vehicle. The driver worked as a house cleaner and performed strenuous activities for her work; however, the driver of Vehicle #2 reported that she was not fatigued at the time of the crash. The driver of Vehicle #2 was not thought to have taken any actions that may have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

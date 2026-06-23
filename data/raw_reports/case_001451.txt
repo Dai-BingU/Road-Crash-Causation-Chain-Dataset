@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in lane one of the two westbound lanes of a four lane, urban roadway. This was a straight, bituminous, two way roadway, positive> 2% grade, with a posted speed limit of 56kmph(35mph). It was early afternoon on a weekday, the road was dry and the sky was cloudy. Traffic flow was normal. V1, a 2000 Ford Focus station wagon occupied only by a 55-year-old male driver, was traveling westbound in lane two. V1 was approximately one-two car lengths behind a box van that was also westbound in lane 2. A non-contact vehicle was westbound in lane one next to and just ahead of v1. The non-contact vehicle abruptly changed lanes into lane 2 in front of v1. V2, an in transit, but unoccupied 2004 Labrie medium heavy recycling truck was picking up recycling on a house to house route, westbound in lane one. The driver had stopped in front of a house to do the curbside pickup, set the parking brake and exited the truck with required flashers activated. V1 moved into lane 1 and rear-ended v2. Both vehicles came to rest facing west in lane one of the westbound lanes. V1 was towed. The driver of v1 was uninjured. The driver of v1 stated that he was traveling about 48kmph(30mph) and was very uncomfortable with the following distance behind the non-contact vehicle after it got between him and the box van. He changed lanes to the right so as not to tailgate the non-contact vehicle and never saw v2 sitting still in lane one until he was in that lane and he had no time to take any avoidance actions. The Critical Precrash Event for v1 was “This vehicle traveling over the lane line on the right side of travel”. The Critical Reason for the Critical precrash Event was an other decision error-focused on an extraneous vehicle. Associated factors include changing lanes with obstructed view, inadequate surveillance, failure to look far enough ahead and the actions of the other vehicle creating a sightline restriction. A complete inspection was obtained for v2 but the Precrash Assessment form was coded as no driver present. The driver of v2 was interviewed as a witness per zone center instruction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Roadway, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：No driver present
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other- No driver present
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other decision error (specify) :
+ 2 ：No Driver Present- No driver present

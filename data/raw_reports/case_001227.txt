@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a north/south U.S. Highway that had five lanes with two each direction and a center left turn only lane. There was no physical divider. The highway was straight and level with a speed limit of 64kph/40mph. A secondary arterial road intersected from the west. It had three lanes, one westbound, one right turn only (south), and one that was straight across into a condo community or left (north) turn. The secondary road was also straight and level with a speed limit of 48kph/30mph. Just to the south of the condo community entrance was a private business lot that was located on the east side of the highway also. The intersection was controlled by electronic traffic signals and there was no pedestrian crossing. Conditions at the time of the crash were daylight and dry on a weekday afternoon. Vehicle #1 was a 1993 Mercury Cougar traveling east in the right lane on the arterial road. As it passed into the intersection instead of performing a standard right turn the driver attempted to cross all five lanes of the highway to get to the private lot on the east side of the highway. Vehicle #2 was a 1994 Chevrolet Cavalier traveling north in the right lane of the Highway when it was struck on the left side by the front of Vehicle #1. Vehicle #1 then rotated counterclockwise and came to rest facing northeast straddling both northbound lanes of the highway. Vehicle #2 ran partially over the right curb and came to rest also facing northeast just a few meters north of impact. Both Vehicles were towed from the scene. Vehicle #1, was driven by a forty three year old female who was unlicensed at the time of the crash. It is unknown whether or not she was belted. She was uninjured in the crash. The driver admitted to taking several types of pills without prescriptions to the researcher but stated she “never does it right before she drives”. The critical precrash event for Vehicle #1 was this vehicle traveling, passing through an intersection. The critical reason was an illegal maneuver (crossing all lanes of travel. The driver was taking several medications (not prescribed); she also stated that she had been dwelling on some recent unfortunate events in her life (her house burned down 1 week prior to the crash). She was coded with a recognition error due to the driver focusing on her destination on the other side of the intersection instead of approaching traffic. Her illegal maneuver was also coded. She was in a hurry to get her cell bill paid and to get a check cashed. Vehicle #2, was driven by a thirty eight year old belted female whose airbags did not deploy. She was transported to a local hospital for treatment of non-incapacitating injuries. The driver did refuse an interview after several attempts at contact. The critical precrash event for Vehicle #2 was other vehicle encroachment, from a crossing street across path. The critical reason was not coded to this vehicle. The driver was taking several medications for treatment of a terminal condition. No other factors were coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Stress/Emotion, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary A two vehicle collision occurred at 1810 hours on a Wednesday. The collision occurred at a four-leg intersection comprised by an east/west roadway and a north/south roadway. The east/west roadway is undivided, dry, level, asphalt and consists of five lanes including a left turn lane. The north/south roadway is undivided, dry, level, asphalt and consists of two lanes on the north side and three lanes on the south side. The south side is an entrance to a shopping mall. The east/west roadway is designated 35 mph (56 kmph). The intersection is controlled by a tri-light signal that was working properly at the time of the collision. There are no protective arrows for traffic turning left at the intersection. Vehicle one (V1) is a 1993 Pontiac Grand Am 4-door sedan traveling east in the number one lane. Vehicle two (V2) is a 1993 Toyota Camry 4-door station wagon traveling west in the left turn lane. V2 was stopped for 5-10 seconds prior to proceeding to make the intended left turn. The traffic signal turned amber, and then red for east/west bound traffic when V2 initiated the left turn. As V2 made its left turn its right plane was impacted by the front of V1. V1 came to rest at impact in the intersection. V2 came to rest facing southwest near the southwest corner in the intersection. Both vehicles were towed from the scene. The driver of V1 is a 45-year-old male who is familiar with the vehicle and drives the route weekly. He had a lot of things on his mind at the time of the accident. He had some issues with his ex-landlord in the past few days. He works an exploited children's hot line. This job requires him to be available 24 hours a day 7 days a week, depending on when the calls come in. It is very likely, however not admitted by the driver, that he was on the cell phone at the time. He claimed he worked 112 hours in the last 7 days. The critical pre-crash event for V1 was coded: other motor vehicle encroachment-from opposite direction-over left lane line. The critical reason was coded to V1 as a driver related factor: illegal maneuver. This driver entered the intersection on a red traffic control signal and assumed the driver of V2 would stop. A witness is positive the light was solid red for V1 as it entered the intersection. The driver of V2 is an inexperienced driver with 4 years of experience. The driver of V2 is 20-years old and was uncomfortable with the density of the traffic. He said he saw V1 slow down as if he was going to stop so he made his left turn with that assumption. The critical pre-crash event for V2 was coded: this vehicle traveling-turning left at intersection. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Stress/Emotion present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

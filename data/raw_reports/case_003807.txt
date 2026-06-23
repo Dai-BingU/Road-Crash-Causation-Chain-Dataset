@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a three-lane section of southbound interstate that was divided from the northbound lanes by a concrete barrier wall. The road had a slight curve left (east) with a radius measuring 703m. There was a positive precrash grade of 3.3% and a positive point of impact grade of 3.1%. The roadway was super elevated 6.4%. The roadway featured a posted speed limit of 89 kmph (55mph). Conditions at the time of the crash were heavy rain with water accumulating on the roadway. The crash occurred in the early afternoon on a weekday. V1, a 1999 Chevrolet Camaro, was southbound on the interstate in lane one when it lost traction while passing V2 (a 1991 Ford F800 straight truck traveling south in lane 2) on the right. V1 rotated counterclockwise and departed its lane to its left crossing in front of V2. The front of V2 contacted the front of V1 with V2 partially in lanes 2 and 3. V1 then went backwards at about a 30-degree angle into the center wall, contacting it with its back right corner. V2 then steered right, went into a lateral skid to its left and impacted the center wall with its back and coming to rest there perpendicular to the travel lanes facing west. V1 continued backward and impacted the wall a second time (event#4) with the same area of its right and came to rest facing northwest straddling lane 3 and the left shoulder about 60 meters south of the 1st event. V1 was towed from the scene, and V2 as well (as a precaution against further damage). The driver of V1, a 32-year-old belted female (whose airbags did not deploy) was not transported to any medical facilities despite sustaining minor injuries. After observing the researcher inspecting V1 she requested that he not do anything further (i.e. EDR download). She also gave a false phone # to police and researcher. The Critical Precrash Event for V1 was coded this vehicle control loss due to poor road conditions. The Critical Reason was coded as driver related, traveling too fast for conditions. The rain and wet roads were coded as associated factors. The driver of V2, a 39-year-old belted male, and his passenger were uninjured in the crash. They were in a company vehicle at the time of the crash and when the company safety inspector arrived on scene he terminated the interview. The Critical Precrash Event for V2 was coded other vehicle encroachment from adjacent lane (same direction) over the right lane line. The critical reason was not coded to this vehicle. Weather conditions were coded as associated factors as well as traffic flow interruption because according to the driver of V2 all traffic had slowed down due to the rain (except V1).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Speed/Distance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Roadway, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

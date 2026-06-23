@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a secondary arterial road in a business district on a section of road that passed over an interstate where there were interstate ramps connected to the arterial. The arterial ran east/west and had four lanes divided by a concrete median. There were two eastbound and two westbound lanes and if traveling east the two lanes narrowed to one lane at the east end of the median with a warning sign advising of the traffic pattern change. The arterial was intersected on the south (right if eastbound) by an interstate off ramp that was uninvolved. It was also intersected on the north (at the traffic pattern change) by an access road that acted in part as an interstate on ramp. The eastbound lanes were straight with a slight negative grade of 2.4%. The speed limit was 48kph (30mph). The crash occurred in the early evening at the tail end of rush hour under daylight (the sun was about 20 minutes away from setting) and dry conditions. V1 was an unknown Dodge Ram truck traveling east in lane 2 when it rear-ended V2, a 1994 Pontiac Sunbird also traveling east in lane 2 that was slowing to turn left (north) onto the access road. Contact was made about 4 meters east of the median end. V2 after impact traveled across the westbound lanes and came to rest facing north in a private drive. It was towed from the scene. V1 was a hit and run vehicle and fled the scene (i.e.…not towed). The Critical Precrash Event for V1 was other vehicle in lane traveling same direction while decelerating. The Critical Reason was judged to be an unknown recognition error. The driver of V1 was attributed with insufficient steering and braking inputs. A traffic flow interruption factor of V2 slowing in preparation for left turn was also included. V2 was driven by a 21 year old belted male who was not injured in the crash and fled the scene on foot supposedly to get help although he never returned to check on his passengers which included 2 pregnant women and a male occupant (it is believed due to immigration status) none of which were injured in the crash. The Critical Precrash Event for V2 was other vehicle in lane traveling in same direction with higher speed. The Critical Reason was not attributed to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

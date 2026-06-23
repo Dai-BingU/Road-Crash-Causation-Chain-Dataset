@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, five lane, divided roadway with a positive barrier. The road was dry, traveled asphalt. The travel direction of vehicle one (V1) was a downgrade with a slight right hand curve. The posted speed limit was 97 kph (60 mph). The roadway is a well-traveled highway with medium to heavy traffic at the time of the crash. There were no adverse weather conditions. The accident time was early evening on a Saturday on a sunny, clear day. There was debris in the roadway that caused the driver to lose control. V1 was a 1995 Nissan 200SX northbound in the fourth lane. The driver was following another vehicle in her lane of travel when the other vehicle swerved to miss some debris in the travel lane. V1 then struck and ran over the debris in the roadway and as a result the vehicle pulled to the left, ran off the roadway and struck the concrete median barrier. The vehicle mounted the barrier before the vehicle rolled over onto its roof as it slid on its top before coming to rest on the shoulder facing northeast. As the vehicle slid and rotated on the shoulder the rear of the vehicle struck the barrier. The driver of V1 was a 28-year-old female who is familiar with the vehicle but rarely drives the route. She explained that she did not attempt to avoid the debris in the roadway; consequently the vehicle ran over the debris that pulled the vehicle to the left, into the barrier. There was no evidence of contact damage to the vehicle as a result of contact with the debris. The investigating officer could not locate the debris at the crash scene. The pre-event movement for V1 was coded "negotiating a curve." The critical pre-crash event was "Object or animal: object in roadway". The critical reason for the critical event was coded as an environment related factor: other highway related condition (specified as: Debris on the roadway (vehicle ran over this debris, initiating the control loss)). The driver was following too close to the vehicle in front and therefore did not have time to attempt any evasive maneuvers.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Object in roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)

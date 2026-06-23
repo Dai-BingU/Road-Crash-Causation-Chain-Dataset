@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a two-lane undivided residential roadway in the mid-evening hours. This north/south roadway was straight and level with a posted speed limit of 40 kmph (25 mph). There were no traffic control devices and no streetlamps in the area of this crash. There were no adverse atmospheric conditions at the time of the crash and the roadway was dry. Vehicle one, a 1998 Volkswagen Passat, was traveling northbound approaching several parked vehicles. Vehicle one (V1) was traveling north in lane one. The parked vehicles were in the parking lane on the east side of the roadway. Vehicle two (V2) was a legally parked 1999 Plymouth Voyager minivan that was facing north. Vehicle three (V3) was a 1986 Pontiac Fiero that was parked in front of V2 facing south. As V1 approached the parked vehicles, it departed its travel lane to the right and entered the parking lane, impacting the back of V2 with its front end. The impact between V1 and V2 resulted in V2 being pushed forward into V3's front end. Vehicles one and two came to an uncontrolled final rest still engaged and facing north, with the right side V2 resting on a curb. Vehicle three was pushed from its parked position into the north travel lane, coming to final rest facing in a southeasterly direction. The driver of V1, a 22-year-old female, suffered major injuries and was transported by ambulance to a local hospital for treatment. No other occupant was present in the vehicle when the crash occurred. The mother of the driver was interviewed at the scene by police and stated that her daughter had not been sleeping well due to illness. The Critical Pre-crash Event coded for V1 was "this vehicle traveling over the lane line on the right side of the travel lane." The Critical Reason was coded as "sleeping, that is, actually asleep." Associated factors coded to the driver of V1 include fatigue, use of a prescription narcotic analgesic and a prescription tranquilizer, and illness. Medical records indicated that when admitted to the hospital, the driver of V1 had a fever of 103 degrees.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

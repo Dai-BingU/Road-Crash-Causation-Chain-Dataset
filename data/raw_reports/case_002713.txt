@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a three-lane intersection controlled by a traffic control signal. Conditions were daylight and dry in the early evening on a weekday. The posted speed limit was 45 MPH. V1 was a 1997 Plymouth Seabreeze sedan turning right at the intersection controlled by a traffic control signal. V2, a 2005 Ford Focus hatchback, was stopped at the red traffic control signal in the 2nd travel lane facing eastbound. V3, a 2002 Chevy Express Van, was also stopped at the red traffic control signal in the 1st traffic lane facing eastbound. The front of V1 struck the left side of V2. V2 was then pushed into V3. The right side of V2 struck the left side of V3 in the eastbound lane. V1 came to final rest facing westbound. V2 and V3 came to final rest facing southeast. V1 was driven by a 44-year-old male who sustained moderate injuries and was transported to a local hospital. He stated that he was talking to the passenger, when he realized his brakes were not working properly. He made a wide right hand turn and struck V2. Prior to the impact the driver of V1 applied his foot brakes and hand brakes but both were not working properly. V1 was traveling between 31-40 MPH at the time of impact. V1 was driven away from the scene. The critical precrash event for V1 was this vehicle turning right at the intersection. The critical reason for the critical precrash event was a vehicle related factor, a degraded braking capability. Associated factors coded to this driver were the driver was fatigued and only getting about 4 hours of sleep on a daily basis, the driver was also taking several medications due to his ailments, the driver was conversing with the passenger which may have distracted him, a driver recognition factor, a financial problem, a driver performance factor, poor directional control, and the driver also experienced work-related stress/pressure- trouble collecting disability checks. V2 was driven by a 33-year-old female who was not injured. She stated that she was stopped at the red traffic control signal when she saw V1 heading towards her left side. The driver of V1 did not take any avoidance actions. V2 was towed due to damage. The critical precrash event coded to V2 was other motor vehicle in lane, traveling in opposite direction. No critical reason for the critical precrash event was coded to this driver. V3 was driven by a 48-year-old female who sustained minor injuries but was not transported. She stated that she was stopped at the red traffic control signal when she saw V2 come into her lane and strike her vehicle. The driver of V3 did not take any avoidance actions. V3 was driven away from the scene. No critical precrash event was coded for V3 because this vehicle was not involved in the first harmful event. Therefore, no critical reason was coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Inexperience, Driver Performance, Driver Physical, Driver Stress/Emotion, Drugs, Vehicle present problem 
+Vehicle 3:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Motor Vehicle in Lane- Traveling in opposite direction
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Degraded braking capability
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

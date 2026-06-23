@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred on a divided, straight, level roadway on the approach to a traffic signal-controlled intersection. The eastbound lanes in the precrash area consist of two through lanes, a left turn lane and a right turn lane. The speed limit on this roadway is 72 kmph (45 mph). This crash occurred during daylight hours with rush hour congestion and no adverse atmospheric conditions. Vehicle one (V1), a 2002 Ford F150 pickup, was eastbound in lane three. Vehicle two (V2), a 1996 Cadillac Deville, and vehicle three (V3), a 2004 Chevrolet Avalanche, were in front of V1 and stopped for the traffic signal. The front of V1 struck the back of V2. V2 was pushed forward and the front struck the back of V3. V2 was towed due to damage. The driver of V1, a forty-two-year-old male, was traveling with a female passenger, from a store to a bank. He was healthy, well rested and familiar with his vehicle. He drives this roadway weekly. This driver stated that he just didn't notice that V2 was stopped. The driver of V2, a sixty-seven-year-old female, was traveling from work to home. She was well rested, healthy and comfortable with her vehicle. This driver drives this roadway daily. The driver of V3, a thirty-three-year-old male, was not interviewed. No information is available for this driver. The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)." The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in same direction with higher speed." The critical pre-crash event for V3 was coded as "other; not involved in first harmful event." The critical pre-crash event for V2 and V3 was not coded to these vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

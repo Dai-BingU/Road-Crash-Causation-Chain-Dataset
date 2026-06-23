@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at a T-intersection of an east/west roadway with a north/south neighborhood street. The roadway had a posted speed limit of 72 kmph (45 mph) and a 2% uphill grade. Conditions were daylight and dry with cloudy skies. The setting was early evening hours on a weekday. Vehicle one was a 1994 Lexus ES-300 sedan traveling eastbound in lane one. Vehicle two was a 2002 Isuzu NPR box truck traveling behind V1. V1 slowed suddenly to turn right onto the side street. V2 did not anticipate this movement and subsequently steered right while braking to avoid a rear end collision. V2 went off the right side of the road and entering the southbound traffic lane V2's left front corner struck the right plane of V1. V1 came to rest just south of the intersection. V2 then traveled off the northbound roadside and encountered an embankment, forcing V2 to roll left one quarter turn onto its left plane. The Lexus ES-300 (V1) was driven by a 22-year old male who was reported to have possible injuries but was not transported. He stated that he was heading home from running some errands and turning into his neighborhood. He noticed the truck behind him but didn't think anything of it. After he began turning, he was struck unexpectedly in the right side. He estimated his travel speed at impact to be 24 kmph (15 mph). The sedan was not towed due to damage. The Critical Precrash Event for V1 was the “this vehicle traveling turning right at intersection”. No Critical Reason was coded to this driver. The driver has asthma, and was taking medication for Attention Deficit Disorder. He was wearing corrective lenses and sunglasses. He is not currently employed. The Isuzu NPR (V2) was driven by a 23-year old male who was reported to have non-incapacitating injuries but was not transported. His employer stated that he was heading from a job site back to the company shop. He said the truck appeared to lose control on braking. The investigating officer estimated the travel and impact speeds to be 72 kmph (45 mph) and 40 kmph (25 mph), respectively. The box truck was towed due to damage. The Critical Precrash Event for V2 was the “this vehicle traveling off the edge of the road on the right side”. The Critical Reason was a “false assumption of other users actions”. This driver travels this particular stretch of roadway on a weekly basis.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+Vehicle 2:  Decision, Distraction, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Passing or overtaking another vehicle
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

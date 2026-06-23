@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a four-lane roadway. There were to westbound lanes and two eastbound lanes. This was a straight, level, bituminous roadway with a posted speed of 64 kmph (40mph). It was evening on a weekday. The road was dry and the sky was clear. Traffic flow was moderately congested. V1, a 2001 Chevrolet Silverado with one occupant, was trying to turn left onto the road from a driveway. Cars were stopped in lane one for a stoplight up ahead. One of the cars waved her out. V1 stated that she inched out but did not see V2 until it was too late. V2, a 1999 Pontiac Grand Am with one occupant was traveling in lane two. The driver of V2 stated that she did not see V1 until it was too late and the front of V2 contacted the left of V1 before they both came to final rest in the roadway. V1, the 2001 Chevrolet Sierra was driven by a 56-year old female who reported no injuries. She advised that she had just left the restaurant and was pulling out of their parking lot. She advised that she was traveling 2-16 kmph (1-11mph) when she saw V2 and applied the brakes. She was unable to avoid hitting V2. The Critical Precrash Event for the driver of V1 was "this vehicle turning left at intersection". The Critical Reason for the Critical Precrash Event was an environmental related factor: “view obstructed by other vehicle”. The vehicle waving her out and the other vehicles backed up behind them did not allow her to see V2 coming. An associated factor was that she had turned with an obstructed view. V2, the 1999 Pontiac Grand Am was driven by an 18-year old female who reported minor injuries. She stated that the cars were backed up in lane one and so she could not see V1 entering the roadway. She was traveling in lane two between 50-64 kmph (31-40 mph) and did not have time to attempt any avoidance actions. The Critical Precrash Event for the driver of V2 was “other motor vehicle encroachment: from driveway, turning into opposite direction”. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2 and she was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Decision, Roadway, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- View obstructed by other vehicles
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

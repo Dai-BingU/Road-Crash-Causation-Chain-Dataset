@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred shortly after noon during daylight hours in the southbound lane of a two lane undivided roadway at a four-way intersection. A double yellow lane line divides the north and southbound lanes. This is a straight, level bituminous roadway with a posted speed limit of 40 kmph (25 mph). It was early afternoon on a weekday and the road was dry and the sky was clear. The traffic was flowing at a normal pace however; there are no traffic controls for the north/south sides of this four-way intersection. Vehicle one (V 1), a 1996 Ford F-250 pickup truck driven by a 16 year-old male was traveling southbound in the first lane approaching an intersection. Vehicle two (V 2), a 2002 Chevrolet Malibu sedan driven by a 40 year-old female with one passenger was traveling southbound in the first lane approaching same intersection in front of V 1. V 2 stopped in the intersection waiting on northbound traffic to clear to make a left turn. V 1's front made contact with V 2's back. Both vehicles came to final rest in the intersection. V 1 was driven from the scene. V 2 was towed due to damage. V 1 driver advised that he was coming from a library and running errands. He is employed in the building just north of the intersection. He further advised that he looked into the store to see who was working. He stated that he only looked for a couple of seconds. When he looked forward again he noticed V 2 in front of him stopped with it's left turn signal on. He attempted to brake and steer right in an attempt to avoid contact. He also stated that his brakes were not in the best condition. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical pre-crash event was a driver related recognition factor: external distraction. V 1 was distracted by his place of employment on the west side of the roadway. An associated factor was the condition of V 1's brakes. Another associated factor was coded to driver one as an inexperienced driver, this driver has been driving less than a year. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

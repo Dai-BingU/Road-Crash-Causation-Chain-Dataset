@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a two-way, two-lane, not physically divided roadway. The posted speed limit was 56 kmph (35 mph) and there were no traffic signals associated with this stretch of roadway. The roadway was dry and there were no adverse atmospheric conditions at the time of the incident. The roadway is considered to be level where the crash occurred. Vehicle one (V1) was a white minivan traveling west and intending to continue straight on the roadway. Vehicle two (V2) was a red pick-up truck, legally parked on the eastbound shoulder of the roadway. There was an occupant in the driver's side of the vehicle, however V2 should be considered not in transport. V1 crossed the double yellow lines and struck a wall first before continuing forward, and making contact with the parked pick-up. The impact between vehicles caused V2 to be pushed up over the curb before coming to final rest. V1 had considerable damage to the front and driver side of the vehicle and had to be removed from the scene. V2 had minor damage and did not have to be removed from the scene. The driver of V1 was taken to the hospital as a precautionary measure, although injuries were thought to be minor. The follow up interview with the driver revealed that he might have been talking on the CB radio right before the crash occurred, but he wasn't entirely certain. He stated that he was traveling approximately 50-64 kmph (31-40 mph) when all of a sudden, he veered left and side swiped a brick wall. He then applied the foot brakes but could not bring the vehicle to a stop before contacting the pick-up truck that was parked on the shoulder. No fatigue or health related issues were thought to have contributed to this crash. The driver did say that he had diabetes and was taking medication to help control that condition. In addition, he was taking a cholesterol-lowering medication as well. The Critical Precrash Event was coded as: this vehicle traveling, over the lane line on the left side of travel lane. The Critical Reason for the Critical Precrash Event was coded as an internal distraction. As previously stated, V2 was traveling east on the roadway before pulling off to the shoulder where he used his cell phone. While parked on the shoulder, he observed V1 cross the double yellow lane line and make impact with a stone wall. After the initial impact, V1 continue forward before making contact with V2. The occupant complained of neck pain and was taken to the hospital for evaluation. A brief interview was conducted with the occupant of V2. He claimed that he thought the driver of V1 had passed out and that is what caused him to cross into the opposite lane. The was no Critical Precrash Event or Critical Reason coded to this vehicle because he was not involved in the first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

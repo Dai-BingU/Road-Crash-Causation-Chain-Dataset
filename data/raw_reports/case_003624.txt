@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two way, five-lane urban roadway, with two lanes in each direction and a center left turn lane. The straight, level, bituminous road has a posted speed limit of 72 kmh (45 mph). Conditions at the time of the weekday, afternoon crash were daylight, clear and dry. V1, a 2005 Ford Explorer 4 door, driven by a 48 year-old female on her way from home to the bank, was eastbound on the road in lane one. V1 observed V2, a city bus, traveling in lane two slightly ahead of her. Both vehicles were traveling at approximately 64 kmh (40 mph) on the road. Suddenly, V2 moved into lane one and slowed to a stop. The driver of V1 braked, but the front of V1 struck the back of V2. A 57 year-old male drove V2, a 2000 Gillig full size city bus carrying 13 adult passengers, on his bus route. V2 was traveling eastbound in lane two when he noticed regular customers standing at a recently discontinued bus stop. The driver stated that he checked his right mirrors, thought it was clear, looked again at the people and moved towards the curb and stopped. V2 was still at an angle at impact and at final rest. The witness, the 2nd vehicle behind V1, stated that she saw the bus cut in front of V2 and stop suddenly. She stated that although V2 braked, the driver could not avoid the crash. Both vehicles were towed from the scene due to damage. Both belted drivers refused treatment. One pregnant bus passenger was transported to a local trauma center. The Critical Precrash Event coded to V1 was 'other vehicle encroachment from adjacent lane (same direction) over the left lane line.' The Critical Reason was not coded to this driver. The Critical Precrash Event coded to V2 was 'other motor vehicle in lane traveling in same direction with higher speed.' The Critical Reason coded to this driver was 'inadequate surveillance.' An associated factor was coded for this driver of an external distraction- the people unexpectedly at the former bus stop on the side of the road.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+Vehicle 2:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

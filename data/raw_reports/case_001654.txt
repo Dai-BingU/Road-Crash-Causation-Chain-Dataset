@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash involving two vehicles occurred at 0800 hours at an intersection without traffic lights. The speed limit for the roadway is 64 kmph (40 mph) for the north to south lanes and 48 kmph (30 mph) for the west-east roadway. The road is a level 3-lane divided (no positive barrier) blacktop roadway north/south and a downhill 2- lane undivided (two-way traffic) concrete roadway east/west. East/west traffic controlled by a stop sign at the intersection of both roadways. The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. V 1, a 2005 Kia Sedona driven by a 25 year-old female with four passengers was traveling east in the first lane, crossing through the intersection. V 2, a 1992 Mazda Protégé, driven by a 30 year-old male with two passengers was traveling south in the first lane. The driver of V 2 applied his brakes to avoid a collision with V 1. V 2 veered into the second lane while entering the intersection. The front of V 2 impacted the left side of V 1. V 2 came to rest at the point of impact, facing south lanes. V 1 continued to make its left turn. The driver steered the vehicle into the next side street, located north of the intersection. V 2 was towed from the scene. V 1 was able to driver from the scene. The left rear occupant of V 2 (3 occupants total) was taken to a private physician by a private vehicle. There were no injuries reported in V # 1. (5 occupants total) The critical event for V 1 was coded this vehicle traveling turning left at intersection. The critical reason driver related factor "inadequate surveillance" This vehicle did not stop long enough at the stop sign,the driver said she looked to the left and did not see V 2 coming from the left. while turning left, she looked to the right to observe the northbound traffic. The driver of V 2 stated he saw her looking to the right. The critical event for V 2 was coded other vehicle encroachment from crossing street turning into opposite direction. Critical reason not coded to this vehicle. The driver of V 2 claimed he was traveling with 38 kph (25 mph) before he applied the brakes. The length of the skid marks and the fact the vehicle veered to the left into lane 2 prior to the crash, suggest V 2 was going faster than 40 kmph (25 mph).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

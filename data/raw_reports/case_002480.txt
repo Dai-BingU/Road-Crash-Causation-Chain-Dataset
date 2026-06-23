@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the middle of a busy four-way intersection. The asphalt road was dry, level, and there weren't any adverse weather conditions. The posted speed limit for the roadway was 56 kmph (35 mph). The crossing roadway's speed limit was 40 kmph (25 mph). The intersection was controlled by traffic signals for all directions. The crash occurred on a weekday in the early evening while still daylight. The traffic flow was very busy and at times congested. The roadway had six lanes - three north and three south. Lane one on each side was used for turning lanes during the daytime and at nighttime as parking lanes. There were no arrows or signs to indicate this. Vehicle one, a 1997 Dodge Stratus 4-door sedan, was headed south, and stopped, at the red light, in lane two. Vehicle one was behind a non-contact vehicle, also headed south. According to the driver of V1, the light turned green and the vehicle in front of her didn't move. The driver of V1 went around the vehicle to proceed with her left turn. However, just as she began her turn, the front of her vehicle struck the front left of Vehicle two, a 1995 Honda Accord 4-door sedan that was traveling north on the same roadway in the opposite direction. After the initial impact, V1 rotated counterclockwise and came to final rest facing north. V2 continued traveling northward, rotating slightly clockwise. The driver of V1, a 22-year old female, was obviously shaken after the crash. She stated that she didn't see V2 coming from the opposite direction, although there was a lot of traffic at the busy intersection. She said that she traveled on the roadway daily and never had a problem before. She said that the non-contact vehicle in front of her obstructed her view. She felt that if maybe she'd waited until the vehicle in front of her had cleared first, the crash might not have happened. The driver of V2, a 43-year old female, said that there was nothing unusual about her drive that day other then V1 turning in front of her and striking her front left. She said that she couldn't understand why the driver of V1 didn't see the oncoming traffic. She reported that she didn't have time enough to apply her brakes. The Critical Pre-Crash Event for V1 was when it began to turn left at the intersection. The Critical Reason for the Critical Pre-Crash Event was also coded as inadequate surveillance, failed to look. An associated factor coded to this driver was a conversation with her right front seat passenger. The Critical Pre-crash Event for V2 was when V1 encroached into her lane from the opposite direction, over the left lane line. The Critical Reason was not coded to V2 and no associated factors were coded to the driver of V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

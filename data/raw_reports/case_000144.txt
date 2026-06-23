@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an urban 4-legged intersection. The conditions at the time of the weekday afternoon crash were clear and dry, and there was a moderate amount of traffic. V1, a 1999 Chrysler 300, driven by a 56 year old male, was stopped at a stop sign on a two-way, two lane, straight, level bituminous road with a speed limit of 40kmh (25mph). V1, after stopping for 5 seconds, checked left and right for traffic on the cross street, and then proceeded northbound across the other road. V2, a 1994 Ford Crown Victoria taxi cab on duty, driven by a 47 year old male with a 53 year old female passenger in the right back seat, was traveling westbound in lane one on a straight, 5 lane roadway. V2 was going uphill on the concrete road, with a posted speed limit of 64kmh (40mph). A witness traveling in the lane behind v2 noticed v1 crossing the road and realized v1 was on a path to strike v2. The witness stated that neither vehicle braked or swerved to avoid the crash. The front of v1 struck the left passenger side of v2 in lane one of the 5- lane roadway. V1 then rotated counterclockwise and the right side of v1 contacted the back left corner of v2. V1 left the roadway on the northwest corner and came to rest 38 meters from the point of impact facing west. V2 rotated clockwise and left the roadway on the same corner and came to rest facing northwest. Both vehicles were towed from the scene due to damage. The fully restrained driver and rear seat passengers of v1, ages 2 and 5 years old, refused treatment. The fully restrained driver, and the 53 year-old female, unrestrained back right passenger of v2, was transported to a local trauma center due to injuries. The Critical Precrash event coded to the driver of v1 was "This vehicle traveling-crossing over (passing through) intersection. The Critical Reason for the Critical Event coded was 'Internal distraction.' The driver of v1 stated that he stopped at the stop sign, looked both ways for traffic, thought it was clear, and began to cross the intersection. The driver noticed that the 2 year old in the back right child seat was attempting to stand up and began to tell her to sit. The driver stated that he looked straight and then used the rear view mirror and turned around to yell at the child, while proceeding across the street. Contributing Factors were coded because the driver had many concerns related to his family and financial situation on his mind. The crash happened after a court appointment regarding his daughters, and on his way to pay off his debts. An Associated Factor was coded for possible side effects from the prescribed medication he takes for a disabling depression disorder and high blood pressure that include dizziness, drowsiness, sleeplessness and confusion. In addition the driver stated that whenever he has his daughters, like the night before the crash, his sleep is very interrupted. The Critical Precrash Event coded to the driver of v2 was 'other vehicle encroachment-from crossing street, across path'. The Critical Reason was not coded to v2. A Contributing Factor coded to the driver of v2 was 'impending problem masked by traffic flow.'
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Stress/Emotion, Drugs, Surveillance present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

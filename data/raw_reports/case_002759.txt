@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in a four-legged, traffic signal-controlled intersection. The north/south trafficway is level and divided by a curbed median. The northbound lanes curve to the right and consist of three through lanes and a left turn lane. The southbound lanes curve to the left and consist of three through lanes, a right turn lane and a left turn lane. The speed limit for this roadway is 80 kmph (50 mph). The east/west roadway is undivided, straight and level. The speed limit for this roadway is 40 kmph (25 mph). This crash occurred during daylight hours with congested traffic and no adverse atmospheric conditions. Vehicle one (V1), a 2002 GMC Sierra K1500 pickup, was northbound in lane four. Vehicle two (V2), a 2005 Chevrolet Silverado K1500 pickup, was southbound in lane two. Vehicle three (V3), a 1995 Honda Accord, was stopped in eastbound in lane two. V1 entered the intersection turning left and the right side was struck by the front of V2. The front of V1 then struck the front of V3. V2 and V3 were towed due to damage. The driver of V1, a twenty-year-old female, was traveling with a two-month-old female passenger. This driver was not interviewed; no further information is available for this driver. The driver of V2, a twenty-three-year-old male, was traveling from his home to a store. He was healthy, well rested and familiar with his vehicle. He travels this route daily. This driver stated that he noticed V1 but did not realize that it would turn in front of him. He applied the brakes at the last minute in an attempt to avoid a crash. The driver of V3, a thirty-year-old male, was traveling from a gas station to work. He was well rested, healthy and familiar with his vehicle. He travels this route daily. The critical pre-crash event for V1 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; type of driver error unknown." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from opposite direction - over left lane line." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle." The critical pre-crash event for V3 was coded as "other; not involved first harmful event." The critical reason for the critical pre-crash event for V3 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic present problem 
+Vehicle 2:  Decision, Traffic present problem 
+Vehicle 3:  Distraction, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

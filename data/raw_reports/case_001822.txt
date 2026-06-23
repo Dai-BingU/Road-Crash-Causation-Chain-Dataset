@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred in the morning on a two-lane, two-way, left-curve, dry, level roadway. The crash occurred in a construction zone with a speed limit of 89 kmph (55 mph). The roadway has caution signs throughout the curve. There were no adverse atmospheric conditions at the time of the crash. Vehicle one, a 2004 Toyota Tacoma pick-up, was northbound and the driver fell asleep. The vehicle traveled off the right side of the road and down an embankment. The right side struck a tree. The vehicle continued forward and the front struck two trees before the vehicle came to final rest facing east. Vehicle one was towed due to damage. The driver of vehicle one, a twenty-two-year-old male, was traveling from his girlfriend's home to his home on his way to work. He drives this vehicle on this route daily. He had only six-and-a-half hours of sleep, waking up just fifteen minutes before starting this trip. His usual night's sleep is eight hours and he awoke feeling tired. He stated that he was asleep when he traveled off the road. The blood test done when this driver arrived at the hospital indicated Benzodiazepines in his system. The pre-event movement was coded as "negotiating a curve." The critical pre-crash event was coded as "this vehicle traveling off the edge of the road on the right side." The critical reason for the critical pre-crash event was coded as a driver related factor "sleeping, that is actually asleep."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

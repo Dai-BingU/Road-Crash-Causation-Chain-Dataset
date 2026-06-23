@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred mid-afternoon in a three-way intersection. Southbound traffic was controlled by a stop sign traffic device. Road surface dry asphalt, no adverse weather condition or sight restrictions. The posted speed limit 48 kMmph (30 mph). The east/west roadway has a +8% grade. Vehicle one (V1), a 1994 Yamaha 600cc motorcycle driven by a 36 year-old male, was traveling west. Vehicle two (V2), a 1993 Ford Crown Victoria sedan driven by a 39 year-old male with three passengers, was traveling south in the process of making a left turn after stopping at a stop sign, As V2 entered the intersection V1, according to witnesses was driving at a high rate of speed, changed lanes to the left and collided with the left side of V2. The driver of V1 came to final rest at the northwest corner of the intersection and the motorcycle came to rest in the intersection at point of impact. V2 came to rest facing east in the westbound lanes. Both V1 and V2 were towed from the scene, the driver of V1 was transported to a local medical facility. The critical pre-crash event for V1 was coded: other vehicle encroachment, from crossing street, turning into opposite direction. The critical reason for the critical event was not coded to this vehicle. Associative factors for V 1 driver are as follows: driver performed various decision errors (aggressive driving behaviors). V 1 driver violated a traffic signal, accelerated excessively while weaving in and out of travel lanes, and failed to look far enough ahead for possible crossing traffic. Medical reports indicated V1 driver had an abnormal level of amphetamine. The driver of V2 was on his way home from the doctor's office and was thinking about a personal matter. It was his first time driving this vehicle, but he was not in a hury and otherwise attentive to the driving task. The driver misjudged the velocity & gap needed to make the left turn in front of V2. The critical pre-crash event for V 2 was coded: this vehicle traveling, turning left a intersection. He failed to yield the right of way to V2. The critical reason for the critical event was coded to V2 as a driver related factor: misjudgment of gap or other's speed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Distraction, Driver Performance, Drugs, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Misjudgment of gap or other's speed

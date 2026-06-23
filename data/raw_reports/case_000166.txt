@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a straight, urban, four-lane north/south roadway with a center turn lane. Several fast food establishments with individual private drives were located on the west side of the road. Conditions were dry and dark with streetlights present on a Thursday night with a posted speed of 45mph (72kph). There was also an intersection 72m north of impact controlled by a traffic signal. The signal had a 80 second green sequence for the four-lane road and a 20 second green for the minor side street that intersected. Vehicle two was a 2002 Honda Odyssey minivan attempting to turn left and go north from a private drive off the west side of the road. Vehicle one, a 1996 Dodge Intrepid, was traveling southbound in the left lane of the four-lane road. The driver of vehicle two looked but did not see vehicle one and turned left from the private drive into vehicle one. Vehicle two's front struck the right front of vehicle one. The driver of vehicle two was a 36-year-old female teacher that had worked 11.5 hours, working late due to parent-teacher conferences. She left school and stopped to get something to eat for her one-hour trip home. She stated she had been stopped waiting to turn left out of the private drive for couple of minutes before attempting the turn and might have been growing impatient. In the interview she also revealed she was on her cell phone discussing the evenings conferences with her boss when the crash occurred. Vehicle two was exiting from the private drive's entrance, but based on observed traffic patterns this appeared common place. Vehicle two's driver was not injured in the crash and received a citation for failure to yield. She was belted and the airbags did not deploy on the minivan, which had a CDC of 11FDEW1 and was driven from the scene. A 70-year-old male drove vehicle one. He was transported to an area hospital with incapacitating injuries. He stated that he didn't see vehicle two until a split second before impact. He attempted to brake and left approximately 3 meters of pre impact skids and 13 meters of post impact skids. No critical reason for the crash was associated with this vehicle. Vehicle one was towed due to damage although the frontal airbags did not deploy. It had a CDC of 02RFEW2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+Vehicle 2:  Cell Phone Use, Distraction, Driver Stress/Emotion, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

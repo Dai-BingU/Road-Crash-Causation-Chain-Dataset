@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of two roadways. The east/west street and the north/south street were two-way, two-lane, undivided roadways. The east/west street leading into the intersection was controlled by a stop sign. These were straight, level, bituminous roads. Conditions were daylight on a weekend morning with dry roads and clear skies. Traffic flow was normal. V1, a 1997 GM Cargo Van with one occupant, was traveling westbound in lane one, approaching a stop sign. V2, a 1993 Toyota Camry with one occupant, was traveling northbound in lane one. Both vehicles were approaching the same intersection. The driver of V1 failed to stop for the traffic control sign. The front of V2 contacted the left side of V1. V1 was towed due to damage. V1, the GM Cargo Van, was driven by a 25-year old male who reported no injuries. He stated that he had just come from a customer's house where he just finished working. The location was only about four or five houses down from the intersection. He was not familiar with the area, and said he couldn't see the stop sign because there were tree branches covering the sign. When he finally saw the car, it was too late. He steered right and applied brakes, but still hit the other vehicle. The Critical Precrash Event for V1 was this vehicle traveling, passing through intersection. The Critical Reason for the Critical Event was an environment related factor - view obstructed by tree branches. One associated factor for this driver was an illegal maneuver. The driver failed to stop at the stop sign. Another associated factor was roadway related. The stop sign was partially covered with overhanging tree branches. A possible associated factor could have been a sightline restriction. Shrubs could have partially blocked V1's view of V2. V2, the Toyota Camry, was driven by a 27-year old female, who reported no injuries. She said that she was driving north, on her way to her aunt's house. She stated that it was a familiar route, and when she got to the intersection she kept going because she knew that she did not have to stop. She saw the other vehicle, but thought he was going to yield the right-of-way. At the last minute, she applied the brakes and steered left, but could not avoid the crash. The Critical Precrash Event for V2 was other motor vehicle encroachment, from crossing street across path. The Critical Reason for the Critical Event was not coded to this vehicle. One associated factor for this driver was a decision error. The driver assumed that the other vehicle would yield the right-of-way.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway, Surveillance present problem 
+Vehicle 2:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Other highway-related condition (specify):
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

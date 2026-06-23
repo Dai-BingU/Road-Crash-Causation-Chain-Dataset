@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lane on a two-way/two-lane arterial road that ran north and south in a business district. The roadway where the crash occurred was bordered on the east and west sides by private parking lots. The roadway did not have paved shoulders and was straight and level. The roadway had a posted speed limit of 56kph (35mph) in both directions. Conditions were daylight and dry in the early afternoon on a weekday. There were no traffic controls. Vehicle #1 was a 1984 Pontiac Parisienne was traveling south on the roadway when Vehicle #2, a 2002 Nissan Xterra, pulled out of a private lot on the west side of the roadway in an attempt to turn left. The Pontiac (V1) attempted to avoid a collision by braking and steering left but skidded longitudinally (8.75 meters of skid marks with left front wheel). Vehicle #1's front struck the left front and passenger areas on Vehicle #2. Vehicle #2 came to rest facing southeast in a parking lot on the east side of the road 12 meters southeast of impact. Vehicle #1 came to rest facing southeast 2 meters south of impact straddling the north and southbound lanes. Both Vehicles were towed due to damage. Vehicle #1 was driven by a 23-year old male who was restrained with a lap and shoulder belt and transported to an area hospital with minor injuries. The other occupants were a belted 27-year old female in the right front passenger position and a 3-year old male in the right rear passenger position restrained in a child seat. They were transported to the same hospital. The driver of Vehicle #1 admitted to the researcher that he was driving on a revoked license but would not say what it was revoked for. The driver of Vehicle #1 stated that his right turn signal was not on and furthermore had turned left to get onto the southbound lane and direction he was traveling. The Critical Pre-Crash Event for Vehicle #1 was Other Vehicle Encroachment: from driveway, turning into opposite direction. The Critical Reason for the Critical Pre-Crash Event was not coded to this vehicle. Associated Factor was false assumption of other road user's actions-assumed other driver would yield right of way. Vehicle #2 was driven by a restrained 26-year old female. The frontal airbag in Vehicle #2 did not deploy. The driver of Vehicle #2 was transported to an area hospital for treatment of minor injuries. There were no other occupants. The driver of Vehicle #2 stated that she thought it was okay to go because Vehicle #1's right turn signal was on like he was going to turn into the parking lot she was exiting however, this was not deemed reliable by the researcher. The Critical Pre-Crash Event for Vehicle #2 was This Vehicle Traveling: turning left at intersection (driveway). The Critical Reason for the Critical Pre-Crash Event was a Decision Error: Misjudgement of Gap or Others Speed. Driver Fatigue was considered an Associated Factor since the driver only sleeps 6.25 hours per night.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+Vehicle 2:  Decision, Driver Fatigue, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Misjudgment of gap or other's speed

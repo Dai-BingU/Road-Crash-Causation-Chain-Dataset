@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred in a suburban neighborhood on a 2-lane side street. The roadway runs east and west with a posted speed limit of 56 kmph (35 mph.) This crash happened on a clear, dry, weeknight, and there were street lamps that kept the road lighted. V1, a 2006 Lexus LX470 with one occupant, was traveling west when it departed the left side roadway and struck two small trees (17 cm in diameter), continued west and struck a wooded porch rail and finally struck a brick porch. V1 was towed due to damage and its driver was transported to a trauma center for treatment of minor injuries. V1 was driven by a 41-year-old female that was never reached for interview. After speaking with the police and her neighbors, I discovered a little background on this driver and the events that preceded this crash. According to the police and neighbors, this driver recently went through a divorce after discovering her husband had an affair. She had moved out of the house a few months before the crash and was not dealing with the separation very well. On the night of the crash, this driver unexpectedly visited her husband and started to yell and scream at her husband and his new girlfriend. The husband called the police after she refused to leave his property and when the police arrived on the scene, she took off in her Lexus. She drove around a police car that was parked in the husband's cull de sac and speed away from the house. As soon as the police began to chase to her, she had already crashed her vehicle. She was intoxicated and was tested but the results were .248 percent. She was cited for "DWI, Eluding Arrest, No Seatbelt, Failure to Reduce Speed, Left of Center, and Careless & Reckless driving." The Critical Precrash Event for this driver was coded: "this vehicle traveling off the edge of the road on the left side" and the Critical Reason for the Critical Event was coded: "driver traveling too fast for curve/turn." The medical reveled that she was taking three medications, one for depression, one for anti-anxiety and one for high blood pressure.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Stress/Emotion, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

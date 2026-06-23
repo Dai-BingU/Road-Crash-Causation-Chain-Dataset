@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary A collision occurred on a weekday afternoon involving three passenger cars at a 4-leg intersection controlled by traffic lights. The posted speed limits for the north/south roadways are 64 kmph (40 mph). The posted speed limits for the east/west roadways are 56 kmph (35 mph). Each leg of the roadway is a 4-lane divided (no positive barrier) asphalt roadway for each vehicles direction of travel. The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. Vehicle one (V1), a 1993 Buick Century with two occupants was traveling north in lane four of the westbound lanes attempting a left turn from the fourth lane of traffic at the intersection. Vehicle two (V2), a 1994 Ford Explorer with one occupant, was traveling south in the third lane, attempting to pass through the intersection. Vehicle three (V3), a 2000 Honda Accord with four doors and two occupants, was stopped in lane two of the eastbound traffic lanes. At the intersection, the front of V2 impacted with the right side of V1. V2 then rotated clockwise and came to rest within the intersection. Meanwhile V1 rotated counter clockwise into the eastbound lanes of traffic. The front of V1 impacted with the front of V3. V1 came to rest within the eastbound lanes, facing southwest. Vehicles 1 and 2 were towed from the scene; V3 was driven from the scene. Both occupants of V1 were transported to a local hospital due to injuries. An 85-year old female drove V1, the 1993 Buick Century. She and her husband, occupant # 2, were heading from their home to a local church. She stated does not take any medication and has never been treated at a hospital before, this was also verified from the medical records obtained. She could not remember exact details about the crash. An interview with the driver and passenger indicated that this driver assumed the driver of V2 ran a red light. The investigating officer noted in the police report to suspend the driver's license pending her history is reviewed by the Medical Advisory Board. A 55-year old female drove V2, the 1994 Ford Explorer. She did not claim any injuries. She was heading from her work to her residence. She took Fosamax medication 2 days prior to the crash. She stated V1 did not stop at the intersection. A 53-year old female drove V3, the 2000 Honda Accord. She was on her way to a local restaurant with her daughter, occupant # 2. She was stopped at the red light, talking to her daughter when the impact with V1 occurred and did not observe the first impact between V1 and V2. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at an intersection. The critical reason for the critical event was coded to the driver of V1 as: False assumption of other's actions. During the interview the driver indicated that she thought V2 had a red light and subsequently made her left turn without yielding the right-of-way. The driver should have had a protected green arrow at this intersection for a left turn. The researcher observed at the crash scene the left turn arrow would not illuminate for V1's direction of travel. The critical pre-crash event for V2 was coded: other vehicle encroaching into the lane; from opposite direction- over left lane line. No critical reason for the critical event was coded to this vehicle. V3 was not involved in the first harmful event. No critical reason for the critical event was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+Vehicle 3:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

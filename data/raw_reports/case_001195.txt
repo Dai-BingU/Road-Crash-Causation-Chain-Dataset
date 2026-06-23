@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred at an intersection with traffic lights. The east/west roadway is a 5-lane undivided two-way, straight, and level, asphalt roadway. The speed limit for both roadways is 56 kmph (35 mph). The Police report indicated 64 kmph (40 mph). The north/south road slightly curves to the east with a 6.6 % down hill slope to the south. This roadway is divided with four southbound lanes including a left turn lane at the intersection. The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. It was early evening on a weekday and there was average traffic on the roadways. It was still daylight at the time of the crash. Vehicle one (V1), a 2006 Nissan Altima with one occupant, was traveling south in the third lane of traffic approaching the intersection of both roadways. Vehicle two (V2), 2005 Toyota Corolla with four passengers was traveling west in the first lane. At the intersection of both roadways, the front of V1 impacted the right side of V 2. V1 rotated clockwise and came to rest adjacent to the impact point, facing southwest. V2 rotated clockwise after the impact, and moved west. It departed the roadway to the north, moving up a 20 % uphill grass embankment. The front plane of the vehicle struck a metal support pole located in front of a tree where the vehicle came to rest. Both vehicles were towed from the scene. The driver of V1 was transported A 23-year old female drove V1, the 2006 Nissan Altima. At the time of the crash she was pregnant and taken to the hospital for precautionary measures. She could not be located for an interview afterwards. The critical pre crash event for V1 was coded: other vehicle encroaching into the lane, from crossing street, across path. No critical reason for the critical event was coded to this vehicle. A 43-year old female, who reported no injuries, drove V2, the 2005 Toyota Corolla. She stated she was in the first lane, traveling at a normal rate of speed when V1 approached the intersection and ran the red light. According to her and her daughter, the right front occupant, V2 had a green light. The driver and her three daughters where heading home from a hospital visit. The hospital was within 1.6 kilometers (1 mile) of the crash site. A witness listed on the PAR was contacted after the par was obtained. He would not provide a full interview but stated: "The red Toyota (V2) ran the red light". The critical pre-crash event for V2 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was coded to V2 as a driver decision error: illegal maneuver. This vehicle did not stop at the red light.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

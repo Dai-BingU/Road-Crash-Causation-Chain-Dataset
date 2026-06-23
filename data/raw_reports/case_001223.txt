@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during early afternoon daylight hours on a dry, bituminous, level, four-lane, median divided roadway with no positive barrier. The roadway runs north to south and intersects with a two-lane, dry, bituminous, level, uncontrolled roadway that runs east to west. There were no adverse atmospheric conditions at the time of the crash. Vehicle one (V1), a 1999 Pontiac Bonneville was traveling westbound in lane one. V1 entered the intersection in an attempt to cross the northbound lanes and go south. Vehicle two (V2), a 1998 Ford Escort ZX2 was traveling northbound in lane three. As V1 entered the intersection, V2 skidded for 17 meters (56 feet)and the front of V2 contacted the front of V1. Post-impact, V1 rotated counterclockwise and came to rest facing northwest in lane two of the northbound roadway. Post-impact, V2 rotated counterclockwise and came to rest facing east in lane three of the northbound roadway. V1 contained two occupants. The driver was transported to a local trauma center for incapacitating injuries. V2 contained one occupant, she was transported to a local trauma center for incapacitating injuries. Both vehicles were towed due to disabling damage. The driver of V1, a 58-year-old female was familiar and comfortable with the vehicle and passenger load. She drives the roadway several times weekly and has 40 years of driving experience. The driver of V2 was a 19-year-old female who has 4 years of driving experience and was familiar/comfortable with the vehicle and passenger load. She drives this roadway daily. The driver of V1 stated that she waited for at least 20 seconds and then looked both ways before pulling into the intersection. She said that she did not see V2. The driver of V2 stated that she was traveling between 88 - 96 kmph (55 - 60 mph). However, scene evidence indicates that V2 was traveling at a higher rate of speed. The speed of V2 was taken into consideration as a factor in this case. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

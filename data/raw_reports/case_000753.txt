@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred at an intersection of a three-lane undivided roadway and an entrance to an interstate. The east/west roadway had one lane in each direction with a left turn-only lane in each direction at the intersection. The north part of the intersection had an on-ramp, an off-ramp and two lanes divided by a raised curb barrier for traffic going north and south. The east/west roadway was level and bituminous with a posted speed limit of 56 kmph (35 mph). It was mid afternoon on a weekday and conditions were clear. V1 was a 2004 Honda Element utility vehicle, driven by a 47-year-old female. V1 was traveling eastbound in the turning lane of the intersection. V1 proceeded to turn left at the intersection, crossing over the path of V2, which was traveling westbound. V2 was a 2003 Hyundai Sonata sedan, driven by a 52-year-old female. V2 was traveling straight through the intersection when V1 turned in front of her. The front of V2 struck the front right of V1. The Critical Pre-crash Event for V1 was "this vehicle traveling, turning left at intersection." The Critical Reason for the Critical Pre-crash Event was "driver related factor, false assumption of other road users actions." The driver of V1 believed that the driver of V2 had turned on her right turn signal and was turning onto the on-ramp at the intersection. According to the police accident report, V2 did not have its turn signal on. The driver of V1 may have been tired because she had been out of town for the entire week and had flown back in that day. She also said she had had a "rough week" as she had to meet new people and attend conferences. When interviewed, the driver of V1 would not answer the question regarding cell phone usage. This was the only question she refused to answer, leading to speculation that the driver may have been talking on the phone when the crash occurred. The Critical Pre-crash Event for V2 was "other vehicle encroachment from opposite direction over left lane line." The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. No associated factors could be coded to this driver due to the lack of an interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

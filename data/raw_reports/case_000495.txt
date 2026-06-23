@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred in the morning on a 5-lane undivided roadway on a clear and dry weekday. The roadway is straight, flat with two eastbound lanes, two westbound lanes, and a center turn lane for both directions. The speed limit on the road is 72 kmph (45 mph) as it is a main road through a suburban neighborhood. Vehicle 1, a 2002 Kia Optima with one occupant, was traveling east in lane one when it swerved to the left to avoid a stopped vehicle in its lane. V1 continued to depart the left side of the road where it struck a barrier curb, street sign and sideswiped a tree. Following the tree impact, V1 rolled 4 quarter times and came to rest on the lawn of a home. V1 was driven by a 29-year-old that was driving to work on a roadway she travels everyday. As she drove to work, she was eating a sandwich. While eating, she failed to recognize the traffic in her lane was stopped until she looked up at the last second. She claimed there was plenty of room between her and the vehicle ahead of her to avoid a crash, but when she applied the brake it failed to work. After realizing the brakes did not work, she swerved into lane 2 only to realize there was traffic in that lane too. She lost control of her car, continued to travel off the left side of the road, and cannot recall anything after striking a street sign. The Critical Precrash Event was coded: this vehicle traveling off the edge of the road on the left side. The Critical Reason for Critical Precrash was coded: internal distraction because she was eating a sandwich, however when I wrapped up the interview the driver claimed to have been focused on the roadway and that her brakes failed. A combination of insufficient steering and braking was also coded for her inadequate evasive action.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

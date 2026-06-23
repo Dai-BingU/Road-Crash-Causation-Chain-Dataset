@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on an undivided, two-lane roadway. The northbound lane is level and curves to the right (the radius of curvature is 251 meters and the superelevation is five percent). The southbound lane is straight and has a four percent uphill grade. The speed limit for this roadway is 89 kmph (55 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1996 Freightliner truck pulling a flatbed trailer with stacks of lumber, was northbound in lane one. Vehicle two (V2), a 2005 Chevrolet Cobalt, was southbound in lane one. V1 traveled off the right side of the roadway. The driver of V1 steered left and V1 returned to the road, traveling over the center lane line. This driver then steered right and the cargo shifted and spilled onto V2 and the roadway. V2 was towed due to damage. The driver of V1, a sixty-two-year-old male, provided only limited information. Inspection revealed that the straps securing the cargo to the trailer were worn and subsequently broke when the cargo shifted allowing the lumber to spill. The driver of V2, a thirty-nine-year-old male, was not interviewed. No further information is available for this driver. The critical pre-crash event for V1 was coded as " this vehicle traveling; off the edge of the road on the right side." The critical reason for the critical pre-crash event for V1 was coded as "vehicle related factor; cargo shifted." The critical pre-crash event for V2 was coded as "other; not involved first harmful event." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cargo Shift, Driver Performance, Speed/Distance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Cargo shifted
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

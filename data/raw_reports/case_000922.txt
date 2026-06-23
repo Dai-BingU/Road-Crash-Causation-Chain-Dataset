@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a 3 lane highway. The weather condition were dry, daylight and clear. Vehicle one was a 1996 International Eagle heavy truck with a 1986 Strick Trailer. Vehicle one was in lane two and drifted into lane one where Vehicle two a 2000 Saturn was driving. Vehicle ones wheels contact Vehicle twos left side and caused him to loose control and swerve off the road to the right striking a tree. The driver of vehicle one was a 63 year old male, he stated that he was driving at a constant speed on the highway when vehicle two ran into him on his right side. He claimed that the driver of vehicle two wasn't paying attention and hit him, thus runninig off the road and striking the tree. The Critical Pre-crash Event was this vehicle traveling over the lane line on the right side of travel lane. The Critical Reason for the Critical Pre-crash Event was coded unknown performance error. The driver of vehicle two was a 54 year old male, he claimed that the driver of vehicle one drifted into his lane which was lane one, causing him to lose control of his vehicle, thus swerving off the road and striking the tree. The driver and passenger of vehicle two sustained serious injuries and was transported. Vehicle two was towed due to damage. The Critical Pre-crash Event was coded other vehicle encroachment from adjacent lane (same direction) - over left lane line..
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown performance error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

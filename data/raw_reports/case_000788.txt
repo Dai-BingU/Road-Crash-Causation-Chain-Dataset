@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred during the mid-afternoon hours The roadway was a rural two lane, undivided, two way dry, straight, arterial with paved shoulders on both sides of the roadway. The roadway in the crash area of had a slight uphill grade. At the time of the crash, the weather was clear, it was daylight and there were no sight restrictions of road defects. The nearest traffic control was approximately ¼ mile ahead. Traffic was backed up from the light due to a previous crash. The roadway has a posted speed limit of 56 kph (35 mph). Vehicle #1 (V 1), a dark gray 2005 Hyundai Accent two door hatchback, driven by a 38 year-old male was traveling eastbound approaching the stopped traffic. V 1 was unable to stop and the front of V 1 collided with the back of V 2. Vehicle #2 (V 2), a white 2001 Ford F350 4 x 2 truck with a box type dump bed, driven by a 33 year-old male with one passenger was stopped in traffic eastbound. The impact with V 1 caused V 2 to move forward and the front of V 1 struck the rear of V 3. Vehicle #3,(V 3) a dark gray 1992 Ford Explorer 4 x 4 four door, driven by a 20 year-old female with one passenger was stopped in traffic eastbound and was struck in the back by V 2. V 1 was towed due to damage. V 2 and V 3 were both driven away from the crash scene. The pre-event movement for V 1 coded going straight, category other motor vehicle in lane other vehicle stopped. Critical reason driver related reason "inattention" (driver stated he was just driving and hit the other vehicle). The pre-event movement for V 2 coded stopped in traffic lane, category other motor vehicle in lane traveling in same direction with higher speed. Critical reason not coded to this vehicle. The pre-event movement for V 3 coded stopped in traffic lane. This vehicle not involved in first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

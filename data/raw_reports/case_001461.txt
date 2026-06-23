@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a two lane undivided highway curving to the left with a radius of curvature of 375 meters and a superelevation of 2.9%. The posted speed limit was 89KMPH (55MPH). The roadway was slushy with ice patches and wet from snow melt-off, the weather was cloudy. Snow covered the roadsides. This crash occurred on a weekday morning two days after a major snow storm. Vehicle #1, a 1993 Jeep Cherokee, was traveling east on the two lane undivided roadway negotiating the curve when it went off the roadway to the right impacting with a guardrail with its front right. The vehicle then went back across both the east and west lanes and came to final rest, off the roadway on the north side facing east. The Jeep Cherokee (Vehicle #1) was driven by a 55 year old male who was not wearing his seatbelt. This vehicle did not have an airbag. The driver was transported to an area hospital with a head wound, treated and released. This driver stated he had been daydreaming and not paying attention to his driving when his vehicle went off the roadway. When he tried to correct this by turning the wheel, the vehicle continued straight across the roadway. This driver admits to taking only vitamins and no other medications. The Critical Precrash Event coded to this vehicle was: This Vehicle Traveling, Off the Edge of the Road on the Right Side. The Critical Reason for the Critical Precrash Event was coded as: Driver Related Factor, Recognition Error, Inattention (i.e. daydreaming). Police did not consider alcohol or illegal drugs to be a factor and did not order any testing of this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)

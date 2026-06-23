@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west, two-way primary arterial state highway that had three lanes at the portion where the crash occurred. It was intersected by a secondary arterial road that ran north/south and was a two-way, two-lane road. The center lane on the highway was a left turn only lane. The highway was straight and level. At the northwest corner of the intersection was a steep embankment with a negative 40% grade that leveled off after dropping for some 2 meters. There was quite a bit of shrubbery in this area. The speed limit for the highway was 72kph/45mph. Conditions at the time of the crash were daylight, overcast with wet pavement and no rain early on a weekend morning. Vehicle #1 was a 1991 Ford Explorer traveling westbound on the state highway when it initiated a U-turn from the right westbound lane using the secondary arterial roads south intersecting portion as a turnaround. Vehicle #1 then proceeded out into the eastbound lanes of the highway (without stopping) and struck Vehicle #2, a 1996 Chevrolet Blazer, in the right rear with its (V1's) front. Vehicle #2 pulled to the right shoulder into a parking lot and came to a stop. After initial impact Vehicle #1 swerved into the westbound travel lane (while traveling east) and struck Vehicle #3, a 1992 Chevrolet S-10 pickup that was towing a small trailer loaded with a floor buffer, head-on. Vehicle #3 then veered right and went down the embankment and came to rest facing northwest in the shrubs. After the second impact Vehicle #1 spun counterclockwise and began traveling west again. It also went off the northwest corner of the intersection but it was beginning to skid to its right so as it (V1) traveled down the embankment it tripped and rolled ¼ turn to its right and came to rest facing southwest in the shrubs. The middle passenger in the 2nd row of Vehicle #1 was completely ejected from the vehicle. Vehicle #1 and 3 were towed due to damage, and Vehicle #2 was driven from the scene. Vehicle #1 was driven by a belted, twenty one-year old male who was transported to a local trauma center for minor injuries along with all five of his passengers (one of which sustained incapacitating injuries). He was cited by police for an “Improper U-turn”. Medical records show that the driver had a 0.075 blood alcohol level 1-hour post crash and also had amphetamines in his system at the time of the crash. The critical pre-crash event for Vehicle #1 was this vehicle other-annotated as making u-turn using intersecting side street. The critical reason was illegal maneuver. The driver was coded as conversing socially with passengers even though an interview could not be obtained. Aggressive driving behavior for the manner in which Vehicle #1 performed the illegal U-turn was coded as well as failed to look to side and the wet roadway. Vehicle #2 was driven by a thirty-nine year-old male. He was wearing a seatbelt at the time of the crash. He was not transported from the crash scene to any treatment facility. The critical Pre crash event for Vehicle #2 was other vehicle encroachment from crossing street, turning into same direction. The critical reason was not coded to this vehicle. The false assumption that the other driver would yield the right of way and wet pavement were the only associated factors coded to this vehicle. Vehicle # 3 was operated by a thirty nine-year old male who was belted and transported from the scene of the crash to a local trauma center for treatment of injuries. The critical pre crash event for Vehicle #3 was not involved in first harmful event. The critical reason was not coded to this vehicle. No other associated factors other than wet roads were coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Alcohol, Decision, Distraction, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Decision, Roadway present problem 
+Vehicle 3:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other- Other (specify) :
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

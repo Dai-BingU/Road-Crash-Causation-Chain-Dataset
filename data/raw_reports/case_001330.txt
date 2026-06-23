@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on the roadside of an east/west 4-lane roadway. There were two eastbound lanes and two westbound lanes, divided by a 12-meter wide median strip with a guardrail; there was also a guardrail on the right of eastbound lane 1. This was a straight, level, bituminous road with a posted speed of 56 kmph (35 mph). It was mid-morning on a weekday. Traffic was moderate-to-heavy on this well traveled road. V1, a 1995 Toyota Corolla four-door sedan, was driven by an 18-year old female. V1 was traveling east at approximately 56 kmph (35 mph) in lane 2. The driver of V1 reported that she fell asleep at the wheel. V1 drifted off the road to the left, striking the corner of a bridge abutment, and then continuing on up the left curb. These impacts woke up the driver who then steered right in an attempt to restore the direction of the vehicle. The driver steered hard to the right and V1 traveled across both lane 2 and lane 1 before departing the roadway to the right. V1 drove over the curb on the right side and then struck the guardrail, rotating slightly clockwise, and came to rest partially on top of the guardrail, facing south. The driver was visibly shaken but uninjured. Damage to the undercarriage of V1 occurred from the impact with the curb during the left lane 2 departure. Fluid spills from V1 trace its path across both lanes to the final rest. The Pre-Crash Event for V1 was "This vehicle traveling off the edge of the road on the left side." The Critical Reason for the Pre-Crash Event was "Critical non-performance error - asleep." Associated factors coded to the driver of V1 include fatigue and driver inexperience. The diver stated that she had gone to bed at 2:00 am the day of the accident and awoke at 08:00 am; she usually sleeps 9 to 10 hours a night and was tired at the time of the accident. The driver had been licensed for five months.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

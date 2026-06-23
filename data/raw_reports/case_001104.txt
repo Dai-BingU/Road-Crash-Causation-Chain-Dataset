@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound on-ramp on a interstate highway; there was one lane with two emergency paved shoulders and a concrete barrier on both the right and left sides. The posted speed was 105 KPH (65 MPH). Conditions were evening on a weekday with dry roads and clear skies. Vehicle # 1 was a 1990 Honda Accord that was traveling on the entrance ramp going 89 KPH (55 MPH) when she stated that her car started to wobble and shake. She lost control causing her to make impact with the left concrete barrier, causing her car to rotate right. She came to rest facing northbound facing the on coming traffic. The Honda was driven by a 19-year-old female who was transported to the local hospital with injuries. Her car was towed due to damages. An associated factor could be the driver's age and inexperience. The critical precrash event for vehicle # 1 was when it lost control due to a tire blow out or a flat tire. The Critical Reason was a tire malfunction. The tire malfunction on the left rear tire resulted in the vehicle pulling to the left before it impacted the concrete barrier. At final rest, the tire had completely separated from the rim. There were clear gouge marks on the roadway that led up to the wheel's final rest point.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Blow out/flat tire, (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Tires/wheels failed

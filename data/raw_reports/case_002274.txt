@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a four-lane curved roadway divided without a positive barrier. The roadway consists of two lanes heading approximately northbound that curve around and head northeast in direction. As the curve begins the dashed lanes were faded but the roadway still consists of two lanes. The southbound roadway consists of two lanes heading southwest and straightening out to approximately a south direction. At the curve the road goes under an overpass. This overpass appears level. The roadway is bituminous, level, and curved. The speed limit for this roadway is 56 kmph (35 mph). This crash occurred during mid-afternoon daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2001 Mercury Sable was heading northbound behind vehicle two (V2), a 1999 Peterbilt 378 tractor with a trailing unit carrying construction machinery. V2, traveling in the second lane, was traversing the curve and needed to merge into the middle of both lanes to ensure clearance. V1 attempted to continue in the first travel lane and the two vehicles struck each other at the beginning of the bridge underpass. The left side of V1 contacted the right rear area of the equipment that was being transported by V2. The machinery scraped and damaged the whole left side of V1. V1 also contacted three pillar supports on the right side of the roadway with the right side of the vehicle. V1 was towed due to damage. V2 was not towed. The driver of V1 is a female with an unknown age. This driver was not interviewed. There is no known pre-crash information on this driver. The driver of V2 is a male with an unknown age. This driver stated that he was going to drop off a load at the time of the crash. This driver indicated that he had only been driving for about thirty minutes at the time of the crash. This driver indicated that as he approached the overpass he slowed and moved to the middle of the lane to properly fit in the tunnel. This driver was checking his mirrors to the back making sure he was lined up properly. This driver drives this vehicle daily and over this road on a monthly basis. The critical pre-crash event for V2 was coded: this vehicle traveling, over the lane line on right side of travel lane. The critical reason for the critical pre-crash event was attributed to V2 and was coded as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). Poor directional control was also an associative factor for failing to maintain the vehicle within the travel lane. The critical pre-crash event for V1 was coded: other vehicle encroachment, from adjacent lane [same direction] - over left lane line. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Speed/Distance present problem 
+Vehicle 2:  Decision, Distraction, Driver Performance, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

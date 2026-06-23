@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the evening of a weekday on an urban five-lane roadway. The east/west roadway consisted of two lanes in each direction divided by a center two-way left turn lane. The bituminous roadway was dry and straight with a downhill grade (greater than 2%) and a posted speed limit of 72kmph (45 mph). The roadway was dark but lighted and there were no adverse atmospheric conditions at the time of the crash. V1, a 2005 Chevrolet Tahoe, (serving as a paramedic vehicle) was westbound in the left-hand turn lane responding to a call with his lights and siren on. The EDR indicated that V1 was traveling at 153kmph (95 mph) just prior to the accident. V2, a 2000 Chevrolet S-10 pick-up, was westbound in the center turn lane (ahead of V1) preparing to make a left turn into a commercial driveway. As V2 began its left turn V1 attempted to pass V2 on the left and struck V2 left with its front. V2 came to final rest in the driveway it was pulling into. V1 continued westbound and departed the roadway on the left side where it contacted a signpost. V1 returned to the roadway before coming to final rest in the middle lane. Both vehicles were towed due to damage. V1 was driven by a 24-year-old male who reported minor injuries. He advised that he was responding to a call when the crash occurred. He stated that he saw V2 pull into the turn lane with his blinker on. The driver of V1 stated that he thought V2 had seen him and was going to stop. V1 made the evasive action of steering left and applying the brakes, but could not avoid hitting V2. The Critical Precrash Event for V1 was coded other vehicle encroachment, from adjacent lane - over the right lane line. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2. Associated factors for V1 include the high rate of speed and the driver being in a hurry. Also the driver made a false assumption that V2 would yield the right-of-way. V2 was driven by 46-year-old male who reported no injuries. He advised that he was on his way to work. He was traveling 2-16kmph (1-10 mph) when he was hit. He did not attempt any avoidance actions because he did not see V1. The Critical Precrash Event for V2 was this vehicle traveling turning left at intersection. The Critical Reason for the Critical Precrash Event for the driver of V2 was a driver related factor, inadequate surveillance because he did not see the emergency vehicle. In addition to the inadequate surveillance, a traffic flow interruption was coded as an associated factor as an emergency vehicle was approaching.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Stress/Emotion, Speed/Distance present problem 
+Vehicle 2:  Drugs, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

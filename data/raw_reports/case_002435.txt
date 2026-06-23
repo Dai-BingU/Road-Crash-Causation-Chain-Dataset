@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a two-lane undivided roadway that curved to the right with a super elevation of 6.3 percent. The roadway at this point had a downhill grade of 4.9 percent and there was an intersecting side road on the left. The posted speed limit was 89KMPH (55MPH). The roadway was dry and the weather was cloudy. This crash occurred on a weekday in the early hours of the morning before dawn. The roadway was not illuminated. Vehicle #1, a 2000 Peterbilt tractor-trailer, was traveling north on the two-lane roadway when it came up upon Vehicle #2, a 1998 Chevrolet pickup truck, which was facing north getting ready to make a left turn onto the side road. In an attempt to avoid a collision, the driver of Vehicle #1 steered to the left while locking up his brakes. As he did this, Vehicle #2 initiated its left turn. Vehicle #1 struck Vehicle #2 on the left side passenger compartment with its front right. Vehicle #1 skidded off the roadway to the left, impacting a road sign and came to rest off the roadway on the west side, north of the side road. Vehicle #2 continued off the roadway to the northwest and came to final rest in front of Vehicle #1. Vehicle #1 was driven by a belted 43-year old male who was not injured. This driver stated that Vehicle #2 was stopped in the roadway and he steered to the left to avoid striking it, as he had no room to maneuver to the right of Vehicle #2. The Critical Pre-crash Event for this vehicle was: this vehicle traveling over the lane line on left side of travel lane. The Critical Reason for the Critical Pre-crash Event was coded as "too fast to be able to respond to unexpected actions of others," a driver-related decision error. Associated factors coded to this driver include traveling too fast for conditions and the fact that the driver chose an inappropriate/unsuccessful evasive action. Had the driver simply braked in his lane without steering to the left, it is likely that V2 would have completed its turn with no impact. Vehicle #2 was driven by a belted 32-year old female who was transported to an area hospital, treated and released. The driver stated she had not stopped in the roadway, as there was no oncoming traffic. She said that she decelerated in her lane to between 1-10 MPH and then initiated her turn. She further stated that before she had turned, she had seen the truck in her rearview mirror and it was "tiny" in her mirror. She could not understand how the truck came down the hill so quickly. The Critical Pre-crash Event for this vehicle was: other vehicle encroachment from adjacent lane (same direction)-over left lane line. The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. Police did not consider alcohol or illegal drugs to be a factor and did not order a test for either driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

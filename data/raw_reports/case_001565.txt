@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of two roadways. The two-way north/south roadway has one lane in each direction. The one-way westbound roadway has one lane of travel. It was daylight and clear with no adverse conditions. The roadway was dry, straight, level and had a speed limit of 48kmph (30mph). V1, a 1999 Hyundai Elantra four door with three occupants, was traveling westbound. V2, a 1995 Nissan Maxima four door with two occupants, was traveling northbound. At the intersection, the front of V1 contacted the right side of V2. Both vehicles came to a final rest shortly. V1, the Hyundai Elantra, was driven by a 46 year-old female who reported no injuries. The two occupants, a 43 year-old male and a 40 year-old female also reported no injuries. She advised that they were coming from home to go watch the marathon when V2 ran the steady red light. She advised that she did not attempt any avoidance maneuvers because she did not see V2. The Critical Pre-crash event for V1 was "Other vehicle encroachment, from crossing street across path". The Critical Reason for the Critical event was not coded to this vehicle. An associated factor coded for V1 was a sightline restriction due to the parked vehicles. The driver was also wearing non-prescription sunglasses. V2, the Nissan Maxima, was driven by a 33 year-old male that reported minor injuries and was transported to a medical facility. A 40 year-old female occupant also reported minor injuries and was transported to a medical facility. The driver stated on the Police Accident Report that he went through the steady red light. The Critical Pre-crash event for V2 was "This vehicle traveling, crossing over (passing through) intersection". The Critical Reason for the Critical event was coded as an unknown reason because no interview was obtained. An associated factor coded was an illegal maneuver, because he failed to stop for the traffic control signal. The other possible associated factors were coded unknown.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway present problem 
+Vehicle 2:  Decision, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

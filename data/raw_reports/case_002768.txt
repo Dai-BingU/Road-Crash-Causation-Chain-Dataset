@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in the morning of a weekend on a multi-lane highway near an entrance ramp. The highway runs east and west and divided by a high-tension cable guardrail. The bituminous roadway is dry, level and curved to the left at the location of this crash. The posted speed limit 89 kmph (65 mph) and there were no adverse weather conditions. V1, a 2006 Jeep Liberty with two occupants, was westbound in lane three intending to go straight. V2, a 1992 Mitsubishi Diamante with one occupant, was westbound in lane four intending to go straight. V3, a 1996 Nissan pickup with one occupant, was westbound in lane one (acceleration ramp) intending to merge left. An unknown vehicle traveling behind V3 switched lanes and cut in front of V1. V1 attempted to avoid this unknown vehicle by changing lanes and striking V2 (event #1). Subsequently, V1 and V2 spun across all travel lanes and departed the right side of the road. V1 was struck in the right side by V3 as it spun across the acceleration lane and came to final rest on the right roadside. After V2 entered the right roadside it spun into an embankment and rolled (est. 6-quarter turns) and came to final rest on its roof. V3 drove off the right side of the road after striking V1. The driver of V1 is a 45-year-old female that refused to be interviewed. She was not injured in the crash and her Jeep was driven from the scene. The Critical Precrash Event for V1 was coded “this vehicle traveling over the lane line on the left side of the travel lane. The Critical Reason for the Critical Event was coded incorrect evasive action. Other factors coded to this driver include chose inappropriate evasive action and poor directional control (failure to control vehicle with skill ordinarily expected). The driver of V2 is a 40-year-old female that was not interviewed because of a language barrier (Korean.) She was transported to the hospital and her vehicle was towed due to damage. The Critical Precrash Event was coded “other vehicle encroaching from adjacent lane - over right lane line”. The Critical Reason for the Critical Event was not coded to this vehicle. The driver of V3 is a 42-year-old male that was returning home from a bible study class when he was involved in this crash. He was driving west on a highway entrance ramp when he remembers an unknown vehicle tailgating him as he was accelerating on the ramp. At some point the unknown vehicle passed him on the left side, and the next thing he remembers were two vehicles spinning across his path. He slammed on his brakes but he could not avoid striking a Jeep on its right side. After that collision he drove off the right side of the roadway and later drove his truck home. The Critical Precrash Event was coded this vehicle not involved in first harmful event. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Negotiating a curve
+ 3 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in a controlled intersection. The east-west road is a five lane, two-way divided by a turn lane. The north-south road is a three lane, two-way divided by a turn lane. Conditions at the time of the crash overcast, during daylight hours, and the roadway was clean, dry, and level. Vehicle #1 was west bound in the turning lane attempting to turn left, heading southbound. Vehicle #2 was traveling in the right lane heading east. Vehicle #1 attempted to complete her turn and was contacted in the right rear, by the front of vehicle #2. Vehicle #1 was towed do to a restriction of the right rear tire that was caused as a result of the crash. Vehicle #1 a white 1994 Oldsmobile Ninety Eight Regency driven by the sole occupant a 55-year-old woman, stated that she was west bound in the turning lane, attempting to turn south. She stated that she didn't see vehicle #2 approaching. Driver later refused interview. The pre-crash event for this vehicle is stopped in traffic lane, attempting to make a left turn. The critical reason for this vehicle is inadequate surveillance. Because of the refusal I was unable to determine any associative factors related to the crash. Vehicle #2 a 2000 Green Dodge Caravan occupied twice, by the driver a 45-year-old woman, and her 19-year-old daughter who was in the front row right seat position. The driver stated that she was east bound in the right lane, approaching a green light when vehicle #2 pulled in front of her trying to turn south. Both occupants were treated on scene by EMS with possible injuries. Driver stated that she tried to maneuver to the right to get around her, but ended up striking vehicle #2 in the right rear. The pre-crash event for this vehicle is coded going straight; the critical pre-crash event is other vehicle encroachment, from opposite direction- over left lane line. The critical reason is not coded for this vehicle. Associative factors for this vehicle are driver inattention, due to conversation with passenger. The driver stated that another vehicle had passed her at a higher rate of speed, and then turned at the intersection she was approaching. I believe that this caused her to fail to look far enough ahead. She stated that Vehicle #1 just appeared in the intersection, and that she had no time to swerve successfully.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Distraction, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the early afternoon of a weekday in the middle of a residential intersection. The intersection consisted of a one-way westbound roadway and a southbound roadway (that became a two-way roadway north of the intersection). Both roadways were bituminous, dry, straight, and level with a posted speed limit of 40 kmph (25 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. Vehicle one (V1), a 2007 Toyota Avalon with one occupant was westbound in lane one approaching the intersection where it intended to go straight. Vehicle two (V2), a 1996 Dodge Grand Caravan with two occupants, was northbound (the wrong-way) on the southbound roadway approaching the intersection. As V2 entered the intersection, he was struck on the right side by the front of V1. After impact V1 rotated clockwise before coming to final rest in the middle of the intersection (facing north). V2 came to rest just north of the intersection in the southbound lane (facing north). Both vehicles were towed due to damage. The driver of V1, a 67 year-old male, suffered minor injuries but declined EMS service. He stated that he only drives this route maybe twice a week. He was westbound heading home from work and heard a loud bang. He claimed he did not see the other vehicle. He did not recall anything after the bang and thought he passed out for few seconds. The Critical Precrash Event for V1 was coded other vehicle encroachment, from crossing street, across path. The Critical Reason was not coded to this vehicle. The only associated factor that was coded to the driver of V1 was inadequate surveillance because he failed to look in all directions as he approached the intersection. The driver of V2, an unlicensed 17 year-old male, was uninjured in the crash. No interview was could be obtained with this driver as he was taken into police custody before this researcher's arrival. The driver was charged with attempting to flee the scene of an accident and the unauthorized use of a motor vehicle. The Critical Precrash Event for V2 was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Event was an illegal maneuver, traveling the wrong way down a one-way street. In addition to the illegal maneuver, driver inexperience was coded as an associated factor as the driver was only 17 and unlicensed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Decision, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

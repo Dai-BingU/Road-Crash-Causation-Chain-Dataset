@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a straight, two-way, two-lane road that ran east/west with a negative grade of 8.4%. The road had a painted double yellow divider stripe and was bordered on the north by a drainage ditch with a negative side-slope from the road into the ditch of 64.4%. The ditch was measured at 65cm at the run off road location. The north edge of the ditch was lined with trees and shrubs. Conditions at the time of the crash were daylight with overcast skies on a weekday morning with a speed limit of 48kph/30mph. V1 was a 1998 Dodge Ram 1500 pickup with a camper top and about 150lbs. of tools in the bed that was traveling west on the road when it departed the right roadside and the undercarriage struck the ground (event #1) where it dragged until V1 came to rest after striking a tree on the north edge of the ditch with its right side (event #2). V1 came to rest facing west with its left side tires on the roadway and its right side tires in the ditch. V1 was towed from the scene. V1 was driven by a belted-forty-four-tear-old-male who was not injured in the crash. His airbags did not deploy. The right front passenger, his forty-seven-year-old-girlfriend was transported from the scene before researcher arrival with police reported possible injuries. D1 stated that he was westbound on the road talking to his girlfriend about an upcoming business project when a non-contact vehicle was noticed coming at them (eastbound) partially in the westbound lane. He said that he swerved right a little and the right wheels left the road and he was unable to recover due to a lack of shoulder. The critical precrash event for V1 was this vehicle traveling off the edge of the road on the right side. The critical reason was coded as an incorrect evasive action because V1 did not have to completely depart the road to avoid a vehicle only partially over the double yellow line. The non-contact vehicle was coded as an external distraction. The driver was also coded as too fast, reason unknown because he stated he was going "45mph or so" in a 30mph zone. This may have contributed to shortening his available reaction time. The edges of the road were also partially deteriorating and this was listed along with no shoulders and deep ditch as roadway related factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Driver Stress/Emotion, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

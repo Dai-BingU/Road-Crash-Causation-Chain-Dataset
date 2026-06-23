@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a four-legged intersection. The north/south roadway is undivided, straight and consists of one lane in each direction. The southbound approach has a six percent downhill grade and is controlled by a stop sign. The speed limit for this roadway is 40 kmph (25 mph). The east/west trafficway is divided and level. The eastbound lanes are curved to the right (the radius of curvature is 188 meters and the superelevation is two percent) and consist of two through lanes and a left turn lane. The speed limit for this roadway is 72 kmph (45 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2000 Buick LeSabre, was stopped southbound in lane one. Vehicle two (V2), a Sterling dump truck, was eastbound in lane two. A non-contact truck was eastbound in lane three. V1 entered the intersection and the right side was struck by the front of V2. V1 was towed due to damage. The driver of V1, a twenty-two-year-old female, was on her way home from a gas station. She was healthy, well rested and familiar with her vehicle. This driver stated that she did not see V2 due to the truck in eastbound lane three. The male driver of V2 was on his way from a steel plant to a scrap yard. He was well rested, healthy and familiar with his vehicle. This driver stated that he saw V1 as he was approaching the intersection but that the truck in eastbound lane three blocked his view to the left as he neared the intersection. The critical pre-crash event for V1 was coded as "this vehicle traveling; crossing over (passing through) intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; driver related factor; proceeded with obstructed view." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from crossing street, across path." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other decision error (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in an intersection of an east/west roadway and a private driveway. The east/west roadway was an undivided two-lane roadway that was bituminous, straight, and level with a posted speed of 64 kmph (40 mph). It was late evening on a weekday and the road was dry and the sky was clear but dark, with a three-quarters full moon. The roadway was not illuminated and traffic flow was minimal on this rural road. V1, a 1991 Toyota Camry four-door, was driven by a 30-year old female who was transported due to injuries. V1 was traveling east at approximately 48 to 56 kmph (30-35 mph). The driver of V1 was on her way home from a baby shower 30 miles away. V2 was a 2002 Ford F-550 pickup truck towing an industrial wood chipper. V2 had initially been westbound, but had stopped in the road in order to back into a driveway on the south side of the roadway. As V2 backed across both east and west lanes of travel, the left side of the wood chipper was struck by the front of V1. V1 underrode the chipper, causing major damage to V1. The driver of V1 stated that her speed would not have been fast due to the deer hazard in the area. The driver of V1 stated that she has no memory of the events leading up to the accident but was tired after a long day. Investigation revealed no avoidance maneuvers performed, neither braking nor steering. There were no skid marks leading to the point of impact, and the path of V1 was straight into the wood chipper. Inspection of V1 at the scene revealed an excessive amount of clutter within the vehicle. The Critical Pre-Crash event for V1 was "Other motor vehicle in lane, other vehicle backing." The Critical Reason for the Critical Pre-Crash Event was coded as an "Unknown recognition error." Associated factors coded to the driver of V1 include fatigue and the physical conditions of pregnancy (7 months) and a thyroid condition for which the driver took a prescription medication. A 28-year old female drove V2. Her passenger, a 32-year old male, stated that he didn't witness the event. Neither occupant was injured. The driver of V2 was traveling to her residence. Once she reached the driveway of her residence she pulled past the driveway on the opposite side of the road, activated her emergency flashing lights and then began reversing, maneuvering the truck with the attached chipper across both lanes towards the driveway. She had maneuvered the chipper across the westbound lane when she saw V1 approaching from the left (eastbound direction) and assumed V1 would yield to the emergency flashing lights. She continued to reverse, tracking the position of the chipper in her right side mirror as she backed up. The impact of V1 knocked the driver into the passenger seat. The driver stated that she was driving her boyfriend's truck and hauling the chipper from his job site and had departed the job site one and one-half hours prior to the crash. The Critical Pre-Crash Event for V2 was "This vehicle traveling over the lane line on the left side of travel lane." The Critical Reason was not coded to this vehicle. Associated factors coded to the driver of V2 include alcohol involvement, an exterior factor because the driver of V2 was watching the chipper in her side mirror, and a false assumption because the driver of V2 assumed that V1 would yield the right of way to her.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Drugs present problem 
+Vehicle 2:  Alcohol, Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Backing up (other than for parking position)
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Backing
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

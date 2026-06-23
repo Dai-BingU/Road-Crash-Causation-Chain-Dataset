@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on the eastbound lanes of an undivided four-lane roadway with two lanes in each direction. The roadway was straight and level, and it was daylight and clear with no adverse conditions. The speed limit for the roadway was 48 kmph (30 mph). Vehicle #1 was a 1996 Lincoln Town Car that was in the eastbound parking lane and attempting to make a U-turn to go westbound on the roadway. Vehicle #2 was a Dodge Grand Caravan that was traveling eastbound in the second lane of travel. Vehicle #1 attempted to make a U-turn and the front impacted the right side of Vehicle #2. The Lincoln Town Car (Vehicle #1) was driven by a 37-year old male who did not sustain any injuries. The driver stated that he was coming out of a parking spot and attempting to make a U-Turn. Vehicle #1 was used and registered as a livery cab and was driven away from the scene. The Critical Pre-crash Event for Vehicle #1 was coded as: This vehicle traveling, over the line on the left side of travel lane. The Critical Reason for the Critical event was coded as a Driver Related Factor: Decision error, illegal maneuver. An associated factor that was coded to the driver was a Driver Recognition Error, Inadequate surveillance, (looked but did not see). The driver stated that the driver of Vehicle #2 was traveling at a high rate of speed, although he impacted Vehicle #2 on the right side. The Dodge Grand Caravan (Vehicle #2) was driven by a 32-year old male who did not sustain any injuries. The Driver stated that he was going straight when the driver of Vehicle #1 attempted to make a U-turn from a parked position. Vehicle #2 was used and registered as a livery cab and was towed due to damage. The Critical Pre-crash Event for Vehicle #2 was coded as: Other Vehicle Encroachment, from adjacent lane over the right lane line. No Critical Reason was coded to the driver of Vehicle #2. No associated factors were coded to the driver. The driver wore eyeglasses that corrected a myopic condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Leaving a parking position
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

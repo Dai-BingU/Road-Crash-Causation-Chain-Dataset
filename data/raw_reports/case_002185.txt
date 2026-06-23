@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred early in the afternoon during daylight hours in clear weather. The collision occurred on a five-lane, two-way, bituminous roadway, divided by a two-way left turn lane. The roadway was dry, level, and free of defects, and is designated a 56 kmph (35 mph) zone in each direction. Businesses and parking lots are arrayed along both sides of the street. Vehicle one (V1), a 1987 Ford Mustang convertible driven by a 19 year-old male, was traveling southbound in the second lane. Vehicle two (V2), a 1990 Honda Accord four-door sedan driven by a 48 year-old male, was traveling northbound in the second lane of opposing traffic. V1 was racing a Jaguar of unknown model-year, which was slightly ahead of V1 and to its right. A non-contact vehicle, which was ahead of V 1 and facing northbound in the left-turn lane, turned left in front of V1 into a business parking lot. V1 veered left into the center turn lane to avoid the turning vehicle. V1 continued moving left and the driver engaged the brakes with full lockup. V1 crossed into the second lane of northbound traffic in a longitudinal skid, where the front of V1 impacted the front of V2. Both vehicles deflected southeast and came to rest in the roadway. Both vehicles were towed due to damage. Both drivers were transported to a local medical facility. The critical pre-crash event for V1 was coded: this vehicle traveling, over the lane line on the left side of travel lane. The critical reason for the critical event was coded to V1 as a driver related factor: aggressive driving behavior. The driver stated previous to the trip he had an argument with his mother, which may have created a heightened emotional state. The driver reports that he enjoys the adrenaline rush of driving fast, and that he had noticed a Jaguar in the adjacent lane. He engaged the Jaguar in a race, which precipitated the subsequent high-risk maneuvers leading to the crash. The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Distraction, Driver Inexperience, Driver Stress/Emotion, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

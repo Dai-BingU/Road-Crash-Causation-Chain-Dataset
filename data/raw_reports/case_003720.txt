@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This rear end crash occurred in the eastbound lanes of a six lane divided roadway without positive barrier at an intersection. There are four eastbound lanes and two westbound lanes on the west side of the intersection, which is where the crash occurred. This is a tri-light controlled intersection with no pedestrian crossings. This was a straight, level bituminous asphalt roadway with a posted speed limit of 72 kmph (45 mph). It was a weekend afternoon and the road was dry and sky was clear. Vehicle one (V1), a 1995 Chevrolet Lumina all-purpose minivan with one occupant, was driving eastbound in the second through lane. Vehicle two (V2), a 2003 Ford Explorer SUV with six occupants, was traveling in front of V1. There was a witness to this crash heading northbound at the same intersection. V2 was approaching the intersection when the light changed to red. V2 stopped abruptly beyond the white stop line and into the intersection. V1 made contact with the back of V2. Both vehicles came to final rest in the intersection facing east. V1 was towed from the scene due to damage; V2 was driven from the scene. None of the occupants were transported. Witness one (W1) advised that he was sitting on the south side of the intersection-facing north waiting to turn left to head westbound. He further advised that his light turned green and he noticed V1 and V2 coming eastbound. He stated that he knew they weren't going to be able to stop so he waited before proceeding with his turn. He observed V2 approaching the intersection and barely stopping for the traffic signal. V2 came to a complete stop in the intersection. He then observed V1 behind V2 traveling at approximately 80 kmph (50 mph). He stated V1 didn't have enough time to stop and struck V2 from behind. Both vehicles came to a final rest in the intersection. The driver of V2 pulled his vehicle out of the roadway and V1 was pushed out of the intersection. A 47-year old female who reported no injuries and refused medical treatment at the scene drove V1, the Chevrolet Lumina. She stated that she noticed traffic to her right was still moving and she didn't see V2 stopped until she was approximately 3 meters behind V2. She stated that she was coming from work and was on her way home. She drives the route daily and has driven the vehicle 6-10 times. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). A 41-year old male who reported no injuries drove V2, the Ford Explorer. He advised that he was on his way to a pumpkin farm when he was struck from behind in the intersection. The driver was not available for an interview. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. An associated factor for could be that V2 was not the driver's vehicle. He was overheard explaining to the police that he was taking family from out of town to a pumpkin patch. They were from another state.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

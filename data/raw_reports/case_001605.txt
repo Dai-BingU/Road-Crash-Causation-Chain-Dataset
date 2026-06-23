@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a two lane undivided roadway with a posted speed limit of 64 KPH (40 MPH). There was a level curve (radius of curvature 703.125 meters) to the left with a black on yellow warning sign with a suggested speed of 40 KPH (25 MPH). The weather was cloudy, the roadway dry and it was daylight at the time of this weekday afternoon crash. Vehicle #1, a 2004 Subaru Forester was traveling south on the roadway and negotiating the curve to the left. A non-contact truck approached from the opposite direction .The Driver of Vehicle #1 stated he thought he had had enough room but realized he didn't so he steered right. Vehicle #1 continued off the right side of the road down a small embankment, struck a 65 cm diameter tree with its front and came to rest facing in a southerly direction. The Subaru Forester (Vehicle #1) was driven by an 82 year old male who was transported, treated and released at a local hospital for a head injury. He stated that he observed the truck approaching, moved to the right, but believed that he was over to far. After that he does not remember any events of the crash. Vehicle #1 was towed due to damage. The Critical Precrash Event for Vehicle #1 was this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was the poor directional control of the driver. An associated factor coded to this driver was the use of prescription medications: (a) gout no disabling side effects, (b) diuretic possible side effects are lethargy, drowsiness, low blood pressure, and (c) general health medication with possible side effects of drowsiness, tiredness, and dizziness. He also takes non-prescription anti-inflammatory drug occasionally. He was wearing prescription glasses that corrected a hyperopic (far-sighted) condition. He was familiar with the roadway and his vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Drugs, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

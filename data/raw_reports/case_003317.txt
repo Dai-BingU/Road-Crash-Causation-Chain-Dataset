@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred off the roadway of a two-lane highway. Conditions were dark with rain at 9:22pm. The roadway had a posted speed of 45 MPH. The roadway was wet and level. V1 was a 1996 Chevy Cavalier coupe that was traveling south in the right lane. For reasons unknown, V1 drifted across the two-lane roadway and struck the east curb line. The left side of V1 then struck a utility pole coming to final rest facing south against the pole. The occupant of V1 claimed not to be the driver and did not recall what had happened. Upon police investigation, they concluded that the occupant of V1 was actually the driver and that no other person was present in the vehicle. The driver needed to be extricated from the vehicle. Information provided by local authorities show that the occupant while involved in illegal activity had been robbed and then stole a neighbor's vehicle (V1) in order to give chase. V1 was towed due to damage. It is unknown how fast V1 was traveling. Driver of V1 was unavailable for interview due to incarceration and a false address on PAR. The critical precrash event was V1 traveling too fast for conditions. The critical reason for the critical event was a decision error; V1 traveling too fast for conditions to be able to respond to unexpected actions compounded by the fact that the driver was in a hurry (chasing fleeing assailants). Due to the fact that the fuse box in V1 was destroyed from the impact, we were unable to download the EDR.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Stress/Emotion, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :

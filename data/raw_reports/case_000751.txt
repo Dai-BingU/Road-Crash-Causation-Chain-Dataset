@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the two-way center turn lane of a four-lane, north-south roadway. There were two northbound lanes and one southbound lane separated by a center turn lane. The roadway had a posted speed of 72 kmph (45 mph) with no grade. Conditions were dry and dark with cloudy skies. The setting was mid-evening hours on a weekday. Vehicle one was a 2001 Saturn sedan traveling southbound in lane one. Vehicle two was a 2002 Chevrolet van traveling northbound in lane two. V2 moved into the center turn lane in order to turn left at the upcoming intersection. V1 began changing lanes into the center turn lane. The left side of V1 and the left side of v2 collided. Both vehicles came to rest in the roadway. V1 was driven by a 31-year old female who was suffered possible injuries. She was not transported, but was arrested at the scene for DWI. She stated that she and the other driver both attempted to use the center turn lane at the same time and collided. The driver of V1 attempted to steer right in avoidance but was unsuccessful. She estimated her travel and impact speeds to be 56 kmph (35 mph). V1 was towed due to damage. The Critical Precrash Event for V1 was this vehicle traveling over the lane line on the left side of the travel lane. The Critical Reason was inadequate surveillance (failure to look far enough ahead). The investigating officer reported a BAC level of 0.27 for this driver. She was not working at the time of the crash and living separately from her husband, whom she had just visited. She claimed that no personal issues were on her mind at the time of the crash. V2 was driven by a 51-year old male who was uninjured. He stated that he had moved into the turn lane and was decelerating for the upcoming turn when another vehicle came into his lane and crashed into him. He estimated his travel and impact speeds to be 24 kmph (15 mph). The van was towed due to damage. The Critical Precrash Event for V2 was other vehicle encroachment from the opposite direction over the left lane line. No Critical Reason was coded to the driver of V2. No associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

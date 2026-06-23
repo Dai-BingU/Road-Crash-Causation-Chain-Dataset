@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the first southbound lane of a secondary arterial roadway that ran north/south. The arterial had five lanes with lane three being a left turn-only lane in the northbound direction. There were two through lanes in either direction. If northbound the road curved left but more important to this crash if southbound that curve was to the right with a radius of 245m at its apex and was super elevated to 2 percent. The curve's apex was located about 22 meters north of impact. The northbound pre-crash grade was +2.7 percent and the southbound grade was +1.8 percent at 112 meters pre-crash and level at 56 meters pre-crash. There was a 4-way signalized intersection approximately 46 meters north of the crash site. The crash occurred on the arterial roadway at the entrance of a private business driveway. The speed limit on the secondary arterial road was 72kmph/45mph. The crash occurred at dusk on a weekday evening. V1 was a 2006 Dodge Magnum station wagon that was turning left (west) from the center turn lane (lane 3) from an originally northbound direction. V1 was struck on the right side as it was about to clear southbound lane 1 by V2, a 1999 Ducati SS900 motorcycle that was traveling south in lane 1. Both vehicles came to rest within a few (2) meters of impact. Both vehicles were towed from the scene. V2's rider was thrown over V1 and came to rest (after he bodily impacted V1) 8 meters south of impact. V1 was driven by a forty-four year old belted male who was not injured in the crash. He was initially amicable and gave a statement on scene but wanted to wait for complete interview. On follow-up he stated that his employer had instructed him not to talk with the researcher any further. The Critical Pre-crash Event for V1 was this vehicle traveling, turning left at an intersection. The Critical Reason for the Critical Pre-crash Event was coded as inadequate surveillance, looked but did not see. Due to a lack of information no other associated factors were coded to this vehicle. V2 was driven by a forty-one year old male who was wearing a helmet and riding leathers at the time of the crash. He was airlifted to an area hospital due to incapacitating injuries. He stated that he had been doing some brake work on his bike (V2) and was out test riding it to see if he could re-create the issue after he believed it was fixed. This required hard braking, which requires higher speeds. The Critical Pre-crash Event for V2 was other vehicle encroachment from opposite direction over the left lane line. The Critical Reason was not coded to this vehicle. A braking system deficiency was coded because the driver had been working on his brakes (bleeding the lines) immediately before the crash. No other factors were coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

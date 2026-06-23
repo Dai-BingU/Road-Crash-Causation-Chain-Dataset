@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a fully controlled urban highway with three lanes in each direction divided by a cement median barrier, with a posted speed limit of 113 kmh (70 mph) for cars and 89 kmh (55 mph) for trucks. Conditions at the time of the weekday early morning crash were daylight, snowing and the pavement was wet. V1, a 1992 Honda Accord driven by a 21 year-old female, was westbound in lane two. The fatigued driver of V1 fell asleep. V1 departed the lane to the left and then departed the roadway to the left and the front of V1 struck the cement median barrier. V1 rotated counterclockwise back onto the road and into lane two. V2, a 2005 Freightliner CBE semi-tractor trailer was westbound in lane one traveling about 56-64 kmph (35-40 mph). The driver of V2 noticed a car passing him in lane two. In his left side mirror the driver observed V1 coming up behind the car, change lanes to the left, strike the barrier and rotate into the lane to his left. The truck driver, who had just picked up a 40,000 pound load, maintained his position and speed and took no avoidance actions, to prevent his vehicle from jack-knifing. The back right of V1 was struck by the front wheel of the dual wheels on the back of the trailer on the left side. V1 stopped it's rotation upon impact with the wheel, and V1 then rotated counterclockwise again and left the road on the right side with the front leading. V1 came to rest off of the road facing northwest and was towed from the scene due to damage. The tractor-trailer pulled off on the right shoulder and came to a stop, with no disabling damage. The fully restrained driver, and his partner in the sleeper, reported no injuries. The driver of V1 was a 21 year-old female. The driver stated to her roommates that she felt tired and fell asleep , she left the roadway on the left and hit a median wall. The vehicle went back onto the road and got hit in the rear by a truck and then went off the road on the right side. The driver had 5 hours of sleep the night prior to the crash. The Critical Precrash Event coded to the driver of V1 was 'this vehicle traveling off the edge of the road on the left side.' The Critical Reason for the Critical Precrash Event was coded 'driver related factor-critical non-performance-driver asleep.' An associated factor coded to this driver was her lack of familiarity with driving the Honda. The driver of V2 was a 48 year-old male who stated that he was in lane one and saw V1 coming up in lane 2, change lanes to lane 3 he thought to go around a non contact vehicle next to him in lane 2. V1's front hit the median wall and spun out in lane 2 next to me. he just ehld straight at same speed. The car spun clockwise in lane 2 and the back of V1 hit my left tire of my rear dual axle-outside tire. V1 then went off the road and he pulled over to the shoulder and stopped. He had just picked up a 40,000 lb. load of cargo. The Critical Precrash Event was not coded to V2, as it was not involved in the first harmful event. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Roadway, Weather/Environment present problem 
+Vehicle 2:  Distraction, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

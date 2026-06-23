@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a five-lane roadway divided by a two-way left turn lane. There are two northbound lanes and two southbound lanes. This was a straight, level, bituminous, asphalt roadway with a posted speed limit of 56 kmph (35 mph). It was afternoon on a weekday and the road was wet and it was raining. Vehicle one (V1), a 1999 Ford Explorer with one occupant, was traveling northbound in the second lane. Vehicle two (V2), a 1999 Lincoln Navigator with two occupants, was traveling northbound in the first lane. V1 began to change lanes from the second lane to the first lane. The right rear of V1 struck the left front of V2. After impact both vehicle's exited the roadway to the right. The front of V1 impacted a tree in a yard and rotated counterclockwise. It impacted a couple of large rocks as it rotated off of the tree. V2 continued off of the road in an east, northeast direction through a yard until it came to final rest facing north in the yard. V1 was towed from the scene due to damage. V2 was driven from the scene. None of the occupants were injured. A 17-year old female drove V1. She stated she didn't know what happened. She thinks she slid on the wet roads and stated that the brakes felt funny since it was raining. She has been driving for about a year and completed driver's education in high school less than a year ago She is familiar with the vehicle and drives the route daily. It was raining at the time but there was no evidence that the vehicle hydroplaned on the wet surface although the measured tire inflation pressure was below the recommended pressure by 8 psi. The driver claimed she was attentive to the driving task and was not distracted, inattentive or in conversation. The critical pre-crash event for V1 was coded: this vehicle traveling; over the lane line on right side of travel lane. The critical reason was coded: poor directional control (e.g., failing to control vehicle with skill ordinarily expected). The driver allowed the vehicle to drift into lane one where the impact occurred. A 24-year old female drove V2. She stated that V1 switched lanes in front of her and that the impact forced her off of the road. V2 was also occupied by a male infant/baby approximately 10 months old (researcher determination). The male baby was not reported injured. It is unknown where this occupant was seated during the crash. This researcher did not see a child seat in the vehicle at the time of the on- scene investigation. The driver travels the route weekly and is familiar with the vehicle. She did not have time to attempt any evasive maneuvers as V1 encroached into her lane of travel. The critical pre-crash event for V2 was coded: other vehicle encroachment-from adjacent lane (same direction)-over left lane line. The critical reason was not assigned to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

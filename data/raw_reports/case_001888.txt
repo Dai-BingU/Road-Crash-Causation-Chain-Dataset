@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the early evening of weekday in the intersection between a two-way undivided roadway and the driveway to a commercial parking lot. The roadway consisted of two eastbound and two westbound lanes separated by a full time center left turn lane and featured a posted speed limit of 72kmph (45 mph). The two-way commercial driveway consisted of three lanes (one for entering, two for exiting) and traffic was required to stop before entering the roadway. All roads were bituminous, dry, straight, and level. Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1993 Chevrolet Pick-up truck, was stopped at the end of the driveway waiting for traffic to clear he could turn left. V2, a 1998 Chrysler Concorde was westbound in lane one approaching the intersection with the driveway where he intended to continue straight. As V1 began to pull out of the driveway and turn left it was struck on the left side by the front of V2. After the initial impact, V1 was redirected across the eastbound lanes of travel and departed the roadway where it came to final rest after striking a signpost on the southwest corner of the intersection. V2 came to final rest facing south in the center turn lane near the point of impact. V1 was driven by a belted 87 year-old male who claimed to be in good health despite a heart condition, which is treated with medication. He was wearing his prescription lenses that correct a myopic (near-sighted) condition. He stated there was very little traffic coming from the east, but there was several vehicles coming from the west. He stated as the eastbound traffic cleared he looked and thought there was enough distance between him and V2. He pulled out and was hit on the left side. He was transported with minor injuries and V1 was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was coded as driver related factor, misjudgment of gap or others speed. The associated factors to this vehicle were this driver stated he is not to be driving in low-level light situations (it was cloudy and overcast that evening). V2 was driven by a 44 year-old female in good health who was on her way home from work. She stated she saw V1 inch-out slowly from the driveway but thought that he was going to stay put. All the sudden he began his turn and she swerved to the left in an attempt to avoid the crash but still hit the left side of V1. The driver was transported with minor injuries and V2 was towed due to damage. The Critical Precrash Event for V2 was coded other vehicle encroachment, from driveway, turning into opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors coded to V2 and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Physical, Drugs, Vision present problem 
+Vehicle 2:  Decision, Driver Physical, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

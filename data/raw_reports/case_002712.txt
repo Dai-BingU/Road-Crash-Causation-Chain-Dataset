@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection of two urban one-way roadways. The eastbound roadway had a left parking lane, two straight lanes, and a right turn lane. The southbound roadway had a left parking lane, a left turn/straight lane, and two straight lanes. The intersection was signal-controlled with pedestrian lights and crosswalks. Both roadways had a posted speed limit of 56 kmph (35 mph). The eastbound approach was on a 1 percent downhill grade while the southbound approach was on a 1 percent uphill grade. Conditions were daylight and dry with clear skies. The setting was morning hours on a weekday. Vehicle one was a 1998 Chrysler Concorde 4-door sedan traveling east in lane two. Vehicle two was a 1999 Lexus RX300 sport utility traveling south in lane two. Vehicle three was a 1990 Chevrolet Corsica 4-door sedan parked on the outgoing east leg of the intersection in the right parking lane. Vehicle four was a 1989 Nissan Stanza 4-door sedan parked just ahead of V3. Vehicle five was a 1995 Ford Explorer sport utility parked just ahead of V4. V1 and V2 entered the intersection at the same time. The left plane of V1 was impacted by the front of V2 (Event 1). V1 rotated counterclockwise 300 degrees before coming to rest east of the intersection in lanes one and two. V2 continued off the southeast corner of the intersection and rear-ended V3 (Event 2), which was parked. V3's front was pushed forward into V4's rear (Event 3). V4's front was pushed forward into V5's rear (Event 4). Vehicles 2, 3, 4, and 5 all came to rest in the right parking lane on the outgoing east leg of the intersection. The Chrysler Concorde (V1) was driven by a 34-year old male who was transported to a local trauma center with possible injuries, along with his passenger. He was unable to be located by phone or at his address for an interview. The investigating officer estimated his travel and impact speeds to be 56 kmph (35 mph) and 64 kmph (40 mph), respectively. His Chrysler sedan was towed due to damage. A witness on the police report told police that V1 ran a red light. The Critical Pre-crash Event for V1 was this vehicle traveling - crossing over (passing through) an intersection. The Critical Reason was an unknown driver error. V1 had a tire deficiency of inadequate tread depth on the left front tire. Associated factors coded to the driver include an illegal maneuver for failing to obey a traffic control device and a sight restriction due to the parked vehicles on the left side of the roadway. No other factors could be coded without an interview. The Lexus RX300 (V2) was driven by a 34-year old female who suffered possible injuries, but was not transported. She stated that she was heading to work when V1 crossed the intersection in front of her, forcing her vehicle into the parked car. She didn't have a chance to react in avoidance. She estimated her travel and impact speeds to be 48 kmph (30 mph). Her Lexus sport utility was towed due to damage. The Critical Pre-crash Event for V2 was other vehicle encroachment from a crossing street across the path of this vehicle. No Critical Reason was coded to this vehicle. This driver worked extended work shifts as a local realtor. She drives this road on a weekly basis. One associated factor coded to this driver was a sight restriction caused by the parked vehicles on the adjoining roadway. No Critical Pre-crash Event or Reason was coded to vehicles three, four, or five because they were not in-transport at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

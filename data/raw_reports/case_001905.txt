@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on the west (right) roadside of an undeveloped, suburban cul-de-sac. The road had a 1% uphill grade and a posted speed limit of 40 kmph (25 mph). Conditions were daylight and dry with clear skies. The setting was mid-afternoon hours on a weekday. Vehicle one (V1), a 1992 Chevrolet 1500 pickup with one occupant, was stopped on the west shoulder facing south. V1 entered the roadway and then accelerated rapidly. The driver lost control and locked-up the brakes. V1 traveled off the right side of the road, struck an embankment with its undercarriage, struck a small tree with its front, and then struck a medium tree with its front. V1 came to rest against the medium-sized tree. V1 was towed due to damage. The driver of V1, an unlicensed 14-year-old male, was transported to a local trauma center with possible injuries. He stated that he was working for his grandfather over a spring break from school. He attempted to move the pickup down the road. The driver doesn't remember the specifics of the crash before hitting the second tree. He states that after the crash, he was unconscious for a brief period. The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road on the right side. The Critical Reason was a driver related factor of poor directional control. This was the driver's first time on this roadway. The driver stated that he had only helped move vehicles short distances before and had not driven on open roads, as he was unlicensed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

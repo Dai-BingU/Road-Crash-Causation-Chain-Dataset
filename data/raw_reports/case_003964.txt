@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at a suburban three-legged intersection with raised barrier curbs and crosswalks present. Eastbound approach is straight and level, containing six traffic lanes. Lane one is a right turn only lane. When the eastbound straight traffic light changes to red, the right turn only light changes to a green arrow every time because northbound traffic is turning left or right. Northbound approach contains a sharp right curve with a slight uphill and super-elevation grade. Northbound traffic must turn left or right due to this roadway ending at the intersection. The posted speed limit on both roads was 56 kph (35 mph). Setting was late morning hours on a weekday following a major holiday. Conditions were daylight, dry and clear with light traffic flow. V1 is a 1992 Dodge Spirit, four-door with one occupant traveling eastbound in lane two. V2 is a 1999 Chevrolet Tahoe, four-door, utility with two occupants traveling northbound in lane two stopped at a red light waiting to turn left. When V2's traffic light changed to green, V2 entered the intersection to turn left. V1 failed to stop for the red light. The front-plane of V2 contacted the right-front plane of V1 in the intersection. V1 deflected slightly to the left after impact and V2 deflected slightly to the right. Both vehicles came to final rest near the impact point. Both vehicles were towed from the scene with disabling damage. The driver of V1 is a 57 year-old female who was transported to the hospital with minor injuries. I was unsuccessful at locating this driver for an interview. According to medical records, she stated that a vehicle coming through the intersection struck the passenger side of her vehicle up near the front. Police tell me that a witness for her claims that her light was green when she entered the intersection. She suffers from hypertension, treated with a prescription medication and is obese. The Critical Precrash Event for V1 is “Other vehicle encroachment, from crossing street, turning into opposite direction.” The Critical Reason was “Not coded to this driver.” Hypertension and obesity are the only two known physical factors. She was likely inattentive because she failed to stop for the traffic light. She made no avoidance maneuvers also indicating that she likely wasn't paying attention. Her vehicle contained under-inflated tires. The driver of V2 is a 56 year-old male who was not injured in the crash. I was also unsuccessful at interviewing this driver after numerous attempts. Police tell me that he and a witness say they were stopped at a red light, when it changed to green; he proceeded into the intersection and struck the right side of V1. *Police had two witnesses' that gave contradicting statements. It is likely that V1 had a red light, but the green right turn arrow for eastbound traffic was mistaken by the driver of V1 and the witness as being a solid green light to keep proceeding through the intersection. The Critical Precrash Event for V2 is “This vehicle traveling, turning left at intersection.” The Critical Reason is an “Unknown-driver error.” Since he wasn't interviewed, it's unknown why he entered an unsafe intersection. His LR tire was under-inflated and his RF tire was over-inflated.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Drugs, Vehicle present problem 
+Vehicle 2:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Unknown Reason - Unknown reason for critical event

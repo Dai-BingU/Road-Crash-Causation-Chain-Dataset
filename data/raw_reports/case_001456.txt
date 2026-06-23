@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the early evening in a four-way intersection. The undivided north/south roadway is a 2-way road with one travel lane in each direction; it is straight and level, was wet at the time of the crash and has no traffic controls at the intersection. The undivided east/west roadway is also a 2-way road, with one travel lane in each direction; it is straight and level, was wet at the time of the crash, and is controlled by stop signs at the intersection. At the time of the crash, it was snowing, and it was dark with street lights on. There is a posted speed limit of 40 kmph (25 mph) for both roads. Approximately 170 meters (558 feet) south of the intersection there are train tracks that run east/west. A train was crossing and southbound traffic was backed up. Vehicle one (V1), a 2003 Toyota Corolla with one occupant, was traveling northbound in the first lane. Vehicle two (V2), a 1995 Pontiac Trans Sport carrying one occupant, was traveling eastbound in the first lane. The driver of V2, a 40-year-old male, stopped at the stop sign and then entered the intersection between two stopped southbound vehicles. The front of V1 struck the right side of V2 in the intersection. The impact with V1 caused V2 to rotate clockwise and travel to the northeast. V2's left rear tire struck the curb, causing V2 to rotate back around counterclockwise and come to rest facing generally north in a residential yard. After the impact with V2, V1 rotated clockwise, departed the roadway at the northeast corner of the intersection and come to rest facing generally south. The driver of V1, a 42-year-old female, was not injured and V1 was towed due to damage. The driver of V2 was not injured V2 was towed due to damage. The Critical Pre-crash event for V1 was coded as: "Other vehicle encroachment-from crossing street, across path." The critical reason was not assigned to this vehicle. The Critical Pre-crash event for V2 was coded as: "This vehicle traveling: Crossing over (passing through) intersection." The Critical Reason for the Critical Pre-crash Event was coded to V1 as: "Driver Related Error: Inadequate surveillance." The sightline restriction created by the vehicles stopped for the train was an associated factor for both drivers.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Decision, Driver Inexperience, Roadway, Surveillance, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

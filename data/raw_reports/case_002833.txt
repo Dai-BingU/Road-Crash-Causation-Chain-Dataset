@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This is a three-vehicle rear end type crash that occurred in the number two lane of a two-way, four lane, dry asphalt roadway. The roadway consists of two westbound and two eastbound lanes that are separated by a raised median. There is a break in the median for traffic to make a left turn to travel eastbound from a two way, two lane, dry asphalt roadway (cross street). The area where the two roadways meet is a T-Intersection. The T-intersection is controlled by a posted stop sign. There is no other cross street in the immediate area. There is a posted "NO U-TURN" sign on the median at the east side of the T-intersection for westbound traffic. The crash occurred in the morning during daylight hours. There were no roadway deficiencies and no sight line restrictions noted at the scene. The speed limit on the roadway is posted 64 kmph (40 MPH). Vehicle one (V-1), a 1999 Ford Expedition, was traveling westbound in the number two-lane at approximately 59 kmph (37 MPH) when the driver saw vehicle two (V2) stopped ahead in the same lane. The driver, a 23-year old female, then looked to her right and saw heavy traffic in the westbound #1 lane and was unable to move to that lane. The driver then applied the brakes (no lockup) and struck the rear of V2, which was stopped in the traffic lane. The vehicle came to rest in the #2 lane facing west. The driver stated that she was approximately 7.6-9.1 meters (25-30 feet) behind V2 when she saw it. The vehicle was towed due to damage. V2, a 1985 Jeep Cherokee, was traveling westbound in the #2 lane and stopped in the traffic lane. The vehicle was stopped for about 3 seconds before it was struck from behind by V1. The impact caused V2 to move forward and to the right and strike the rear of vehicle three (V3). V2 came to rest in the in the middle of the T-Intersection facing in a westerly direction. The driver of V2, a 66-year old male, stated that he stopped his vehicle about 0.9-1.5 meters (3-5 feet) behind V3 prior to the crash. He did not see V1 approaching from behind. The vehicle was towed due to damage. V3, a 2004 Buick Park Avenue 4 door, was traveling westbound in the #2 lane when the driver missed his turn to the left to a doctor appointment. The driver proceeded to travel west and then stopped intending to make a U-Turn to travel eastbound. The vehicle was facing in a southwesterly direction and stopped when it was struck from behind by V2. The vehicle traveled forward and came to final rest in the middle of the T-Intersection. The driver of V3, a 73 year old male, stated that he saw the "NO U-TURN" sign prior to stopping in the traffic lane with the intention to make a U-Turn. The driver did not see the other vehicles behind him. The right front passenger, a 73-year old female, also occupied V3. The vehicle left the scene on it's own power. The critical pre crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped . The critical reason for the critical event was coded to V1 as a driver related decision factor: too fast to be able to respond to unexpected actions of other's. The driver saw V2 in her traffic lane and looked to her right intending to move to the westbound#1 lane. There was heavy traffic at that time and the driver could not safely move into that lane. The driver applied the brakes but still struck the rear of V2 as it was stopped. The critical pre crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. V3 was not involved in the first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Drugs, Speed/Distance, Surveillance, Traffic present problem 
+Vehicle 2:  Drugs, Traffic present problem 
+Vehicle 3:  Decision, Driver Inexperience, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

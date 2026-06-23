@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a three-lane roadway. This road is intersecting with a larger road. At the intersection the three lane road has two-lanes at the intersection and for eastbound traffic there are two lanes. These eastbound lanes are divided with one lane going to the intersection and one lane turning right to merge with the main roadway. The merge lane is curved to the right with a radius of 57 meters. A yield sign controls the merge lane. The speed limit on the road is 72 kph (45 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one, a 1993 Ford Ranger was westbound in the merge lane. Vehicle two, a 1996 Buick LeSabre was westbound in the merge lane behind vehicle one. Vehicle two stopped to allow a vehicle on the main road to pass. The front of vehicle one impacted the rear of vehicle two. Both vehicles came to rest in the main road. Both vehicles were towed due to damage. The driver of vehicle one, a twenty-one year old male was coming from school and heading home. This driver had been driving for about five minutes at the time of the crash. This driver indicated that has he approached the intersection he was looking to the left to see if traffic was clear to proceed. When he looked back vehicle one was stopped. This driver drives this vehicle on a weekly basis and over this road on a daily basis. The driver of vehicle two, a thirty-five year old female had just picked up her daughter at school and was heading to pick up her other daughter at another school. This driver had been driving for about five minutes. This driver indicated that as she approached the merge she looked to the left to see if traffic was clear and saw a large pickup in the first lane and she stopped to yield. This driver never saw the vehicle behind her. This driver drives this vehicle daily and over this road on a daily basis. The critical pre-crash event for vehicle one was coded as “other motor vehicle in lane: other vehicle stopped”. The critical reason for the critical pre-crash event was attributed to vehicle one and was coded as “driver related factor: external distraction”. The critical pre-crash event for vehicle two was coded as “other motor vehicle in lane: traveling in same direction with higher speed”. The critical reason for the critical pre-crash event for vehicle two was coded as “not coded to this vehicle”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a four-legged intersection. The north/south roadway is straight, undivided and consists of one lane in direction. The northbound lane has a ten percent downhill grade and is controlled by a stop sign at the intersection. The east/west roadway is divided by a curbed median. The westbound approach lanes curve to the left (the radius of curvature is 375 meters and the superelevation is two percent), have a three percent downhill grade and consist of two through lanes and a left turn lane. The speed limit for these roadways is 80 kmph (50 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1999 Toyota Tacoma, was stopped northbound in lane one. Vehicle two (V2), a 2005 Hyundai Santa Fe, was westbound in lane two. V1 entered the intersection and the right side was struck by the front of V2. V1 rotated clockwise, traveled to the northwest and the right side struck a small pole. V2 traveled to the northwest and the front struck a small movable sign. Both vehicles were towed due to damage. The driver of V1, a fifty-six-year-old male, was on his way from his home to a store. He was healthy, well rested and familiar with his vehicle. He travels this route daily. This driver stated that he did not see V2 until he was in the intersection and he accelerated, thinking he could make it across before V2 passed through the intersection. The driver of V2, a thirty-six-year-old female, had just dropped her child off at a day care center and was on her way to work. She was well rested, healthy and familiar with her vehicle. She travels this route daily. This driver stated that she did not see V1 until it was in the intersection. She did not attempt to avoid the crash because she assumed that V1 would wait until she had passed. The critical pre-crash event for V1 was coded as "this vehicle traveling; crossing over (passing through) intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; misjudgment of gap or other's speed." This driver's inadequate surveillance and incorrect evasive action were associated factors in this crash. The critical pre-crash event for V2 was coded as "other vehicle encroachment; from crossing street, across path." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle." This driver's inadequate surveillance was an associated factor in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+Vehicle 2:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Starting in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

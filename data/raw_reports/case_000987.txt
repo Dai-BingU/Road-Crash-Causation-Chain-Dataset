@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary A daytime collision involving one in-transport vehicle that impacted three parked not-in-transport vehicles occurred at mid-afternoon on a Thursday. The urban roadway consists of two undivided lanes in each direction. The collision occurred on the northbound lanes that has a posted speed limit of 48 kmph (30 mph). Vehicle one (V1), a 1988 Ford Thunderbird with a driver and passenger, was traveling northbound in lane one. V1 departed the right side of the travel lane and sideswiped vehicle two's (V2) left plane, a 1992 Buick Lesabre, with its front plane and then sideswiped the left side of vehicle three (V3), a 1999 Land Rover Range Rover with its right plane. V1's front plane then impacted the rear of vehicle four (V4) a 1984 Mercury Grand Marquis, pushing V4 in to a parked vehicle, a 1992 Honda Civic, which then impacted another parked vehicle, a 1990 Plymouth Voyager. V1 was the only in-transport vehicle involved in the collision; the remaining vehicles were legally parked not-in-transport vehicles. The pre-event movement for V1 was coded "going straight". The Critical Pre-crash Event for V1 was: this vehicle traveling/ over the lane line on the right side of travel lane. Per the PAR narrative it states "Driver 1 stated that he took his eyes off the road for ten seconds. When he looked up, he was sideswiping vehicles 2 & 3." It later cited the driver for no insurance and inattention; however, it is unknown if the driver looking away for 10 seconds was an external or internal distraction. Therefore, the best fit for the coding was that he was either internally or externally distracted not lost in thought. Since it could not be determined due to lack of further information, then the critical reason variable was coded Unknown Recognition error. Per the PAR narrative it states "Driver 1 stated that he took his eyes off the road for ten seconds. When he looked up, he was sideswiping vehicles 2 & 3." It is unknown if this recognition error was an external or internal distraction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error

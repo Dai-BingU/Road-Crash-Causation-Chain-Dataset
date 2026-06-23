@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary Case Summary The crash occurred on a dry, daylight, two-lane, 70mph(113Kmph) highway without a positive barrier. The highway has a -4.5% down hill slope that starts over 150m away. The traffic conditions at the time of the crash were medium, with no previous problems. V1 a 2001 Dodge full size truck was towing another full size dodge truck on a trailer heading south in the right lane, traveling approximately 105kmph. The driver stated that the trailer started to sway back and forth. He also stated that he tried letting off the throttle that did not work so he started to press down on the brake pedal. Neither of these two actions worked and the truck went into a clockwise rotation, crossing the second lane then departing the roadway to the left. The vehicle then rolled over two quarter turns coming to rest on its roof. The trailer separated from the vehicle coming to final rest on its right side. The critical pre-crash event coded for the crash is this vehicle loss of control. The critical reason coded for this vehicle is driver related (Incorrect evasive action), when a trailer starts to sway you are suppose to hit the throttle not the brakes, hitting the brakes makes the trailer sway more. The other note is that the vehicle was loaded on the trailer the wrong way, the truck should have been turned around putting the weight on the hitch of the towing vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Jacknife Event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

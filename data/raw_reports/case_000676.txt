@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a rural area on a three-lane asphalt unlit roadway. The roadway for both directions of travel is straight and level. For eastbound travel, this road is exiting a right hand curve. The speed limit in the area of the crash is 88 kmph (55 mph). The crash occurred during darkness with no adverse weather or road conditions present. Vehicle one (V1), a 1998 Chrysler Sebring convertible was eastbound in the first lane. Vehicle two (V2), a 2004 Dodge Stratus was westbound in the first lane. V1 changed lanes into the second lane, a two-way left turn lane. V1 slowed and then turned left into a parking lot. The front of V2 impacted with the right of V1. Both vehicles rotated and came to rest in the parking lot. Both vehicles were towed due to damage. The driver of V1 was an eighteen-year-old female who was on her way to a local restaurant with a friend to celebrate her 18th birthday. This driver had been driving for about forty minutes at the time of the crash. She stated that as she slowed down in the center left turn lane, she just did not see V2 coming towards her from the opposing direction. A witness to the crash indicated that when he got to the vehicle following the crash, the stereo was very loud. This driver was conversing with her friend about a very recent breakup she had with her boyfriend, which had involved a recent argument. This driver drives this vehicle daily and over this road several times a month. The driver of V2 was a twenty-three year old male who was returning to a second apartment he has in a near by town. This driver had been driving for about one hour and forty minutes at the time of the crash. This driver works in a near by town but maintains his main residence about 322 kilometers (200 miles) away. This driver stays in the near by town during the week and returns home on his days off. This driver stated that before the crash he was having a conversation with his nephew. This driver stated he saw V1 enter the center turn lane and let off his accelerator as a precaution. This driver drives this vehicle daily and over this road on a weekly basis. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical pre-crash event was coded to V1 as a driver related factor: inattention (i.e., daydreaming). The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

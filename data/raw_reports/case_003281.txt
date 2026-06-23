@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the northbound lane of a two-lane undivided roadway. The roadway curves left with a radius curvature of 3750. The roadway was dry and the weather was clear. This crash occurred on a weekday afternoon. Vehicle #1, a 1998 Ford Contour, was traveling north on the two lane roadway with it stopped in the roadway to make a left turn into a parking lot. Vehicle #1 was waiting for traffic to pass, before making the left turn, when it was rear-ended by Vehicle #2, a 1986 one ton converted Chevrolet Dump Truck. Vehicle #1 came to final rest partially in the southbound lane and the southbound shoulder. Vehicle #2 continued north on the roadway 163 meters, having left the scene of the impact, before stopping on the northbound shoulder. Vehicle #1 (the 1998 Ford Contour) was driven by a belted 82 year old male who was transported to an area hospital, treated and released. This driver stated he was taking the vehicle for a test drive while considering its purchase. His passenger, a belted 53 year old male, seated in the right front, was the owner of the vehicle and was not transported. The driver stated he was waiting for southbound traffic to pass before making a left turn to return to the used car lot he had come from. He stated he did not see Vehicle #2's approach and did not take any avoidance actions. The Critical Precrash Event coded to Vehicle #1 was "other motor vehicle in lane, traveling in the same direction with higher speed". A Critical Reason for Critical Precrash Event was not coded to this vehicle. Vehicle #2, a 1986 Chevrolet Pick-up Truck, converted to a dump truck, was driven by a belted 42 year old male who was taken from the scene by Police for leaving the scene of the crash, inadequate brakes, and driving while intoxicated. This driver refused to answer repeated messages left at his home and by phone and, therefore, was not available for an interview. A witness at the scene of the crash told this researcher that Vehicle #2 had proceeded through the red light before hitting Vehicle #1. The Critical Precrash Event coded to Vehicle #2 was "other motor vehicle in lane, other vehicle stopped". The Critical Reason for the Critical Precrash Event coded to this vehicle was "driver related factor, inadequate surveillance, (e.g. failed to look, looked but did not see)". Police considered alcohol to be a factor in this crash, however, results of any tests are not available at this time.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Drugs present problem 
+Vehicle 2:  Alcohol, Decision, Surveillance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the afternoon hours of a weekend at the intersection of a one-way roadway and a two-way roadway. The intersection consisted of a one-way northbound roadway and a two-way east/west roadway. The east/west roadway was controlled by a stop sign. Both roadways were dry, straight and level, and had a speed limit of 48kmph (30mph). V1, a 1996 Chevrolet Caprice four door with a single occupant, was traveling northbound. V2, a 2001 Ford Focus four door with a single occupant was traveling westbound. At the intersection, the frontal plane of V1 impacted the left side plane of V2. As V2 was continuing straight V1 as it rotated counterclockwise hit V2 again in the back. V1 came to a final rest with its right/rear wheel on the sidewalk 14 meters west of the north/west corner. V2 came to a final rest on the sidewalk 16.2 meters west of the north/west corner. V1, the Chevrolet Caprice was driven by a 25 year-old male who reported no injuries. The driver refused to participate in the study (would not be interviewed or allow his vehicle to be inspected). The Critical Pre-crash event for V1 was “other vehicle encroachment, from crossing street across path.” The Critical Reason for the Critical event was not coded to this driver, because he was not thought to have contributed to the crash. The possible associated factors were coded unknown because no interview was obtained. V2, the Ford Focus was driven by a 36 year-old male who reported shoulder/upper arm pain, and was transported to a hospital. He stated that he stopped at the intersection and when proceeding forward he was impacted by V1. He also stated that he was watching a vehicle proceed westbound through the intersection in front of him. The Critical Pre-Crash event for V2 was “this vehicle traveling, crossing over (passing through) intersection.” The Critical Reason for the Critical event was a Driver related factor, inadequate surveillance (looked but did not see). An Associated factors coded to the driver was a recognition factor, looked but did not see. The other possible Associated factors were coded unknown because only a partial interview was obtained.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary V1, a 2002 Buick Rendezvous, was northbound in lane 2 of a 5 lane, 2 way, and bituminous, urban roadway approaching an electronically controlled intersection. V3, a 2001 Jeep Grand Cherokee, was northbound in lane 1 of the same roadway 1 to 2 car lengths behind v1. Both were traveling at a constant speed. V2, a 2003 Toyota RAV 4, was eastbound in lane 1 of a 3 lane, 2 way, bituminous roadway approaching the same controlled intersection. V2 was also traveling at a constant speed. As v2 passed through the intersection, v1, front, contacted v2, right. V2 rotated clockwise and was struck on its left side by v3, front. At the time of the crash it was daylight and the roadways were dry. V1 and v3 were both driven from the scene. V2 was towed due to damage. None of the 3 drivers were injured but the passenger in v2 was injured and transported. A complete driver interview and vehicle inspection was obtained for v1. The driver was not speeding, was familiar with and properly licensed for her vehicle and was familiar with the roadway. The pre-event Movement of v1 was going straight, the Critical pre-crash event was other vehicle encroachment from crossing street, across path and the critical Reason for the event was not coded to this vehicle. A complete driver interview and vehicle inspection was obtained for vehicle 2. The pre-event Movement of v2 was going straight; the critical pre-crash Event was This vehicle traveling/crossing over (passing through) intersection and the Critical Reason for the pre-crash event was internal distraction. The driver of v2 was cited for disregarding a red light. Some factors which may have contributed to his actions were his unfamiliarity with the road, fatigue and the internal distraction of his conversation with his passenger, his soon to be ex-spouse, about their impending divorce. A complete driver interview and vehicle inspection was obtained for v3. The driver of v3 was properly licensed for and familiar with his vehicle as well as familiar with the roadway. The Pre-event Movement of v3 was going straight, the critical pre-crash Event was Other, Not involved first harmful event and the critical reason for critical pre-crash event was not coded to this vehicle. One factor, which may have led to his involvement in the crash, was his sightline to v2's approach being obscured by v1.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience, Driver Stress/Emotion, Drugs, Surveillance present problem 
+Vehicle 3:  Distraction, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Internal distraction
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

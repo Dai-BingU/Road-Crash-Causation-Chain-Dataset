@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the early evening of a weekday in the middle of a downtown 4-way intersection. The intersection consisted of a 3-lane one-way roadway that intersects with a 4-lane undivided roadway. Each roadway had a posted speed limit of 56 kmph (35 mph) and the intersection was controlled by a properly functioning traffic signal. The main thoroughfare is a 3-lane southbound-only road and the intersecting street runs east and west with two lanes for each direction. The roads are straight, flat and the traffic level was minimal. The weather condition was clear, dry and daylight. V1, a 2002 Volkswagen Jetta GLS with one occupant, was southbound in lane 2 approaching the intersection while V2, a 1994 Ford Ranger with one occupant, was westbound in lane 2 approaching the same intersection. As V1 entered the intersection it failed to stop for its red signal and struck V2 on its right side {event #1}. Subsequent to that first impact, V1's left plane side-slapped the right of V2 {event #2}. V1's post V2 impacts travel lead it to depart the southwest corner of the intersection where it struck a utility pole {event #3} and came to final rest. V2's post V1 impacts travel lead it to depart the southwest corner of the intersection where it struck a street sign {event #4} and came to final rest. Both vehicles were towed due to damage and both drivers suffered minor injuries and refused treatment. The driver of V1 is a 26-year-old female that was driving to her boyfriend's house this evening when she was involved in this crash. She states that she recently hung-up her mobile phone (while driving) and was not paying attention to the traffic signal when she entered the intersection and struck the pickup truck. She reports that her cousin called her and asked her for a favor tomorrow morning. This driver agreed to help her cousin and was thinking how she would have to shuffle her schedule the next day in order to help her cousin. She did not know what color her traffic signal was because she was not aware that she was driving through an intersection. The Critical Precrash Event for V1 was coded: "this vehicle crossing over (passing through) intersection." The Critical Reason for the Critical Event was coded "inattention". Associated factors coded include inadequate surveillance: failed to look to side and an illegal maneuver (failing to stop for TCD). The driver of V2 is a 43-year-old male that was commuting from work to home this evening when he was involved in this crash. This driver states he entered the intersection (green signal) and saw V1 at the "last second" before his truck was struck by V1. This driver did not have time to avoid the crash and never saw V1 before entering the roadway. The Critical Precrash Event for V2 was coded: "other vehicle encroaching from crossing street, across path." The Critical Reason for the Critical Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

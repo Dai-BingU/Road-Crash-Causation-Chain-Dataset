@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred near the intersection of two roadways. A straight roadway intersected a curved roadway. The straight road was a two-way, two-lane undivided street, controlled by a stop sign. The curved road was a two-way, four-lane roadway divided by a wide grass median. Conditions were dusk on a weekend evening with dry roads and clear skies. Traffic flow was normal. V1, and unknown light passenger car with an unknown number of occupants, was traveling southbound on the straight roadway. V2, a 1999 Volkswagen Beetle with one occupant, was traveling northbound, approaching a left curve. Both vehicles were approaching the same intersection. V1 was behind backed up traffic, which was waiting at the stop sign for traffic to clear before crossing the curve. Instead of waiting behind the stopped vehicles, V1 departed the roadway to the right in order to cross the curved roadway from a grass area. V1 cut across a grassy knoll, maintaining a path parallel to his original roadway. As V1 attempted to cross the curve, the front of V1 made contact with the right side of V2. V2 spun clockwise 180 degrees, coming to final rest in the grassy median. V1 left the scene of the accident. V2 was towed due to damage. The driver of V2 refused treatment. The hit and run vehicle was driven by a male, possibly in his early twenties. The Critical Precrash Event for V1 was "this vehicle traveling, crossing over (passing through) intersection". The Critical Reason for the Critical Event was a decision error, aggressive driving. The driver ignored a traffic control device, leaving the roadway to go around the stop sign. One associated factor for this driver was an illegal maneuver. Another associated factor was a sightline restriction. The driver's off-road path took him behind some tall cactus bushes and a tree, blocking his line of sight to V2. V2, the Volkswagen Beetle, was driven by a 23-year old female. She stated that she was on her way to Office Depot on an errand. She said that she was going the speed limit, talking on the phone with her friend, when out of nowhere came another vehicle into her right side. She said she never saw him coming because he didn't come from the intersection. Instead, she indicated, he had cut across a grass area behind some bushes and a tree. The Critical Precrash Event for V2 was "other vehicle encroachment, from crossing street across path". The Critical Reason for the Critical Event was not coded to this vehicle. One associated factor was the presence of a social conversation. The driver was talking to a friend on a cell phone. As with V1, there was the presence of a sightline restriction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Roadway present problem 
+Vehicle 2:  Cell Phone Use, Distraction, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

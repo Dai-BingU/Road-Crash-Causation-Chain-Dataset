@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of a three-lane (six overall), east-west roadway divided by a concrete median and a three-lane, one-way, northbound roadway. The intersection was controlled with traffic signals. The east-west roadway was straight, level, concrete with a posted speed of 48 kmph (30 mph). The northbound roadway was right curved, level, concrete with a posted speed of 64 kmph (40 mph). It was afternoon on a weekday and the road was dry and the sky was clear. Traffic flow was moderate. V1, a 1998 Ford Escort two door with one occupant, was traveling eastbound in lane two. V2, a 2006 Toyota 4-Runner sport utility vehicle with three occupants, was traveling northbound in lane two. V3, a 2006 Pontiac Vibe sport utility vehicle with one occupant, was stopped westbound in lane three. V1 entered the intersection without the right of way and was struck on the right side by the front of V2. Glass debris from the collision struck and damaged the paint on the hood of V3. V1 rotated clockwise and continued on its path of travel. V1 came to rest in the second travel lane east of the intersection facing northwest. V2 continued on its path of travel and the driver directed the vehicle to final rest in the first travel lane north of the intersection. V3 was not contacted by either vehicle and did not move from its pre-crash position. A 21-year old female who reported no injuries drove V1, the Ford Escort. She advised that she was on her way to work, but trying to decide where to stop for dinner prior to starting her shift. She advised that she was traveling at between 16-32 kmph (10-20 mph) when she recognized that V2 was not going to stop and that she had entered the intersection without a green light. She accelerated in an attempt to avoid the collision, but was unsuccessful. The Critical Pre-Crash Event for V1 was "this vehicle traveling, passing through intersection." The Critical Reason for the Critical Event was driver related - inattention. One associated factor for this driver was fatigue. The driver worked a full-time job and was raising a two year-old. She normally got 5 1/2 hours of sleep each night. Another associated factor could be family stress - the driver of V1 reported pressure due to her impending divorce. The driver also advised that her main thought focus at the time of the accident was what she could quickly eat prior to starting her work shift. A 16-year old male who reported possible injuries drove V2, the 2006 Toyota 4-Runner. He advised that he was on his way to a shopping center nearby. He advised that he was traveling at between 48-64 kmph (30-40 mph) when he recognized that V1 was not going to stop. He applied the brakes and steered to the left in an attempt to avoid the collision, but was unsuccessful. The Critical Pre-Crash Event for V2 was "other vehicle encroachment, from crossing street, across path." The Critical Reason for the Critical Event was not coded to this vehicle. One associated factor for this driver was driver inexperience. The driver had only been licensed for 3 months. Another associated factor could be inadequate surveillance- the driver of V2 did not report seeing V1 until the last moment. A 24-year old female who reported no injuries drove V3, the 2006 Pontiac Vibe. She stated that she was stopped for the traffic signal. Glass debris from the collision struck the hood of her vehicle. V3 was not involved in the first harmful event. Therefore, no Critical Pre-Crash Event or Critical Reason was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Stress/Emotion, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Inexperience, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

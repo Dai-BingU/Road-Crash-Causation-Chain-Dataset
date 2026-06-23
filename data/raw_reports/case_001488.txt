@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during late afternoon on a clear day adjacent to an intersection where traffic is controlled by overhead traffic control signals. The north/south roadway is a two way, two-lane dry roadway with bituminous asphalt. North of the intersection, the roadway curves to the east with a radius of 375 meters (1230 feet) and a super elevation of 4%. South of the intersection the roadway is straight. The posted speed limit was 64 kmph (40 mph). The roadway intersects with a two-lane, bituminous roadway that runs east to west. There were no adverse atmospheric conditions present at the time of the crash. Vehicle one (V1), a 1993 Nissan pickup truck driven by a 19-year-old female, was traveling northbound in lane one. Vehicle two (V2), a 2004 Toyota Highlander driven by a 23-year-old female, was traveling southbound in lane one. Both vehicles were approaching the collision intersection and both vehicles had a green traffic control signal. There was a non-contact vehicle in northbound lane one stopped for oncoming traffic to clear to complete a left turn at the intersection. The driver of V1 swerves to the left into the opposing lane of traffic to miss the non-contact vehicle. The front of V1 struck the front of V2 as it passed through the intersection. V1 rotated counterclockwise coming to rest facing west in the southbound lane. While V2 stopped facing south in the southbound lane. After V2 came to final rest, the driver exited the vehicle and the vehicle rolled into oncoming traffic and struck several other vehicles and caused several other incidents and an abundance of unrelated damage to the rear and front of vehicle two. The driver of V2 received non-incapacitating injuries and was not transported for treatment. The driver of V1 was not injured. Both vehicles were towed due to disabling damage. The driver of V1 stated that she was inattentive to the driving task moments prior to the crash. She stated that she was picking up an item from the passenger seat of her vehicle when she tried to avoid the non-contact vehicle stopped in front of her at the intersection. She stated that she panicked, applied the brakes, steered left and struck V2. The critical pre-crash event for V1 was coded: this vehicle traveling-over the lane line on the left side of travel lane. The critical reason for this crash was coded: internal distraction. The driver of V2 refused to be interviewed. The critical pre-crash event for V2 was coded: other vehicle encroachment-from opposite direction-over left lane line. A critical reason was not assigned to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

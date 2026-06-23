@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of a two-way, four lane, straight, level urban roadway, and a two-way, two lane residential street. The four lane road had a posted speed limit of 56 kmh (35 mph), and the straight, bituminous residential street was 40 kmh (25 mph). Conditions at the time of the weekday afternoon crash were daylight, cloudy and dry. Interviews were obtained with both drivers on-scene, and both vehicles were inspected. V1, a 2006 Honda CRV, driven by a 28 year-old female hospice worker on her way to a new patient's home, was westbound in lane one on the four lane road. The driver, unfamiliar with the area, had missed her intended turn, so she turned right onto the residential street, pulled into a driveway and turned around to go south. The driver stopped at the stop sign at the corner, on a >2% uphill slope. She looked left, then right, and pulled out to make a left hand turn. The driver of V1 did not see V2 approaching from her left in the second lane. V2, a 2001 Suburu Outback, driven by a 45 year-old male on his way from work to pick up his son from school, was westbound on the four lane road in lane two in front of the school, traveling about 56 kmph (35 mph). The driver of V2 saw V1 entering his roadway and steered left and applied his ABS brakes, which locked up. V1 pulled out of the side street to turn left and the front of the Honda struck the Suburu in the right side in lane three. V1 came to rest in the school driveway on the south side of the road facing south and was towed from the scene due to damage. The fully restrained driver was treated at the scene. V2 rotated clockwise and came to rest in the eastbound curb lane facing northeast, and was towed from the scene due to damage. The fully restrained driver of V2 denied any injuries at the scene. The Critical Precrash Event coded to V1 was 'this vehicle traveling, turning left at intersection.' The Critical Reason coded to the driver of V1 was a 'driver related recognition error of inadequate surveillance-looked but did not see.' A contributing factor coded to this driver was her unfamiliarity with the area. An associated factor was also coded for this driver's work related stress as a home hospice worker, which see described as being always stressful. The Critical Precrash Event coded to V2 was 'other vehicle encroachment form crossing street, turning into opposite direction.' The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Stress/Emotion, Drugs, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

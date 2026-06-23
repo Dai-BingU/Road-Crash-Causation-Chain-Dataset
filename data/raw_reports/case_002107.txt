@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary A two-vehicle collision occurred at the intersection of a six-lane and a four-lane divided roadways. This crash occurred mid-morning and the weather was clear and the temperature was around -7 degrees Celsius (18 degrees Fahrenheit). Due to the cold temperatures and recent precipitation the roadways were slick due to ice patches. The posted speed limit for both roadways was 72 kmph (45 mph). Vehicle two (V2), a 2004 Buick LeSabre, was westbound in lane 3 of the 6-lane divided roadway traveling at a driver reported speed of 56-72 kmph (35-40 mph). The pre-impact roadway for V2 was dry with heavy traffic. As V2 entered the intersection, it impacted with the left of vehicle one (V1), a 1991 Ford Club Wagon Van, with its front. V1 had been traveling southbound on the four-lane road in the first lane. In the southbound direction the road has a -3% slope with ice that had built up on the roadway. This caused V1 to rotate counter clockwise into the median on the west side of the intersection after the first impact. After V1 slid into the median, the right front tire dug into the soft dirt and rolled V1 onto its right side. As V1 rolled, its front right side impacted a small street sign. V2 stopped in the intersection after impact with V1. The driver and passenger of V2 were not injured. The driver of V1 received no injuries. Both vehicles were towed due to damage. The driver of V1, a 48 year old male, was going to turn right at the intersection to deliver some hardware to another work site. The driver of V1 just came from work, which was about 2 blocks from the intersection. As V1 came down the roadway the driver started to slide on the ice on the right side of the roadway. The driver could not stop in time to avoid entering the intersection on a red light, so the driver tried to accelerate and swing V1 around the corner to the right to avoid a t-bone collision. V1's tires were all under-inflated by approximately 117 kPa (17 Psi). The driver of V1 was traveling too fast for the early morning icy conditions that were on the downhill roadway approaching the intersection. When confronted with the inability of his vehicle to stop in time, the driver attempted to steer right to avoid a major collision. The driver of V1 assumed that the other drivers approaching the intersection from the east would see him in trouble and slow down or stop. The driver of V1 had 5 hours of sleep the previous night and long work hours the day before the collision. He has diabetes and takes the medications: Lipitor, Glucophage and Ativan. He drives the route daily and has had professional driver training. The critical precrash event for V1 was coded: this vehicle control loss due to - poor road conditions (specified as: ice on roadway). The critical reason for the critical event was attributed to V1 as an environmental related factor: slick roads (low friction road surface due to ice, loose debris, any other cause). V2's driver was a 76 year old male traveling with an unknown aged female passenger. His view of the oncoming V1 was blocked by the traffic to his right and he assumed that the intersection was clear for him to go west. The critical precrash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs, Roadway, Speed/Distance, Vehicle present problem 
+Vehicle 2:  Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

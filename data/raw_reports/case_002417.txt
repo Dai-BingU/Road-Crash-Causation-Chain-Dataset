@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of a weekday in the middle of an urban intersection between two roadways. The intersection consisted of a two-lane east/west roadway and two-lane north/south roadway controlled by a properly functioning traffic control device. Each roadway featured one lane in each direction. Both roadways were bituminous, dry, straight, and level with a posted speed limit of 48kmph (30mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1995 Dodge Caravan minivan with two occupants, was westbound in lane one. V2, a 1994 Nissan Sentra with two occupants, was southbound in lane one. As both vehicles entered the intersection, the front of V1 struck the left side of V2, the two vehicles than side-slapped as right side of V1 contacted the left side of V2. The front of V1 then impacted a light pole on the southwest corner of the intersection and came to final rest. V2 came to final rest approximately 5m (16 ft.) west of the point of impact. Both vehicles were towed due to damage. The driver of V1, a 21-year old male, reported no injuries. The 19 year-old female occupant sustained minor injuries and was transported to a medical facility. He could not be contacted for an interview. The Critical Precrash Event for V1 was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Event was coded as an unknown driver error. The only associated factor coded to V1 was an illegal maneuver as he failed to stop for a traffic control device. The driver of V2, a 32 year-old female, reported minor injuries and was transported to a medical facility. The 30 year-old female occupant reported minor injuries and was also transported to a medical facility. The driver stated to the Police that she was traveling through the green light and the driver of V1 ran the red light. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street, across path. The Critical Reason for the Critical event was not coded to this vehicle. There are no known associated factors coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

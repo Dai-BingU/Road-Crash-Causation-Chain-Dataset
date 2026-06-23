@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the northbound lanes of a two-lane highway. There is one northbound and one southbound lane. This was a slightly elevated street that curved to the left. It has a posted speed limit of 56 kmph (35 mph). It was the early morning on a weekend and the roads were wet, the sky was cloudy, and there had been heavy rains very early in the morning. V1, a 1999 Mazda Millenia with 4-doors was driven by a 27 year old female who was transported due to injuries. V1 was traveling northbound in lane one when the driver went off the road towards the right and struck a tree on the right front side, and spun about 90 degrees clockwise coming to a rest in lane one in the southbound lane. An attempt to talk to the driver at the hospital was denied. Several attempts to get in contact with the driver have turned up unsuccessful. The Critical Precrash Event for V1 was “this vehicle traveling off the edge of the road on the right side. The Critical Reason for Critical Precrash Event was coded “unknown reason”. Associated factor was wet roads due to the heavy rain. After reviewing the medical reports it was discovered that she had a history of sickle cell disease, stroke, her gallbladder was removed, she has a port-a-cath and seizures. In the report she states that her last seizure was 5 days ago and that she has one seizure a week. It should be noted that there was a transient loss of consciousness when admitted to the hospital.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Unknown Reason - Unknown reason for critical event

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lane of a two-lane roadway. Conditions were daylight and dry in the afternoon on a weekday. The posted speed limit was 72 KMPH (45 MPH). V1 was a 1993 Ford F150 pickup truck traveling northbound in the first travel lane approaching a driveway intending on going straight. V2, a 2003 Mazda Protégé sedan, was directly in front of V1 stopped in the first travel lane intending on turning left onto the driveway. The front of V1 struck the back of V2 in the northbound lane. V1 came to final rest facing northwest and V2 came to final rest facing southwest. V1 was driven by a 38-year-old male who was not injured. He stated that he was traveling northbound when he looked down to adjust the radio and did not see V2 until the last minute. The driver of V1 swerved right and braked but could not avoid contact with V2. V1 was traveling between 66 and 80 KMPH (41-50 MPH) at the time of impact. V1 was towed due to damage. The Critical Precrash Event for V1 was the other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Precrash Event was a driver related factor, internal distraction. V2 was driven by a 50-year-old female who was not injured. She stated that she was stopped in the roadway waiting to turn left when the truck struck her from the rear. V2 did not take any avoidance actions and was stopped at the time of impact. V2 was towed due to damage. The Critical Precrash Event for V2 was the other motor vehicle in lane, traveling in the same direction with higher speed. No Critical Reason for the Critical Precrash Event was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

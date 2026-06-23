@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekend in the median of a 4-lane, limited access interstate highway. The north/south highway consisted of two lanes in each direction divided by a grassy median and a guardrail. The bituminous highway curved gently to the right (in the northbound direction) with a downhill grade greater than 2% and a posted speed limit of 113 kmph (70 mph). The weather was clear, the road was dry but traffic was congested causing a traffic restriction. V1, a 2001 Kia Sephia, was northbound in lane two of the highway traveling at 64-80kmph (41-50 mph). The traffic in the right lane (lane one) was congested and traveling much slower, 16-24kmph (10-15 mph). A non-contact vehicle suddenly changed lanes from lane one to lane two. V1 braked and the driver steered left to avoid the non-contact vehicle. V1 exited the roadway to the left, slid into the median in a counterclockwise yaw and struck the center guardrail with its front. V1 then came to final rest in the median facing north. V1 was towed due to damage. The driver of V1, a 23-year-old male, advised that he was traveling home from his parents' house where he had been visiting for the weekend. He had driven about 130 miles and had about another 30 miles to go but was not in a hurry. He stated that he knew that the traffic in the right lane was slow and when the other vehicle pulled into his lane suddenly, he had nowhere to go. He successfully avoided the non-contact vehicle but could not avoid going into the median and striking the guardrail. He was transported for treatment of minor injuries The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road on the left side. The Critical Reason for the Critical Event was a decision error, traveling too fast to be able to respond to unexpected actions of others (vehicle encroaching into his lane). In addition to traveling too fast for conditions, the congested traffic restriction was coded as an associated factor.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :

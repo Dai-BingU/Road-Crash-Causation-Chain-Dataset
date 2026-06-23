@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This crash occurred on a 4-lane highway that is divided by a grassy median. The northbound lanes have three turning lanes that head west and the southbound lanes have two turning lanes that head east and are controlled by traffic control devices. The weather conditions were sunny and dry. Vehicle 1, a 2004 Grand Marquis was traveling northbound turning left against the light at the intersection from lane number 2 (which is not a turning lane). Vehicle 2, a 2004 Mitsubishi Galant, was traveling southbound on the highway going straight when its front struck V1's right side. V1 then struck Vehicle 3, a 1995 Honda Accord, which was stopped at the intersection going east. V1 then continued along its path and struck Vehicle 4 (1997 Toyota Camry), which was also stopped at the intersection going east where V1 came to rest. The door of V1 had to be cut by EMS to remove the driver. Vehicle 1 and 2 were both towed due to damage. V3 and V4 were both able to be driven away. The driver of V1 was a 23-year-old male. The passenger fled the scene. The driver of V1 stated he was making a left turn at the intersection when V2 hit him on his right side. The driver of V1 was transported with non-incapacitating injuries. The Critical Precrash Event for V1 was "this vehicle traveling, turning left at intersection." The Critical Reason for the Critical Precrash Event was a decision error, an illegal maneuver. Associated factors include conversation with the passenger and inadequate surveillance. The driver of V2, a 22-year-old male, stated that V1 turned against the light when he had the right of way, causing him to strike him. Occupants of V2 were transported to a trauma center with incapacitating injuries. The Critical Precrash Event for V2 was "other vehicle encroachment, from opposite direction, over left lane line." The Critical Reason for the Critical Precrash Event was not coded for this vehicle. One associated factor coded to the driver of V2 was conversation with a passenger. V3 was driven by a 35-year-old female. No Critical Precrash Event and no Critical Reason were coded to V3, as it was not involved in the first harmful event. No associated factors were coded to the driver of V3.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Unknown
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

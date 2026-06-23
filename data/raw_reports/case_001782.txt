@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of a weekday on the roadside of the southbound lanes of a divided roadway. The roadway consisted of three southbound lanes (with lane one as a merge lane) that had a posted speed limit of 89kmph (55 mph). The bituminous roadway is dry, straight, and level. Traffic flow was normal and there were no adverse atmospheric conditions. V1, a 1994 4-door Isuzu Rodeo, that had just turned right (southbound) onto the highway from an eastbound lane. V1 departed the roadway to the right, and hit a Utility pole on the right roadside. Driver stated that he's not sure what happened. V1 came to final rest against the pole at the point of impact. V1 was towed due to damage. V1 was driven by a 34-year-old male on his way home from the gym. He stated that he was driving in lane one, and he was trying to merge into lane 2 when he lost control of the car and departed the roadway. He said the next thing he knew he hit the light post. From investigating the inside the vehicle, it seemed as if the driver was drinking a protein drink while driving. He had just left the gym and was probably drinking the beverage to supplement his workout. There was evidence of the beverage all over the inside of the windshield. The driver was uninjured in the crash. The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of road on the right side. The Critical Reason for the Critical Event was a driver related factor, an internal distraction (drinking while driving). In addition to the internal distraction poor directional control was coded as an associated factor as the driver failed to control the vehicle with skill ordinarily expected.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning right
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

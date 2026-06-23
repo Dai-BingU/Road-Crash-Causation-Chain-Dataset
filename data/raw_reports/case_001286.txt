@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred in the evening hours before midnight on an eastbound divided state route consisting of 2 eastbound lanes, with a paved shoulder to the right and a short-sectioned concrete jersey barrier to the left side of the travel lanes. The barrier separates eastbound lanes from westbound lanes. The roadway has full control, was dry, is straight, level and of bituminous construction. At the time of the crash, it was clear, but dark, and streets lights illuminated the roadway. The posted speed limit for the road is 97 kmph (60 mph). Vehicle one (V1), a 1995 Chevrolet Camaro, was traveling eastbound in lane one. The V1 driver, a 19-year-old male, stated that he steered sharply to the left to avoid colliding with a non-contact vehicle that crossed over in front of him from lane two onto an exit ramp to the right. The V1 driver also braked shortly after steering left, and these avoidance actions caused V1 to enter a counterclockwise yaw. V1 departed the road to the left, and had a frontal impact with the barrier that moved the barrier substantially to the north, continued to rotate as it departed the barrier then re-contacted the barrier with the back right corner, rode partially up onto the barrier and came to rest against the barrier facing generally west. V1 was towed due to damage. The V1 driver had completed driver's education in high school. He was coming from his brother's house and was headed to his residence, a distance of approximately 8 kilometers (5 miles). He drives the route daily, is familiar with V1, and stated that V1 was in good condition. The V1 driver's employment involves heavy lifting, and he works an average of 6 hours per day. He said that he had been up for 14.5 hours, but had been sleeping well and felt well rested, not in a hurry and without any concerns as he started his trip. The critical pre-crash event for V1 was coded: other vehicle encroachment-from adjacent lane (same direction)-over left lane line. The critical reason for the critical event was coded to the V1 driver as a driver related factor: incorrect evasive action. If the driver had steered right, he could have brought the vehicle to a safe stop on the right shoulder of the exit ramp. Overcompensation was an associative factor for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

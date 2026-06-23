@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary A three-vehicle daytime collision occurred shortly after noon on a Friday. The collision occurred heading eastbound on a four lane undivided roadway. The pre-crash roadway for all vehicles is straight and level concrete paving, with a fifth turn lane at the intersection preceding the crash. The roadway has a non-posted speed limit of 48 kmph (30 mph). The crash occurred after an intersection with traffic signals and pedestrian crossings, but this intersection was not a factor in the crash. Vehicle one (V1), a 2001 Nissan Pathfinder sport utility vehicle, was traveling northbound on the roadway in lane 2. Vehicle two (V2), a 2001 Ford Windstar cargo van, was traveling northbound in lane 2. Vehicle three (V3), a 2000 Mazda Protégé sedan, was traveling northbound in lane 2. A vehicle several cars ahead of V3 stopped to turn left onto a side street. V3 stopped behind the traffic, and V2 stopped behind V3. V1 did not stop in time and the front of V1 impacted the rear of V2. The driver of V2 was transported for possible injury. V1 and V2 were towed due to damage. The driver of V1 stated that he tried to stop at a point that would have given him enough stopping distance to avoid a collision, but a soda bottle had rolled under his foot. He did state that he was able to brake at the last second, and believes that he engaged the anti-lock brake system. The police report states that a witness driving behind V1 saw the brake lights of V1 light up just before impact. The critical pre-crash event for V1 was coded: other vehicle in lane, other vehicle stopped. The critical reason for the critical event was assigned to V1 as a driver related factor: other performance error: (specified as: Driver was attentive to V2 stopped in front of him; however, he could not apply the brakes in a timely fashion because of the soda bottle in front of the brake pedal). The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not assigned to this vehicle. V3 was not involved in the first harmful event. The critical reason was not assigned to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other performance error (specify):
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

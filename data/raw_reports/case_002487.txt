@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of a weekend in the intersection of a northbound one-way roadway and a two-way east and west roadway. All roadways were straight and level and had a speed limit of 48kmph (30mph). The northbound entrance into the intersection was controlled by a stop sign. It was daylight and clear with no adverse conditions. V1, a 1998 Mercedes-Benz ML320, was traveling westbound approaching the intersection. V2, a 1999 Chevrolet Lumina, was traveling northbound and stopped at the stop sign. As V2 proceeded into the intersection, its front impacted the left side of V1. V1 than yawed counterclockwise and the right-rear wheel impacted the curb. The right side of V1 then impacted a breakaway light-pole and rolled over one quarter turn before coming to final rest on its right side. V1 was driven by a 35 year-old male who sustained minor injuries and was transported to a medical facility. A complete interview could not be obtained, but the driver stated that he was going straight when he was impacted by V2, who did not stop at the stop sign. The Mercedes-Benz was towed due to damage. The Critical Pre-crash Event for V1 was coded as: Other vehicle encroaching into lane, from crossing street across path. The Critical Reason for the Critical event was not coded to the driver. An associated factor coded to the driver was a decision error, traveling too fast for conditions, too fast reason unknown. The Chevrolet Lumina (Vehicle # 2) was driven by a 39 year-old female who did not sustain any injuries. The driver stated that she stopped at the stop sign before proceeding through the intersection. The driver declined to participate in the study. The Chevrolet was towed due to damage. The Critical Pre-Crash Event was coded as: This vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Event was coded as a driver related factor, a decision error, driver crossed with obstructed view. The associated factors coded to the driver were, other decision factor, that she crossed with obstructed view and a sightline restriction caused by legally parked vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance present problem 
+Vehicle 2:  Decision, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Other decision error (specify) :

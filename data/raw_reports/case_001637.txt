@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-lane residential roadway. There was one lane in each direction with no lane markings. The road was asphalt, dry, level with a curve to the right (radius of curvature of 68m) and a posted speed limit of 24kmph (15mph). Weather conditions were clear and dry. Traffic was light when the crash occurred on a weekday afternoon. V1, a 1994 Subaru Impreza four-door with three occupants, was northbound in lane one. As the vehicle entered the curved section of road, the driver of V1 looked away from the road and V1 hit and jumped the left curb, departing the road on the left side. The vehicle continued across a yard and a driveway and struck a utility pole. The vehicle bounced backward and landed less than a meter from the pole facing north. V1 was driven by a 16-year old male who was coded as not injured but was transported to a hospital. His two female passengers were transported to the hospital although they were coded with either unknown or no injuries. The driver said he was traveling about 40 kmph (25 mph), which is over the posted speed limit, while driving from one friend's home to another. He reported that as he was driving he turned his head to the right and looked over his shoulder while conversing with the back seat passenger. When he looked back the vehicle had entered the curve to the right. He did not have time to respond before his vehicle's front end hit the utility pole off the left side of the road. The Critical Pre-crash Event for V1 was this vehicle traveling off the edge of the road on the left. The Critical Reason for the Critical Event was driver related internal distraction. The driver looked at and was conversing with the back seat passenger. He also had a very powerful car stereo system with a large speaker in the trunk. The volume was up very high. V1 was also assigned associated factors for driver fatigue (only 4 hours sleep), inexperience and driving too fast, reason unknown (at least 10 mph over the speed limit).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Inexperience, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This one-vehicle crash occurred during early evening hours on a northbound two-lane expressway. The expressway consists of two northbound lanes and a wide shoulder to the right that eventually merges into a westbound expressway. To the west of these two lanes is a painted median separating two additional northbound lanes that merge onto another expressway. The painted median transitions into a short concrete median wall, separating the four lanes from each another. Just south of the start of the concrete wall are nine crash barrels. The speed limit on the expressway was 72 kmph (45 mph). There were no adverse weather conditions or roadway restrictions. Vehicle one (V1), a 1998 Oldsmobile Achieva SL sedan driven by a 60 year-old female, was traveling northbound in the second lane. The driver stated that an unknown vehicle from the first lane cut her off, causing her to swerve left. The front of the V1 contacted the crash barrels. The vehicle came to rest against the barrels, facing generally north. The driver received an unknown injury according to the police report and she was transported to a medical facility. The vehicle was towed due to damage. The driver of V1 had been driving for approximately 30 years. She was familiar with the roadway, traveling this area nearly everyday for her commute to and from work. The driver indicated she had been test-driving the vehicle for the past two weeks to help her decide whether to purchase it from a local auction shop. She stated she had driven the vehicle more than 10 times during this period. The evening prior to the crash, she went to sleep about 3 hours. She then worked 12 hours and had been awake for nearly 15 hours when the crash occurred. The driver indicated that she normally receives approximately 6 hours of sleep per night, and works between 8 to 12 hours a day. The police report indicated that the driver had consumed alcohol, but there was no supplemental information concerning if a BAC test was done. The driver also stated that she was taking four different medications: Levothroid, Premarin, Glyburide, and an unspecified high blood pressure medication. The driver was familiar with the area but not overly familiar with the vehicle. In addition, the right side mirror was missing prior to the crash. When another vehicle encroached into her lane from the right she exhibited poor directional control by steering to the left and not applying the brakes. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on left side. The critical reason for the critical event was coded as a driver related factor: poor directional control (e.g., failing to control vehicle with skill ordinarily expected.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Distraction, Driver Fatigue, Driver Performance, Drugs, Traffic, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

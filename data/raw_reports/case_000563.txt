@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 1998 Jeep Grand Cherokee was traveling northbound on a four lane, one way, dry asphalt roadway in daylight conditions. V1 was approaching the intersection intending to go straight. V2, a 1993 GMC Safari was traveling eastbound on a four lane, two way, dry asphalt roadway in similar conditions. V2 was approaching the same intersection also intending to go straight. The driver of V1 stated that he was talking on his cell phone and did not notice the light was red. The front of V2 contacted the left of V1 in the middle of the intersection. V1 then rotated counterclockwise and its left side contacted the right side of V2. V1 then rolled one-quarter turn and came to final rest on its right side in the intersection. The driver of V1 was a 43-year old male who had reported that he had been traveling 2-16kmph (1-10mph) prior to the crash. He stated that he was driving in the second lane on the street. He was tlaking on his cell phone and did not notice that the light had turned red. V2 hit him in the left sid and he rolled over. He had no health related problems and had taken no medication prior to the crash. He was rested and unsure of where he was going. He does not wear prescription lenses. He sustained minor injuries and received medical attention on scene, but refused further treatment. The Critical Precrash Event for the driver of V1 was: this vehicle traveling crossing over passing through intersection. The Critical Reason for the Critical Precrash Event was a recognition error: inattention, because the driver stated that he was talking on his cell phone and did not notice the light was red. The driver of V2 was a 47-year old female who had reported that she had been traveling 34-48kmph (21-30mph) prior to the crash. She suffered from high blood pressure and had taken an unknown type of medication prior to the crash. She stated that the light had turned gree so she started through the intersection when V1 crossed in front of her. She was unable to avoid him and hit him in the left side. She was rested and traveling home. She does not wear prescription lenses. She was uninjured in the crash and refused treatment. The Critical Precrash Event for the driver of V2 was: other motor vehicle in lane from crossing street, across path. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2 and she was not thought to have contributed to the crash. She took appropriate avoidance actions.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Decision, Distraction, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

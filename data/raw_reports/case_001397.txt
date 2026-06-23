@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two vehicle intersection crash occurred during early morning daylight hours. This is a four-way intersection of two urban, bituminous, dry, level, six lane roadways. The intersection was controlled by operating overhead traffic signals with pedestrian lights. The speed limit for both roadways posted 56 kph (35 mph). There were no environmental or roadway deficiencies. Vehicle one(V1) a 1990 Lincoln Continental 4 door sedan driven by a 45 year-old male was traveling southbound in the #3 lane. Vehicle two (V2) a 2000 Hyundai Elantra 4 door sedan driven by a 48 year-old female was stopped facing eastbound in the #3 lane waiting for the light to change. The light changed to green and the driver of V2 entered the intersection. The front of V2 struck the right side of V1. There were no evasive efforts made by either driver. V1 began to rotate clockwise, spun approximately 180 degrees, and came to final rest on the south side of the intersection facing generally north. V2 rotated clockwise and came to final rest very near the point of impact facing generally southeast. V1 was towed from the scene, V2 was driven. The pre-event movement for V1 coded going straight, category this vehicle traveling crossing over passing through intersection. Critical reason driver related factor "Illegal maneuver". (disregard of traffic signal). The pre-event movement for V2 coded starting in traffic lane, category this vehicle traveling crossing over passing through intersection. Critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Inexperience, Driver Stress/Emotion, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

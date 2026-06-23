@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at a three-legged intersection on an undivided, two-lane, level roadway. In the eastbound direction, this roadway curves to the right (the radius of curvature is 252 meters and the superelevation is three percent). The speed limit on this roadway is 72 kmph (45 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2000 Pontiac Montana, was eastbound in lane one. Vehicle two (V2), a 1990 Lincoln Town Car, was stopped eastbound in lane one, waiting to turn left at the intersection. The front of V1 struck the back of V2. V2 was towed due to damage. The driver of V1, a forty-eight-year-old female, was not interviewed. At the scene, she told the police officer that her foot slipped off the brake as she was approaching V2. No further information is available for this driver. The driver of V2, a twenty-five-year-old female, was on the way home from a store with four passengers. She was healthy, well rested and comfortable with her passengers. This driver travels this route daily and has been driving for ten years. This was her first time driving this vehicle. This driver stated that she had stopped and saw V1 when she looked in her rearview mirror. She turned the wheels to the right but was unable to attempt any avoidance maneuvers. The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; poor directional control (e.g. failing to control vehicle with skill ordinarily expected)." The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in same direction with higher speed." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance present problem 
+Vehicle 2:  Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

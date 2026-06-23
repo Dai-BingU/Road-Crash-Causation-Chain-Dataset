@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred on a weekend afternoon on a 5-lane undivided roadway. The road runs north and south with two lanes for each direction, a center turn-lane, and a posted speed limit of 72 kmph (45 mph). The conditions were clear, sunny, and daylight. V1, a 1998 Volvo S70, was traveling south in lane one when its brakes failed and the vehicle veered off the right side of the road. V1's left side sideswiped a utility pole and continued to drive over a shrub and finally coming to rest against a tree. The driver received minor injuries but was treated and released from a local hospital. This driver of V1 was a 58-year-old female and was driving home this afternoon when her brakes failed causing her to swerve off the right side of the road where she drove into a shrub and tree. She states she had dropped her husband off at the airport this morning and then visited the YMCA to exercise for 45 minutes. While returning home from the gym, she approached traffic ahead of her so she tried to slow down but the brakes were not working. She says the pedal was pressed all the way down but she was not slowing. Instead of striking the vehicle ahead of her, she steered to the right and drove onto the roadside where she struck a utility pole, shrub, and a small tree. She crawled out of the car through the window and suffered a cut to her tongue after she bit it when the airbag deployed. She said that she bought the car five years ago when she lived in California and had never had trouble with the vehicle. She admits she does not know much about cars but her husband drove the car a week earlier and told her to get the car serviced because he thought there was something wrong with the brakes. The Critical Precrash Event for V1 was coded "this vehicle's control loss due to vehicle failure" and the Critical Reason for the Event was coded "brakes failed".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Disabling vehicle failure (e.g,  wheel fell off) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Brakes failed

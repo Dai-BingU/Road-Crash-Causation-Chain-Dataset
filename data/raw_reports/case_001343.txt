@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This is a two vehicle, non-intersection crash that occurred on open, 2-lane, dry, rural, bituminous roadway with no traffic controls. The crash occurred during morning daylight hours and the roadway had a posted speed limit of 80 kmph (50 mph). The roadway has one northbound and one southbound lane and no traffic controls. The roadway is straight and level at the point of impact. There is a slight downgrade for each vehicle just prior to the crash site and no sight line restriction. The weather was clear and there were no roadway deficiencies. Vehicle one (V1) 1989 Chevrolet truck chassis converted to a walk-in delivery van selling and distributing food items. driven by a 19 year-old male with one passenger. V1 was traveling north about five car lengths behind V2. Vehicle two (V2) is a 2000 Ford Ranger XLT extra-cab pickup driven by a 43 year-old male with one passenger. The vehicles were traveling at a constant speed each of about 72 kmph (45 mph). The driver of V2 decided to make a U-turn. He stated that he looked in the side mirror before making the U-turn and accelerated rapidly as he made the turn in front of V1 The driver of V1 saw the movement, steered left, applied hard braking with lockup, and struck the left side of V2 the impact caused V2 to be rotated clockwise and be pushed off the west edge of the roadway. V2 then struck a sand embankment approximately one meter in height with the front of the vehicle while traveling generally northwest. V2 then went up the embankment and struck a barbed wire fence. V2 came to final rest atop the embankment, partially through the fence and facing generally northwest. The driver and passenger were transported with injuries. V2 was towed due to damage. V1 stopped on the roadway after impact facing generally northwest. V1 was towed due to damage. The driver and passenger of V2 were transported to a local medical facility. The critical pre crash event for V1 was coded: other/ forward vehicle making u-turn in front of this vehicle. The critical reason for the critical event was not coded to this vehicle. The critical pre crash event for V2 was coded: other/ this vehicle making illegal u-turn. The critical reason was coded to V2 as a driver recognition factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver of V2 looked to the rear of his vehicle prior to initiating the U-turn and did not see V1 at that time. Due to this inadequate surveillance, he made a decision to make an illegal maneuver that endangered other motor vehicles and himself.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other- Other (specify) :
+ 2 ：Other- Other (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

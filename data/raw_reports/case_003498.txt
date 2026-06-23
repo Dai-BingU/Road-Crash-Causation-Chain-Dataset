@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the afternoon hours of a weekend at the intersection of a one-way roadway and a two-way roadway. The intersection consisted of a one-way southbound roadway and a two-way east/west roadway. The southbound roadway was controlled by a stop sign. Both roadways were dry, straight, level and had a speed limit of 48kmph (30mph). V1, a 1992 Lexus LS 400 four door with three occupants, was traveling eastbound. V2, a 2000 Ford Explorer four door with a single occupant was traveling southbound. At the intersection, the frontal plane of V2 impacted the left side plane of V1. V1 and V2 came to a final rest within a few meters from the location of the impact. V1, the Lexus LS 400 was driven by a 26 year-old male who sustained minor injuries and was transported to a medical facility. He advised that he was coming from watching a football game with friends and family and on his way home. The Critical Pre-crash event for V1 was “other vehicle encroachment, from crossing street across path.” The Critical Reason for the Critical event was not coded to this driver, because he was not thought to have contributed to the crash. No associated factors were coded to the driver. The driver wore eyeglasses that corrected a myopic condition. V2, the Ford Explorer was driven by a 58 year-old male who sustained minor injuries and was also transported to a medical facility. He stated that he stopped at the stop sign, looked both ways and then proceeded through the intersection. He also advised that he was coming from home and on his way to a Church service. The Critical Pre-Crash event for V2 was “this vehicle traveling, crossing over (passing through) intersection.” The Critical Reason for the Critical event was a Driver related factor, inadequate surveillance (looked but did not see). An Associated factor coded to the driver was a recognition factor, looked but did not see. Another associated factor was that the driver used an unknown prescribed medication for a high “blood-sugar” condition. The driver wore eyeglasses that corrected a myopic condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

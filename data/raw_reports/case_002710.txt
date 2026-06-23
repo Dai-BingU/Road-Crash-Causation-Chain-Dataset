@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three vehicle daytime collision occurred during the afternoon lunch hour the second of three southbound lanes of a divided interstate highway. The pre-crash roadway for all three vehicles is straight, slightly downhill (>2 degree grade)dry bituminous. The number 3 lane is a High Occupancy Vehicle (HOV) lane. The roadway has a shoulder adjacent to the #1 lane and the paved surface is bordered on both sides by a short concrete jersey barrier. The posted speed limit for the roadway is 97 kmph (60 mph). Vehicle one (V1), a light gold 1996 Ford Contour sedan, was traveling southbound on the roadway in lane two. The V1 driver, a 20 year old female noticed traffic ahead stop and applied her brakes but was unable to avoid a collision between the front of V1 and back of vehicle two (V2). She stated that the V 1 brakes were in need of repair and that due to the condition of the brakes, she was unable to stop. V2, a black 2004 Chevrolet Silverado pick-up, was traveling southbound in lane two. The V2 driver, a 52 year-old male, stated that he did come to an abrupt stop, because traffic ahead did, and that he had been at a complete stop for about 2 seconds. He added that he looked in his rearview mirror, noticed V 1 coming, and braced on the steering wheel. He did not know if V1 was braking or not. Vehicle three (V3), a gold 2003 Lincoln Town car sedan, was traveling southbound in lane two. V3 stopped for traffic, and V2 stopped behind V3. The V3 driver, a 48 year-old male, also stated that traffic came to a fast stop, and added that he had 3-3.7 meters (10-12 feet) between his vehicle and the vehicle in front of him. V1 was towed due to damage; V2 and V3 were driven from the crash scene. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was assigned to V1 as a driver related factor: too fast to be able to respond to unexpected actions of others (specified as: stop and go traffic). An associative factor was coded because the driver stated V1's brakes were in need of repair. The critical pre-crash event for V2 was coded: other vehicle in lane, traveling in same direction with higher steady speed. The critical reason was not coded to this vehicle. V3 was not involved in the first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Speed/Distance, Surveillance, Traffic, Vehicle present problem 
+Vehicle 2:  Driver Physical, Drugs, Traffic present problem 
+Vehicle 3:  Distraction, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

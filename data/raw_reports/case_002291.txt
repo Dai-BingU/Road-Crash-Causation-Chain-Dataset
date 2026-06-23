@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a straight, level three-lane divided interstate (6 lanes total) with a posted speed limit of 105 KPH (65 MPH). There were two southbound lanes and an acceleration lane at the crash site. The weather was clear, the roadway dry and it was daylight at the time of this early morning weekday crash. Vehicle #1, a 1997 Honda Civic, was traveling south in the passing lane (lane 3) of the interstate. A non-contact vehicle moved into the path of Vehicle #1 from the right. The operator of Vehicle #1 attempted to avoid the non-contact vehicle by steering to the right. Vehicle #1 began to rotate clockwise and across the driving and acceleration lanes. Vehicle #1 continued off the right side of the roadway striking a delineator with its left side and then striking a rock embankment with its front. Vehicle #1 continued to rotate clockwise, came back on the roadway and came to rest facing in a northwesterly direction. The Honda Civic (Vehicle #1) was driven by a belted 34-year old female who was transported, treated and hospitalized for a complaint of pain. No interview was obtained. She stated (in the medical) that she was driving in the daytime when another driver cut in front of her and in an attempt to avoid an accident she swerved. There was no additional information available. Vehicle #1 was towed due to damage. The Critical Precrash Event for the driver of Vehicle #1 was when she lost control of her vehicle due to her traveling too fast for conditions. The Critical Reason for the Critical Event was coded as overcompensation, a performance error. This was chosen because the driver overreacted to the situation by steering too abruptly to the right. An associated factor coded to this driver was the use of an unidentified allergy pill. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

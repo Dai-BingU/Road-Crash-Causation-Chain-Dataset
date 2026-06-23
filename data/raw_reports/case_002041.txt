@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a north/south two-lane undivided secondary arterial roadway that is intersected by a two-lane residential road from the west. Traffic counts of 2003 indicate the arterial road carried 12,582 vehicles per day with a posted speed limit of 72 kmph (45 mph). Southbound travelers have a -4 percent grade at the intersection as they exit a slight curve to the left with a radius of 340m. Northbound the road is straight with a +4 percent grade. Conditions at the time of the crash were daylight, dry and clear on a weekday just after noon. Vehicle #1 was a 1996 Plymouth Breeze traveling north that had stopped waiting for traffic to clear in order to make a left turn onto the intersecting side street. Vehicle #2, a 2001 GMC Sonoma pickup, was southbound on the two-lane road. Vehicle #1 attempted to turn left and Vehicle #2's front left corner struck its front. After impact the pickup (V2) rotated counterclockwise and rolled over four quarter turns, coming to rest on its wheels facing north just off the west edge of the road 26m southwest of impact. The Plymouth (V1) came to rest facing south just off the east edge of the road 16m southeast of impact. Both vehicles were towed due to damage. Vehicle #1 was driven by a belted 71-year old female. She and her 14-year old passenger were treated and released from a local hospital with minor injuries. Both frontal airbags deployed in the collision. The Critical Precrash Event for Vehicle #1 was this vehicle turning left at intersection. The Critical Reason for the Critical Event was misjudgment of gap or other's speed. In the interview, the driver stated that she thought the pickup (V2) was turning right onto the intersecting side street, but her statement was not deemed reliable. The driver of V1 took several medications to treat high blood pressure and diabetes. She was wearing her bifocals at the time of the crash. Vehicle #2 was operated by a 52-year old male that was belted with deployed frontal airbags. He was transported to a hospital with minor injuries. EDR data retrieved from the vehicle indicated the pickup was traveling 72 kmph (45 mph) during the entire five-second pre-crash sequence with no brake activated. The maximum longitudinal velocity change was 25.4 kmph (15.8 mph). The driver stated he never saw the other vehicle and took no evasive actions. He admitted that his attention might have been directed towards the intersecting two-lane side street because vehicles "are always pulling out in front of you at that spot." The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. An associated factor coded to this driver was his focus on the intersecting roadway to his right (an exterior factor), as he was looking at approaching traffic to see if any vehicles would pull out from that roadway. Another associated factor coded to this driver was speed. As per the EDR, Vehicle #1 was traveling at 45 mph for the entire pre-crash sequence. Scene photos revealed that Vehicle #1 had just entered a 25 mph school zone prior to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs present problem 
+Vehicle 2:  Distraction, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

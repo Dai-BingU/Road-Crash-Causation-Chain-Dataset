@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This is a three vehicle rear-end crash that occurred during the early afternoon hours on a four lane dry asphalt north/south roadway The crash occurred in the number two lane of the southbound roadway near an intersection. The intersection is controlled by traffic signals in both directions with a pedestrian crossing signal. The speed limit on the roadway where the crash occurred is posted 56 kmph (35 mph). There were no environmental factors, no sight line restrictions or obstructions that contributed to this crash. Vehicle three (V3) was a 1996 Ford F-150 pick-up truck driven by a 47 year-old female. V3 was traveling southbound in lane two approaching the intersection when the driver came to a stop behind two to three other vehicles. The driver of V3 stated that she was stopped for the red light for approximately 1 minute prior to being impacted from behind by vehicle two (V2). V2 was a 1996 Geo Metro driven by a 47 year-old male who was also traveling southbound in lane two. V2 was approaching the intersection when the driver came to a stop behind V3. The driver stated that he was stopped for approximately 1 minute. The driver stated that after that, his vehicle was struck from behind by vehicle one (V1). The impact forced V2 to travel forward striking the rear of V3. V1 was a 1994 Chrysler LHS sedan driven by an 85 year-old male with one passenger. V1 was traveling southbound in the number two lane approaching the intersection when the driver attempted to stop his vehicle. The driver stated that he thought he took his foot of the gas pedal to push the brake but instead unintentionally pushed the gas pedal. This forced his vehicle to continue to travel forward striking the rear of V2, forcing V2 into the rear of V3. All vehicles involved came to rest in the number two lane of the four lane roadway facing south. The driver of V1 was on his way to a doctor's appointment for which he was late. He only gave a partial interview to the researcher, so many factors are unknown for this driver. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was attributed to the driver of V1 as a driver related factor: poor directional control (e.g., failed to control vehicle with skill ordinarily expected). The driver went to step on brake and stepped on gas pedal in error. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction at higher speed. The critical reason was not coded to this vehicle. V3 was not involved in the first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

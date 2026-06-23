@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of two roadways. The north/south street was a two-way, four-lane, undivided roadway with a posted speed of 48 kmph (30 mph). The east/west street was a two-way, five-lane undivided roadway with a posted speed of 56 kmph (35 mph). The intersection was controlled in all directions by a traffic control light. Conditions were daylight on a weekday evening with dry roads and clear skies. Traffic flow was normal. V1 was a 2001 Ford Crown Victoria marked police car traveling southbound in lane two. V2, a 1994 Plymouth Voyager, was traveling eastbound in lane two. V3, a 1991 Honda Accord, was stopped at the traffic light, facing northbound, in lane two. All three vehicles were approaching the same intersection. Just as V1 got to the intersection, the driver activated his emergency lights and began to accelerate (in response to an emergency call). As V1 and V2 entered the intersection, the right side of V1 made contact with the front of V2. V1 continued in a southeast direction. The front of V1 then made contact with the front of V3, which was stopped at the traffic light. V1 continued southeast, leaving the roadway before making contact with a small signpost before coming to final rest. All three vehicles were towed due to damage. All drivers and occupants refused treatment. V1 was driven by a male of unknown age. The driver could not be contacted for interview. The Critical Precrash Event for V1 was coded as other vehicle encroachment, from crossing street, across path. The Critical Reason for the Critical Event was a decision error, false assumption. The driver assumed that because his emergency lights were activated, cross-traffic would yield the right-of-way. One associated factor was inadequate surveillance the driver failed to look either side ahead before entering the intersection against a red light. Another associated factor was that the impending problem was masked by the traffic flow pattern. Eastbound vehicles that were stopped in the left turn lane blocked V1's view of V2. Also, the driver crossed with an obstructed view, and was in a hurry to respond to an emergency call. The emergency response itself created a traffic flow interruption, which was also a factor in the crash. V2, the Plymouth Voyager, was driven by a 21-year old male. He stated that he was on his way to the park for a picnic. He was focused on the traffic light ahead. The driver said that there were cars lined up in the left turn lane next to him, blocking his view of any traffic, which might have been coming southbound. However, the driver proceeded into the intersection, knowing that southbound traffic had a red light. The driver commented that although V1 activated his lights as he entered the intersection, he did not activate his siren (this was confirmed by a witness). The driver said that he hit his brakes, but there was nothing he could do, as he was already in the intersection. The Critical Precrash Event for V2 was coded as this vehicle traveling crossing over (passing through) intersection. The Critical Reason for the Critical Event was not coded to this vehicle. One associated factor for this driver was an impending problem masked by the traffic flow pattern. Also, as with V1, there was the presence of an emergency vehicle, which interrupted the flow of traffic. V3, the Honda Accord, was driven by a 23-year old male. He stated that he had just dropped off a friend and was stopped at the traffic light. He said that V1 and V2 collided in the intersection, and then V1 came toward his vehicle, hitting him in the front left corner. V3 was not involved in the first harmful event. The Critical Reason for the Critical Event was not coded to this vehicle. As with V1 and V2, there was the presence of an emergency vehicle, which interrupted the flow of traffic.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Stress/Emotion, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Roadway, Surveillance, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

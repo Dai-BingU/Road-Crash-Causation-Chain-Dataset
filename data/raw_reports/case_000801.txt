@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary Case #2005-41-085 This crash occurred between to vehicles approaching an intersection from opposite directions. The straight, level, asphalt roads were divided by a curbed median. Conditions were daylight on a weekday afternoon with dry roads and cloudy skies. Traffic flow was normal. V1, a 2004 Mercedes-Benz C240 Station Wagon, was traveling southbound in lane five (the left turn lane). V2, a 1997 Mitsubishi Eclipse with one occupant, was traveling northbound in lane one. V1 attempted to make a left turn. The front of V1 made contact with the left side of V2. V2 continued northbound after impact, rotating 180 degrees. V2's left side traveled over the curb onto the grass area, while the right side remained partially on the roadway. V1 was driven by a 75-year old male in fair health with a history of a heart condition for he took an unknown medication. He was wearing his prescription lenses that corrected both a Myopic (near-sighted) and Hyperopic (far-sighted) condition. He reported that he was on his way to drop off some documents just around the corner from the crash site. He indicated that he stopped in the turn lane for somewhere between five to ten seconds. It appeared to the driver that traffic was far enough away to safely turn. Only after he entered the intersection did the driver notice V2, a vehicle that he did not see when he was surveying oncoming traffic. The driver suffered no injuries and V1 was driven from the scene. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was a recognition error, inadequate surveillance. The driver was looking in the correct direction, but failed to see V2 approaching. There were no associated factors coded for this driver. V2 was driven by a 32-year old male in good health who was wearing his prescription lenses that corrected a Myopic (near-sighted) condition. He stated that he was on his way from his office to see a client. He said he was in the right lane, going about 56 kmph (35 mph). He stated he saw V1 stopped, waiting to make a left turn in front of him. He thought for a second that the other driver was going to go, and commented that he probably would have made it, had he not hesitated as he did. The driver indicated that after a brief hesitation, V2 turned into him, the collision causing his vehicle to spin around 180 degrees. The driver said that the left side of his car went over the curb as he traveled backwards. According to the driver, his rear bumper hit a small pole or post. The driver sustained minor injuries but refused treatment and V2 was towed due to damage. The Critical Precrash Event for V2 was coded other motor vehicle encroachment, from opposite direction over the left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. An associated factor was a recognition error; the driver was talking on a cell phone at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+Vehicle 2:  Cell Phone Use, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

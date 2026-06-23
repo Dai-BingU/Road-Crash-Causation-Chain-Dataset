@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This four-vehicle crash occurred mid-afternoon during daylight hours on a dry, asphalt, two-lane, straight, roadway. The road runs north and south and one through lane in each direction. The speed limit for the road is 40 kmph (25 mph) and there were no adverse weather conditions at the time of the crash. Vehicle one (V1), a 1992 Buick, LeSabre sedan driven by a 54 year-old male was southbound and the driver was getting ready to turn right into his private driveway. In front of his residences was Vehicle two (V2), a 1988 GMC Sierra pickup, which was legally parked and unattended facing south. Vehicle three (V3), a 2002 Chevrolet Cavalier sedan was legally parked and unattended in the next private driveway facing west. Vehicle four (V4), a 1982 Chevrolet Camaro was also legally parked and unattended on the south side of the same property as V3 facing east. Driver of V1 missed the right turn into his driveway and sideswiped V2, The driver continued southwest off the right side of the road and entered the yard and impacted V3 with his front to right side continued southwest and impacted V4 with his front to left side. V4 rotated slightly clockwise and impacted a wooden fence with its right side. V4 then impacted a trailer, which was parked behind it and the trailer impacted a lawn tractor, which was parked behind it. V1 came to rest on its wheels facing southwest against V4. V2 was pushed slightly clockwise and came to rest on its wheels facing southwest. V3 rotated ninety-degrees and came to rest on its wheels facing north. V4 rotated slightly clockwise and came to rest on its wheels facing southeast against the fence. V1 was towed from the scene due to moderate frontal damage. The critical pre-crash event for V1 was coded: this vehicle traveling, over the lane line on the right side of travel lane. The critical reason for the critical event coded as a driver related critical non-performance factor: heart attack or other physical impairment of the ability to act. The driver of V1 stated that he was coughing at the time of the crash. He stated the coughing has happened twice before while driving and caused two other crashes to happen. He suffers from depression, anxiety and emphysema.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Distraction, Driver Fatigue, Driver Physical, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

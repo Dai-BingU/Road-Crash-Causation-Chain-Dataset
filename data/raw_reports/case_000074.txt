@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes at an intersection of a two-way, six-lane, divided roadway with a small, raised, concrete median. There were two eastbound lanes, four westbound lanes, and an entrance to a shopping center on the south side of the intersection. The roadway had a posted speed limit of 72 kmph (45 mph). The eastbound lanes were set on a level grade, and the northbound parking lot exit was set on a 3% downhill grade. Conditions were daylight and dry with clear skies. The crash occurred in the early afternoon hours on a weekday. Vehicle one was a 1981 Toyota Cressida sedan traveling eastbound in lane one. Vehicle two was a 1985 Toyota Van LE minivan stopped facing northbound waiting to turn left. V1 was traveling behind a slower truck that was turning right into the shopping center. V1 changed lanes to the left and proceeded to go straight. V2's view of V1 was obscured by the truck, so V1 proceeded to turn left into the path of V1. The front of V1 contacted the left side of V2. The two vehicles came to rest in the intersection. Vehicle one was driven by a 19-year old female who was transported to a local trauma center with minor injuries. She stated that she was driving in the left lane when a van pulled out in front of her. She estimated her speed at 30 mph. The Cressida was towed due to damage. The Critical Precrash Event for V1 was other vehicle encroaching from driveway turning into the opposite direction. The Critical Reason was not coded to this vehicle. An associated factor for this driver was aggressive driving behavior. The sudden lane change to avoid slowing down was determined to be aggressive. Vehicle two was driven by a 32-year old male who was uninjured. He stated that he didn't see V1 and that she suddenly passed the obscuring truck after he initiated his left turn. He estimated his speed to be about 10 mph. The minivan was not towed due to damage. The Critical Precrash Event for V2 was turning left at the intersection. The Critical Reason for this event was a view obstruction created by a truck obscuring the view between V2 and V1. No other associated factors were present for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Drugs, Roadway present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Environment Related Factor- View obstructed by other vehicles

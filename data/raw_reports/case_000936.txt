@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the right eastbound lane of a four lane (two each way) divided, urban, east-west highway with a grass median, no positive barrier and an additional left turn lane on the westbound side with a break in the median which gave access to a private lot on the south side of the roadway and facilitated U-turns. The roadway where the crash occurred had a slight curve (radius of the curve =225m) to the left from the eastbound travel direction and was level. Conditions on scene were dark, rainy and wet in the early morning on a weekday. The posted speed limit was 80kph (50mph) (PAR incorrectly recorded 72kph (45mph) but researcher discovered otherwise on scene inspection). There were no controls at the intersection. Vehicle #1 was a 1981 Dodge D250 full sized pickup truck towing a homemade trailer, making a left turn from the westbound left turn lane. Vehicle #1 had almost cleared the intersection with only the towed unit still in the traffic way when Vehicle #2 struck the towed unit on the right side near the back end of the towed unit with the front of Vehicle#2. Vehicle #2 was a 1992 Toyota Camry traveling eastbound in the right lane in a slight curve left. Vehicle #1 continued on its intended travel path into the private lot and came to a stop facing south. Vehicle #2 came to rest in the eastbound lane about 40 meters east of the point of impact. Vehicle #1 was driven by a 54-year-old male who was belted and uninjured. He stated that he had been stopped for 6-7 minutes before turning left. He also stated that he did see Vehicle#2 and was sure he had enough time to cross. The Critical Precrash Event for this vehicle was this vehicle traveling/ turning left at intersection. The Critical Reason for the Critical Precrash Event was a decision error, misjudgment of gap or other's speed. Some associated factors are that there were no lights or reflective tape on an already dark colored trailer making it difficult to see in the dark with rain, also the driver of Vehicle#1 was on 8 different medications for diabetes and a heart condition (has had 4 heart attacks) and a muscle relaxer for an unknown reason. Vehicle #1 was driven from the scene. Vehicle#2 was driven by a 35-year-old female who was belted and the airbag did deploy. The driver of Vehicle#2 was eastbound in the right lane and heading to work. She said she saw the truck turn left in front of her and clear her driving path, but she did not see the trailer behind the truck. The Critical Precrash Event for Vehicle#2 was other vehicle encroachment, from opposite direction over left lane line. There was no Critical Reason coded to this Vehicle. Some associated factors for Vehicle#2 are that she had taken Tylenol PM the previous evening to assist in going to sleep and wakes up drowsy. It was also dark and raining, which restricted her sight of the poorly marked trailer even though she did see the truck crossing. She was also smoking a cigarette at the time of the crash and the researcher noted a fair amount of smoke film on the interior of the vehicles windows. Vehicle #2 was towed due to damage.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Distraction, Driver Fatigue, Drugs, Surveillance, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a Wednesday in morning daylight hours involving a passenger car and a minivan that collided at a controlled intersection. The north/south roadway is a 4-lane (2 lanes each way) divided (no positive barrier) and is straight and level. Traffic entering the intersection is controlled by stop signs. The speed limit is 30 mph (48 kph). The east/west roadway is a divided roadway with three through lanes in each direction of travel with separate left turn lanes. The speed limit is 40 mph (64 kph). The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. Vehicle # 1, a 2003 Honda Accord was traveling southbound in the second lane of the north-south roadway. The driver stopped at the stop sign before attempting to cross the intersection. Vehicle #2, a 1997 Mercury Villager, was traveling east in the first lane entering the intersection. The front of V#2 impacted the right side of V #1. V#1 rotated clockwise and moved into the southbound lanes. It came to rest partially in the first lane of the southbound lanes and partially on the pedestrian walkway, facing northeast. V# 2 rotated counter clockwise after the impact, and moved south. It came to rest at the southwest corner of the intersection, facing south. Vehicle # 2 was towed from the scene. Vehicle # 1 was driven from the scene. The pre crash movement for this vehicle #1 was coded "stopped in traffic lane." The critical pre crash event was coded "this vehicle traveling-crossing over (passing through) intersection." The pre-event movement of V#2 was coded "going straight." The critical pre crash event was coded "other vehicle encroachment-from crossing street, across path."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

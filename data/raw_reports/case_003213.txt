@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred mid-morning. Involving one passenger car. The location was a five lane divided (positive barrier, ten lanes overall) uphill highway. The road surface dry concrete, there were no detrimental atmospheric conditions at the time of the crash. The speed limit was 97 kmph (60 mph). The only vehicle in this crash (V1) was a 1998 Chevrolet Cavalier driven by a 18 year-old female was traveling west in the fourth lane of the roadway. The driver was following a vehicle in front of it at a distance of one car length or about 5 meters (16 feet). The vehicle in front applied its brakes to slow down. The driver of V1 tried to avoid a collision by applying the brakes and changing into lane five. The driver knew by looking into her side mirror there was no vehicle close in lane five. According to the driver's statements she overcompensated the sudden change of lanes and turned the wheel to the right to straighten the vehicle. The driver stated she was traveling at 105 kmph (65 mph) before the critical events happened. At this high speed and the sudden steering the vehicle started to rotate counterclockwise. The vehicle then rolled over onto its roof and during the rollover contacted the Jersey median barrier with the front and then the back of the vehicle. The vehicle was towed from the scene. The driver and sole occupant of the vehicle was not injured. The critical pre-crash event for V1 was coded: this vehicle traveling, over the left lane line of the left side of the road . The critical reason for the critical event was coded as a driver related factor: overcompensation. The driver was going slightly over the speed limit. At her own estimate the driver was traveling at 105 kmph (65 mph) in a 97 kmph (60 mph) speed zone, following the vehicle in front of her at just one car length.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

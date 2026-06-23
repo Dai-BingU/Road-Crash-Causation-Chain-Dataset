@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a four-lane undivided roadway (two lanes each direction) with a posted speed of 56 kmph (35 mph). This was a level, bituminous, dry roadway with a slight curve to the left. It was dawn on a weekday with clear skies. Traffic was heavy during commuting hours. V1 was a 2007 Toyota Camry four-door sedan driven by a 47-year old female who was on her way to work. She was traveling east in lane 2 when a non-contact vehicle crossed over the double yellow lines from the opposite direction, encroaching into the path of V1. The driver of V1 steered right in an attempt to avoid a head-on collision with the non-contact vehicle. This action caused the front right of V1 to strike the left rear side of V2, a 2003 Chevrolet Silverado pickup that was traveling east in the first lane of travel. The driver of V1 did not know if she braked or not during the avoidance and impact sequences, and after striking V2, she continued forward, drove off the roadway onto a center island and struck a tree. V2, the 2003 Chevrolet Silverado, was driven by a 37-year old male. V2 was traveling eastbound in lane 1 at an unknown speed. The driver of V2 did not want to talk and drove away with a flat left rear tire. Later attempts to inspect V2 or interview the driver were unsuccessful. The driver flatly refused to provide any information. No one was transported due to injuries. The Critical Pre-crash Event for V1 was "This vehicle traveling over the lane line on the right side of the travel lane." The Critical Reason for Critical Pre-crash Event was "Incorrect evasive action," a driver-related decision error. Associated factors coded to the driver of V2 were an exterior factor due to the non-contact vehicle and the traffic flow restriction due to rush hour traffic. The Critical Pre-crash Event for V2 was "Other motor vehicle encroachment from adjacent lane (same direction) over the left lane line." The Critical Reason was not coded to this vehicle. Due to the lack of an interview, the only associated factor that could be coded to V2 was the rush hour traffic. The police accident report did not list the non-contact vehicle as a cause; it only stated that V1 merged into lane 1, striking V2. Due to the damage points and the heavy traffic on the roadway at the time of the crash, it was thought that the non-contact vehicle was present when the crash occurred.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

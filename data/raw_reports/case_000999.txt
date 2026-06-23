@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the intersection of a two-lane, two-way roadway and a four- lane, two-way roadway. This intersection is controlled by a traffic light with pedestrian controls. The speed limit on both roadways is 48 kmph (30 mph). Both roads are straight and level with no defects noted. This crash occurred during daylight hours with cloudy conditions. Vehicle one, a 2006 Pontiac G6 was stopped westbound in the first lane. Vehicle two, a 1996 Chrysler Cirrus was northbound in the second lane approaching the intersection. Vehicle one entered the intersection and the front of vehicle two impacted the left of vehicle one. Both vehicles came to rest near the point of impact. Both vehicles were towed due to damage. Per a witness, when vehicle one pulled up to the light there was a large SUV to her right. It is unknown how much of a factor this played for vehicle one. The driver of vehicle one, a seventy-seven year old female refused to be interviewed. Per medical records this driver was taking vitamins, Prevacid, Toprol and Tylenol. The driver of vehicle two, an eight-two year old female refused to be interviewed. Per the witness interview, the driver of V2 applied the brakes & decelerated as an avoidance action, but it is unknown if the brakes locked up. The critical pre-crash event for vehicle one was coded: this vehicle traveling; crossing over [passing through] intersection. The critical reason for the critical pre-crash event for vehicle one was coded as a driver related factor: type of driver error unknown. The critical pre-crash event for vehicle two was coded: other vehicle encroachment: from crossing street, across path. The critical reason for the critical pre-crash event for vehicle two was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

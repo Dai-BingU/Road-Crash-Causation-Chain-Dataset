@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on an undivided two-lane east/westbound roadway with one lane in each direction. The asphalt roadway was dry, level, with a very slight curve to the left for westbound traffic (radius of curvature 2154m and a 2% super-elevation). The posted speed limit was 80kph/50mph. The crash happened early on a weekday morning while traffic was moderate under clear sunny skies. V1, a 1991 Toyota Celica two door with one occupant was westbound in lane one. V2, a 1992 Honda Accord two door with one occupant was eastbound in lane one. V1 traveled over the left lane line into the path of V2 and took no avoidance actions. V2 braked and steered right in an unsuccessful attempt to avoid impact. The left side of V1 sideswiped the left side of V2 (Event 1). V1 then veered back to the right yawing across both traffic lanes and off the right side of the road for approximately 58m where it's right front struck the end of a guardrail (Event 2). V1 came to rest on the north shoulder facing southwest still in contact with the guardrail. V2 after the first impact rotated in a counter-clockwise direction and yawed to final rest on the south shoulder facing northwest approximately 35m from impact. V1, the Toyota Celica, was driven by a 25-year old male who was not injured. At he scene he told both the police and the researcher that he had fallen asleep. He said he was very tired when he left home on his way to work. He did not know is speed prior to impact and only recalled driving west on the roadway. The Critical Precrash Event for V1 was this vehicle traveling over the lane line on the left side of the travel lane. The Critical Reason for the Critical Event was driver related - sleeping. Associated factors were assigned to this vehicle for driver condition/support, fatigue - based on his statement at the scene to researcher; and for other - vehicle, tire/wheel deficiency because the tires were oversized and under-inflated. V2, the Honda Accord, was driven by a 39-year old male who was not injured. He reported that he was traveling from home to work at the speed limit. He added that just a couple of seconds before impact he saw V1 across the double yellow lane stripes headed directly at him. He said he did not see any reason for V1 crossing into his path. The driver reported that although he braked without lockup and steered to the right he was unable to avoid being struck by V1. The Critical Precrash Event for V2 was other vehicle encroachment from the opposite direction over the left lane line. The Critical Reason for the Critical Event was not coded for this vehicle. An associated factors was assigned to this vehicle for other - vehicle, tire/wheel deficiency because the tires were oversized and under-inflated.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Vehicle present problem 
+Vehicle 2:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

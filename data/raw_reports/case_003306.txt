@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This 2-vehicle rear-end collision occurred in the southbound lane of a 4-lane divided roadway in the early afternoon. The road is flat, curved to the right and has a posted speed limit of 55 mph. Conditions were dry and daylight with cloudy skies. Vehicle 1, a 1999 Dodge Durango with one occupant, was traveling south in lane one. Vehicle 2, a 2005 International straight truck with one occupant, was traveling ahead of V1 in the same lane. V2, which was stopped in its lane, was struck in the rear by V1. V1 was towed from the scene but V2 was driven away. V1 was driven by a 57-year-old female that was returning to work after completing some errands during her lunch break. This driver claimed a vehicle cut off the tractor-trailer and caused everybody to suddenly stop. She reports to be in good health; wear corrective lenses and takes Clofibrate (lowers cholesterol). She did not suffer any injuries and EMS did not treat her. The Critical Precrash Event for V1 was coded: other vehicle in lane stopped and the Critical Reason for the Critical Event was coded: driver inattention. V2 was driven by a 37-year-old male that was driving his work truck this afternoon when he was involved in this crash. His normal sleep schedule is 21:30 to 05:00 hours and his work schedule is 06:00 to 14:00 hours Monday thru Friday. He reports to be in good health and not have any fatigue or emotional issues. He delivers building materials for a living and had completed three deliveries this morning. For this trip, he was making his fourth and final delivery when he stopped for the traffic ahead and was rear-ended. He states that traffic was heavy at the location of the crash and that the vehicles ahead of him had been "stop-and-go." After stopping-and-going several times, he had stopped again and was struck in the rear. He said he never saw the Dodge, but he was not looking for it either. The Critical Precrash Event for V2 was coded: other motor vehicle in lane traveling in same direction with higher speed and the Critical reason for the Critical Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

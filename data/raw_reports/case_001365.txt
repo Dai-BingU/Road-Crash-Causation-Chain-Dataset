@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This is a two vehicle left turn intersection crash that occurred at four-way intersection. The roadway has two northbound and southbound lanes and dedicated left turn and right turn lanes on each side of the intersection. The lanes are separated by a raised median. The intersection is controlled by traffic lights on colors with a pedestrian crossing signal. The speed limit on the northbound and southbound roadway is posted 64 kmph (40 mph). The speed limit on the westbound and eastbound roadway is posted 56 kmph (35 mph). There were no environmental factors that contributed to this crash. There were no sight line restrictions or obstructions noted. The crash occurred at during the hours of darkness about two hours before midnight. The intersection has overhead lighting. Vehicle one (V1), a 1991 Nissan Sentra 4 door, was traveling northbound in the #2 lane at approximately 48 kmph (30 mph) approaching the intersection. The driver, a 20-year old female,with two passengers stated that she saw that the light was red as she approached the intersection and thought it was going to turn green for her. The driver stated that she was not paying attention because she was thinking about all the homework she had to do over the weekend. The driver slammed on her brakes (no lock up) when she realized that the light was going to stay red. V1 traveled into the intersection and the front of V1 struck the right side of vehicle two V2. V1 came to a controlled stop in the northbound bicycle lane to the north of the intersection facing in a northerly direction. The driver of V1 had been driving for 2 hours prior to the crash and worked the day of the crash. The driver left work and drove to visit family out of town and then drove back home and got into a crash about 4 kilometers (2.5 miles) from home. The vehicle was not towed due to damage. V2, a 1998 Honda Accord LX 4 door, was traveling southbound approaching the intersection in the #2 lane. The vehicle entered the left turn lane on a green arrow and proceeded into the intersection to make a left turn to travel eastbound. The driver of V2, an 18-year old male with one passenger, stated that he saw V1 approaching from the south and assumed the vehicle was going to stop for the red light. The driver of V2 stated that when he realized that V1 was not going to stop, he accelerated while making the left turn to avoid being struck by V1. The right of V2 was struck by the front of V1. The impact caused V2 to rotate clockwise traveling in a southeasterly direction. The vehicle came to rest in the intersection facing in a southeasterly direction. The vehicle was towed due to damage. The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason for the critical event was not coded to V1, although inattention was a contributing factor. The driver was thinking about a personal problem and thought light would turn green. The critical pre crash event for V2 was coded: this vehicle traveling, turning left at intersection . The critical reason for the critical event was coded to V2 as a driver related factor: false assumption of other's actions. He assumed that V2 was going to yield the right of way to him and not enter the intersection.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue present problem 
+Vehicle 2:  Decision, Driver Fatigue, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

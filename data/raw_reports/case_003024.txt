@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This crash occurred just after noon on a weekday in the middle of a four-way suburban intersection. The intersection consisted of two, two-way, three lane roadways controlled by a properly function traffic signal. The east/west roadway was dry, straight and level. The north/south roadway was dry and straight with a grade greater than 2%. The posted speed limit for both roadways was 72kmph (45 mph). The roadway was dry and there were no adverse atmospheric conditions at the time of the crash. V1, a 1992 Chevrolet Lumina, was eastbound approaching the intersection the intersection where it intended to go straight. V2, a 2002 Chevrolet Malibu, was southbound approaching the same intersection where it also intended to go straight. V3, a 1987 Toyota Camry, was northbound approaching the intersection as well where it intended to pass through. V1 failed to stop for the red light and struck the right side of V2 as it crossed over the intersection. The impact then caused V2 to veer into V3. V3 came to final rest in its original lane of travel facing north. V2 came to final rest facing south in the northbound lane. V1 came to final rest facing east in the eastbound lanes. V1 and V2 were towed from the scene due to damage. V3 was driven from the scene shortly after the researcher's arrival. The driver of V1, an 87-year-old female, sustained unknown injuries and was airlifted to a medical facility for treatment. There were no other occupants in the vehicle when the crash occurred. Numerous attempts to contact the driver could not produce an interview. The Critical Precrash Event for V1 was coded as this vehicle traveling, passing through intersection. The Critical Reason was coded as an unknown type of driver error. The only associated factor coded was an illegal maneuver as the driver failed to stop for a traffic control device (red light). The driver of V2, a 20-year-old female, suffered unknown injuries, and was transported to the hospital for observation. Police informed the researcher that she was pregnant. There were no other occupants in the vehicle when the crash occurred. An interview could not be obtained from this driver. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street across path. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. There were no known associated factors coded to V2. The driver of V3, a 41-year-old female was not injured as a result of the crash. There were three other occupants present in the vehicle when the crash occurred; none of which suffered any injuries. The driver of this vehicle could not be contacted for an interview. The Critical Precrash Event for V3 was coded other not involved in first harmful event. The Critical Reason was not coded to this vehicle. There were no known associated factors coded to V3.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs present problem 
+Vehicle 2:  Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Accelerating in traffic lane
+ 3 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

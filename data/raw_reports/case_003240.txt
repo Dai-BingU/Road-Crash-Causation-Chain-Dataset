@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary V1, a 2000 Chevrolet Prism 4-door, was southbound in lane 2 of a 4-lane undivided bituminous roadway (2 lanes each direction). V2, a 1988 Ford Ranger pickup, was stopped on the same roadway in the same lane waiting to turn left, facing southbound. At the time of the early evening crash, it was daylight and there were no adverse weather conditions. The roadway was dry and straight. The crash occurred in the vicinity of a sag in the roadway. The posted speed limit was 72 kmph (45 mph). The front of V1 contacted the back of V2. A passenger in V2 was injured and transported. V1 was towed due to damage. A complete driver interview and vehicle inspection was obtained for V1. The driver of V1 was a 33-year old male. He stated, "I don't know why I did not see the pickup stopped in lane ahead of me to turn left until I was so close that I hit him." The Critical Pre-crash Event for the driver of V1 was when another vehicle was stopped in his lane. The Critical Reason for the Critical Pre-crash Event was coded as inattention, a recognition error. The driver was familiar with both his vehicle and the roadway. No additional associated factors were coded to this driver. A complete driver interview and vehicle inspection was obtained for V2. V2 was driven by a 67-year old male. The Critical Pre-Crash Event for the driver of V2 was when another vehicle was in his lane traveling in the same direction with higher speed. The Critical Reason was not coded to the V2. No associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

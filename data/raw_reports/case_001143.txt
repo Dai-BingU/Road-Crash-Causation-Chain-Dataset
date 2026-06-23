@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred during morning daylight hours on a weekday. The crash occurred at the intersection of a north-south roadway and an east-west roadway, where the speed limit is 56 kmph (35 mph) in all directions. The intersection is controlled by a tri-light traffic signal with no protected left turn phase. The east-west roadway is sloped slightly downhill for westbound traffic. At the time of the collision, there were no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 1993 Toyota Camry four-door sedan, was traveling eastbound in the second lane of a five-lane, two-way, undivided, dry, bituminous roadway. V1 was stopped at the entrance to the intersection, and awaiting an opportunity to turn left, although the vehicle was stopped in a through-traffic lane. Vehicle two (V2), a 2005 Toyota Matrix four-door hatchback, was traveling westbound in the second lane of opposing traffic, approaching the intersection with the intention of passing straight through. As V1 made its turn, the front of V2 impacted the right side of V1. V1 rotated counter-clockwise and came to rest in the intersection. V2 deflected right and came to rest near the north curb of the first westbound lane. The 57-year-old female driver of V1 indicated that she believed her vehicle to be in the left turn lane. She was stopped and awaiting an opportunity to turn left, when a vehicle behind her began honking. A stopped vehicle in the westbound left-turn lane blocked her view of opposing traffic, and she turned without seeing the approach of V2. The critical precrash event for V1 was: This vehicle traveling, turning left at intersection. The critical reason for the event was attributed to V1, and was coded: Driver related recognition error, inadequate surveillance (e.g., failed to look, looked but did not see). The 53-year-old female driver of V2 reported that she was late for the beginning of her work shift, but that she was not speeding over the limit. She was listening to news radio at the time of the crash. As she approached the intersection, the stopped vehicle in the left turn pocket ahead of her blocked her view of opposing traffic. When V1 made its turn, she tried to apply the brakes, but did not have sufficient time. The critical precrash event for V2 was: Other vehicle encroachment, from opposite direction, over left lane line. The critical reason for the event was not attributed to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Performance, Roadway, Surveillance present problem 
+Vehicle 2:  Decision, Driver Physical, Driver Stress/Emotion, Roadway, Vision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

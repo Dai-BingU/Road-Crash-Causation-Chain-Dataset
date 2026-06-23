@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of a weekday in eastbound lanes of a four-lane divided roadway. The east/west roadway consisted two lanes in each direction divided by a center grass median and featured a posted speed limit of 72kmph (45 mph). The bituminous roadway was dry with a radius of curvature of 46m and grade greater than 2% (positive eastbound, negative westbound). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1993 Lexus ES300, was westbound in lane two approaching the apex of the curve right. V2, a 2000 Mercury Mountaineer, was eastbound in lane one approaching the curve. V3, a 1998 Ford Windstar, was also eastbound in lane one behind V2. As V1 negotiated the curve a non-contact vehicle crossed into its lane and braked suddenly in front to it. To avoid contact V1 steered left, departing the roadway, crossed the grass median and entered eastbound travel lanes. V1's front left corner struck the left side of V2. V1 than rotated counter-clockwise and its right side struck the left side of V3. V1 was driven by a 46-year-old female who stated that she was on her way to pick up her daughter when another vehicle passed her on the right, then decelerated quickly. To avoid a collision with this vehicle she quickly steered left, causing her to lose control of the vehicle. This driver was transported and the vehicle was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle traveling, over the lane line on the left side of the travel lane. The Critical Reason was coded as a driver related factor, overcompensation. In addition to the overcompensation the fact that the driver was upset and in a hurry were coded as associated factors. V2 was driven by a 46-year-old female who was returning home from an errand. She stated that she did not know a crash was imminent even though she was aware of V1's headlights as it crossed the median. She stated that she did not have time to make any evasive maneuvers. This driver was transported and this vehicle was towed due to damages. The Critical Precrash Event for V2 was coded other vehicle encroachment, from opposite direction - over left lane line. The Critical Reason was not coded for this vehicle. There were no associated factors coded to V2 and the driver was not thought to have contributed to the crash. V3 was driven by a 69-year-old male who refused to be interviewed. He was not injured and departed the crash scene in his vehicle. This vehicle was not involved in the first harmful event and was not assigned the critical reason. There were associated factors coded to V3 and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Driver Stress/Emotion, Drugs present problem 
+Vehicle 2:  Driver Fatigue present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a five-lane asphalt constructed roadway. This roadway is straight and at the bottom of two downgrades from both directions. This crash occurred during daylight with no adverse weather or sight conditions. This roadway runs east to west with a painted center left turn lane. The speed limit of the roadway is 72 kmph (45 mph). Vehicle one (V1), a 1998 Honda Accord was westbound and entered the center painted turn lane to turn left into a business area. Vehicle two (V2), a 1995 Buick LeSabre was eastbound in the first lane. V1 turned left from the center turn lane into the parking lot. The front of V2 impacted the right of V1. Both vehicles came to rest near the point of impact. V1 was not towed due to damage. V2 was towed due to damage. The driver of V1, a twenty-one year old male was heading to the gas station. This driver had only been driving for about 0.4 kilometers (0.25 of a mile). This driver is not licensed. This driver drives this vehicle daily and over this road on a weekly basis. This vehicle has several wheels with deficiencies. The driver of V2, a seventy-four year old female was on her way home after picking up her great granddaughter at school. This driver had made a stop at a supermarket to get some food. This driver had been driving for about nine minutes at the time of the crash. This driver was taking an unknown medication for her conditions. This driver drives this vehicle on a daily basis and over this road on a daily basis. The critical pre-crash event for V1 was coded: this vehicle traveling: turning left at intersection. The critical reason for the critical pre-crash event was coded as a driver related factor: false assumption of other's actions. This driver assumed the other vehicle was turning right off the roadway. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Vehicle present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

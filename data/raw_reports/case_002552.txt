@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This is a two vehicle head-on crash that occurred on an east/west, urban, two-way, five-lane bituminous roadway. The posted speed limit was 56 kmph (35 mph) and there were no traffic controls for east/west traffic. This road was straight and level. The crash occurred just before dawn hours during darkness. The weather was clear. Vehicle one (V1), a 1985 Chevrolet Celebrity 4 door sedan was traveling westbound in the first westbound lane at approximately 56 kmph (35 mph). Vehicle two (V2), a 1986 Mitsubishi pickup truck was traveling east in the second lane at approximately 56 kmph (35 mph). V1 crossed both westbound lanes and the center turn lane and impacted the front of V2 with its front plane. Both vehicles came to rest in the area of impact. Both vehicles were towed due to damage. The driver of V1, a 17-year-old male, had just left from working all night and was fatigued. He fell asleep while traveling west. This driver indicated that he had worked from 1500 hours the previous day to 0200 hours this day and then stayed at work till he left a while before the crash. This driver does drive this vehicle daily and over this road on a daily basis. At the hospital this driver was given an alcohol test, which tested positive for alcohol. This driver also tested positive for cocaine use. Driver one indicated that he fell asleep and did not remember the crash. The driver of V2, a 34-year-old female was on her way to work. This driver was on her way to work with a passenger in the vehicle. This driver did not see V1 until it began to cross into her travel lane. This driver indicated that traffic was heavy and she had cars behind her and to her right. This driver was not licensed. This driver drove this vehicle daily and over this road daily. A witness was driving in the second lane directly behind V2 and he stated "there was heavy traffic in both directions and all vehicles were using headlights". He also said there was traffic to his right in the first lane. He saw V1 cross suddenly into the second lane. He saw the driver of V2 steer to the right just before impact with V1. The vehicles came to final rest in primarily in the second lane. V1 was facing generally northwest and V2 was facing generally southeast. The critical pre-crash event for V1 was coded: this vehicle traveling, over the lane line on left side of travel lane. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: sleeping, that is, actually asleep. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction- over left lane line. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Fatigue, Driver Stress/Emotion, Drugs present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

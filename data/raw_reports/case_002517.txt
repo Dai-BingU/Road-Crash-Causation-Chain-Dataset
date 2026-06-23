@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred on a divided, east/west roadway. There are four travel lanes for eastbound traffic. This roadway is straight and has a 3.3 percent uphill grade. The posted speed limit is 72 kmph (45 mph). Traffic was heavy at the time of the crash. This crash occurred during daylight hours with clear skies. Vehicle one (V1), a 1997 Buick LeSabre, was eastbound in the fourth travel lane. Vehicle two (V2), a 1995 Plymouth Voyager, was eastbound in the fourth travel lane ahead of V1. V2 stopped behind a line of traffic prior to an intersection. The front of V1 struck the back of V2. Both vehicles came to rest near the point of impact in the fourth travel lane. V1 was towed due to damage; V2 was driven. The driver of V1, an eighty-two year old male, was heading home from the mall. This driver had been driving for about two minutes, drives the route daily and is familiar with the vehicle. The driver stated he looked over his right shoulder to see if the third lane was available so that he could change lanes. When he turned back forward, V2 had stopped and he did not have time to attempt any avoidance maneuvers. The driver also stated his wife had passed away within the past week. The critical pre-crash event for V1 was coded: other motor vehicle in lane-other vehicle stopped. The critical reason for V1 was coded: driver related factor-external distraction. The driver of V2, a forty-two year old male, was heading home from lunch with his family. This driver had been driving for about ten minutes, drives the route daily and is familiar with the vehicle. The driver stated he did not notice V1 until impact and did not attempt any evasive maneuvers. The critical pre-crash event for V2 was coded: other motor vehicle in lane-traveling in the same direction with higher speed. The critical reason for V2 was coded: not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Driver Stress/Emotion, Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

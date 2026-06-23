@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the southbound intersection of a 4-lane suburban highway with a grass median. Both north and southbound lanes have right and left turn-only lanes at a traffic signal-controlled intersection. The flat roadway has a posted speed of 55 mph (89 kmph) with an asphalt surface in both directions. Weather conditions were clear and dry with daylight lighting during afternoon hours on a weekend. V1, a 1999 Chevrolet Camero, was traveling south in lane two approaching a 4-way intersection. The traffic signal was green and V1 was driving at a constant speed of 55 mph (89 kmph). V2, a 2002 Chevrolet Silverado towing an empty 18-foot trailer, was traveling north behind a church bus. The bus and V2 both entered the intersection to make a left turn. The bus successfully completed its turn but V2 was struck on the right side by the front of V1. Both vehicles came to rest in the intersection and had to be towed from the scene due to damage. The 37-year-old male driver of the Camero (V1) stated he never slowed for the bus because it would have cleared the intersection by the time he got there. In the "flash of a second," he saw V2 cut across his path so he tried to brake at the last second. He was not injured in the crash but his right front passenger was transported for minor injuries. The Critical Pre-Crash Event for V1 was coded other vehicle encroaching from crossing street, across path. There was not a Critical Reason Event coded for this vehicle. This driver is near-sighted but no other factors could be contributed to him in this crash. The 47-year-old male driver of the Silverado (V2) admitted he entered the intersection without noticing the color of his traffic signal or without checking to see if traffic was clear. He said he was following a bus to a band competition and that neither he nor the bus driver was familiar with area. He said he followed the bus the entire trip and continued to follow it, as they turned left. Neither he nor his right front passenger was injured in the crash. The Critical Pre-Crash Event for V2 was coded turning left at intersection. The Critical Reason Event was coded following too closely to respond to unexpected actions. Other factors associated with this driver are his unfamiliarity with the roadway conversing with his passenger and failure to stop for a traffic signal.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Distraction, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

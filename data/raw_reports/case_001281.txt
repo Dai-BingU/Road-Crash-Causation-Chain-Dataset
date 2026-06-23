@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a four-lane, divided roadway during daylight hours. The road was dry, traveled concrete. The posted speed limit was 56 kmph (35 mph). Traffic was congested at the time of the collision. There were no adverse weather conditions. Vehicle one, a 2001 Chrysler PT Cruiser was westbound in the second lane. Vehicle two, a 1995 Chevrolet S-10 was westbound in the second travel lane ahead of vehicle one. Vehicle two came to a stop in the heavy traffic and vehicle one was unable to stop. The front of vehicle one struck the back of vehicle two. Vehicle one came to rest facing west in the original travel lane near the point of impact. Vehicle two rotated slightly counterclockwise, moved forward and came to rest facing west in the median. Both vehicles were towed due to damage. The driver of vehicle one, a forty-two year old female was heading from her fathers house to her mothers house. This driver had been driving for about twenty minutes at the time of the crash. This driver indicated that she was going less than 16 kph (10 mph) and was about one car length behind vehicle two when vehicle two stopped. This driver drives this vehicle daily and over this road on a daily basis. All four tires of vehicle one were under-inflated. The driver of vehicle two, a twenty-one year old male was not interviewed. There is no known pre-crash information on this driver. The critical pre-crash event for vehicle one was coded: other motor vehicle in lane: other vehicle stopped. The critical reason for the critical pre-crash event was coded to vehicle one as a driver related factor: inadequate surveillance. The critical pre-crash event for vehicle two was coded: other motor vehicle in lane: traveling in the same direction, with a higher speed. The critical reason for the critical pre-crash event for was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance, Traffic, Vehicle present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at a T-intersection of two undivided roadways. The east/west roadway had four lanes of travel (two in each direction) and the north/south roadway had two lanes of travel (one in each direction). The southbound roadway ended at the T-intersection and was controlled by a stop sign. The east/west roadway had no traffic control device. The conditions were as follows: early evening, partly cloudy skies, the roadway was dry and there were no adverse atmospheric conditions. The gradient for southbound traffic was +4 percent. The westbound roadway at the intersection was level. The posted speed limit on the north/south roadway was 40 kmph (25 mph). The posted speed limit on the east/west roadway was 72 kmph (45 mph). V1, a 2005 Chevrolet Malibu, was driven by a 38-year old male. V1 was initially traveling southbound, and was intending to turn left at the T-intersection to head eastbound. V2, a 2004 Chrysler Pacifica, was driven by a 39-year old female who was traveling westbound. Traffic was backed-up in the first westbound lane and had come to a stop. Traffic in the second westbound lane was still moving. V2 was traveling in lane two. A non-contact box truck that was stopped in the first westbound lane waved out V1 from its stop sign. As V1 pulled across the second westbound lane, the left front of V1 struck the left front of V2. There was no driver interview obtained for V1 after numerous times of trying to contact the driver. V1 needed to be towed due to damage. The police report did not indicate any injuries or the involvement of drugs or alcohol. The police reported V1 traveling at an unknown speed. The Critical Pre-crash Event for V1 was coded as this vehicle turning left at intersection. The Critical Reason for the Critical Pre-crash Event was coded as an "other" decision error - turned with obstructed view. The non-contact vehicle was coded as a sightline restriction. Other associated factors coded to this driver include inadequate surveillance and a traffic flow interruption caused by rush hour congestion. There was no driver interview obtained for V2 after numerous times of trying to contact the driver. V2 needed to be towed due to damage. The police report did not indicate any injuries or the involvement of drugs or alcohol. The police reported V2 traveling at an unknown speed. The Critical Pre-crash Event for V2 was coded as other vehicle encroachment from crossing street, turning into opposite direction. The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. Associated factors coded to this driver include an "other" recognition error in that the impending problem was masked by the traffic flow pattern, a sightline restriction caused by the non-contact truck in the right lane, and the traffic flow interruption caused by rush hour congestion.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Roadway, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

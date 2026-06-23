@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at the intersection of two asphalt roadways. Each roadway had a posted speed limit of 25 mph (40 kph). Vehicle 1 approached the intersection heading southwest. Vehicle 1's approach to the intersection was a slight curve with a radius of 201m. The approach straightened 51m prior to the intersection and had a grade of +3%. Vehicle 1 had a clear view of V2's approach from 50m prior to the intersection. Vehicle 2 approached heading northwest along an 18% downgrade. Vehicle 2 had a clear view of V1's approach from 25m prior to the intersection. The intersection was controlled by a traffic light. The light was green for Vehicle 1 and red of Vehicle 2. Vehicle 1 was a 2002 Volvo S60 and Vehicle 2 was a 1995 Ford Escort station wagon. Both vehicles entered the intersection and the front of Vehicle 1 contacted the right of Vehicle 2. Vehicle 1 rotated clockwise and departed the west corner of the intersection where its front contacted an embankment. Vehicle 2 rotated counterclockwise and came to rest in the heading south in the southwestbound travel lane. The critical precrash event was Vehicle 2 crossing the intersection across the path of vehicle 1. The critical reason for the critical precrash event was Vehicle 2 making an illegal maneuver. The driver of Vehicle 1 estimated her travel speed to be 25 mph (40 kph). She said that she took no avoidance maneuvers because she never saw vehicle 2. She said the light was green as she approached the intersection. . The driver of vehicle 2 refused to be interviewed. A witness traveling behind Vehicle 1 indicated that Vehicle 2 crossed the intersection through a red light.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

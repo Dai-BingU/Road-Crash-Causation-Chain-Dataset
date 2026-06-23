@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a north/south undivided two-lane roadway. The road was straight and dry and had a positive grade of 2.5 percent in the southbound direction. The posted speed limit was 56 kmph (35 mph). The crash occurred in the mid-morning hours on a clear day. V1 was 1999 Toyota Camry that was traveling south. V1 traveled off the roadway on the right side. The front right corner of V1 struck a utility pole, coming to rest against the utility pole while the back of the car rotated back onto the roadway. The driver, a 74-year old female, was taken to a nearby trauma hospital to be checked after striking the windshield with her head. An interview over the phone was obtained and the driver explained that she was told that she had "blacked out." She also stated that she was very familiar with the area because she has lived there all her life. The car needed to be towed due to the disabling damage. A witness had told police that the driver of V1 had not moved when its light had turned green on a nearby roadway. After several seconds, the driver of V1 finally initiated a left turn onto the southbound roadway,. It then traveled forward and within seconds, impacted the utility pole. The Critical Pre-crash Event for V1 was when it traveled off the edge of the road on the right side. The Critical Reason for the Critical Pre-crash Event was coded as an illness (heart attack or other physical impairment of the ability to act). The driver also stated that she had heart and lung problems for which she took several medications. It was believed that one of the heart conditions caused the blackout. At the time of the crash, the driver of V1 was on her way to her doctor. There were no other factors involved with this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

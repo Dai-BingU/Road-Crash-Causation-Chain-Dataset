@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the early afternoon during daylight hours in the middle of a four-way intersection. The east/west roadway is comprised of two through lanes and a left-turn lane in each direction. Two narrow lanes, marked for bicycles and also utilized by busses, border these travel lanes and as they approach the intersection are available as an additional through for making right turns at the intersection. The north/south section is comprised of two through lanes and a left-turn lane in each direction. The intersection is controlled by stoplights at all four legs. The speed limit on the expressway was 48 kmph (30 mph). Vehicle one (V1), a 1997 Buick Century carrying one occupant, was traveling eastbound in the fourth (left-turn) lane. Vehicle two (V2), a 2003 GMC Yukon Denali carrying one occupant, was traveling westbound in the number two lane. The driver of V1 was initially traveling in the third lane and changed lanes to the left to enter the left-turn lane. The traffic signal was green for both vehicles, and V2 had the right-of-way. The driver of V1 never saw V2 so he made the left turn. The front of V2 contacted the right side of V1. This impact caused V1 to rotate clockwise approximately 180 degrees. V1 came to rest facing southbound in the first lane of the southbound road, just north of the intersection. V2 came to rest on the northeast corner facing northeast. Both vehicles were towed due to damage and neither driver was injured or transported. The driver of V1 was a 20 year-old male that had been driving for approximately three years. He had been laid off from work the week prior and was on his way to pick up his last paycheck. He was familiar with the vehicle and drove the roadway several times a month. He made a stop at a gas station to fuel-up, then drove less than a tenth of a mile to the crash site. The driver had received over nine hours of sleep the night prior. The driver said he did not observe V2 prior to the crash and made no attempts to avoid the collision. The Critical Pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Pre-crash Event was coded to V1 as a driver recognition error: inadequate surveillance. The driver of V2 was a 37 year-old male who was on his way to work as a prison guard. The driver of V2 declined an interview so many factors are unknown for this driver. An Event Data Recorder reading indicated the speed of the vehicle just prior to impact was in the range of 45 to 51 kmph (28 to 32 mph), which was just about the posted speed limit. This speed was maintained for at least 5 seconds before the crash, which indicates this speed was maintained for at least 60-meters (205-feet) prior to impact. There was no scene evidence that this driver attempted to avoid the impact with V2. The Critical Pre-crash event for V2 was coded: other vehicle encroachment, from opposite direction-over left lane line. The Critical Reason for the Critical Pre-crash Event was not coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Stress/Emotion, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a two-way, two-lane roadway. The roadway is not physically divided, and has traffic lights for each lane at this intersection. The conditions were as follows: mid morning, sunlight, clear skies, the roadway was dry and there were no atmospheric conditions. The gradient for vehicle one (V1) was 6%, while the gradient for vehicle two (V2) was level. The posted speed limit for V1 was 56 kmph (35 mph). The posted speed limit for V2 was 64 kmph (40 mph). V1 was a 2004 Dodge Ram 1500, traveling northbound, and he claimed to have a green light at the intersection. V2 was a 1996 Pontiac Sunfire, traveling eastbound, she was stopped at a red light and then proceeded when it turned green. As V2 crossed the intersection she struck V1 on the left side door. V1 drove over the north side of the intersection traffic light and came back onto the roadway, for it's final rest. V2 rotated counterclockwise and its final rest was in the same direction as the oncoming traffic. The driver a V1 was a 46 year old male who did not sustain any injuries. The driver stated that his traffic light was green. As he traveled through the intersection he was hit on the left side of his truck he then continued forward and knocked down a traffic signal and a guide wire. The Critical Precrash Event for V1 was coded as: this vehicle crossing over or passing through the intersection. The Critical Reason for the Critical Precrash Event is illegal maneuver. Although the drive stated that his light was green the evidence shows that he probably ran the red light. Due to the damage V1 sustained in the crash, this vehicle needed to be towed from the scene. The driver of V2 was a 19 year old female that was taken to a local Hospital via ambulance to be checked out. She stated that she was stopped at the red light waiting for it to turn green. When the light changed she proceeded and struck V1 in the left side. Her vehicle rotated 180 degrees counterclockwise. The Critical Precrash Event for V2 was coded as other vehicle encroachment from crossing street across path. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Surveillance present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

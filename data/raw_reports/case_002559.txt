@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of a weekday in the westbound lanes of a divided (grass median) two-way roadway. The roadway consisted of three westbound lanes and two eastbound lanes with a posted speed limit of 56kmph (35 mph). The bituminous roadway was dry, straight and level. Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1993 Nissan Sentra, was eastbound in lane two traveling at a high rate of speed. V2, a 2000 Toyota Corolla was westbound in lane two. V1 steered left, jumped the median into oncoming traffic and struck V2 head on. After impact V1 rotated counter-clockwise slightly before coming to final rest facing north near the point of impact. V2 came to rest facing west at the point of impact. V1 was driven by a 51-year-old male driver who refused to take a BAC test once police arrived on the scene. The driver was arrested on a charge of DUI and his car was towed due to severe damage. The driver also refused to complete an interview. The Critical Precrash Event for V1 was coded this vehicle traveling, over the lane line, left side of travel lane. The Critical Reason was coded as an unknown driver type error. The only known associated factors were the presence of alcohol and the driver's excessive speed. V2 was driven by a 21-year-old male who was on his way to a relative's home. The driver stated that all he remembered was seeing the car (V1) jump the median and hitting his car. He was transported to the hospital for serious injuries and his car was towed due to severe damage. The Critical Precrash Event for V1 was coded other vehicle encroachment, from opposite direction - over left lane line. The Critical Reason was not coded to this vehicle. There are no associated factors coded to V2 and the driver was not thought to have contributed to this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a curved section of a roadway with no traffic control devices. The roadway did have lane markings of a double yellow centerline and white shoulder edge/fog lines. The crash location was a two-way, two-lane roadway that was not physically divided. The crash occurred in the early morning hours, and it was daylight at the time of this incident. The westbound direction (Vehicle one) had a slightly positive grade, while the eastbound direction (Vehicle two) was considered to be level. The posted speed limit for both vehicles was 72 kmph (45 mph). There were no adverse weather conditions, and the roadway was dry. Vehicle one, a 2003 Chrysler Sebring LX, was traveling westbound approaching a left hand curve. Vehicle two, a 1996 Chevrolet Kodiak straight truck hauling a utility trailer was traveling eastbound negotiating the same curve. V1 failed to negotiate the curve and crossed over the double yellow lines, encroaching into the eastbound lane. Upon observing this action of V1, the operator of V2 applied his brakes and steered to the right. The driver of V2 was unable to avoid V1 and was struck on the left front corner into tire well area. The impact between V1 and V2 caused structural damage to the tire, axle, and steering components of V2. The driver of V1, a 36-year old female, sustained serious injuries and was transported by ambulance to a staging location, for later transport by Medivac to a trauma facility. She told the investigating officer on-scene and later while at the medical facility that she fell asleep behind the wheel. The driver of vehicle two, a 39-year old male, sustained no injuries. He stated he was negotiating an eastbound right hand curve, when V1 westbound crossed the centerline entering his path of travel. He also stated he attempted to steer to the right to avoid V1, but was struck by V1 on the left front corner, into tire-well area. The impact caused severe damage to the steering components of V2, resulting in V2 rotating counter-clockwise. V2 departed the roadway to the left while the utility trailer remained on the roadway blocking the westbound lane. The Critical Pre-Crash Event for V1 was when it traveled over the lane line on the left side of travel lane. The Critical Reason for the Critical Pre-Crash Event was coded as sleeping, that is, actually asleep. No interview was obtained from the driver of V1. The investigating officer reported that the driver of V1 stated she fell asleep while traveling from work to home (she had worked the midnight shift). Due to the lack of interview, no associated factors could be coded to this driver. The Critical Pre-Crash Event for V2 was when another vehicle encroached into his lane from the opposite direction-over left lane line. The Critical Reason was not coded to this vehicle. The driver of V2 took proper evasive actions. No associated factors were coded to him.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

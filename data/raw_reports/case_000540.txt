@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at the intersection of a five-lane road and a three-lane roadway. This intersection was controlled by a traffic light. The speed limit on the road is 56 kmph (35 mph). This crash occurred during nighttime hours with no adverse atmospheric conditions and temperatures below freezing. Vehicle one (V1), a 1996 Chevrolet Blazer 4-door was southbound in the third lane. Vehicle two (V2), a 2000 Dodge Neon was northbound in the first lane. V1 turned left at the intersection and the front of V1 impacted the left side of V2. V1 came to rest in the first westbound lane. V2 came to rest in a parking lot in the northeast corner. Both vehicles were towed due to damage. The driver of V1, a twenty-eight year old female, was heading to a friends house at the time of the crash. This driver had been driving for about thirty minutes at the time of the crash. This driver was taking Tylenol as a medication. This driver indicated that she saw this other vehicle and both misjudged the speed of the vehicle and assumed that the other vehicle would stop. This driver drives this vehicle daily and over this road on a daily basis. The driver of V2, an eighteen-year old female, was heading home after dropping off her boyfriend. This driver had only been driving for a few minutes at the time of the crash. This driver was talking to the passenger. This driver was in a hurry to get home as she was not supposed to be out and her parents were heading home. This driver stated that she saw the other vehicle and assumed it would stop. This driver drives this vehicle daily and over this road on a daily basis. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical pre-crash event was attributed to V1 and was coded as a driver related factor: false assumption of other's actions. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs present problem 
+Vehicle 2:  Decision, Distraction, Driver Stress/Emotion, Speed/Distance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

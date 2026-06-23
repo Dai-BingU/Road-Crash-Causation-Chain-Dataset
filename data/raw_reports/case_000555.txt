@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This is a two vehicle left turn crash that occurred during early afternoon daylight hours on an east/west two way, five-lane dry asphalt roadway at an entrance to a fast food restaurant. The roadway has two westbound and two eastbound lanes that are separated by a continuous left There is also a dedicated eastbound right turn lane that is used to access the interstate to travel eastbound. The speed limit on the roadway is posted 56 kmph (35 MPH). There was a sight line restriction that contributed to this crash that were cars stopped in the eastbound lanes. There were no obstructions and no other environmental factors that contributed to this crash. Vehicle one (V-1), 2003 Chevrolet Suburban, was traveling westbound in the # 2 lane and entered the left turn lane to turn into the fast food restaurant. The vehicle was stopped for about 30 seconds before cars that were traveling eastbound, stopped to let the vehicle make the left turn. V-1 then began to make the left turn and was struck on the front by V-2, which was traveling eastbound in the right turn lane. V-1 came to rest on the roadway and was able to be removed from the roadway on it's own power. The driver of V-1, a 33-year old female, did not report any injuries as a result of this crash. A 2-year old female also occupied the vehicle, which was in a car seat in the second row right side. The vehicle was not towed due to damage. Vehicle two (V-2), a 1988 Oldsmobile Delta 88 sedan, was traveling eastbound and entered the right turn lane to travel east on the interstate. The vehicle was traveling about 40 kmph (25 MPH) when V-1 turned across the path of V-2. The front of V-2 struck the front of V-1. The impact caused V-2 to rotate clockwise before it came to rest in the right turn lane facing in a southeasterly direction. The driver of V-2, a 55-year old female, stated that she applied the brakes (no lock up) just prior to the crash. The driver stated that she saw cars stopped in the eastbound lanes as she was traveling in the right turn lane. The vehicle was towed due to damage and the two passengers were transported to a local medical facility. The pre event movement for V-1 was coded stopped in traffic lane . The critical pre crash event was coded this vehicle traveling-turning left at intersection . The critical reason was coded driver related factor-inadequate surveillance (e.g., failed to look, looked but did not see . The driver was stopped for some time and did looked to her right and left and proceeded to make the left turn after other vehicles had stopped. The driver did not see V-2 traveling eastbound in the right turn lane due to the vehicles stopped in the eastbound lanes obstructing her line of sight of V-2 approaching. The pre event movement for V-2 was coded going straight . The critical pre crash event was coded other vehicle encroachment-from opposite direction over left lane line . The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Roadway, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

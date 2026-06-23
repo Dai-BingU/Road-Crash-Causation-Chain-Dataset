@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at a signal-controlled intersection in the north and south lanes of travel. The roadway had a posted speed limit of 72 kmph (45 mph). Both the northbound and southbound approaches were on a 2% uphill grade. However the intersection was located on a ridge with a 4% grade down in the north and south directions. This had the effect of limited visibility past the intersection. Conditions were daylight and dry with cloudy skies. The setting was late morning hours on a weekday. Vehicle one was a 1998 Ford Explorer sport utility traveling northbound in lane two. Vehicle two was a 1999 Nissan Pathfinder sport utility traveling southbound in lane one. Both vehicles approached the intersection. V1 began turning left while v2 proceeded straight. The right side of v1 impacted the front of v2. V1 traveled off the southwest corner of the intersection. V2 came to rest in the roadway. The Ford Explorer (v1) was driven by a 21-year female who was treated on scene for possible injuries. She stated that she was heading to her first day of work when another vehicle struck her as she turned left at an intersection. She said she decelerated at the intersection before turning left, and estimated her travel and impact speeds to be between 10 and 15 mph. She steered left in avoidance. The sport utility was towed due to damage. The Critical Precrash Event for v1 was this vehicle traveling turning left at an intersection. The Critical Reason was coded as driver inattention since the driver was preoccupied with her impending first day of work at a new job, and had been unemployed prior. This driver wore contacts for a near-sighted condition. She only drives this roadway on a monthly basis. The Nissan Pathfinder (v2) was driven by a 64-year old male who was treated on the scene for possible injuries. He stated that he was heading to work when the other vehicle turned left in front of him. He steered left but was unable to avoid the crash. His estimated travel and impact speed was 40 mph. The sport utility was towed due to damage. The Critical Precrash Event for v2 was other vehicle encroachment from the opposite direction across the left lane line. No Critical Reason was coded to this driver. No other associated factors were coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion, Roadway present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

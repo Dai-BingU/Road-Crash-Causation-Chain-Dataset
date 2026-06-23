@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a six-lane urban highway with a raised concrete median. There were three eastbound and three westbound lanes. In the vicinity of the crash-related intersection, there was a left t turn lane for each direction of travel. The roadway was level and straight. The conditions were evening on a weekday with dry roads and clear skies . Vehicle # 1 was a 1994 Honda Civic, who was traveling eastbound in lane four, the left turn lane. There were no traffic control devices controlling this part of the intersection. He was stopped waiting to turn left and saw vehicle # 2, a 1995 Toyota corolla, which was traveling in lane two going westbound at approximately 45 mph. The Toyota was traveling straight, intending to continue through the intersection. The Honda civic driver saw the Toyota and since she started beeping her horn when he started to turn, the driver of the Honda thought she was signaling him to make his left hand turn. As he proceeded into the intersection she continued forward and the front of the Toyota made contact with the right front fender and tire of the Honda. The Critical Pre-crash event for Vehicle #1 was turning left at an intersection. The critical reason was a false assumption on the part of this driver (i.e., he assumed that the other driver was sigaling him to continue turning when she activated her horn. The Honda was towed due to damage as the tire was bent due to the impact. The driver of Vehicle 1 was not injured. He was issued a ticket for not yielding the right-of-way. An associated factor for this driver was a misjudgment of the gap distance to Vehicle 2 and the velocity of Vehicle 2. The Critical pre-crash event for vehicle # 2 was another vehicle encroached from opposite direction, over left line. The critical reason was not coded for this vehicle as she had the right of way. Her vehicle was towed to damages but she was not injured. An associative factor for this driver could be that she had little driving experience as she has been driving for only a year.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

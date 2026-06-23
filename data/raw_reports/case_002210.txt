@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two vehicle rear-end collision occurred on a 6 lane, divided with median barrier, concrete, straight and level interstate during early evening hours dark but lighted. For eastbound traffic, the direction the vehicles were traveling, the third traffic lane is an HOV lane. On the right of the thru traffic lane an on-ramp with acceleration lane is present. The road surface was dry. weather was clear and cold. The speed limit is 97 kmph (60 mph). Vehicle one (V1), a 1991 Geo Prizm four door sedan, driven by a 40 year-old male, was traveling eastbound in lane one behind vehicle two (V2). V2, a 2002 Toyota Camry four door sedan driven by a 50 year-old female, braked to slow for traffic ahead. The driver of V1 locked the brakes and steered right but the front left corner of V1 contacted the rear right of V2. At impact V1 rotated counter-clockwise and came to rest facing north across lane one. V2 continued eastbound and came to a controlled stop on the right shoulder approximately 30 meters (98 feet) east of the point of impact. V1 was towed from the scene. The critical pre-crash event for V1 was coded: other vehicle in lane, traveling in same direction while decelerating. The critical reason for the critical event was coded to V1 as a driver related factor: external distraction. As the driver was following V2, they looked to their left at something. When they looked forward again V2 was decelerating. At this point in time the driver was unable to avoid the collision. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

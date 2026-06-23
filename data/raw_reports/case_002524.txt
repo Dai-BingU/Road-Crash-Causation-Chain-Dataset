@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred on an early weekend afternoon on a clear and sunny day. The crash happened in the median of a 4-lane divided interstate. The highway runs north and south with two lanes for each direction separated by a grass median with a posted speed limit of 97 kmph (60 mph). Vehicle 1, a 1995 Nissan Pathfinder, was traveling north in lane one when a vehicle from lane two swerved into its lane causing V1 to steer left and enter a grass median where it rolled over. V1 was driven by a 47-year old male and disabled veteran who was driving to the hospital to pick up his brother when he was involved in this crash. This driver stated that when he was driving north in lane one, a vehicle in lane two swerved into his lane without warning. This driver tried to avoid that vehicle by steering into lane two but there was a vehicle stopped in that lane so he continued to steer into the median. After he entered the median, he lost control of his vehicle and rolled over. He was wearing his seat belt at the time of the crash but suffered minor bruising and was taken to a hospital for observation. This driver suffers from diabetes, depression, hypertension, Crohn's disease and wears corrective lenses for an unknown eye condition. He said he was paying attention to the roadway before the crash but that he may have been thinking about his brother, whom he was picking up from the Veterans Hospital. He said that he was told at the hospital by a police officer that the vehicles ahead of him were swerving and stopping because of a bumper that was lying in the roadway. The Critical Pre-crash Event for V1 was coded: This vehicle traveling off the edge of the road on the left side. The Critical Reason for the Critical Pre-crash Event was coded: incorrect evasive action. Associated factors coded to this driver include use of prescription medications due to his medical conditions, inattention, an "other" recognition factor because the impending problem was masked by the traffic flow pattern, and a traffic flow interruption due to the debris (bumper) in the roadway, blocking lane two.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Driver Stress/Emotion, Drugs, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

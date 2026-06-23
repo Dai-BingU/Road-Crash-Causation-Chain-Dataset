@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This five-vehicle rear-end configuration crash occurred during the morning hours at dawn. All vehicles were southbound in lane 2 of a non-divided, urban, two way, seven-lane road consisting of 3 travel lanes in each direction and a center turn lane which becomes a left turn lane for one direction of traffic at the traffic signal controlled intersection. The pre-crash roadway curves to the left then becomes straight up to and including the area where the crash occurred, and is level and of bituminous construction. The road was dry at the time of the crash and has a posted speed limit of 72 kmph (45 mph). Vehicle one (V1), a dark gray 1989 Acura Legend 4 door, was southbound in lane 2. Vehicle two (V2), a black 1990 Nissan Sentra 2-door, vehicle three (V3), a 1988 Chevrolet Blazer, vehicle four (V4), a 2005 Toyota Matrix wagon, and Vehicle five (V5), a 2000 Subaru Legacy wagon, were all stopped for a red light at the intersection. V1 did not stop, and the front of V1 struck the rear of V2. V2 was pushed into V3, which was pushed into V4, which was pushed into V5. V1 drove from the scene before exchanging information. V2 was towed due to damage. V3, V4 and V5 sustained only minor damage and were all driven from the scene. No drivers were treated or transported due to injury. The V1 driver, a 67-year-old male, could not recall having been in this crash. The V1 driver stopped approximately 8 kilometers (5 miles) away from the crash scene after a minor collision with a pickup truck. At the scene of the second crash, the driver of V1 recalled being in a minor collision, but was reportedly confused. The V1 driver was transported from the scene of the second crash and treated for a seizure. The V1 driver was taking Atenelol and side effects are reportedly uncommon for this beta-blocking agent. He was also undergoing Chemotherapy for arthritis. The hospital reports did not list or mention anything remarkable that would indicate that a seizure occurred but EMS did note a decreased level of consciousness at the crash scene and medical reports did notice a couple of elevated blood sugars on the metabolic profile. He may have had a diabetic seizure. The driver of V2 did not see V1 approaching and the drivers of V3 through V5 had no view of V1 as he approached the intersection. The critical pre-crash event for V1 was coded: other vehicle in lane, other vehicle stopped. The critical reason for the critical event was assigned to V1 as a driver related factor: heart attack or other physical impairment of the ability to act. The Critical Pre-crash event for V2 was coded as "Other Motor Vehicle in Lane - Traveling in same direction with higher speed." The Critical Reason for the critical event was not coded to V2. V3, V4 and V5 were not involved in the first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

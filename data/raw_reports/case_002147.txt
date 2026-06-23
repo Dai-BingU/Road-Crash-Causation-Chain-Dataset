@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the afternoon of a weekday in the middle of a 4-way intersection that was recently built for a new subdivision. The intersection's main thoroughfare was a north/south 2-lane rural roadway without any traffic signals for either direction. The intersecting east/west multi-lane divided roadway has a posted stop sign for each direction. The bituminous roadways were dry, straight and each had posted speed limit of 72 kmph (45 mph). The conditions were clear, daylight and there was little traffic on the road at the time of the intersection. V1, a 2002 Lexus RX 300 with two occupants, was westbound and stopped at this intersection intending to go straight. V2, a 2007 Kenworth concrete mixing truck with one occupant, was northbound approaching the intersection where it intended to go straight. Both vehicles entered the intersection at the same time and collided. The driver of V1 is a 73-year-old retired female that was driving from Pennsylvania to visit her sister when she was involved in this crash. She and her husband left their home at 06:30 am this morning and shared driving duties during the long trip. They switched driving every two hours and the last driver swap was at 12:00 noon. As they neared their destination, her husband was reading out load the final directions to her sisters' house. It was 14:00 hours when they reached the second-from-last stop sign. She reports that she stopped at the intersection, intending to go straight (west), and looked in all directions before she proceeded forward. As soon as she entered the intersection her vehicle was struck on the left side. She said she never saw the truck and was immediately knocked-out after the impact. She and her husband were transported to a hospital from the scene and her Lexus was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle crossing over (passing through) intersection. The Critical Reason for the Critical Event was coded internal distraction. Associated factors include future event, conversing with passenger, failed to look to side, proceeded with insufficient clearance, and first time on road. The driver of V2 is a 38-year-old male that works for a ready-mix cement company as a truck driver. This driver completed all of his scheduled deliveries for the day and was returning to the cement plant this afternoon when he was involved in this crash. He states he was driving north approaching this 4-way intersection when he saw V1, facing west, stopped in its lane. As soon as this driver entered the intersection, the Lexus suddenly accelerated across his path. This driver slammed on his brake pedal and steered left but could not avoid colliding into the left side of the Lexus. This driver was not injured and his truck was barely damaged. The Critical Precrash Event for V2 was coded other vehicle encroaching from crossing street, across path. The Critical Reason for the Critical Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary mThis two-vehicle rear end crash occurred during early morning hours on a highway. The location was a four-lane concrete, divided (with positive barrier) westbound highway. The speed limit is 80 kmph (50 mph). There was medium traffic at the time of the crash. The roadway was illuminated. The weather was clear and the roads dry. Vehicle one (V1), a 2003 Mitsubishi Galant with one occupant was traveling west in the third lane of traffic. Vehicle two (V2), a Ford Explorer, with at least one male occupant was traveling ahead of V1. V2 slowed for an unknown reason. The driver of V1 applied his brakes but the front of V1 impacted the rear of V2. Both vehicles came to rest within lane three of the highway, facing west. V1 was towed from the scene. V2 did not remain at the scene. The vehicle drove off the scene and was not identified. A 26-year old male drove V1. He was heading from a customer site to another site. He had driven for about 20 minutes to this location. He estimated he was following V2 at a distance of 8 meters (26 feet), when V2 slowed for no apparent reason. He said there was no traffic in front of V2. V2 did not come to a complete stop before the impact. At the gap and speed estimated by the driver, he did not have time to react to the maneuver of V2 prior to impact. The critical pre-crash event for V1 was coded "other motor vehicle in lane - other vehicle decelerating". The critical reason for the critical event was coded "driver related error - driving too closely to respond to other vehicles actions". V2 or the driver of V2 was never identified. No information is available. The critical pre-crash event for V2 was coded "this vehicle traveling - this vehicle decelerating". No critical reason for the critical event was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：This Vehicle Traveling- This vehicle decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

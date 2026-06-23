@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the late evening of a weekday in the middle of a 3-way intersection. The intersection consisted of multi-lane divided roadways controlled by properly functioning traffic signals with protected left-turn arrows for each direction. The main thoroughfare was a north/south 2-lane highway that expanded to four lanes at the intersection to include turn-only lanes. The bituminous roadway was dry, straight, and level with a posted speed limit of 89 kmph (55 mph). The roadway was dark, unlit and there were no adverse weather conditions at the time of the crash. V1, a 2007 Toyota Corolla LE 4-door sedan with two occupants, was southbound approaching the intersection where it intended to go straight. V2, a 2007 Nissan Sentra 4-door sedan with two occupants, was stopped facing north in a left-turn only lane waiting for a green arrow so it could turn left. Both vehicles entered the intersection at the same time and collided head-on. The driver of V1 was a 41-year-old male who was not interviewed for this case. The vehicle he was driving was a rental car that was leased in his name. The vehicle he was driving was towed due to disabling damage and he was hospitalized for injuries suffered in the crash. The Critical Pre-crash Event for V1 was coded other vehicle encroachment from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. An associated factor coded to this driver was an illegal maneuver (failing to stop for traffic control device). The driver of V2 was a 23-year-old female and full time college student. She was returning home this evening after she and her friend completed a few errands. She reported that she was stopped at the intersection (northbound) in the left-turn only lane waiting for the signal to turn green. After the signal (left-turn arrow) turned green, she began to move forward and perform a left turn when V1 ran its red light and struck her car head-on. She said she never saw the other car until they crashed and therefore did not attempt to avoid it. She was transported from the scene to a trauma center and refused to discuss her injuries or medical history. An independent witness on scene verified that V2 had a protected left turn arrow. The Critical Pre-crash Event for V2 was coded this vehicle turning left at intersection. The Critical Reason for the Critical Event was coded inadequate surveillance (failed to look, looked but did not see). No additional associated factors were coded to the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

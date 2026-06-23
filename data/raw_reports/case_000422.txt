@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred daylight morning hours on a dry, four-leg, physically divided roadway approaching a tri-light controlled intersection. Eastbound traffic lanes consist of three through lanes and one left turn lane. Southbound traffic lanes consist of one through lane and one left turn lane. The speed limit for eastbound traffic is 72 kph (45 mph) and for southbound traffic it is 48 kph (30 mph). There were no adverse weather conditions at the time of the crash. Vehicle one (V1), a 1993 Dodge Caravan, was eastbound in lane two going straight. Vehicle two (V2), a 1995 Mercury Marquis, was southbound in lane one accelerating from a stopped position and going straight through the intersection. Both vehicles entered the intersection at the same time, and the front of V1 struck the right side of V2. V1 rotated clockwise and came to rest on its wheels facing southwest in the intersection in lane two. V2 rotated counterclockwise and came to rest on its wheels facing southeast in lane three of northbound traffic. Vehicle one was equipped with a driver's airbag, which deployed. The V1 driver was wearing his lap and shoulder belt and left the scene of the crash as soon as his vehicle stabilized. He was not injured and the vehicle was towed from the scene due to moderate frontal damage. Vehicle two was equipped with a driver and passenger airbag, which did not deploy. The driver was wearing her lap and shoulder belt and was not injured. The vehicle was towed due to moderate right side damage. The critical reason for the crash was attributed to driver one. He had taken his wife to work and was in a hurry to get home to take a nap before he had to go to work. He indicated that he was trying to run the red light and that a non-contact vehicle to his left at the number 3 lane had stopped for the light. He indicated that this non-contact vehicle blocked his view of V2 that was approaching from his left. The driver was also fatigued.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Fatigue, Driver Stress/Emotion, Roadway, Surveillance present problem 
+Vehicle 2:  Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

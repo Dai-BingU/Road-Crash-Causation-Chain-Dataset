@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred 56.6 meters east of an on-ramp and intersection, on a six-lane east/west undivided roadway. There were four westbound lanes including a right turn-only lane (lane 1) and a left turn-only lane (lane 4). There were two eastbound lanes. This was a right curving roadway with a two percent downhill slope in the westbound direction. The bituminous roadway was dry and the sky was clear during the dawn of a weekday. The posted speed was 56 kmph (35 mph). This was a heavily traveled roadway and the crash occurred during rush hour. V2, a 1994 Ford Taurus four-door sedan with two occupants, was in lane 1, the right turn lane, approaching the on-ramp of a northbound parkway. The driver of V2 was a 26-year old female who was visibly shaken but uninjured. Her 22-year old passenger was transported for unknown non-incapacitating injuries. The driver of V2 reported that she was approaching the on-ramp when V1 struck the left side of V2 with the right front section of V1. She did not track the approach of V2 and was unaware of his position until the accident. The driver seemed unable to focus on detail or events. V1, a 1986 Buick LeSabre four-door sedan driven by a 50-year old male, was in lane 2, attempting to merge into lane 1. He stated that he did not see V2 approaching from the rear in lane one. He took no avoidance maneuvers. He stated that there was a previous accident ahead and an officer was directing traffic, with traffic being diverted into lane one. He said traffic was moving very slowly, and with his right turn blinker activated he was attempting to gradually merge into lane one. He stated that V2 struck the right side of his vehicle and sideswiped it with the front left portion of V2. The Critical Pre-Crash Event for V1 was "This vehicle traveling over the lane line on the right side of travel lane." The Critical Reason for the Pre-Crash Event was "External distraction" due to the accident up ahead and the police officer that driver 1 was watching. Associated factors include the congestion caused by a previous accident, the driver's focus on the traffic and the police officer's directions, inadequate surveillance because the driver of V1 failed to look to his rear, and the use of prescription insulin to control diabetes. The Critical Pre-Crash Event for V2 was "Other vehicle encroachment from adjacent lane (same direction) - over the left lane line." The Critical Reason for the Critical Pre-Crash event was not coded to V2. The driver of V2 stated that she did not notice merging traffic and denied talking with her passenger when the crash occurred. The only associated factor that could be coded to the driver of V2 was the traffic flow interruption caused by the previous crash ahead. Police reported that both drivers failed to give full time and attention.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

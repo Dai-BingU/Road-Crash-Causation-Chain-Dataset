@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a two-way roadway with one lane in each direction. The roadway was straight, level, bituminous, and it was daylight and clear with no adverse conditions. The speed limit was 48kmph (30mph) and the traffic flow was normal. V1, a 2000 Chevrolet Venture minivan, with one occupant was traveling southbound. V2, a 1993 Buick Regal two door, with one occupant was traveling northbound. V1 attempted to make a left turn when the front impacted the left side of V2. V2 rotated counter-clockwise and then the right side of V2 impacted the back/left of V3, a legally parked and unoccupied 2006 Mercedes Benz CLK350. Then V2 rotated clockwise and came to a final rest approximately 18 meters north of the point of impact. V1, the Chevrolet Venture, was driven by a 38 year-old female who reported no injuries. She stated to the Police that she was attempting to turn left into the driveway and that V2 was far away when she began to turn left. The driver declined to participate in the survey. It is believed that she was making a left turn to park because her relatives lived in the building near the crash site. The Critical Pre-crash event for V1 was "This vehicle traveling, turning left at intersection". The Critical Reason for the Critical event was coded as an unknown reason. An associated factor coded to the driver was that she did not have the right of way. The other possible associated factors were coded unknown because no interview was obtained. V2, the 1995 Buick Regal, was driven by a 61 year-old male who reported no injuries. The driver stated to the Police that V2 was attempting to make an illegal U-turn. The driver of V2 declined to participate in the study. The Critical Pre-crash event for V2 was "Other vehicle encroachment, from opposite direction over left lane line". The Critical Reason for the Critical event was not coded to this driver. The possible associated factors were coded unknown.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Unknown Reason - Unknown reason for critical event
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

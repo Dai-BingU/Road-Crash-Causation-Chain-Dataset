@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the afternoon of a weekday in the middle of residential “T” intersection. The “T” intersection consisted of a north/south two-way, two-lane roadway and an east/west two-way, two-lane roadway. The intersection was controlled by a stop sign for the eastbound traffic. Both roadways were bituminous, dry, straight, and level with a posted speed limit of 56kmph (35 mph). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1998 Dodge Dakota club cab pickup, was stopped facing east at a stop sign intending to turn left. V2, a 2005 Nissan Altima sedan, was southbound in lane one, approaching the intersection traveling at the speed limit. As V1 began turning left through the intersection it's left side was struck by the front of V2. Both vehicles came to rest in the northbound lane of the roadway near the point of impact. V1 was driven by a 20 year-old male who was not injured. He had a female passenger who fled the scene after the crash. This driver refused to be interviewed and refused to have his vehicle inspected. The investigating officer estimated his travel speed at impact to be 24kmph (15 mph). The pickup was driven from the scene. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at an intersection. The Critical Reason was a driver related factor, an internal distraction. The investigating officer claimed the female passenger was a call girl who was on duty at the time of the crash, creating a distracting condition for the driver. This statement was corroborated by the driver of V2 and the crash scene's proximity to a seedy city park. The demeanor of V1's driver was consistent of someone who was just caught in a compromising situation. No other factors could be coded due to this driver's non-cooperation. V2 was driven by a 36 year-old female who was transported by a friend to an unknown hospital with possible injuries. She refused to be interviewed on scene, and was unable to be contacted later. The investigating officer estimated her travel speed at impact to be 48kmph (30 mph). The scene evidence suggested the driver braked with lockup. The sedan was towed due to damage. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street, turning into the opposite direction. The Critical Reason was not coded to this vehicle. No associated factors could be coded to this driver since she could not be contacted for interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

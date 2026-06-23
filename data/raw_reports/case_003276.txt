@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred shortly before mid-night during dark hours. The crash occurred on a rural, two-lane, uphill, dry, bituminous roadway that curved to the left. The curve has a radius of 313 meters and a super elevation of 4% (5/122cm). The posted speed limit on this roadway is 72 kph (45 mph) with no traffic control devices. There were no adverse atmospheric conditions present at the time of the crash. Vehicle one (V 1), a 1996 Toyota Camry sedan driven by a 49 year-old female was traveling eastbound in lane one. Vehicle one departed the roadway to the right. Vehicle one then re-entered the right side of the roadway and departed lane one to the left. Vehicle one then went into a clockwise yaw and returned to lane one. Vehicle one then departed the right side of the road again and continued its yaw, striking a large pine tree. The left side of vehicle one struck the tree. Vehicle one came to rest facing north. Vehicle one was towed due to disabling damage. Driver was transported to a local trauma center for incapacitating injuries. The pre-event movement coded "negotiating a curve" and critical event "this vehicle control loss due to traveling too fast for conditions." Critical reason "driver related factor: too fast for curve/turn". Associated factor-driver has a history of alcohol abuse. Alcohol was detected on police report.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Alcohol, Decision, Driver Performance, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lane of a two-lane T-intersection. Conditions were cloudy and dry in the afternoon on a weekday. The westbound road had a posted speed limit of 50 MPH and the southbound road had a posted speed limit of 25 MPH and was controlled by a stop sign. V1 was a 1985 Chevy Celebrity sedan traveling southbound in the right lane approaching a stop sign intending on turning left at the T-intersection. V2, a 1995 Dodge Neon sedan, was traveling westbound in the right lane intending on continuing straight. An unknown vehicle was traveling westbound on the same roadway and turned right onto the road where V1 originally was. V1 then turned left and the front of V2 struck the left side of V1 in the westbound lane. Both vehicles then side-slapped left to right and came to final rest facing southwest. A 24-year-old male drove V1 and sustained moderate injuries and was transported to a local hospital. He stated that he was stopped at the stop sign intending on turning left and his view was obstructed by the unknown vehicle, which was making a right turn. The driver of V1 then turned left and struck the front of V2. V1 was towed due to damage. The critical precrash event for V1 was this vehicle turning left at the intersection. The critical reason for the critical precrash event was a driver related decision factor; turned with obstructed view. The driver felt rested and was familiar with the roadway and was comfortable with his vehicle. However, he stated that he was uncomfortable with the surrounding traffic. This may have been an associated factor. A 28-year old female drove V2 and sustained moderate injuries and was transported to a trauma unit. She stated that she was driving westbound at around 50 MPH when the other vehicle saw her, but drove out in front of her and struck the front of her vehicle. The driver of V2 braked but was unsuccessful in trying to avoid V1. V2 was towed due to damage. The critical precrash event for V2 was the other vehicle encroachment from the crossing street, across the path of V2. No critical reason for the critical precrash event was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

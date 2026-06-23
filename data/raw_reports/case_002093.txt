@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a north/south urban interstate in a multiple interchange area. Southbound there were two lanes and an entrance ramp lane that ended near impact with no shoulders present and a posted speed limit of 89kph (55mph). 2003 traffic counts indicate the interstate carries 102,833 vehicles per day and the area is notorious for traffic congestion. Conditions were daylight and dry during morning rush hour on a weekday. Vehicle #1 was a 1993 Jeep Grand Cherokee that had merged from the entrance ramp into the right southbound lane. Ahead of the Jeep in the heavy traffic was Vehicle #2, an empty 1998 Mack 600 series dump truck. Vehicle #2 came to a stop due to congestion and Vehicle #1 rear-ended Vehicle #2. Both vehicles pulled to the right shoulder several meters south of impact. The Jeep was towed, while the Mack truck was driven away. Vehicle #1 was driven by a 31-year old female that was belted with no deployed airbags and not injured in the crash. She was very familiar with the area and stated that she'd merged into the right lane from the entrance ramp and then looked over her left shoulder to locate a break in traffic. She wanted to get over into the left lane because traffic appeared to be flowing more freely than in the right lane. When she looked forward again traffic had come to a stop and she braked but was unable to avoid a collision. Police issued her a citation for following too closely. The Critical Precrash Event for Vehicle #1 was other vehicle in lane stopped. The Critical Reason for the Critical Event was coded as inadequate surveillance (failed to look, looked but did not see). Associated factors included inadequate surveillance-failed to look far enough ahead, and traffic congestion. Vehicle #2 was driven by a 45-year old male that was belted and not injured. He stated that traffic came to a stop and he was stopped several seconds with his hazard flashers on before being rear-ended. The Critical Precrash Event for Vehicle #2 was other vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. The only associated factor was traffic congestion.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

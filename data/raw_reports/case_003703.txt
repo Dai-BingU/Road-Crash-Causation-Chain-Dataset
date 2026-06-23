@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the northbound lane of a 3-lane undivided roadway on a weekend evening. The road was straight, flat, and featured an uphill grade with a posted speed limit of 45 mph. Conditions were clear, dry, and dark but partially lighted with street lamps. V1, a 1989 Isuzu pickup truck with one occupant, was traveling north in lane one. V2, an unoccupied 1990 Toyota Camry, had suffered some type of mechanical failure was being pushed in the same northbound lane. The front of V1 struck the back of V2 and a pedestrian that was pushing V2. V1 was driven by a 32-year-old male that works at a scrap metal yard 9 hours per day Monday thru Friday and worked an extra 6 six hours this Saturday morning. He was able to be interviewed, as he did not speak English, however his brother provided a surrogate interview. The driver's brother said the driver borrowed his truck this evening to buy beer at a local convenience store but swears that his brother was not drinking alcohol before he left for the beer. His brother said that a friend who saw his truck on the side of the road notified him about the crash. The crash happened a half mile from where the driver and his brother live. 17 meters of skid marks in the northbound lane indicate that V1 was braking before the crash. There was also a case of beer with one missing beer found in the cab of the truck. The driver was arrested for driving under the influence. V1 was able to be driven from the as it did not required a tow. The Critical Precrash Event for V1 was coded as a pedestrian in roadway and the Critical Reason for the Critical Precrash Event was coded as a recognition error, inadequate surveillance. The associated factors for this crash include the presence of alcohol in the driver, as well as a recognition factor as the driver failed to look far enough ahead. The pedestrian was a 19-year-old female who was driving her mother's car this evening with her cousin when the vehicle she was driving suddenly stopped. After she failed to restart the vehicle, she called for a tow truck and tried to push the car into a nearby parking lot. As she pushed the car from behind and her cousin pushed and steered from the driver side, a pickup truck drove into the back of her and the car. She said they had the hazard lights flashing on her vehicle and she assumed the truck was going to go around them or stop, but it did neither. She tried to avoid being struck by jumping on her trunk at the last second but the truck slammed into her left leg. She was transported to a hospital after suffering an incapacitating injury (broken left ankle). She does not wear corrective lenses but she does have a lazy eye. V2 was towed due to the mechanical brake-down not the damage sustained in the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：No driver present
+
+ Critical Pre-Crash Event
+ 1 ：Pedestrian, Pedalcyclist- Pedestrian in roadway
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

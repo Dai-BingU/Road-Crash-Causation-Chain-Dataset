@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary Case 2006-02-018 The crash occurred on a level two lane undivided roadway with a posted speed limit of 35 MPH (56 KPH). It was raining, the roadway was wet and it was daylight at the time of this weekday afternoon crash. Vehicle 1, a 1994 Dodge Caravan, was traveling west on the two lane undivided roadway. Vehicle 1 crossed into the eastbound lane, off the left side of the roadway and struck a 33 cm diameter pole with its front. Vehicle 1 came to rest facing west. Vehicle 1 was towed due to damage. The Dodge Caravan (Vehicle 1) was driven by a belted 49-year-old male who was treated at the scene for minor injuries, but refused transport. Information from a surrogate source indicated that the driver was on his way home from work, blacked out for unknown reasons and struck a pole on the left side of the roadway. No additional information was obtained. The Critical Precrash Event for Vehicle 1 was this vehicle traveling off the edge of the road on the left side. The Critical Reason for the Critical Precrash Event was heart attack or other physical impairment of the ability to act, a driver related critical non-performance error. This was chosen because the interview and police indicated driver lost consciousness prior to the crash. No additional factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

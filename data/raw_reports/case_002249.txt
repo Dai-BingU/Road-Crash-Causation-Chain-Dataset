@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a rural east/west two-lane road. Although the road is generally curved, it was straight with a 4% positive grade as it traveled west at the crash site. There was a ditch line located just off the south side of the road. The speed limit was 64kmph (40mph). Conditions were dry just after dawn on a weekend morning. Vehicle #1 was a 1989 BMW 325 traveling westbound. It departed the left (south) side of the road and entered the ditch. Vehicle #1 traveled 36 meters along the ditch line before striking a 28cm diameter utility pole that was 1.6 meters off the road with its front left. After impact the vehicle rotated counterclockwise and came to rest facing south in the eastbound lane. Vehicle #1 was towed due to severe damage. Vehicle #1 was driven by a 22-year old male that was belted. He was hospitalized three days with predominately lower extremity injuries. In the interview the driver stated he had no recollection of the crash. The prior evening he had gone out to celebrate his birthday and stayed at a friend's house. He reported that he'd gotten only three hours sleep before departing for his residence the following morning. On the police report neither drug or alcohol presence was reported, however, emergency personnel on scene reported the smell of alcohol and drug paraphernalia was located in the trunk. There was no blood alcohol test administered at the hospital, but nurse's notes in the medical report indicated positive for alcohol. The Critical Precrash Event was "this vehicle traveling off the edge of the road on the left side". The Critical Reason for the Critical Event was coded "inattention". The driver was obviously fatigued, but fell asleep was not a likely scenario since the road had so many curves prior to the crash location. Associated factors included fatigue and inattentive, thought focus unknown.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)

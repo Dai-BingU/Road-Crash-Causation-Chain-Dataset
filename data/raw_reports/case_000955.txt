@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the middle of a four-way six lane urban intersection. The crash occurred in the middle of the northbound lanes. The intersection was controlled by traffic lights. There were three lanes running northbound and three lanes running southbound with a center median. The conditions were dry and clear on a weekday afternoon. The posted speed was 72 KPH (45 MPH). Vehicle 1 was a 1996 Nissan Maxima that was driven by a 79-year-old woman who was traveling in lane three going northbound. The driver of the Nissan Maxima was witnessed running through the red light. V2 was a 2006 Mercedes E-350 that was driven by a 41-year-old woman. She was stopped at the east/west-intersecting roadway waiting for a green light to make a left hand turn. She had stopped for 1-2 seconds before the light turned green. She made the left turn and when she was in the middle of the intersection she saw V1, the Nissan Maxima, in lane three coming at her at a high rate of speed. She stated in the interview that she laid on her horn to try to get the drivers attention but V1 kept coming at her. She tried to steer to the right but was unable to avoid the impact. Both vehicles came to final rest in the middle of the intersection. The Nissan was driven by a woman who was traveling in lane three. She state that she had just run some errands and was on her way home. She approached the intersection and was focused on the car in front of her who I guess had run the light too. She didn't even see what color the light was, all she saw was the car coming at her from the right. It was noted by a witness on scene that the light had turned red and she just continued through it. The driver of V2 also stated that V1 did not respond to her beeping and never even asked if she was ok after the crash. The driver of V2 stated that the driver of V1 seemed confused. The Critical Pre-crash Event for V1 was "other vehicle encroachment from crossing street, turning into opposite direction". The Critical Reason was not coded to this vehicle. A major associative factor was age related as the driver was 79-year-old. She was transported to a local hospital with injuries. Her vehicle was towed due to damages. The driver was cited for the crash for running a red light. V2, the 2006 Mercedes Benz that was driven by the 41-year-old woman. She stated that she ahd just left the shopping plaza and had pulled out waiting to make a left turn. The light had just turned green and she pulled into the intersection to make a left turn. As she got into the middle of the intersection she saw the other car (V1) coming at her fast. She tried to get the driver of V1's attention by beeping her horn repeatedly and then tried to swerve to the right to avoid the impact but was unsuccessful. An associative factor related to this driver was she was a diabetic and was on Insulin. She stated that she had just checked her blood sugar and her levels were within their normal range. Her vehicle was towed due to damages as her left front tire was pushed and jammed causing her to be trapped in the vehicle. She was not injured but her vehicle was towed due to damages. The Critical Pre-crash Event for V2 was "this vehicle making a left hand turn at the intersection". The Critical Reason for the Critical Pre-crash Event was coded "False assumption of other users actions".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

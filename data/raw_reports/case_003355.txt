@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This intersection type collision occurred at an intersection controlled by overhead traffic control signals that were functioning properly. The east/west street is a 4 lane, one-way, bituminous, level, straight roadway. The speed limit is 25 mph (40 kmph). The north/south street is also a 4 lane, one-way, dry, bituminous, level, straight roadway with a speed limit of 25 mph (40 kmph). There were no environmental or traffic conditions present that contributed to the collision. Vehicle one (V1), a 1986 Cadillac Eldorado, was traveling east in the second lane approaching the intersection. Vehicle two V2, a 1997 green Oldsmobile Achieve, was traveling north in the second lane approaching the intersection. As both vehicles entered the intersection, the front of V2 struck the right side of V1. Neither driver attempted any evasive maneuvers. At impact, V1 spun clockwise to end up facing southwest upon the north edge of the roadway and sidewalk. At impact, V2 spun clockwise to end up facing southeast in the middle of the intersection. Both vehicles were towed from the scene. The critical pre-crash event for V1 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical pre-crash event was coded to V2 as a driver related factor: inattention (i.e., daydreaming). According to a witness, this driver was talking on the cell phone and not paying full attention to the driving task. The driver had concerns about his employment, but did not admit to talking on the cell phone when interviewed. The witness observed V2 fail to obey the traffic light and enter into the intersection, not granting V1 the right of way.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Cell Phone Use, Decision, Distraction, Driver Stress/Emotion, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inattention (i.e., daydreaming)

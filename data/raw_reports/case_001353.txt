@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a north/south urban US Highway at an intersection with a crossing street from a shopping center that runs east/west. The northbound travel lanes for the highway are separated from the southbound lanes by a grassy median that is no less than 30 meters wide. There are four northbound travel lanes with one being a right turn only lane and another is a left turn only lane. The crossing street contains three lanes on the east side of the intersection with two lanes westbound and one lane eastbound. The two directions of travel are divided by a raised concrete island. Both roadways are straight and level and the intersection is controlled on all sides by traffic lights. The posted speed limit for the north/south highway was 72KPH/45MPH and the posted speed limit for the east/west roadway was 48KPH/30MPH. The crash occurred on a weekday in the early afternoon. The conditions were daylight and dry. Vehicle 1, a 1996 Saturn SL1, was traveling northbound in the second lane of four when it entered the intersection failing to stop for a red traffic light. As it passed through the intersection, it was struck on the right side by the front of Vehicle 2, a 2005 Ford F150 that was westbound and had a solid green light. Both vehicles came to rest very close to POI. Both vehicles were towed due to damage. Vehicle 1 was driven by a 34-year-old belted female who was the beneficiary of deployed frontal airbags. She was on her way to the bank from work and had just gotten on the north / south highway. The Critical Pre Crash Event for Vehicle 1 was this vehicle traveling: Crossing over (passing through) intersection. The Critical Reason for the Critical Pre Crash Event was a recognition error: inattention (driver had stated that she never saw the light turn red and insinuated that she “looked up” to see the truck coming at her. An associated factor coded to this vehicle was inadequate surveillance: failed to look far enough ahead. Illegal maneuver, failed to stop for traffic control was also coded. Vehicle 2 was driven by a 58-year-old belted male whose frontal airbag did not deploy. He was transported to a local hospital for treatment of non-incapacitating injuries. The Critical Pre Crash Event for Vehicle 2 was Other Vehicle Encroachment from crossing street across path. The Critical Reason for the Critical Pre Crash Event was not coded to this vehicle. An associated factor contributing to this vehicle was Driver fatigue as the driver only sleeps 4 ½ hours per night. The driver was also being treated for a variety of conditions with a variety of medications. One of these medications (Loracet) is a fairly potent painkiller. A sightline restriction was coded; the drivers view was obstructed by a non-contact vehicle in the left lane beside him.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Fatigue, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

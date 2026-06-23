@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a four-lane asphalt roadway at the entrance of a highway on-ramp. The road was straight and level and the speed limit was 56 kmph (35 mph). Vehicle 1 was a 1996 Dodge Caravan with one occupant. Vehicle 2 was a 1990 Chevrolet Lumina with one occupant. Vehicle 1 was traveling east in lane 2 approaching the intersection and vehicle 2 was turning left (south) from the westbound lane 2. Vehicle 2 turned left across the path of vehicle 1 and the front of vehicle 1 contacted the right of vehicle 2. Both vehicles came to rest at the southeast corner of the intersection, where the left of vehicle 2 contacted the curb and guardrail. The driver of vehicle 1 was a 39 year-old female who stated that she was traveling east to go north onto the ineterstate. There was a vehicle coming the opposite direction and it turned right in front of her. The driver of vehicle 2 claimed that I had my turn signal on, but I did not. The Critical Precrash Event was coded other vehicle encroachment from opposite direction - over left lane line. The Critical Reason was not coded to this vehicle. The Critical Precrash Event for vehicle 2 was coded turning left at intersection. The Critical Reason for the Critical Precrash Event was coded as a false assumption of other's actions. The driver of vehicle 2 assumed that vehicle 1 would turn left (north) rather than proceed through the intersection. The driver of vehicle 2 stated he thought vehicle 1 had her left turn signal on to turn left. The driver of vehicle 2 was not interviewed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

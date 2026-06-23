@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the northbound lanes of a two-lane one-way roadway. The northbound road has parking on both sides and a bicycle lane on the right side of the road. In the center of the northbound roadway there were metal trolley tracks planted in cement. The ease/west road is a two-lane two-way roadway with a painted median. The eastbound direction has a third lane that is designated left turn lane only. There is parking and a bicycle path on both sides of the street. The roadways for both vehicles were asphalt, dry, and level. The posted speed limit was 40 kmph (55 mph) for both directions. There were signalized traffic control devices on all four corners controlling the traffic. The crash occurred in the mid evening daylight hour on a weekday. The traffic flow was normal and the weather was clear. Vehicle one, an unknown type vehicle was traveling westbound when it contacted with its front the right side of vehicle two, a 2005 Nissan Altima, traveling northbound. Vehicle one continued traveling and did not wait for police, etc… The police list V2 as a Hyundai Sonata. However, according to the VIN it's a Nissan Altima. After the initial impact, vehicle two rotated/yawed 45 degrees into the northbound lanes and struck, with its front, the left side of vehicle three, a, 1995 Saturn SW2, parked on the east side of the northbound roadway pushing the right rear into a utility pole located on the curb edge. The impact caused the wheel of V3 to bend outward dislodging it from the vehicle. Vehicle two continued to face north on top of the curb at final rest. Both V2 & V3 damages were disabling. The driver of V1 could not be reached for an interview or comments. His/ her age is unknown and they are not listed on the PAR. There were no witnesses on scene. The Critical Pre-Crash Event for V1 was this vehicle crossing over (passing through) an intersection. The Critical Reason was coded as an unknown decision error. An associated factor is a illegal maneuver: failed to stop at a traffic control device. The driver of V2, a 27-year old female, is familiar with the roadway. It's a work route and she travels it daily. She said she was traveling north in lane one. She said, as she approached the intersection she looked both ways because she knows it's a busy intersection and cars speed up and down the road. She was absolutely positive the light was green and that the other driver ran the red light. She thought he was going to stop for a minute, he looked at her and hesitated and then took off. After he hit her car, her car spun around and hit a car parked on the right hand side of the street. She said the car behind hers continued traveling through the intersection as well and it's a wonder he didn't hit their vehicle too. She was transported to the hospital with minor injuries The Critical Pre-Crash Event for V2 was coded as: other vehicle encroachment from crossing street, across path. The Critical Reason was not coded to this vehicle. Associated factors were coded to this driver include: sleeping only 7 hour. She normally sleeps 8 hours a night. Assumption: assumed other driver would yield to her right of way.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown decision error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

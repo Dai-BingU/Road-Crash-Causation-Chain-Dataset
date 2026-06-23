@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west two-lane undivided residential roadway. The road was straight with a 5 percent downgrade in the eastern direction. There were driveways to residences on the north and south sides of the road. Conditions were daylight and cloudy on a weekday afternoon. The posted speed limit was 56 kmph (35mph). Vehicle #1 was a 2000 Chevrolet Cavalier. It backed out of a private drive on the south side of the road and began to travel eastbound. The driver intentionally ran off the right (south) side of the road and struck a utility pole that was 1.7m off the side of the road with its front. The vehicle was towed due to damage. Vehicle #1 was driven by a 19-year-old female that was not belted with deployed frontal airbags. She was transported to an area hospital for minor injuries and psychological evaluation. She had been in an argument with a friend that lived at the residence in front of the crash site and threatened suicide. She admitted to police that she intentionally ran into the pole; there were no skids or apparent avoidance actions. The Critical Pre-crash Event for Vehicle #1 was this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was an “other decision error,” specified as deliberate intent. Associated factors included emotional upset, a history of bipolar disorder, and fatigue - the driver reported that she was only averaging four hours of sleep per day due to personal problems. The driver was being treated for the bipolar disorder with prescription medications. The use of illegal drugs was also coded as an associated factor: a drug screen conducted two and one-half hours after the crash indicated the presence of both amphetamine and cannabinoids.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other decision error (specify) :

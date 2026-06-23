@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on the westbound lanes of a concrete four-lane, one-way positive center barrier divided urban arterial interstate expressway. The expressway is straight, level, equipped with inner and outer berms, and was dry at the time of the crash. The speed limit on the expressway is 89 KPH (55 MPH). The crash happened in mid -afternoon and the roadway was congested with traffic. Vehicle one, a 1998 Ford Taurus was westbound in the fourth lane of the expressway. Vehicle two, a 2006 Buick La Crosse was westbound in the fourth lane ahead of vehicle one. Westbound traffic began to back up from a construction zone miles ahead. Vehicle two began to decelerate due to the traffic congestion. Vehicle one continued forward and struck the rear of vehicle two with its front end. Just prior to impact, vehicle one began to brake and steer right, but was unable to avoid the crash. After impact, vehicle one traveled across all the lanes of the expressway and came to final rest facing northwest off the roadway outerberm. Vehicle two was driven to a controlled final rest facing west on the outerberm. Vehicle one was towed due to damage. Vehicle two was not towed due to damage. The driver of vehicle one, a twenty-four year old female was westbound and decided to call her mother with her cell phone. Her cell phone was located in her purse, which was setting on the passenger seat. She reached her right hand to her purse and began rummaging in it. When she couldn't locate the phone by feel she leaned to her right and looked into the purse to find the phone. When she returned her attention to the roadway vehicle two was already decelerating and she didn't have any time to avoid the collision. This driver was following too closely to be able to react to the other vehicle. This driver was between jobs and was taking some time off before starting a new job. This driver drives this vehicle daily and over this road on a weekly basis. The driver of vehicle two, a sixty-two year old male was driving from his home state to a conference. This driver had been driving for over five hours at the time of the crash. This driver had been driving since morning, and was intent on driving straight to his destination. When traffic began to slow in front of him he decelerated and then was struck in the rear. It is unknown how often this driver had driven this vehicle but he only rarely drives on this roadway. The critical pre-crash event for vehicle one was coded as "other motor vehicle in lane: traveling in same direction while decelerating". The critical reason for the critical pre-crash event for vehicle one was coded as "driver related factor: internal distraction". The critical pre-crash event for vehicle two was coded as "this vehicle traveling; this vehicle decelerating." The critical reason for the critical pre-crash event for vehicle two was coded as "not coded to this vehicle".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：This Vehicle Traveling- This vehicle decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

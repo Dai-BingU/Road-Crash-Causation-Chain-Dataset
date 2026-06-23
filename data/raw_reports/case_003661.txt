@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred on a two-way, two-lane, concrete roadway with a -13% slope. No adverse weather conditions present at the time of collision. The posted speed limit on this roadway is 40 kmph (25 mph). Vehicle one (V1), a 1993 Ford Taurus sedan occupied by the 17 year old male driver and one passenger, was stopped on east side of roadway facing north. Driver started V1 and proceeded to drive V1 forward with the intention of turning left into a driveway, in order to turn around and drive south. Vehicle two (V2), 1993 Ford Probe coupe occupied by the 16-year-old male driver and one passenger was traveling north in lane one. V2's roadway transition from being level to a -13% slope as driver gained sight of V1 in lane one stopped. It must be noted that distance from crest of hill to V1 was ample enough for V2 driver to react to any movements of V1. As V2 driver continued down roadway, V1 began to move forward and drift into middle of roadway. V2 driver moved left as well and finally braked with lockup when V1 moved completely across the roadway in an attempt to drive into driveway. V2's front right bumper contacted V1's left front door. V2 came to rest on left side of roadway and V1 came to rest off left side of roadway in a private property front yard. Both vehicles were facing in a northwesterly direction. V1 was towed due to damage; V2 was not towed. The driver of V1 suffered non-incapacitating injury, but was not transported. An associative factor is primarily assigned to V1's driver since this driver turned in front of V2. V1 performed inadequate surveillance, which led to the collision. Also, the driver only has limited driving experience (1 year). V2 driver also contributed to the collision due to making a false assumption of other driver's action, which led to insufficient evasive action. This false assumption is attributed to lack of driving experience (less than 6 months). The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The critical pre-crash event for V2 was coded: other vehicle encroachment; from adjacent lane (same direction)-over right lane line. The critical reason for critical event was not coded to vehicle two.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

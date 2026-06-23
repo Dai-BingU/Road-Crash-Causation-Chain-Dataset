@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on the off ramp of the westbound side of a fully controlled major highway. There were two lanes for the continuation of westbound traffic and one westbound exit lane. A concrete barrier divides the exit ramp from the major highway. Attached to the end of the barrier was an attenuator. The exit ramp had a wide shoulder area for emergencies only. The asphalt roadway was level and wet. It had been raining for most of the evening. The posted speed limit was 80 kmph (50 mph) for both roadways. There were no traffic device controls for either the ramp or the highway. However, there was an exit sign for exiting the highway with the designated route number. The crash occurred on a weekday during the late night dark hours. However, the roadway was lighted by overhead streetlights. The roadway was free of any defects and the traffic flow was normal for this roadway. Vehicle one, a 1994 Oldsmobile Cutlass, was traveling westbound in lane one nearest the cement guardrail when it exited the highway and began to traveled on the shoulder for several feet at which point he steered to the left to get into lane one, the exit ramp when he contacted with the front of his vehicle the rear of vehicle two, a 1999 VolvoV70. After the impact, vehicle two traveled a few feet and contacted with its front the attenuator to his left located in the median area this is where V2 came to final rest. After V1's contact with V2, it rotated clockwise and the driver side door contacted the attenuator then it rotated clockwise and contacted with its front the cement divider where it came to final rest facing south. Both vehicles were towed due to damages. Both drivers stated that there were no view obstructions. Vehicle one driver, a 24-year-old male, said he was traveling westbound at approximately 35 mph in lane one when he entered the off ramp to exit the highway. He admits to veering to far right into the shoulder area. He steered left to get into the 'middle lane' at first he didn't see vehicle two approaching from his left so he continued to proceed to change lanes and struck the back of V2. It was dark and raining and said he could see how he didn't see V2 approaching from his left. He must have been going mighty fast and the roadway was slippery. He works between 60-70 hours a week and he said he was not fatigued. He travels on the roadway daily. I asked how long have you had your driver's license and he replied two years. He said he did see V2 till just before he hit him. He said that there were a lot of things going on in his life and perhaps he was preoccupied with thoughts. He was not injured. The Critical Pre-Crash Event coded to V1 is “this vehicle traveling over the lane line on the left side of the travel lane”. The Critical Reason for V1 is an “inadequate surveillance”. Associated factors for this driver include: proceeded with insufficient clearance and two years experience, an inexperience driver. It should be noted that there was previous damage from another crash on the right back door of this vehicle. The driver of vehicle two, a 45-year old male, could not be reached for an interview or comments. The police reported, however, that the driver said he was driving westbound
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

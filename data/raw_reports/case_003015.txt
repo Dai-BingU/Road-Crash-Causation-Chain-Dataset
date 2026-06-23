@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred early evening during daylight hours at a four-way intersection. Only east and west traffic is controlled by stop signs. No adverse weather conditions present at the time of collision. Roadway surface for all three vehicles is dry, level bituminous. Posted speed limit 56 kmph (35 mph). Vehicle one (V1), a 1999 Ford Escort sedan, driven by a 38 year-old male was traveling north in the second lane approaching the intersection with the intention of turning left after stopping. As V1 approached intersection, driver stopped due to approaching traffic before initiating left turn. Once southbound traffic lightened up, and a SUV traveling south in lane two approached intersection, signaled and stopped, V1 driver began a left turn. Vehicle two (V2), a 1993 Ford Taurus sedan driven by a 35 year-old female with one passenger, was traveling south in the first lane along right side and to the rear of a non-contact SUV. This placement of vehicles caused a sight restriction to both V1 and V2 drivers. As V1 crossed lane one of southbound traffic, it was impacted on the front/middle right side by the front bumper of V2. The force of impact caused V1 to rotate clockwise about 90 degrees, contact the right front bumper of Vehicle three (V3), a 1998 Buick Skylark sedan driven by a 38 year-old female that was stopped in lane one facing east was contacted on its front by the left side of V1. V1 came to final rest facing northeast with its rear axle resting on the southwest corner sidewalk. V2 came to final rest facing southwest. V1 and V2 were towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded as a driver related factor: turned with obstructed view. View was obstructed by other in-transport vehicle. The critical pre-crash event for V2 was coded: other vehicle encroachment, from opposite direction-over left lane line. The critical reason was not coded to this vehicle. V3 was not involved in first harmful event. The critical reason was not coded to this vehicle. Additional factor, inadequate surveillance for both V1 and V2. Both drivers were focused on the stopped non-contact vehicle rather than roadway and traffic.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Roadway, Surveillance present problem 
+Vehicle 2:  Distraction, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

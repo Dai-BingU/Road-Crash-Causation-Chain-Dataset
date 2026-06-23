@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred at a little past noon during daylight hours at a traffic-controlled intersection. One roadway runs east/west while the other runs north/south. The east/west roadway is a two-lane undivided roadway east of the intersection. West of the intersection, the roadway is one-way in the eastbound direction and is comprised of one lane, bordered by parked vehicles. The north/south roadway consists of four lanes, with two lanes in each direction separated by a painted median. This roadway is bordered by parking lanes, marked specifically with painted sections. The speed limit on the north/south road is 56 kmph (35 mph) and the east/west roadway is 40 kmph (25 mph). There were no adverse weather conditions or roadway restrictions. Vehicle one (V1) a 1996 Nissan Maxima sedan driven by a 47 year-old male was traveling eastbound in the first lane. Vehicle two (V2) a 1995 Honda Civic coupe driven by a 19 year-old male with one passenger was traveling southbound in lane one. Vehicle three (V3) a 1996 Ford Ranger XLT pick-up driven by a 68 year-old male with one passenger was stopped in the first lane, headed northbound. Both V1 and V2 entered the intersection at the same time and the front of the V2 contacted the left side of the V1. After impact, the right side of the V2 side slapped the left side of the V1. V1 came to rest just south of the intersection, facing southeast. V2 continued on a southeast trajectory, contacting the front of the V3 with its front. V2 came to rest against V3 facing approximately south. V1 and V2 were towed; V3 was driven. The occupants of vehicle one and two were transported to a local hospital where they were treated and released. The pre-event movement for V1 coded going straight, category this vehicle traveling crossing over passing through intersection. Critical reason for the critical event coded driver related factor "Illegal maneuver". (disregard of traffic signal). The pre-event movement for V2 coded going straight, category other vehicle encroachment from crossing street across path. Critical reason not coded to this vehicle. The pre-event movement for V3 coded stopped in traffic lane, category other this vehicle not involved in first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Surveillance present problem 
+Vehicle 3:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

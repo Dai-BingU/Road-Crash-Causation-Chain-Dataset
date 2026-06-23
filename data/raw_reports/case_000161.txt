@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary A two-vehicle crash occurred during the afternoon hours on a dry, level bituminous asphalt roadway approaching a light controlled four-way intersection. This section of the roadway runs east and west and is divided by a grass median. The four westbound lanes consist of: a right turn lane, a first through lane, a second through lane, and a left turn lane. There is a grass median that divides the east and westbound lanes. The speed limit for this road is 89 kmph (55 mph). The roadway was free of deficiencies. Traffic was backed up from the next intersection at the time of the crash. Vehicle one (V1) is a 2004 Chevrolet Malibu four door sedan. Vehicle two (V2) is a 2002 Ford F-250 4x2 pick up truck. V2 was traveling westbound in the first through lane approaching an intersection. V1 was traveling in the same lane behind V2. There were approximately ten other vehicles in the first through lane in front of V2 also approaching the intersection with a red traffic light. V2 came to a stop behind the other vehicles. V1's front impacted V2's back bumper. Both vehicles came to a final rest in their original travel lane. V1 was towed due to damage. V2 drove from the scene. Driver of V1 was reported injured however refused medical treatment at the scene. Driver of V2 was not injured. The driver of V1, an 80 year old female stated she saw vehicle two in front of her which rules out inattention. It was further found that this driver had been involved in two other crashes within the past year. Other contributory factors found during this interview were; driver one has a hearing impairment (unknown degree), driver one wears glasses for reading (unknown vision level). At interview driver one had prescription sunglasses hanging around her neck but didn't know if she was wearing them at the time of the crash. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: misjudgment of other's gap or speed. Poor directional control was also considered an associative factor for this driver. During the interview of the driver of V2, a 71 year old male, it was noted that this driver drives to and from different locations during his workday. He had only been driving about 16 kilometers (10 miles) before this crash, but had driven a total of 80 kilometers (50 miles) for that day. This driver had recent experience driving this company vehicle and was very familiar with this roadway. No other factors were coded for V2. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Driver Physical, Speed/Distance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

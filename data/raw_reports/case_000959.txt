@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle rollover collision occurred during daylight hours on a weekend. The crash occurred on a straight stretch of dry, level, concrete, positively divided expressway in a 105 kmph (65 mph) zone. At the time of the crash, there were no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 1997 Saturn SC1 four-door sedan, was traveling northbound in the third lane of the five-lane expressway, approaching slower traffic ahead. Vehicle two (V2), a 2003 Ford F-250 pickup, was traveling northbound ahead of V1 in the same lane. V1 veered right across the northbound lanes and departed the road, where it continued forward on the paved shoulder, approaching an impact attenuator comprised of crash barrels. The front of V1 impacted the barrels. V1 ramped up the attenuator and rolled two quarter-turns towards its left side as it re-entered the freeway. V1 slid north on its top and partially entered the third lane, where the back of V1 contacted the right side of V2. V1 continued to slide north on its roof for several meters, and came to rest upside-down in the second lane, facing southwest. V2 came to rest in its original lane with only minor damage. The 19-year-old male driver of V1 was traveling 129 kmph (80 mph), as reported by the investigating officer, as he approached congested traffic ahead. After driving onto the shoulder and seeing the crash barrels ahead, he engaged the brakes, causing the vehicle to skid into the impact. The driver was arrested at the scene for driving under the influence of methamphetamines, and could not be interviewed at that time. Subsequent attempts to interview the driver were refused. The critical precrash event for V1 was: this vehicle traveling, off the right road edge. The critical reason for the event was attributed to V1, and is coded as a driver related factor: aggressive driving behavior. The 42-year-old female driver of V2 was traveling home from the airport with two passengers. At the time of the collision she was engaged in conversation with her husband and did not observe V1's approach from behind. The critical precrash event for V2 was: other vehicle encroachment; from adjacent lane (same direction), over right lane line. The critical reason for the event is not attributed to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Drugs, Speed/Distance, Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

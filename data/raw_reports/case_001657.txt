@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a two lane undivided roadway with a posted speed limit of 64 kmph (40 mph). The roadway curved to the left with a radius of curvature of 96 meters and a superelevation of 3.7%. The roadway had a - 4.6% grade. There was a black on yellow curve warning sign with a suggested speed of 32 kmph (20 mph) prior to the curve. The weather was clear, the roadway dry, but it was dark and unlighted at the time of this weekday afternoon crash. Vehicle 1 (V1), a 2001 Chevrolet Astro Van, was southbound on the roadway approaching the curve to the left. As V1 entered the curve it drove off the right side of the roadway into a ditch. V1 continued along the ditch until it struck a 35 cm diameter pole with its front. V1 then rotated clockwise before coming to final rest facing south. V1 was towed due to damage. The driver of V1, a belted 48-year-old male, was treated at the scene for minor injuries (the PAR indicates no injuries). The belted 54-year-old male right front seat passenger was not injured. The driver stated that as he traveled down the roadway at approximately 25-30 MPH, a deer came out from his right. He steered left and braked to avoid the deer, but went off the road and struck the pole. He indicated that he did not drive this roadway often. He stated that he took no medications but wore corrective lenses for an unknown condition. He had been talking to his passenger prior to the crash. No additional information was obtained as the driver could not be re-contacted or located to complete the interview. The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road on the right side. The Critical Reason for the Critical Event was coded too fast for curve. Associated factors include inexperience as the driver rarely travels this road and an internal distraction since the driver had been conversing with the passenger and was not focused on the driving task. The Police issued a citation for speed not reasonable and prudent as well as driving without a license.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

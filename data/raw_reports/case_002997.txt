@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred during daylight hours on a straight, uphill, physically divided, eight-lane roadway with no traffic controls. The westbound lanes consist of three through lanes and one lane for the exit ramp. The speed limit on this roadway is 105 kmph (65 mph) and there were no adverse weather conditions at the time. Vehicle one (V1), a 1984 Jeep Grand Wagoneer, was westbound in lane four, going straight. Vehicle two (V2), a 1999 Honda CR-V, was westbound in lane four in front of V1. Vehicle three (V3), a 1992 Buick Regal, was westbound in lane four in front of V2. V3 stopped due to a blown-out tire. V2 slowed down and attempted to change lanes to the right. V1 braked but the front struck the back of V2. V2 entered lane three and came to rest. V1 continued forward and the front struck the back of V3. V1 came to rest facing west in lane four just beyond the second impact. V3 was pushed forward and came to rest facing west in lane four. V1 and V3 were towed due to damage. The driver of V1, a thirty-nine-year-old male, was traveling on a familiar route and had just stopped for cigarettes on his way to work. He has several health issues: high blood pressure, diabetes and a "bad back." He takes several prescription medications regularly for these conditions. He routinely has difficulty sleeping and normally wakes feeling fatigued; in fact, he slept less than five hours the night before the crash. The driver of V2, a twenty-one-year-old male, was traveling his normal route from home to school. At the time of the crash, he was well rested and attentive to his driving, noticing that vehicle three was stopped and attempting to change lanes to avoid vehicle three. The driver of V3, a seventeen-year-old female, was traveling a familiar route from home to school. She stopped due to the tire blow-out and was attentive to the traffic in lane three so that she could drive to the right shoulder since there was no shoulder on the left. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction while decelerating. The critical reason was attributed to V1 and was coded as a driver related factor: too fast to be able to respond to unexpected actions of others (specified as: could not slow down enough to avoid vehicle two). The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. V3 not involved in first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction, Surveillance, Traffic present problem 
+Vehicle 3:  Distraction, Driver Stress/Emotion, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

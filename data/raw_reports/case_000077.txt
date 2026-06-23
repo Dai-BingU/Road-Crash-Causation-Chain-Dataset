@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary Case Note: Driver of V1 is a minor. His mother responded to the scene and declined an interview. The crash occurred in the left lane of a level two-lane roadway with a concrete median barrier (4 lanes total). Conditions were daylight and dry with clear skies in the early evening on a weekday. The posted speed limit was 56 kmph (35 MPH). V1 was a 1996 Chevy S10 pickup truck traveling southbound in the left lane intending on going straight. V2, a 2005 Nissan Quest minivan, was traveling southbound directly in front of V1. V2 was stopped when the front of V1 struck the rear of V2. Both vehicles came to final rest facing southbound. A 17-year old male drove V1 and was not injured. Both driver and parent of the driver refused to be interviewed. V1 was driven away from the scene. The critical pre-crash event for V1 was when another vehicle was stopped in his lane. The critical reason for the critical pre-crash event was an internal distraction. As per the police accident report, the driver of V1 was reaching down for a dropped item at the time of the crash and was not looking at the roadway. Associated factors coded to this driver include inexperience and the rush hour congestion on the roadway. A 35-year old male drove V2 and was not injured. He stated that he was stopped in traffic for about 15 seconds when he was struck in the back by V1. The driver of V2 did not take any avoidance actions because he was already stopped at the time of impact. V2 was towed due to damage. The critical pre-crash event for V2 was the other motor vehicle in his lane, traveling in the same direction but at a higher speed. No critical reason for the critical pre-crash event was coded to this vehicle. The driver of V2 felt well rested and was familiar with the area and his vehicle. Associated factors coded to this driver include a conversation with a passenger and the rush hour congestion on the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Traffic present problem 
+Vehicle 2:  Distraction, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

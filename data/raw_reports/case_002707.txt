@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a two-lane rural roadway at a T-intersection. The northbound lane was controlled by a stop sign at the intersection. The east/west roadway had no traffic control device. It was dry and straight with a downhill grade in the western direction and an uphill grade in the eastern direction. The roadway had a posted speed limit of 89 kmph (55 mph). It was the late hours of the morning on a cloudy day. Vehicle one was a 1995 Chrysler Lebaron convertible traveling westbound. Vehicle two was a 2003 Honda Civic stopped facing north at the intersection. Vehicle three was a 2005 Ford Escape sport utility traveling east following a non-contact bus that was attempting to turn right at the intersection. V2 proceeded to turn left at the intersection. The front of V1 contacted the right rear side of V2. V2 was then pushed across the roadway into the eastbound lane of traffic. The front of V2 struck the front of V3. V1 came to rest on the north roadside. V2 came to rest on the south roadside. V3 came to rest in the eastbound lane of travel. V1 was driven by a 19-year old male who was transported to a local trauma center with possible injuries. He was unable to be located for an interview. The investigating officer estimated his travel and impact speeds to be 45 and 30 mph. This driver braked with lockup, as shown by scene evidence. V1 was towed due to damage. The Critical Pre-crash Event for V1 was other vehicle encroachment from a crossing street, turning into the same direction. No Critical Reason was coded to this driver. No associated factors could be coded due to a lack of interview. V2 was driven by a 77-year old female who was transported to a local trauma center with possible injuries. She stated that she could not see the oncoming vehicle from the right over the hillcrest. She estimated her travel and impact speeds to be about 5 mph. V2 was towed due to damage. The Critical Pre-crash Event for V2 was this vehicle turning left at an intersection. The Critical Reason was inadequate surveillance, a recognition error. It was believed that the driver of V2 stopped at her stop sign, glanced right, saw nothing, and then looked left. She spent several seconds watching the non-contact bus to ensure that it was really going to turn right at the intersection. She then initiated her left turn without looking to her right again. Limited sight distance was coded as an associated factor due to the grade of the roadway. Another associated factor was the use of prescription medications to control high blood pressure. V3 was driven by a 26-year old male who was uninjured. He stated that he was driving to work when another vehicle pulled out across traffic and then traveled into his lane. He estimated his travel and impact speeds to be 45 and 35 mph, respectively. V3 continued in service. No Critical Pre-crash Event or Reason was coded for V3 because it was not involved in the first harmful event. An associated factor for the driver of V3 was a sight restriction caused by a non-contact vehicle (the bus that he was following).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Driver Physical, Drugs, Roadway, Surveillance present problem 
+Vehicle 3:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Starting in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

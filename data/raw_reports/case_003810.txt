@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This four-vehicle crash occurred just prior to the intersection on a two-lane one-way westbound roadway. The asphalt roadway was dry and level. The posted speed limit for this westbound traffic was 56 kmph (35 mph). There were signalized traffic devices controlling the intersection a few feet from where the crash occurred. There were curbside parking lanes on both sides of the westbound traffic. The crash occurred on a weekend during the early morning daylight hours. The roadway was free of any defects and the traffic flow was normal for this roadway. Vehicle one, a 1998 Ford Windstar, entered the westbound roadway from a parking lot located on the north side of the roadway intending to make a right turn when it contacted with its left front the side of vehicle two a, 1994 Volkswagen Jetta, legally parked on the south side of the roadway. Vehicle one continued to travel while turning right and contacted, with its right side the right rear and right side, of vehicle three, a Freightliner mail truck, stopped at the intersection for the signalized red light in lane two of the roadway. V1 continued traveling and contacted, with its left side, the left side of vehicle four, a 1994 Toyota Corolla, also legally parked on the south side of the roadway where it came to final rest wedge between V3 and V4. Vehicle one was towed due to severe damages. Vehicle one, a 1998 Ford Windstar, was driven by a 90-year old male, said he left the parking lot intending to make a right turn when his foot mistakenly hit the gas peddle instead of the brake and he accelerated to 145 kmph (90mph) loosing control of his vehicle, he crashed into V2, V3, and V4, before coming to a complete stop. He said had he not been such a good driver, it would have been worse. He's been driving for over 70 years and he drives on this roadway weekly. He was conversing with his passenger. He was not in a rush and didn't have to be anywhere at a certain time. He was running errands with his passenger. He said he felt rested at the beginning of his travels and was alert. Neither he nor his passenger was injured. The Critical Pre-Crash Event for V1 was coded: this vehicle turning right at intersection. The Critical Reason for the Critical Precrash Event was coded: poor directional control (e.g. failing to control vehicle with skill ordinarily expected), a performance error. Associated factors for the driver include: talking with passenger. He's a very experience driver. However, during the interview he seemed not as too alert. Vehicle three, 2002 Freightliner truck, was driven by a 56-year old male, said he did not see vehicle one coming out of the parking lot. He said, he was stopped at the red light at the intersection prior to V1 crashing into the back of his vehicle. He's a mailman in route to dropping mail to another location. He travels on this roadway daily. He was not injured. The Critical Pre-Crash Event coded to V3 is: not involved in the first harmful event. The 'Critical Reason' was not coded to this vehicle. Vehicle two was a parked vehicle and vehicle three was not involved in the first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

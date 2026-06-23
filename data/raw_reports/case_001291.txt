@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary Case #2006-45-043 The crash occurred at the intersection of an east/west two-lane urban collector and a two-lane north/south side street. Both roads were straight with positive grades <2% and the side street was controlled by stop signs. The posted speed limit was 56kph (35mph) on the collector and 48kph (30mph) on the side street. Conditions were daylight and wet on a weekday morning. Vehicle #1 was a 1994 Infiniti J30 traveling north on the side street. Vehicle #2, a 1993 Ford Ranger pickup, was westbound on the urban collector. The Infiniti (V1) passed through the intersection and was struck in the right side by the front of the Ranger (V2). A secondary side slap impact also occurred with the right side of Vehicle #1 contacting the left side of Vehicle #2. The Infiniti (V1) then departed the northwest corner of the intersection and struck a utility pole with its front left before coming to rest facing northwest. Vehicle #2 came to rest facing north in the northwest corner of the intersection. Both vehicles were towed due to damage. Vehicle #1 was driven by a 44-year old female that was belted with deployed frontal airbags. She was transported to an area hospital with minor injuries. She stated that she intended to turn right at the intersection and assumes she made the turn too wide resulting in the collision. However, based on location of impact and the other driver's statement it appears she never initiated the right turn, or did so very late. Police charged her with failure to yield. The Critical Precrash Event for Vehicle #1 was this vehicle passing through intersection. The Critical Reason for the Critical Event was an unknown recognition error. The driver was familiar with the area and the side street she was traveling on was only a few hundred meters long, so inattention was an unlikely. Although the driver was not very candid with researcher or police, some form of distraction (internal or external) was thought to be the most probable scenario. There were no other associated factors, but the driver takes some pain medications for degenerative disk disease in her neck and back. Vehicle #2 was operated by a 27-year old male that was belted. The pickup was not equipped with airbags. The driver sustained minor injuries but was not transported for treatment. He stated the other vehicle passed through the stop sign and didn't stop at the intersection. The Critical Precrash Event for Vehicle #1 was other vehicle encroaching from crossing street across path. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors for Vehicle #1.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle intersection type crash occurred at a four-legged intersection. Both roadways are undivided, straight and level. The north/south roadway consists of one lane in each direction, is controlled by stop signs and the speed limit is 48 kmph (30 mph). The east/west roadway consists of two lanes in each direction and the speed limit is 56 kmph (35 mph). The road surfaces were dry and there were no adverse atmospheric conditions at the time of the crash. It was dark and there was little to no traffic on the roadways. The intersection was not directly lighted. The stop sign for southbound traffic had been taken down and was placed in the northwest corner of the intersection. This corner was stacked with cut trees and brush with a maximum height of 2 meters (6.5 feet). A temporary stop sign (height of 122 cm {4 feet}) was placed on the roadway. Vehicle one (V1), a 1995 Chevrolet S-10 Pickup with three occupants, was traveling south in the first lane. Vehicle two (V2), a 2003 Ford Focus with one occupant, was traveling east in the second lane of traffic. In the intersection, the front of V2 struck the right side of V1. V1 rotated counterclockwise, V2 rotated clockwise and the right side of V1 struck the left side of V2. Both vehicles moved to the southeast corner of the intersection. V1 traveled off the roadway and the front struck a low brick wall (height 40 cm {16 inches}) in the yard of a private residence. The vehicle came to rest in the front yard, facing southeast. V2 partially departed the roadway on the west curb of the northbound lanes. It came to rest at the west curb facing south. Both vehicles were towed from the scene. A 20-year old male drove V1. He stated that he did not see the stop sign and traveled through the intersection without stopping at all. He was heading to his parents residence after picking up his sister and her friend from another friend's residence. He said he travels this route once a week. The driver was in good health, did not take any medication and was well rested. He has never received any driving education. The critical pre-crash event for V1 was coded "other vehicle encroachment; from crossing street, across path." No critical reason for the critical event was coded to this vehicle. This driver's failure to stop at the stop sign and the sightline restriction caused by the brush pile on the northwest corner were associated factors in this crash. A 22-year old male drove V2. His father and his sister provided some information at the scene. He was on his way home from a restaurant. He does not take any medication and is in good heath. He rarely drives on the roadway. This driver was not interviewed. No further information is available for this driver. The critical pre-crash event for V2 was coded "this vehicle traveling-crossing over (passing through) intersection." The critical reason for the critical event was coded "driver related factor; type of driver error unknown." The sightline restriction caused by the brush pile on the northwest corner was an associated factor for this driver in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Inexperience, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

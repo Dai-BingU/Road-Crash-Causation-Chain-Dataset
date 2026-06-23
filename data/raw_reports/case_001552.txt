@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a Friday during early morning hours. The location was a three lane divided (no positive barrier, six lanes overall) roadway. The weather was clear and the roads dry. It involved an SUV that exited a private drive at a high rate of speed and rolled over in the roadway. The speed limit is 40 mph (64kmph). The roadway is straight and level. Vehicle one (V1), a 1996 Ford explorer, was leaving a business parking lot to enter the westbound lanes of the roadway. At the location, the roadway is a 6 lane (3 westbound lanes), divided without positive barrier with a bituminous surface. V1 was traveling south as it exited the private drive and attempted to turn right and head westbound. According to a witness the vehicle was traveling at a high rate of speed as it exited the driveway. There was no oncoming traffic according to the witness. As the vehicle initiated the right turn, the vehicle rolled onto its left side and then it top. V1 rotated clockwise and slid westward on its side before it came to rest south of the north curb line of the westbound lanes facing northwest. The vehicle was towed from the scene and the driver received treatment at the scene. The driver of V1 was a 38 year-old male who is familiar with the vehicle but rarely drives the route. His version of the crash and the witness's version differ substantially. Scene evidence bare out the witnesses account. The driver claimed to be fatigued since he got off work at 0430 hours earlier and was on his way home after dropping off a friend. The pre-event movement was coded "accelerated in traffic lane" as the vehicle exited the private drive. The critical pre-crash movement was coded "this vehicle traveling-turning right at intersection." The critical reason was coded "decision error-too fast for curve/turn."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Inexperience, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

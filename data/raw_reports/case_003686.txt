@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary A two-vehicle crash occurred in the afternoon hours in an four-leg intersection of a five-lane divided roadway without positive barrier and a five-lane undivided roadway. This intersection is tri-light controlled in all four directions and has no pedestrian crossings or signals. The southbound lanes approaching the intersection consist of two through lanes and a left turn lane. Just to the north of this intersection the southbound lanes cross another tri-light controlled intersection and then a light and gate controlled railroad track. There is a positive grade approaching the tracks and a negative grade leaving the tracks southbound. The roadway levels out after the tracks and right into the intersection that this crash occurred in. The eastbound lanes consist of two through lanes and a left turn lane at the intersection. The speed limit for this roadway is 48 kmph (30 mph). The road was dry and free of adverse weather conditions, congestion, sight restrictions and/or roadway deficiencies. Vehicle one (V1) is a 1986 Cadillac Seville four door sedan. Vehicle two (V2) is a 1991 Cadillac Brougham four door sedan. V1 was traveling southbound in the first through lane. V1 traveled through the first intersection, over the railroad tracks and entered the intersection involved in this crash. As V1 came to the intersection the driver observed the tri-colored light, which was illuminating red. The driver of V1 stated that he was traveling too fast to stop and that his brakes were bad and he wouldn't have stopped anyway. He decided to just go through the intersection on the red light. V2 was traveling eastbound in the second through lane approaching the same intersection. As V2 was approaching the intersection with a green light the driver observed V1 coming over the railroad tracks. The driver of V2 stated that she thought V1 was going to stop. When V1 did not stop and entered the intersection, the driver of V2 steered right and accelerated. V1's impacted with struck V2's left rear in the intersection. The impact spun V2 in a counterclockwise motion. V2 came to a final rest facing west on a raised curb median on the east side of the intersection. V1 came to final rest it's original travel lane still facing south in the intersection. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over (passing through) intersection. For V2 the critical pre-crash event was coded: other vehicle encroachment; from crossing street, across path. The critical reason for the critical event was attributed to the driver of V1 as an driver decision factor: aggressive driving. After he ran the red light he intentionally entered the intersection because he couldn't stop anyway with bad brakes at the speed he was traveling. The critical reason was not assigned to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Distraction, Driver Fatigue, Driver Stress/Emotion, Speed/Distance, Surveillance, Vehicle present problem 
+Vehicle 2:  Decision, Driver Fatigue, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

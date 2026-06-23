@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the center of a "T" intersection composed of a two-lane north/southbound roadway, and a two-lane east/westbound roadway. The north/southbound roadway was bituminous and had a 3% grade, with a posted speed limit of 64 kmph (40 mph). The east/westbound roadway was bituminous and level, with a posted speed limit of 40 kmph (25 mph). A Stop Sign controlled the westbound roadway. It was early morning on a weekday. The roads were dry and there was heavy fog. Traffic flow was light. V1, a 1993 Ford Aerostar with one occupant, was traveling west in lane one. V2, a 1999 Chevrolet Silverado Pickup with one occupant, was traveling north in lane one. When V1 attempted to turn left at the intersection, it was struck by V2 on the left side, causing V1 to roll one quarter turn on its right side. V1 was driven by a 71-year-old male that was incapacitated with a concussion and transported to a trauma center. The driver stated that he stopped at the stop sign before proceeding. He saw the shadow of V2 through the fog but misjudged the speed and distance. As he attempted to make his left turn he was struck by V2 and rolled over one quarter turn to the right. The Critical Precrash Event for V1 was "this vehicle traveling-turning left at intersection". The Critical Reason for the Critical Precrash Event was "environmental related factor - fog". The following associated factor was assigned. Recognition factor "misjudgment of the gap distance - misjudgment of both factors". The Driver of V2, a 42-year-old male, reported no injuries. The driver stated that he was traveling at approximately 64 kmph (40 mph) as he entered the intersection, when V2 turned across his path and he struck V1 on the left side causing it to roll over. V2 applied his brakes and turned to the left in an attempt to avoid V1. The Critical Precrash Event for V2 was "other vehicle encroachment-from crossing street, turning into opposite direction". No Critical Reason was coded to this vehicle. No associated factors were coded to this vehicle
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Weather/Environment present problem 
+Vehicle 2:  Driver Physical, Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Fog
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

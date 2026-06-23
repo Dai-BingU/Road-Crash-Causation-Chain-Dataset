@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a two-way, ten-lane interstate roadway, divided by a concrete barrier wall. There were five southbound lanes. This was a straight, level, asphalt roadway, with a posted speed of 105 kmph (65 mph). Conditions were daylight on a weekday afternoon with dry roads and clear skies. Traffic flow was sporadically congested due to rush-hour traffic. V1, a 1999 Toyota 4-Runner with one occupant, was traveling southbound in lane three. Suddenly, traffic in front of V1 slowed down. V1 veered to the left to avoid rear-ending the vehicle in front of him. V1 drove off the roadway to the left. The front of V1 made contact with the concrete barrier wall. After impact, V1 rotated counterclockwise as it reentered the roadway. V1 came to final rest between lanes four and five, facing east. V1 was towed due to damage. The Toyota 4-Runner was driven by a 27-year old male, who refused treatment. The driver declined to be interviewed. The driver stated to police that a motorcycle cut him off, causing him to take an evasive maneuver to the left. However, there was no evidence of this taking place. It is believed that the driver was following too close to respond to the sudden slowing of traffic. The Critical Precrash Event for V1 was this vehicle control loss due to traveling too fast for conditions. The Critical Reason for the Critical Event was a driver related error, following to close to respond to unexpected actions of others. One associated factor for this driver was highway related. The rush hour congestion created a traffic flow interruption.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :

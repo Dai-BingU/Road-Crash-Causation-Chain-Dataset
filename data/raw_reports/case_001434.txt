@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred at a four-way signalized intersection. The southbound roadway (V1) had five lanes, and the eastbound roadway had six lanes (V2). Neither roadway was physically divided, and there were traffic lights for each lane at this intersection. The conditions were as follows: early afternoon, sunlight, clear skies, and dry, level roads. The posted speed limit for both roadways was 56 kmph (35 mph). V1 was a 1991 Toyota Camry, traveling southbound, and its driver claimed to have had a yellow light at the intersection. V2 was a 1998 Toyota Corolla, traveling on the eastbound roadway attempting a left turn onto the northbound roadway. V2 entered the intersection and started to turn left. The left side of V2 was struck by the front of V1. The driver of V1 was accelerating as he neared the intersection on a supposed yellow light. When he saw V2 enter the intersection in front of him, he locked up his brakes. He was unable to stop. V2's final rest was in the middle of the intersection. The driver a V1 was an 18-year old male who did not sustain any injuries. The driver gave an interview on scene. The researcher was also able to inspect the vehicle on scene. V1 did not need to be towed due to damage. It was stated to the researcher that the driver was not on any medications and did not suffer from lack of sleep. While talking to the driver of V1 he seemed like he might have had some problem or possibly an illegal drug in his system, because of the way he was talking and walking. The police marked unknown for alcohol and drugs on the police accident report, and the driver of V1 was not tested. The Critical Pre-crash Event for V1 was coded as: this vehicle crossing over (passing through) the intersection. The Critical Reason for the Critical Pre-crash Event was an illegal maneuver (running a red light). Two witnesses interviewed by police reported that V1 had a red light while V2 had a green turn arrow. Associated factors coded to the driver of V1 were inattention - the driver of V1 stated that he had been thinking about some concerns he had, work stress, and aggressive driving. The driver of V2 was a 20-year old female who was taken to a local hospital via ambulance to be checked out. She needed to be removed from her vehicle by EMS after the fire department removed the door. There was no driver interview obtained after numerous attempts to contact the driver. The Critical Pre-crash Event for V2 was coded as this vehicle turning left. The Critical Reason was not coded to this vehicle. No associated factors could be coded to this driver due to the lack of an interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Distraction, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

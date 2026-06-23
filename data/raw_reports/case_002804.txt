@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred on a five lane concrete level, dry roadway,no adverse weather conditions. Time of the crash was mid-afternoon with a posted speed limit of 56 kmph (35 mph). Vehicle one (V1) was a 2003 Honda CR-V SUV driven by a 51 year-old female who was traveling east in the first lane. Vehicle two (V2) was a 2005 Dodge Magnum SUV driven by a 56 year-old female with one passenger. V2 was stopped in the first eastbound lane. Vehicle three (V3), a 1999 Chevrolet Lumina sedan driven by a 44 year-old female, was stopped in the first eastbound lane. As V1 was traveling east V2 and V3 had stopped for traffic. V1's front impacted with the rear of V2. This first impact pushed V2's front into the rear of V3. All three vehicle came to final rest in the same traffic lane. V1 was towed from the scene, V2 and V3 left the scene under there own power. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: internal distraction, for eating/drinking. The driver had been looking at a soda can in the center console area. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction at higher speed. The critical reason was not coded to this vehicle. V3 was not involved in first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Stress/Emotion, Drugs, Speed/Distance present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

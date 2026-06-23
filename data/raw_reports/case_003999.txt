@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of an east/west two-lane state secondary arterial road and a north/south two-lane residential road. The residential road intersected from the north to form the three-leg intersection and had a stop sign and a flashing red traffic signal. Traffic on the arterial road had a flashing yellow caution signal in both directions at the intersection. West of the intersection the arterial road is straight and level. East of the intersection the arterial curves to the south with a radius of curvature of 141m and had a slight downgrade as it approached the intersection. The posted speed limit was 56kmph (35mph). Construction grading was underway on the south side of the road, the arterial was being widened to four lanes and straightened. At the time of the crash no workers were present only materials that had been at the site for several months. There are no construction warning signs since traffic is not affected by the roadwork. Conditions were daylight and dry on a weekday afternoon. Vehicle #1 was a 2002 Ford Focus traveling east on the two-lane arterial road. Vehicle #2, a 1996 Chevrolet Lumina, was westbound on the same road. Vehicle #1 attempted to turn left on the two lane residential road and its front was struck by the front left of Vehicle #2. Both vehicles came to rest near impact and were towed due to damage. Vehicle #1 was driven by a 48-year-old female that was belted with deployed frontal airbags and not injured in the crash. She stated that the other vehicle slowed down and she assumed it was stopping at the intersection. She drove the road monthly but felt the intersection was somewhat confusing. The Critical Precrash Event for Vehicle #1 was this vehicle turning left at intersection. The Critical Reason for the Critical Event was a decision error, false assumption of other's actions. There were no associated factors coded that contributed to the crash for the Focus (V1). Vehicle #2 was operated by a 45-year-old female, accompanied by a 16-year-old female front right passenger. Both were belted with deployed frontal airbags and transported to an area hospital with minor injuries. In the interview the driver stated that the other vehicle turned left in front of her and she could not avoid a collision. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to the Lumina (V2). There were no associated factors for this vehicle
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

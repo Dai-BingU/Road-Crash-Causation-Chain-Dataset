@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the afternoon of a weekday in the middle of an urban intersection. The intersection consisted of a north/south two-lane roadway and an east/west two-lane roadway. The intersection was controlled by a stop sign in the north/south direction. Both roadways were dry, straight, and level, with a posted speed limit of 48kmph (30 mph). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1986 Oldsmobile Cutlass Ciera, was eastbound approaching the intersection where it intended to go straight. V2, a 1998 Nissan Altima, was northbound approaching the same intersection. As V2 approached the intersection, it failed to stop for the stop sign and the front of V2 impacted the right side of V1. Both vehicles came to a final rest in the intersection near the point of impact. V2 left the scene before the police arrived. V1 was driven by an 83 year-old male who along with three other occupants were on their way to visit a member of their church. He stated he did not see V2 until he entered the intersection and it was too late to avoid the collision. He also claimed the driver of V2 got out of his vehicle spoke briefly to him and drove off. Neither the driver nor the three other occupants of the vehicle were injured but V1 was towed due to damage. The Critical Precrash Event for V1 was coded other motor vehicle encroachment, from crossing street, intended path not known. The Critical Reason for the Critical Event was not coded to this driver. No associated factors were coded to V1 and the driver was not thought to have contributed to the crash. V2 was driven by an unknown male who fled the scene before police arrived. No information regarding his identity could be ascertained and therefore interview was obtained. The Critical Precrash Event for V2 was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Event was coded as a driver related factor, illegal maneuver. There were no associated factors in addition to the illegal maneuver as very little information was obtained regarding V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, intended path not known
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

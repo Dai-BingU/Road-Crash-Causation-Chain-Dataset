@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This is a single vehicle crash that occurred shortly before noon in a rural mountainous area with various curves and elevations. In the area of the crash, the 3-lane asphalt roadway was covered with hail. The one westbound travel lane curved left and was on a downhill elevation of -7%. The eastbound roadway consisted of two travel lanes and was divided from the westbound travel lanes by double-yellow lines. The crash occurred during daylight hours during a hailstorm. The speed limit in that area is 104 kmph (65 mph) with an advisory speed of 80 kmph (50 mph) for the curves. Vehicle one (V1) a 1994 Pontiac Transport mini van driven by a 77 year-old male was traveling westbound in lane one and following a non-contact truck with a gap distance of approximately 15.2 meters (50 feet). The non-contact truck was just coming out of a left hand curve when it began to slide out of control in a clockwise direction on the hail-covered roadway. In an attempt to avoid a collision with the truck, the driver of V1 braked and began to spin in a counter-clockwise rotation. The driver then released his brakes and tried to steer right but continued to rotate counter-clockwise across all lanes of travel where it departed the left road edge backwards. striking it's right side wheels on the embankment then falling over onto it's left side, coming to final rest facing east. V1 was towed due to damage. The critical pre-crash event for V1 was coded: this vehicle control loss due to, poor road conditions (specified as: ice & sleet). The critical reason for the critical event was coded as an environment related factor: slick roads (low friction road surface due to ice, loose debris, any other cause).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle rear end crash occurred at a five-legged intersection on a weekend during late evening hours. The location was a two-lane divided (without positive barrier) straight asphalt roadway for eastbound traffic. The roadway had a 4.1 % downhill grade. The speed limit is 56 kph (35 miles) for the east-west direction. There was moderate traffic, the weather was clear and the roads dry. Vehicle one (V1), a 1995 Chevrolet 3500 pick-up with one occupant was traveling east in lane two. Vehicle two (V2), a 2000 Chevrolet Astro Van with two occupants was traveling ahead of V1 also in lane two. Both vehicles were approaching an intersection. While approaching the intersection the driver of V2 slowed to a complete stop. The driver of V1 applied the brakes and steered to the right to avoid the collision. The front of V1 struck the back of V2. V2 moved forward 22 meters (72 feet) before it came to a stop within the westbound lanes, facing east. V1 moved through the intersection, across the median and came to rest in lane four of the eastbound lanes, facing northeast. Both vehicles were towed from the scene. A 27-year old male drove V1. He had left the residence of a friend two minutes prior to the crash. He is in good health, does not take any medications and was familiar with the area. He stated V2 came from the south street, disregarding a stop sign, and attempting to cross through the intersection in order to make a left turn. The damage to both vehicles, the crash dynamics and the scene evidence do not support his version of the crash. Later during the interview, he stated he looked to his left without specifying what he focused on. There were private and commercial buildings with people outside. The medical report for this driver indicated a blood/alcohol result of 0.199 and he tested positive for PCP and Cannabinoids. A DVD player was attached to the upper center instrument panel. The license of the driver had been suspended. The critical pre crash event for V1 was coded "other motor vehicle in lane-other vehicle stopped". The critical reason for the critical event was coded "driver related error - driving too fast to respond to unexpected actions of other vehicle". A 36-year old male drove V2. He possesses a driver's license from Mexico. He said he is the owner of the vehicle, but he was not driving. He said the listed right front occupant, a 25-year old male, was driving instead. Both occupants were on their way to their residences, heading for a nearby highway. They had both worked on a job site until 1600 hours that day, dined at a restaurant and looked at another residence / job site within the area of the crash site. The 36-year old owner said the driver stopped the van at a stop sign, which was part of a four-way stop at this intersection. He said the driver and he himself was both familiar with the general area. They were both discussing their business and work assignments at the time of the crash. It could not be determined why the driver stopped the vehicle in the traffic lane just prior to the intersection. There was no traffic control device for his direction of travel. The police report states that this driver had been drinking. The critical pre crash event for V2 was coded "other vehicle in lane-traveling in same direction with higher speed". No critical reason for the critical event was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Distraction, Drugs, Surveillance present problem 
+Vehicle 2:  Alcohol, Decision, Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

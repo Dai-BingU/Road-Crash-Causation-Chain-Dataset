@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred on a four-lane interstate divided by a grass median and guardrails in the eastbound direction. The roadway was dry, straight and level. The posted speed limit was 113 kmph (70 mph). The crash occurred in the early hours of the afternoon on a clear day. V1, a 2001 Chevrolet Malibu, was traveling eastbound in the third lane of travel. A non-contact vehicle swerved from the second lane of travel into the third lane of travel in front of V1. The driver of V1 swerved to the left to avoid striking the non-contact vehicle, and then tried to swerve back into her lane. These steering actions sent V1 into a skid, and V1 departed the roadway to the left, skidding into the median. The front left of V1 contacted a guardrail and then entered the westbound roadway while traveling in a northeast direction. V1 became airborne, its front hit the ground while it rotated to the left, and it then landed on its roof in between the second and third westbound lanes of travel. V2, a 2002 Pontiac Aztec utility vehicle, was traveling westbound in the third lane of travel and swerved to the right while braking in an attempt to avoid striking V1. The front of V2 struck the left side of V1 in its upside-down position. V3, a 1998 Dodge Ram van, was also traveling westbound in the third lane of travel and its driver also braked and swerved in an attempt to avoid V1. V1, which was spinning after being struck by V2, sideswiped the left rear side of V3 as V3 passed by. All three vehicles then came to final rest in the roadway. The driver of V1 was a 24-year old female who reported that she had been traveling between 98-113 kmph (61-70 mph) prior to the crash. She had no health related problems and had taken no medication prior to the crash. She was rested and traveling home. She was wearing her prescribed lenses that corrected a myopic (near-sighted) condition. She sustained incapacitating injuries and was transported to a local trauma facility. The Critical Pre-crash Event for the driver of V1 was when she departed the roadway on the left side. The Critical Reason for the Critical Pre-crash Event was overcompensation, a performance error. No additional associated factors were coded to this driver. The driver of V2 was a 26-year old male who reported that he had been traveling between 67-80 kmph (41-50 mph) prior to the crash. He had no health related problems and had taken no medication prior to the crash. He was rested and traveling downtown. He does not wear corrective lenses. He sustained minor injuries and was transported to a local trauma facility. No Critical Pre-crash Event and no Critical Reason was coded for the driver of V2. He was not involved in the first harmful event and took appropriate avoidance actions. One associated factor coded to this driver was excess speed, because the EDR revealed that 5 seconds prior to the crash, he was traveling at 80 mph. The posted speed limit was 70 mph. The driver of V3 was a 42-year old male who had reported that he had been traveling between 98-113 kmph (61-70 mph) prior to the crash. He had no health related problems and had taken no medication prior to the crash. He was rested and traveling downtown. He does not wear corrective lenses. He was uninjured in the crash and refused treatment. No Critical Pre-crash Event and no Critical Reason was coded for the driver of V2. He was not involved in the first harmful event and took appropriate avoidance actions. No associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance present problem 
+Vehicle 2:  Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+ 2 ：Other- Not involved first harmful event
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

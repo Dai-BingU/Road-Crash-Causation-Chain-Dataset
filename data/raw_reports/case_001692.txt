@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a seven-lane (4 lanes northbound, 3 lanes southbound) urban roadway at a four-way, signal-controlled intersection. The roadway had a posted speed of 64 kmph (40 MPH) and the southbound lanes had a 1% downhill grade. Conditions were daylight and dry with clear skies. The crash occurred mid-afternoon on a weekday. Vehicle 1 was a 1996 Ford Ranger pickup traveling northbound in the fourth lane (left turn lane). Vehicle 2 was a 1999 Toyota Camry traveling southbound in the second lane approaching the same intersection as V1. A non-contact vehicle was stopped at the intersection in front of V1, partially obscuring V1's view. V1 proceeded to turn left. The front plane of V2 impacted the right plane of V1. V1 rotated clockwise 90 degrees and then rolled left one-half turn onto its roof. V1 came to rest west of the intersection on the highway onramp. V2 came to rest in the southbound lane one. V1 was driven by a 23-year old female who was checked out on scene with minor injuries. She stated that she had arrived at the intersection, stopped, and then the driver of the non-contact vehicle in front of her had waved her around. She had just accelerated into the intersection when the impact occurred. Her pickup was towed due to damage. The Critical Precrash Event for V1 was turning left at the intersection. The Critical Reason was inadequate surveillance on the part of this driver. She either failed to look for oncoming traffic or looked but did not see the oncoming traffic. In addition to her failure to look as she began her turn, she also entered the intersection when the non-contact vehicle in front of her obstructed her view of oncoming traffic. This "other" recognition error was coded as an associated factor. Other associated factors coded to this driver were inattention and emotional distress due to a funeral she had left just prior to the crash. The driver of V1 reported that she was familiar with both her vehicle and the roadway. She was not taking any medications. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. V2 was driven by a 28-year old male who was also checked out on scene with no reported injuries. His passenger was uninjured. He stated that he saw V1 coming into his path of travel and he attempted to steer left around it. V2 was towed due to damage. The Critical Precrash Event for V2 was the encroachment of V1 from the opposite direction over the left lane line. No Critical Reason was coded to this driver. Inadequate evasive action was coded as an associated factor for this driver because when he saw V1 turning in front of him, he failed to apply his brakes. He reported that he just tried to steer away from V1 rather than braking and steering. The driver of this vehicle was driving his girlfriend's car, which he claimed to be familiar with. He reported that he only traveled this particular roadway on a monthly basis. He was taking no medications. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. There is a higher than normal incidence of crashes at this particular intersection according to local news reports.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion, Roadway, Surveillance present problem 
+Vehicle 2:  Decision, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

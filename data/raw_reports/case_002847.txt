@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The location was a three-lane divided (without positive barrier) straight concrete roadway. The roadway had a 4.1 % uphill grade for eastbound traffic. The speed limit is 56 kmph (35) miles for the east-west direction.The weather was clear and the roads dry. Vehicle one (V1), a 1990 Mitsubishi Montero, was traveling east in the second lane of traffic. Vehicle two (V2), a 2003 Nissan Sentra, was traveling in lane one ahead of V1. Vehicle three (V3), a 1997 Jeep Wrangler, was traveling west in lane three of the westbound lanes. V1 departed its lane to the right. The right front corner of V1 impacted the left rear of V2. V1 continued to drive and reentered lane two. It crossed lanes two and three and departed the roadway to the left. V1 impacted a street light pole, located on the raised center traffic median with its left side. It caused the pole to break off at the base and fall into the westbound lanes. The falling pole impacted the hood of V3. The left rear wheel on V1 was separated from the axle during the collision with the pole. V1, equipped with a four-wheel drive, continued in the eastbound lanes for about 140 meters (459 feet) until it became disabled. V1 was towed from the scene. The driver of V1 seemed to be in a hurry, according to the witness. A 23-year old male drove V1. The driver is in good health and does not take any medication. He works a regular 40-hour job and was temporarily staying at a hotel with his girl friend at the time of the crash. He said he did not have any recall of the crash events, because he was "totally intoxicated". He had worked his usual eight hours this day and then had some drinks with his girlfriend at his hotel room. The driver stated he had some driving education more than five years ago, but never passed the practical test after he passed the written exam. The vehicle he was driving belonged to his girl friend. The critical pre crash event for V1 was coded: this vehicle traveling: over the lane line on the right side of travel lane. The critical reason for the critical event was attributed to V1 and coded as a driver related error: poor directional control (e.g., failing to control vehicle with skill ordinarily expected). This driver operated the vehicle under the influence of alcohol and his impairment affected his ability to control the vehicle. A 37-year old male drove V2. He was on his way home from his weekly visit to his brother. He is in good health, was well rested and does not take any medications. He told his sister-in law he did not see V1 coming from behind. He just got hit. He followed V1 until its final rest. The critical pre crash event for V2 was coded: other vehicle encroachment: from adjacent lane (same direction) - over left lane line. No critical reason for the critical event was coded to this vehicle. A 27-year old female drove V3. This driver was not interviewed. Vehicle 3 was not involved in the first harmful event. No critical reason for the critical event was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Alcohol, Driver Inexperience, Driver Performance, Speed/Distance present problem 
+Vehicle 2:  Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

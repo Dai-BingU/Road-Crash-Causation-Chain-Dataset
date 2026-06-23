@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a three-lane, undivided roadway. There was one southbound lane and two northbound lanes; however, the two northbound lanes merged into a single lane close to the point of impact. Approximately twenty meters north of the impact, there was a road crew repairing the bituminous roadway. The crew was laying a narrow strip of asphalt, and was reducing both north and southbound traffic to a single lane by means of a handheld stop sign. This crash took place during early afternoon hours on a weekday and there were no adverse weather conditions. V2, a 1972 Ford F600 heavy straight truck, was traveling north in lane two behind an unknown non-contact vehicle. V1, a 1989 Honda Accord, was also traveling north in lane two. As V2 approached the roadway workers, northbound traffic was signaled to stop to allow southbound traffic to pass. V2 came to a complete stop, but V1's front plane struck the rear plane of V2. V1 was driven by a 60-year old female who was not injured. This driver refused an interview. V1 was towed due to damage. The Critical Pre-crash Event was coded other vehicle stopped in lane. The Critical Reason for the Pre-crash Event was coded as an unknown driver error due to a lack of interview. A traffic flow interruption was coded as an associated factor because of the construction work on the roadway up ahead. V2 was driven by a 64-year old male who was not injured. The driver stated that he was driving at a safe distance behind the non-contact vehicle and came to a slow controlled stop for the road crew. He stated that he almost did not even know that contact was made to his vehicle. V2 was not towed due to damage. V2's Critical Pre-crash event was coded other vehicle traveling in same direction with higher speed. A Critical Reason was not coded to this vehicle. Associated factors coded to this driver include inattention, a focus on the work crew up ahead, use of a heartburn medication, and a traffic flow interruption due to the road construction ahead.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic present problem 
+Vehicle 2:  Distraction, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

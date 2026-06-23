@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekday on a five lane undivided urban roadway as it approached an intersection. The north/south roadway consisted of five lanes (with lane 3 designated as a left turn lane). The four-way intersection was controlled by a properly functioning traffic signal. The bituminous roadway was dry, straight, and level with a posted speed limit of 56kmph (35 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1980's Chevrolet Astro Van, was northbound in the lane two approaching the intersection. V2, a 2006 Chevrolet Corvette, was stopped in lane two, ahead of V1, waiting for the signal to change so it could proceed through the intersection. As V1 approached the intersection it failed to slow down and struck V2 in the back left corner. V2 was pushed through the intersection and came to final rest facing west on the intersecting roadway. V1 fled the scene after impact. V1 fled the scene and was unable to be located. Therefore no information regarding the vehicle or its driver could be obtained. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Event was coded as an unknown driver error. The only known associated factors were the vehicle speed (it was traveling too fast for the conditions) and its failure to stop for the traffic control device. The driver of V2, a 41-year-old male, who suffers from diabetes (take medication) and wears prescription lenses, stated that he had just come from the local community college and was on his way to his mother's home when the crash occurred. He added that he had stopped at traffic light and had looked in his rearview mirror to see a van coming up behind him at a high speed. He watched V2 try and avoid he vehicle by steering to the left but it was not enough so he braced for the impact. He stated after the impact that he steered to the left and let his vehicle coast onto the westbound roadway. He stated he felt intense pain in his lower back and down his left leg and was transported to a local trauma unit and his vehicle was towed from the scene. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors coded to V2 as the driver was thought not to have contributed to this crash. A witness stated that she was just sitting down to lunch at a near-by restaurant when she noticed the V1 approaching the intersection at high speed. The further also stated it looked as if it was braking and it was steering to the left when it contacted the left rear of V2 sitting at a red light. V1 then fled the scene westbound from the intersection. She stated that as she approached the hit vehicle she noted the driver looked confused and very upset. She stated it was very hot that day and the driver was in a closed-in vehicle so she opened the door so the driver could get some air waited with him for the EMS unit to arrive.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance present problem 
+Vehicle 2:  Distraction, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

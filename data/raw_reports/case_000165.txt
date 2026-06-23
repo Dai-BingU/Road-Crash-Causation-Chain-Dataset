@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a two way undivided roadway with a -1.4% grade, a superelevation of 1.2% and a speed limit of 72KMPH (45MPH). The roadway was straight for Vehicle #1 and curved right for Vehicle #2. The weather was clear and the roadway was dry. This crash occurred on a weekend afternoon. Vehicle #1, a 2000 Jeep Grand Cherokee, was traveling south on the two lane roadway when it proceeded to make a left turn into a retail parking lot. Vehicle #2, a 1993 Saturn SC2, was traveling north on the same roadway. Vehicle #1's front left impacted with Vehicle #2's front. Vehicle #1 spun counter-clockwise and came to rest facing north on the paved shoulder. Vehicle #2 came to rest in its original lane facing north. Vehicle #1 was not towed. Vehicle #2 was towed due to damage. The drivers airbag in Vehicle #2 deployed. The 2000 Jeep Grand Cherokee (Vehicle #1) was driven by a belted 75 year old female who drove the vehicle away prior to the scene being cleared. This driver refused an interview without explanation. This driver also refused her vehicles inspection. The Critical Precrash Event coded to Vehicle #1 was: This Vehicle Traveling, Turning Left at Intersection. The Critical Reason for the Critical Precrash Event was coded as: Driver Related Factor, Decision Error, Misjudgment of Gap or Others Speed. The 1993 Saturn SC2 (Vehicle #2) was driven by a belted 52 year old female who was transported to an area hospital, treated and released. Researcher was unable to locate this driver after 'in person' attempts. The name on the mailbox, of the address given by this driver, was different than the drivers name. The Critical Precrash Event coded to Vehicle #2 was: Other Motor Vehicle in Lane, In Crossover. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. The driver of V2 was taking medication for muscle spasms, anticonvulsant and osteoarthritis. Police did not consider alcohol or illegal drugs to be a factor and ordered not tests for either driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+Vehicle 2:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Motor Vehicle in Lane- In crossover
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

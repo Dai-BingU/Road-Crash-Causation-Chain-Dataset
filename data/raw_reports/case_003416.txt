@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred a few hours before mid-night during dark hours at an intersection without traffic lights. The road is a 5-lane divided asphalt roadway from west to east. It is a three lane (two-way traffic) asphalt parking lot exit from north to south. The speed limit for the roadway is 56 kmph (35 mph). The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. Vehicle one (V 1), a 1993 Mercury Capri convertible with one occupant was traveling west in the fourth lane of traffic approaching the intersection of both roadways. Vehicle two (V 2), a 1996 Toyota Tercel coupe with one occupant, was traveling south in the second lane, attempting to turn left into the eastbound lanes of traffic. At the intersection of both roadways, the front of V 1 impacted the left side of V 2. V 1 rotated counter clockwise and continued to travel west until came to rest within the intersection, facing southwest. V 2 rotated clockwise after the impact, and moved northwest, until it came to rest at the curb of the northwest corner of the intersection. Both vehicles were towed from the scene. The critical precrash event for V1 was coded: other vehicle encroaching into the lane; from crossing street, turning into opposite direction. No critical reason for the critical event was coded to this vehicle. The critical precrash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded as a driver related factor: type of driver error unknown. V2 did not have the right of way. The exact reason for the driver's actions is not known. No interviews were obtained with either driver to know if traffic conditions, interior/exterior distractions, or other conditions played a role in this collision..
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

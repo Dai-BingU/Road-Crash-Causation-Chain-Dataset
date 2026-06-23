@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This accident occurred on a two-way, two-lane roadway. The roadway is not physically divided, and has a traffic-control device at the intersection. The conditions were as follows: early evening, dark, clear skies, the roadway was wet and there was no atmospheric conditions. The gradient for the three vehicles involved were all level. The posted speed limit for vehicle one was 35 mph (56 kmph) and vehicle two was 40 mph (72 kmph). V1 was a 2003 Chevrolet Impala, traveling northbound, and had a red light at the intersection. V1 reported to the Police and related to me to have driven through the red light, just prior to the crash. V2 a 2000 Ford Focus was traveling westbound through a green light at the intersection. V2 struck V1 on the right rear door and down the side toward the right front door. V2 came to final rest in the middle of the intersection and in front of the opposing traffic. The impact caused V1 to be pushed up and spun counter clockwise by almost 180 degrees, in the intersection. When V1 spun around, it was reported that it struck V3. V3 was stopped waiting to proceed straight, in the opposite direction of V1. Shortly after the initial impact, V2 caught fire, probably starting at or near the battery, because of the angle of the crash for V2. Just V1 and V2 were towed due to damage. V3 was able to be driven from the scene. The drivers of the three vehicles and the one passenger did not need treatment, because they did not suffer any injuries. The Critical Precrash Event for V1 was coded as: this vehicle crossing over or passing through the intersection. The Critical Reason for the Critical Precrash Event is unknown, because the researcher was not able to obtain an interview. The driver of V1 would not return the researchers phone calls. V2 was a 2000 Ford Focus was traveling westbound and had a green light at the intersection. Upon realization of the impending crash, the driver of V2 attempted to avoid the crash by braking and steering her vehicle at the last moment to the right. With this maneuver, the driver unfortunately could not prevent this crash. Shortly after the impact, this vehicle caught fire, which was believed to have started at the battery. This vehicle also needed to be towed from the scene. The Critical Precrash Event for V2 was coded as other vehicle encroachment from crossing street across path. The Critical Reason was not coded to this vehicle. The driver of V2, refused to give the researcher an interview. V3 was a 2003 Honda Accord was traveling southbound and had a red light at the intersection. This vehicle was stopped at the intersection, awaiting the light to turn. After V1 was hit it spun around and hit V3. This vehicle did not need to be towed from the scene. The Critical Precrash Event for V3 was coded as not involved in first harmful event. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 3:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Unknown Reason - Unknown reason for critical event
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

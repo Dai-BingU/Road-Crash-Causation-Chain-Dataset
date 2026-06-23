@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 1996 Newflyer Bus was traveling eastbound on a two lane, one way, dry asphalt roadway in daylight conditions. V1 approached the intersection and was intending to go straight. V2 a 2003 Ford Explorer was traveling southbound on a four lane, one way, dry, asphalt roadway in the same conditions. V2 approached the same intersection also intending to go straight. V1 reported that he stopped for the stop sign but could not see V2 due to trees in the way of his sightline. V2 thought that V1 would stop and yield the right-of-way. The front of V1 contacted the right side of V2, before they both came to final rest in the roadway. The driver of V1 was a 42-year old man who had reported that he had stopped at the stop sign for 1-2 seconds and then proceeded traveling between 2-16kmph (1-10mph) prior to the crash. He had no health related problems and had taken no medication prior to the crash. He was rested and traveling to his next stop on his route. He does not wear prescribed lenses, but was wearing over-the-counter sunglasses at the time of the crash. He did not sustain any injuries from the crash. The Critical Precrash Event for the driver of V1 was coded “This vehicle crossing over (passing through) intersection”. The Critical Reason for the Critical Precrash Event was coded as a recognition error, inadequate surveillance (failed to look, looked but did not see), because he stated that he did stop at the sign but did not see V2 approaching. An associated factor coded for this vehicle was a sight line restriction located to the driver's left. The driver of V2 was a 36-year old female who had reported that she had been traveling 34-48kmph (21-30mph) prior to the crash. She had a history of high blood pressure and had taken her medication prior to the crash. This was not thought to have contributed to the crash. She was rested and traveling home. She was wearing her prescribed lenses that corrected an unknown condition. She sustained minor injuries and left from the scene to seek medical attention. The Critical Precrash Event for the driver of V2 was other vehicle encroachment, from crossing street across path. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2 and she was not thought to have contributed to the crash. She took appropriate avoidance actions.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of a two lane east/west bound undivided roadway with a two lane north/south bound undivided roadway. There was one lane in each direction of both roadways that were asphalt, straight, level, dry and with a posted speed limit of 64 kph (40 mph). There was a stop sign for southbound traffic. The crash occurred on a weekday evening under clear skies in a dark but lighted area while traffic was light. V1, a 1996 Toyota 4Runner, four-door SUV with two occupants, was traveling eastbound in lane one. V2, a 2001 Saturn LW300 four-door station wagon with three occupants was westbound in lane one. V3, a 2000 GMC Yukon Denali, four-door SUV with three occupants was southbound in lane one. V3 was stopped at the stop sign. V1 made a left turn across the path of V2 towards the northbound lane. Before V1 could safely complete the turn V2 struck the right rear of V1 with its front right (Event 1). The impact spun V1 slightly in a clockwise rotation and pushed it toward V3. The left rear of V1 then struck the front end of V3 (Event 2) and came to rest against V3, which did not move. V1 came to rest facing east within a couple of meters of the first impact. V2 came to rest facing west a couple of meters from the first impact. V1, the Toyota 4Runner, was driven by a 22-year old female who was not injured. Her passenger was coded for possible injury but not transported. The driver had left the scene when the researcher arrived and would not return the researcher's calls or respond to a written request for an interview. The Critical Pre-crash Event for V1 was coded "this vehicle traveling, turning left at intersection". The Critical Reason for the Critical Event was coded "misjudgment of gap or other's speed" because there were on skid marks for either V1 or V2. An associated factor of driver behavior, decision, misjudgment of both gap and speed from a vehicle in a forward direction was also assigned to V1. V2, the Saturn LW300, was driven by a 37-year old female who was not injured. She had two passengers in the second row seats. One was not injured and the other was coded for possible injury and transported to a hospital. The driver had also left the scene prior to the researcher's arrival. The driver reported that she was returning home traveling at an unknown speed. She said she saw another vehicle headed towards her in the opposite lane. She said it turned left into her path and although she hit her brakes and horn she was unable to avoid striking it. She was uncertain if the other driver had signaled her turn. The Critical Pre-crash Event for V2 was coded "other vehicle encroachment form the opposite direction over the left lane line". The Critical Reason for the Critical Event was coded not coded for this vehicle. V2 was assigned associated factors for driver, physical due to medications she is taking and for driver recognition she was conversing with her passengers. V3, the GMC Yukon Denali, was driven by a 39-year old male who was not injured. His passenger in the right front seat was coded for possible injury but was not transported. The passenger in the right back seat was not injured. The driver said he was stopped, with his foot on the brakes, at the stop sign waiting to turn left to the eastbound lane. He said he saw V1 start to make the left turn. He did not recall if V1 ever stopped before commencing the turn. The driver added that V1 turned into the path of V2, which could not stop. He saw V2 hit V1 and was then struck by the left rear of V1. The researcher was only able to obtain a partial interview at the scene. The driver would not respond to calls or a written request to complete the interview. The Critical Pre-crash Event and the Reason for the Critical Event were not coded for V3 because it was not involved in the first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

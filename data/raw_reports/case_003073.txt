@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred mid-morning on an eastbound expressway consisting of three lanes, which are separated from westbound lanes by a short concrete median wall and railroad tracks. Paved shoulders border the travel lanes. Prior to the crash area, two eastbound roadways, comprised of two lanes each, merge together to form this three-lane expressway. The westbound section and railroad tracks did not play a role in the crash. The speed limit on the expressway was 89 kmph (55 mph). At the time of the crash it was daylight, clear, and the road surface was dry. There were no adverse weather conditions or road defects; however, there was moderately heavy traffic congestion. Vehicle one (V1), a 2000 Plymouth Neon 4-door (V1) was traveling eastbound in the third (left) lane. Vehicle two (V2), a 2000 International 9900 tractor pulling one trailer. V2 was headed eastbound in the first (right) lane. Vehicle three (V3), a 2001 Mack CH613 tractor pulling one trailer was headed eastbound in the second (middle) lane. According to the V3's driver, a 44-year-old male, V1 was traveling in the left lane at a fairly high rate of speed and swerved to the right, crossing the center lane and striking V2 in the right lane. The front of V1 contacted the left side of V2, including the fuel saddle tank. V1 then slowed and moved back into the middle lane and its rear was contacted by the front of V3. After impact with V3, V1 rotated quickly right, then left, and departed on a northeast trajectory. V1 then departed the left side of the road, and contacted the north concrete jersey barrier with its left side and came to rest on the north shoulder facing generally east. V2 swerved to the left after the impact with V1, the V2 tractor and trailer jackknifed, and V2 came to rest facing north and blocking all three travel lanes. The driver of V3 was able to come to a controlled stop on the right shoulder. All three vehicles were occupied by a driver only. The V1 driver, an 82-year-old male, had a blood alcohol level of 0.226 according to hospital records. The records also indicate a long history of heavy alcohol use. Due to incomplete interview data, it could not be determined if the V1 driver lost consciousness or lost control of V1 due to other reasons. The critical pre-crash event for V1 was coded: this vehicle traveling, over the lane line on right side of travel lane. The critical reason for the critical pre-crash event was coded to V1 as a driver related factor: type of driver error unknown. The critical pre-crash event for V2 was coded: other vehicle encroachment; from adjacent lane (same direction) - over left lane line. The critical reason was not coded to this vehicle. V3 was not involved in first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Physical present problem 
+Vehicle 3:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+ 3 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

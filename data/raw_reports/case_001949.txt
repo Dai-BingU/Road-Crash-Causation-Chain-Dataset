@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the northbound lanes of a four lane non-divided roadway. There were two northbound lanes and two southbound lanes. This was a straight, level, bituminous roadway with a posted speed limit of 89 kmph (55mph). An amber flashing light controlled the intersection. V1, a 2003 Pontiac Grand Am with four doors and one occupant was traveling south in lane two. V2, a 1994 Ford Escort LX with four doors and one occupant was traveling north in lane one. As V1 approached the intersection it intended on turning left, seeing another vehicle from the north turning left. The driver of V1 started his turn and while turning the front of V2 contacted the right side of V1. V1 continued northward and came to rest in a ditch off the right side of the northbound road. The driver of V1 was transported to a local trauma unit and his vehicle was towed due to damage. The driver of V2 was not injured but his vehicle was towed from the scene due to damage. V1, the Pontiac Grand Am was driven by a 23 year-old male that stated he is in good health and is not taking medications at this time. He stated that he was on his way to work at the time the crash occurred. He had driven 55 miles to the intersection were the crash occurred. He stated that as he approached the intersection a vehicle traveling north in lane two had turned on its left turn signal and decelerated to a stop. He slowed to make a left turn also, he did not see the vehicle (V2) in lane one traveling north towards the intersection. He stated that after starting his turn is when he saw the V2. He accelerated to avoid the crash. He stated after impact he dose not remember any movement to final rest. The Critical Pre-crash Event for V1 was coded “this vehicle traveling turning left at intersection”. The Critical Reason for the Critical Event was coded driver related factor recognition error “inadequate surveillance (e.g., failed to look, looked but did not see)”. The associated factors to this vehicle were that the driver did not look far enough ahead before making his turn and did not have enough clearance. V2, the Ford Escort LX was driven by a 33 year-old male who stated he is in good health and is not taking any medication at this time. He stated he wears corrective lenses for myopic (near sighted) reasons. He had recently moved to the state and was out looking for a job and doing job interviews at the time the crash occurred. He stated that the vehicle that was traveling north and slowed to turn left was in his lane and changed lanes and stopped with its left turn signal on. He stated the next thing was a flash of light and when the dust and air bag smoke cleared he saw a vehicle sitting in the ditch in front of him. He stated he never knew a vehicle had turned into his lane until the air bag hit him in the face. The Critical Pre-crash Event for V2 was coded “other vehicle encroachment form opposite direction - over left lane line”. The Critical Reason for the Critical Event was not coded to this vehicle. The associated factor to this vehicle was that the driver was new to the area and had only driven this roadway a few times.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Alcohol, Distraction, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

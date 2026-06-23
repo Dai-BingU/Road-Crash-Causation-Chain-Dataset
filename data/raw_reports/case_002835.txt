@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred on a secondary arterial road that ran north/south in a residential area. The road was straight with a positive grade (if northbound) of 4%. The road had a total of three lanes (1 each way) with the center lane being a left turn only lane for both directions. There was a traffic light approximately 80meters north of the crash area that had traffic backed up to the crash location as the crash occurred during the morning rush hour on a weekday in the daylight under an overcast sky with dry pavement. The speed limit was 64kph/40mph. V1 was a 1996 Lexus ES300 sedan traveling north on the road in lane 1 when it's front struck the back of V2, a 2003 Honda CRV (also northbound in lane 1) that was slowing down for stopped traffic at the light ahead. V2 then struck the back of V3, a 2001 Ford F-250 pickup truck with its front. V3 was stopped for the light at the time of impact. V3 pulled to the right shoulder and came to a controlled stop. V2 after impact 2 stopped on the lane line for lanes 1 and 2 several meters north of impact 2 facing northwest. V1 came to rest about 5 meters north of POI #1 still in northbound lane 1 facing north. V1 and 2 were towed from the scene. V3 was driven away. V1 was driven by a thirty-seven-year-old-belted-male, whose airbags deployed in the crash. He was coded by police as sustaining possible injuries but refused treatment. D1 claimed to have been stung by a fire ant and was in the process of trying to slap and kill it at the time of impact. The Critical Precrash Event for V1 was "other vehicle in lane traveling in same direction while decelerating". The Critical rReason was coded as an "internal distraction." The driver was also coded as failed to look far enough ahead since he claimed to never have seen V2 to begin with. The driver did have a16 year old combat injury but this was not thought to have contributed to his crash. V2 was driven by a forty-four-year-old-belted-female whose airbags did not deploy. She was also coded as possibly injured by police but refused treatment. She was out running errands at the time of the crash. The Critical Precrash Event for V2 was "other vehicle in lane traveling the same direction at a higher rate of speed". The Critical Reason was not coded to this vehicle. No other contributing factors were coded to this vehicle. V3 was driven by a belted thirty-four-year-old-male who was also coded as possibly injured by police but refused treatment. He was going from jobsite to jobsite at the time of the crash. No contributing factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Driver Physical, Roadway, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

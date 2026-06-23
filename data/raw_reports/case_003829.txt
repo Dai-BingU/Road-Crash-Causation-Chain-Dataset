@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle daytime collision occurred just past noon. The collision occurred at the on-colors intersection on south and northbound travel lanes. The roadway consists of one lane each way with a straight and level concrete roadway. Travel lanes were dry and free of congestion. Both roadways have a posted speed limit of 56 kmph (35 mph). Vehicle one (V1) was a 1999 Buick Park Avenue sedan driven by an 83 year-old male. Vehicle two (V2), a 1980 Datsun King cab pick-up driven by a 53 year-old male that was stopped in the northbound lane for a red light. As V1 traveled northbound he was swerving. V1 departed the lane to the left, returned to the lane and struck V2's right rear bumper with V1's front. V1 then departed the lane and road to the right. As V1 departed the roadway in a northwesterly direction it drove up an embankment with concrete staircase and came to final rest facing east. V1 was towed due to damage. V2 after impact was pushed forward coming to final rest in the intersection. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason was attributed to V1 and coded as a driver related critical non-performance factor: heart attack or other physical impairment of the ability to act. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Driver Physical present problem 
+Vehicle 2:  Distraction, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

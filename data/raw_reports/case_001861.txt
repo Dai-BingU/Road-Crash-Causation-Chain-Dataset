@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the middle of a 4-way intersection controlled by traffic signals in all directions. Both roadways were two-way, two-lane roadways that were not physically divided. The crash occurred in the mid-evening hours. Streetlamps were present and illuminated at the time of the incident. The roadway upon which vehicle one (V1) was traveling had a slightly positive grade, while the roadway upon which vehicle two (V2) was traveling was considered to be level. The posted speed limit for V1 was 80 kmph (50 mph) and the posted speed limit for V2 was 72 kmph (45 mph). Vehicle one, a 2004 Toyota Highlander, was traveling west approaching the intersection. Vehicle two, a 1997 Acura CL, was stopped at a red light in the southbound lane waiting to pass through the intersection. When V2's light turned green, it entered the intersection, at which time the front of V1 contacted the left side of V2. The impact sent V2 up a nearby driveway before coming to final rest. Vehicle one spun counterclockwise approximately 90 degrees after the first impact and then made contact with a stone wall at the entrance of the driveway. After hitting the wall, V1 then proceeded to roll backward, coming to final rest in the middle of the intersection. The driver of V1, a 39-year old female, was not injured and did not require EMS transport to a hospital. There were two other occupants in V1 in addition to the driver. One of the other occupants received minor injuries and was transported to the hospital to be observed. After numerous attempts, the interview could not be obtained from the driver of V1. The Critical Pre-crash Event for V1 was coded as this vehicle crossing over (passing through) intersection. The Critical Reason for the Critical Pre-crash Event was coded as an illegal maneuver. One associated factor coded to this driver was a sightline restriction due to shrubbery on the side of the road. This probably blocked V1's view of V2 until V2 entered the intersection. The driver of V2, a 47-year old male, received major injuries as a result of the crash, including but not limited to a collapsed lung, and was transported to the hospital. An interview was obtained from the driver of V2. He stated that he was stopped at a red light and when the light turned green, he proceeded to travel into the intersection. At that moment he noticed something in his peripheral vision. There was nothing he could do to avoid the accident. A witness who was stopped facing eastbound for the red light corroborated the driver of V2's version of events. The Critical Pre-crash Event for the driver of V2 was when another vehicle encroached into his lane from a crossing street, across his path. The Critical Reason was not coded to this vehicle. One associated factor coded to this driver was a sightline restriction due to shrubbery on the side of the road. This probably blocked V2's view of V1 until V2 entered the intersection.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

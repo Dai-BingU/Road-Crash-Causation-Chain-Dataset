@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred at night on a Saturday in a suburban neighborhood. The conditions were clear and dark but lighted by street lamps. The 3-lane undivided roadway runs north and south with two lanes going north with a curve to the left at location of the crash. The posted speed limit is 56 kmph (35 mph) but there is a 40 kmph (25 mph) school zone warning sign posted approximately 60 meters before the crash location. Vehicle 1, a 1995 Honda Odyssey EX, was traveling north in lane one negotiating a curve left when its driver attempted to switch lanes into lane 2. Once the driver realized there was a vehicle in lane two, she over-corrected right and drove off the right side of the roadway. She immediately struck a utility pole with her front bumper and came to final rest at the point of impact. The minivan was towed due to damage. As the vehicle was exiting the roadway, the LR wheel malfunctioned contributing to the crash. V1 was equipped with driver and passenger airbags that both deployed during the crash. There were two belted occupants in the minivan and the driver was transported to a local hospital for a concussion. The driver of V1 was a 19-year-old female college student who was on summer break and was returning home with her sister from a graduation party. She reports that she attempted to change lanes but failed to notice the vehicle in the lane to her left. She cannot remember too many details of the crash because of the concussion she received, but her sister said she steered to left and then right and right into the pole. A witness reportedly said the left rear tire blew out, but an inspection of the tire did substantiate this. The witness listed on the police report refused to discuss the crash until he could validate the NMVCCS study. The left rear tire was severely under-inflated; the wheel had a measured psi of 8. The Critical Precrash Event was coded as this vehicle traveling off the edge of the road on the right side and the Critical Reason for the Precrash Event was coded as tires/wheels failed. Even though the tires were under-inflated and there was reportedly a witness that heard or saw a tire blow out, it was reasoned that the driver failed to look left before making a decision to change lanes and that the vehicle's control loss was due to her overcorrection steering. The wheel most likely malfunctioned while the crash was already imminent. An associative factor was inadequate surveillance - failing to see the other vehicle before attempting to change lanes.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Tires/wheels failed

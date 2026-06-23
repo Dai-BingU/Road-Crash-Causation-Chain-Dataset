@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a two-way elevated roadway with three lanes in each direction, which were physically divided. The roadway was straight and level and it was clear with no adverse conditions. It was daylight and the speed limit was 56kmph (35mph). Vehicle # 1 was a 2004 Mercedes-Benz SL500 that was traveling westbound and stopped for traffic when it was rear-ended by Vehicle # 2, a 2001 Isuzu M/H truck. Both vehicles came to a final rest shortly after the impact. The Mercedes-Benz (Vehicle # 1) was driven by a 28 year-old male who was not injured. The Mercedes-Benz was towed due to damage. The Critical Pre-crash Event for Vehicle # 1 was coded as: "other vehicle in lane, traveling in same direction with higher speed". The Critical Reason for the Critical Pre-crash Event was "not coded to this vehicle". Two associated factors coded to the driver were a highway, traffic flow interruption factor, rush hour congestion, and weather, other environmental factor, sun glare. Possible other associated factors were unknown because the interview was not obtained. The driver of the Isuzu M/H truck (Vehicle # 2) was a 34 year-old male who also did not sustain any injuries. The driver declined to participate in the study. The Isuzu was not towed. The Critical Pre-crash event for Vehicle # 2 was coded as: "other Vehicle in Lane, other vehicle stopped". The Critical Reason for the Critical event was coded as a "vehicle related factor, braking system deficiency". Two associated factors coded to the driver were a highway, traffic flow interruption factor, rush hour congestion, and weather, other environmental factor, sun glare. The interview was also not obtained for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic present problem 
+Vehicle 2:  Traffic, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Vehicle Related Factor- Brakes failed

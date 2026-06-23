@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary V1, a 2002 Chevrolet Silverado was traveling westbound on a three-lane, two-way, dry asphalt roadway in daylight conditions. V2, a 1993 GMC Safari van was stopped at a red light westbound on the same roadway. V3 a 2004 Pontiac Grand Am, and V4 a 1997 Chevrolet van were also stopped at the red light westbound on the same roadway. V1 collided with the back of V2, pushing V2 into V3 and V3 into V4. The driver of V1 was a 60-year old male who reported that he had been traveling between 34-48kmph (21-30mph) prior to the crash. He was in good health, rested and traveling home. He was wearing his prescribed lenses that corrected an unknown condition. He sustained minor injuries and was transported to a local trauma facility. V1 was towed due to damage. The Critical Precrash Event for the driver of V1 was other motor vehicle in lane: other vehicle stopped. The Critical Reason for the Critical Precrash Event was a recognition error, inattention because he did not see the line of cars stopped in front of him. The driver of V2 was a 43-year old female who reported that she had been stopped prior to the crash. She was in good health, rested and traveling to the store. She was wearing non-prescription sunglasses. She was uninjured in the crash and refused treatment. V2 was driven from the scene. The Critical Precrash Event for the driver of V2 was other motor vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2, and she was not thought to have contributed to the crash. The driver of V3 was a 28-year old female who reported that she had been stopped prior to the crash. She was in good health, rested and traveling to her friends work. She was uninjured in the crash. V3 was driven from the scene. No Critical Precrash Event and no Critical Reason were coded for the driver of V3 because she was not involved in first harmful event, and she was not thought to have contributed to the crash. The driver of V4 was a 32-year old male who reported that he was stopped prior to the crash. The driver was uninjured. V4 was driven from the scene. No Critical Precrash Event and no Critical Reason were coded for the driver of V4 because he was not involved in first harmful event, and she was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

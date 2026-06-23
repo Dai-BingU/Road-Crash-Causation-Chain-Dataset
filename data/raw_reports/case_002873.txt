@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred on an eastbound on-ramp that merged onto a two-lane highway. The approach to the merge point was a curve to the right with a slight downhill grade, which then straightened out and was level. A yield sign was located at the end of the entrance ramp. The speed limit was 80 kmph (50 mph). The crash occurred in the evening on a weekday, traffic was congested, and it had just stopped raining. The roadway was illuminated by intermittent streetlamps. V1 was a 1998 Nissan Sentra with 3 occupants. The driver was an 18-year old female. V1 was traveling eastbound on the off-ramp when it collided with V2, which was stopped in the lane waiting to merge into traffic. V2 was then pushed into the rear of V3, which was also waiting to merge into traffic. V2 was a 1996 Chevrolet Cavalier that was driven by a 21-year old female and V3 was a 2000 Chrysler Town & Country minivan that was driven by a 19-year old female. The driver of V1 could not be located for an interview and only a surrogate interview was obtained for V3. A full interview was obtained from the driver of V2. The Critical Pre-crash Event for V1 was other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Pre-crash Event was coded as an unknown recognition error. After the curve in the roadway, there was a lot of room to see any vehicles stopped in the road. The driver of V1 should have been able to easily stop before contacting V2. The traffic flow interruption caused by the congestion on the highway that all three vehicles were trying to merge onto was coded as an associated factor. According to the driver of V2, the driver of V1 said that they had been at a concert that night and had made a stop before entering this roadway. The drivers of V2 and V3 had also attended the concert but did not know the occupants of V1. The Critical Pre-crash Event for V2 was other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. An exterior factor was coded as an associated factor because the driver of V2 stated that she had been looking at traffic to her left as she looked for an opening to merge. A traffic flow interruption (congestion) was also coded as an associated factor. V3 was not involved in the first harmful event. Therefore, no Critical Pre-crash Event or Critical Reason was coded to this vehicle. Heavy traffic congestion was the only associated factor for this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Traffic, Weather/Environment present problem 
+Vehicle 3:  Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

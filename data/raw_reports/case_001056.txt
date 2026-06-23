@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The accident occurred at 1220 in a two-way intersection and undivided roadways. Both roads were dry, traveled, level concrete. East, west traffic controlled by stop sign. The posted speed limit is 56 kmph (56 kph). There was no other traffic on the roadway with the exception of V 1, V 2 There were no adverse weather conditions. V 1 a 2005 Honda Accord driven by a 35 year-old female, stopped at a stop sign westbound in the first lane. V 2 a 2002 Lexus GS300 driven by a 54 year-old male approaching the intersection southbound in the first lane. V 1 entered the intersection without the right of way and it's front struck the left side of V 2. V 1 rotated counterclockwise and came to rest in the roadway facing southwest. V 2 rotated clockwise and came to rest in the roadway facing southwest. The critical pre-crash event for V 1 was "this vehicle traveling, crossing over passing through intersection. The critical pre-crash event was coded driver related factor, inadequate surveillance looked but did not see. V 2 was "other vehicle encroachment from crossing street, t" The critical reason for the critical event was attributed to V 1 as driver related, inadequate surveillance.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Driver Physical, Roadway, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

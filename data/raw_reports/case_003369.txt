@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on the intersection of a two-lane road and a driveway. The speed limit for the roadway is 48 kph (30 mph). The road is an undivided asphalt roadway. There are driveways to gas stations located on both sides of the roadway. This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one, a 1999 Mercury Grand Marquis was westbound in the first lane, leaving a gas station parking lot in an attempt to cross the two lanes of traffic and enter the gas station located on the west side of the roadway. Vehicle two, a 2004 Ford F-150 was southbound in the first lane of traffic. South of the driveway, traffic was stopped for a traffic signal. The traffic south of the gas station entry was stopped in lane one for a red light at the next intersection. The front of vehicle two impacted the left side of vehicle one. Vehicle one rotated counter clockwise and came to rest within the intersection, facing southwest. Vehicle two rotated clockwise after the impact, and moved southwest. Both vehicles were equipped with front airbags. The airbags of V # 1 did not deploy during the crash event. Vehicle one was driven from the scene. Vehicle two was towed due to damage. The driver of vehicle one, a twenty-three year old male was heading from the gas station he was at to the gas station across the street. This driver had just started driving. This driver indicated that he saw vehicle two coming down the road and thought that the other vehicle would see him and stop. This driver drives this vehicle daily and over this road only rarely. The driver of vehicle two, a forty-eight year old female was heading from one work assignment to another work assignment. This driver has just started this trip a few minutes before the crash. This driver stated that she never saw the other vehicle. This driver drives this vehicle daily and over this road on a daily basis. The critical pre-crash event for vehicle one was coded as “this vehicle traveling: crossing over [passing through] intersection”. The critical reason for the critical pre-crash event was attributed to vehicle one and was coded as "driver related factor: false assumption of other's actions". The critical pre-crash event for vehicle two was coded as “other vehicle encroaching into the lane: from driveway, across path”. The critical reason for the critical pre-crash event for vehicle two was coded as “not coded to this vehicle”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From driveway, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

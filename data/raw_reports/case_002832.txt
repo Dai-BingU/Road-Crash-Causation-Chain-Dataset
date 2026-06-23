@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred during daylight hours on a north/south, dry, divided, seven-lane, straight, roadway in an intersection with an east/west roadway. The speed limit on this roadway is 105 kmph (65 mph). The eastbound roadway is divided with two eastbound lanes. The westbound traffic consists of a right turn lane, a through lane and a left turn lane. The speed limit for this roadway is 56 kmph (35 mph). Vehicle one, a 2004 Saturn Vue, was southbound in lane two going straight. Vehicle two, a 2001 Chevrolet K2500 pickup was pulling a trailer and was eastbound in lane two going straight. Vehicle three, a 2005 Chevrolet K2500 pickup, was westbound, starting in traffic in lane one going straight. Vehicles one and two entered the intersection at the same time. The front of vehicle two struck the left side of vehicle one. Vehicle one rotated clockwise and came to rest facing west on the west side of the intersection. Vehicle two rotated counterclockwise and the right side struck the left side of vehicle three. Vehicle two came to rest in the intersection facing east. Vehicle three was pushed toward the south and came to rest facing east. Vehicle one was towed due to damage. Vehicle one driver, a thirty-eight-year-old female, refused an interview. Vehicle two driver, a thirty-one-year-old male, was well rested and familiar with his vehicle, including the trailer in tow, and the route while running a work-related errand. As he began traveling through the intersection, he realized that vehicle one wasn't stopping but it was too late to take any action to avoid the crash. Vehicle three driver, a forty-four-year-old male, was not fatigued and not in a hurry while he ran an errand. He was conversing with his passenger, but was well aware of the traffic around him and was able to brake and nearly stop prior to the impact with vehicle two. The critical pre-crash event for vehicle one was coded: this vehicle traveling: crossing over (passing through) intersection. The critical reason for the event was attributed to vehicle one and was coded as a driver related factor: type of driver error unknown. This was due to no interview with this driver. The critical pre-crash event for vehicle two was coded: other vehicle encroachment; from crossing street, across path. The critical reason for the event was not coded to this vehicle. Vehicle three was not involved in the first harmful event. The critical reason for the event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 3:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Starting in traffic lane
+ 3 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

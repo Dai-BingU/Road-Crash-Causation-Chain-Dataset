@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle collision occurred during early morning daylight hours, the collision occurred on approach to a driveway from an east/west roadway. the east/west roadway consists of five-lanes,surface dry asphalt including a left-turn median. The driveway is located on the south edge of the roadway and leads to the entrance of a business. There are no traffic controls at the area of the collision. the roadway was dry, free of congestion, poor weather conditions, and/or road deficiencies at the time of the collision. The speed limit is 72 kmph (45 mph). Vehicle one (V1), a 2001 Nissan Altima sedan driven by a 51 year-old female with one passenger, was traveling eastbound in the number one lane. Vehicle two(V2), a 2005 Kenworth Tractor T-800 pulling one 2005 Alutrec 14.6 meter long (48 feet) low-boy flatbed trailer, was driven by a 57 year-old male with one passenger who were traveling westbound. V2 was attempting a left turn as it entered a driveway located on the south edge of the east/west roadway. As V1 was negotiated the left hand curve, it encountered the trailer from V2 that was partially blocking the eastbound number one lane. The front plane of V1 contacted the right plane of the trailer. V1 came to rest with the front plane slightly under the right plane of the trailer. V2 remained partially inside the driveway facing south. V1 was towed from the scene. V2 was driven from the scene. The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason not coded to this vehicle. An associative factor for V1 The glare of the sun reduced the visibility of the driver and the driver did not detect V2 in time to avoid the collision. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V2 as a driver related factor: external distraction (driver was looking for address).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Weather/Environment present problem 
+Vehicle 2:  Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- External distraction

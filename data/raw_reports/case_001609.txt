@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on an urban 2-way, 4-lane, undivided, dry, asphalt, straight, level roadway with parallel parking allowed on both sides of the street. Double solid yellow lines mark the centerline of the roadway while dashed white lines mark the lane lines. The road runs north/south with a 4-way intersection located approximately 15 meters south of the intersection. Approaching the intersection from the east, the road is straight with an upgrade. Traffic on the cross street is controlled by stop signs. The speed limit is 30 mph (48 kmph). There were no environmental, roadway or traffic restrictions at the time of the crash that occurred about noon. Vehicle two (V2), a 1985 light blue Buick Park Ave. 4 door sedan was traveling west on the cross street, stopped at the stop sign before accelerating and turning left to proceed south. The vehicle was proceeding south in lane two when the impact occurred. Vehicle one (V1), a white 1991 Buick LeSabre 4-door sedan was parked facing south when the driver of V1 left the parking lane and attempted a u-turn. The vehicle was in lane two when the front right of V2 struck the left front of V1. V1 rotated clockwise as it traveled southwest and came to rest adjacent to the west curb line. The driver of V2 drove about a block before he stopped his vehicle. The driver of V1 was transported to a local hospital. V1 was towed from the scene. The driver of V2 was not injured. The driver and lone occupant of V1 was a 58-year-old female. She was on her way from her residence to a job interview. She had pulled off the expressway to the parking space to reference directions to the interview. She checked the rear view mirror, detected an oncoming transit bus several blocks back and decided to enter the traffic lanes and attempt a u-turn. She did not detect V2 as she initiated the maneuver. The driver was familiar with the vehicle but the first time on this section of the roadway. The driver has a hearing impairment that was not corrected. The driver had concerns with employment and had personal problems. The pre-crash critical event for V1 was coded "this vehicle traveling-over the lane line on left side of travel lane". The critical reason was coded "illegal maneuver". The driver and lone occupant of V2 was an 18-year old male. He had completed his left turn and was heading south in lane two when the crash occurred. He detected the transit bus several blocks to his right and had time to complete the turn. He did not detect V1 attempting the u-turn prior to impact. The pre-crash critical event was coded "other vehicle encroachment-from adjacent lane (same direction) -over right lane line." The critical reason was not assigned to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Physical, Driver Stress/Emotion, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Leaving a parking position
+ 2 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

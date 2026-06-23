@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the southbound lanes of a four-lane highway with a positive barrier. There were two northbound and two southbound lanes. This was a level, bituminous, roadway with a slight left curve in the pre-crash area. The posted speed limit was 89 kmph (55 mph). It was mid-evening on a weekend, the roadway was not lit in this area, and the roadway was dry. V1 was a 1998 Dodge Ram pickup driven by a 45-year-old male. V2 was a 2002 Honda Accord driven by a 57-year-old male. V2 also had a 55-year-old female passenger in the right front seat. V1 was following another vehicle in the right lane of the roadway. This vehicle suddenly changed lanes into lane two, revealing V2 to the driver of V1. V2 was traveling significantly slower than V1 in lane one. The driver of V1 fully applied his brakes but was unable to slow down in time to avoid the collision with V2. V1 hit V2 in the rear, causing severe damage to the vehicle. After the collision, V2 struck the right side guardrail twice, once with the front of the vehicle and once with the rear of the vehicle after it rotated in a clockwise direction. V2 came to final rest next to the guardrail. V1 continued to drive past V2's final rest and pulled to the right side shoulder of the roadway. The Critical Pre-crash Event for V1 was "other motor vehicle in lane, traveling in same direction with lower steady speed." The Critical Reason for the Critical Event was "driver related factor, following too closely to respond to unexpected actions of others." The driver related that his approximate following distance was 30 feet from the non-contact vehicle in front of him, and that he could not see V2 until this other vehicle changed lanes. Had he been following further behind he would have had more time to react and could possibly been able to see V2 as well. Traffic patterns in this area consistently have these kinds of following distances. Associated factors coded to the driver of V1 include alcohol use because the police reported that they smelled alcohol on the driver's breath but that the driver passed a field sobriety test, the physical condition of high blood pressure for which the driver takes medication, a recognition error in that the impending problem was masked by the traffic flow pattern, traveling too fast (police estimated the speed of V1 as 65 mph), and a sight restriction caused by the non-contact vehicle. The Critical Pre-crash Event for V2 was "other motor vehicle in lane, traveling in same direction with higher steady speed." The Critical Reason was not coded to this vehicle. This vehicle was traveling 10 mph under the posted speed limit, which probably explains why the driver of the non-contact vehicle suddenly changed lanes. This was coded as an associated factor, as was conversation with the passenger, an exterior factor because the driver was reading the exit signs, and the physical condition of high cholesterol, for which the driver takes medication.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Driver Physical, Drugs, Roadway, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Decision, Distraction, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

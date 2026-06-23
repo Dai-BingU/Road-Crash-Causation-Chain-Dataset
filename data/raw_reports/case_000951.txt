@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at an intersection in a rural area. The posted speed limit was 88kmph (55mph). There were two lanes of travel east & west one in each direction. And two lanes of travel north & south. The north & south travel lanes had the stop signs for the intersection with advisory sign's stating cross traffic does not stop. The east & west travel lanes slope where level and the northbound lane was a +2%, the southbound lane was +2.5%. It was a clear weekday. Vehicle #1 had been following another vehicle because he was not familiar with this road of travel. V#2 was traveling west approaching the intersection when V#1 did a rolling stop and continued on into the intersection into the path of V#2. Vehicle #2 contacted vehicle #1 on the left side at the driver door area rotating vehicle #1 counter clockwise and then coming to final rest across the ditch on the southwest side of the roadway. Vehicle #2 rotated counter clockwise coming to final rest facing in the opposite direction on the southwest shoulder of the roadway. Both vehicles were towed due to damage. The driver of V#2 was transported to the local trauma unit. The Driver and passenger of V#1 were removed to the state medical examiner's office. An 84 year-old male that was a fatality in the crash drove vehicle #1, a 2000 Buick Regal. Friends of the occupants of V1 that where on scene stated that the driver was in very good health for his age and that he did wear hearing aids at the time of the crash. They also stated that the driver had cataract surgery a year ago so the only time he wears glasses was to read. The Critical Precrash Event for V#1 was coded this vehicle traveling: Crossing over (passing through) intersection. The Critical Reason for the Critical Event was coded Recognition Error: inadequate surveillance (e.g., failed to look, looked but did not see. An associated factor was that the driver's normal road of travel was under construction so he was following another vehicle that was showing him the way around the construction when the crash occurred. Vehicle #2 a 2002 Cadillac Deville was driven by a 71 year-old female, which refused the interview. Her insurance representative contacted me and stated that the driver of V#2 did see the vehicle come up to the stop and slow but not stop. There was nothing she could do to stop or do any avoidance actions. The Critical Precrash Event for V#2 was coded Other Vehicle Encroachment: from crossing street, across path. The Critical reason for the critical event was not coded for this vehicle. The witness's for this case were friends of the driver of vehicle #1 the #1 witness was driving the vehicle that the driver (V#1) was following this witness stated that he saw V#2 and knew he had time to cross in front of the west bound vehicle. After crossing he thought of his friend following him. When he looked in his rearview mirror all he saw was dust. He never saw the crash happen. The 2nd witness was a very good friend of the occupants of V#1 he helped with the health of the driver and had stated at the scene that this was typical of this driver to not be focused on signs.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Physical, Surveillance present problem 
+Vehicle 2:  Decision, Driver Inexperience, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

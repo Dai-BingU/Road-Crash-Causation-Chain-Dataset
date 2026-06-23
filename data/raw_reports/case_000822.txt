@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lane of an urban roadway just prior to a large intersection. There were five lanes of northbound traffic including two left turn lanes, two straight lanes, and one right turn lane. The roadway had a posted speed limit of 72 kmph (45 mph) and a 2% uphill grade. Conditions were daylight and dry with clear skies. The setting was late morning hours on a weekday. Vehicle one was a 1999 Plymouth Grand Voyager minivan traveling north in lane three approaching the intersection. Vehicle two was a 1988 Freightliner MB80 dump truck following V1 in the same lane. The light at the signal-controlled intersection turned yellow. V1 abruptly came to a stop. V2 locked its tires and rear-ended V1. V1 was pushed forward a short distance and then rear-ended a second time by V2, which was still sliding. Both vehicles came to rest in lane three just prior to the intersection. The 1999 Plymouth Grand Voyager (V1) was driven by a 45-year old female who was transported to a local trauma center with possible injuries. She was unable to be located for an interview. The investigating officer estimated her travel and impact speeds to be 72 kmph (45 mph) and 8 kmph (5 mph). Her Plymouth minivan was towed due to damage. The Critical Precrash Event for V1 was this vehicle traveling and decelerating. No Critical Reason was coded to this vehicle. No vehicle related factors were present for this vehicle. No driver related factors could be coded without an interview. The 1988 Freightliner MB80 (V2) was driven by a 44-year old male who was uninjured. He stated that when the light turned yellow, V1 continued as though she were going through it but then slammed on her brakes. He was loaded with 21.5 tons of gravel and was unable to stop in time to avoid a crash. He subsequently struck her twice while sliding on locked tires. He estimated his travel and impact speeds to be 40 kmph (25 mph). The Freightliner dump truck continued in service after the crash. The Critical Precrash Event for V2 was other vehicle in lane traveling in the same direction while decelerating. The Critical Reason was a driver related factor of a false assumption of other's actions. This vehicle had a heavy load and thus was unable to stop in normal stopping distances. V2 was also following V1 too closely. This driver travels this roadway weekly. He had only informal training for driving heavy trucks.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- This vehicle decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

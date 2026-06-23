@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the mid-afternoon of a weekday on the roadside of a two-lane undivided roadway. The north/south roadway had one lane going in each direction. The bituminous roadway was dry, straight, and level with a posted speed of 89 kmph (55 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2005 Saturn Ion 4-door, was northbound in lane one. According to a witness in a non-contact vehicle traveling behind V1, V1 drifted off the roadway to the left before re-entering the roadway and then drifting to the right and then departing the roadway on the right. V1 struck a tree and came to final rest at the original point of impact. V1 was towed due to damage. V1 was driven by a 17-year-old female who reported chest and knee pain and was transported to the hospital. The driver had left her mom's workplace and was traveling to her boyfriend's house. She stated that she does not remember the accident at all. She remembers driving and seeing other vehicles on the road and trees but not the accident itself. The next thing that she remembered was waking up after the accident in her vehicle. At the time of the accident the driver stated that she was working two jobs, approximately 40 hours a week. She was a full-time high school student (going to school Monday-Friday for about 30 hours a week). She said the night prior to the accident she only gotten about 5 hours of sleep. She was also about 5 months pregnant. The Critical Pre-crash Event for V1 was coded this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was coded as a driver related factor, sleeping; that is actually asleep. Associated factors coded to this driver include fatigue, pregnancy, and driver inexperience. The driver also admitted to having concerns in her life - about being pregnant, especially so young. She said that her concerns were partly responsible for keeping her up at night.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Inexperience, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

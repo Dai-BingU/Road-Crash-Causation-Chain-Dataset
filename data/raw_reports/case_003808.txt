@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This is a two vehicle left turn type crash that occurred during morning daylight hours on a two way, five lane, dry asphalt roadway. The roadway consists of two westbound and two eastbound lanes that are separated by a continuous left turn lane. The speed limit on the roadway is posted 56 kmph (35 mph) There is a cross street that is use to access a residential area. The roadway has one northbound and one southbound lane that are not separated. The speed limit on that roadway is posted 40 kmph (25 mph). There were no sight line restrictions for both roadways. There was a sun glare obstruction for traffic traveling eastbound. The weather at the time of the crash was clear and there were no roadway deficiencies noted at the scene. Vehicle one (V1), a 1995 Chevrolet Cavalier 4 door, was traveling northbound on the roadway and stopped for the posted stop sign to turn left. The driver, an 18-year old female, stated that she left her house about a block away to take her passengers to school. The vehicle was stopped for about one minute before the driver proceeded across the roadway. The front of V1 struck the right side of vehicle two (V2). The impact caused V1 to continue to travel in a northerly direction before it came to rest in the number two lane of the eastbound lanes facing north. The driver stated that she did not look to her left before she drove into the roadway. The driver was intending to make a left turn into the continuous left turn and then merge into the westbound lanes. The vehicle was towed due to damage. V2, a 1995 Chevrolet F-150 pickup, was traveling eastbound in the #2 lane at approximately 58-59 kmph (36-37 mph). The driver, a 30-year old male, stated that the sun was in his eyes just prior to he crash. The driver was looking straight ahead and did not see V1 stopped at the stop sign prior to the crash. The driver stated that he was traveling to the rear of another vehicle about 10.7 meters (35 feet). The other vehicle was in the #1 lane. The right side of V2 was then struck by the front of V1. The impact caused the vehicle to rotate clockwise. The vehicle traveled in an easterly direction while rotating and eventually came to rest in the #1 lane facing in a northwesterly direction. The vehicle was towed due to damage the driver was transported to a local medical facility. The critical pre crash event for V1 was coded: this vehicle traveling, turning left at intersection . The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see) . The driver failed to look to her left prior to initiating the left turn. The critical pre crash event for V2 was coded: other vehicle encroachment; from crossing street, tuning into opposite direction. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

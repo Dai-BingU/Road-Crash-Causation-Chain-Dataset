@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the northbound lane one of a 7-lane undivided roadway. The road has three northbound lanes, three southbound lanes, a center-turn lane, and a posted speed limit of 72 kmph (45 mph). The conditions for this weekday afternoon were clear, dry, and daylight. V1, a 1998 Lincoln Continental with one occupant, was traveling south in the center-turn lane when it turned left across the northbound traffic attempting to enter a parking lot. V2, a 1997 Honda Accord with two occupants, was traveling north in lane one when it struck the right side of V2. Both vehicles subsequently departed the right side of the road and came to final rest in a flowerbed. V1 was driven by a retired 55-year-old male that was turning left into his bank this afternoon when he was involved in this crash. This driver states he left his home this afternoon to run some errands and his first stop was to visit his bank and make a deposit. When he approached the entrance to the bank, he stopped in the center turn lane and waited for traffic to clear. While stopped in the lane (facing south), the traffic in northbound lanes 3 and 2 stopped for this driver to make his left turn. This driver was not certain if lane 1 was clear before he proceeded to turn left but he assumed it was because the other northbound traffic was stopping for him. Nobody waived to him that traffic was clear in lane 1 and he could not see if it was anyway because of the other vehicles on the road. Once this driver decided to turn left, he looked straight ahead and turned across the northbound lanes. As he entered the bank entrance, a northbound car in lane 1 struck the right side of his 1998 Oldsmobile and pushed it off the roadway into a flower garden. This driver was not injured in the crash but his car was towed from the scene. The Critical Precrash Event for V1 was coded: “this vehicle turning left at intersection and the Critical Reason for the Critical Event was coded: “driver related factor: inadequate surveillance” because he failed to look to side. Other factors coded to this driver were: “proceeded with insufficient clearance” and a ” sightline restriction” because of the stopped traffic. V2 was driven by an 18-year-old male who is a recent high school graduate that works part-time at a seafood restaurant. Today was his day off so he was hanging-out with his little brother as they drove around the town completing different errands. For this trip this afternoon, they were driving north in lane one toward a bank when a car (Lincoln) entered his lane from the left (west) and cut in front of his path. This driver tried to brake but could not avoid crashing into the right side of the Lincoln. This driver said he never saw the Lincoln entering his lane because the two lanes to his left were full of stopped cars. This driver was not injured in the collision but his brother in the right front seat was examined by EMS on the scene. The Critical Precrash Event for V2 was coded: “other vehicle encroaching from opposite direction - over left lane line” and the Critical Reason of the Critical Event “was not coded to this vehicle.”
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

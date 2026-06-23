@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a four-lane roadway through a busy commercial area. There were two lanes in each direction divided by a grassy median with left turn bays added periodically in each direction adjacent to the median. The asphalt roadway was straight, level, and dry with a speed limit of 72 kmph (45 mph). The crash occurred just after noon on a weekend day. Traffic was heavy and the weather was clear and dry. V1, a 1993 Ford Escort station wagon with five occupants, was traveling eastbound in lane one. V2, a 1998 GMC Yukon sport utility vehicle, was not occupied. V2 was disabled in lane one with its emergency flashers activated. It was locked. V2's left rear wheel had been removed and the vehicle was resting on a jack. The non-contact vehicle that was traveling in front of V1 moved to lane two when it approached V2. V1 then ran into the rear of V2, knocking it off the jack and forward where it came to rest eastbound about 16m east of point of impact. V1 rotated in a clockwise direction and came to rest facing south in lane two about 6m away in the gap between two sections of the grassy median. V1, the Ford Escort, was driven by a 33-year old male who was not injured. His wife who was seated in the right front seat and three young sons who were seated in the second row all received possible injuries and were transported to a hospital. The driver of V1 said they were driving from home to a nearby mall to go shopping. He added that he was going about 64 kmph (40 mph) in lane one behind a passenger van. He said that he and his wife had been talking about traffic and noticed construction on either side of the roadway. When the van moved into lane two, the driver of V1 suddenly saw V2 in front of him. He did not know if he hit the brakes. The front right of his vehicle hit the rear left of V2. The Critical Pre-crash Event for V1 was "other vehicle stopped in lane." The Critical Reason for the Critical Event was a driver related factor - external distraction, because the driver of V1 was looking at the construction on either side of the roadway. Associated factors coded to the driver of V1 included conversation with his passenger, sleep apnea, and a traffic flow interruption caused by V2 blocking lane one. The driver admitted to seeing V2 briefly before impact but said he did not see any emergency flashers. There were no skid marks for V1 prior to impact; however, the driver did apparently have time to try to steer to the left in an unsuccessful avoidance maneuver or there would have been a full front to back impact. The distance that the much smaller V1 knocked the larger V2 on impact also indicates a high speed for V1. The Critical Pre-crash Event for V2 was other vehicle in lane traveling in the same direction at a higher rate of speed. The Critical Reason for the Critical Event was not coded for V2. One associated factor coded to V2 was a tire/wheel deficiency in that V2 was propped up on a jack, missing its left rear tire at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：No driver present
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

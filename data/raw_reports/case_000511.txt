@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This is a two-vehicle rear end type crash that occurred on a two way, one lane, dry asphalt roadway. The roadway consists of one northbound and one southbound lane that are separated by a continuous left turn lane. There is a crosswalk and a crosswalk sign in the area of the crash. The crash occurred at approximately 0748 hours; there were no roadway deficiencies and no sight line restrictions noted. There is a downhill slope in the pre crash area for southbound traffic. The speed limit on the roadway where the crash occurred is posted 56 kmph (35 MPH). V-1, a 1991 Honda Civic DX two door, driven by a 17 year-old male with one passenger was traveling southbound when the driver waived at someone he apparently knew. The front of V-1 struck the rear of V-2 that was stopped for a pedestrian in the crosswalk. The driver told police that he did not see the other vehicle in front of him stopped. V-1 came to a stop in the traffic lane. The driver was transported to a local medical facility for a fractured nose and pain to his neck and back. The right front passenger, complained of pain to his head. He refused treatment at the scene. The vehicle was towed due to damage. V-2, a 2004 GMC Envoy, driven by a 29 year-old male was traveling southbound when the vehicle came to a stop for a pedestrian in the crosswalk traveling east to west in the crosswalk. The driver stated that he was stopped for about 2-3 seconds when V-1 struck him from behind. After the impact, V-2 could be driven from the travel lane to a nearby cross street. The driver of V-2 did not see V-1 prior to the crash. There were no injuries reported. The vehicle was removed form the scene on it's own power. The critical pre crash event for V1 was coded "other motor vehicle in lane-other vehicle stopped". The critical reason was coded "driver related factor-external distraction". (The driver told police that he was waving at a friend prior to the crash that took his focus off the vehicle in front of him stopped). The critical pre crash event for V2 was coded other motor vehicle in lane traveling in same direction with higher speed. Critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

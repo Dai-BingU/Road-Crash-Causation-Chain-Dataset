@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1 was traveling East on a two-way, two-lane, snow cover asphalt roadway with an up hill grade. The crash took place in the evening on a weekday; the roads were ice and snow covered. The driver of V1 stated that she thought the driver of V2 was crossing the centerline of the roadway. She tapped the brakes and started to loss control rotating counterclockwise and the front of V1 contacted the left front of V2. V2 was traveling West on the same roadway with a down hill grade moving off onto the shoulder of the roadway trying to avoid the crash. After contact, V1 rotated counterclockwise and came to final rest facing south across both lanes of the roadway. V2 was pushed against the guardrail on the north side of the roadway to final rest. The speed is posted at 88 kmph (55mph) the slope is a +5/122 The driver of V1 was an 88-year old female who stated she was traveling East at a speed of 56-64 kmph (35-40 mph) prior to the crash. She also stated she has no prior health related problems and the only medication she is taking is over the counter medication for arthritis. She only wears glasses for reading and did not have the glasses on at the time of the crash. The Critical Pre crash Event for V1 was when she lost control of her vehicle due to poor road conditions (ice and snow covered). The Critical Reason for the Critical Event was coded as other performance error (failed to control vehicle for weather conditions) associated factors included slick roadway and the weather (heavy snow). The driver of V2 was a 38-year old male who stated he noted V1 crossing centerline and steered to the shoulder to try to avoid the collision with V1. He stated he was traveling at about 64 kmph (40 mph) on a down hill grade he did apply the brakes without lock-up. He has no prior health conditions and is taking no medication at the time of the crash. The Critical Pre crash Event for the driver of V2 was when another vehicle encroached into his lane from the opposite direction, over the left lane line. The Critical Reason was not coded to driver of V2 and he was not thought to have contributed to the crash. He took the avoidance maneuver needed. He wears glasses to correct a myopic (near-sighted) condition. Two associated factors were coded to this driver that was coded to the other driver were: weather condition (heavy snow) and roadway conditions (slick).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Drugs, Roadway, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Driver Fatigue, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

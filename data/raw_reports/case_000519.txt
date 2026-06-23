@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a north/south U.S. Highway where it intersected an east/west side road in an urban business district. The highway had four lanes with two in each direction and was divided by a double yellow line. The highway was level north of the intersection and had a negative four percent grade (if northbound) on the south side of the intersection. The highway was straight. The intersection was controlled by traffic lights with no pedestrian crossing. Conditions were daylight and dry in the late morning hours on a weekday. The posted speed limit on the highway was 64kph/40mph. Vehicle #1 was a 2003 Toyota Camry traveling north on the highway when after it descended the hill and was in the intersection it crossed into the left southbound lane and struck the left side of Vehicle #2 with its front. Vehicle #2 was a 2005 Dodge Dakota that was stopped in the left southbound lane waiting for the light to turn from red to green when it was struck. Vehicle #1 then went back across both northbound lanes, over the east curb and ran into a building's wall with its front coming to rest against the building facing northeast. Vehicle #2 was pushed backward by its impact with Vehicle #1 and came to rest in its original travel lane facing south. Both vehicles were towed from the scene. Vehicle #1, was driven by a thirty six year old belted male, whose airbags did deploy and was uninjured in the crash. His right front passenger who was his wife and was restrained was also uninjured in the crash. The driver was on his way home from a political rally at the time of the crash. The critical precrash event for Vehicle #1 was this vehicle traveling over lane line on the left side of the travel lane. The critical reason was aggressive driving behavior. The driver was seen by the driver of Vehicle #2 to be “fishtailing up on the hill headed towards me” and passed through a red light before striking Vehicle #2. This driver (V1) claimed to have slid through while trying to control his vehicle but no precrash (or post crash) skid marks were found. Too fast reason unknown was coded to this vehicle. This Vehicle also had poor directional control attributed to it. The driver of Vehicle #1 stated that he rarely used the road that the crash occurred on. Vehicle #2, was driven by a twenty nine year old belted male whose airbags did not deploy. He was uninjured in the crash. He had been out car shopping that day to replace another vehicle that had been involved in a crash a short time previous to this crash. The critical precrash event for Vehicle #2 was other vehicle encroachment from opposite direction over the left lane line. The critical reason was not coded to this vehicle. No contributing factors were coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Inexperience, Driver Performance, Speed/Distance present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

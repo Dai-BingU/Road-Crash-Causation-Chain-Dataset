@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a rural road that ran north/south and was intersected from the west by a residential road into a subdivision. The northbound approach to the intersection was straight with a negative 2.2% grade. There was a guardrail on the west road edge at the south leg of the intersection. The intersection itself had a 2.1% grade. The southbound approach was curved to the right with a measured radius of 250 meters and was super-elevated 5.7%. About 12 meters south of the curves apex was a sign warning of a sharp curve left. The road grade 4 meters south of the curves apex measured positive 7.6%. Conditions at the time of the crash were daylight with cloud cover on a weekday morning at the back end of rush hour. The speed limit for both travel directions on the rural road was 48kph/30mph. V1 was a 2001 Saturn SL2 sedan that had stopped in the northbound lane, then proceeded to turn left/west into the subdivision when its right side was struck by the front of V2, a 1995 Mazda Miata that was traveling south on the rural road. The Miata left a 4.6-meter skid mark to the deflection point. Both vehicles came to rest facing southwest in the southbound lane approximately 3 meters from impact. Both vehicles were towed from the scene. V1 was driven by a forty-two-year-old-belted-female who was not injured in the crash. Her airbags did not deploy in this crash. She was on her way to a client's home at the time of the crash. She stated that she couldn't see over the hill but started her turn then was struck on the right side. The critical precrash event for V1 was this vehicle traveling turning left at an intersection. The critical reason was inadequate surveillance, looked but did not see. She was coded as having turned with an obstructed view since she claimed not to be able to see but proceeded with her left turn anyway. The road grade was coded as a contributing factor as sight distance is limited at the crash location. V2 was driven by a nineteen-year-old-belted-female who was not injured in the crash and whose airbags did deploy. She stated that she was “doing 45mph or so” when she topped the hill and saw V1 turning in front of her. She was also on her way to work that morning. The critical precrash event for V2 was other vehicle encroachment over the lane line on the left side of the travel lane. The critical reason was not coded to this vehicle. This drivers speeding was captured as aggressive driving because she was in the researchers opinion driving in a way that presented a danger to surrounding traffic. D2 did state that she always drives this way (speeding) on this road as she drives the road daily but the driver's impetuous attitude suggested that she does not yet have the judgment to see roadway rules as such.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Aggressive Behavior, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

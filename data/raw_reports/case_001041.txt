@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at an intersection. The north/south road is a 3-lane divided (no positive barrier) concrete roadway. The east/west roadway is a two lane (two-way traffic) undivided roadway. The speed limit for the east/west roadway is 48 kmph (30 mph). The speed limit for the north/south is 56 kmph (35 mph). The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. It was morning hours on a weekday and there was medium traffic on the roadways. The east/west traffic approaching from the west is controlled by a stop sign. A bus stop was located north of the intersection on the west side of the road. Vehicle one (V1), a 1991 Toyota Previa minivan with three occupants, was stopped at the stop sign in the first lane, facing east. Vehicle two (V2), a 1998 Chevrolet S-10 Blazer with one occupant, was traveling south in the second lane of traffic, approaching the intersection. A bus was stopped in southbound lane one north of the intersection. At the intersection of both roadways, the front of V2 impacted the left side of V1. V1 rotated counter clockwise, and came to rest within the intersection. V2 rotated counter clockwise after the impact, and came to rest within the intersection as well. V2 was towed from the scene. The driver of V2 complained of a foot injury but was not treated. The driver of V1 was able to drive his vehicle across the street into a business parking lot. A 62-year old male drove V1. He said he stopped at the stop sign for at least a minute. The bus was blocking his line of sight of southbound traffic. The driver of V1 stated that he proceeded because he thought the roadway was clear. He was heading to work from his residence, after he picked up two co-workers. He said he would do this every day. The driver was in good health, did not take any drugs or medication and was well rested. The critical pre-crash event for V1 was coded "turning left at an intersection". The critical reason for the critical event was coded "turned with obstructed view". A 54-year old female drove V2. She stated he was in the second lane, traveling at a normal rate of speed. She was heading to work from home. She does not take any medication and is in good heath. She drives on this roadway on a daily basis. The critical pre-crash event for V2 was coded "other vehicle encroaching into the lane, from crossing street, turning into opposite direction". No critical reason for the critical event was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

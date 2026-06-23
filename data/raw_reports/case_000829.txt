@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the morning of a weekday in the middle of a 4-way residential intersection. The intersection consisted of a two-lane north/south roadway controlled by stop signs and a four-lane east/west roadway (two lanes in each direction). Both roadways were bituminous, straight and level. The north/south roadway had a posted speed limit of 40 kmph (25 mph) while the east/west roadway had a posted speed limit of 56 kmph (35 mph). The roadway was wet as it was raining at the time of the crash. Vehicle 1 (V1), a 1994 Ford Escort LX, was stopped facing south at the stop sign of the intersection preparing to turn left. Vehicle 2 (V2), a 2005 Chevrolet Impala was westbound in lane two approaching the intersection where it intended to go straight. A large municipal work vehicle (Non-contact vehicle) was also westbound in lane one along side and slightly ahead of V2. As the work vehicle began a right turn at the intersection, V1 began its left turn and pulled out into the path of V2. The front left corner of V1 was struck by the front of V2. Both vehicles came to final rest facing southwest in the middle of the intersection. V1 was towed from the scene while V2 was driven away. The driver of V1, a 33-year-old female, and her passenger were not injured in the crash. She stated as she came to the stop sign she looked in each direction and noted a large work van coming to the intersection with its right turn signal on. She could not see around it but thought the way was clear. She did not see V2 until she began her left turn and entered the intersection. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was coded as a recognition error impending problem masked by traffic flow pattern. Associated factors coded to this vehicle include turning with an obstructed view, a sightline restriction as well as the rain and wet roads. The driver of V2, a 50-year-old female, suffered minor injuries but did not require treatment or transport. She was on her way to the Post Office and traveling west in lane two. As she approached the intersection she noted a large work truck that she believed was stopped in lane one. She stated that she did not see V1 stopped at the stop sign and as she passed the work truck, V1 entered her lane of travel and she could not avoid it. The Critical Precrash Event for V2 was coded other vehicle encroachment, from cross street, turning into opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors coded to this vehicle include the impending problem masked by traffic flow pattern, a sightline restriction, the rain and the wet roads.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other recognition error (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

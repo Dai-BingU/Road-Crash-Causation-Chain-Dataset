@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound center lane of a three lane undivided roadway with a posted speed limit of 89 KMPH (55 MPH). There were two lanes southbound with a right turn only lane into a side road. The roadway curved to the left with a radius of 225 meters and a superelevation of 3.2%. The roadway had a -2.3% grade. There were numerous highway signs advising that the roadway ahead was closed. There was also a large illuminated sign at the road closure itself. The weather was clear, the roadway dry and it was daylight at the time of this weekday afternoon crash. Vehicle #1, a 1993 Chevrolet Blazer, was traveling south in the center (straight) lane approaching the intersection. A large box truck pulled out from the intersecting street to turn left and in doing so blocked the “Road Closed” sign from the driver of Vehicle #1's view. As the box truck completed the turn, the driver of Vehicle #1 observed the sign, braked and steered right. Vehicle #1 went off the right side of the roadway rotating clockwise and struck a w-beam guardrail with its front. Vehicle #1 continued through the guardrail, struck a highway sign post and rolled over to the left 3-quarter turns down an embankment. Vehicle #1 came to rest on its right side facing west. Vehicle #1 was towed due to damage. The Chevrolet Blazer (Vehicle #1) was driven by a belted 43 year old female who was transported, treated and released at a local hospital. She stated that she had just left work and was on her way to a weekly appointment. She was traveling at the posted speed limit of 89 KMPH (55 MPH) and was not in a hurry. She had not driven the road since the flood and had missed her last four scheduled appointments. She recalled that she had heard that the road was closed, but did not see any signs before the crash, only at the last second. The driver stated that a large box truck blocked the large “road closed” sign and it was only after it completed its turn that she saw it. The Critical Precrash Event for Vehicle #1 was this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Precrash Event was inadequate surveillance, a recognition error. This was chosen because the driver stated she did not see any “road closed” signs, yet there were several prior to the detour. It is also possible that this driver may have been thinking about her scheduled appointment and inattentive to the driving task. An associated factor coded to this driver was the use of prescription and non-prescription medications. She was taking four medications: (a) female replacement hormones, (b) vitamins, (c) aspirin and (d) a natural herbal supplement. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Stress/Emotion, Drugs, Roadway, Speed/Distance, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

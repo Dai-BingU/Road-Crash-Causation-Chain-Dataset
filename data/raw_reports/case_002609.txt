@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary A two-vehicle crash occurred at 07:16 hours on a weekday morning at an intersection/interchange. The weather conditions were clear and dry with morning sunlight. The divided roadway runs north and south at the location of the crash and the intersection is controlled by a suspended traffic control beacon without a pedestrian indicator. The posted speed limit for both directions is 56 kmph (35 mph) Vehicle 1, a 1997 Nissan Sentra, was traveling south in lane three of the road. The driver had stopped at the intersection for a red light and waited to turn left. After V1's signal turned green, the driver waited for oncoming traffic to clear. Once the signal changed to yellow, V1 proceeded to turn left. As V1 entered the intersection, a northbound vehicle (V2) also entered the intersection. The front of V2, a 1993 Toyota 4-Runner, struck the right rear side of V1 causing V1 to spin clockwise and come to rest in northeast corner of the intersection. V2 also continued to travel northeast following the collision, and came to final rest on northeast roadside. Nobody was injured in the crash and EMS was cancelled after it arrived. The driver of V1 was a 26-year old female that was driving to the beach for a work meeting. She was holding a mobile phone with the speaker on while her mother gave her directions. She was not familiar with the intersection, wore contact lenses, sunglasses, and was on unknown medication. She admits the traffic signal was yellow and that she turned in front of V2 because she thought V2 would stop for the light. The Critical Precrash Event for V1 was coded: (15)This vehicle turning left at the intersection and the Critical Event was coded: (124) false assumption of other road user's actions. Associated factors coded to this driver include the phone conversation and the fact that the driver of V1 was unfamiliar with the roadway. The driver of V2 was a 47-year old male. He left his home this morning at 06:50 am for his normal 07:30 am to 04:30 pm work shift. He stated he was traveling north toward the intersection when the traffic signal turned yellow. He decided to continue through the intersection rather than slow because he said he was already at the light when it changed. Once he entered the intersection, a southbound vehicle (V1) turned in front of him. He slammed on his brakes but could not avoid the crash. This driver was not injured in the crash but his truck was towed from the scene due to damage. The Critical Precrash Event for V2 was coded: (62) other vehicle encroaching from opposite direction-over left lane line. The Critical Reason was not coded to the driver of V2. One associated factor coded to this driver was the use of a prescription medication to treat high blood pressure.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Decision, Distraction, Driver Inexperience, Drugs present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

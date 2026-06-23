@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle collision occurred during daylight hours on a weekday. The crash occurred at the uncontrolled intersection of a north-south roadway and an east-west roadway. The north-south roadway is designated a 40 kmph (25 mph) zone, and the east-west roadway is a 56 kmph (35 mph) zone. At the time of the crash, there were no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 1979 Chevrolet one-ton pickup with duel rear wheels, was traveling eastbound in the third lane (left turn lane) of a five-lane, two-way, undivided, dry, level, bituminous roadway, and was stopped and awaiting an opportunity to turn left into northbound traffic. Vehicle two (V2), a 2004 Ford F-150, was traveling westbound in the second lane of opposing traffic, approaching the same intersection with the intention of passing straight through. Vehicle three (V3), a 1991 Toyota Previa minivan, was traveling eastbound in the second lane, approaching the same intersection with the intention of passing straight through. As V1 made its turn, the front of V2 impacted the right side of V1 in a sideswipe configuration. V2 continued forward and the front of V2 impacted the left side of V3. V3 rotated clockwise and came to rest facing southwest in the intersection. V1 and V2 left the scene under their own power without stopping. The unlicensed 33-year-old male driver of V1 stated to police that he did not see V2's approach prior to executing the turn. He was not available for interview. The critical precrash event for V1 was: this vehicle traveling, turning left at intersection. The critical reason for the event was attributed to V1, and was coded as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The 45-year-old male driver of V2 was commuting home from work as he approached the intersection. He saw V1 stopped in the intersection and assumed it was safe to proceed. When V1 began its turn, the driver of V1 applied the brakes and steered left, but was unable to avoid a collision. The critical precrash event for V2 was: other vehicle encroachment, from opposite direction, over left lane line. The critical reason for the event was not attributed to V2. The 45-year-old male driver of V3 was not available for interview. No associative factors in this crash are attributed to V3. V3 was not involved in the first harmful event and was not assigned a critical reason.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

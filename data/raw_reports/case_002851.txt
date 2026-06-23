@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred on a one-way westbound urban three-lane road. It intersected a north/south four lane arterial road. A tree line bordered the level one-way road on the south as it curved to the left (south) with a radius of curvature of 98 meters. The posted speed limit was 64kmph (40mph). The intersection was controlled by traffic signals. Conditions were dry and dark with streetlights illuminated. Vehicle #1 was a 1997 Chevrolet Lumina traveling west in the middle lane of the one-way road. Vehicle #2, a 1994 Buick Regal, was stopped in the left lane at the intersection due to a red light. In front of the Buick was Vehicle #3, a 2002 Volkswagen Beetle. From all reports, the Beetle (V3) was the second car back from the traffic signal, which had been red for approximately 10-20 seconds. As Vehicle #1 negotiated the left curve, the driver changed lanes from the middle to left lane. Vehicle #1 did not see the other vehicles stopped ahead and struck the rear of Vehicle #2. The impact pushed Vehicle #2 into the rear of Vehicle #3. Vehicle #1 was towed due to damage; the other two vehicles were driven from the scene. Vehicle #1 was driven by a 45-year old female that was belted with deployed frontal airbags. She was accompanied by a 57-year old male that was also belted. Both received possible injuries, but were not treated at any medical facility. There were no skids and the passenger stated that driver didn't hit her brakes prior to impact. Police charged the driver with failure to provide proof of insurance. Police also reported that she was ill, but the passenger said that it was post-crash. The Critical Pre-crash Event for Vehicle #1 was other vehicle stopped in lane. The Critical Reason for the Critical Event was a recognition error, external distraction. It was believed that the driver was checking her rear view mirror for approaching traffic from the rear as she changed lanes to the left while negotiating the curve. Associated factors included failed to look far enough ahead and insufficient braking inputs. A roadway geometry factor (curve) was coded as an associated factor because the curve did not meet the AASHTO standard. A sight line restriction (shrubbery) was also included. Vehicle #2 was operated by a 54-year old female that was belted. She was transported to a local hospital with incapacitating injuries. In the interview she said that she was stopped at the traffic signal and didn't see the other vehicle approaching from behind. The Critical Pre-crash Event for Vehicle #2 was other vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. Other than the roadway geometry problem, there were no associated factors coded to this driver. Vehicle #3 was driven by a 16-year old female that was belted with no deployed airbags. There was a 20-year old belted passenger. Neither was injured in the crash. The driver said she was stopped second in line at the traffic signal when she felt a bump from behind. No Critical Pre-crash Event and no Critical Reason were coded to Vehicle #3 because it was not involved in the first harmful event (the impact between V1 and V2). Other than the roadway geometry problem, there were no associated factors coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Inexperience, Driver Physical, Roadway present problem 
+Vehicle 3:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

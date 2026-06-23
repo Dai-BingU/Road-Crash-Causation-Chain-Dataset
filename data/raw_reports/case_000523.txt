@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a five-lane, two-way roadway. There were two westbound lanes and two eastbound lanes divided by a two-way left turn lane. This was a straight, bituminous roadway with a downhill slope of 2%. It was afternoon on a weekday and the road was dry and the sky was clear. Traffic was moderately heavy. V1, a 1994 Pontiac Grand Am four door with two occupants, was pulling out of a commercial drive on the north side of the road. V2, a 2005 Chevrolet Impala four door with one occupant was traveling in lane two. The driver of V1 stated that she saw a car in lane one turning into the same drive. The vehicle had a line of cars waiting behind it. She did not see any vehicles in lane two so she attempted to turn left. V2 saw her turning into his lane and steered right to try and avoid her. The driver of V1 froze once she saw V2. The front of V2 contacted the left of V1. V1 and V2 came to final rest in lane one facing west. V1, the Pontiac Grand Am was driven by a 29-year old female who reported moderate injuries and was transported to a local trauma facility. She had advised that she was leaving a home improvement store and on her way home. She was pulling out making a left turn. There was a car coming in the first lane turning into the parking lot. There were vehicles stopped behind him waiting for him to turn. She didn't see anyone in the other lane. She was going to pull into the other lane and a car came out of nowhere. He had about four car lengths to stop. She stopped in the lane because she didn't know what to do. The Critical Precrash Event for the driver of V1 was “this vehicle traveling, turning left at intersection.” The Critical Reason for the Critical Precrash Event was a recognition error-inadequate surveillance (e.g. Failed to look, looked but did not see). An associate factor was her view being blocked by other vehicles. V2, the Chevrolet Impala was driven by a 29-year old male who reported no injuries and refused treatment. He had advised that he had left work and was on his way home. He stated that he was in the far lane heading east at about 64 kmph (40 mph). He saw V1 pull out but he could not stop. The Critical Precrash Event for the driver of V2 was “other vehicle encroachment, from driveway, turning into opposite direction.” The Critical Reason for the Critical Precrash Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

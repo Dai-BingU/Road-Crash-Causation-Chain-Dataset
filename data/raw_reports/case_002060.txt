@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a two-way, two-lane, non-divided rural, asphalt roadway with a posted speed limit of 40Kmh (25Mph). The crash occurred during the early daylight hours, and there were no adverse conditions present at the time of the crash. V1 a 2005 Dodge Neon was traveling in the right curb lane heading east. V2 a 2006 International six wheel drive utility vehicle was also in the right curb lane, but was stopped with it's yellow warning lights on. V1 contacted V2 in the rear bumper. The driver of V1 a 22yr old female stated that she was tired and had not sleep in 24 hours. She then stated that she was coming back from the beach when she reached down to put a CD in the CD player. She said that she looked up and saw the truck and applied full ABS. The Critical Pre-crash Event coded for V1 is "other motor vehicle in lane, other vehicle stopped". The Critical Reason for the Critical Pre-crash Event was coded "internal distraction". A breathalyzer test was given to the driver at the hospital, it reveilled her blood alcohol was .209. She was taking Cymbalta, Zantac, Depo-Provera, and sleeping aids. V2 was a working vehicle that was parked in the eastbound travel lane. The driver a 53yr old male stated that he had been stopped for a few minutes and was out of his truck, getting into the bucket lift on the back of the truck. He then said that he saw that other vehicle and realized that she was not going to stop. He said he held on tight and braced for the impact.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Distraction, Driver Fatigue, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

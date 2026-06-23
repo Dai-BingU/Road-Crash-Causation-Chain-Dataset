@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This collision occurred shortly after noon at the intersection of two, two-way, two lane and undivided roadways. Both roads were dry, traveled concrete. The westbound travel direction had a -1.6% grade. The northbound travel direction was level. The posted speed limit was 48 kmph. (30 mph). There was no other traffic on the roadway with the exception of two vehicles. There were no adverse weather conditions. Vehicle one (V1) was a 1997 Ford Escort Wagon that stopped at a stop sign traveling westbound in the second lane. Vehicle two (V2) was a 1995 Ford Crown Victoria approaching the intersection northbound in the first lane. V1 entered the intersection without the right of way and it's front impacted with the right side of V2. V1 rotated clockwise and came to rest in the roadway facing northwest. V2 rotated counterclockwise and came to rest in the roadway facing northwest. V1 was being driven by a 32 year old male. He stated he had stopped at the stop sign and was turning left when the crash occurred. he had looked to his right prior to entering the intersection (V2 was approaching from the left). He claimed no internal or external distractions, but was on an errand from a funeral home to buy flowers at a florist. He was thinking about the death of a recent family member at this time and was feeling depressed. He rarely drives this route. Although he stated he has been driving for 15 years he does not have a drivers license. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). According to the driver, he did not look to his left prior to entering the intersection. Inattention (i.e., daydreaming) was considered an associative factor. V2 was driven by a 19 year old male who was engaged in social conversation with his passenger prior to the crash. He assumed V2 would yield the right of way to his vehicle. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason was not coded to this vehicle. Note: According to a witness (who was traveling directly behind V1) statement to the investigating Police officer, V1 failed to yield the right of way to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Stress/Emotion, Surveillance present problem 
+Vehicle 2:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an urban intersection controlled by an on-colors traffic signal. The roads were straight, level and concrete. The east-west road (v1) was divided by a grassy, curbed median with one-way traffic in each direction, with a posted speed limit of 80kmh (50mph). The north/south road (v2) had a curbed island median at the intersection, and a posted speed limit of 72kmh (45mph). Conditions at the time of the weekend morning crash were daylight, clear and dry. V1, a 2001 Ford F 150 pick-up driven by an 85 year-old male on his way from home to a gas station, was traveling westbound in lane two. The driver of v1 stated that he was distracted by thoughts, unknown focus, and did not notice the red signal. The front of v1 struck the right side of v2 in the intersection. V1 rotated clockwise and came to rest 60 meters past the point of impact in a driveway off the right side of the road. V1 was towed from the scene due to damage. The fully restrained driver refused treatment. V2, a 2001 Ford Windstar minivan, driven by a 50 year-old male running errands, had entered the northbound road from a business driveway into the left travel lane, and slowly approached the intersection on the red signal. As v1 neared the eastbound lanes, the light for northbound traffic turned green. The driver then accelerated and was traveling through the intersection less than 40kmh (25mph), to cross the westbound lanes. V2 right side was struck by the front of v1. V2 rotated counterclockwise and came to rest in the left westbound lane past the intersection. V2 was towed from the scene due to damage. The fully restrained driver was transported to a local trauma center due to injuries, where he was treated and released. The Critical Precrash Event coded to v1 was 'this vehicle traveling crossing over (passing through) intersection. The Critical Event coded to the driver of v1 was 'driver related error of inattention-driver distracted, thought focus unknown.' In addition, inadequate surveillance-failed to look' was coded. A Contributing factor coded to this elderly driver was 'other driver related experience-degraded driving skills'. This was coded due to the fact that the driver had been at fault in three recent crashes, including disregarding a stop sign and striking a bicyclist. The police at that crash, and at the current crash were recommending re-evaluation for his driver's license. The Critical Precrash Event coded to v2 was 'other vehicle encroachment from crossing street, across path.' The Critical Reason was not coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

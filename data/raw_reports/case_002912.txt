@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection. The north/south roadway was a two-way, five-lane undivided roadway. The east/west roadway was also a two-way, five-lane undivided street. The intersection was controlled by a traffic light. These were straight, level, asphalt roads. The posted speed in all directions was 56 kmph (35 mph). Conditions were dark on a weekday evening with wet roads and clear skies. Traffic flow was normal. V1, an unknown passenger car (believed to be an older model Honda), was traveling westbound speeding and weaving between lanes one and two. V2, a 1997 Dodge Caravan, was traveling northbound in lane two. V3, a 2003 Nissan Xterra, was stopped at the intersection, facing southbound, in the left turn lane. All vehicles were approaching the same intersection. Upon entering the intersection, the front of V1 made contact with the right side of V2. V2 continued northbound, rotating clockwise where it's right rear corner made contact with the left passenger area of V3. A fourth vehicle, a 2002 Ford Focus, traveling behind V2, then made contact with the back of V2. V1 fled the scene. V2, V3, and the fourth vehicle were towed due to damage. There were no injuries. V1 was a hit and run vehicle, with no available information regarding the driver. The Critical Precrash Event for V1 was coded as this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Event was a decision error, illegal maneuver as the driver failed to stop for the traffic control device. One associated factor for this driver was a decision error; the driver was traveling too fast for conditions. Another associated factor was aggressive driving behavior. A credible witness stated that the driver was speeding and weaving between lanes. Another factor was roadway related. The pavement was wet. V2 was driven by a 20-year old male who stated that he was on a work break, and was heading to a convenient store to get a sandwich. He said the roads were still wet from a previous rain, but it wasn't raining at the time. He stated that he got hit on the passenger's side, and also got hit from behind by another vehicle. The Critical Precrash Event for V2 was coded as other vehicle encroachment, from crossing street, across path". The Critical Reason for the Critical Event was not coded to this vehicle. An associated factor for this driver was roadway related as the pavement was wet. V3 was driven by a 35-year old male who stated that he was coming from a friend's house going south. He stopped in the left turn lane waiting for the green turn arrow. He said he was waiting at the light when he saw the minivan coming opposite of him, and could see another car coming toward the intersection from east to west. The minivan had the right of way, but as the other car got closer and closer, he started to think the westbound driver wasn't going to stop. Just like that the car going west blew the red light and hit the minivan. The driver indicated that the minivan came careening toward him, with a red car traveling behind the minivan, causing a second and then a third impact. V3 was not involved in the first harmful event. The Critical Precrash Event was not coded to this vehicle. There were no associated factors for this driver, other than the wet road and he did not contribute to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Roadway, Speed/Distance present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+Vehicle 3:  Driver Stress/Emotion, Drugs, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

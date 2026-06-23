@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred on a cloudy afternoon in a suburban, 4-way, traffic signal controlled intersection. The north/south roadway is not divided, consists of 4 lanes, is straight and level in the pre-crash area, and is of bituminous construction. The east/west roadway is straight and has a slight uphill grade in the pre-crash area, consists of one through lane in each direction and a left turn only lane, and is of concrete construction. At the time of the crash, the road surfaces were dry, and there were no adverse weather conditions, sight restrictions or road defects. Vehicle #1 (V1), a black 1997 Nissan Pickup with one occupant, was traveling north in lane 2 intending to go straight. The V1 driver, a restrained 17-year-old male high school student, was returning from home after spending a full day at school. According to a witness, V1 failed to stop for red traffic signal and collided with V2. Vehicle #2 (V2), a dark blue 2004 Cadillac Escalade SUV with two occupants, was stopped behind a witness vehicle facing west in the number 2 left-turn lane. The V2 driver, a 44-year-old female, entered the intersection intending to turn left. V1 and V2 entered the intersection, and the V1 right side contacted the left front of V2. After impact, V2 was redirected on a northwest trajectory, and departed the roadway to the northwest of the intersection and came to final rest facing generally west. After impact with V2, V1 continued north through the intersection and came to rest partially in the number 1 lane and partially on the east shoulder facing generally north. Associative factors contributing to this collision are as follows: The V1 driver was inattentive due to mental fatigue; he stated in the interview that he was tired from a long day at school and was daydreaming while driving. Also, the V1 driver stated that he did not see the traffic control signal as it had been recently installed at intersection and since he travels the roadway only a few times a month he had forgotten about it being there. The researcher contacted the county road department and a representative stated that the traffic signal was installed at the intersection at least 9 months to one year ago. Another possible factor assigned to V1 driver inattention may have been the use of a cell phone while driving. The witness stated that her minor passenger might have seen the V1 driver talking on a cell phone. Witness did not notice the observation made by her passenger. The V2 driver was talking on a cell phone at the time of collision and failed to adequately survey the intersection for cross traffic. The V1 Pre-event movement was coded as: "Going straight." The Critical Pre-crash event was coded as: "Other vehicle encroachment-from crossing street, turning into opposite direction". The Critical reason was coded to V1 as: "Driver Related Factor; Inattention (i.e. daydreaming). The V2 Pre-event movement was coded as: "Stopped in traffic lane." The V2 Critical Event was coded as: "this vehicle traveling-turning left at intersection". The Critical Reason was not coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Inexperience, Drugs, Surveillance present problem 
+Vehicle 2:  Cell Phone Use, Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

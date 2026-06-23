@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the intersection of a 4-way intersection. The main roadway runs east and west with two lanes in each direction, a center-turn lane with a posted speed limit of 72kmph (45 mph). The northbound street that intersects with the main roadway is 2-lanes and controlled with a stop sign at the location of the crash. This crash happened in the late afternoon of a weekday and conditions were clear, dry, and dusk. V1, a 1999 Chevrolet Tahoe, was traveling north on the through street and V2, a 2000 Chevrolet S-10, was traveling west in lane one of the 5-lane road. V1 entered the roadway and crossed in front of V2, which caused V2 to strike the right side of V1. Subsequent to the collision, V1 rotated clockwise and its left rear tire struck a small curb causing the truck to roll over. V1 rolled 2-quarter times and came to final rest on its roof a short distance from the original impact. V2 came to final rest in its lane immediately following the crash. V1 was driven by a 53-year male that owns a telecommunications installation company. He wears eyeglasses because he is near-sighted and is otherwise in good health. He states he and his co-worker had finished all their work for the day and had stopped at a supply store to pick up some materials for tomorrow's jobs. After leaving the store, they began their 20-mile return trip to the office by stopping at a 4-way intersection that was only 300 yards away from the store. After being stopped at a stop sign for 10 seconds, and looking in all directions for traffic, this driver decided to proceed forward (north) and cross the 5-lane roadway. After crossing four lanes, he was struck on the right side by a westbound pickup truck that he claims was speeding because he never saw it until they collided. This driver and his passenger said they were in a great mood and were talking and singing before the crash. Nobody in his truck suffered injuries. The Critical Precrash Event for V1 was coded this vehicle crossing over intersection and the Critical Reason for the Event was coded internal distraction because of the talking and singing that was admitted. There were no other associated factors with this vehicle. V2 was driven by a retired 60-year-old male that was returning home after shopping at the mall. This driver states he was driving his Chevy S-10 west in lane one, ahead of a cluster of vehicles, when V1 appeared from a side street to his left and suddenly sped across his path. He states he slowly applied the brakes because if he had slammed the brake pedal it would have caused a chain reaction of crashes. The two vehicles collided in his lane when the front of his Chevy pickup struck the right side of V1. This driver was transported to a local trauma center for minor injuries and his truck was towed due to damage. This driver was paralyzed on his right side from a brain tumor he suffered years ago, had a hearing impairment, and take a blood thinning medication. He has a handicap license plate and wears eyeglasses for an unknown vision problem. The Critical Precrash Event for V2 was coded other vehicle encroaching from crossing street, across path and the Critical Reason was not coded to this vehicle. A peculiar annotation to this driver is that a crash report shows him to be involved in 17 crashes the past 15 years.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

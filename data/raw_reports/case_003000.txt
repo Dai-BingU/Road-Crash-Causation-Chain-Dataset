@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred at the intersection of a two-lane, two-way roadway and a three-lane, one-way roadway. The two-lane roadway runs north and north and at the intersection is controlled by a stop sign. The three-lane roadway runs one-way west and has no controls at the intersection. The two-lane roadway has a posted speed limit of 40 kph (25 mph) and the three-lane roadway has a posted speed limit of 56 kph (35 mph). The time of day was just after dawn, and it had snowed the night before. As the ambient temperature rose with the dawn the snow turned to rain and a heavy ground fog began to accumulate in the area. Vehicle one, a 1994 International School bus was northbound in the first lane stopped at the stop sign. Vehicle two, a 1993 Lincoln Town Car was westbound in the second lane approaching the intersection. Vehicle three, a 1994 Plymouth Grand Voyager minivan was legally parked facing south at the curb of the northwest corner of the intersection. Vehicle one proceeded to cross the intersection and the front of vehicle one impacted the left of vehicle two. Vehicle two left then impacted the front of vehicle three. Vehicle two came to rest on the lawn of the house on the northwest corner. Vehicle one came to rest in the first northbound lane. Vehicle three came to rest at impact. Vehicle one was not towed due to damage. Vehicle two was towed due to damage. Vehicle three was not towed. The driver of vehicle one, a sixty-one year old male had just come from picking up a student and was driving to the next bus stop. This driver had been driving for about twenty-five minutes at the time of the crash. This driver has been a bus driver for about four months. The driver indicated that as he was stopped at the sign he looked right and could see to the next intersection and the lights of the vehicles there. When the driver proceeded was the first time that he saw vehicle two. This driver indicated that vehicle two did not have its lights on and due to the color was blended into the fog. This driver is taking insulin as a medication. This driver drives this vehicle daily and over this road on a daily basis. The driver of vehicle two, a thirty-six year old male was taking his son to school. This driver had been driving for about ten minutes at the time of the crash. This driver indicated that he did not have his lights on as he felt that he did not need them. This driver was conversing with his son at the time of the crash. This driver drives this vehicle daily and over this road on a daily basis. The critical pre-crash event for vehicle one was coded as: "this vehicle traveling: crossing over [passing through] intersection". The critical reason for the critical pre-crash event was coded to vehicle one and was coded as driver related factor: "other recognition factor: this driver could not see vehicle two due to the fog, color of vehicle and the fact that vehicle one did not have its lights on". The critical pre-crash event for vehicle two was coded as "other vehicle encroachment, from crossing street, across path". The critical reason for the critical pre-crash event for vehicle two was coded as "not coded to this vehicle".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Decision, Distraction, Roadway, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other recognition error (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

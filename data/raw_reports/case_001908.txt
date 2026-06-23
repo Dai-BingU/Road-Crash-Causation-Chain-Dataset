@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The accident occurred in the early afternoon hours in the middle of an intersection of two one-way streets. Both roadways were controlled by traffic signals that were operating properly in both directions. Both roadways were dry, straight, and level. The weather was clear. V1, a 2003 Suzuki motorcycle, was traveling north on the northbound roadway. V2, a 1998 Honda Civic coupe, was traveling west on the westbound roadway. V1 and V2 entered the intersection at approximately the same time, and V1 struck the left side of V2 at about the "B" pillar. The driver of V1 was ejected after impact and was thrown approximately 20 feet, landing on the asphalt. V2 came to rest facing southbound in the southwest corner of the intersection. The operator of V1, a 46-year old male, was transported to the hospital with major injuries. Later that day, the driver of V1 was pronounced deceased at the hospital from injuries sustained in the crash. The Critical Pre-Crash Event for V1 was coded as "other vehicle encroachment from crossing street, across path." The Critical Reason for Critical Pre-Crash Event was not coded to this vehicle. According to witnesses, V1 entered the intersection on a green light. Due to the death of the driver of V1, no associated factors could be coded to V1. V2 was driven by a 21-year old male who entered the intersection on a red light. It was not known why he did not stop - no interview was obtained. The driver was transported to the hospital with moderate injuries. The Critical Pre-Crash Event for V2 was coded "this vehicle traveling - crossing over (passing through) intersection." The Critical Reason for the Critical Pre-Crash Event was coded as an illegal maneuver - failed to stop for traffic control device. This vehicle, according to witnesses, entered the intersection on a steady red signal. No interview was obtained from the driver of V2, and so no associated factors could be coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

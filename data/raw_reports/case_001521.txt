@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the early afternoon of a weekday at a T-intersection. The intersection was composed of a north/south two-lane undivided roadway intersected by an east/west two-lane undivided roadway controlled by a properly functioning traffic signal. Both roadways were bituminous, straight, and level with posted speed limits of 72 kmph (45 mph). It had just finished drizzling and the roadway was wet. Vehicle one (V1), a 1990 Buick Century with one occupant, was eastbound on the roadway approaching the T- intersection. Vehicle two (V2), a 1999 Toyota Sienna with one occupant, was stopped at the intersection for a red light ahead of V1. V1 failed to stop behind V2 and the front of V1 struck the back of V2. Both vehicles continued forward slightly before coming to final rest in the eastbound lane near the point of impact. V1 was towed due to damage, while V2 was driven from the scene. The driver of V1, an 83 year-old male, suffered minor injuries as a result of the crash, but did not require transport. There were no other occupants in the vehicle when the crash took place. A partial interview was obtained from this driver on-scene. The driver stated that when he noticed that the vehicle in front of him (V2) had stopped for the red light, he applied his brakes. He felt that because of the wet roadways and leaves on the ground, the lack of friction prevented him from stopping in time. The Critical Precrash Event coded to V1 was other motor vehicle in lane, other vehicle stopped. The Critical Reason was coded as traveling too fast for conditions. The wet roads were coded as an associated factor to V1. The driver of V2, a 52 year-old female, did not suffer any injuries as a result of the crash and did not require any medical attention. After numerous attempts, an interview could not be obtained from this driver. For this reason, it is uncertain if any fatigue or health related issues contributed to this crash. The Critical Precrash Event coded to V1 was coded other motor vehicle in lane, traveling in same direction, with higher speed. The Critical Reason was not coded to this vehicle. The only known associated factor that could be coded to V2 was the wet roads.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Speed/Distance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

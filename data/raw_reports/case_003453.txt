@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash took place on a two lane, two way roadway at a driveway enterance. Conditions were dry, just after noon on a weekday and the bituminous roadway had a posted speed limit of 35mph (56kmph). V1, a 1990 Volvo 240, was traveling east and climbing a slope approaching the driveway. V2, a 2000 Volkswagen Jetta, was heading west stopped waiting to turn left. V2 initiated a left turn attempting to enter the driveway and V1's front plane came into contact with V2's right plane. V1 continued in it's original travel lane before coming to rest. V2 was rotated clockwise and came to rest on the south side of the roadway. The Critical Pre crash Event for V1 was coded Other Vehicle Encroachment, from opposite direction - over left lane line. The critical reason was not coded to this vehicle. The Critical Pre crash Event for V2 was coded This Vehicle Traveling, turning left at intersection. This vehicle's critical reason was also coded unkown decision error.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Unknown decision error

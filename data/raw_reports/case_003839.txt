@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle rear-end crash occurred on the five-lane, westbound roadway of a divided trafficway. The roadway was straight, level and dry. The posted speed limit is 97 kmph (60 mph). Traffic was heavy at the time of the crash. This crash occurred during daylight hours with clear skies. Vehicle one (V1), a 2003 Honda Civic with one occupant, was westbound in the second travel lane. Vehicle two (V2), a 2007 International tractor with trailer, with one occupant, was westbound in the second travel lane in front of V1. V2 began to slow for traffic. The front of V1 struck the back of the trailer of V2. Both vehicles came to rest facing west in the second lane. V1 was towed due to damage. The driver of V1, a twenty-year old female, was heading to her boyfriend's residence from home. This driver had been driving for about sixty minutes, drives the route rarely and is familiar with the vehicle. The driver stated she looked down to adjust the radio. She assumed that V2 was going to continue to proceed. She did not look back up until impact and did not attempt any evasive maneuvers. She suffers from astigmatism but was not wearing glasses at the time. She stated that she felt fatigued at the start of this leg of the trip. The critical pre-crash event for V1 was coded: other motor vehicle in lane-traveling in the same direction while decelerating. The critical reason for V1 was coded: driver related factor-internal distraction. The driver of V2, a thirty-six year old male, was heading to work from dropping off his payload. This driver had been driving for about two hours, drives the route daily and is familiar with the vehicle. The driver stated V1 was not visible in his mirrors. He did not notice that V1 was not going to stop until impact and did not attempt any evasive maneuvers. The critical pre-crash event for V2 was coded: this vehicle traveling-this vehicle decelerating. The critical reason for V2 was coded: not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Inexperience, Driver Physical, Drugs, Traffic, Vision present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：This Vehicle Traveling- This vehicle decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

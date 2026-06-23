@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a level, one-way, one-lane roadway, controlled by a yield sign. This roadway is the right turn lane for an intersection and is separated from the main roadway by a curbed triangular island. This roadway curves to the right and the speed limit is 72 kmph (45 mph). This crash occurred during daylight hours and it was raining. Vehicle one (V1), a 2006 Chrysler 300, was southbound in lane one. Vehicle two (V2), a 1989 GMC 1500 pickup, was in front of V1. V2 stopped for traffic. The front of V1 struck the back of V2. V1 was towed due to damage. The driver of V1, a forty-eight-year-old male, was traveling from his home to work. This driver was well rested and familiar with his vehicle and route. He takes an unspecified medication for an unspecified heart condition. This driver stated that he was aware of V2, but he was looking to the left for traffic and did not realize that V2 stopped. He applied the brakes, but slid on the wet roadway. The driver of V2, a twenty-four-year-old male, was traveling with a thirty-three-year-old male, from his home to work. He was healthy, well rested and familiar with his vehicle. He travels this route daily. The critical pre-crash event for V1 was coded: other motor vehicle in lane; other vehicle stopped. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor; false assumption of other's actions. The critical pre-crash event for V2 was coded: other motor vehicle in lane; traveling in same direction with higher speed. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Distraction, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

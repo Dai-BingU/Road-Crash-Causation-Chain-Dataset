@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in lane three of a six-lane, high volume, high occupancy interstate highway in the southbound lanes. The posted speed limit was 105 kmph (65 MPH. The crash occurred in the mid-afternoon hours and conditions were clear and dry. It was a weekday but happened to be a holiday. The crash occurred in lane three when Vehicle #1, a 1992 Ford Explorer, was unable to stop in time without rear ending Vehicle #2, a 2001 Nissan Xterra. Vehicle #2 was stopped in the lane, as there was a large piece of furniture in the roadway. The driver of Vehicle #1 was cited by police for “speed - failed to use due care” and for failing to have a valid license. An 18-year old male who had no license drove the Ford Explorer. He received no injuries and his car was towed due to damage. He stated in his interview that he could not stop in time and he was traveling approximately 65 mph. A 51-year old male who was not injured drove the Nissan Xterra. The Xterra was not towed due to damages. The driver stated in his interview that he was stopped in the lane to avoid hitting the debris in the road when his vehicle was struck from behind. The critical pre-crash event for the driver of Vehicle #1 was another vehicle stopped in his lane. The critical reason was a decision error - too fast to be able to respond to unexpected actions of others. Associated factors coded to this driver include the fact that the driver had only 6 months of driving experience, the fact that he was unfamiliar with the roadway, and the traffic flow interruption in the form of the piece of furniture blocking his lane of travel. The critical pre-crash event for the driver of Vehicle #2 was when another vehicle was in his lane of travel, traveling in the same direction with a higher speed. The critical reason was not coded to this vehicle. Associated factors coded to this driver include the fact that he was unfamiliar with the roadway and the traffic flow interruption in the form of the piece of furniture blocking his lane of travel.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Speed/Distance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

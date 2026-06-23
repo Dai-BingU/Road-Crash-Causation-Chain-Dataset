@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred shortly before noon in daylight hours on a clear day. The crash occurred on a six-lane, concrete, uphill, dry, bridge that supports one-way traffic. There were concrete barriers on both sides of the roadway. Three lanes were dedicated to northbound traffic and three lanes were dedicated to southbound traffic. The posted speed limit was 80 kph (50 mph) and there were no traffic control devices present at the time of the crash. Vehicle one (V 1), a 2003 Hyundai Elantra sedan driven by a 29 year-old female was traveling southbound in lane one. Vehicle two(V 2), a 1993 Nissan Altima sedan driven by a 19 year-old female was traveling southbound in lane one. V 2 stopped in lane one to attempt to pick up a pedestrian. The front of V 1 contacted the rear of V 2. Both vehicles came to rest at impact. Both vehicles were towed due to disabling damage. The driver of vehicle one stated that she was traveling in lane one when she realized that vehicle two was stopped and she hit vehicle two in the rear. The driver of vehicle two stated that she was stopped with her hazard lights on attempting to pick up a pedestrian when vehicle one struck her in the rear. The critical event for V 1 coded - other motor vehicle in lane other vehicle stopped. Critical reason driver related factor "misjudgment of gap or other's speed". The critical event for V 2 coded - stopped in traffic lane, category other motor vehicle in lane traveling in same direction with higher speed. Critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Vision present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

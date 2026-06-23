@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the late morning of a weekday in the middle of a residential intersection. The intersection consisted of a two-way, two-lane, east/west roadway (posted speed limit of 48kmph/30mph) and a two-way, two-lane, north/south roadway (posted speed limit of 64kmph/40mph). The intersection was control by a stop sign in the east/west direction. The eastbound approach to the intersection had positive grade of 4%. Both roadways were bituminous, dry, and straight. A large tree was located in the southwest corner of the intersection, which could pose a potential sightline restriction to eastbound traffic. Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2004 Buick Rendezvous, was stopped facing east at the intersection where it intended to go straight. V2, a 2005 Toyota Camry, was northbound approaching the same intersection where it also intended to go straight. As V1 entered the intersection it struck the left side of V2 with it's front. After the initial impact V2 departed the roadway over the northeast corner of the intersection and struck a utility pole with its front. V2 continued north before coming to final rest on the east side of the roadway about 40m from the first harmful event. V1 rotated about 50 degrees counter-clockwise and came to rest facing northeast in the northbound lane still in the intersection within a few meters of the first impact. Both vehicles were towed from the scene. V1 was driven by a belted 45 year-old female who was on her way to meet a friend for lunch. She was transported to a local hospital via ambulance for treatment of minor injuries. The 4 year-old in the right rear was uninjured. This vehicle's EDR indicated brake switch off at the time of the crash with a speed of 23kmph (14mph). It also recorded a -14kmph (-9mph) maximum longitudinal velocity change. She stated she looked both ways at the intersection and saw no traffic and continued forward. The Critical Precrash Event for V1 was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Reason was coded as a driver related factor; inadequate surveillance, looked but did not see. Associated factors include a sightline restriction as some tree foliage was in the line of sight for the driver of V1 in the direction she would have looked to locate V2 approaching. Crossed with obstructed view was also coded. V2 was driven by a belted 78 year-old male who was on his way to meet a client when the crash occurred. He sustained non-incapacitating injuries and was transported to a local hospital by a co-worker. He said he was traveling north when V1 drove out from the side road and hit him. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street, across path. The Critical Reason was not coded to this vehicle. Although the driver is currently under treatment for diabetes it was not considered to have played a contributing role in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

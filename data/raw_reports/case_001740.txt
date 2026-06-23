@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at 0720 hours at the intersection of a two-way, two lane, undivided roadway. Two passengers vehicles involved in the crash. The east/west roadway was dry, traveled, level asphalt. The north/south roadway was dry, traveled, level concrete. The posted speed limit is 48 kmph (30 mph). Traffic was light at the time of the accident. There were no adverse weather conditions. V 1 a 1989 Ford Taurus Wagon driven by a 96 year-old male was eastbound in the first travel lane. V 2 a 2003 Mitsubishi Galant driven by a 44 year-old female with two passengers was southbound in the first travel lane. V 1 entered the intersection without the right of way and it's front struck the right side of V 2. V 1 rotated clockwise and came to rest in the intersection. V 2 rotated counterclockwise and came to rest facing south in the northbound lane. The critical event for V 1 coded - this vehicle traveling turning left at intersection. Critical reason driver related factor "inadequate surveillance" (didn't completely stop for stop sign never saw the other car coming). The critical event for V 2 critical event - this vehicle traveling crossing over passing through intersection. Critical reason not coded to this vehicle.. Witness stated driver of V 1 looked as if he had fallen asleep for a moment.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

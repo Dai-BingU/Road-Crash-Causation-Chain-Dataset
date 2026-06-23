@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at a four-leg intersection in the eastbound lanes of a suburban roadway. This was a five-lane road with a center turn lane running east to west. There was a two-lane roadway bisecting it north to south. The larger roadway had a posted speed limit of 72 kmph (45 mph) and a 2 percent uphill grade in the eastbound direction. The smaller roadway was controlled by a stop sign and had a 5 percent uphill grade leading to the intersection. Conditions were wet and raining with cloudy skies. The setting was early evening hours while still daylight on a weekend. Vehicle one was a 2003 Honda Civic coupe stopped facing north at the stop sign. Vehicle two was a 2001 Nissan Xterra sport utility traveling eastbound in lane two. Vehicle one began turning left as V2 proceeded through the intersection. The left plane of V1 was impacted by the front of V2. V1 rotated approximately 150 degrees before coming to rest in the northeast corner of the intersection. V2 came to rest on the south shoulder of the eastbound roadway. The Honda Civic (V1) was driven by a 25-year old female who was transported to a local trauma center with non-incapacitating injuries. Her father stated that she was heading to her out-of-town home. She was attempting to turn left and saw herself clear of a car in the first lane. However, there was a car in the second lane she didn't see that struck her before she could react. She felt he was speeding past the first car. Her estimated travel and impact speeds were 24 kmph (15 mph). The Honda coupe was towed due to damage. The Critical Pre-crash Event for V1 was this vehicle traveling - turning left at an intersection. The Critical Reason was a driver related factor of inadequate surveillance. The driver wore corrective lenses for a nearsighted condition. She had asthma. She drives this road on a weekly basis. Associated factors coded to this driver include a focus on an extraneous vehicle (the non-contact vehicle in lane one), a sightline restriction caused by the non-contact vehicle, the weather (rain), and the wet roadway. The Nissan Xterra (V2) was driven by a 24-year old male who was treated on scene along with his front seat passenger. He stated that he was running errands when he noticed another car (V1) inching out from a cross street on the right. The other car appeared to stop briefly, but then pulled out in front of this vehicle at the last moment. This driver braked without lockup but could not avoid the collision. He estimated his travel and impact speeds to be 72 kmph (45 mph). The Nissan sport utility was towed due to damage. The Critical Pre-crash Event for V2 was other vehicle encroachment from a crossing street turning into the opposite direction. No Critical Reason was coded to V2. Associated factors coded to V2 were the weather (rain) and the wet roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

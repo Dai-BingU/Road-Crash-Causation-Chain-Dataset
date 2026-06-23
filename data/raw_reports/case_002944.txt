@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle collision occurred just past noon in a four-way intersection. The north/south roadway is undivided, two-lane, straight and uphill, controlled by stop signs. The east/west roadway is undivided, four-lane and straight, with no traffic controls. Both directions are downhill. A light snowfall had just begun; most of the roadway was slightly wet from melting snow. The speed limit 56 kmph (35 mph). Vehicle one (V1), a 2003 Honda Accord sedan driven by a 22 year-old female, was eastbound in lane one intending to continue straight. Vehicle two (V2), a 2003 Oldsmobile Alero sedan driven by a 81 year-old male, was stopped westbound in lane two intending to turn left at the intersection. Vehicle three (V3), a 1991 Oldsmobile Cutlass sedan driven by a 45 year-old male with one passenger, was stopped facing north at the intersection waiting to turn right. As V2 turned left, the back right side was struck by the front of V1. V2 rotated clockwise and the back left side struck the front of V3. After impact, V1 traveled over the southeast corner curb and came to rest facing southeast. V3 was pushed back slightly in travel lane and came to rest. V2 came to rest facing northwest in southbound lane of traffic. V1, V2 and V3 were towed due to damage. The critical pre-crash event for V1 was coded: other vehicle encroachment from opposite direction, over left lane line. The critical reason was not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V2 as a driver related factor: external distraction. This driver stated he was watching other traffic traffic and didn't see V1. V3 was not involved in first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Weather/Environment present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience, Driver Physical, Drugs, Surveillance, Weather/Environment present problem 
+Vehicle 3:  Distraction, Driver Inexperience, Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- External distraction
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

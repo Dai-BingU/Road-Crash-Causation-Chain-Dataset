@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary V1, a 1998 Buick Century 4dr, was eastbound in the morning in lane 1 of a cement, level, 2 lane, 1 way roadway. V2, a 2000 Sterling truck tractor with 2 gravel trailers, was standing, running, unoccupied, in lane 1 of the same eastbound roadway with it's 4 way flashers activated. At the time of the crash it was bright, sunny and the roadway was dry. V1, front, contacted V2's rear trailer. The driver of V1 was injured and transported. V1 was towed due to damage. The driver stated that he had just left home 5 minutes prior to the crash, and was trying to clean the dew from his windshield (which was smearing) while driving into the sun. He was not in a hurry and was going the speed limit. The Critical Pre-crash event was other vehicle stopped in lane and the Critical Reason for the Critical pre-crash event was decision error - drove with dirty windshield. Some factors contributing to the crash may have been the driver's failure to look far enough ahead while adjusting climate controls and proceeding to drive into the sun's glare even though he knew he could not see clearly. The driver of V2 had parked his truck in the roadway and walked into a construction site to see if there was room for him to make a delivery. He heard the crash but did not see it.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Surveillance, Traffic, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：No driver present
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other- No driver present
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other decision error (specify) :
+ 2 ：No Driver Present- No driver present

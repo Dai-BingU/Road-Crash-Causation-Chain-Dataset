@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred early morning during daylight hours on a traffic signal controlled three-way intersection. No adverse weather conditions present at the time of collision. Collision occurred during morning rush hour traffic. Roadway consists of a two-way, five-lane, undivided, level, and concrete roadway. Posted speed limit 56 kmph (35 mph). Vehicle one (V1), a 1996 Ford Taurus GL sedan, driven by a 17 year-old male with one passenger was north in the third lane approaching intersection with the intention of turning left. As V1 driver approached traffic signal, driver had to stop for southbound traffic before driver could attempt left turn. While stopped, traffic signal began to change to yellow and then red, V1 driver waited for one southbound vehicle to clear intersection before proceeding to make left turn. Driver stated having seen V2 approaching and assumed V2 driver would stop for red traffic signal. V1 front right corner and V2 front contacted in intersection. V1 rotated counterclockwise approximately 150 degrees and came to rest in lane 1 of southbound traffic. Vehicle two (V2), a 1999 Ford Taurus SE sedan, driven by a 31 year-old female with three passengers was traveling south in the second lane approaching intersection with the intention of going straight. As V2 driver approached traffic signal, driver decided to continue forward despite the fact that the traffic signal began to change colors. After impact V2 came to rest in lane 1 of eastbound roadway. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: false assumption of other's actions. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason was not coded to this vehicle. Associative factors: V1 driver assumed the V2 driver would stop for traffic light once it started turning from yellow to red. Although V1 driver stated not being in a hurry, the driver only had 15 minutes to get his sister to school, which was 6.4-8 kilometers (4-5 miles) away. The driver of V2 was running late to dropping her children off.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Stress/Emotion, Drugs, Traffic present problem 
+Vehicle 2:  Decision, Driver Stress/Emotion, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

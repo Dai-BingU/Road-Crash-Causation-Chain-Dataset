@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekday in the westbound lanes of fully controlled divided highway. The concrete highway featured to 2 westbound lanes that curved slightly to the right and contained a grade greater than 2%. The posted speed limit was 89kmph (55 mph). Conditions at the time of the crash were dry but cloudy with normal traffic flow. V1, a 2000 GMC Sonoma pickup, was westbound traveling in lane two. V2, a 1997 Ford/Thomas CBE school bus with no passengers, was westbound in lane 1 of the same roadway slightly ahead of V1. As V1 overtook V2, it crossed over the right lane line before completely passing V2 and struck the right front corner of V2 with its right side. V1 then rotated clockwise, skidded off the road to the right and rolling over 9 quarter turns before coming to rest on its driver's side in a marsh. V1 was towed due to damage. V1 was driven by a 25 year-old male who was on his way home from school. The driver stated that he did not remember passing or striking the bus. He was recently diagnosed with sleep apnea (a recent sleep test found the driver experiencing 105 “episodes” during a night's sleep period) for which he was prescribed a C-PAP machine, that he did not use the night before the crash. He said that he began getting drowsy about ten minutes before the crash. The driver of V1 suffered incapacitating injuries and was transported for treatment. The Critical Precrash Event for V1 was coded this vehicle traveling, over the lane line on right side of travel lane. The Critical Reason for the Critical Precrash Event was a driver related factor, poor directional control. A major factor contributing to the crash was the fact that the driver of V1 had been diagnosed with sleep apnea the week before the crash and a C-PAP was prescribed but he did not use it the night before the crash, which caused him to be very fatigued V2 was driven by a 32 year-old female; she was professional driver and properly licensed for this vehicle, which she drove daily. The vehicle had a current inspection sticker and was found to be in good mechanical condition. The driver stated she saw V1 come up behind her on her left and pass her, but cut into her lane before he was completely by her. The driver of the empty bus was uninjured. The Critical Precrash Event for V2 was coded other vehicle encroachment, from adjacent lane (same direction) - over left lane line. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. The driver of v2 was tracking the movements of v1 in her rearview mirrors but had no chance to take evasive action.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Performance, Driver Physical, Drugs present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

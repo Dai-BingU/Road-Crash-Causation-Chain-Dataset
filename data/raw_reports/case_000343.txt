@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in evening of a weekend in the westbound lanes of a divided high-speed expressway. The east/west roadway consisted of three lanes in each direction flanked by paved shoulders and separated by a concrete barrier wall. The bituminous roadway was dry and level and featured a curve to the left (113m radius) and a posted speed limit of 89kmph (55 mph). Traffic flow was normal and there were no adverse atmospheric conditions. V1, a 1999 Ford Windstar, was westbound in lane one negotiating a curve. V1 departed its lane to the right, entered the paved shoulder, than departed the roadway to the right. V1 struck a light pole with it front. V1 than continued forward and scraped it right side along a guardrail before coming to final rest on the shoulder just in front of an entrance ramp. V1 was driven by a thirty-one year-old female who was returning from a day of shopping with kids from the youth center she worked at. She stated that while negotiating the curve she turned her head to the second row passengers to tell them to stop the argument that they had been involved in for the majority of their twenty-five minute trip. When she returned her attention to the front she had begun to enter the shoulder. She attempted to brake and steer left but she could not avoid making contact to the light pole. This driver also stated that she had driven this van on other occasions and was not confident in its braking or steering capabilities. The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road on the right side. The Critical Reason was coded as a driver related factor, an internal distraction. Associated factors include inexperience as the driver rarely drives this road. She was also uncomfortable with the braking and steering of the vehicle, as she believed it to be defective.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Inexperience, Driver Stress/Emotion, Speed/Distance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

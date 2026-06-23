@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at the intersection of a three-lane roadway and a seven-lane roadway. The asphalt roadways were straight and level. The speed limit for the seven-lane roadway was 45mph (72kph). The speed limit for the three-lane roadway was 25mph (40kph). It was daylight and raining at the time. The intersection was controlled by a traffic control signal that was functioning properly. It is unknown which vehicle had a red light because both drivers stated they had a green light and no witnesses were identified. Vehicle 1 was a 2001 Chevrolet Monte Carlo that was heading east across the intersection in lane two of the seven-lane roadway. Vehicle 2 was a 2000 Chevrolet Cavalier that was heading south across the intersection in lane one of the three-lane roadway. The front of Vehicle 2 contacted the left side of vehicle 1. Vehicle 1 was driven from the scene, the driver and vehicle could not be located. The critical precrash event was vehicle 2 encroaching into the path of vehicle 1. The critical reason for the critical precrash event was coded as an inadequate surveillance factor since she stated that she never saw Vehicle 1. Driver 2 was also coded with illegal maneuver associated factor ( i.e., violated a red signal phase).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Weather/Environment present problem 
+Vehicle 2:  Decision, Roadway, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

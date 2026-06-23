@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash happened in the afternoon of a weekday on a neighborhood street. The bituminous roadway was curved to the left at the location of this crash and the speed limit was 40 kmph (25 mph). The roadway was dry and the conditions were cloudy and daylight. V1, a 1997 Toyota Celica convertible with one occupant, was northbound negotiating the curve intending to go straight when it departed the left side (west) of the road and struck a tree with its front. The vehicle sustained disabling damage and was towed while the driver refused treatment after EMS arrived on-scene. The driver of V1 was a 15-year-old male who borrowed his brother's car this afternoon to meet his girlfriend for lunch. After lunch, he was returning home and while driving through his neighborhood he adjusted/looked at his radio for "a few seconds." When he looked up at the roadway he realized he was on the wrong side of the road so he tried to stop and steer back to the correct side of the road. He admits he was driving too fast to avoid driving off the roadway and into a tree. This driver had a graduated permit with a level one restriction, which requires the driver to have a licensed driver in the vehicle at all times. Even though this driver was not fully licensed he said he has plenty of experience driving his brother's car. The Critical Pre-crash Event for this driver was coded this vehicle traveling off the edge of the road on the left side. The Critical Reason for the Critical Event was coded internal distraction (adjusting radio). Associated factors include use of prescription medication commonly used to treat depression, traveling too fast, insufficient steering and braking, driver inexperience, and a tire/wheel deficiency because three of the four tires had low tread.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Drugs, Speed/Distance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekday afternoon in the middle of a four-way urban intersection. The intersection consisted of a north/south seven-lane divided roadway and an east/west seven-lane divided roadway controlled by a properly functioning traffic signal. Both roadways were bituminous, dry, straight and level with posted speed limits of 72 kmph (35 mph). The traffic flow was heavy due to rush hour, but there were no adverse atmospheric conditions at the time of the crash. V1, a 2000 Ford Contour, was traveling northbound in lane three approaching the intersection where intended to go straight. V2, a 2007 Dodge Caliber was south in lane four (the designated left turn lane) approaching the intersection where it intended to turn left. As V1 neared the entrance to the intersection, the light turned red; yet the driver decided to continue through the intersection. As V1 went through the red light it struck V2's right front as it attempted its turn (it was noted by an independent witness that V1 had indeed ran the red light). V1 and V2 came to final rest on the eastern side of the intersection several meters away from the point of impact. Both vehicles were towed due to damage. The driver of V1, a 22-year-old female, was transported from the scene for treatment of minor injuries (she was also pregnant and wanted to be checked out). She stated that she saw the light turn red but felt she was unable to stop in time and continued through the intersection. As soon as she saw V2 enter the intersection she slammed on her braked (leaving over 5m of skid marks) but was unable to avoid the collision. The 32-year-old passenger in right front seat was also transported due to injury. The Critical Precrash Event for V1 was coded this other vehicle encroachment, from opposite direction, over the left lane line. The Critical Reason was not coded to this vehicle. Associated factors coded to this driver include an internal distraction (conversing with passenger), an illegal maneuver (failed to stop for TCD) and inexperience as she had only had her license for one year. The driver of V2, a 30-year-old female, was uninjured in the crash. She was on her way to drop off her rental car and needed to make a left turn at the intersection. She claimed that as she started to turn the light had turned yellow. She stated that she did see V1 approaching the intersection, but assumed all northbound traffic would stop for the red light. As she began her turn she was struck on the right side. The Critical Precrash Event for V2 was coded this vehicle traveling, turning left at the intersection. The Critical Reason was coded as a false assumption of other's actions. Associated factors for this driver include the fact that she rarely drives this roadway and had very little experience with this vehicle, as it was a rental car.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical present problem 
+Vehicle 2:  Decision, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

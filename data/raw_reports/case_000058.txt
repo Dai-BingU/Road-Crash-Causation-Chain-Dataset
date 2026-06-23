@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the southbound lanes of a five-lane highway divided by a concrete median barrier. There were three southbound lanes and two northbound lanes. This was a straight, bituminous roadway, with an uphill grade of 3 percent. The posted speed limit was 89 kmph (55 mph). It was in the early afternoon on a weekday and conditions were clear. V1 was a 2002 Ford Escape driven by a 42-year-old male. V2 was a 2002 Ford Taurus driven by a 31-year-old female. Both vehicles were traveling southbound. V1 was in lane two and V2 was in lane one. V1 was overtaking V2 at a high rate of speed when it changed lanes into lane one, contacting the left rear of V2. V2 spun 180 degrees and came to final rest in its original travel lane facing in a northwest direction. V2 skidded off of the roadway to the right while rotating in a clockwise direction. After the vehicle departed the paved roadway, its left side tires dug into the soft ground and tripped. This sent V2 into a left roll. The vehicle landed on its roof and slid to final rest. The Critical Pre-crash Event for V1 was "this vehicle traveling over the lane line on right side of travel lane." The Critical Reason for the Critical Pre-crash Event was "driver related factor, internal distraction." As related by the driver of V1, immediately before the crash, he was writing something down and reaching for his cell phone. He also said that he was driving very fast and erratically. He usually drives at high speeds. He was also under a lot of work related stress. He admitted to taking a number of prescribed medications, along with an unnamed narcotic. He reported that he suffered from depression. Associated factors coded to the driver of V1 include fatigue (he reported being very tired), several medications, depression, inattention, excess speed (police estimated his speed at 95 mph and this was corroborated by witnesses whom V1 had passed), aggressive driving due to speed and dangerous lane changes prior to the crash, work stress, and being in a hurry to get to work. The Critical Pre-crash Event for V2 was "other vehicle encroachment from adjacent lane (same direction) - over right lane line." The Critical Reason was not coded to this vehicle. Associated factors coded to the driver of V2 were the physical condition of low platelets and use of a prescription medication.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Distraction, Driver Fatigue, Driver Physical, Driver Stress/Emotion, Drugs, Speed/Distance present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

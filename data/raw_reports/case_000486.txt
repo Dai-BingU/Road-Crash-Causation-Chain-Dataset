@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of two urban residential roadways. Both were two lanes with no painted dividers and parking permitted on both sides of the street. The more heavily traveled of the two roads ran north/south; the other went east/west and was controlled by a stop sign at the intersection. Both were level and straight and had a posted speed limit of 48kph (30mph). Conditions were daylight and dry early on a weekend morning. V1, a 1994 Buick Park Avenue, was eastbound on the side street. V2, a 1997 Ford F-150, was southbound on the intersecting road. V1 stopped at the stop sign then proceeded across the intersection and was struck in the left side by the front of the V2. After impact, V1 rotated counterclockwise and came to rest facing west just off the southeast corner of the intersection. V2 came to rest facing south, several meters south of impact. V1 was towed due to damage, and the V2 was driven away. V1 was driven by an 81-year old female that was belted with no deployed airbags. She was transported to an area hospital with minor injuries. She stated that she stopped at the stop sign, looked right then left and proceeded across the intersection. Several vehicles including a large van were legally parked on the west side of the southbound road and blocked the view of eastbound traffic at the intersection. The sun was also rising over the horizon and impaired vision. The Critical Precrash Event for V1 was this vehicle crossing over intersection. The Critical Reason for the Critical Event was an inadequate surveillance (looked but did not see). Associated factors included a decision factor-crossed with obstructed view. A roadway factor-view obstructed by other vehicle and a vehicle sightline restriction was also included. Sun glare was coded as a factor as well. The driver was wearing glasses to correct an unknown vision problem and takes aspirin everyday. V2 was operated by a 48-year old male that was belted with no deployed airbags. He was not injured in the collision. He reported that the other vehicle “came out of nowhere”. The Critical Precrash Event for V2 was other vehicle encroaching from crossing street across path. The Critical Reason for the Critical Event was not coded to this vehicle. The only associated factor was a roadway factor a vehicle sightline restriction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

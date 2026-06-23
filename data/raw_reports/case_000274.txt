@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at an intersection of two 4-lane roadways. The northbound roadway was a one-way road. The east/west roadway had two lanes of travel in each direction and was undivided. The intersection was controlled by a traffic signal. The posted speed for both directions of travel was 56 kmph (35 mph). Both roadways were dry, level asphalt. The crash occurred in the mid-morning hours on a weekday. Vehicle #1 was a 2002 Chevrolet S-10 pickup driven by a 34-year old female. Vehicle #2 was a 2004 Chevrolet Malibu driven by a 66-year old female. V1 was traveling east in the first lane of travel, intending to continue straight through the intersection. V2 was traveling north in the fourth lane of travel, slowing to make a left turn at the intersection. As the two vehicles approached the intersection, the light for eastbound traffic changed to red (V1) and to green for northbound traffic (V2). As she entered the intersection, the driver of V2 noticed V1 traveling toward the left side of her vehicle at a steady rate of speed. The front of V1 struck the left side of V2. V1 rotated counterclockwise and came to final rest facing northeast in the intersection. Vehicle #2 slid laterally and came to final rest with its driver's door contacting the right corner of V1. The driver of V1 was transported to a local ER unit. The driver of V2 was taken to a hospital by her son after the crash was cleared. Both vehicles were towed from the scene. The driver of V1 reported that she was in good health. She stated that she was pregnant and that she had been diagnosed with hypoglycemia due to the pregnancy. She also stated that she wore corrective lenses for nearsightedness. She was on her way home from a check-up for the pregnancy. She stated that she was sure that she had the green light and by time she saw the other vehicle coming, she could not take any avoidance maneuvers. The driver of V2 reported that she was in good health and does not wear corrective lenses. She stated that the only medication she was taking was for high blood pressure. She reported that she only drives this roadway to go to the bank and to the post office two times a week. She stated that she has a fear of being hit in an intersection making a left turn so she always approaches them very slow to look for oncoming traffic. She stated that there was nothing she could do when she saw the eastbound vehicle coming. The Critical Pre-crash Event for V1 was coded: this vehicle crossing over (passing through) intersection. The Critical Reason for the Critical Pre-crash Event was coded as an internal distraction because a witness who was traveling behind V1 reported seeing the driver of V1 on a cell phone when the crash occurred. This witness was the one who told police that the traffic signal for eastbound traffic had changed to red. Associated factors coded to this driver include inattention (the driver stated that prior to the crash she had been thinking about the doctor appointment), inadequate surveillance because she failed to look again at the traffic signal, and an illegal maneuver because she went through a red light. The Critical Pre-crash Event for V2 was coded: this vehicle turning left at intersection. The Critical Reason was not coded to this vehicle. Other than the use of a prescription medication for high blood pressure, there were no associated factors coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Decision, Distraction, Driver Fatigue, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

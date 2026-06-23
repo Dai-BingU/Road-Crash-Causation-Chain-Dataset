@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during a heavy thunderstorm mid-afternoon on a downhill, bituminous roadway with visible puddles of water. The roadway runs south to north at the location of the crash and has two northbound lanes and a lane that merges into the northbound lanes. Vehicle one lost control as it hydroplaned on a down slope in a right hand curve. At the location where the driver of vehicle one lost control the roadway is super elevated down to the center of radius of curvature. The speed limit on the road is 80 kmph (50 mph). There was an abundance of physical evidence on the physical plant of this scene. However, most of it is unrelated to this crash. The downed light pole and destroyed guardrail are all the results of previous crashes at the same location. Both drivers described the weather as heavy rain at the time of the crash. The roadway could not handle the excessive water. Vehicle one (V1), a 1998 Ford Explorer, was traveling northbound in lane one. V1 hydroplaned and the driver lost control. The vehicle rotated counterclockwise, the driver then applied ABS and the vehicle began to rotate clockwise. The vehicle then departed the right side of the roadway and crossed a grass divider that separated lane one from the northbound merging lane. V1 then entered the northbound merging lane while still rotating clockwise and the left front corner of V1 contacted the left side of vehicle two (V2). V2, a 2005 Dodge MPV, was traveling at approximately 8 kmph (5 mph) as the driver was attempting to merge with northbound traffic. After impact, V1 departed the right side of the roadway and came to rest in a grassy area. V2 moved slightly clockwise as the right front wheel struck the curb, the wheel was off the roadway as it came to rest. Both vehicles were towed from the scene. The driver of V1 was a 38-year-old female. This driver has over 20 years of experience driving and is employed as a commercial driver for a municipality. She had some employment concerns because she hurt her hip at work the day before the crash. She was on the way from her residence to pick up her husband and had driven 12.9 kilometer (8 miles) prior to the crash. She drives the route daily and is very familiar with the vehicle. The critical pre-crash event for V1 was coded: this vehicle loss of control due to - poor road conditions. The tires on V1 were over inflated an average of 8 PSI per tire. The average tread depth of each tire was 10 mm (13/32 "). The Critical reason for the crash was assigned to V1 as an environmental related factor of: slick roads. The driver of V2 was returning to her residence. She has high blood pressure and high cholesterol and is taking medication. She did not contribute to the cause of the crash. As she rounded the curve to merge, she looked back to check for traffic and saw there was no approaching traffic in the thru traffic lanes. The next thing she knew, her vehicle was struck by vehicle one. The critical pre-crash event was coded: other vehicle encroachment; from adjacent lane (same direction) - over left lane line. The Critical Reason for the crash was not assigned to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Driver Stress/Emotion, Drugs, Roadway, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

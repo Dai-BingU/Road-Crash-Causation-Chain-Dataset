@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the mid-afternoon hours on a five-lane undivided roadway. There were 3 lanes eastbound and 2 lanes westbound. At the time of the crash, it was raining heavily and the asphalt was wet. The posted speed limit was 56 KMPH (35 MPH). V1, a 1994 Nissan Quest minivan, was driven by a 36-year old male. V1 was traveling eastbound in the first lane of travel, approaching an intersection. V2, a transit bus, was driven by a 55-year old male. The bus was stopped in the first lane of travel to let off passengers at a posted bus stop sign. V1 came up behind V2 and the front of V1 struck the rear of V2 while V2 was letting off passengers. The driver of V1 stated during the interview that he had been talking on a cellular phone with a friend prior to the crash. Immediately before the crash, the driver ended the conversation and looked down to hang up the phone and to place the phone on his lap. When he looked up again, he saw the transit bus (V2) at a complete stop. The driver of V1 stated that there was no way he could have stopped in time and “stomped” on the brakes, but his vehicle slid into the rear of V2. The Critical Pre-crash Event for the driver of V1 was when another vehicle was stopped in his lane. The Critical Reason for the Critical Pre-crash Event was an internal distraction (hanging up the phone). The conversation was coded as an associated factor, as was the wet roadway and the weather (rain). The Critical Pre-crash Event for V2 was when another vehicle was in the same lane traveling at a higher speed. The Critical Reason was not coded to this vehicle. No interview was obtained from the driver of V2, but he was not thought to have contributed to the crash. Associated factors coded to this driver include the wet roadway and the weather (rain).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Distraction, Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

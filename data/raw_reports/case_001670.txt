@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on the southbound lane of a two lane, two-way roadway, just south of a stoplight controlled intersection with a two-lane two-way east/west roadway. The roadways are bituminous, straight, level, and dry at the time of the crash. Legal parallel parking at the curb is allowed on both sides of the roadway. The area is a school zone, and the posted speed limit is 32 kmph (20 mph). The crash occurred mid-day on a weekday, traffic was light at the time, and the weather condition was cloudy. Vehicle one (V1), a 2001 Chevrolet Lumina 4-door sedan occupied by the driver only, was southbound approaching the intersection. Vehicle two (V2), a 1991 Oldsmobile Ninety-Eight 4-door sedan occupied by the driver only, was southbound in front of V1. Approximately 15 meters (49 feet) south of the intersection on the right (west) side of the roadway is the driveway entrance to a retail business. V2 proceeded thru the intersection and began a right turn into the business driveway. The driver of V2 signaled his intended right turn by the right turn signal. V1, with the intention of passing V2, changed lanes to the right parking lane and began to pass V2 although the driver saw the blinking right turn signal on V2. The front of V1 struck the right side of V2. V1 continued south past the business driveway, departed the roadway right, struck and knocked down a school zone speed limit sign and then crossed the sidewalk and struck a tree with it's front end. V1 began a clockwise rotation, crossed a residential driveway, and came to final rest facing west in the front yard of a residence, across the sidewalk. V2 came to final rest facing south in the roadway adjacent to the impact point and was pushed later into the business driveway. V1 and V2 were towed from the scene due to damage, and both drivers were transported to a local trauma center for treatment. The driver of V1, the Chevrolet Lumina, was driven by a 49 year old female who stated that she was late for work, traveling approximately 72 kmph (45 mph), and did see the right turn signal blinking on V2, but thought that she could make it past before V2 turned. The driver had an adversarial work relationship with management. Just prior to leaving for work driver of V1 ingested 3 medications: Gabapentin 300 mg., Ibuprophen 800 mg., and Percocet 750 mg. She is familiar with the vehicle and drives the route daily. The critical pre-crash event for V1 was coded: other vehicle encroachment; from adjacent lane (same direction) - over left lane line. The critical reason was coded to V1 as a driver related factor: aggressive driving behavior. The driver of V2, the Oldsmobile Ninety-Eight, was driven by a 23 year old male who stated that he had dropped off a friend at home and was just driving around killing time until he had to go to work that afternoon. He stated that he was going south and intended to turn right into the business driveway to purchase an item. He stated that he never realized that V1 was there to the right of him until V1 struck his vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling, turning right at intersection. The critical reason for the critical event was not coded to this vehicle. However, an associated recognition factor of inadequate surveillance, for failure to look to rear (mirrors) would apply.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Stress/Emotion, Drugs, Speed/Distance present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 2 ：This Vehicle Traveling- Turning right at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a four-lane roadway separated by a raised curb median (two lanes each direction) at an intersection controlled by a traffic signal. Conditions were daylight with clouds in the afternoon on a weekday. The posted speed limit was 64 kmph (40 MPH). The westbound lanes had a negative 2 percent slope. V1 was a 2004 Chevy Cavalier sedan traveling around a jug-handle intending to turn left at the intersection with the east/west roadway. V2, a 2002 Buick Century sedan, was traveling westbound in the left lane intending on continuing straight through the intersection with a green traffic control signal. The driver of V1 stated that she stopped for a red traffic signal, and when she thought that her light had changed to green, she entered the intersection. The front of V1 struck the right front side of V2. V2 was deflected to the left and onto the grass median where the front of V2 struck a traffic control signal post. V1 came to final rest facing southeast and V2 came to final rest facing southwest. A witness that was identified on the police report as traveling to the right of and behind V2 indicated that the traffic signal for westbound traffic had been green. The county's highway department reviewed the tripped curcuit and verified that traffic on the jug-handle (V1) had a red light. A 41-year old female drove V1 and was not injured. She stated that she was traveling around the jug-handle intending on turning left at the intersection with a possible green traffic control signal when V2 struck the front of her vehicle. The driver of V1 did not have time to take any avoidance actions. V1 was traveling between 11-20 MPH at the time of impact. V1 was towed due to damage. The critical pre-crash event for V1 was when it began to turn left at the intersection. The critical reason for the critical pre-crash event was coded as an Iinadequate surveillance because she did not look at the signal again - she thought her light had turned green. Associated factors coded to the driver of V1 include an illegal maneuver (entering an intersection with a red light) and a false assumption of other road user's actions - when interviewed, the driver of V1 stated that she saw V2 approaching from her left but thought that V2 would stop. A 69-year old female drove V2 and sustained minor injuries. She stated that she was traveling westbound in the left lane with a green traffic control signal when she saw V1 run the red traffic light. The driver of V2 did not have time to take any avoidance actions. The front of V1 struck the right front side of V2 in the westbound lane. V2 then continued on and struck a traffic control signal post. V2 was traveling between 31- 40 MPH at the time of impact. V2 was towed due to damage. The critical pre-crash event for V2 was the other vehicle encroachment from the crossing street, turning into opposite direction. The critical reason for the critical pre-crash event was not coded to this vehicle. The driver of V2 drove this road daily and was familiar with the roadway. The driver was wearing glasses for her hyperopic condition. The driver of V2 was also taking a prescribed cancer medication. It was not thought that the driver of V2 took any actions that contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

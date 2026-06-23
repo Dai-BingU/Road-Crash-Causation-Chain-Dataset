@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a level two lane undivided roadway with a posted speed limit of 64KPH (40MPH). There was an intersecting roadway to the left and a driveway to the right. There was a traffic control signal at the intersection. The weather was cloudy, the roadway was dry and it was dark, but lighted at the time of this late night weekday crash. Vehicle #1, a 1987 Honda Accord, was traveling south on the two lane undivided roadway approaching the intersection. It should be noted that the traffic control signal was lighted red. Vehicle #2, a 1994 Honda Civic was stopped at the signal awaiting a green light, in front of Vehicle #1. Vehicle #1's front impacted Vehicle #2's rear. Vehicle #2 was pushed through the intersection and came to rest facing in a southwesterly direction. Vehicle #1 came to rest facing in a southerly direction. The Honda Accord (Vehicle #1) was driven by an unbelted 19 year old female who was transported, treated and released for minor bleeding to the head. She stated that she did not see the other vehicle, that she was also looking down to retrieve a dropped water bottle as well as attempting to put on her seat belt. Vehicle #1 was towed due to damage and was destroyed before the inspection could be done. The Critical Precrash Event for Vehicle #1 was another vehicle stopped in lane. The Critical Reason for the Critical Precrash Event was coded as an internal distraction, a recognition error. This was chosen because the driver stated she was looking down to retrieve a dropped water bottle and attempting to put on her seat belt. She was wearing glasses to correct her myopic (near-sighted) vision. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. The Honda Civic (Vehicle #2) was driven by a belted 25-year-old male. A 22-year-old belted female passenger was listed as having a possible injury on the police report. The driver interview was not obtained due to him living out of state (Mexico). The Critical Precrash Event for Vehicle #2 was coded as other motor vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. No other associated factors were coded to the driver of the Civic and he was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

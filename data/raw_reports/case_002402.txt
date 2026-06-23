@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash happened on a roadway that travels north/south. This roadway consists of two lanes, one southbound left turn lane, two shoulders on either side of the roadway and two bicycle lanes on either side. The weather conditions that day were clear. The crash occurred in the early afternoon hours. The driver of V1 was traveling southbound on the roadway approaching the intersection. The driver of V1 did not see V2 stopped in the travel lane. V1 contacted the rear of V2 with its front end. Neither driver required medical attention. V1 was towed do to major damage to its front end. The driver of V1 stated that he was traveling southbound coming from a local restaurant. He was driving about 3 minutes traveling on the southbound part of the roadway. He states that he saw the light had turned red and was in the process of stopping the vehicle. The driver states that he looked down for a unknown reason and when he looked up he realized that he would not be able to stop in time and hit V2. The Critical Pre-Crash Event was coded to this vehicle as: other motor vehicle stopped in travel lane. The Critical Reason for the Critical Pre-Crash Event was coded to this vehicle as: recognition error, internal distraction. The driver of V2 had a load in the back of his vehicle. The approximate weight was estimated at around 100lbs. The driver states that he was at a complete stop waiting for the light to turn green when the next thing he knew he was getting hit in the back. The Critical Pre-Crash Event was coded to this vehicle as: other motor vehicle in travel lane, traveling in same direction with a higher rate of speed. There was no Critical Reason coded to this vehicle. ASSOSIATIVE FACTORS: The driver of V1 is a high school student who has had a permit for one year and has just recently received his license, therefore inexperience could have been a causal factor.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

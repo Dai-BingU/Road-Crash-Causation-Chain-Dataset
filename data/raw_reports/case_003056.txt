@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This four vehicle crash occurred during early morning hours. The roadway was a level, concrete, five lane, divided, urban freeway with paved shoulders on both sides. The surface was dry, the weather was clear and it was daylight. At the time of the crash it was stop and go rush hour traffic. The posted speed limit for all vehicles is 97 kph (60 mph) . Vehicle one (V1), a 1998 Freight liner tractor pulling two tanker trailers, driven by a 51 year-old male was traveling northbound in the outside/right lane. Traffic ahead came to a stop in lane one and lane two. Vehicle one was unable to stop in time and struck the rear of vehicle two. The tractor jackknifed to the left crossing the left lane line and struck the right side of vehicle four, who was stopped for traffic. Vehicle two (V2), a 2000 Kia Sportage SUV, driven by a 31 year-old female was northbound in lane one ahead of vehicle one and stopped for traffic. Vehicle two was struck in the rear by vehicle one. On impact vehicle two was pushed for into the back of a fifth wheel trailer being pulled by vehicle three. Vehicle three (V3), a 1994 Ford F350 Crew Cab pickup pulling a fifth wheel trailer, driven by a 50 year-old male was northbound stopped for traffic in lane one ahead of vehicle two. Vehicle three's trailer was struck in the rear by vehicle two. The damage to vehicle three was minor and it was driven away from the scene. Vehicle four, a 2001 International 4700 box truck, driven by a 42 year-old male was northbound stopped in traffic northbound in lane two. Vehicle one struck vehicle two, then veered left across the lane line and struck the right side of the cargo box of vehicle four. Vehicle four was driven away from the scene. Vehicle one & vehicle two were towed from the scene. The pre-event movement for V1 coded going straight, category other motor vehicle in lane other vehicle stopped. Critical reason driver related factor "Too fast to be able to respond to unexpected actions of others". The pre-event movement for V2 coded stopped in traffic lane, category other motor vehicle in lane traveling in same direction with higher speed. Critical reason not coded to this vehicle. The pre-event movement for V3 coded stopped in traffic lane, category other this vehicle not involved in first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a four-lane, divided roadway with a grass median. There were four westbound lanes on an interstate highway with full traffic control. The roadway had a posted speed limit of 104 kmph (65 mph) and the westbound lanes had a downhill grade of 2%. Conditions were daylight and dry with clear skies. The setting was mid-afternoon hours on a weekday. Vehicle one was a 1996 Nissan Altima sedan traveling westbound in lane one. An unknown vehicle (V2) was traveling behind V1 at higher speed. The rear of V1 was impacted by the front of V2. V2 continued on without stopping. V1 departed the roadway on the right side. V1 impacted two medium sized trees in the north roadside with its right plane. These trees created a ramp-like effect, causing V1 to roll one quarter turn onto its right side. V1 came to rest in this position, and was later turned right side up by emergency personnel. The Nissan Altima (V1) was driven by a 20-year old female who was transported to a local hospital with non-incapacitating injuries. She was unable to be located for an interview. The investigating officer estimated her travel and impact speeds to be 104 kmph (65 mph). The Nissan sedan was towed due to damage. The Critical Precrash Event for V1 was "other motor vehicle in lane traveling the same direction with a higher speed". No Critical Reason was coded to the driver of this vehicle. No other associated factors could be coded since the driver could not be located for interview. V2 was a hit and run vehicle. The Critical Precrash Event for V2 was “Other motor vehicle in lane traveling in same direction with lower steady speed”. The Critical Reason for the Critical Precrash Event was coded “Unknown reason for critical event”. Since this vehicle was a hit and run there was no way to find out any information about this car or driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Unknown Reason - Unknown reason for critical event

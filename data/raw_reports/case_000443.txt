@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening, the weather that evening was clear with no adverse conditions, the roadway was dry. It took place on a major highway. The highway travels east/west. It consists of six total travel lanes, three in each direction, divided by a physical median with a positive barrier. The two vehicles contacted in the westbound lanes while coming off the on-ramp, the on-ramp was not a factor (they were both on the roadway at the bottom). The on-ramp had a yield sign at the bottom where the roadway levels out. V2 was stopped at the bottom of the on-ramp waiting for traffic at the yield sign. V1 was also trying to merge into traffic, but did not notice V2 stopped at the bottom of the ramp due to being distracted by traffic on the roadway, driver of V1 was trying to merge into. After V1 contacted the rear of V2 with its' front they both came to rest in the merging traffic lane. The operator of V1 states that he thought the operator of V2 had already merged into traffic. Driver of V1 was paying attention to the other traffic and never saw that V2 had not merged into traffic as he had thought. V1 rear- ended V2 at the bottom of the ramp. The Critical Pre-crash Event was coded other motor vehicle in lane other vehicle stopped. The Critical Reason for Critical Pre-crash Event was coded as, recognition error inadequate surveillance (failed to look, looked but did not see). A possible factor is that driver of V1 had only had 2 hours sleep the night before and had felt fatigued. The driver of V2 states that she was stopped completely at the bottom of the ramp waiting to merge into traffic. The driver states, that while she was waiting for traffic, more than 10 seconds, she was struck from behind by V1. She suffered no injuries. The Critical Pre-crash Event for V2 was coded other motor vehicle in land traveling in same direction with higher speed. There was no Critical reason coded to this vehicle. The driver of this vehicle has a hyperopic (far-sighted) condition, she does not need her glasses to drive. This was thought not to be a factor in the crash. Both drivers are students at a local university, they both were in there “finals” week. Driver of V1 stated that he had been up late the night prior studying. Other Factors: Although neither driver clearly stated, I feel that both drivers were concerned about their exams. They both attend the same university about one mile away from the accident scene. It was the week for final exams.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Stress/Emotion, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

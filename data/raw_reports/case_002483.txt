@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred during early evening dark hours at an intersection with tri-color traffic lights. The speed limit for the roadways is 56 kmph (35 mph) for the southbound lanes and 97 kmph (60 mph) for the eastbound lanes. The road is a 3-lane right curved, divided concrete roadway from north to south. It is a two lane (one-way traffic) concrete roadway from west to east. The west-east road is a service road of a freeway. The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. Vehicle one (V 1), an unidentified suburban style SUV was traveling east in the first lane. Vehicle two (V 2), a 1999 Isuzu Rodeo, driven by a 63 year-old female with one passenger was traveling south in the first lane of traffic approaching the intersection of both roadways. At the intersection of both roadways, the front of V 1 impacted the right side of V 2. V 2 rotated counter clockwise and came to rest partially within the intersection and partially on the south median, facing east. V 1 fled the scene no additional information. V 2 was towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was coded as a driver decision error: illegal maneuver. This vehicle ran a red light. The driver and vehicle could not be identified. The reason for running a red light is not known. A witness interviewed did not see any brake lights come on for V1 nor any pre-crash avoidance actions taken. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. No critical reason for the critical event was coded to this vehicle. The driver stated she was traveling at 56 kmph (35 mph) when approaching the intersection. She saw her light turning green and maintained her speed to cross the intersection. She and her brother, the passenger were having a conversation prior to the crash. The were going from a department store and on their way to a gas station. The driver takes an unspecified medication for a heart problem, but was suffering no illness at the time of the collision. There were no sight line restrictions for either driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Distraction, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred just past noon during daylight hours at a four leg intersection, road surface dry, level asphalt. There are four lanes east/west and three north/south. Traffic flow controlled by on-colors traffic signal. The posted speed limit 48 kph (30 mph). Vehicle one (V1) a 2001 Toyota Corolla sedan driven by a 29 year-old female with two passengers was traveling south in the second lane. Vehicle two (V2) a 2005 Silver Chevrolet impala 4-door sedan driven by a 23-year-old female with four passengers was traveling west in the third lane. As V1 approached the intersection the driver failed to see the light change to red. V 2 struck the left side of V 1.V 2 rotated 180 degrees to end up facing southeast in the middle of the southbound traffic at final rest. V1 continued in a southwesterly direction coming to final rest at the corner. Both vehicles were towed from the scene due to damage. The pre-event movement for V1 coded going straight, category other vehicle encroachment from crossing street, across path. Critical reason not coded to this vehicle. The pre-event movement for V2 coded going straight, category this vehicle traveling crossing over passing through intersection. Critical reason for the critical event driver related factor "internal distraction" (talking with passengers). Additional factors for V2, disregard of traffic signal, unfamiliar with roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience, Driver Stress/Emotion, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Internal distraction

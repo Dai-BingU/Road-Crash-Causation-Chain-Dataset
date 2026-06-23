@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a four-lane, divided highway with a median wall. There were four southbound lanes on a down-sloping, right curve. The roadway had a posted speed limit of 96 kmph (60 mph). Conditions were dusk and dry with cloudy skies. The setting was late afternoon hours on a weekday. Vehicle one (V1) was a 2004 Honda Civic sedan with one occupant. Vehicle two (V2) was a 2001 Toyota MR2 convertible, also with one occupant. V1 was traveling east in the second lane, negotiating the right curve. V2 was traveling east in the fourth lane negotiating the same curve. V1 was slightly ahead of V2. Both vehicles merged in lane three simultaneously. The left plane of V1 impacted the right plane of V2. Both vehicles then began rotating counterclockwise and traveled into the median wall. The front of V1 impacted the wall. The rear of V2 impacted the wall. The right of plane of V1 then impacted the right plane of V2. Both vehicles came to rest on the left shoulder. The driver of V1, a 27-year old female was uninjured. She stated that she was going home from work when she merged into the third lane. The other vehicle merged at the same time, causing the crash. She did not have a chance to react in avoidance. She estimated her travel and impact speeds to be 101 kmph (63 mph). The Honda sedan was towed due to damage. The Critical Precrash Event for V1 was other vehicle encroachment from adjacent lane (same direction) over the left lane line. No Critical Reason was coded for this driver. She was taking prescription medications used for depression and birth control. The driver of V2, a 42-year old female, was transported to a local trauma center with minor injuries. She was unable to be located for an interview. The investigating officer estimated her travel and impact speeds to be 96 kmph (60 mph). The Toyota convertible was towed from the scene, but not due to damage. The Critical Precrash Event for v2 was this vehicle traveling over the lane line on the right side of the travel lane. The Critical Reason was unknown. This driver was taking prescription medications for acid reflux and depression according to the medical report.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

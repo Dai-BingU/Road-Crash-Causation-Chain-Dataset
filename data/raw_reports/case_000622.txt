@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred on a dark, but lit roadway during severe weather conditions. It was snowing and sleeting with very gusty crosswinds. Posted speed limit is 64 kmph (40 mph). Concrete roadway was covered with sleet, snow, and ice. The roadway is a two-way, 3-lane roadway with the center lane a two-way left turn lane. Vehicle one (V1), a 2003 Chevrolet Trailblazer with one occupant, was traveling south in lane one with a +5% slope. As V1 was traveling up roadway, driver experienced traction control loss due to icy conditions. Driver reacted abruptly to traction loss by braking and steering right. V1 departed travel lane on left side, traveled across center-lane, and entered into oncoming lane where the front of V1 struck the front left of vehicle two. Vehicle two (V2), a 1998 Ford Contour sedan with two occupants, was traveling north in lane one of same roadway. V2 has a -6% slope. Both vehicles came to final rest in lane one of northbound traffic facing northeast and both were towed due to damage. Both occupants of V2 were injured and transported for treatment. Both frontal airbags deployed in V2. Both drivers experienced environmental weather conditions (snow, sleet, and icy road conditions). The driver of V1 described the cross winds as severe which had an effect on the compact utility vehicle crossing the roadway into the opposing lane of travel. Both vehicles had under-inflated tires. The critical pre-crash event for V1 was coded: this vehicle control loss due to poor road conditions. The critical reason for V1 was coded: slick roads. The critical pre-crash event for V2 was coded: other vehicle encroachment-from opposite direction-over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Distraction, Roadway, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

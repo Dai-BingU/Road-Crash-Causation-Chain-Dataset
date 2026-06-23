@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary Case #2006-41-029 The crash occurred at a three-leg intersection, which was controlled by a traffic light. The east/west roadway was a two-way, seven-lane street, divided by a concrete curbed median. This was a straight, level, asphalt roadway, with a posted speed of 72 kmph (45 mph). Conditions were dark with streetlights, on a weekday evening. The roads were dry and skies were clear. Traffic flow was normal. V1, a 1991 Dodge Shadow with one occupant, was traveling eastbound in lane one. V2, a 1996 Honda Civic with one occupant, was stopped at a traffic light ahead of V1, in the same travel lane. The driver of V1 did not stop in time to avoid hitting V2. The front of V1 made contact with the back of V2. V1 was towed due to damage. V1, the Dodge Shadow, was driven by a 44-year old female, who was not injured. She declined to be interviewed pending charges related to the accident. The Critical Precrash Event for V1 was "other motor vehicle in lane, other vehicle stopped". The Critical Reason for the Critical Event was an unknown recognition error. One associated factor for this driver was that the driver was under the influence of alcohol at the time of the crash. V2, the Honda Civic, was driven by a 39-year old male, who was not injured. He stated that he was on his way home from work. He was stopped for between fifteen seconds and one minute at a traffic light. He knew that there was a vehicle coming up behind him because of the headlight glare in his rearview mirror. He glanced into the rearview mirror at the last second before getting hit from behind. The driver indicated that the other driver was obviously intoxicated. She did not wish to have the police called out to the scene. He said that when officers arrived, the other driver was arrested. The Critical Precrash Event for V1 was "other motor vehicle in lane, traveling in same direction with higher speed". The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

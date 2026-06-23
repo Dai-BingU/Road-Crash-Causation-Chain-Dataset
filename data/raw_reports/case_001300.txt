@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 1998 Chevrolet Cavalier, was traveling southbound on a five lane, two-way dry asphalt roadway on a level grade. V1 was in the third lane of travel. The driver of V1 stated that she was waiting to make a left hand turn and she turned in front of the on coming car. V2, a 1998 GMC Jimmy was traveling northbound on the same roadway. The driver of V2 stated that she turned left in front of him at the last minute. He reported not having enough time to hit his brakes. The front of V2 contacted the right side of V1 before coming to final rest on the roadway. The driver of V1 was a 16-year old female who reported that she was stopped in the left hand turn lane prior to the impact. Driver indicated that she was in a hurry to get home from school. The driver reported that she did not know that oncoming traffic had the right of way. The Critical Precrash Event for the driver of V1 was this vehicle traveling turning left at intersection. The Critical Reason for the Critical Event was coded recognition error, inadequate surveillance. She had no health related problems and had taken no medication prior to the crash. She was rested. She was wearing her prescribed lenses that corrected a myopic (nearsighted) condition. She had only been driving for one week. Inexperience plays a role in this crash. The driver of V2 was a 51-year old male who reported that he had been traveling between 50-64kmph (31-40mph) prior to the crash. He was traveling through the intersection and did not have time to react. He was not injured in the crash. The Critical Precrash Event for the driver of V2 was other vehicle encroachment from opposite direction-over left lane line. The Critical Reason was not coded to the driver of V2 and he was not thought to have contributed to the crash. He has no health problems and was taking water pills. He was wearing his prescribed lenses that corrected hyperopic (farsighted) condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

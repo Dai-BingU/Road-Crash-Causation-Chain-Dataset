@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a five-lane roadway at the entrance to a private business driveway. This road has two-lanes in either direction with a center two-way left turn lane. The eastbound asphalt roadway had a downgrade slope of 7% at the pre-crash location. The speed limit for the area is 72 kmph (45 mph). The crash occurred during daylight hours with no adverse weather or road conditions present. Vehicle one (V1), a 1972 Chevrolet Pickup was eastbound in the first lane. Vehicle two (V2), a 1995 Buick LeSabre was eastbound in the first lane ahead of V1. V2 slowed to turn right into a driveway. A non-contact vehicle was exiting the driveway and turning right. V1's driver applied the brakes and steered right and impacted the rear of V2 in the driveway. V2 rotated clockwise and the left rear impacted a metal sign. V1 was towed due to damage. V2 was not towed due to damage. The driver of V1, a fifty-five year old male, was heading from home to the pharmacy to discuss a financial matter about his medications. This driver had been driving for about twenty minutes at the time of this crash. This driver stated that he was thinking about the money involved with his medications. This driver was taking Hydroxyzine, Naproxen, Sulfsalizine and Xanax as medications. This driver indicated that as he saw the crash unfolding he did not think there was any way to avoid the crash and steered right, but if he had steered left into the second lane the crash would have been avoided. This driver drives this vehicle daily and over this road on a daily basis. The driver of V2, a seventy-four year old female, was taking her cat to the veterinarian at the time of the crash. This driver had been driving for a little more than thirty minutes at the time of the crash. This driver was quite disoriented and unclear about what happened in the crash. This driver was very concerned about getting her cat to the vet. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction while decelerating. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: incorrect evasive action. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical pre-crash event for V2 was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

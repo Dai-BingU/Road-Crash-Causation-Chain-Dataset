@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekday night on a 4-lane undivided roadway. The roadway was a downhill grade of 2 percent. The posted speed limit was 72 kmph (45 mph). It was dark out at the time of the crash, but the roadway was illuminated. There was a city dump truck parked in lane 2 on the westbound side with its four-way flashers on. Workers were in front of the truck doing water main repairs. There was no driver in the truck at the time of the crash. V1, a 1995 Buick Rivera, was driven by a 58-year old male who was reported to have been intoxicated at the time of the crash. Vehicle 2 was a 1993 International dump truck that was parked and unoccupied. The driver of V1 was traveling west in lane 2. The front of V1 contacted the rear of V2. The final rest for both vehicles was at point of impact. The driver of the Buick was to have stated to police and paramedics that he had had a few drinks with his friends and he did not see any 4 four-way flashers on the truck. The driver could not be reached for an interview. The Critical Pre-crash Event for V1 was coded as other motor vehicle stopped in lane. The Critical Reason for the Critical Pre-crash Event was coded as inadequate surveillance (e.g., failed to look, looked but did not see). An associated factor coded to the driver of V1 was alcohol use - the driver admitted that he had been drinking before the crash. Medical records and the police report also indicated alcohol use; however, the results of the BAC test were not made available. Another associated factor coded to the driver was the fact that this area of the road had recently been set up as a construction zone. V2, a 1993 International dump truck, was parked in lane 2 facing west with its four-way flashers on. The driver stated that he had been out of the vehicle for about 2 minutes prior to the vehicle being hit. He also stated that he did not have the amber light on top of the truck activated at that time because the boss was unsure of where he wanted him to place the vehicle. A worker also reported that the trailer hauling the amber arrow (to indicate that drivers should use the adjacent lane) was still parked on the other side of the roadway and was not yet in use. It should also be noted that the rear and sides of the dump truck were completely covered in mud. There was no reflective tape on the back of the truck.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

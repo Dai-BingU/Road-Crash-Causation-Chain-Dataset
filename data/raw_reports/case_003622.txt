@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a level two lane undivided roadway with a suggested speed limit of 25 MPH (40 KPH). This suggested speed limit was for construction work on the roadway and indicated by black on orange warning signs, regulatory signs were covered. There were also black on yellow warning signs at either end of the roadway indicating "no shoulder". The roadway curved to the left with a radius of curvature of 625 meters. It should be noted that the roadway had been newly paved and had 8 cm to 15 cm lip edge. The weather was clear, the roadway dry and it was daylight at the time of the early morning weekday crash. Vehicle #1, a 1987 Volvo 740, was traveling north on the roadway negotiating the curve to the left. Vehicle #1 drove off the right side of the roadway and struck an unknown diameter pole, shearing same with its front. Vehicle #1 continued, crossed a driveway and came back on the roadway striking the 15 cm roadway lip. Vehicle #1 rotated counterclockwise across both lanes and came to rest facing west. Vehicle #1 was towed due to damage. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. The Volvo (Vehicle #1) was driven by a belted 33 year old male who was treated at the scene for a minor injury. The driver was taken into custody and no further information was obtained because the driver could not be contacted or located. The Critical Precrash Event for Vehicle #1 was that this vehicle was traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was unknown critical non-performance, a driver related factor. This was chosen because there was no additional information available, but the police indicated "fatigued/drowsy".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown critical non-performance

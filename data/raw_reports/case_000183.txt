@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of weekday in the southbound lanes of an undivided, four-lane, urban roadway. The roadway consisted of two lanes in each direction flanked by parking lanes. The bituminous roadway was dry, straight, and level with a posted speed limit of 48 kmph (30 mph). The traffic flow was normal and the weather was cloudy at the time of the crash. V1, a 2004 Mercedes Benz E-class with one occupant, was northbound in lane two. V2, a 2002 Mercury Sable with two occupants, was southbound in lane two. V3, a 2000 Acura Integra, was unoccupied and legally parked along side of the west curb of the street. V1 drifted left over the double yellow lane lines that separated the north and southbound travel lanes and struck the left side of V2 with its left front corner. Upon impact V2 rotated approximately 20 degrees counter-clockwise motion and came to final rest mostly in its original travel lane. V1 continued in a northwesterly direction where it crossed both of the southbound lanes and then struck the left side rear of V3 (pushing the rear of it onto the sidewalk). V1 than departed the roadway and entered the west sidewalk where it struck a raised curb and then came to its final rest in a raised grassy flowerbed. V1 had traveled approximately 18m (59 ft.) to its final rest after departing the street. All three vehicles were disabled and towed from the scene. The driver of V1, a 55-year-old male, had recently suffered some major health problems and was still working through them, the most serious of which was prostate cancer. He advised that these problems had created other health related problems and that all of this had been very stressful and worrisome. Driver explained that he was not certain if he actually lost consciousness but recalled feeling as if he were going to faint just prior to hearing his vehicle strike V2. He had also been suffering from very severe headaches throughout the day. The driver was transported for treatment of minor injuries and later discharged from an emergency room with a diagnosis of "near syncope". The Critical Precrash Event for V1 was coded this vehicle traveling, over the lane line on left side of travel. The Critical Reason for the Critical Event was a driver related factor, heart attack or other physical impairment of the ability to act. (in this case, near fainting or actually fainting). Associated factors coded to V1, include the driver taking several medications that had adverse effects, as well as the high levels of stress related to his uncertain health. The driver of V2, a 16-year old female, refused (on the advice of her father, because of her status as a minor) to participate in this study. According to police, the driver stated that she had been traveling south in lane two and did not notice anything unusual about V1 until V1 entered her lane and struck her vehicle. The driver of V2 suffered minor injuries as a result of the crash. The Critical Precrash Event for V2 was coded other vehicle encroachment, from opposite direction - over left lane line. The Critical Reason was not coded to this vehicle. The only known associated factor that could be coded to V2 was driver inexperience as the driving had been driving for less than one year. V3, was unoccupied and not in transport and therefore not considered a case vehicle. It was towed from the scene due to disabling damage to its left side.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Driver Stress/Emotion, Drugs present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary A two-vehicle crash occurred in the afternoon hours on a two lane two-way roadway. This bituminous asphalt roadway runs east and west and is straight and level. A double yellow lane line divides the two lanes. The westbound lane is 3.3 meters in width and is bordered to its north by a grass area with a negative grade. The eastbound lane measures 3.4 meters in width (11.1 feet) and is bordered to its south by a grass area. This grass area goes into a ditch that has a negative 7% grade. The speed limit for this roadway is 56 kmph (35 mph). The roadway was free of deficiencies, congestion, adverse weather conditions and/or sight restrictions at the time of the crash. Vehicle one (V1) is a 2000 Honda Civic 2 door sedan driven by a 66 year-old male. Vehicle two (V2) is a 2004 Jeep Grand Cherokee Sport Utility Vehicle driven by a 67 year-old female with three passengers. V1 was traveling westbound on this two-lane roadway. V2 was traveling eastbound on the same roadway. V1 left its lane, crossed the centerline and impacted V2's left side near the rear axle with its front. V2 rotated in a counterclockwise motion and departed the roadway right. V2's tires tripped on the ground by a ditch area and rolled right. V2 came to a final rest on its roof off of the roadway south. After the initial impact V1 left yaw marks in the eastbound lane and continued off of the roadway south where it came to final rest facing southwest. The critical pre-crash event for V1 was coded: this vehicle traveling, over the lane line on left side of travel lane. The critical reason for the critical event was coded to V1 as a driver related factor: other critical non-performance. No driver interview as obtained; however, the driver had dizziness according to drivers statement to the police. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction-over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Driver Physical present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other critical non-performance (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary The crash occurred in a signalized intersection of a two-way roadway. The east-west roadway had two travel lanes in each direction and the north-south roadway had a single lane of travel in each direction. The roadways were straight and level, and the speed limit was 48kmph (30mph). It was daylight and clear with no adverse conditions, and it was a weekday afternoon. V1, a 1998 Lincoln Town Car four door with one occupant was traveling westbound in the right lane going straight. V2, a 1999 Volvo S80 four door with two occupants was traveling eastbound on lane two attempting to make a left hand turn heading northbound. V3, a 1989 Toyota Camry four door with three occupants was traveling northbound and stopped for the traffic signal in the left lane. At the intersection, the front of V1 impacted the right side of V2, then causing the left side rear door of V2 to impact the front left bumper corner of V3. All vehicles came to final rest within a short distance from the intersection. V1, the Lincoln Town Car was driven by a 46 year-old male who sustained minor injuries however refused medical attention. He stated that he was going straight through the intersection with the green light when V2 crossed his path. The Lincoln was not towed due to damage. The Critical Pre-crash event for V1 was "other vehicle encroachment, from opposite direction - over left lane line". The Critical Reason for the Critical event was not coded to the driver because he had the green light. There are no associated factors coded to V1 and the driver was not thought to have contributed to the crash. V2, the Volvo S80 was driven by a 33 year-old female who sustained minor injuries and was transported. She stated that she looked before entering the intersection but did not see V1 coming. There is a pillar from the subway track that obstructed her view of V1. She stated that it is very dangerous to make a left turn at these types of intersections. The Volvo was towed due to damage. The Critical Pre-crash event for V2 was "this vehicle traveling, turning left at intersection". The Critical Reason for the Critical event was coded as a Driver related factor, “inadequate surveillance (e.g., failed to look, looked but did not see). A roadway related factor was also coded as a sightline restriction of V1, due to an elevated train support pillar. V3, the Toyota Camry was driven by a 19 year-old female who sustained minor injuries and was transported. The driver declined to participate in the study. The Toyota was not towed due to damage. The Critical Pre-crash event for V3 was coded not involved in first harmful event. The Critical Reason for the Critical Event was not coded to this vehicle. There are no associated factors coded to V3 and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Starting in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

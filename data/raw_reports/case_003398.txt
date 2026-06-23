@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred off to the left side of a level, two-lane, non-divided, rural roadway with an 89 kmph posted speed limit. The roadway approaching the accident site was dry asphalt, but at the location of the first harmful event there was snow piled in the roadway. The crash occurred during dark hours, and the roadway was unlighted. Vehicle #1 a Green 1994 Jeep Grand Cherokee Laredo (was occupied three times: a restrained 36-year-old female driver, a male and female passenger, who were also properly restrained) was headed north with a non-collision vehicle was traveling south. The driver of vehicle #1 stated that she pulled the vehicle to the right side of the lane, and then got pulled farther right by snow. She then stated that she applied full ABS and overcorrected to the left, causing her vehicle to depart the roadway to the left, striking a tree. The driver was uninjured, the female passenger was also uninjured, but the male passenger was transported by EMS to a local medical facility for treatment. The pre-crash event coded for this vehicle is going straight, and then lost control due to poor road conditions (snow covered roadway) is coded for the critical pre-crash event. The critical reason for this event is slick roads. Associated factors for this driver are not being aware that caution was needed, the driver stated that she traveled this roadway daily, and was unprepared for the change in road conditions.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)

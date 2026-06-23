@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a four-lane, undivided, downhill, dry, bituminous roadway with no positive barrier. This roadway contains two eastbound lanes and two westbound lanes and is intersected by a two-lane, level, dry, bituminous roadway that runs north to south and forms a “T” intersection that is controlled by a stop sign for the southbound lane. There are no traffic control devices for the east and westbound lanes. Both roads are straight and the westbound lanes have a downhill grade. This crash occurred during daylight hours with no adverse atmospheric conditions. The speed limit for both roads is 72 kph (45 mph). Vehicle one, a 1994 Chrysler Town and Country minivan was stopped at the stop sign waiting to make a left turn and travel eastbound. Vehicle two, a 2005 Ford F-350 pickup truck was traveling westbound in lane two. There were three school buses and one light vehicle stopped in lane one of the westbound roadway. The first bus was attempting to turn right at the intersection and travel northbound. The north/southbound roadway was too narrow for the bus to make its turn while vehicle one was stopped at the intersection. Vehicle one's view of westbound traffic was obstructed by the buses. As vehicle one entered the intersection, the front of vehicle two struck the left side of vehicle one. Both vehicles came to rest near the point of impact. Vehicle one was towed due to damage. Vehicle two was not towed due to damage. The driver of vehicle one, a 63-year-old female was running late for work. Her shift started approximately 5 minutes after the time of the crash. This driver stated that she pulled out from the stop to turn left with the bus to her left. This driver indicated that she was in a hurry to get to work. This driver indicated that upon waking she is fatigued. Fatigue is considered a factor for this driver. This driver also has an adversarial work factor as she is trying to get on disability and the company is denying the claim. This driver has several present health factors that did not play a role in the crash. This driver drives in this vehicle daily and over this road on a daily basis. The driver of vehicle two, a thirty-three year old male was driving from his office to a job site. This driver drives on this road weekly and in this vehicle on a daily basis. The critical pre-crash event for vehicle one was coded as “this vehicle traveling: turning left at intersection”. The critical reason for the critical pre-crash event for vehicle one was attributed to vehicle one and was coded as “Driver related factor: inadequate surveillance”. This driver also has a present sightline restriction from the bus turning left. The critical pre-crash event for vehicle two was coded as “Other vehicle encroachment: from crossing street, across path”. The critical reason for the critical pre-crash event for vehicle two was coded as “not coded to this vehicle”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Stress/Emotion, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

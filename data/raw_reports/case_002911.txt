@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This four-vehicle crash occurred just past noon on a straight, dry, undivided, asphalt two-lane road with no controls. The road runs east and west at this location and has one through lane in each direction. The posted speed limit is 56 kmph (35 mph) and there were no adverse weather conditions at the time. Vehicle one (V1), a 1993 Toyota Pickup, driven by a 59 year-old male, was traveling east in lane one. Vehicle two (V2), a 1999 Ford F150 pick-up towing a flat bed trailing, driven by a 56 year-old male, was traveling west in lane one. Vehicle three (V3), a 1993 Oldsmobile Cutlass sedan, driven by an 18 year-old female, was westbound traveling behind V2. Vehicle four (V4), a 2004 GMC Envoy SUV, driven by a 37 year-old female, was traveling west behind V3. V1 traveled over the center lane line into the westbound lane and sideswiped the left side of V2. V1 continued and struck the left side of V3. V4 swerved onto the gravel shoulder but was struck on the left side by the front of V1. V1 and V4 came to rest at impact. V2 drove to the right shoulder and stopped. V3 drove to the right shoulder and stopped. V1 and V4 were towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, over the lane line on left side of travel lane. The critical reason for the critical event was coded to V1 as a driver related factor: heart attack, or other physical impairment of the ability to act. The driver experienced a diabetic blackout while driving. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason was not coded to this vehicle. V3 and V4 were not involved in the first harmful event. Neither vehicle had a critical reason assigned to it.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs present problem 
+Vehicle 2:  Driver Inexperience, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

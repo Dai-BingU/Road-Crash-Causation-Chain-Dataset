@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occured at the intersection of two roaways. The first roadway was an undivided S curve, with two northbound lanes and two southbound lanes. The second roadway intersected the west edge of the S curve forming a T intersection. This was a two lane two way undivided roadway. The bitimous road surfaces were wet and there was a light rain during the morning hours of a weekday. V1, a 2000 Dodge Durango, was traveling south in lane one negotiating a curve right and approaching the intersection. V2, a 2003 Toyota Corolla, was traveling north negotiating a curve left approaching the same intersection. V2 attempted to turn left at the intersection and both vehicles front planes came into contact. V2, was rotated approximentely 10 degrees counter clockwise before coming to rest close to impact. V1 rotated clockwise and made contact to a light pole with its front plane before coming to rest. V1 was driven by a 35 year-old male, who stated that he was negotiating the curve and approaching the intersection when the other vehicle turned left in front of him. The critical pre crash event for this vehicle was coded Other Vehicle Encroachment, but the Critical Reason was not coded to this vehicle. V2 was driven by a 28 year-old female who stated that she had gone off her intended route and was looking for a cross street to change direction. She saw the opportunity to turn and thought htat she could get across V1's path in time. This vehicles critical pre crash event was coded This Vehicle Traveling (turning left at intersection). The critical reason was coded a Decision Error, Misjudgement of Gap or Other's Speed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Inexperience, Driver Physical, Drugs, Roadway, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Decision, Distraction, Driver Fatigue, Driver Inexperience, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Misjudgment of gap or other's speed

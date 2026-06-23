@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a ten-lane interstate that was divided by a concrete barrier wall (5 lanes in each direction). This was a straight, level, bituminous roadway with a posted speed of 105 kmph (65 mph). Conditions were early morning on a weekday with dry roads and clear skies. Traffic flow was congested, with rush-hour activity. V1, a 1995 Ford Crown Victoria with one occupant, was traveling in lane four. V2, a 2001 Toyota RAV-4 with two occupants, was traveling in lane five (HOV lane). Rush-hour traffic began slowing to between 72 to 88 kmph (45 to 55 mph). A phantom vehicle traveling in lane three changed lanes in front of V1. The driver of V1 reacted by locking up his brakes and jerking his wheel to the left, successfully avoiding the phantom vehicle. This action however, placed V1 in the path of V2 as V1 skidded to the left across the roadway. As V1 crossed over the fifth lane of travel in front of V2, the right rear corner of V1 was struck by the front left corner of V2. Following this impact, the front left corner of V1 made contact with the concrete barrier wall. The vehicles came to final rest on the inside shoulder of the interstate. V1 was towed due to damage. Both drivers refused medical treatment. V1, the Crown Victoria, was driven by a 23-year old male who reported possible neck and back pain. He advised that he was coming home from work. Traffic began to slow. The vehicle to his right changed lanes in front of him, cutting him off. The driver stated that he braked and steered left to avoid a collision. Then he felt a bump from behind, which pushed him toward the concrete barrier. He cranked the wheel to the right in an attempt to straighten out the vehicle, but could not overcome the momentum. He hit the wall, deploying the front airbags. The Critical Pre-crash Event for V1 was "successful avoidance to a previous critical event." The Critical Reason for the Critical Event was a decision error- incorrect evasive action. Although the driver successfully avoided one crash, his evasive maneuver caused him to encroach into V2's travel lane. One associated factor for the crash was highway related. Due to rush hour congestion, there was not sufficient spacing between vehicles. V2, the Toyota RAV-4, was driven by a 27-year old female who reported no injuries. She stated that she left home to take her 3-year old son to her mother's house. She was in the HOV lane, traveling at a speed of about 105 kmph (65 mph). From the corner of her eye, she saw a vehicle spinning out of control, moving into her travel lane from her front right. The driver said that she could see a lot of smoke coming from the other driver's tires. She indicated that she was unable to take any avoidance actions because it happened too quickly. The Critical Pre-crash Event for V2 was "other vehicle encroachment, from adjacent lane, over the right lane line." The Critical Reason for the Critical Event was not coded to this vehicle. The driver of V2 was not thought to have contributed to the crash. One associated factor coded to V2 was the rush hour traffic. Other associated factors for this driver could not be determined however, due to partial interview data.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

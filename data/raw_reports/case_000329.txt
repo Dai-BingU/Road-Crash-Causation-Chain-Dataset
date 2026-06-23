@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of a five-lane, two-way, non-divided city street going East-West, and a one way four-lane city street going to the North. The asphalt roadways were similar in that they were both dry, asphalt roads without any deficiencies. The speed limit for V1 was 56Kmph (35Mph), and for V2 it was 40Kmph (25Mph). V1 a 1989 Grumman postal truck was heading east approaching the stoplight-controlled intersection driven by a 33yr old male. V2 a 1992 Buick Park Avenue was accelerating from the stoplight heading North, and being driven by a 55yr old female. The driver of V1 stated that the light turned yellow and that he thought he had enough time to make it through before it turned red. The light turned red and V1 ran the light. The driver also stated that this was the first time driving the vehicle and that he was not that familiar with the handling of the vehicle. The Critical Pre-crash Event coded for V1 is crossing over (passing through an intersection). The Critical Reason for the Critical Pre-crash Event is decision error, illegal maneuver. The driver of V2 stated that she was stopped for the red light, and when it turned green she accelerated and did not see V1 until it was to late. She also stated that she steered to the right, but it was to late. The Critical Pre-crash Event coded for V2 is other vehicle encroachment (from crossing street, across path).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Stress/Emotion present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

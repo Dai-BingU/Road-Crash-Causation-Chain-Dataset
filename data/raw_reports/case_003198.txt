@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This crash occurred at a four-way intersection. The north and southbound lanes did not have traffic control devices, the east and west lanes had stop signs. The westbound lane was straight with a slight positive grade and a posted speed limit of 40 kmph (25 mph). The southbound lane had an uphill grade of greater than 3 percent and a posted speed limit of 56 kmph (35 mph). The point of impact was level. It was late afternoon on a weekday and traffic flow was moderate. Conditions were clear. V1 was a 2002 Buick Le Sabre, driven by a 73-year-old male. V2 was a 1998 Ford Ranger, driven by a 31-year-old male. V3 was a 2001 Chevrolet Silverado, driven by a 33-year-old male. V1 was stopped at a stop sign traveling westbound waiting to cross through the intersection. V1 began to pull through the intersection and was struck on the right side by V2, which was traveling southbound. V1 and V2 contacted each other a second time creating a side-slap hit. V1 was then pushed through the intersection and contacted V3, which was stopped at a stop sign facing eastbound. The Critical Pre-crash Event for V1 was "this vehicle traveling-crossing over (passing through) intersection." The Critical Reason for the Critical Pre-crash Event was "driver related factor, inadequate surveillance." The driver of V1 related that as he was stopped at the stop sign, a driver of a truck on his left that was traveling northbound waved him through the intersection. He assumed that it was clear to pass through and did not see V2 coming from his right. It should also be noted that there are several potential sightline obstructions on the right side of the roadway where the driver of V1 was stopped. When asked about the obstructions the driver stated that he did had a clear line of sight. It was believed that the driver of V1 did not look again to his right before pulling out. Associated factors coded to the driver of V1 included a false assumption and a sight restriction. The Critical Pre-crash Event for V2 was "other vehicle encroachment from crossing street across path." The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. No associated factors were coded to the driver of V2. V3 was not involved in the first harmful event. Therefore, no Critical Pre-crash Event or Critical Reason was coded to the driver of this vehicle. No associated factors were coded.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

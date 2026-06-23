@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash took place at a signal-controlled intersection of two roadways. The north/south roadway featured three dry, straight, and level undivided lanes with a posted speed limit of 40kmph (25 mph). The curved east/west roadway was divided by a grass median and featured three dry, level lanes on each side (and a left turn in the eastbound direction) with a posted speed limit of 56kmph (35 mph). Conditions were daylight with no adverse weather conditions at the time of the crash. V1, a 2003 Hyundai Sonata, was eastbound in lane two negotiating the curve right as it approached the intersection. V2, a 1999 Buick LeSabre, was stopped at the intersection facing north in lane two waiting to turn left. As V2 began its turn left its front left corner collided with the right front corner of V2. Both vehicles came to final rest facing northeast in the intersection. V1 was driven by a 20 year-old female who stated that she was on her way to drop off her child at a daycare facility before continuing on to nursing school before the crash occurred. The driver stated she had been looking at her child in the backseat as she approached the intersection and did not see the light change. She entered the intersection and collided with V2. Neither the driver nor the other occupant of V1 was injured, however V1 was towed due to damage. The Critical Precrash Event for this vehicle was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Reason was coded a driver related factor, a recognition error, internal distraction. In addition to the internal distraction an illegal maneuver was coded to this vehicle as an associated factor, as V1 violated a traffic control device. V2 was driven by a fifty year-old female who stated that she was on her way to drop off her child at school before continuing on to work. This driver stated that she had been stopped at the intersection two to three minutes before initiating her left turn. She entered the intersection when the light turned green where she was impacted by V1. None of the occupants of V1 were injured, however V2 was towed due to damage. The Critical Precrash Event for this vehicle was coded other vehicle encroachment, from crossing street, turning in opposite direction. The Critical Reason was not coded to this vehicle. Associated factors for this driver include possible inattention as the driver was conversing with her passenger, however she was not believed to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+Vehicle 2:  Decision, Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

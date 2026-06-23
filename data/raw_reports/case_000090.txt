@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This intersection type crash happened on a Saturday just past noon when the weather was clear and roadways were dry. Vehicle one (V1), a 1999 Infiniti I 30, was stopped in the second lane of a four lane (two way traffic) roadway with the intention to turn left at the intersection. V1 had a stop sign. At this point the roadway had a positive grade of 12% to merge with the cross street where vehicle two (V2) was traveling. V1 was heading south. V2, a 2002 Dodge Caravan, was traveling west in the second lane of a three lane (six lanes overall) divided (no positive barrier) roadway. The roadway has a slight downhill slope of 2.5%. A non-contact vehicle was also traveling west in lane one ahead of V2. This vehicle was a partial view obstruction. This vehicle turned right at the intersection. The speed limit for this section of the roadway is 64 kmph (40mph). At the intersection V1 was stopped for an extended period of time waiting for cross traffic to clear. The driver saw the non-contact vehicle intending to turn right at which time the driver checked traffic to her right and initiated the left turn. The front of V2 impacted the left front of V1. At impact, V2 was deflected to the left and the front struck the concrete base of a streetlight located on the west median of the roadway. At impact with the base, V2 initiated a counterclockwise rotation and the rear of the vehicle was elevated from the impact. During this rotation, the undercarriage behind the rear wheels passed over the trunk of V2 as it rotated clockwise from the initial impact with V2. V1 came to rest across lane 1 and lane two facing north. V2 came to rest facing south adjacent to the struck base. Both vehicles were towed from the scene. Both drivers (and three occupants in V2) were transported local hospitals. The driver of V1 is a 37-year-old female who drives the route daily and is familiar with the vehicle. A 10-year-old female was located in the left rear seat. The non-contact vehicle turning right from the main roadway limited the view of both drivers. This driver did not detect V2 prior to impact. She saw the non-contact vehicle making a right turn, then focused on traffic approaching from her right as she initiated the left turn from the stop sign. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason was coded to V1 as a driver recognition factor: inadequate surveillance (e.g. failed to look, looked but did not see). The driver of V2 is a 45-year-old female who was driving from her residence to lunch. She is familiar with the vehicle and drives the route daily. There were three other occupants in the vehicle. She was attentive to the driving task but the vehicle to her right was a view obstruction and she did not detect V1 in time to prevent the collision. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street-turning into opposite direction. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

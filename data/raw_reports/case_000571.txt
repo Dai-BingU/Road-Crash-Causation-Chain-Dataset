@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This Crash occurred in the afternoon on a weekday on a two lane asphalt roadway intersection. There was a downhill grade of -24.6%. The posted speed limit was 35MPH (56KMPH). Vehicle 1 was a 1998 Volkswagen Beetle driven by a 54 year old female. There were no other occupants. Vehicle 1 was trying to slow down and come to a stop at the intersection. The brakes failed to stop the vehicle and it went over a raised median on the left side, though the intersection, made 180 degree turn, and attempted to drive back toward the hill. The vehicle impacted a disconnected trailing unit legally parked on the shoulder. The vehicle came to rest under the trailing unit. The Critical Precrash Event was control loss due to disabling vehicle failure. The Critical Reason for the Critical Precrash Event was due to brakes failed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Disabling vehicle failure (e.g,  wheel fell off) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Brakes failed

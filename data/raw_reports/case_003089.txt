@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred early evening, on a two-way, three lane (six overall), divided roadway without a positive barrier. The posted speed limit is 56 kmph (35mph). Surface blacktop,dry. Crash involved three vehicles, two SUV's and one passenger car. There were no adverse weather conditions. V 1 a 2004 Toyota Corolla driven by a 17 year-old female with three passengers was southbound in the third travel lane. V 2 was a 2006 Jeep Liberty driven by a 37 year-old female with three passengers was stopped southbound in the third travel lane. V 3 a 1996 Chevrolet Suburban driven by a 32 year-old male with four passengers was stopped southbound in the third travel lane. V 2 and V 3 had stopped for traffic. V 1 was unable to come to a stop prior to striking the back of V 2 with it's front. V 2 then moved forward and it's front struck the back of V 3. All vehicles came to rest in the roadway facing north, V 1 was towed from the scene V 2 & V 3 were driven from the scene, there were no reported injuries. The pre-event movement for V 1 Going straight, category this vehicle traveling other vehicle stopped. Critical reason driver related factor "Internal distraction" Listening to radio plus three other teen-ages in vehicle. The pre-event movement for V 2 stopped in traffic, category other motor vehicle in lane, traveling in same direction with higher speed. Critical reason not coded to this vehicle. The pre-event movement for V 3 stopped in traffic lane, category other not involved first harmful event. Critical feason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of an undivided two-way roadway with two lanes in each direction. The roadway was straight and level and it was clear with no adverse conditions. It was dark but lighted and had a speed limit of 48 kmph (30mph). The crash occurred in the evening hours of a weekday. Vehicle #1 was a 2000 Jeep Grand Cherokee that was traveling eastbound in the right lane and attempting to make a U-turn. Vehicle #2 was a 2001 Nissan X-Terra that was traveling eastbound in the left lane. The front of Vehicle #2 impacted the left side of Vehicle # 1 as Vehicle #1 turned in front of it. This impact spun Vehicle #1 counter-clockwise and its right side impacted Vehicle #3, a parked and unoccupied BMW 325xi (Vehicle #3) on the left side. The Jeep Grand Cherokee (Vehicle #1) was driven by an 82-year old male who sustained minor injuries and was transported to a local medical facility. The Grand Cherokee was not towed due to damage. The Critical Pre-crash event for Vehicle #1 was coded: This vehicle traveling over the lane line on the left side of travel lane. The Critical Reason for the Critical event was coded as an illegal maneuver, a decision error. An associated factor coded to the driver was inadequate surveillance, as it was believed that he looked but did not see. All other associated factors for the driver of Vehicle #1 were all coded as unknown due to a lack of an interview. The Nissan X-Terra (Vehicle #2) was driven by a 29-year old male who did not sustain any injuries. He stated that he was going straight when Vehicle #1 darted out in front of him while attempting to make a U-turn. The driver of Vehicle #2 attempted to brake and steer right but could not avoid Vehicle #1. The X-Terra was towed due to damage. The Critical Pre-crash event was coded: Other vehicle encroaching into lane, from adjacent lane over the right lane line. The Critical Reason was not coded to the driver of Vehicle #2. He wore prescription eyeglasses that corrected a myopic condition. No other associated factors were coded to him. The driver of the X-Terra was not thought to have contributed to the crash. The BMW 325xi (Vehicle #3) was legally parked and unoccupied on the westbound parking lane of the roadway. The BMW was not towed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

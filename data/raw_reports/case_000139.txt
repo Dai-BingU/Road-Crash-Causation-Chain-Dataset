@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at night on a north/south, two lane, undivided, straight, level, bituminous, roadway with a posted speed limit of 40 kph (25 mph). Access to the roadway is not controlled. Parallel parking is allowed on both sides of the roadway in this residential area. At the time of the crash it was raining, the road was wet, and it was dark, but the road is illuminated with streetlights. Except for the rain, there were no adverse weather conditions, sight restrictions or road defects. Vehicle #1 (V1), a light blue 1992 Chevrolet K2500 Pickup, was traveling north in lane one. . Vehicle #2 (V2) a maroon 1990 Toyota Corolla 4 door was stopped in the parking lane to pick up the passenger. The driver, a 22 year-old male, accelerated in the parking lane and attempted to enter the northbound lane. As V2 entered the travel lane the front of V1 struck the left passenger side of V2. Both vehicles moved together as they crossed the centerline of the roadway and came to rest in the southbound lanes, facing northwest. V1 was towed due to damage, and V2 was left at the scene. The V1 driver, a 44 year-old male, was arrested on-scene for driving under the influence Driver related factors for V1 are all unknown, since no interview was obtained. The pre-event movement was coded: going straight. The critical pre-crash event was coded: other vehicle encroachment-from parking lane. The critical reason was not coded to this vehicle. The pre-event movement for V2 was coded: leaving a parking position. The critical pre-crash event was coded: this vehicle traveling-over the lane line on left side of the travel lane. The critical reason was coded inadequate surveillance (e.g., failed to look, looked but did not see). During the interview, the driver stated he did not see V1 prior to impact as he entered the northbound lane.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Roadway, Weather/Environment present problem 
+Vehicle 2:  Alcohol, Driver Inexperience, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Leaving a parking position
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From parking lane
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

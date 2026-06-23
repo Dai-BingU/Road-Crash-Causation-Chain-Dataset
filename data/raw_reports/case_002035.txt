@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the weekday morning hours at an intersection of two roadways. The north/south and the east/west roadways were two-way, two-lane, undivided roads. Both roads were dry, straight, level, and bituminous with posted speeds of 48 kmph (30 mph). The east/west road was controlled by a stop sign. Conditions were daylight and clear skies and traffic flow was normal. V1, a 1988 Ford Thunderbird, was eastbound while V2, a 2004 Scion XB, was southbound. Both vehicles were approaching the same intersection. As the two vehicles entered the intersection, the front of V1 made contact with the left side of V2. V2 rotated clockwise and rolled onto its left side. As V2 continued its rotation it rolled back onto its wheels and came to final rest. V1 was driven by a 26-year old female in good health on her way home from running an errand. She stated that she had gotten up that morning and immediately had to fill her roommate's car up with gas. She said she was only minutes from her apartment when the crash occurred. According to the driver, she did not see the stop sign because a palm tree branch covered it. She also indicated that the pavement markings were worn away. The driver also stated that her focus was on the intersection further up the road instead of the one she was about to enter. The driver was uninjured and her vehicle was left on scene. The Critical Precrash Event for V1 was coded as this vehicle traveling, passing through intersection. The Critical Reason for the Critical Event was a driver related factor, inadequate surveillance as the driver was focused on an intersection further down the road and did not see the stop sign (while partially obscured still very visible). There were several associated factors for this driver including an external focus, inadequate surveillance (failing to look to either side), an illegal maneuver (failing to stop), and emotional factors (the driver's thoughts were focused on a family concern). The driver was also sleepy, unfamiliar with the area in which she was driving, and was in a hurry to get back to her apartment with the vehicle so that her roommate would not be late for work. In addition, there was a roadway related problem; the stop-line pavement markings were worn and the stop sign was partially obscured. V2 was driven by a 42-year old male in good health who was commuting to work with a friend. He stated this was a route that he takes almost every day and he was going about 30-35 mph (48-56 kmph). As he got to the intersection, he could see that the other car was not going to stop. Since he was almost through the intersection, he tried to accelerate to avoid V1. He got hit just behind the right rear wheel. His car spun out and rolled over. The driver and passenger of V2 were transported due to minor injuries and V2 was towed due to damage. The Critical Precrash Event for V2 was coded as other vehicle encroachment, from crossing street, across path. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors for this driver and he was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Inexperience, Driver Stress/Emotion, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

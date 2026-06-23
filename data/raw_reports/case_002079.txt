@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in lane one of the westbound lane of four-lane non-divided roadway with a two-way left turn lane. There were two westbound lanes and one eastbound lane with the two-way left turn lane in the middle, the roadway is straight, level, bituminous with a posted speed limit of 56 kmh (35 mph). Both V1 and V2 were turning into a two-way, two-lane driveway to a gas station on the corner. Conditions at the time of the weekend, evening crash were dusk, unlighted, clear and dry. V1, a 1995 Ford Escort LX 2 door sedan driven by an 18 year-old female on her way from home to the gas station, was eastbound on the road. The driver stated that she pulled into lane two (the left turn only lane), and stopped waiting for approximately six seconds. The driver looked and saw that it was clear, and looked left at her intended turn destination. The driver of V1accelerated from the stop and began to turn left. The front of V2 struck the right side of V1 in lane one of the westbound lanes. V1 rotated counterclockwise after the impact and came to rest partially in lane one and the driveway, facing north. V1 was towed from the scene due to damage. The fully restrained driver and passengers refused medical treatment at the scene. A 19 year-old female was in the front right, and a four year-old female was in the second row, center seat. V2, a 1998 Honda Civic EX driven by a 38 year-old male, turned right (westbound) from a side street onto the five-lane road. The driver was borrowing his sister's car and was driving from her home to the gas station. The driver stated that he had his headlights and right turn signal on, was looking right at his intended turn destination, and was about to turn right into the gas station driveway when V1 turned right in front of him. V2 rotated clockwise after impact and came to rest in lane one facing north. V2 was towed from the scene due to damage. The fully restrained driver refused treatment at the scene. The Critical Precrash Event coded to the driver of V1 was 'this vehicle turning left at intersection (driveway)'. The Critical Reason coded to this driver was a 'driver related factor-recognition error-inadequate surveillance'. The driver initially looked, and then failed to check ahead again, and failed to see V2 which turned onto the road from the nearby corner. An associated factor was coded for the driver's partial hearing loss. The Critical Precrash Event coded to the driver of V2 was 'other vehicle encroachment from opposite direction-over left lane line'. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekday morning on a three lane undivided roadway with a posted speed limit of 72kmph (45 mph). The bituminous roadway was straight and level. There were no adverse atmospheric conditions at the time of the crash. V1, a 2001 Volvo S40, was stopped in traffic eastbound on the roadway. V2, a 2001 Ford Focus, was stopped in traffic behind V1. V3, a 2003 Saturn Vue, was traveling behind V2 approaching the stopped traffic. V3 failed to stop and impacted the rear of V2, pushing V2 into the rear of V1. All three vehicles came to rest facing east, their original travel direction and remained in their original travel lane. All three vehicles were towed due to damage. V1 was driven by a belted 55 year-old male who was treated at the scene for a possible injury. The driver was in good health and wearing his prescription lenses that corrected a myopic (near-sighted) condition. This driver stated he did not see any part of the crash; he was at a stop waiting for the traffic in front of him to proceed. The Critical Precrash Event for V1 was coded other, not involved in first harmful event. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. There were no associated factors coded to V1 and it was not thought to have contributed to the crash. V2 was driven by a belted 58 year-old male who was not injured. He claimed to be in good health despite a history of high blood pressure and diabetes for which he takes medication. The driver was also wearing his prescription lenses that corrected a myopic (near-sighted) condition. This driver stated he was waiting for traffic to move and did not see V3 before it hit him. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. A Critical Reason for the Critical Precrash Event was not coded to this vehicle. There were no associated factors coded to V2 and it was not thought to have contributed to the crash. V3 was driven by a belted 53 year-old male who was not injured. This driver stated he had been looking at his radio while decelerating and had not realized traffic in front of him had stopped. This driver also stated he had had an argument with his wife that morning. His work/sleep schedule does rotate and he is self-employed working 50 to 60 hours weekly. This driver also stated he does heavy exercise workouts at the gym twice a week for about an hour each time. The Critical Precrash Event for V3 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Precrash Event was coded as a driver related factor, a recognition error, inadequate surveillance (e.g. failed to look, looked but did not see). Associated factors for this crash include driver inattention, as his thought focus was not on the task at hand as well as inadequate surveillance. The driver was also following too closely.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Driver Stress/Emotion, Drugs present problem 
+Vehicle 3:  Distraction, Driver Physical, Driver Stress/Emotion, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other- Not involved first harmful event
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

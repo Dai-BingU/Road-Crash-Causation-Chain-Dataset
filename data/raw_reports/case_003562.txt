@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred when a light vehicle attempted a left turn from a driveway during early lunch hour commute traffic and was struck on the left side by another light vehicle. No adverse weather conditions at the time of crash, which was shortly before noon during daylight hours. Concrete roadway for both vehicles was dry. Pre-impact east roadway has a +3% slope that levels off at point of impact. The posted speed limit is 64 kmph (40 mph). Vehicle one (V1), a 2000 2-door Quad Cab Dodge Ram 4x4 pickup, driven by a 47 year-old male with one passenger was traveling west in lane two slightly behind and to the left of a large yellow box truck in lane one. Vehicle two (V2), a 2-door 1999 Chevrolet Silverado 4x4 pickup, driven bt a 34 year-old male with one passenger had been stopped in driveway waiting to turn left into the eastbound traffic lanes. V2 proceeded across westbound lanes when it appeared that traffic was clear. Both drivers stated that each did not gain sight of each others vehicle until the last second due to a larger truck traveling ahead of V1 in lane one. V1 reacted to impending collision by locking up brakes and skidding longitudinally approximately 17 meters (56 feet). The front of V1 struck the left side of V2 as it was crossing the roadway. The impact forced V2 into a 90-degree counterclockwise yaw. V2 came to rest in lane 2 of eastbound traffic. V1 came to rest facing west in the center median lane of the roadway. V1 was towed from the scene due to damage. The driver of V1 is a 47 year-old male who possesses a valid driver's license with no restrictions or endorsements. He drives the route daily and is familiar with the vehicle that he stated was in good condition. He had 6.5 hours of sleep the night before, was in good health, was not in a hurry and claimed to be rested when he started this portion of the trip. He was talking to his passenger but was attentive to the driving task. He basically was shadowing a large yellow box truck that was to his right in lane one and slightly ahead of his vehicle. He saw V2 too late to avoid the crash although he braked and steered left. The critical pre-crash event for V1 was coded: other vehicle encroachment; from driveway, turning in opposite direction. The critical reason was not coded to this vehicle. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V2 as a driver related factor: turned with obstructed view.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Roadway present problem 
+Vehicle 2:  Decision, Distraction, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Turned with obstructed view

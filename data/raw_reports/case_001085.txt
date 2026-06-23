@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle rear end type crash occurred in the number one lane of three-lane, north/south, dry bituminous asphalt roadway. The roadway has one southbound and one northbound lane separated by a continuous left turn lane. The crash occurred just before noon in daylight hours. The speed limit on the roadway where the crash occurred is posted 56 kmph (35 mph). There were no environmental factors that contributed to this crash. There were no sight line restrictions or obstructions noted at the scene. Vehicle one (V1), a 2005 Ford F-150 pickup (V1), was traveling southbound in the number one lane at approximately 56 kmph (35 mph) when the V1 driver, a 45 year old male, looked to his left down a cross street at another truck similar to the one he was driving at the time. The front of V1 struck the rear of V2. V1 was then driven from final rest. There were no injuries reported by the V1 driver at the scene. V1 was driven from the crash scene. Vehicle two (V2), a 2004 Chevrolet Aveo 4-door sedan (V2), was traveling southbound in the number one southbound lane when the driver apparently slowed down for a vehicle in front of her that was slowing to make a right turn into a neighborhood in the area. The rear of V2 was struck by the front of V1. The vehicle then came to rest in an unmarked area of the number one southbound lane. The driver of V2, a 29 year-old female, was transported from the scene by EMS where she complained of pain to her neck and back pain. V2 was towed from the scene due to damage. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction while decelerating. The critical reason was coded as a driver recognition factor: external distraction. The V1 driver was looking to his left down a cross street at another pickup similar to the one he was driving which took his focus off the actions of the vehicles on front of him. The critical pre-crash event for V2 was coded: other motor vehicle in lane-traveling in same direction with higher speed. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred around noontime on a four-lane expressway, with clear weather conditions. The expressway originally consisted of five lanes, however lane one, an exit/entrance ramp was closed with appropriate traffic barriers at the time of the crash. The road surface is bituminous asphalt, is straight and level with concrete barriers on both sides. The speed limit is 89 kmph (55 mph) and there are no noted deficiencies. There was traffic congestion at the time. Vehicle two, a 1998 Ford CBE tractor-trailer with one occupant, was traveling eastbound in the first travel lane. The vehicle was traveling at a slow speed, driver estimated speed of 10 mph, with the intention of exiting the expressway. Vehicle one, a 2002 Cadillac Escalade with two occupants, was also traveling eastbound in the second travel lane. Vehicle one departed the travel lane to the right and the right side of vehicle one struck the left side of the trailer on vehicle two. Both vehicles came to rest together and were later moved to the right shoulder edge. Vehicle one was towed from the scene; vehicle two was driven. There were no injuries as a result of the crash. The driver of vehicle one stated he was traveling between 72-80 kmph (45-50 mph); when he was attempting to pass some food to the passenger who was sitting in the third row. This internal distraction caused vehicle one to veer to the right. The driver is familiar with the vehicle and drives the route several times a month. The driver of vehicle two stated that he was traveling at 16 kmph (10 mph) attempting to enter the ramp when he heard a crash sound and saw that vehicle one had hit the left side of his trailer. The critical pre-crash event for vehicle one is this vehicle traveling over the lane line on right side of travel lane. The critical pre-crash reason for vehicle one is internal distraction. The critical pre-crash event for vehicle two is other vehicle encroachment from the same direction over the left lane line. The critical pre-crash reason is not coded to vehicle two.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Traffic present problem 
+Vehicle 2:  Driver Inexperience, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

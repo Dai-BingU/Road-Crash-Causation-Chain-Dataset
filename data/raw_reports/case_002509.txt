@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the southbound lane of a 4 lane undivided roadway. There are two southbound and two northbound lanes. This was a straight, less than 2% downgrade concrete roadway with a posted speed of 48 kmph (30 mph). It was mid-afternoon on a weekday the road was dry the sky clear. with normal traffic flow. Vehicle one (V1), a 2004 Suzuki GSX 1300 Motorcycle, was traveling south in the second lane, Vehicle two (V2), a 1981 Cadillac Fleetwood, was traveling south in the second lane. At the apartment entrance, V2 stopped to allow traffic to pass on right before attempting to turn right crossing lane one into the apartment complex entrance drive. V1 changed lanes into lane one applied and locked the brakes. V1 skidded approximately 20.2 meters (65.5 feet) The motorcycle rotated clockwise and rolled over onto its left side. With the gas tank area sliding into the right rear of V2. V2 rotated clockwise and came to rest partially on the roadway and partially in the apartment complex entrance. V1, the Suzuki Motorcycle, was driven by a 38-year old male who was transported to a medical facility and was pronounced dead on arrival. The driver was coming from work traveling to home. V2 was driven by a 28-year old male who had just picked his children up from school and was going home. V2 was going straight in the second lane and had stopped to let traffic pass on the right then proceeded to make right turn crossing over lane one into the apartment complex driveway. The critical pre crash event for V2 was coded: other, not involved in first harmful event. The critical reason for the critical event was not coded to V2 since it was not involved in the first harmful event. Associative factors for this driver was: inadequate surveillance (e.g., failed to look, looked but did not see). This driver looked and waited for traffic. At least two non-contact vehicle's passed on right in number one lane, but he did not see the motorcycle (V1) at any time prior to turning right. He also attempted a right turn from the wrong travel lane (the number two lane) an illegal maneuver. The critical pre-crash event for V1 was coded: other motor vehicle encroachment, from adjacent lane (same direction) - over left lane line. The critical reason was coded to V1 as a driver related factor: too fast to be able to respond to unexpected actions of others (specified as: V2 made in illegal right turn in front of V1 causing the driver of V1 to lay down his bike prior to impact with V2.).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance, Traffic present problem 
+Vehicle 2:  Decision, Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Turning right
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

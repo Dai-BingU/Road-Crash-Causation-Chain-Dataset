@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This one-vehicle crash occurred in the afternoon hours just south of an intersection. The roadway is comprised of a two-lane asphalt undivided road in the east/west directions. To the north and south of the intersection was a southbound, one-lane, one-way road. On the north side of the intersection, there is a stop sign for the southbound traffic. Just north of the sign is a large shrub. The speed limit on both roads was 56 kmph (35 mph). Vehicle one,(V1) a 2004 Pontiac Sunfire coupe driven by a 31 year-old female with one passenger was traveling eastbound in the first lane. A non-contact vehicle, a 1991 Nissan Maxima just north of the intersection, was stopped at the stop sign, waiting to proceed straight ahead. The driver of V1 stated that the Nissan entered the intersection in front of her and she swerved to the right then applied the brakes. V1 departed the roadway to the right, near the southeast corner of the intersection. The vehicle drove over the curb, onto a sidewalk and the front of V1 contacted an iron fence. The vehicle came to rest against the fence, facing generally southeast. The driver was not injured according to the police report and she was not transported to a medical facility. The other occupant, not mentioned on the police report, was her young daughter. She was not injured or transported. The vehicle was towed due to damage. The driver of V1 had been driving for approximately 9 years. She was familiar with the roadway, traveling this area nearly everyday. The night prior to the crash, she received six and a half hours of sleep, but indicated that she normally receives approximately 6 hrs of sleep per night, and works approximately 8 hours a day, so fatigue is not likely a factor. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the left side. The critical reason for the critical event was coded as a driver related factor: poor directional control, due to insufficient steering and braking. The driver stated she was afraid to brake hard because of daughter in rear seat.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

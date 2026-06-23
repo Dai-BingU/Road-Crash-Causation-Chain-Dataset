@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a rural north/south two-lane roadway. The road was straight with a slight positive grade of 2% in the northbound direction. Off both sides of the road were drainage ditches. Conditions were dark and dry on a weekday evening. The posted speed limit was 72kmph (45mph). V1, a 1983 Oldsmobile Cutlass, was northbound on the roadway. The driver apparently fell asleep and edged off the right (east) side of the road. The ditch at road departure had a negative 62% grade. The car traveled 40m along the right ditch line prior to striking a culvert with its undercarriage. V1 than traveled over a driveway for a few meters before driving back into the ditch and contacting a utility pole with its front. V1 was towed due to severe damage. V1 was driven by a 47-year old male that was not belted. The vehicle was not equipped with airbags. He suffered minor injuries in the crash but was not transported to a medical facility. He stated that although he was working his normal schedule and had gotten plenty of sleep in the preceding days he fell asleep on his way home from work. The driver takes an aspirin every day for preventative heart measures. The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road on the right side. The Critical Reason for the Critical Event was coded as a driver related factor, a nonperformance error, as the driver fell asleep. The only associated factor was fatigue.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 1996 Ford Thunderbird, was westbound in lane 1 of a 2 lane, 2 way, straight, level, bituminous roadway. V2, a 2005 Lincoln LS 4dr, was also westbound in lane 1 of the same roadway following a non-contact vehicle that was traveling approximately 10mph under the speed limit. At the time of the crash, it was dark and there were no adverse conditions. V2, who was about 1.5 car lengths behind the non-contact vehicle, started to pass it on the left, activating his left turn signal as he did so. V1, approaching the rear of v2 from about 100 hundred yards back and going 10 to 15mph faster than v2, steered left to pass v2. V1 had overtaken v2 and had left lane 1 and was in lane 2 when the driver of v1 noticed v2 moving into lane 2 its left blinker activated. V1, right, contacted v2, left in a sideswipe type crash. V1 steered left, braked, partially exited the roadway (onto the shoulder) to the left, re-entered the roadway, spun 270 degrees clockwise and struck a streetlight pole on the north side of the roadway with v1's right side. V1 continued to rotate clockwise 90 coming to rest facing west just off the roadway to the north. V2 continued west and came to rest on the north edge of the roadway, as did the non-contact vehicle. No one was injured in the crash. V1 was towed due to damage. A complete driver interview and vehicle inspection was obtained for v1. The driver was found to be driving on a suspended license, was fatigued and had just worked 9.5 hours. He was familiar with the vehicle and drove the roadway daily. The driver also tested positive for alcohol when given a PBT test at the scene. The Pre-event movement of v1 was passing or overtaking another vehicle, the Critical pre-crash event was Other motor vehicle in lane traveling in same direction with lower steady speed and the Critical reason for critical pre-crash event was the decision error by this driver going too fast to be able to respond to unexpected actions of others. Some related factors include his fatigue, failure to look far enough ahead, false assumption of other road user's actions, aggressive driving habits and emotional concerns with his employer. A complete driver interview and vehicle inspection was obtained for v2. The driver was familiar with both the vehicle and the roadway. The pre-event movement of v2 was going straight, the Critical pre-crash event was traveling in same direction with higher speed and the Critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Alcohol, Decision, Driver Fatigue, Driver Stress/Emotion, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

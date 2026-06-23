@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on the westbound side of a two-lane, undivided, uphill roadway that curved sharply to the left. The curve of this roadway had a radius of 251-meters (823-feet) and a super elevation of -4 cm/122 cm (-3.3%). This bituminous roadway has a posted speed limit of 56 kmph (35 mph). This roadway intersected with a two-lane, downhill, straight, undivided north/south roadway with no center stripe. This intersection was controlled by a stop sign. It was late morning on a weekend and the road was dry and the sky was clear. Traffic flow was light. Vehicle one (V1), a 1993 Lincoln Town Car was traveling westbound with one occupant in lane one. V1 departed the roadway to the right. As V1 departed the roadway the right side of V1 struck a mailbox. V1 continued off of the roadway for another 80-meters (262-feet) before the wheels & undercarriage of the vehicle struck a ditch. This caused the vehicle to rollover leading with its right side. V1 rolled three quarter turns for a distance of approximately 25-meters (82-feet). While rolling over, V1 struck a stop sign. A 33-year-old male was driving this vehicle. The surrogate interview indicated that the driver of V1 was under significant stress during the days prior to the crash. The driver departed his home on the day prior to the crash and had not returned since. The surrogate also advised that she was confident that he had not slept at all during the evening prior to the crash. She also stated that the driver's girlfriend had recently broken off their relationship. After the driver was taken to the hospital, his BAC was tested to be at 0.147. The critical event for this crash is coded as this vehicle traveling; off the edge of the roadway on the right side. The critical reason for the critical event is coded as too fast for curve or turn.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Alcohol, Driver Fatigue, Driver Performance, Driver Stress/Emotion, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

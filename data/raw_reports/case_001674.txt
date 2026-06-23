@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west two lane rural residential roadway. There was also a two-lane road controlled by a stop sign that intersected from the south. Westbound the road curved slightly to the right (north) with a radius of curvature of 803m as it approached the intersection at a downhill grade of 4%. Conditions were daylight and wet with light rain falling. The speed limit was 40mph (64kmph). Vehicle #1 was a 1993 Saturn SL2 traveling westbound on the two-lane road. As it approached the intersection, a non-contact vehicle began to turn left from the intersecting side street. The non-contact vehicle's driver apparently saw Vehicle #1 approaching and stopped partially out into the eastbound lane. Vehicle #1 braked with lockup and lost control, sliding off the right side of the road and striking a tree with its front. It was towed due to damage. Vehicle #1 was driven by a 36-year-old female that was belted with deployed airbags. She was treated and released from an area hospital with minor injuries. She assumed that the non-contact vehicle was going to continue the left turn, which caused her to take avoidance actions. Had she remained in the westbound lane there would have been sufficient space to pass by the other vehicle. The Critical Precrash Event was this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was a Decision error, incorrect evasive action. Associated factors coded included decision errors and traveling too fast for conditions, reason unknown. A performance error, overcompensation was also coded along with wet roads and rain. The driver also wears contacts for a nearsighted condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

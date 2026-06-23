@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a five-lane residential roadway with a two-way center turn lane. There were two eastbound and two westbound lanes. The roadway had a posted speed limit of 56 kmph (35 mph) and an uphill grade of 2 percent. Conditions were daylight with clear skies. The crash occurred in the early afternoon hours of a weekday. Vehicle one was a 2002 Chevrolet Malibu sedan. Vehicle two was a 2000 Ford Utilimaster postal van. V1 was traveling eastbound in the first lane. V2 was delivering mail to mailboxes along the roadway in the first lane ahead of V1. V2 had just completed a mailbox delivery and had started forward towards the next mailbox. The driver of V1 looked down for a moment or two and when she looked up, she realized a rear-end crash was imminent and steered left. The front right corner of V1 struck the rear left corner of V2. V1 came to rest in the roadway. V2 was pushed partially onto the curb. V1 was driven by a 50-year old female who was transported to a local hospital for non-incapacitating injuries. She stated to the researcher that sun glare had blinded her prior to impact. She estimated her speed to be 35-40 mph at impact. V1 was towed due to damage. The Critical Precrash Event for V1 was the presence of V2 in the same lane traveling in the same direction with a low steady speed. The Critical Reason for the Critical Event was coded as an internal distraction, a recognition error. Although the driver of V1 explained the crash as being due to sun glare, she reported to the investigating officer that she looked down prior to realizing a crash was about to occur. Due to the time of day (early afternoon), it was decided that the version on the police report was more credible. Associated factors include fatigue, other physical factors such as diabetes, high blood pressure, and high cholesterol, along with prescribed medications for these conditions. V2 was driven by a 33-year old female who was transported to a local hospital for non-incapacitating injuries. She stated the she was delivering mail on her route and had just begun to initiate her move to the next mailbox. She was struck on the rear left and pushed towards the right onto the curb. She estimated her speed to be about 2 mph. V2 was not towed due to damage. The Critical Precrash Event for V2 was the other vehicle traveling in the same direction with a higher speed. The Critical Reason was not coded to the driver of V2. An associated factor is the inherent occupational risk of performing a mail delivery route. Specifically, the postal worker must drive at speeds well below the speed limit on busy, urban roadways.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Physical, Drugs present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

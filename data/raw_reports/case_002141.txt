@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in middle of an intersection between a 3-lane, north/south, straight, level, and bituminous roadway and a driveway to a mobile home park. The exit from the mobile home park was controlled by a stop sign. The north/south roadway described above had no traffic controls. At the time of the early evening, weekday crash, the roadway was wet, but there were no adverse weather conditions and the intersection was dark. The posted speed limit was 80 kmph (50 mph). V1, a 1990 Ford E-250 van solely occupied by the 18 year-old male driver, was eastbound exiting the trailer park. V2, a 1992 Ford occupied by the 17 year-old female driver and a 16 year-old female passenger, were southbound in lane 2 of the roadway described above. V1 failed to completely stop for the stop sign and began a left turn when the front of V2 struck his left back. V1 rotated counterclockwise and came to rest on the northbound shoulder facing northwest. V2 rotated counterclockwise and came to rest in lane 2 of the southbound lanes facing northeast. Both vehicles were towed from the scene. The driver of V1 stated that he came to the intersection, looked right and left then rolled through the stop. He then realized that traffic was coming from his right. He tried to stop but then realized that V2 was coming from his left so he tried to accelerate out of the way but could not. He stated that he had just finished playing basketball and given a friend a ride home that lives in the trailer park. He said he was tired from playing basketball and just wanted to get home. He was uninjured in the crash. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason was coded as inadequate surveillance (looked but did not see). Some associated factors for V1 include the driver's disregard of the stop sign (illegal maneuver), his hurry to get home and the wet condition of the roadway. The driver was also thinking about a personal problem resulting from an argument in the 6 hours preceding the crash and he was unfamiliar with the roadway. The driver of V2 stated that she and her friend had just left home to visit her boyfriend on a familiar roadway when the crash occurred. She said she was traveling about 72 kmph (45 mph) when she saw V1 approaching the intersection. She said that V1 did not stop before entering the intersection like she thought it would. She attempted to stop but could not. She did not have enough time to try to steer left or right. The passenger was transported for treatment of a minor injury. The Critical Precrash Event for V2 was coded other vehicle encroachment from driveway, turning into opposite direction. The Critical Reason was not coded to this vehicle. Contributing factors include the driver's assumption that V1 would stop before entering the intersection and the wet condition of the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Inexperience, Driver Stress/Emotion, Roadway, Surveillance present problem 
+Vehicle 2:  Decision, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

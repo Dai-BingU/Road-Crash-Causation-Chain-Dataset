@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash involved a single vehicle that rolled over on a two way, two lane, divided asphalt roadway. It occurred early evening hours; there were no roadway deficiencies and no sight line restrictions noted. The roadway was dark with no overhead lightning and there is a depressed dirt median separating the westbound and eastbound lanes. There were no adverse weather conditions and the weather was clear. The speed limit is posted 121 kph (75 MPH).. Vehicle one (V-1) a 1994 GMC Sierra pickup, driven by a 61 year-old male with one passenger was traveling westbound in lane one at approximately 112 kph (70 MPH) when the left rear tire tread began to separate from the tire. This caused the vehicle to rotate counterclockwise and skid laterally across the number two lane in a southwesterly direction. The vehicle continued to skid laterally down the depressed median. The right side tires of the vehicle furrowed into the soft dirt causing the vehicle to trip and rotate around it's longitudinal axis for 4-quarter turns before entering the eastbound lanes. The vehicle then rotated approximately 2 more quarter turns before coming to rest on it's top in the number one eastbound lane facing in a southeasterly direction. The tread on the left rear tire was not present; the right side tires were deflated. The left front tire was inflated. The vehicle was towed due to damage. The pre event movement for V-1 was coded "going straight". The critical pre event movement was coded "this vehicle loss of control due to- non-disabling vehicle problem (tire separation)". The critical reason for the critical event was coded "tires/wheels failed".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Non-disabling vehicle problem (e.g., hood flew up) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Tires/wheels failed

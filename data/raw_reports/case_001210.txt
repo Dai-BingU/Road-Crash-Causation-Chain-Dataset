@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This 2-vehicle rear-end crash occurred in lane two of a 3-lane divided highway. The roadway was straight, flat, and had a posted speed limit of 72 kmph (45 mph). The weather conditions were clear, dry, daylight. V1, a 1998 Jeep Grand Cherokee, and V2, a 2000 Ford Mustang, were both traveling south in lane two. V2 was driving ahead of V1 and was traveling at very slow pace while trying to change lanes. V1 failed to avoid to a collision and struck the back of V2. Both vehicles were towed due to damage. V1 was driven by a 67-year old male that had not worked in four months because of an injury he suffered to his rotator cuff. For this trip today, he was driving downtown to complete an errand when a "disabled vehicle (V2) suddenly appeared in his lane" and he struck the back of it. He stated he was traveling south in the center lane of this 3-lane highway when a non-contact vehicle that was immediately ahead of him swerved into another lane. As soon as that vehicle swerved, this driver discovered there was a stopped car (V2) in his lane. He said the "hidden car" appeared so quick there was no time to avoid it. He thinks he might have hit the brake pedal before colliding with the car but says there was nowhere to turn. He was shaken-up from the crash but he was not injured. The Critical Pre-crash Event for V1 was coded: other vehicle in lane traveling in same direction with lower steady speed. The Critical Reason for the Critical Pre-crash Event was coded: following too closely to respond to unexpected actions. Associated factors coded to this driver were a rotator cuff injury and a sight restriction in the form of the non-contact vehicle that was initially in front of V1. V2 was driven by a 43-year old male and full-time car salesperson. His brother owned a car dealership and his cousin owned a body repair shop. This driver's task today was to pick up a car from the body shop and deliver it to a customer at the dealership. The total distance between the body shop and dealership was less than 8 miles. While driving south in lane 2 of this 3-lane highway, this driver attempted to merge into lane one so that he could exit the next roadway. He said he slowed down to less than 10 miles per hour and waited for traffic in the right lane to clear. He claimed, "something was wrong with the car" because it would not accelerate, so he put on his hazard lights and tried to get off the roadway. As he slowly moved south in lane two, V1 struck the back of his car. This driver declined treatment at the scene but later drove himself to a local trauma center for a minor injury. The researcher spoke with this driver's brother and cousin after leaving the scene and they both reported there was no mechanical problem with V2. The owner of the car had brought the vehicle in for body damage service on the rear bumper and this driver only had to drive it back to the customer. The Critical Pre-crash Event for V2 was coded: other vehicle in lane traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. Associated factors coded to this driver include this driver traveling too slow for the traffic stream and this being his first time driving this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs, Roadway present problem 
+Vehicle 2:  Decision, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

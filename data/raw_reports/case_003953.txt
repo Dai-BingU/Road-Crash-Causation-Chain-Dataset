@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a residential road that ran north/south, was two-way, two-lane, was curved left/east (if southbound) with a radius of 167.3m, and was super-elevated to 2.8%. The lanes were 2.9 meters wide and there were no shoulders. The conditions at the time of the crash were dark and unlit with light rain on a holiday weeknight. The speed limit was 48kph/30mph. The roadway was bordered on either side by homes with trees, mailboxes, etc. V1 was a 1995 Honda Accord that was traveling south on the road when it departed the right side and struck a mailbox with its left side (rotating clockwise), then struck a tree (approximately 92cm diameter) with its left side (just aft of the B-pillar) then rotated 180 degrees and came to rest facing northeast approximately 4 meters southwest of the impacted tree. V1 was towed from the scene. V1 was driven by a belted-twenty-two-year-old-female who was listed with possible injuries according to the police report but was still hospitalized due to her injuries 2 weeks post crash. An interview could not be obtained. The critical precrash event for V1 was this vehicle traveling off the edge of the road on the right side. The critical reason was coded as too fast for conditions based on vehicle damage and the scene inspection. Almost everything else was coded as unknown. Narrow road without shoulders was captured in the coding of the contributing factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :

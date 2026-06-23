@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on a secondary arterial road that was a two-way road divided by a raised (curb height) concrete median. The road ran north/south and had two southbound travel lanes and two northbound travel lanes with a third northbound left turn lane that gave access to a westbound interstate onramp that intersected from the west. The road was straight and level with a posted speed limit of 56kph (35mph). Directly east of the ramp side of the intersection the arterial road was intersected by an access road that was westbound traffic only. Conditions at the time of the crash were dark and lit on a weekday late in the evening. Vehicle #1 was a 1998 Buick LeSabre that was in the northbound left turn lane negotiating a left turn onto the westbound interstate ramp when it was struck on the right side by Vehicle #2, a 2002 Toyota Camry that was traveling southbound on the arterial road. It was in the left travel lane when Vehicle#1 began to cross its path and swerved right into the right travel lane where it contacted Vehicle #1 in the intersection. Both Vehicles came to rest facing west at the southwest corner of the intersection. Both vehicles were towed due to damage. Vehicle #1, was driven by a seventy eight year old female who was belted and the beneficiary of deployed frontal airbags. She was uninjured in the crash as were her two restrained occupants. The driver claimed she had a green arrow but this was considered inaccurate. The Critical Precrash Event for Vehicle #1 was this vehicle traveling turning left at intersection. The Critical Reason was coded as misjudgment of gap and distance. The driver claimed she couldn't see it (V2) coming but changed that to say it was coming too fast. The driver was conversing with her two passengers when she initiated her turn and had some emotional factors as they were returning home from viewing the body of a friend who had just recently passed on. Vehicle #2, was driven by a forty nine year old belted female whose airbags did not deploy in the crash. She was uninjured. She had just borrowed the car from a family member and was driving it home at the time of the crash. The critical precrash event for Vehicle #2 was other vehicle encroachment across the left lane line. The critical reason was not coded to this vehicle. This driver was coded with a false assumption as she expected Vehicle #1 to yield and wait for her to clear the intersection before proceeding. She drives the borrowed Vehicle #2 every now and then so she was familiar with it.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

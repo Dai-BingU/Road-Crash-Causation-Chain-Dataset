@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lane of a two-way, two-lane rural roadway just west of a three-legged intersection. The roadway had a posted speed limit of 72 kmph (45 mph) and the northbound lane had a 3% uphill grade. The westbound roadway had a 2% uphill grade. Conditions were dark and dry with clear skies. The setting was early evening hours on a weekday. Vehicle one was a 2001 Ford Explorer compact utility traveling north in lane two. Lane two is a left turn lane approaching a three-legged intersection with a westbound roadway. V1 turned left and then traveled off the right side of the westbound roadway. The driver braked and steered left, causing the vehicle to re-enter the roadway suddenly. V1 lost control and then rolled left 5 quarter turns, coming to rest on its left side in the roadway. The Ford Explorer was driven by a 17-year old male who was transported to a local trauma center with non-incapacitating injuries. He stated that he was heading home from his girlfriend's house in a vehicle he had borrowed without asking. He acknowledged that this was his first time driving this vehicle and that he did not have a driver's license. This driver said that before he turned left onto the side road, another vehicle was driving erratically next to him, causing the control loss. This could not be verified by myself or the investigating officer. The driver said he braked and steered left to avoid crashing into the ditch, and then rolled over more than once. He estimated his travel and impact speeds to be 35 mph. The Critical Precrash Event for v1 was this vehicle traveling off the edge of the road on the right side. The Critical Reason was a performance error of overcompensation. The driver was 17 years old, didn't have a driver's license, and was driving this vehicle for the first time.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

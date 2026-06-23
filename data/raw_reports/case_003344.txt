@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a five lane, undivided east-west bound highway that is intersected by a four lane north-south bound road. The highway has two travel lanes and a left turn lane in each direction. The intersection itself is straight, however the highway curves slightly to the north about 50m east of the intersection. The intersection is controlled by traffic signals without pedestrian controls with a posted speed of 72 kmph (45mph). The crash occurred on a weekday afternoon under cloudy skies. There had been intermittent rains. V1, a 2000 GMC Jimmy four door SUV with one occupant stopped in the eastbound left turn lane intending to turn left to the northbound lanes. V2, a 2001 Lincoln Continental four door with one occupant was traveling westbound in lane two intending to go straight through the intersection. After stopping, V1 turned left into the path of V2. V2 entered the intersection and was struck by V1's front left on the left side. After impact V1 completed the turn and came to rest facing north near the curb of lane one of the northbound road. V2 veered to the right and came to rest facing west at curbside of lane one of the westbound road. Both vehicles were towed from the scene. V1 was driven by a 64-year old female who was transported to a local hospital by POV with non-incapacitating injuries. The driver reported that she was on her way to work from home. She advised that when she approached the intersection in the left turn lane she stopped for about two seconds and saw that she had a green left turn arrow. The driver commenced her turn and claimed that she never saw V2 prior to striking it The Critical Pre-crash Event for V1 was "this vehicle traveling turning left at intersection". The Critical Reason for the Critical Event was coded driver related "inadequate surveillance failed to look, looked but did not see". The driver admitted that she never saw V2 and claimed that she had a protected left turn arrow. The researcher and police believe that in fact the driver saw and turned left on a green light (not a protected left turn arrow) without yielding the right of way to V2, which also had a green light. Associated factors assigned to V1 included driver behavior, recognition, failure to look far enough ahead; driver physical health because the driver had a bad heart, bad back and diabetes and was taking numerous medications; and for the wet roadway and cloudy weather. V2 was driven by a 70-year old female who was also transported to a hospital due to non-incapacitating injuries. The driver stated that she had a green light and was traveling under 48 kmph (30 mph) on her way home from lunch and that she never saw the other vehicle prior to impact. She also said she applied her brakes and steered right in an unsuccessful avoidance maneuver before V1 struck her. The Critical Pre-crash Event for V2 was "other vehicle encroachment from the opposite direction over the left lane line". The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors were assigned to V2 for the wet roads and cloudy weather and for driver behavior, recognition, inadequate surveillance, looked but did not see. The driver was not truthful when she claimed she never saw V1. She admitted braking and steering right.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs, Roadway, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

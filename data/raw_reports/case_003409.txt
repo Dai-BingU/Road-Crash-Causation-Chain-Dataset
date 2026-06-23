@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a two-way, four-lane suburban roadway. There were two eastbound lanes and two westbound lanes, which were met by a side street to the north. The roadway had a posted speed limit of 56 kmph (35 mph) and the eastbound lanes had an uphill grade of 7%. Conditions were daylight and raining with cloudy skies. The setting was morning hours on a weekday. Vehicle one was a 2001 Chevrolet 2500 cargo van traveling east in lane two. Vehicle two was a 1998 Toyota T100 pickup stopped facing east in lane two waiting to turn left onto the northbound roadway. V1 was approaching V2, with two vehicles between them. The two vehicles suddenly merged into lane one. V1 was unprepared to stop and impacted the rear of V2 with its front. Both vehicles came to rest in the roadway facing east. V1 was driven by a 38-year old male who was uninjured. He stated that he was from out of state and working in the area with an electrician's crew. He was returning to his hotel from work after working the night shift. He said that the two vehicles in front of him merged quickly to the right and he didn't have time to stop due to the wet road conditions. He skidded into the rear of V2. The driver estimated his travel and impact speeds to be 56 and 48 kmph (35 and 30 mph), respectively. The cargo van was towed due to damage. The Critical Precrash Event for V1 was other motor vehicle in lane stopped. The Critical Reason was a decision error of following too closely to respond to unexpected actions. This driver did have a passenger with whom he was talking casually at the time of the crash. The driver was working 60 hour weeks. He had been driving this roadway daily, but has only been in town for a week. V2 was driven by a 25-year old male who was treated on the scene for possible injuries. He stated that he was heading to work and was picking up a co-worker on the way. He was waiting to turn left and had been stopped in the lane for about 5-10 seconds. Suddenly he was struck without warning from behind. The pickup continued in service from the scene. The Critical Precrash Event for V2 was other motor vehicle in lane traveling in the same direction with higher speed. No Critical Reason was coded to this vehicle. No other associated factors were present for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other recognition error (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

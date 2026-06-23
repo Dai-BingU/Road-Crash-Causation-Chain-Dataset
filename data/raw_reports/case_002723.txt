@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekday afternoon, mid-block on a two-way, undivided urban roadway. The east/west roadway consisted of one lane in each direction (flanked by parking lanes on each side) and approached a signal-controlled intersection. The bituminous roadway was dry, straight, and level with a posted speed limit of 56kmph (35 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1997 Pontiac Booneville, was eastbound on the roadway approaching the signalized intersection. V2, a 1996 Chevrolet Lumina, was stopped facing eastbound ahead of V1 waiting for the traffic signal to change. V3, a 1998 GMC Jimmy, was also stopped eastbound ahead of V2. V4, a 1996 Dodge Stratus, was stopped in the eastbound direction ahead of V3. V1 failed to stop behind the traffic ahead of it and struck the rear of V2. The impact pushed V2 forward into the rear of V3. V3 was subsequently pushed into the back of V4. All four vehicles came to final rest near their respective points of impact. The damage to V1 was disabling and it was towed. V2, V3, V4 only received minor damages and they were not towed. The driver of V1, a 22-year old female, said she was eastbound looking up and down from her radio to the traffic flow on the two-lane roadway listening and adjusting the radio when her vehicle contacted the rear of vehicle two. She seemed confused; she first said vehicle two was stopped in back of the other vehicles and later said V2 was backing up. She admitted to being a little tired at the start of the trip. However, she said it didn't affect her driving ability. She travels on this road weekly and is familiar with the road. The night before she only slept seven hours as opposed to her normal eight. She's been a license driver for five years. However, not continuously driving for the entire period. Her driving has been on and off. Her travel speed was approximately 48kmph (30 mph) well under the speed limit. She was not injured The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason was coded as a driver related factor, an internal distraction (the driver was adjusting the radio control). In addition to the internal distraction, fatigue was coded as an associated factor as the driver admitted to being tired and got less sleep than she normally does. The driver of V2, a 22-year old male, said he was stopped behind a couple of vehicles at the red light when his vehicle was struck in the rear by V1. He said he was completely stopped and did not back his vehicle up. There was nowhere to go, he said. He could not figure out why vehicle one stuck his vehicle. There was plenty of space to stop. He travels on the roadway daily and is very familiar with the flow of traffic on it. After his vehicle was struck in the rear, his vehicle struck the vehicle in front of his. He was not injured. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in the same direction with a higher speed. The Critical Reason was not coded for V2. There were no associated factors coded to V2, as the driver was not thought to have contributed to this crash. The drivers of V3 and V4 could not be reached for an interview. There are no known associated factors. They were injured and transported to a hospital by medics. Their vehicles were not towed due to damage.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue present problem 
+Vehicle 3:  Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

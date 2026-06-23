@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in the middle of the block several hundred feet form the intersection. There were a total of two travel lanes, one westbound and one eastbound, both with curbside parking. The roadway was asphalt, dry, and level and there were no noted defects. The posted speed limit for both directions was 48 kmph (30 mph). There were signalized traffic devices controlling both directions at the corner of the intersection. The crash occurred on a weekday in the early afternoon hours. The traffic flow was normal for this roadway. Vehicle one, a 1993 Nissan Altima, was traveling westbound on the two-way roadway when it contacted with its front the rear of vehicle two, a 2003 Mitsubishi Galant, stopped, in the westbound lane, several hundred feet from the intersection for the red light. After being impacted by vehicle one, vehicle two traveled forward a couple feet and contacted with its front the rear of vehicle three, a 1994 Ford Crown Victoria, also stopped in the westbound lane awaiting the traffic light change. All of the crash vehicles were several hundred feet from the corner of the intersection. There were several vehicles also stopped in front of them. Vehicle one was towed due to severe damage to its front. All vehicles came to final rest a couple of feet from the initial impact. The driver of vehicle one, a 30-year old female, said she was on her way back to work after her lunch break when while traveling westbound at approximately 40 kmph (25 mph) she saw an acquaintance and turn her head left attempting to get their attention. She said, when she turned her head back forward she saw that the traffic had come to a complete stop. She slammed on her brakes and nothing happened so she began to pump the brakes several times but it was too late her vehicle ran into the rear of vehicle two. She first thought that she might have had brake problems. However, she got in her car and tested them and there was no evidence of brake failure. The impact caused the front of vehicle two to impact the rear of vehicle three. The driver of V1 said she travels on the roadway daily and is familiar with the traffic flow on this roadway, maybe too comfortable, she said. It's just one of those things she said. She was not injured. The Critical Pre-Crash Event was coded "other vehicle stopped in travel lane". The Critical Reason was coded an "external distraction", a recognition error. Associated factors for this driver include: looking outside of her vehicle to get someone's attention, and too comfortable for this busy roadway. The driver of Vehicle two, a 30-year old male, said he was stopped in the travel lane waiting for the traffic to advance when his vehicle was struck from behind by another vehicle traveling in the same lane/direction as he. He didn't see the vehicle approaching from behind. He was looking forward and talking on his cell phone just before the impact. It was his first time on this roadway. He was not injured. The Critical Pre-Crash Event was coded "other motor vehicle traveling in the same direction with higher speed". The Critical Reason was not coded to this vehicle. Associated factors for this driver include: Talking on the cell phone and unfamiliarity with the roadway. It was his first time on this roadway. The driver of vehicle three, a 35-year old male, a cab driver on duty, said he was also stopped in the westbound traffic lane when his vehicle was rear-ended by the vehicle behind him. He realized when he got out of his vehicle that V2 was struck from behind by another vehicle and in turn struck his vehicle. He'd just dropped off a passenger a few minutes before entering this roadway. He travels on this roadway weekly and didn't see V2 approach from behind. If he did, he said, there wasn't much he could do because there were several vehicles in front of his. He was transported the hospital with minor injuries. Vehicle three was not involved in the first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+Vehicle 2:  Cell Phone Use, Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

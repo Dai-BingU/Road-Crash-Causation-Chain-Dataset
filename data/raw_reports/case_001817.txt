@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the intersection of a three-lane roadway and a seven-lane divided roadway. Both roads are straight and level with no defects. The seven-lane road is divided with four-lanes of travel in the eastbound direction. The seven-lane road has a speed limit of 72 kmph (45 mph). The three-lane road is an exit from a local hospital. This intersection is controlled by a traffic signal (on colors) with pedestrian controls. The crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one, a 1995 Chevrolet S-10 pick-up was eastbound in the second lane. Vehicle two, a 2005 Chevrolet 1500 pick-up was northbound in first lane preparing to turn right. As both vehicles entered the intersection, the front of vehicle one struck the left side of vehicle two. Vehicle one deflected to the right and came to rest in the westbound travel lanes facing east. Vehicle one also came to rest in the westbound lanes of travel facing east. Both vehicles were towed due to damage. The driver of vehicle one, a twenty-nine year old male was coming from his home and heading to his fiancés work place. This driver had been driving for about ten minutes at the time of the crash. This driver indicated that the traffic lights were malfunctioning at the time of the crash. He stated that when the eastbound lanes have a yellow light the entrance to the hospital has a green light. This claim was investigated and found to be untrue. This driver drives this vehicle daily and over this road on a daily basis. The driver of vehicle two, a fifty-three year-old male was coming from the hospital and heading back to work at the time of the crash. This driver had just started driving. This driver has an unknown vision problem but was wearing corrective lenses at the time of the crash. This driver has indicated that he was stopped at the traffic light for one cycle of the light and then proceeded to turn right on the green light. This driver drives this vehicle daily and over this road on a weekly basis. The critical pre-crash event for vehicle one was coded as "other vehicle encroachment: from crossing street, turning into same direction." The critical reason for the critical pre-crash event was attributed to vehicle one and was coded "driver related error: inadequate surveillance." The critical pre-crash event for vehicle two was coded as "this vehicle traveling: turning right at intersection." The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+ 2 ：This Vehicle Traveling- Turning right at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

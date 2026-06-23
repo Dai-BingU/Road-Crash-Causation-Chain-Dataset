@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a three-lane, urban highway with a grass median. The median was protected by a cable guardrail. The approach was on a right curve which straightened out prior to the crash scene. The roadway had a posted speed limit of 104 kmph (65 mph) and a downhill grade of 2%. Conditions were daylight and dry with cloudy skies. The setting was late afternoon hours on a weekday. Vehicle one was a 1998 Toyota 4-Runner sport utility traveling westbound in lane one. Vehicle two was a 2007 Ford Expedition sport utility traveling westbound in lane three. V1 negotiated the curve and then lost control, beginning a counterclockwise yaw. V1 rotated 270 degrees while traveling across lanes two and three. The right side of v1 was struck by the front of v2. V1 then continued rotating counterclockwise and traveled into the median, where it overturned. V1 rolled six quarter turns before coming to rest on its top on the opposite side of the cable guardrail in the median. V2 came to a controlled stop in the median. The Toyota 4-Runner was driven by a 48-year old male who refused treatment for possible injuries. The investigating officer refused to allow his interview on scene due to alcohol involvement. He was not able to be located later. The investigating officer estimated his travel and impact speeds to be 104 kmph (65 mph). The Toyota sport utility was towed due to damage. The Critical Precrash Event for v1 was this vehicle control loss due to an unknown cause of control loss. The Critical Reason was an unknown reason. The RF, RR, and LR tires of this vehicle had inadequate tread depth. No associate factors could be coded to the driver without an interview. The Ford Expedition was driven by a 42-year old female who was uninjured. She stated that she was taking her kids home from school when v1 spun out in front of her. She braked without lockup, but was unable to avoid the crash. She estimated her travel and impact speeds to be 104 kmph (65 mph) and 56 kmph (35 mph). The Ford sport utility continued in service after the crash. The Critical Precrash Event for v2 was other vehicle encroachment from adjacent lane (same direction) over the right lane line. No Critical Reason was coded to this vehicle. This driver was not employed at the time of the crash. No associated factors could be coded to the vehicle with only a partial inspection.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Unknown cause of control loss
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Unknown Reason - Unknown reason for critical event
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

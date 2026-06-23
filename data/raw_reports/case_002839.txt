@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a four-way intersection. The east/west roadway has three lanes, lane one for right turn only, lane two for straight and/or left turn only and lane three for eastbound traffic. The north/southbound roadway has four lanes running northbound with lane four being a left turn only lane. The conditions were dry and clear but it had been raining off and on prior to the crash so the roads were still a little wet. The Intersection was straight and level. The crash occurred on a weekday afternoon and the posted speed limit was 56 KPH (35mph). Vehicle one was a 2003 Dodge Neon SRT-4 who was traveling northbound in lane two. The driver was a 31-year-old male who was on his way to the bank. He stated in the interview that he needed to change lanes from lane two to lane one to make a right turn to get into the bank. Vehicle 2 was a 2006 Chevy Express Van who was in lane one traveling northbound. The driver was 53 year-old male who was making a work delivery when he looked down to read an address is when V1 decided to change lanes into lane one, when V2 looked up V1 had slowed down in lane one attempting to make a right hand turn. The driver of V2 stated that he tried to slam the brakes to avoid rear-ending V1 but was unsuccessful. V2 then hit V1 from behind and pushed V1 into the intersection where V3, a 2005 GMC Sienna that was stopped waiting to turn left was hit head on. The driver of V3 was a 41 year-old male who was daydreaming looking to the right till he heard the loud crash and looked left to see V1 coming at him head on. V1 then continued to make final rest facing westbound on the north side of the east/west intersecting roadway. V1, the Dodge SRT-4 was driven by a 31-year-old male who stated that as he made the right turn he was hit from the rear and pushed into V3. He was running an errand on his way to the bank. He was not injured but his vehicle was towed due to damages. The Critical Pre-crash Event for V1 was "this vehicle traveling, this vehicle decelerating". The Critical Reason was not coded to this driver. An associative factor related to this driver was he was cited for improper lane change and no insurance on the PAR. V2 the Chevy van was driven by a 53-year-old male who admitted in the interview that he had been trying to read directions for his next delivery. Although, he also stated in the interview that before he looked down to get the directions there were no cars in front of him and the driver of V1 made an improper lane change into his lane, lane 1. He was not injured but, his vehicle was towed due to damages. The Critical Pre-crash Event was "other vehicle in lane traveling in same direction while decelerating". The Critical Pre-crash Event was an "internal distraction", as he was reading directions not able to concentrate on his driving. An associative factor related to this driver is that he stated that since it had been raining off and on all day the roads were a little wet. V3, the GMC truck did not see the crash happen as he was stopped in lane two of the east/west roadway daydreaming looking to the right. It was not until he heard a crash that he looked back left to see V1 coming at him head on. He looked to the right to see if he could move out of V1's path but there was another vehicle stopped and he was trapped. He was not injured and his truck was not towed due to damages The Critical Pre-crash Event was not coded to this vehicle, as he was not involved in the first harmful event. The Critical Reason was also not coded to this vehicle, as he was not though to have contributed to the crash. There were no associative factors related to the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Weather/Environment present problem 
+Vehicle 2:  Distraction, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 3:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- This vehicle decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Internal distraction
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a two-lane, undivided, level roadway. This roadway curves right in the northbound direction. The speed limit on this roadway is 56 kmph (35 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1989 Chevrolet Blazer, was southbound in lane one. Vehicle two (V2), a 2006 Ford Focus, was northbound in lane two. V1 traveled off the right side of the road. The driver steered left, the vehicle returned to the roadway, rotating counterclockwise, and entered the opposing lane of travel. The driver of V1 then steered right and the vehicle began to rotate clockwise. The front of V2 struck the left side of V1. V1 rotated counterclockwise and traveled off the left side of the road. V1 rolled over two quarter-turns to the right and the top struck a tree. The driver of V1, an eighteen-year-old female, was traveling from her home to her mother-in-law's workplace. She was healthy and well rested. This was the first time she had driven this vehicle and she stated that she was uncomfortable driving it. She drives on this roadway daily. This driver stated that she was late for a social appointment and was in a hurry. The driver of V2, a twenty-one-year-old female, was traveling from her home to a gym. She was well rested, healthy and comfortable with her vehicle as well as her route. The critical pre-crash event for V1 was coded as "this vehicle traveling; off the edge of the road on the right side." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; overcompensation." This driver's inexperience was an associated factor. The critical pre-crash event for V2 was coded as "other vehicle encroachment; from opposite direction - over left lane line." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

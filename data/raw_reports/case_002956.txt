@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of a weekday in the northbound lanes of an urban roadway. The north/south roadway consisted of two lanes in each direction flanked by bike and parking lanes in each direction. The concrete roadway was straight and level with a posted speed limit of 56kmph (35 mph). At the time of the crash the roadway was wet from rain and a heavy crosswind, as a tropical storm was moving through the area. V1, a 2000 Toyota Tacoma, was northbound in lane one. V2, a 1988 Mazda SE 323, was northbound also in lane one in front of V1. V3, a 2002 Audi A4, was stopped in lane one ahead of V1 and V2. As V2, came to a stop behind V3, V1 failed to stop in time and impacted the rear of V2. The force of the impact pushed V2 into the rear of V3. All vehicles came to final rest in lane one near their respective points of impact. V1 was driven by a 36-year-old male who refused to be interviewed. He was in lane one and was unable to stop. This researcher overheard the driver tell the police on scene that he tried to swerve right and hit his brakes but was unsuccessful. He was not injured and his truck was not towed due to damages. The Critical Precrash Event for V1 was coded as other vehicle in lane other vehicle stopped. The Critical Reason was an unknown driver error as he declined the interview on scene. It was speculated that he was focused on the size of the waves (on the neighboring ocean) due to a tropical storm and was not focused on the driving task. The driver was cited a ticket for causing the crash for failure to use due care. V2 was driven by a 45-year-old male who was traveling in lane one when he came to a stop behind V3. He stated to the police on scene that he was able to stop without hitting V3 but then heard a screech behind him and then felt the impact and hit his head on the windshield. He was transported with injuries to a local hospital and his vehicle was towed due to damages. The Critical Precrash Event for V2 was coded as other vehicle in lane traveling in the same direction with higher speed. The critical reason was not coded to this vehicle. There were no associated factors, as the driver was not thought to have contributed to the crash. V3 was driven by a 23-year-old male who came to a stop to let a vehicle pull out of a parking space. He was on his way home from work to go surfing. He was not injured and his vehicle was not towed due to damages. The Critical Precrash Event for V3 was coded as other, as it was not involved in the first harmful event. The Critical Reason was not coded to this vehicle. There were no associative factors coded to this vehicle, as the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Weather/Environment present problem 
+Vehicle 2:  Distraction, Roadway, Weather/Environment present problem 
+Vehicle 3:  Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

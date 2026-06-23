@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two lane undivided roadway with a posted speed limit of 89kmph (55mph). The roadway was curved with a radius of curvature of 375 meters and a superelevation of 1.5%. There were black on yellow curve warning signs (no suggested speed) for V1 and V2 prior to the curve. There was a 2.5% grade for V1 and it was level for V2. The weather was clear, the roadway dry and it was dark and unlighted at the time of this weekend evening crash. V1, a 2001 Lincoln Town Car, was traveling north on the roadway negotiating the curve to the right. V2, a 2001 Ford Crown Victoria, was traveling south and had been passing other vehicles. V2, negotiating the curve to the left, crossed into and traveled in the northbound lane and struck V1 in the front with its front. V1 was rotated counterclockwise off the east side of the road, struck a brick wall with its back and came to rest facing in a southwesterly direction. V2 rotated clockwise and came to rest across the northbound lane facing east. Both vehicles were towed due to damage. V1 was driven by a belted 69-year-old male who was transported, treated and hospitalized for head and chest injuries. The belted right front seat 67-year-old female was also transported to a local hospital for head and chest injuries. No further information was obtained, as the driver could not be contacted. The Critical Precrash Event for V1 was coded as other vehicle in lane, traveling in opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. No additional factors were coded to this driver. V2 was driven by a belted 19-year-old male who was transported, treated and hospitalized for leg and hip injuries. The unbelted left rear seat 27-year-old female passenger and unbelted right rear 28-year-old female passenger were both transported to a local hospital. The driver stated to the police that he had been traveling at approximately 105-112kmph (65-70mph) and passing cars in an effort to get his passengers to the train station faster. The passengers also indicated to police that the driver was driving fast. Witnesses stated that this vehicle had been operating erratically and passed their vehicles at a high rate of speed in no passing zones just prior to the crash. No additional information was obtained, as the driver could not be contacted. The Critical Precrash Event for V2 was coded this vehicle traveling, over the lane line on the left side of the travel lane. The Critical Reason for the Critical Pre-Crash Event was coded as a driver related factor, a decision error, too fast for curve/turn. This was chosen because the driver chose to pass in no passing zones, operated the vehicle in an erratic manner and drove at a higher speed than the traffic stream. Associated factors coded to this driver were aggressive driving behaviors; speeding, weaving and improper lane usage.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Driver Stress/Emotion, Drugs present problem 
+Vehicle 2:  Aggressive Behavior, Decision, Driver Stress/Emotion, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in opposite direction
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Too fast for curve/turn

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the northbound lane of a two-way, two-lane, rural roadway. The intersection consisted of the two-lane rural roadway intersected by two neighborhood entrances in the east and west directions, respectively. The roadway had a posted speed limit of 72 kmph (45 mph) and the northbound lane had a 2% uphill grade. The westbound neighborhood road had a 1% uphill grade. Conditions were daylight and dry with clear skies. The setting was early afternoon hours on a weekday. Vehicle one was a 2005 Peterbilt tractor hauling an unloaded flatbed trailer. Vehicle two was a 1997 Chevrolet Tahoe sport utility. V1 was traveling southbound towards the intersection. V1 turned right into the neighborhood, came to a stop, and then began backing up into the roadway as part of a 3-point turn. V2 was traveling northbound in lane one approaching the same intersection. V1 backed across the northbound lane one. V2's front impacted the right side of V1's trailer. V2 then rolled left one quarter turn onto its left side, coming to rest in the southbound lane. V1 came to a stop in the roadway after sensing an impact. V1 was driven by a 34-year male who was uninjured. He stated that he was heading to a commercial freight pickup and needed to turn around. He thought he had enough visibility and room to safely complete the turnaround. He estimated his travel and impact speeds to be 5 kmph (3 mph) in reverse. V1 continued in service. The Critical Precrash Event for V1 was this vehicle traveling "backing". The Critical Reason was a decision error (other: backing up in an inappropriate area). The driver was talking to his son at the time of the crash in the right front passenger seat. The driver was also working 70 hours a week at the time of the crash. This was the driver's first time driving this roadway. V2 was driven by a 42-year old female who was transported to a local hospital with non-incapacitating injuries. She stated that she was heading home with her daughter and a friend when she noticed a trailer had backed across the lane she was driving in. She steered left but was unable to avoid the impact. She stated the vehicle rolled left onto its side. She estimated her travel and impact speeds to be 72 kmph (45 mph). Her sport utility was towed due to damage. The Critical Precrash Event for V2 was other vehicle encroachment from crossing street across path. No Critical Reason was coded to this vehicle. The driver wore contact lenses for a nearsighted condition. The driver was taking estrogen-related medications for hormone replacement therapy. She drives this road on a weekly basis.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Roadway, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other- Other (specify) :
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

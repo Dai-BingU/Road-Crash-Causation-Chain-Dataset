@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the newly painted bicycle eastbound lane of a two-lane two-way roadway that is not physically divided. There was one travel lane, one bicycle lane, and a parking lane in each direction of travel. The roadway was straight and had an uphill grade measurement of +1/61. It was daylight and cloudy with rain. The speed limit was 48kmph (30mph). V1 was a 2006 Honda Passport that was attempting to merge from the parking/bicycle lanes into the eastbound travel lane. V2 was a 1989 Chevrolet G-Series passenger Van that was in the eastbound travel/bicycle lanes. The frontal plane of V2 impacted the rear plane of V1, and both vehicles came to a final rest shortly after. V1, the Honda Passport, was driven by a 40 year-old male who did not sustain any injuries. He stated that he was driving normally and ready to merge into the travel lane when he was impacted by V2 from the rear. The Honda was not towed due to damage. The Critical Pre-crash event for V1 was coded as: Other vehicle encroachment from adjacent lane - over left lane line. The Critical Reason for the Critical event was not coded to the driver because he was not thought to have contributed to the crash. The wet roads and a newly added bicycle lane were coded as a Roadway related factor. The rain was also coded as weather related factor. V2, the Chevrolet Van, was driven by a 43 year-old male who did not sustain any injuries. He stated that he tried to brake however he was unable to stop in time to avoid striking V1 due to a brake problem. The Critical Pre-crash event for Vehicle # 2 was coded as: This vehicle traveling, over the lane line on right side of travel lane. The Critical Reason for the Critical event was coded as a vehicle related factor, too fast for conditions. Associated factors coded to V2 were a Roadway related factor; the wet roads and a newly added bicycle lane to the road. The rain was coded as a Weather related factor, and a Decision factor was also coded to the driver, he was traveling too fast for conditions and the driver did not realize that caution was required.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Too fast for conditions (specify) :

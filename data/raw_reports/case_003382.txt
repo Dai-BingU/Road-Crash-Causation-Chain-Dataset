@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred off the right side of a two-lane roadway at a T-intersection. Conditions were dry with daylight in the afternoon on a weekday. The posted speed limit on the initial roadway of travel was 80 kmph (50 MPH) and 32 kmph (20 MPH) on the intersecting roadway. V1 was 1988 Plymouth Reliant sedan traveling eastbound. V1 was driven by a 94-year old female who was traveling approximately 20 MPH on the 50 MPH roadway. Consequently, vehicles behind her were honking their horns in an attempt to make her speed up or get out of the way. The driver of V1 tried to accelerate but did not feel her vehicle respond. She decided to turn left at a T-intersection to let the other vehicles pass her. While making the left turn, the vehicle suddenly accelerated and the driver took the turn at too wide of an angle. It departed the right side of the roadway and struck a curb, a sign, and then a tree. V1 came to final rest on the roadway facing northwest. The driver of V1 sustained moderate injuries and was transported to a local hospital. She stated that as she was turning left, her vehicle accelerated out of control. It is believed that the driver of V1 was not pressing down hard enough on the accelerator prior to the left turn, but then did not ease up on the accelerator as she began the turn. This caused her to take the turn at a speed that was not comfortable to her. There was no substantiation to her claim that the vehicle suddenly accelerated on its own as its driver was making a left turn. The crash was believed to be due to confusion on the part of the driver, which caused a performance error. The Critical Pre-crash Event was coded as "This vehicle traveling off the edge of the road on the right side" and the Critical Reason was coded as "Poor directional control, e.g. failing to control vehicle with skill ordinarily expected." Associated factors coded to this driver were several physical ailments including high blood pressure, cataracts, myopic vision, hearing deficit and a pacemaker. The driver also takes several medications for her ailments. The driver was wearing corrective lenses and a hearing aid at the time of the crash. Other associated factors coded to this driver were her being upset by the vehicles behind her honking their horns and the perceived vehicle malfunction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Driver Physical, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

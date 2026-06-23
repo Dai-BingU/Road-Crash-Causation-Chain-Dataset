@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a three-lane roadway with a T-intersection. Conditions were dark with lights, dry with cloudy skies in the evening on a weekday. The westbound lanes had a posted speed of 80 kmph (50 mph), the southbound lane had a speed limit of 56 kmph (35 mph). V1 was a 1998 Ford Escort sedan traveling southbound in the right lane approaching a T-intersection with a stop sign. V2, a 1993 Subaru Legacy sedan, was traveling westbound in the right lane approaching the T-intersection. V1 made a left turn at the stop sign and the front of V2 struck the left side of V1 in the westbound lane. Both vehicles came to final rest facing westbound. V1 was driven by a 19-year-old male who was not injured. He stated that he was lost and trying to find a church that was close by. He approached the stop sign and did not see V2 until it was too late. He turned left directly into V2 traveling between 21-30 MPH. V1 was towed due to damage. The Critical Precrash Event for V1 was when this vehicle was turning left at the intersection. The Critical Reason for the Critical Event was inadequate surveillance; he looked but did not see. Associated factors coded to this driver was the driver being fatigued due to a busy work and exercise schedule, the driver not familiar with the area (he was lost), and traveling too fast (he was in a hurry). The driver has myopic (near-sighted) vision but does not need to wear glasses to drive, this was not thought to have contributed to the crash. V2 was driven by a 63-year-old female who was transported to a local hospital with minor injuries. The driver refused to be interviewed at the hospital and refused us when we visited her home. V2 remained at the scene. The Critical Precrash Event for V2 was when V1 encroached from the crossing street, turning into the opposite direction. No Critical Reason was coded to the driver of V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Inexperience, Driver Physical, Driver Stress/Emotion, Roadway, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

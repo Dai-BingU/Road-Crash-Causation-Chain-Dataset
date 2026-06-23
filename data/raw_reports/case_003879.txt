@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the morning of weekday on a two-lane urban roadway. The westbound, one-way roadway consisted two lanes with a posted speed limit of 24kmph (15 mph). The bituminous roadway was dry, straight, and level. The traffic flow for this roadway was heavy (normal for this time of day) and there were no adverse atmospheric conditions at the time of the crash. V1, a 2002 Dodge Grand Caravan, was eastbound (the wrong direction) in lane one of the roadway. As V1 continued eastbound a pedestrian appeared from between parked vehicles on the south side of the roadway just ahead of V1. The front of V1 struck pedestrian as he tried to cross the street. After the impact, V1 traveled a few feet where it came to final rest continuing to facing eastward. The pedestrian, after the impact, rolled onto the top of V1's hood smashing into the windshield after which fell to the ground where he laid until the arrival of EMS. V1 was towed due to damage. The driver of V1, a 42-year-old male, said he was traveling southbound on a busy congested roadway. The traffic was backed up and he was anxious to visit his daughter who was sick in the hospital. He made a left turn eastbound to get out of the traffic jam. At first, he didn't notice he was going the wrong way, when he did, he continued traveling figuring he'd exit the street in just a few hundred feet. He was traveling in lane one at approximately 40kmph (25 mph). He was talking to his wife about his daughter and other family matters. At the last minute, he saw the pedestrian coming from his right between two parked cars attempting to cross the street. The guy was looking in the opposite direction. He said he slammed on his brakes but it was too late. Although he was anxious to see his daughter, he said he was not in a hurry. When asked if looking or talking to his wife distracted him, he replied possibly. The driver was issued a citation for traveling on a designated roadway in the wrong direction. The Critical Precrash Event for V1 was coded pedestrian in roadway. The Critical Reason for V1 was coded internal distraction. Associated factors for this driver include illegal maneuver (traveling on the roadway in the wrong direction), unfamiliarity with the roadway, traveling 10 miles per hour over the speed limit, and inattention, he was conversing with his wife and thinking about family matters. The pedestrian, a 27-year old male, could not be reached for comment. He was injured and transported from scene directly to the hospital.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Pedestrian, Pedalcyclist- Pedestrian in roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

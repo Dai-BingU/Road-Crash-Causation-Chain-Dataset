@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three vehicle daytime collision occurred at 1226 hours. The collision occurred heading north on a undivided two way, six-lane highway. The pre-crash roadway for all vehicles has a curve to the right with an upgrade (no access per police) and bituminous dry paving. The roadway has a posted speed limit of 64 kmph (40 mph). Vehicle one (V1), a 2000 Chevrolet Impala driven by a 45 year-old female, was traveling north in lane 2. Vehicle two (V2), a 1997 Toyota Land cruiser driven by a 32 year-old female with one passenger, was traveling north in lane 2. Vehicle three (V3), a 2000 Chevrolet S-10 pickup driven by a 59 year-old male, was also traveling north in lane 2. V3 had stopped for a pedestrian crossing illegally and slowly across the 6 lanes of travel. V2 came around the corner and had seen V3 come to quick stop making her have to brake hard coming to stop with about 1.5 meters (5 feet) from V3's bumper. V1 came around the corner shortly after, realized V2 was stopped, braked and swerved right but could not avoid the collision. V1's front impacted the right rear of V2, forcing V2's front to hit the rear of V3. V1 came to final rest in lane one facing north. V2 and V3 came to final rest in lane two facing north. V1 was towed from the scene. . The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was assigned to V1 as a driver related factor: too fast to be able to respond to unexpected actions of others (specified as: forward traffic quickly stopped for pedestrian illegally crossing the roadway). The critical pre-crash event for V2 was coded: other motor vehicle in lane traveling in same direction with higher speed. The critical reason for the critical event was not coded to this vehicle. V3 was not involved in the first harmful event. The critical reason for the critical event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

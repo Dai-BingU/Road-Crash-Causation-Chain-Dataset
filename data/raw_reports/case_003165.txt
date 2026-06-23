@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary V1, a 1997 Chevrolet Cavalier, was southbound in lane 2 of a 4-lane interstate divided by a grass median and guardrail (2 lanes each direction). The straight, cement, level roadway was dry and it was daylight. V2, a 2003 Ford Focus, was stopped in lane 2 ahead of V1 in the same roadway. V3, a 1996 Chevrolet Lumina, was also stopped in lane 2 of the same roadway in front of V2. The front of V1 contacted the rear of V2. V2 was pushed into the rear of V3. V1 was towed due to damage and the driver of V1 was transported for medical treatment. This crash actually involved five cars total. After the Cavalier struck the Ford, which was pushed the Lumina, a 1998 Toyota Camry struck the rear of the Cavalier and a 1997 Dodge Caravan struck the rear of the Toyota. No citations were issued to any of the drivers involved. A partial surrogate driver interview and a complete vehicle inspection were obtained for V1. The driver of V1 was a 22-year old female. The father of the driver of V1 was interviewed, and he reported his daughter to be familiar with both the roadway and the vehicle as well as properly licensed for the vehicle. It is unknown whether she was late or in a hurry but according to her father, with whom she resides, she had gotten her usual amount of sleep, had left at her usual time and was taking her normal route to work. She was pregnant at the time of the crash. The interviewee is responsible for the maintenance of V1 and the vehicle inspection revealed no indications that its mechanical condition contributed to the cause of the crash. The pre-event movement was going straight, the critical pre-crash event was other vehicle stopped in lane and the critical reason is type of driver error unknown. A factor that may have contributed to the crash was rush hour congestion. A complete driver interview and vehicle inspection was obtained for V2. The driver of V2, a 21-year old female, was found to be familiar with both the roadway and the vehicle as well as properly licensed for the vehicle. The pre-event movement for V2 was decelerating in traffic lane, the critical pre-crash event was other motor vehicle in lane traveling in same direction with higher speed and the critical event was not coded to this vehicle. An associated factor coded to all three drivers was the traffic flow interruption in the form of the rush hour congestion. A driver interview was obtained for V3 but he refused to let the vehicle be inspected. The driver of V3, a 51-year old male, was stopped when rear-ended by V2. The driver was properly licensed for the vehicle. The pre-event movement was stopped in traffic lane, the critical pre-crash event was this vehicle not involved in first harmful event, and the critical reason was not coded to this vehicle. An associated factor coded to all three drivers was the traffic flow interruption in the form of the rush hour congestion.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Traffic present problem 
+Vehicle 2:  Driver Physical, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

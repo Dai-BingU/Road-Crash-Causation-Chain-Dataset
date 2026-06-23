@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lane 4 of a high-speed high-volume interstate highway separated with a concrete wall. There were five lanes and two emergency paved shoulders. Conditions were daytime with clear skies on a weekday morning, during the morning rush hour. Vehicle #1 was a 1998 Toyota Camry traveling in lane 4 who was keeping up with the morning traffic, when the Vehicle in front of her came to an abrupt stop. To avoid contact with that vehicle she slammed on her brakes. This abrupt stop of Vehicle #1 caused Vehicle #2 a 2003 Dodge Caravan to slam on his breaks and skid into the rear of Vehicle #1. Both Vehicles pulled into the emergency lane and there were no injuries. Vehicle #1 was driven by a 30 year old female who was keeping up with the morning rush hour traffic. The vehicle in front of her came to a complete stop. In order for her to avoid contact with the vehicle in front of her she came to an abrupt stop thus, causing vehicle #2 to impact her rear. Vehicle #1 was towed due to damages, the driver of Vehicle #1 was not injured. The Critical Precrash Event for Vehicle #1 was other motor vehicle in lane traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. An associative factor was that the crash occurred during the morning rush hour. Vehicle #2 was driven by a 47 year old male who had no injuries and was driving in lane 4. He was unable to stop in time when Vehicle #1 stopped abruptly in front of him. He stated in the interview he had just come around a curve and Vehicle #1 was stopped. The researcher observed that the scene was not at all curved. His vehicle was not towed. The Critical Precrash Event for Vehicle #2 was other vehicle in lane stopped and the Critical Reason for the Critical Precrash Event was a decision error, too fast for conditions to be able to respond to unexpected actions of other road users. Some associative factors were that the crash occurred during the morning rush hour causing vehicles to be very close together.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic present problem 
+Vehicle 2:  Decision, Speed/Distance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :

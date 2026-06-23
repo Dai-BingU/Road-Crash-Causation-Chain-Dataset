@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the northbound lanes of a high speed, high volume divided interstate roadway. The interstate featured four bituminous, straight, and level northbound lanes with a posted speed of 105 kmph (65 mph). Conditions were dark but lighted and traffic flow was normal on a weekday evening. The roadway was wet at the time of the crash, as it was raining. V1, a 2005 Dodge Ram, was traveling in lane three. V2, a 2005 Mercedes Benz C230, was traveling in lane one. As the driver of V1 began to change lanes he lost control of his vehicle and began rotating counterclockwise. As V1 rotated, the right rear corner of V1 made contact with the left side of V2. V1 rotated across the northbound lanes of traffic and the front of V1 made contact with the barrier wall. V1 continued rotating until the right rear corner of V1 struck with the barrier and came to final rest in the emergency shoulder. V2 came to a controlled stop on the outside emergency shoulder. V1 was driven by a 24-year old male in good health who was traveling home from school. He said he was traveling at around 112 kmph (70 mph). He decided to change lanes to the left, quickly checking his side mirror and turning his head to check the vehicle's blind spot. As he began to turn the steering wheel, he felt the vehicle hydroplaning. The driver attempted to regain control by steering left, (the direction the vehicle was moving). The driver did not recall making contact with V2, but declared that he continued to spin out of control into the barrier wall. The driver was not injured but V1 was towed due to damage. The Critical Precrash Event for V1 was coded as this vehicle traveling, over the lane line on the right side of travel lane. The Critical Reason for the Critical Event was a decision error, traveling too fast for conditions. The driver did not realize that caution was required, thus maintaining a speed that was greater than a reasonable standard of safe driving, given the slick roadway conditions. The associated factor for this crash was combination of wet pavement and rain. V2 was driven by an 18-year old female in good health traveling home from a restaurant. She said she was traveling in the far right lane and due to the rainy weather, she was going about 105 kmph (65 mph). She said that she never saw the other vehicle; she just felt a bump as the two vehicles made contact. She took a quick glance to her left and saw the truck rotating out of control. She then pulled off to the right side of the road. There were no injuries and V2 was able to be driven from the scene. The Critical Precrash Event for V2 was coded as other vehicle encroachment, from adjacent lane, over the left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. As with V1, there was the presence of wet pavement and rain, but V1 was not believed to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Roadway, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

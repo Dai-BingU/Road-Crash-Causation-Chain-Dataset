@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the morning of a weekday on a six-lane divided highway. The concrete highway consists of three northbound and three southbound lanes divided by a grass median and a high-tension cable guardrail. The roadway is flat, dry, and slightly curved right at the location of this crash. The posted speed limit is 105 kmph (65 mph) and the traffic level this morning was minimal. The weather condition was clear, dry and daylight. V1, a 2004 Kenworth tractor with a fully loaded trailer and one occupant, was southbound in lane two where it intended go straight. V2, a 2003 Ford Explorer with one occupant, was also southbound in lane one intending to go straight. As both vehicles were negotiating a curve to the right, V2 drove into lane two and sideswiped the right side of V1 (event #1). Following this impact, V2 departed the right roadside and rolled over (event #2) onto its rooftop. V1 drove to the shoulder and V2 was towed due to damage. V1's driver was not injured but V2's driver was treated and released from a local trauma center. The driver of V1 is a 37-year-old male that was driving his tractor-trailer this morning to make a delivery when he was involved in this crash. He states he was driving south alongside the Ford Explorer when he heard and felt something strike his right front tire and when he looked to his right, he saw the Ford Explorer spinning out of control and off the roadway. He drove to the shoulder and discovered his right front tire was punctured and destroyed. The Critical Precrash Event for V1 was coded "other vehicle encroaching from adjacent lane - over right lane line". The Critical Reason for the Critical Event was not coded to this vehicle. The driver of V2 is a 40-year-old female that was commuting to work this morning when she was involved in this crash. She said she was driving south in her lane (one) and for some unknown reason drifted into the lane to her left. She said, "I have no clue why", she drifted into the next lane but as soon as she did, she struck V1, which caused her to lose control of her 2004 Ford Explorer and depart the right side of the road. As she departed the roadway, her vehicle began to spin out of control on the grassy roadside and eventually rolled over an unknown number of times. The Critical Precrash Event for V2 was coded "this vehicle traveling over the lane line on the left side of travel lane". The Critical Reason for the Critical Event was coded "inattention, thought focus unknown".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inattention (i.e., daydreaming)

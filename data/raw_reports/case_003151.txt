@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a four-lane roadway divided by a grassy median. There were two lanes in each direction. The asphalt roadway was straight, level and dry with a posted speed limit of 72 kmph (45 mph). The crash occurred on a weekday morning during the rush hour under clear skies. Traffic flow was congested with stop and go activity. V1, a 2001 Nissan Altima four-door with one occupant, was westbound in lane one. V2, a rebuilt 2003 Honda Accord two-door with one occupant, was westbound in lane one ahead of V1. V3, a 1996 Lincoln Continental four-door with one occupant, was also westbound in lane one ahead of V2. V2 and V3 were stopped due to traffic congestion ahead of them. As V1 approached, it braked with lockup in an unsuccessful attempt to avoid impact. V1's front end struck the rear end of V2 (Event 1), pushing it forward with a slight counter-clockwise rotation. The front right of V2 then struck the back left of V3 (Event 2). All three vehicles stopped facing west in lane one within a meter or two of impact. V1 and V2 were towed from the scene due to damage. V3 left the scene before researcher arrival. V1, the Nissan Altima, was driven by a 31-year old female who was not injured. The driver advised that she was traveling at the speed limit while on her way home from working a night shift. She denied being drowsy when questioned. She reported that she saw V2 stop suddenly in front of her and that she did not have enough time to stop. She braked with lockup and skidded into the rear of V2. The Critical Pre-crash Event for V1 was other motor vehicle in lane stopped. The Critical Reason for the Critical Event was coded inattention, a driver related factor. Associated factors were coded for driver recognition - failure to look far enough ahead and for the rush hour congestion. V2, the Honda Accord, was driven by a 29-year old male who was not injured. He reported that he was commuting from home to work and had been stopped about four feet behind the traffic ahead of him for 3-4 seconds when he was struck from behind by V1. The impact pushed his vehicle forward into the rear of V3. He said he had not been aware that he was going to be struck. The Critical Pre-crash Event for V2 was other motor vehicle in lane traveling in the same direction with a higher rate of speed. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors were coded for the driver's physical condition of a bad back, for the vehicle's tire deficiency (over-inflated tires), and for the rush hour traffic congestion. V3, the Lincoln Continental was driven by a 69-year old female who was not injured. The driver reported that she was stopped behind traffic while commuting from home to work when she heard a crash behind her and then felt a jolt when V2 struck her from behind. The Critical Pre-crash Event and the Critical Reason for the Critical Event were not coded for this vehicle because it was not involved in the first harmful event. The only associated factors coded for V3 were for the rush hour traffic congestion and for the driver's work related emotional stress.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance, Traffic present problem 
+Vehicle 2:  Driver Physical, Traffic, Vehicle present problem 
+Vehicle 3:  Driver Stress/Emotion, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

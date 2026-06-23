@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the northbound lanes of a 4-legged, signal-controlled intersection. There are 6 northbound lanes and 6 southbound lanes divided by a concrete median. Each direction had a signal-controlled left turn lane. Southbound approach is straight, level and bituminous. Northbound approach is straight, level and bituminous. The posted speed limit for both directions was 72 kph (45 mph). Conditions were daylight and clear. Setting was afternoon hours on a weekend. Vehicle One (V1) was a Ford F-350, two door large pickup box truck with two occupants, traveling south in lane 6, the left turn lane. Vehicle Two (V2) was a 2001 Pontiac Bonneville, four door large sedan, with one occupant, traveling north in lane 4. VI was stopped for the traffic control signal waiting to make a left turn. When the light changed to green, VI entered the intersection and struck the left side of V2 with its front plane. The impact caused V2 to yaw counterclockwise and travel 15 meters (49 feet) and come to final rest facing southwest. VI after impact yawed counterclockwise 6.7 meters (22 feet) and overturned onto its passenger side and came to final rest facing northwest. VI, the Ford F-350 was driven by a 46 year-old male who was transported from the scene with evident injuries. Driver reports being stopped at the red light in the left turn lane for two minutes. There was one car in front of him waiting to turn left. He knew his light was green because he saw northbound traffic stopped. As he proceeded into the intersection, he glimpsed right and saw V2 traveling at a high rate of speed toward him from the right. He says there was no time to make any avoidance maneuvers. His vehicle was towed from the scene with disabling front end damage. The Critical Precrash Event was this vehicle traveling, making a left at the intersection. The Critical Reason for inadequate surveillance. The driver of VI failed to look far enough to the right and recognize that V2 was not stopping. No other associated factors for this driver. V2, the Pontiac Bonneville was driven by a 28 year-old male who was transported from the scene with serious injuries. Driver has no recollection of crash events. He remembers being in the far left lane traveling at 72 kph (45 mph) and guesses he ran the red light. He was on his way from a work convention to his wives' house. He reports being on the road for 30 miles, 45 minutes. His first memory was when the fire department was extricating him from his vehicle. He drives this road on a weekly basis. The Critical Precrash Event was other motor vehicle encroachment, from opposite direction, over left lane line. The Critical Reason was not coded to this driver. Driver of V2 reports having his radio on at the time of the crash. He works 24 hour shifts at work and worked 72 hours in the last 7 days. Driver was unable to remember any other precrash events.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

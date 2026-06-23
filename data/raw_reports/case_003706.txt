@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in an eastbound lane of a 5-lane undivided roadway. The roadway runs east and west with two lanes for each direction and a center-turn lane for both directions. At the location of this crash, there is an exit/entrance driveway to a strip mall on the south side of the roadway. The speed limit on the roadway is 56 kmph (35 mph) and the driveway has a posted stop sign. It was a weekday afternoon and the conditions were clear, dry and daylight. V1, a 2000 Ford Mustang with three occupants, was traveling north and stopped at the driveway intersection. V2, a 1993 Mazda Protégé with one occupant, was traveling east in lane 2 toward the same intersecting driveway. V1 made a left turn out of the driveway, and across the path of V2, where it was struck in driver's door by the front of V2. V1 was driven by a 16-year-old female high school student that had a half-day of classes today because it was the beginning of Thanksgiving break. She drove to a fast food restaurantl this afternoon with her girlfriends for lunch and was returning to school when this crash happened. As she was exiting the parking lot of a strip mall, she stopped at a stop sign before entering a 5-lane roadway. While waiting to make a left turn (westbound), she reportedly could not see (eastbound) traffic because there were cars turning into the parking lot from the first lane of travel. She slowly pulled out of the parking and made her left turn when she was struck in her driver's door by an eastbound vehicle. She reportedly never saw the other car (V2) until they collided. The Critical Precrash Event for V1 was coded: (25) this vehicle turning left at an intersection and the Critical Reason for the Event coded: (113) inadequate surveillance. Associated factors coded to this driver include: impending problem masked by traffic because her sightline was obstructed by vehicles turning into the driveway, inexperienced driver because she has a graduated driver license, and traffic signs missing because the stop sign was so faded it was not readable. V2 was driven by a 35-year-old female that worked in a nearby office. For this trip this afternoon, she left work during her lunch break to celebrate a party at her daughter's school (her daughter's school is less than 2 miles from her office.) As she drove east in lane 2, at approximately 35 mph, she approached a shopping mall to her right. There were two vehicles to her right (lane 1) slowing to turn right into the mall parking lot. This driver reportedly saw V1 (Ford Mustang) exiting the mall, stop in lane one and then turn left in front of her. This driver tried to avoid V1 by steering left and locking her brakes but she could not avoid the crash. The front of her Mazda struck the left side of V1 and came to final rest facing north in the center lane. She was treated and released at a trauma center for a bruised right ankle and strained neck. The Critical Precrash Event for V2 was coded: (71) other vehicle encroaching from driveway, turning into opposite direction and the Critical Reason for the Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

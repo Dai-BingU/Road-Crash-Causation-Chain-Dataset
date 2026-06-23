@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a level two lane undivided roadway with a speed limit of 89 KPH (55 MPH). It was raining, the roadway was wet and it was daylight at the time of this weekday afternoon crash. Vehicle 1, a 2004 Ford E-series van, was traveling north ahead of Vehicle #2, a 1996 Geo Prizm. Vehicle 1 approached an intersection and stopped to make a left hand turn. Vehicle 2 struck Vehicle 1 in the rear with its front. Both vehicles came to rest in the roadway. Vehicle 2 was towed due to damage. The Ford van (Vehicle 1) was driven by a belted 32-year-old female who was not injured. No additional information was obtained as the driver could not be contacted or located. The Critical Precrash Event for Vehicle 1 was other motor vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. The Geo Prizm (Vehicle 2) was driven by a belted 19-year-old female who was not injured. The belted 19-year-old male front seat passenger was also not injured. Both were checked out at the scene by EMS personnel, but refused transport. No additional information was obtained as the driver could not be contacted or located. Police indicated that the driver did brake prior to impact, however, skidded into the back of Vehicle 1. The Critical Precrash Event for Vehicle 2 was other motor vehicle in lane stopped. The Critical Reason for the Critical Precrash Event was an unknown type of driver error. This was chosen because no further information was available. Additional factors coded to this vehicle were wet roads, misjudgment of velocity and gap to forward vehicle and insufficient braking inputs.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Weather/Environment present problem 
+Vehicle 2:  Decision, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle rear-end crash occurred on a straight asphalt roadway in mid-block. The roadway has a 4.1 % up hill grade. The location was a three-lane divided (without positive barrier) west-east roadway. The speed limit is 64 kph (40 mph). There was rush hour traffic on this weekday during morning hours. There was light steady rain and the roads were wet. Vehicle one (V1), a 2003 Jeep Liberty with one occupant was traveling west in the third lane of traffic. Vehicle two (V2), a 1991 Ford Ranger pick-up with one occupant was traveling ahead of V1. The traffic ahead of both vehicles was stopped. The driver of V2 slowed to a complete stop. The driver of V1 applied the brakes and steered to the right to avoid a collision. The front of V1 impacted the rear of V2. V2 moved forward and came to rest before impacting another vehicle. V1 crossed lanes two and one and departed the roadway to the south. The front of V1 impacted a tree and a small non-breakaway pole (height 60 cm/ 2 feet) as well as a wood fence. V1 came to rest at the tree. V1 was towed from the scene. A 36-year old male drove V1. He was heading from his home to his job site with the intention to stop by a dry cleaner. He was well rested, does not take any medication and is in good health. He was not in a hurry. He stated he kept a distance of 2-car length (9 meter/30 feet) at a speed of less than 30 mph (48 kph). In his estimate the driver of V 2 "slammed" on the brakes. He applied the brakes and steered to the right to avoid a collision. The critical pre crash event for V1 was coded "other motor vehicle in lane-other vehicle stopped." The critical reason for the critical event was coded "driver related error -too fast to be able to respond to unexpected actions of others." This driver did not expect traffic to be stopped in mid-block. He failed to look far enough ahead. Congested traffic, rain and wet roads were contributing factors. A 56-year old male drove V2. He was heading to a court appointment in the downtown area. The court was located west of the crash site. A few minutes prior to the crash, the driver decided to turn around and go back east to find an alternative route. He stated he was not in a hurry. He slowed down and was at a complete stop before he got rear-ended. He is in good health, does not take any medication and was well rested that day. The critical pre crash event for V2 was coded "other vehicle in lane-traveling in same direction with higher speed." No critical reason for the critical event was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Speed/Distance, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Roadway, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

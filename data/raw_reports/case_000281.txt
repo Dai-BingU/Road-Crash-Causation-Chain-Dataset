@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a two-way, two-lane divided roadway,with a curbed cement median in the center of the roadway. The asphalt roadway had a slight curve to the left and was dry and level. The posted speed limit was 56 kmph (35 mph) for both directions. There were no signalized or passive control devices for either direction at this middle of the block location. There were curbside parking lanes on both sides of the wide roadway. The crash occurred on a weekday during the early morning daylight hours. The roadway was free of any defects and the weather was clear. The traffic flow was normal. Vehicle one, a1999 Ford E350 Econoline Van, was traveling westbound on the two-lane west/ east roadway when it contacted, with its front, the rear of vehicle two, a 1998 Ford F150 truck traveling westbound on the same roadway. Vehicle two prior to the crash made a sudden stop when it saw a medium size school bus on his right side stopped with the vehicle's arm extended and caution lights blinking. Vehicle one was intending to continue traveling westbound before it made contact with Vehicle two. Vehicle one came to final rest directly behind Vehicle two still facing westward. Vehicle one suffered severe damages and had to be towed. Vehicle two's final rest position was at few inches ahead of its original stopping place continuing to face westward. Its damages were moderate and were not disabling. Vehicle one was driven by a 47-year-old male, who said he was traveling westbound when vehicle two suddenly stopped a few feet in front of his vehicle causing him to rear-end V2. He's an experienced bus driver and was aware of the cautions involved with driving children. He said, he was reprimanding one of the children. However, couldn't remember the subject matter. The children, he said, are displaced/-troubled children and tend to be a bit loud. He said, the van in front of him suddenly stopped in front of him. He admitted to being distracted by the children. This, he reluctantly feels, explains why he didn't see the van stopping until the last minute. He travels on this roadway weekly and feels comfortable driving on it. He was not injured. However, two of hi passengers were transported to the hospital with injuries. The Critical Pre-Crash Event coded to V1 is: other motor vehicle in lane stopped. The Critical Reason for V1 is: internal distraction, a recognition error. Associated factors include; looking at movement/ actions of other occupants. False assumption: assumed that other driver would continue to proceed. Conversing with passengers. The driver of V2, a 61-year old male, said he was traveling westbound when he stopped to adhere to the school bus flashing light and the traffic control arm when his vehicle was struck from behind by V1. He travels on the roadway weekly and said he did stop suddenly; it was enough time for V1 to stop also. He can't figure out why V1 hit the back of his vehicle. He was transported directly to the hospital with injuries. The Critical Pre-Crash Event coded to V2 is: other vehicle traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. An associated factor for the driver of this vehicle is a decision error; stopped suddenly
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a two-way, two-lane, bituminous, urban highway with a posted speed limit of 113 kmph (70 mph) divided by a concrete median barrier. Conditions at the time of the morning, weekday, holiday, crash were daylight, clear and dry. V1, a 2005 Dodge Ram ½ ton pick up driven by a 19 year-old male on his commute from home to work was westbound on the highway in a right hand curve, in lane two traveling 75-80 mph. The driver stated that he was traveling 1-2 car lengths behind the vehicle in front of him. The driver of V1 decided to switch lanes to the right intending to leave the highway at the upcoming exit ramp. As the driver began to switch lanes, the vehicle in front of him also began to move to lane one, without activating his turn signal. The driver of V1 swerved back to the left lane to avoid contacting the lead vehicle. The lead vehicle saw V1 entering the right lane and also swerved back to the left. The driver of V1 swerved to the left again leaving the roadway to the paved shoulder on the left. The left front and side of V1 struck the concrete median barrier wall. The driver then swerved to the right. V1 re-entered the roadway on the left, crossed lane two, and then lane one. V1 left the roadway on the right and crossed the paved shoulder. V1 continued across grass and the front of V1 struck an embankment on the right. V1 came to rest facing northwest. V1 was towed from the scene due to damage. The fully restrained driver denied injuries. The Critical Precrash Event coded to V1 was this vehicle traveling, off the road on the left side. The Critical Reason for the Critical Event was coded as overcompensation. Associated factors include aggressive driving (tailgating, as the driver of v1 was traveling 75-80 mph 1-2 car lengths behind a non-contact vehicle) as well as the low tread on the tires of V1, and the driver having only 11 months experience driving a pick-up truck.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Driver Inexperience, Driver Performance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

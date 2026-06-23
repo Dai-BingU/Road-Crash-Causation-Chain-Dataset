@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west rural state road that was two-way, two-lane and had a posted speed limit of 72kph/45mph. The westbound approach to the crash location was straight and had a +7% grade and the eastbound approach had a +9.4% grade in a curve right (radius 173meters) before curving back to the left slightly and peaking less than 25 meters before (east of) the crash location. The road had no shoulders. The crash occurred at dusk under dry conditions on a weekday evening. Vehicle #1 was a 1996 Subaru Legacy Outback Wagon traveling eastbound on the roadway. It had just completed negotiating a curve right and an immediate curve left at the top of a hill and crossed into the westbound lane and struck Vehicle #2 head on in the westbound lane. Vehicle #2 was a 2002 Infinity I35 traveling westbound and was about 20 meters from the crown of the hill when it was struck head on. After impact Vehicle #1 rotated counterclockwise and came to rest facing northwest across both lanes. Vehicle #2 was pushed backwards and right (north) and came to rest facing west partially off the right side of the road. Both vehicles were towed from the scene. The thirty four year old belted driver of Vehicle #1 was the beneficiary of deployed frontal airbags. He was transported via helicopter to a local trauma center for treatment of incapacitating injuries. Unfortunately the driver gave false contact information to the police and was unable to be located after his release from the hospital for an interview. The critical pre-crash event for Vehicle #1 was this vehicle traveling over the lane line on the left side of the travel lane. The critical reason was coded as an unknown driver error. No other factors were coded to this driver. Vehicle #2 was driven by a thirty seven year old belted male whose airbags deployed. He was also transported via helicopter to a local trauma center. His belted right front passenger was transported to the same treatment center with incapacitating injuries. The critical pre-crash event for Vehicle #2 was other vehicle encroachment from the opposite direction over the left lane line. The critical reason was not coded to this vehicle. Although it would not be called a recognition error the researcher did note that the physical contour of the road created a blind hill at the end of a curve.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Distraction, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

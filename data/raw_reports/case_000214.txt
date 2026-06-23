@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-lane undivided level roadway with a posted speed limit of 89 KPH (55 MPH). Vehicle #1 was negotiating a curve to the left with a superelevation of 8.4% and a radius of curvature of 225 meters. There was a warning sign (black on yellow curve) prior to the curve, but did not indicate a suggested speed. It should be noted that there was an 8 cm. lip on the edge of the shoulder where Vehicle #1 departed the roadway. The weather was clear, the roadway dry and it was daylight at the time of this early afternoon weekday crash. Vehicle #1, a 1998 Toyota Camry, was traveling north on the two-lane undivided roadway negotiating a curve to the left. Vehicle #1 drove off the right side of the roadway, through several inches of snow and struck a 50 cm diameter tree with its front. Vehicle #1 rotated clockwise back across both lanes of traffic and came to rest facing west in the southbound lane. The Toyota Camry was driven by a belted 83-year-old male, who was transported, treated and released at a local hospital for minor injuries. The driver indicated that he became dizzy while he was driving due to a new blood pressure medication that he had just started taking that morning. He stated that he went off the road, overcorrected and does not recall any other events of the crash. Vehicle #1 was towed due to damage. The Pre-Event Movement for V1 was negotiating a curve; the Critical Pre-crash Event for was off the edge of the road on the right side. The Critical Reason for the Critical Event was other physical impairment of the ability to act, a non-performance error. This was chosen because the driver indicated that he felt dizzy due to his new blood pressure medication. An additional associated factor coded to this driver was the use of prescription medications. He was taking 3 unidentified medications: (a) a new blood pressure medication, (b) a blood thinner and (c) aspirin. He was wearing hearing aids in both ears for 75% loss of hearing.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

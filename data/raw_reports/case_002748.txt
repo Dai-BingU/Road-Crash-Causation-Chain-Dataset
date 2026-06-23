@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This crash occurred on weekday morning in the southbound lanes of divided, urban roadway; approximately 15m back from a signal-controlled intersection. The southbound roadway consisted of three bituminous, dry, straight, and level, lanes (with lane three designated as a left turn lane). The posted speed limit was 89kmph (55 mph). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2006 Mercedes-Benz E500, was southbound in lane two approaching the intersection. V2, a 2001 Toyota Camry was also southbound in lane and decelerating for the traffic that was already stopped at the light. V3, a 1995 Dodge Dakota was stopped facing south in lane two waiting for the traffic signal to turn green. V1 failed to stop for the traffic ahead of it and struck rear of V2. The force of impact pushed V2 forward where it struck the rear of V3. All vehicles came to rest in lane two near the point of their respective impacts. V1 was driven by a 49-year-old male who stated who was on his morning commute to work while listening to a talk radio program. He stated that he was not concentrating on any one thing and possibly just wasn't paying attention. He applied full ABS application when he realized V2 was slowing in front of him but he could not avoid the collision. V1 was towed due to damage. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason was coded as a driver related factor, inattention. In addition to the inattention the driver's inexperience was also coded as the vehicle was new and he had not driven it much. V2 was driven by a 28-year-old female who refused to be interviewed. The Critical Precrash Event for V2 was coded other vehicle in lane, other vehicle decelerating. The Critical Reason was not coded to this vehicle. The driver was not thought to have contributed to this crash. V3 was driven by a 45-year-old female who stated that she had been at a controlled stop for approximately 20 seconds before she heard and felt the contact of V1 to V2. This vehicle was driven from the scene. The Critical Precrash Event for V3 was coded as not involved in the first harmful event. The Critical Reason was not coded to this vehicle. The driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of two urban roads. The north/south roadway had three lanes (one southbound, one northbound left turn-only and a straight northbound lane with a right turn gore) and was straight and level. The intersecting east/west roadway had three lanes (one westbound, one straight through, and one left turn only) with an eastbound grade of positive two percent. The east/west road was straight. The intersection was controlled by traffic lights and had pedestrian signals also. The southwest corner had a large building with tall shrubbery surrounding it. Conditions were dawn and dry on a weekday. The posted speed limit for both roadways was 48 kmph/30mph. Vehicle #1 was a 2003 Toyota Camry that was traveling east in the right lane, intending to proceed straight through the intersection. As it was passing through the intersection, it was struck on its right side by Vehicle #2, a 2004 Chevrolet Suburban that was traveling north in the northbound right lane, also intending to go straight through the intersection. Immediately before impact, Vehicle #1 veered left. After impact, it veered right, coming to rest on the east side of the intersection in the grass on the right side of the road about 30 meters east of impact. Vehicle #2 came to rest in the intersection facing northwest. Both vehicles were towed from the scene. Vehicle #1 was driven by a sixty-one year old belted female whose airbags did not deploy. She was transported due to possible injury to a local trauma center. She stated in the interview that she had taken a prescription pain killer about 2 hours before the crash due to some back problems. The Critical Pre-crash Event for Vehicle #1 was this vehicle traveling, passing through an intersection. The Critical Reason for the Critical Pre-crash Event was coded as inattention. This driver claimed to have a solid green light but she did not seem very sure of anything else so this was discounted as not credible. She also failed to look to the side as she entered the intersection. She has driven that road daily for the last twenty-seven years and was on her way to work when the crash occurred. The use of prescription medications was also coded as an associated factor. Vehicle #2 was driven by a fifty-two-year old belted male, who was uninjured in the crash and whose airbags also did not deploy. He was on his way to pay a utility bill when the crash occurred. The Critical Pre-crash Event for Vehicle #2 was other vehicle encroachment from crossing street, across path. The Critical Reason was not coded to this vehicle. The downloaded EDR indicated a five second pre-crash speed of 61 kmph/38 mph, and so excess speed was coded as an associated factor. A sightline restriction was also coded due to the building and shrubbery at the southwest corner of the intersection. The driver was also unfamiliar with the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Inexperience, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

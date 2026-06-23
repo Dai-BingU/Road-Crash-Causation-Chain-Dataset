@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred during the early afternoon daylight hours, in the intersection of a two-way, four lane (seven overall), divided roadway without a positive barrier. Three vehicles involved a passenger car, pick-up truck and a van type truck. Both roads were dry, traveled concrete. The intersection has a traffic light and a posted speed limit of 56 kmph (35 mph). There were no adverse weather conditions. Vehicle one (V1) is a 2002 Ford Ranger driven by a 69 year-old male who was in good health and well rested. V1 was traveling southbound in the second travel lane. Vehicle two (V2) is a 2004 BMW 530i driven by a 50 year-old female who was in good health and rested. V2 was traveling eastbound in the first travel lane. Vehicle three (V3) is a Isuzu straight truck driven by a 34 year-old male who was in good health and rested. V3 was stopped northbound in the fourth travel lane. V1 entered the intersection without the right of way and was struck on the right side by the front of V2. V1 began to rotate clockwise and rolled over onto the left side. V1 then struck the front of V3. V1 came to rest on it's top in the intersection. V2 rotated clockwise and came to rest in the intersection facing southeast. V3 came to rest back at the point of impact. All three vehicles were towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inattention (i.e., daydreaming). The driver was coming from lunch & was on his way to a meeting with a client and had been lost in thoughts about work, not realizing he entered the intersection on a red light. He has high blood pressure and takes the medication Plavix. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle. V3 was not involved in the first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Starting in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

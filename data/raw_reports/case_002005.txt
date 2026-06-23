@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle nighttime collision occurred at 0622 hours. The crash occurred off the right side of a north-south roadway, heading south after a left turn from an east-west roadway. The east-west roadway is four lanes of two way traffic on bituminous paving, straight with an uphill grade of 2.5%. The north-south roadway is two lanes of two-way traffic with turn lanes at the intersection. The north-south roadway is straight level dry concrete paving. The intersection of the roadways is paved with bituminous. The posted speed limit for both roadways is 48 Kmph (30 mph). Vehicle 1 (V 1), a 2000 Audi A4, driven by a 21 year-old male was traveling west in lane 2. V 1 then turned left at the intersection, was unable to complete the turn at the speed they were traveling, and left the southbound roadway to the right. Upon leaving the southbound roadway, V 1 struck a pole and came to rest. V 1 was towed from the scene. Two witnesses interviewed by the officer on scene stated that the driver was racing with a black car on the westbound roadway. Upon reaching the intersection, the driver of the Audi turned sharply to the left and could not make the turn, leaving the road and impacting the pole. At the intersection, there are two sets of skid marks on the concrete and the painted crosswalk that end at the final rest position of V 1 and correspond to the left and right tires. From the radius of the skid marks, and an approximate value for the coefficient of friction of the roadway, a range of travel speeds between 50 and 67 Kmph (32 to 42 mph) was found for the speed of V 1 through the turn. The pre-event movement for V 1 was coded turning left. The critical pre-crash event was coded this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical event assigned to this driver is driver related factor: "aggressive driving behavior" (speed and racing are additional factors).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Fatigue, Driver Performance, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior

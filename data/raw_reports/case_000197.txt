@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on an exit ramp off the northbound lanes of a high volume, high speed, and interstate highway. The exit ramp off the highway connects it to another highway. The exit ramp consisted of two lanes that were straight and level with a posted advisory speed limit of 56 kmph (35 mph). The conditions were dry and clear on a weekday afternoon but traffic was congested due to a previous accident nearby. Vehicle 1 (V1), a 2001 Jeep Cherokee with one occupant, was attempting to exit highway onto the connecting highway. Vehicle 2 (V2), a 2000 Mercury Sable was also exiting the highway just ahead of V1. As the two vehicles entered the exit ramp the congested traffic ahead of them drastically slowed down. V1 was not able to slow down in time and struck the back of V2. Both vehicles came to rest near the point of impact but were moved to the shoulder to allow traffic to pass. Both vehicles were towed due to damage. The driver of V1, an unbelted 38 year-old woman, was transported for incapacitating injuries she received as a result of the crash. She claimed that the traffic was quite congested, as there was a vehicle fire on the right hand shoulder. She stated that the driver in front of her slowed dramatically and she hit her brakes but was unable to stop before hitting the rear of V2. She was cited for failure to use due care. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason was a driver recognition error, driver inattention. An associative factor was the traffic congestion due to the previous accident nearby. The driver of V2, a belted 81-year-old male, was on his way to a dr. appointment at the time of the crash. He stated in the interview that he was driving on the exit in lane two when the car in front of him slowed down, which caused him to slow down and stop. He claims that he always allows enough room between him and other vehicle to allow for unexpected changes from other drivers. He looked in his rearview mirror and saw V2, very close behind him. When he slowed down he was hit from behind by V1. He was not injured as a result of the crash. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in the same direction at a higher rate of speed. The critical reason was not coded to this vehicle. The only associated factor coded to V2 was the traffic congestion due to the previous accident nearby.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Merging
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of weekend in the middle of a residential, four-way intersection. The intersection consisted of two, two lane roadways controlled by stop signs for the east/west traffic. The bituminous east/west roadway was dry and straight with an uphill grade and a posted speed limit of 40 kmph (25 mph). The bituminous north/south roadway was also dry and straight with an uphill grade and a posted speed limit of 40 kmph (25 mph). The traffic flow was normal and sky was cloudy and overcast at the time of the crash. V1, a 1992 Chevrolet Blazer with at least one occupant, was eastbound approaching the intersection where it intended to go straight. V2, a 1999 Plymouth Voyager with two occupants was northbound approaching the same intersection where it also intended to go straight. V1 failed to stop for the stop sign and was struck on its right side as V2 entered the intersection. The force of impact caused V1 to rotated clockwise and roll left one-quarter turn. V1 skidded on its left side over the northeast corner of the intersection and struck a utility pole (with its top) before coming to final rest on its side. V2 came to final rest in the middle of the intersection. The driver and any occupants of V1 fled the scene on foot. Both vehicles were towed due to damage. No subsequent information was obtained regarding the driver of V1 and therefore an interview could not be conducted. Upon contacting the owner of the vehicle this researcher learned that it had been reported stolen a few days earlier. The owner stated that at the time of the crash he was in pursuit, but had lost track of the vehicle a few blocks from the scene. The Critical Precrash Event for V1 was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Event was coded as an unknown driver error. Associated factors coded to V1 include traveling too fast for conditions and an illegal maneuver (failure to stop for traffic control device). The driver of V2, a 29-year-old female, in good health was traveling with her boyfriend to visit her mother at the time of the crash. She stated that as she approached the intersection she noted the dark colored vehicle coming from her left at a high speed. When she realized that it was not going to stop she attempted to brake and steer right but could not avoid V1. She claimed that all she could do was look at the passenger before the airbag deployed. After final rest she could not see much outside of her vehicle because of the airbag smoke. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street, across path. The Critical Reason was not coded to this vehicle. Associated factors include inattention as the driver was conversing with her husband and a false assumption as she assumed the other driver would yield the right-of-way. A witness stated that he stepped out onto his porch after dinner V1 entered the intersection (running the stop sign at a high speed) and was struck by V2. He saw the driver of V1 climb up and out of the passenger's side and flee the scene to the east. He then stated that other occupants climbed out through the back tailgate and fled to the east as well.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Speed/Distance present problem 
+Vehicle 2:  Distraction, Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

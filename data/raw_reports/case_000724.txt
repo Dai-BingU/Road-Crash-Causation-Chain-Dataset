@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a four-lane highway with a paved median. There were four eastbound lanes with paved shoulders and a right side exit ramp. The roadway had a posted speed limit of 104 kmph (65 mph) and an uphill grade of 5%. Conditions were dark and dry with clear skies. The setting was late evening on a weeknight. Vehicle one was a 1989 Ford LTA9000 heavy wrecker traveling eastbound in lane two while towing a dump truck. Vehicle two was a 2001 Ford F150 pickup traveling behind v1 in the same direction and same lane. V2 was traveling faster than v1, and subsequently impacted the rear of v1 with its front (Event 1). V1 pulled on to the right shoulder and came to rest. V2 departed the roadway to the right and impacted a guardrail with its front (Event 2). V2 then sideswiped the guardrail (Event 3) and came to rest at impact. The engine compartment of v2 caught fire, and the driver fled the scene. The Ford LTA9000 (v1) was driven by a 45-year old male who was uninjured. He stated that he was taking a broken-down dump truck back to his company shop when he felt a bump, followed by the feeling of a flat tire to the towed dump truck. He pulled over and then noticed v2 on fire behind him. He estimated his travel and impact speeds to be 104 kmph (65 mph). He never saw v2 and thus had no avoidance maneuver. The Ford heavy wrecker continued in service after the crash. The Critical Precrash Event for v1 was other motor vehicle in lane traveling in the same direction with a higher speed. No Critical Reason was coded to this driver. The driver travels this road on a weekly basis. No other associated factors were present. The Ford F150 (v2) was driven by an unknown driver whose injuries were unknown. The investigating officer estimated his travel and impact speeds to be 136 kmph (85 mph) and 120 kmph (75 mph), respectively. The Ford pickup was towed due to damage. The Critical Precrash Event for v2 was other motor vehicle in lane traveling in the same direction with a lower steady speed. The Critical Reason was a driver related factor of too fast for conditions (too fast to slow down for another vehicle in the same lane). No vehicle factors were present. No other associated factors could be coded since the driver was unknown.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+Vehicle 2:  Decision, Speed/Distance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Too fast for conditions (specify) :

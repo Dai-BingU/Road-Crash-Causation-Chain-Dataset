@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-lane, two-way, non-divided dry asphalt city street with a posted speed limit of 40Kmph (25Mph). The conditions at the time of the crash were clear and dry. The road that the crash occurred on was found to not have any deficiencies. A 44yr old female was driving V1 a 1996 Pontiac Sunfire; traveling northbound approaching the driveway she intended to turn into. The driver stated in the interview that she slowed down to about 5Mph, looked ahead did not see any vehicle coming so she started to turn. She then stated that her husband that was in the front right seat yelled out for her to hit the gas, and she did, but it was to late to avoid the collision. The Critical Pre-crash Event coded for V1 is turning left (into a driveway). The Critical Reason for the Critical Pre-crash Event was coded for V1 is a recognition error (looked but did not see). A 35yr old male was driving V2 a 1995 Chevy Tahoe; was traveling southbound approaching the driveway, when V1 turned in front of him. The driver of V2 stated that he saw V1 but did not know she was going to turn in front of him, by the time he saw her turn it was to late. The driver also stated that he did not have enough time to react and do anything. The Critical Pre-crash Event coded for V2 is other motor vehicle encroaching from oppoxite direction - over left lane line. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Cell Phone Use, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of weekday on the right roadside of a two-lane rural roadway. The north/south roadway consisted of one lane in each direction with a posted speed limit of 48 kmph (30 mph). The pre-crash roadway was slightly curved to the left (radius of curvature: 225m) but straightened out near the point of the first harmful event. The bituminous roadway was dry, straight, and level. The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2000 Mazda 626 with one occupant, was northbound coming out of the curve and entering a straight portion of roadway. V1 drove off the right side of the roadway down a steep embankment (-67% slope) where it struck and knocked down a fence around a pasture. V1 continued forward, traveling across the pasture and striking the left rear of a parked flatbed trailer with its front left bumper. Then V1 deflected off the trailer to the east for another 20m where it came to rest facing east. V1 was towed due to damage. The driver of V1, a 55-year old female, received incapacitating injuries and was transported to a hospital for treatment. At the hospital, the driver advised that she was on her way home from work traveling about 18-32kph (11-20mph). She claimed that she drove this way daily she knew she was in a straight stretch of roadway. She stated that she looked and reached over to her purse, which was on the passenger seat, to get a piece of gum. She then felt her vehicle go off the right side of the road. She said she no longer had control of the vehicle at that point. It traveled down the embankment, over the fence and struck a trailer in a pasture. The Critical Precrash Event for V1 was coded this vehicle traveling, off the roadway, right side. The Critical Reason was coded as a driver related error, an internal distraction. The driver was looking and reaching for gum in her purse.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

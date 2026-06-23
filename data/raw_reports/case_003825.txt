@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in a four-way intersection on two urban roadways with curbed, grass medians. There was one lane northbound lane and three lanes westbound. The north and southbound lanes were controlled by stop signs. The east and westbound lanes were not controlled. The east/west roadway had a posted speed limit of 72 kmph (45 mph) with a 5 percent downhill grade in the westbound direction. The northbound roadway was level. Conditions were daylight and dry with clear skies. The setting was midday on a weekday. Vehicle one was a 2001 Buick Park Avenue 4-door sedan stopped for traffic facing northbound in lane one. Vehicle two was a 1999 Ford Windstar minivan traveling west in lane one. The driver of V1 originally intended to turn left, but after waiting for several minutes decided to go straight across the intersection. V1 and V2 proceeded through the intersection at the same time. The right plane of V1 was impacted by the front of V2. V1 continued off the northwest corner of the intersection and impacted a light pole with its left plane. V1 came to rest in the northwest roadside. V2 rotated 150 degrees clockwise after impact and came to rest in the intersection northwest of the point of impact. The Buick Park Avenue (V1) was driven by a 71-year old male who was transported to a local trauma center with no reported injuries. He stated that he was heading to a restaurant with his wife when he came to a large intersection. He waited at the stop sign for five minutes trying to turn left, and then decided to go straight instead and then U-turn. He noted that the bushes in the median to his right were blocking his view. He pulled out and was struck from the right without warning. He estimated his travel and impact speeds to be 24 kmph (15 mph). The Buick sedan was towed due to damage. The Critical Pre-crash Event for V1 was this vehicle traveling crossing over an intersection. The Critical Reason for the Critical Event was a driver related factor of inadequate surveillance (looked but did not see). This driver took medication for colitis (inflammation of the colon). He wore glasses for a nearsighted condition. He was retired, and rarely drives this roadway. He never took any form of driver's education. The shrubbery in the median did create a sightline restriction and the driver crossed the intersection with an obstructed view. The Ford Windstar (V2) was driven by a 29-year old female who was transported to a local trauma center with unknown injuries. She stated that she was taking her kids to the dentist when another car pulled out from the left into her path. She braked with lockup but couldn't avoid the crash. She was unable to estimate her travel and impact speeds. The investigating officer estimated them to be 72 kmph (45 mph) and 64 kmph (40 mph). The Ford minivan was towed due to damage. The Critical Pre-crash Event for V2 was other vehicle encroachment from a crossing street across the path of this vehicle. No Critical Reason was coded to this vehicle. This driver was talking with her son in the back seat at the time of the crash. She takes medication for heartburn and birth control. She was wearing sunglasses. She works part-time. Her vehicle had inadequate tread depth on three of its four tires.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Physical, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Physical, Drugs, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

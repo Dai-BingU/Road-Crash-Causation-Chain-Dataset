@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of a weekday on a two-way, two-lane undivided roadway. The bituminous roadway featured with a curve to the right, an uphill grade of 4.5%, and a super-elevation of 4.1%. The posted speed limit for the northbound traffic goes from 89kmph (55mph) down to 64kmph (40mph) in this area. The posted speed limit for the southbound traffic does the opposite, going from 64kmph (40mph) up to 89kmph (55mph). The weather was clear and it was daylight. This crash occurred on a weekday afternoon. V1, a 2000 Dodge Caravan, was northbound, negotiating the curve to the right behind a large tractor-trailer. V2, a 2000 GMC K1500 pickup with X-Cab, was traveling south on the same roadway. V1 attempted to pass the tractor-trailer as they negotiated the curve and entered V2's lane of travel. The front left corner of V1 struck the left side of V2. V1 came to rest, on its wheels, off the roadway on the left side facing west. After the initial impact V2 skidded, and rolled over one quarter turn onto its right side where it came to final rest on the east side of the roadway, facing east. Both vehicles were towed due to damage. V1 was driven by a belted 69 year-old male who was unable to be located after numerous attempts to obtain an interview. This driver stated to police at the scene that he had fallen asleep. He was transported to an area trauma center for treatment of incapacitating injuries. The Critical Precrash Event for V1 was coded this vehicle traveling, over the lane line on the left side. The Critical Reason for Critical Precrash Event was coded as a driver related factor, an illegal maneuver as the driver passed against a double yellow line in an unsafe location. There were no other associated factors able to be coded to V1, as an interview was not obtained. V2 was driven by a belted 46 year-old male who was transported to an area trauma center by helicopter with incapacitating injuries. The driver stated he saw the vehicle in his lane and attempted to avoid it by braking and steering to the right but could not avoid V1. This driver stated he “blacked out” after his vehicle came to final rest. The Critical Precrash Event for V2 was coded other vehicle encroachment, from opposite direction - over left lane line. The Critical Reason was not coded to this vehicle. There were no associated factors coded to V2 and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Physical, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

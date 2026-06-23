@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two vehicle late afternoon crash occurred in a suburban intersection controlled by stop signs in all directions. All approaching roadways are non-divided, two-way, consist of two lanes, are level, straight, bituminous, and were dry at the time of the crash. It was late afternoon, and the sun was low in the west. Vehicle one (V1), a 2000 Pontiac Firebird coupe driven by a 32 year-old male was westbound approaching the intersection intending to go straight. Vehicle two (V2), a 1999 Ford Taurus 4 door, driven by a 28 year-old female was southbound stopped at the intersection. Both vehicles entered the intersection, V1 did not stop, and the front of V1 struck the left side of V2. The impact redirected both vehicles on a southwest trajectory and V1 came to final rest at the southwest corner of the intersection, facing southwest. V2 came to final rest in the eastbound lane, west of the intersection, facing west. V1 and V2 were towed from the scene due to damage. The driver of V1 was driving with T-Tops removed and stated that the sun was shining directly into his eyes, so he looked into the interior of his vehicle for his sunglasses, which were on the passenger seat. As he was reaching for his sunglasses the crash with V2 occurred. According to a witness who was directly behind V2: V2 stopped at the stop sign, then entered the intersection, and was struck in the left side by V1. The V2 driver refused to be interviewed. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as a driver related factor: internal distraction. As he approached the intersection, the driver of V 1 took his eyes off the road in order to locate and retrieve his sunglasses. The critical pre-crash event for V2 was coded: other motor vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle. Associative factors: 1) Sun glare in the V 1 driver's eyes. 2) The V 1 driver's inexperience with the roadway; he had not previously driven on the road where the crash occurred.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

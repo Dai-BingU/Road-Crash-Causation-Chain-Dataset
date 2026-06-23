@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary Vehicle 1 (V1), a 1995 Nissan Pathfinder, was traveling eastbound on a dry, dirt road with a non-posted speed limit of 89 kmph (55 mph) during the late morning hours. The Nissan was being used as a United States Postal delivery vehicle. V1 was driven by a 59-year old male who was traveling on the road from one delivery point to the next. V1 drifted to the right, off the edge of the roadway where it contacted a street sign, and then fell off the road into a creek bed, rolling two-quarter turns and coming to rest on its roof. V1 was towed due to damage, but the driver was uninjured. The driver stated that he sat in the passenger's seat so that he could be close to the mailboxes, but controlled the vehicle with his left hand and left foot. He stated that he was trying to stay as far to the right as possible, but when he realized that he was too far over, he tried to pull the vehicle back onto the road but was unable to do so. He said that it felt like he was stuck in a rut. At the point where the vehicle fell off the road, there was a drainage pipe/chute that was probably used for rain run-off. There were no markers that warned of the presence of this pipe. The roadway was not clearly defined, nor was there a defined shoulder. There was vegetation bordering the road edge that hid the drainage pipe. The Critical Pre-crash Event for the driver of V1 was when he traveled off the edge of the road on the right side. The Critical Reason for the Critical Pre-crash Event was coded as a poor directional control, because the driver of V1 failed to keep his vehicle on the roadway. Associated factors included other non-driving activities (delivering and possibly sorting mail while driving) and roadway-related factors in that the roadway was not clearly defined, with non-existent shoulders and dangerous drop-offs on the sides.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

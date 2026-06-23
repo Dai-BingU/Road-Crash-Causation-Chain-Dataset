@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred on a 4 lane divided highway with a positive barrier. The roadway was straight with no grade and no super-elevation. The posted speed limit was 105KMPH (65MPH). The weather was clear and the roadway was dry. This crash occurred on a weekend afternoon. Vehicle #1, a 2004 Honda Accord was southbound and stopped in lane two on the roadway due to heavy rubbernecking traffic from a prior crash in a northbound lane. Vehicle #2, a 2006 Hyundai Azera was decelerating to a stop behind Vehicle #1. Vehicle #3, a 2002 Ford Focus, was traveling behind Vehicle #2 in lane two. Vehicle #4 was changing lanes from lane one to lane two behind Vehicle #3. The drivers of Vehicle #4, #3 and #2 were looking at an emergency vehicle stopped on the west shoulder with its flashing lights and sirens in operation. Vehicle #3's front contacted the back of Vehicle #2, pushing Vehicle #2's front into the back of Vehicle #1. Vehicle #4's front, simultaneously, impacted with the rear of Vehicle #3. All 4 vehicles came to final rest in their original lanes. All drivers and passengers refused treatment stating they were not injured. The Honda Accord (Vehicle #1) was driven by a belted 31 year old female who stated she was stopped in traffic and did not see Vehicle #2's action until after it hit her. The Critical Precrash Event coded to Vehicle #1 was "not involved in first harmful event". The Critical Reason for the Critical Precrash Event was not coded to this Vehicle. The Hyundai Azera (Vehicle #2) was driven by a belted 47 year old male who stated he was braking from 56KMPH (35MPH) to a stop while looking a an emergency vehicle on the west side shoulder. He stated he was stopped before being hit by Vehicle #3. The Critical Precrash Event coded to Vehicle #2 was "other vehicle in lane, traveling in same direction with higher speed". The Critical Reason for the Critical Precrash Event was not coded to this vehicle. The Ford Focus (Vehicle #3) was driven by a belted 29 year old female who stated she was looking at the emergency vehicle on the west shoulder and had not realized traffic had stopped in front of her. She also stated she thought that being hit in the rear and her hitting the vehicle in front of her occurred at the same time. The Critical Precrash Event coded to Vehicle #3 was: "other vehicle in lane, other vehicle stopped". The Critical Reason for the Critical Precrash Event was coded as "external distraction". The Toyota Corolla, (Vehicle #4), was driven by a belted 43 year old male who stated he was changing lanes from lane one to lane two in order to allow room for the emergency vehicle. He stated he was looking at the emergency vehicle while changing lanes and did not realized traffic in lane two had stopped. The Critical Precrash Event coded to Vehicle #4 was "not involved in first harmful event". The Critical Reason for the Critical Precrash Event was not coded to this vehicle. The police did not consider alcohol or illegal drugs to be a factor in this crash and ordered no tests for any of the drivers.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Traffic present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Traffic present problem 
+Vehicle 3:  Distraction, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other- Not involved first harmful event
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Driver Related Factor- External distraction

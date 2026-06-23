@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a four-lane divided highway with a grass median. There were two eastbound lanes on a level surface with a posted speed of 80 kmph (50 MPH). Conditions were daylight with cloudy skies. The crash occurred in the early afternoon hours of a weekday. Vehicle one was a 1998 Toyota Camry sedan. Vehicle two was a 1998 Saturn SL2 sedan. Vehicle three was a 1999 Honda Accord EX coupe. All three vehicles were traveling eastbound. V1 and V2 were in lane two. V3 merged into lane two in front of V2. The traffic began decelerating for a construction zone ahead. The front of V1 contacted the rear of V2, pushing it into the rear of V3. V3 was pushed into V4, a 1999 Chevrolet Cavalier. All four vehicles came to rest in the roadway. Vehicle one was driven by a 32-year old male who was uninjured. He stated that he was looking down between the seats and reaching for a beverage just prior to the crash. When his eyes returned to the roadway he braked but did not have enough time to stop. He estimated his speed to be 35 MPH at the time of impact. Vehicle one was towed due to damage. The Critical Precrash Event for V1 was when another vehicle was in the same lane traveling in the same direction while decelerating. The Critical Reason was a recognition error created by an internal distraction of reaching for the beverage. An associated factor was the traffic flow interruption one-quarter of a mile ahead due to a construction work zone. Vehicle two was driven by a 56-year old male who was transported to a local trauma center with possible injuries. This driver was unable to be located and did not return phone calls. The investigating officer estimated his speed to be 5 MPH at impact. Vehicle two was towed but not due to damage. The Critical Precrash Event for V2 was when another vehicle was in the same lane traveling in the same direction with a higher speed. No Critical Reason was coded to this driver. One associated factor was coded to this driver - the traffic flow interruption up ahead. All other information was unknown due to a lack of interview. Vehicle three was driven by a 19-year old male who was uninjured. He stated that he had just merged into lane two when a rear end crash behind him crashed into the rear of his vehicle. He estimated his speed to be 30 MPH at impact. Vehicle three continued in service after the crash. No Critical Precrash Event and no Critical Reason were coded to the driver of V3 because he was not involved in the first harmful event. One associated factor was coded to this driver - the traffic flow interruption up ahead.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Merging
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 1994 Buick LeSabre, was traveling eastbound on a two-lane, two-way, dry asphalt roadway with a level grade in dark-unlighted conditions. There was no posted speed limit on the roadway, which by default would be 89 kmph, or 55 mph as reported on the police accident report. V2, a 1995 Volvo WhiteGMC tractor-trailer was turning left out of a private drive onto the same roadway. V2 reported seeing V1 before he pulled out of the driveway but said that V1 was way down the road and thought he had time to pull out. The front of V1 contacted the right side of V2 before they both came to rest off the south road edge. The driver of V1 was a 22-year old male who later reported that he could not remember anything about the crash. Police reported that he had been traveling 113 kmph (70 mph) prior to the crash because post-crash, V1's speedometer was stuck at 70 mph. The driver of V1 had no health-related problems and had not taken any medication. He does not remember where he was going at the time of the crash. He does not wear corrective lenses. Alcohol presence was reported and may have been a contributing factor. The driver of V1 was transported to a local trauma facility with serious injuries. The Critical Precrash Event for the driver of V1 was other vehicle encroachment from driveway, turning into same direction. The Critical Reason for the Critical Precrash Event was not coded to the driver of V1, although alcohol and speed played a factor. Medical records indicated that the driver of V1 had a BAC of .19. Due to his claim that he had no recollection of the crash, it was not known if he took any avoidance actions or if he was distracted in any way prior to the crash. An associated factor coded to this driver was excess speed - a post-crash inspection of V1 revealed the speedometer to be stuck at 70 mph. The driver of V2 was a 40-year old male who reported that he had been traveling between 2-16 kmph (1-10 mph) prior to the crash. He had no health-related problems, and had taken no medication prior to the crash. He was rested and traveling to work. He does not wear prescribed lenses. He was not injured in the crash. The Critical Precrash Event for the driver of V2 was when he began to turn left onto the roadway. The Critical Reason for the Critical Precrash Event was a decision error - misjudgment of gap or other's speed, because the driver of V2 thought that he had enough time to pull out onto the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Speed/Distance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into same direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Misjudgment of gap or other's speed

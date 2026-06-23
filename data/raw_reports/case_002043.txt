@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of weekend at an intersection of a two, two-lane bituminous roadways. Both vehicles were traveling on the east and westbound roadway approaching the intersection. The eastbound travel lane had a 2.8 % grade and the westbound travel lane had a 1.8% grade. Both roadways leveled off at the intersection and the grade of the intersection is level. At the time of the crash the roadway was clear of any ice or snow, and there the weather was mostly sunny, with no precipitation. V1, a 1995 Pontiac Bonneville, was westbound approaching the intersection and came to a stop preparing to turn left. V2, 1995 Blue Chevrolet Pickup, was eastbound approaching the intersection intending to go straight. After waiting for a pedestrian to cross in front of his vehicle, V1 entered the intersection turning left. At this time V2 crested the hill and entered the intersection as well. The front left side of V2 contacted the left front side of V1 in the intersection. V1 was then pushed backwards and to the left where it came to rest. V2 continued east but went off the roadway on the right side where it came to rest. Both vehicles were towed from the scene due to damage, and the driver of V2 was transported from the scene to a local medical facility were he was treated for injuries and subsequently released. A witness to the crash who was watching from a house on the southeast corner stated that she saw V1 approaching the intersection, wait for a pedestrian to cross the road, and continue with its left turn. Additionally, the witness stated that although the speed limit for this intersection is only 48kmph (30 mph), she rarely sees vehicles approach the intersection traveling at those speeds. The speed limit does change from 72kmph (45 mph) near this approach to this area. V1 was driven by a 56 year-old male who was delivering pizzas, and he was attempting to make a turn to the left. The driver stated that he waited at the intersection for more than 10 seconds while a woman crossed the street with her two dogs. The driver stated that then he looked for traffic from the approaching direction, saw none due to the incline of the approaching roadway and decided to complete his turn. The Critical PreCrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason was coded as a driver related factor, inadequate surveillance. Associated factors for this crash include inadequate surveillance, as well possible inattention as the driver was focused on several exterior factors. V2 was driven by a 45 year-old male, who was returning home from visiting a friend. He stated that when he crested the hill he saw V1 in his lane and was unable to complete any evasive maneuvers. He stated that he couldn't recall his exact speed at the time of the crash, but assumed he was traveling close to the speed limit. The Critical PreCrash Event for V2 was coded other vehicle encroachment, from opposite direction, over the left lane line. There were no associated factors coded to this vehicle, as it was not thought to have contributed to this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

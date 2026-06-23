@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a one-lane entrance ramp. The ramp curved to the right with a downhill grade of 5 percent and was bituminous. The posted speed limit on the ramp was 32 kmph (20 mph). It was late morning on a weekday, weather conditions were clear, and the roadway that was being merged onto had heavy traffic. V1 was a 2002 Hyundai Accent 4-door driven by a 24-year-old female. V2 was a 2002 Isuzu NPR heavy truck driven by a 42-year-old male. Both vehicles were preparing to merge onto a busy highway from a one-lane entrance ramp. The driver of V1 had come to a stop and then began creeping forward, waiting for an opening in the traffic to merge into. The driver of V2 saw V1 stop and began looking to the left to view oncoming traffic. The driver of V2 then saw V1 move forward and he assumed that the vehicle was merging. He continued to look at the oncoming traffic to his left and began to accelerate. The driver of V1 had begun to merge and then stopped briefly before pulling forward again. The driver of V2 did not see V1 stop and then start up again, and the front of V2 struck the rear of V1. The Critical Pre-crash Event for V1 was "other motor vehicle in lane, traveling in same direction with higher speed." The Critical Reason was not coded to this vehicle. Associated factors coded to the driver of V1 include an exterior factor because she was looking at traffic to her left, the congestion on the roadway on which she was attempting to merge, and unfamiliarity with the roadway. The Critical Pre-crash Event for V2 was "other motor vehicle in lane, traveling in same direction with lower steady speed." The Critical Reason for the Critical Pre-crash Event was "driver related factor, false assumption of other's actions." Once the driver of V2 saw V1 initially pull forward, he assumed it would continue to merge, so he never looked forward again, instead looking to his left for his chance to merge. If the driver of V1 had looked ahead again he would have seen that V2 had not yet merged, and may have been able to take appropriate action. Associated factors coded to the driver of V2 include an exterior factor because he was looking at traffic to his left prior to the crash and the congestion on the roadway on which he was attempting to merge.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Traffic present problem 
+Vehicle 2:  Decision, Distraction, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

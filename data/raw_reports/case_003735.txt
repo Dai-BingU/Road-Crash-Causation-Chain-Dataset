@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle daytime collision occurred during early morning hours. The collision occurred in the northbound lane of a two lane undivided two-way roadway with a two-way left turn lane, where it intersects with a two-way side street. The pre-crash roadway for the main roadway is level bituminous paving. The pre-crash east/west roadway has a +8.6% grade approaching the main roadway, paved with concrete surface was wet. Traffic flow controlled by stop sign posted speed limit 40 kmph (25 mph). The north/south roadway has a speed limit of 48 Kmph (30 mph), Vehicle one (V1), a 2001 Subaru Outback station wagon, driven by a 41 year-old female with one passenger was stopped at a stop sign, facing west and preparing to turn left onto the main roadway. Vehicle two (V2), a 2002 Honda Civic sedan, driven by a 58 year-old male was traveling north in lane 1 of the main roadway. V1 turned left onto the main roadway into the path of V2, and the front of V2 impacted the front of V1. Both vehicles were towed from the scene, no reported injuries. The driver of V1 stated that she had stopped at the stop sign and thought that she had looked both left and right for the road to be clear. She also stated that apparently she didn't look left or it didn't register, because the road was obviously not clear of approaching vehicles. The driver of V2 stated that V1 pulled out so quickly that he did not have the reaction time to hit his brakes. Both drivers commented on how cars parked at the corner of the intersection make it difficult to see approaching traffic. It is possible that the driver of V1 did stop at the stop sign, but did not creep into the intersection to ensure there was no approaching traffic before completing the turn. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event assigned to this driver as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason for the critical event is not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

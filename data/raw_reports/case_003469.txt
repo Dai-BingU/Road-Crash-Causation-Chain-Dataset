@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a two lane undivided roadway curving to the left prior to the crash site with a grade of -7.9% and a posted speed limit of 64KMPH (40MPH). The weather was cloudy and the roadway was dry. This crash occurred on a dark, unlighted, roadway on weekday night. Vehicle #1, a 2001 Subaru Legacy Station Wagon, was traveling east on the two lane undivided roadway when a deer entered the roadway from the south. The driver braked and steered to the left, crossed the westbound lane and struck the north side guardrail and a sign. The vehicle then went over the guardrail, rolled over four ¼ turns while impacting with a tree stump. It landed on its wheels, stuck a log and rolled back several meters coming to final rest facing in a south westerly direction. The driver refused medical treatment at the scene, stating he was not injured. The driver stated he wanted ice cream and was on his way to the store. He refused to answer most interview questions, reiterating that he wanted ice cream. The Critical Precrash Event coded to this vehicle was: Object or Animal, Animal in Roadway. The Critical Reason for the Critical Precrash Event was coded as: Driver Related Factor, Poor Directional Control (e.g., failing to control vehicle with skill orinarily expected). The Police did not consider alcohol or illegal drugs to be a factor in this crash and issued no summonses.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Animal in roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

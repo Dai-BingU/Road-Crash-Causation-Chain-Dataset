@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekday in the middle of a four-way, commercial intersection. The intersection consisted of an east/west three-lane roadway (that served as the entrance to shopping center) and a north/south five-lane roadway (two lanes in direction divided by a center two-way left turn lane). The east/west roadway was dry, straight, level, and controlled by stop signs. The north/south roadway was dry and straight with a slight grade greater than 2% and a posted speed limit of 72kmph (45 mph). The traffic flow was heavy, as it was rush hour, but there were no adverse atmospheric conditions at the time of the crash. V1, a 2002 Lincoln LS, was stopped at the stop sign intending to turn left out of the commercial roadway. V2, a 2006 Ford F-150 pickup truck, was southbound in lane two approaching the intersection where it intended to continue straight through. As V1 began its left turn it crossed two lanes of traffic but stopped suddenly, straddling the center left turn lane. V2 was unable to stop and its front struck the left rear of V1. After impact V1 rotated counter-clockwise and came to rest facing northwest in lane one of the northbound lanes while V2 came to rest facing south in the middle turn lane. Both vehicles were towed due to damage. The driver of V1, a 67-year-old male, stated that he was waiting for traffic to clear so that he could turn left. He thought he saw enough of an opening to complete his turn so he entered the intersection. As he crossed the two lanes of traffic he realized he could not complete his turn and came to a stop in the center lane. He was than struck by V2. He was transported for treatment of minor injuries. The Critical Precrash Event for V1 was this vehicle stopped in traffic lane. The Critical Reason was this driver's misjudgment of gap or other's speed. Associated factors for V1 include the driver's decision to proceed without sufficient clearance and the heavy traffic from rush hour congestion. The driver of V2, a 20-year-old male, claimed he saw V1 pull out of the commercial roadway and assumed he would complete his turn. He saw V1 stop in front of him and he tried to brake but could not avoid the crash. The driver of V2 was uninjured. The Critical Precrash Event was coded other vehicle encroachment, from driveway, and turning into opposite direction. The Critical Reason was not coded to this vehicle. Associated factors for V2 include the driver's assumption that the other driver would continue to proceed and the heavy traffic from rush hour congestion.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs, Traffic present problem 
+Vehicle 2:  Decision, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other- Other (specify) :
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the intersection of a north-south road and an east-west road. The roadways were one-way with one lane of travel. The intersection was controlled by a traffic light, which was working properly. The conditions were daylight, and clear with no adverse conditions. The level roadway had a speed limit of 48 kmph (30 mph). The grade for V1 pre-impact location was measured as -3 percent, and the grade for V2 pre-impact location was measured as 2 percent. Vehicle #1 was a 1998 Jeep Cherokee, which was traveling northbound when the front struck Vehicle #2, a 1992 Nissan Maxima on the left side. Vehicle #2 then rotated counter-clockwise and the right side struck the back of Vehicle #3. Vehicle #3 was legally parked in the northwest corner of the intersection and pushed forward upon impact. The Jeep Cherokee was driven by a 21-year old male who did not sustain any injuries. He stated that the driver of Vehicle #2 disregarded the traffic control signal at the intersection. There were also three other occupants in his vehicle that did not sustain any injuries. He also stated that he could not avoid the crash once he saw Vehicle #2. The driver was issued a citation for failure to produce proof of registration. The Jeep was towed due to damage. The Critical Pre-crash Event for Vehicle #1 was coded as: Other vehicle encroachment from crossing street, across path. The Critical Reason for the Critical Event was not coded to this vehicle. No associated factors were coded to this driver. Vehicle #2 was driven by a 44-year old male who sustained unknown injuries and was transported to a local medical facility. The driver stated on the Police Report that he was speeding and trying to catch the light at the next intersection. The driver was also issued a citation for operation of a vehicle when privilege is suspended or revoked. The Nissan was towed due to damage. The Critical Pre-crash Event for Vehicle #2 was coded as: This vehicle traveling, passing through intersection. The Critical Reason for the Critical Event was coded as an illegal maneuver because he failed to stop for a traffic control signal. An associated factor coded to this driver was aggressive driving.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Aggressive Behavior, Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

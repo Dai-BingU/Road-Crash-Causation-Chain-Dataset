@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two vehicle early afternoon crash occurred in a residential arterial intersection with stop signs for north/south traffic entering the arterial. The intersection where the crash occurred is a T-intersection with a private driveway to the south, which is the entrance to a school parking lot. The road surfaces were dry and bituminous; the northbound roadway is on a slight uphill grade, and there is a slight negative grade for westbound traffic. The speed limit on the arterial is 56 kmph (35 mph). At the time of the crash, it was daylight, the weather was clear and there were no adverse weather conditions, sight restrictions or road defects. Vehicle one (V1), a 2000 Nissan Xterra SUV, driven by a 16 year-old female was entering the arterial from the south side traveling northbound. As V1 crossed over and through the intersection it was struck on the right side by vehicle two (V2). After impact V1 departed on a northbound trajectory in a clockwise rotation, tripped over and rolled one quarter turn onto its left side and came to rest in the northeast corner of the intersection. V1 was towed due to damage. V2, a 1986 Mercedes-Benz 420SEL four door sedan, driven by a 17 year-old female was traveling westbound in the inside lane approaching the intersection. V2 struck the right side rear of V1 as it crossed its path. On impact V2 rotated slightly clockwise and stopped in its original travel lane. Vehicle two was towed due to damage. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason was attributed to V1 as a driver related factor: type of driver error unknown. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

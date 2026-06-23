@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 2003 Pontiac Vibe, was traveling westbound on a dry 5-lane undivided (3 lanes westbound, 2 lanes eastbound) asphalt roadway in dark conditions. V2, a 1997 Oldsmobile Silhouette, was also traveling westbound on the same roadway. The roadway was dry, straight, and level, with a posted speed limit of 56 kmph (35 mph). Both vehicles were traveling in the first lane, with V1 following V2. V2 stopped for a red light at a 4-way signalized intersection. The front of V1 contacted the back of V2 before coming to final rest on the roadway. Both drivers and the one passenger in V2 were transported to a local trauma center and treated for moderate injuries. The driver of V1, a 53-year old female, reported that she was traveling between 31-40 mph. She was unaware of how the crash had happened. The police and ambulance reported that the driver might have had a seizure, which may have been the cause of the accident. There was no evidence of any braking on the part of V1. The driver of the V1 had been traveling to stay with family for a few days. She had traveled for five miles before the crash occurred. She had a history of cancer and high blood pressure, neither of which seemed to have a factor in the crash. The driver reported that she felt rested and had no emotional contributors. The Critical Precrash Event for the driver of V1 was when another vehicle was stopped in her lane. The Critical Reason for the Critical Event was coded as "heart attack or other physical impairment of the ability to act," a critical non-performance error. This was chosen based on medical records that indicated that doctors believed the driver of V1 had suffered a seizure while driving and had temporarily relinquished control of her vehicle. Medical records indicated that the driver of V1 had a long history of seizure activity and was taking medication to control this. The seizure medication had the possible side effects of sedation, weakness, and sleepiness. The driver of V1 was also taking three other medications: a cholesterol-lowering medication, a thyroid replacement therapy medication, and a medication used to prevent osteoporosis. None of these three medications had any known performance-impairing side effects. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. The driver of V1 was familiar with both her vehicle and the roadway. The driver of V2, a 34-year old female, reported that she had been stopped at the red light when the rear of her vehicle was struck by the front of V1. The Critical Precrash Event for the driver of V2 was when another vehicle was in her lane, traveling in the same direction but at a higher speed. The Critical Reason was not coded to the driver of V2 and she was not thought to have contributed to the crash. She was speaking to a passenger in her vehicle when the crash occurred, and she took no avoidance actions. However, it must be pointed out that she was properly stopped for a red light and took no actions that contributed to the crash. The driver of V2 reported that she was rested and had no existing health problems. She was not taking any medications prior to the crash. There were no emotional factors that contributed to the crash. She was familiar with both her vehicle and the roadway. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

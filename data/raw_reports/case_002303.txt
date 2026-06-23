@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary Case #2005-45-128 The crash occurred on an east/west urban four-lane roadway that was not divided with two-way center left turn lane. It was intersected from the north by a private drive. Fifty meters east of the private drive the four lane road intersects a separate side street that is controlled by traffic signals. The posted speed was 48kph (30mph). Conditions were daylight and dry on a weekday afternoon. Vehicle #1 was a 1981 Ford Escort traveling east on the four-lane road attempting to turn left into the private drive. Vehicle #2, a 2003 Nissan Altima, was westbound in the right lane. Vehicle #1 attempted the left turn and was struck in the right side by the front of Vehicle #2. After impact the Escort (V1) rotated clockwise and came to rest facing southeast in the private drive. The Altima (V2) came to rest near impact facing northwest. Both vehicles were towed due to damage. Vehicle #1 was driven by an 81-year old female that was belted. She and an 80-year old belted passenger were both transported to an area hospital with non-incapacitating injuries. The driver stated that she saw the other vehicle turn right on the four lane road from the side street but thought she had time to make it across to the private drive. Police charged her with failure to yield. The Critical Precrash Event for Vehicle #1 was this vehicle turning left. The Critical Reason for the Critical Event was a decision error-misjudgment of gap or other's speed. Associated factor included vision impairment. The driver said she only wears her glasses for her farsighted condition when she reads, but her license listed a restriction that corrective lenses be worn. She also takes several medications for various medical conditions. Vehicle #2 was operated by a 19-year old male that was belted and not injured in the collision. He was accompanied by an 18-year old female that was also belted with no injuries. The frontal airbags did not deploy in the crash. Vehicle #2 left 7m of pre impact skids prior to impact. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors are unknown, the driver refused interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Physical, Drugs, Vision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

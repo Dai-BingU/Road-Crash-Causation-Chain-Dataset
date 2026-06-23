@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west two-lane roadway that served as the entrance to a gas station, fast food restaurant, and a storage facility. The road curved to the south as it traveled eastward with a radius of curvature of 63.4 meters and a positive 5% grade. There was no speed limit posted. Conditions were daylight and dry on a weekday morning. Vehicle #1 was a 2002 Ford Taurus traveling east on the road. Vehicle #2, an unknown hit and run tractor-trailer, was westbound. As the truck negotiated the sharp curve the front of the left rear trailer tandem struck the front left corner of the Taurus (V1). Vehicle #1 came to rest at impact and was towed due to damage. Vehicle #2 left the scene. Vehicle #1 was driven by a 30-year old female that was belted with no deployed airbags. She was not transported to a hospital although she was nine months pregnant. Her 3-year old daughter was properly restrained in a child seat in the rear and was also not injured. She stated the truck came around the curve and she attempted to avoid it by slowing to almost a stop but the truck continued into her lane and contacted her vehicle. The Critical Precrash Event for Vehicle #1 was other vehicle encroaching from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle and there were no associated factors coded. Vehicle #2 was described as an 18-wheeler with a red tractor and van trailer. Police never located it. The Critical Precrash Event for Vehicle #2 was this vehicle traveling over lane line on left side of travel lane. The Critical Reason for the Critical Event was a performance error of poor directional control. There were no other known associated factors coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

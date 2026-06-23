@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a 4 lane two-way roadway. There were two lanes eastbound and two lanes Westbound. The crash happened at an exit drive for the school parking lot. It was controlled by a traffic control signal that flashes a yellow light on the east/west bound lanes and a flashing red for the parking lot most of the day, from 7:15am - 8:30am and 1:00pm - 3:30pm it works as a normal Red, Green, Yellow light. The crash occurred in the early morning hours on overcast, dry day. The speed was posted at 56kmph (35 mph). Vehicle #1 was a 1995 Ford Windstar was leaving the school after attending a parent teacher meeting. The driver stated that there was a green light at the time of exiting the lot. When entering the intersection V2 entered the intersection from the left contacting V1 on the left side rotating it counter clockwise till it came to final rest facing the school. A 40-year old female who was not injured in the crash drove V1, she was in good health. She was wearing glasses to correct her hyperopic (far-sighted) condition. This driver states she was wearing her seatbelt. The Critical Precrash Event for V1 was coded this vehicle turning left at intersection. The Critical Reason for the Critical Event was a recognition error inattention (i.e., day dreaming). An associating factor was that this driver has been awake from 22:00 hours the night before and worked the late night shift then went to a parent / teacher meeting before the crash. Vehicle #2 was a 1989 Chevrolet Beretta that was traveling west on the roadway in lane #1 as it approached the intersection V1 stated it had the green light and noted that the other vehicle was not stopping. V2 braked and steered to the left trying not to contact V1. Hitting V1 in the left side and sliding into the intersection and coming to final rest in the same lane. A 17-year old female who was transported drove V2 to a local hospital with miner injuries. This driver stated she was on her way to school and was wearing her seatbelt. The Critical Precrash Event for V2 was coded other vehicle encroachment from crossing street, turning into opposite direction. There was no Critical Reason coded for this vehicle. An associating factor for this driver is that she may have been running a little late for classes. A second associating factor would be false assumption of other roadway user. At the time of the crash this traffic light was running a normal Red, Green, Yellow cycle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Decision, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Starting in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

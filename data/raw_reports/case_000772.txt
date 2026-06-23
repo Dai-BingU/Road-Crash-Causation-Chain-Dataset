@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane one of a four-lane roadway divided by a median strip (two lanes each direction) near an entrance ramp. The posted speed limit was 89 kmph (55 mph) for the eastbound lanes and there was a yield sign present for the entrance ramp/merge lane. This was a straight, level bituminous road. It was early evening on a weekday with clear skies. Traffic was heavy during commuting hours and further congested due to a previous crash. V1 was a 1989 Lincoln Town Car four-door sedan driven by a 35-year old female with two passengers, a 35-year old male and a 3-year old male. All occupants were uninjured. The driver stated that she had come from day care to pick up her son three miles south and was traveling to the grocery store one block east of the accident. She stated that she was not conversing with anyone, and paying attention to the vehicles on her right merging from the freeway off ramp. She didn't notice the vehicle in lane one ahead of her as its lights were off. When she finally noticed the vehicle, she applied her brakes, which locked-up and she skidded into V2. She was unable to steer to the left due to the traffic congestion in lane two and unable to steer to the right due to the merge lane bordering her. V2 was an unoccupied 2001 Toyota Corolla four-door sedan. It had been abandoned in lane one without hazard lights or warning devices. This vehicle had been in a prior crash. The driver of V2 stated that she had been in a previous minor accident with another vehicle. She left her vehicle in the eastbound lane one, with the lights still on and walked over to talk to the driver of the other vehicle to make sure the other driver was all right. The driver of the other vehicle had pulled onto the right shoulder after the accident, which was where the driver of V2 was standing when her vehicle was impacted by V1. V1 struck the center and left rear portion of V2 with the right front portion of V1. The impact of V1 propelled V2 with enough force to direct V2 over the right merge lane, veering off the road in the southbound direction before coming to rest in the shrubs 20 meters from the curb. The Pre-Crash Event for V1 was "Other motor vehicle in lane, stopped." The Critical Reason for the Critical Pre-Crash Event was "external distraction," because the driver of V1 stated that prior to the accident her attention was focused on the vehicles merging from her right from the off-ramp. Associated factors coded to V1 include inadequate surveillance and a traffic flow interruption due to the previous crash and rush hour traffic. The Pre-Crash Event for V2 was "Other vehicle in lane, traveling in same direction with higher speed." The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：No driver present
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

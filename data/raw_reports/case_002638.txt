@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a two lane undivided roadway curving to the left, at an intersection, with a grade of 3%. The posted speed limit for Vehicle #1 was 72 KMPH (45MPH). The posted speed limit for Vehicle #2 was 89KMPH (55MPH). The weather was clear and the roadway was dry. This crash occurred on a weekend night. The roadway was dark and unlighted. Vehicle #1 a 1996 Jeep Grand Cherokee, was making a left turn, from a side road, at the intersection after stopping at a stop sign. Vehicle #2, a 1991 Toyota Corolla, was traveling north on the two lane roadway. Vehicle #1 impacted with Vehicle #2 in its front right corner, with its front, Vehicle #1 came to final rest in the roadway facing in a northerly direction. Vehicle #2 came to final rest partially on the west shoulder facing in a northerly direction. Both vehicles were towed due to damage. The 1996 Jeep Grand Cherokee, (Vehicle #1) was driven by a belted 45 year old female who received a slight injury and refused medical treatment at the scene. There were two belted 12 year old female passengers in the second row who were not injured. The driver stated she looked both ways and saw no vehicles or lights from any vehicles on the roadway. She proceeded into the roadway after stopping at the stop sign for 1-2 seconds. She further stated she had no time to use any avoidance actions. The Critical Precrash Event coded to Vehicle #1 was: this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Precrash Event was coded as: driver related factor, inadequate surveillance, failed to look, looked but did not see. The 1991 Toyota Corolla,(Vehicle #2) was driven by a belted 33 year old male who was transported to an area hospital, treated and released. This driver could not be located for an interview. The Critical Precrash Event coded to Vehicle #2 was: other vehicle encroachment, from crossing street turning into opposite direction. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. Police did not consider alcohol or illegal drugs to be a factor in this crash and ordered not tests. The police issued a summons to Vehicle #1 for 'failure to yield right of way'.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

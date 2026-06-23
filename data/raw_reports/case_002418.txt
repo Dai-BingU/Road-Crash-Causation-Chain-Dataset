@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekend afternoon at the intersection of a five-lane roadway and an exit of a retail center driveway. The roadway featured 2 eastbound lanes and 2 westbound lanes separated by a center left turn lane. The bituminous roadway was dry, straight and level with a posted speed limit of 56kmph (35 mph). The conditions at the time of the crash were daylight, and cloudy with no adverse atmospheric factors. V1, a 2000 Ford Windstar minivan, was stopped at the end of the driveway waiting for traffic to clear to turn left. V2, a 1998 Lincoln Mark VIII LSC, was eastbound in lane two of the roadway traveling near the speed limit. A van in lane one also traveling eastbound slowed as it approached the driveway to allow V1 to pull out. As V1 turned left its left front struck the front of v2. Neither driver could see the other due to the van slowed in lane one. V1 was driven by a belted 17 year-old female on her way home after running an errand. She stated that the Van stopped in lane one and waived her out and as she began to turn left she was hit by V2 who she could not see approach her. The driver was uninjured, but V2 was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was coded as a driver related factor, a decision error of false assumption of other road users actions. Associated factors include the impending problem being masked by the traffic flow pattern, as the driver could not see all lanes of traffic. Driver inattention was also coded as her thought focus was on a future event (a dance recital she would be attending later). Inexperience was also coded to this driver as she had only been driving for two months. V2 was driven by a 42 year-old male on his way to a social function. V2 was towed due to damage and both front airbags deployed. He stated he was in lane two when V1 appeared from nowhere and hit him. He tried to avoid the collision by braking (full ABS application), but was unable to avoid V1. Both the driver and the adult female in the front right passenger were fully restrained. The passenger was treated at the scene for non-incapacitating injuries and V2 was towed due to damage. The Critical Precrash Event for V2 was coded other vehicle encroachment, from driveway, turning into opposite direction. The Critical Reason was not coded to this vehicle. Associated factors include a recognition factor as the impending problem was masked by the traffic flow pattern.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

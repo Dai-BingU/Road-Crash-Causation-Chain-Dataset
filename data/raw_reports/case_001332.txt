@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred shortly past noon during daylight hours. At an intersection controlled by tri-color traffic signal. The roadway consists of one way traffic four lane north and south and five lanes east and west, surface is asphalt level and dry. There were no adverse atmospheric conditions at that time. Vehicle one (V1) a 2001 Porsche 911 convertible driven by a 60 year-old male was traveling northbound in the third lane. Vehicle two (V2) a 2000 Pontiac Grand Am sedan driven by a 21 year-old female was traveling eastbound in the third lane. The driver of V1 claimed to have a yellow light and attempted to cross the intersection. As V1 crossed the intersection, it struck the right side of V2. Both vehicles came to rest in the roadway. V2 was towed from the scene due to damage sustained in the collision. V1 was driven from the scene. The driver of V1 was late for a meeting in the downtown area. He was well rested and attentive to the driving task. He observed V2 at the time they both entered the intersection and applied the brakes in an unsuccessful attempt to avoid the vehicle. He is familiar with the vehicle, but unfamiliar with the route traveled. According to a witness listed on the police report, they observed V1 run the red light. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason was coded to V1 as a driver related factor: aggressive driving for ignoring the traffic control device. Associative factors coded were: illegal maneuver, misjudgment of gap, and being in a hurry. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Inexperience, Driver Stress/Emotion present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

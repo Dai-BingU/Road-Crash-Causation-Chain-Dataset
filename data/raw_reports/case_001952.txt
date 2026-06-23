@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred at dusk on a clear evening. The crash occurred on a four-lane, median divided without barrier, bituminous roadway with a downgrade of -4%. The roadway curves to the left, and has a super elevation of +7%. The speed limit is 105 kmph (65 mph). Vehicle one (V1), a 2004 Chevrolet Tahoe was traveling west in lane one. The driver advised she glanced to her right and departed the right road edge. The driver then steered left and fully applied the ABS. V1 then re-entered lane one and departed lane one to the left and then departed the left road edge into the median. V1's driver steered right and V1 entered a clockwise rotation, tripped over, rolled left a total of four quarter-turns and came to final rest upright facing generally north. V1 was towed due to damage and the driver was transported to a local trauma center with incapacitating injuries. The V1 driver, a 49 year old female, advised that if she looks in a certain direction she tends to steer in that direction, and added that she had discussed with her husband that she was uncomfortable with the vehicle design being top heavy. The V1 driver also said that she had traveled close to 483 kilometers (300 miles) and was close to the end of her journey. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason was coded as a driver related factor: overcompensation. Associative Factors: The V1 driver's attention was focused outside the right glazing; an external distraction. The driver's combinations of medications may also have been a contributing factor.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Performance, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred shortly before noon at an intersection controlled by stoplights with pedestrian signals, which were properly working at the time of the crash. The southbound roadway consists of two lanes and a left-turn only lane prior to the intersection and two lanes after. The northbound roadway consists of two lanes and a left-turn only lane prior to the intersection and two lanes afterwards. The westbound roadway consists of two lanes and the eastbound consists of two lanes as well. All roads are straight, level, have no visible deficiencies and are made up of bituminous asphalt. The weather was clear at the time of the incident. The speed limit for these roadways is 56 kmph (35 mph). Vehicle one (V1), a 1994 Ford Explorer XL with a 47 year-old male driver, was traveling westbound in lane two. V1 was going through the intersection when a non-contact vehicle, traveling southbound, entered the intersection against the red light. The driver of V1 swerved to the left to avoid the vehicle, ran off the left side of the road where the front of the vehicle struck a concrete pillar supporting a bridge structure. V1 came to rest facing southwest against the support. The non-contact vehicle left the scene and was described as a utility van. The vehicle was traveling southbound in an unknown lane and at an unknown speed. V1 was towed from the scene and the driver was transported with incapacitating injuries. The driver of V1 could not be located and the non-contact vehicle left the scene without being identified. The report completed by the investigating agency states that there was contact between the two vehicles. Inspection of V1 did not reveal any damage to the right side of V1. The driver of V1 was successful in avoiding the non-contact vehicle but in the process ran off the roadway and struck the support. The critical pre-crash event for V1 was coded "this vehicle traveling-off the edge of the road on the left side". The critical reason was coded as a driver related factor: incorrect evasive action. Driver assumed cross traffic would stop for the red traffic control signal. When the other driver entered the intersection, the driver of V1 correctly steered to his left to avoid the non-contact vehicle; however he did not apply his brakes to avoid the impact with the bridge pillar.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the early afternoon of a weekday in the middle of a T-intersection. The T-intersection consists of a divided east/west roadway and a divided north/south roadway controlled by properly functioning traffic signals. The eastbound direction featured three bituminous, straight, and level lanes with lane three designated as a left-turn only lane. The westbound direction also featured three bituminous, straight, and level lanes with lane one designated as a right-turn only lane. The posted speed limit on the east/west roadway was 56kmph (35mph). There were no adverse atmospheric conditions, and the roadway was dry when the crash occurred. V1, a 1995 Dodge Ram van, was stopped facing east in lane three, intending to make a left at the intersection. V2, a 2003 Nissan Altima, was westbound in lane two intending to continue straight through the intersection. As V1 turned across the westbound lanes the front of V2 contacted the right side of V1. The impact caused V1 to be pushed onto a raised median where it tripped over onto its left side. V2 spun approximately 90 degrees in a clockwise motion, coming to final rest partially on the median to the left of V1. Both vehicles were towed from the scene due to damage. The driver of V1, a 51 year-old male, suffered minor injuries, but did not require transport to a medical facility. There were no other occupants in the vehicle when the crash occurred. He claimed that he was waiting to make the left in the intersection, when another vehicle facing the opposite direction gave him the go-ahead. As the driver proceeded to make the left, and did not notice V2 coming through the intersection until it was too late. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Precrash Event was coded as a driver related error, a false assumption of road users action due to the that the driver thought that all traffic was clear since another driver waived him on. In addition to the false assumption, inadequate surveillance was coded as an associated factor as the driver looked but did not see V2. The driver of V2, a 45 year-old male, did not suffer any injuries as a result of the crash. There were no other occupants present in the vehicle when the crash took place. He stated that he had a green signal and continued through the intersection when V1 turned directly in front of him. The Critical Precrash Event for V2 was coded other vehicle encroachment, from opposite direction over left lane line. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. There are no associated factors andV2 was not thought to have contributed to this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

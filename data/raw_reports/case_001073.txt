@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a 4-way signalized intersection. The intersection was controlled by a pre-timed traffic signal without a pedestrian crossing and a posted speed limit of 72 kmph (45 mph) for all four directions. The conditions were dry, daylight, cloudy and it was a weekend afternoon. V1, a 2005 Nissan Maxima, was traveling south and V2, a 2000 Ford F-150, was traveling north. V1 entered the intersection, intending to make a u-turn, and crossed the path of V2. V2's driver tried to steer around V1 but could not avoid striking the car head-on. V1 was driven by a 43-year-old female and full time accountant that was retuning home this afternoon when she was involved in this crash. This driver states she was running errands all morning and just finished having lunch with her brother when she stopped at this intersection to make a u-turn. She said she was stopped behind a pickup truck for 5-10 seconds before the pickup began to move forward. Once the pickup truck entered the intersection and made a left turn, this driver proceeded to make a u-turn without knowing the intersection was clear. She reports that she was looking left out her driver side window when she was struck in the front by a southbound vehicle. This driver was not injured in the crash but her vehicle was towed due to damage. The Critical Precrash Event for V1 was coded: this vehicle turning left at intersection and the Critical Reason for precrash event was coded: inadequate surveillance. V2 was driven by a 19-year-old male that was returning home after spending the day at his friend's house when he was involved in this crash. He states he was driving north between 40-45 mph when he entered an intersection and a southbound vehicle (V1) turned in front of him. He said he panicked and tried to steer around V1, but it was impossible to avoid a collision. The front right of his Ford F-150 struck the front V1. He confirmed there was another southbound vehicle ahead of V1 that turned left before he entered the intersection. The Critical Precrash Event for V2 was coded: other vehicle encroachment from opposite direction - over left lane line and Critical Reason for precrash event was not coded.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Making a U-turn
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

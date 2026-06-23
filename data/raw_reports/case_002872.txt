@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lane of a two-way, two-lane, rural roadway. There was a driveway on the west side of the roadway. The roadway had a posted speed of 72 kmph (45 mph) and the southbound lane curved left approaching the driveway. The southbound lane was on a 2% downhill grade. Conditions were daylight and dry with clear skies. The setting was morning hours on a weekday. Vehicle one was a 1998 Volvo S70 station wagon negotiating a left curve while traveling south in lane one. Vehicle two was a 2006 Chrysler PT Cruiser 5-door hatchback stopped facing east at the end of the driveway. Vehicle three was a 2001 Chevrolet 2500HD pickup traveling north in lane one while decelerating for backed up traffic. V3 came to a stop to allow V2 to turn left and enter the roadway. V2 began entering roadway at the same time as V1 was traveling past the driveway. The right side of V1 was struck by the front of V2. V2 came to rest in the southbound lane of the roadway. V1 continued into the oncoming lane of traffic, impacting V3 head-on. V1 and V3 came to rest in the northbound lane. The Volvo station wagon (V1) was driven by a 56-year old female who was transported to a local hospital with possible injuries. She stated that she was heading to a school where she works as a teacher. She saw the car in the driveway, but did not expect it to pull out into her. She didn't have a chance to react. Her estimated speed was 30 mph. The station wagon was towed due to damage. The Critical Precrash Event for V1 was other vehicle encroachment from a driveway turning into the opposite direction. The Critical Reason was not coded to this vehicle. No other associated factors could be coded to this driver. The Chrysler hatchback (V2) was driven by a 74-year old male who was listed with possible injuries, but not transported. He stated that he was just pulling out of his driveway to go to a doctor's appointment. He estimated he waited about 5 seconds before pulling out, and did not see any vehicles approaching. His estimated travel speed at impact was 5 mph. The hatchback was left at the scene, which was also the owner's residence. The Critical Precrash Event for V2 was this vehicle traveling turning left at an intersection. The Critical Reason was inadequate surveillance (looked but did not see). This driver was using two prescription medications typically prescribed for high blood pressure and various skin conditions. The driver was retired. The Chevrolet pickup (V3) was driven by a 52-year old male who was uninjured. He stated that he had just left his home a quarter mile away and was driving to work. He said he had just slowed to a stop when he witnessed V2 pull into V1, creating the second crash with his own vehicle. The pickup was driven to a repair facility in close proximity to the crash scene. No Critical Precrash Event or Critical Reason could be coded to V3 since it was not involved in the first harmful event. No other associated factors could be coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+Vehicle 2:  Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Leaving a parking position
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

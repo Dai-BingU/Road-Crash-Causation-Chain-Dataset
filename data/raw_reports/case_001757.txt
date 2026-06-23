@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 2005 Acura MCX, was westbound in lane 1 (the single westbound lane) of a 3 lane, bituminous, straight, urban roadway. The roadway did not have a left turn lane but 2 eastbound lanes. V2, a 2005 Jeep Grand Cherokee, was stopped in lane 1 of the same roadway, westbound, waiting to make a left turn into a commercial drive. V1, front, contacted v2, rear. The driver of v1 had an injury to her hand but neither driver was transported or sought treatment. V1 was towed due to damage. A complete driver interview and vehicle inspection was obtained for V1. The Pre-event movement of V1 was going straight; the Critical pre-crash event was other motor vehicle stopped in lane and the Critical reason for critical pre-crash event was inadequate surveillance (e.g., failed to look, looked but did not see). A factor which may have contributed to the crash was that the driver was extremely familiar with that roadway, had just stopped at a light east of there, turned right and accelerated up to the POI. The driver stated that “no one was ever stopped there waiting to turn” so she really didn't expect another car to be there. The driver of V1 was cited. A complete driver interview and vehicle inspection was obtained for V2. The Pre-event movement of V2 was stopped in traffic lane, the Critical pre-crash event was other motor vehicle in lane traveling is same direction with higher speed and the Critical reason for critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

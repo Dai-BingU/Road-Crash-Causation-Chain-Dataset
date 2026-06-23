@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a north/south, four lane, undivided US Hwy along a portion of road that has a wide curve to the right (if traveling southbound). The measured radius of the curve was 468.75 meters. The four lanes were split down the middle by a wide double yellow line. The posted speed limit was 80 KPH/50 MPH. Conditions were daylight and dry in the late morning on a weekday. Vehicle 1 was a 1997 Chevrolet S10 pickup traveling southbound in the left lane on the highway when it crossed the double yellow line into the first northbound lane near the apex of the curve. Vehicle 1 struck Vehicle 2 head-on in an offset left frontal-type crash. Vehicle 2, a 1997 Nissan Sentra GXE, was traveling northbound in the first lane on the highway. After impact, Vehicle 1 rotated counter-clockwise. As it rotated, its wheels tripped on the pavement and it rolled four quarter turns and came to rest upright facing northeast in the right northbound lane of travel approximately 25 meters south of POI. Vehicle 2 was knocked back and to its right, traveling down an embankment off the right shoulder. It struck a sign and came to rest facing southwest, approximately 18 meters south of impact and situated three or four meters from the right side of the road. Both vehicles were towed due to damage. Vehicle 1 was driven by a 49-year old belted male whose airbags deployed. He was transported to a local trauma center for treatment of incapacitating injuries. He was on his way home from a doctor's appointment as he had been extremely ill at least two days prior to the crash and did not remember anything after getting on the highway ten miles north of the crash site. The Critical Pre-crash Event for Vehicle 1 was this vehicle traveling over the lane line on the left side of travel lane. The Critical Reason for the Critical Pre-crash Event was a critical non-performance error: heart attack or other physical impairment of the ability to act, as the driver stated that he possibly blacked out. The driver claimed to have slept for seventeen hours from the previous day up to the morning of the crash. The driver also stated that he was on several medications for type 2 diabetes, high blood pressure, and heart disease, but did not wish to expound as to what they were. The driver was coded as being fatigued and ill. The driver wore glasses for a nearsighted condition and was also being treated for sleep apnea. Vehicle 2 was driven by a 70-year old belted female. Both she and her belted right front passenger, a forty-three year old female, had their frontal airbags deploy. The passenger was transported to a local trauma center via ambulance with incapacitating injuries. The driver of Vehicle 2 was airlifted to a local trauma center via helicopter and was pronounced DOA. The Critical Pre-crash Event for Vehicle 2 was other vehicle encroachment from opposite direction over left lane line. The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. Although the driver was on six different medications at the time of the crash, she was not thought to have contributed to the crash. She also wore glasses for an unknown condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Drugs present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

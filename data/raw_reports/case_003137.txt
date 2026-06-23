@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred shortly past noon at the intersection of a three lane (five overall), divided, concrete roadway without a positive barrier and a four lane (seven overall), divided, concrete roadway without a positive barrier. Traffic flow controlled by tri-color traffic signal. The roadway surface was dry and lighted. There were no adverse atmospheric conditions at the time of the crash. Posted speed limit 56 kmph (35 mph). Vehicle one (V1), a 1992 Buick Century sedan, driven by a 38 year-old male with two passengers was traveling westbound attempting to flee from police crossed through the intersection on red light . Vehicle two (V2), a 1996 Ford Taurus sedan, driven by a 18 year-old male with one passenger was traveling northbound in the first lane approaching the intersection. Vehicle three (V3), a 2004 Ford F-150 pick-up, driven by a 37 year-old female was stopped southbound in the fourth left turn only lane. V1 was in the act of fleeing from the police and traveling at a high rate of speed as he approached the intersection. As they entered the intersection, the front of V2 struck the left side of V1. The left side of V1 then side slapped the right side of V2. V1 was redirected to the northwest where it's front struck the left side of V3. V2 rotated counterclockwise and side slapped the left side of V1. V1 came to rest facing southwest in the northbound lanes. V2 came to rest west of the point of impact facing east in the intersection. V3 rotated clockwise and came to rest facing southwest in the third southbound lane. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as a driver related factor: aggressive driving behavior. V1 was fleeing police. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle. An additional factor, tall trees on east side of roadway possible view obstruction for V2. V3 was not involved in the first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Performance present problem 
+Vehicle 2:  Distraction, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

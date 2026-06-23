@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west two-lane urban road. The road was straight and level with private drives on each side. Conditions were daylight, sunny, and dry on a weekday afternoon. The posted speed limit was 48kmph (30mph). Vehicle #1 was a 1997 Honda Civic traveling eastbound. A witness reported that the Civic (V1) slowly drifted across the center lane and off the north side of the road and struck a utility pole with its front. After impact the vehicle rotated 90 degrees counterclockwise and came to rest facing north in the westbound lane. The car was towed due to damage. Vehicle #1 was driven by a 41-year-old female that was transported to an area hospital with minor injuries. She was belted with deployed frontal airbags. In her statement to researcher and police she said that she fell asleep at the wheel. She had trouble sleeping the night before, getting only 4.5 hours instead of her normal average of 8 hours. Prior to the crash she'd gone to brunch with her mother and was on her way home when she began to feel drowsy. However, she decided to go past her residence to a nearby fast food restaurant to get a snack before going home and trying to go to sleep. Police did not issue any citations. The Critical Precrash Event for Vehicle #1 was this vehicle traveling off the edge of the road on the left side. The Critical Reason for the Critical Event was a driver related non-performance error, fell asleep. Associated factors included fatigue, and emotional factors, depression and bipolar disorder. Drugs were also an associated factor; the driver was taking eight medications for depression, bipolar, and allergies.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

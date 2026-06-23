@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of an east/west interstate that was straight and level, and divided by a barrier wall. There were four westbound lanes bordered on the right (north) by a paved shoulder with rumble strip and then a positively graded grass area that led to a rock area under a bridge overpass supported by concrete columns. Conditions at the time of the crash were daylight and dry in the late morning hours on a weekday with a posted speed limit of 89kph/55mph. V1 was a 1995 Toyota Tercel traveling west in lane three of the interstate at approximately 112kph/70mph (per driver statement to researcher) when a non-contact van (referred to hereafter as NC) that was traveling west in lane four changed lanes to its right and moved into lane three. V1 then swerved to its right to avoid striking the NC vehicle and lost control traveling across lane two and into lane one and struck the left side of V2, a 1997 Chevrolet Blazer 4x4 with its (V1's) front. V1's airbags then deployed and V2 went into a counter-clockwise yaw that was brought under control by the driver and V2 was parked on the right shoulder. V1 continued to travel north off the roadway until it was in the grass area where its path became more parallel to the road. It then went under the overpass into the rock area and its path arced southwest again back toward the roadway where it struck one of the above mentioned bridge supports (columns) and came to rest facing west. Both vehicles were towed from the scene. V1 was driven by a twenty-seven year old female who was not belted in the crash (assessed by vehicle inspection) and was transported to an area hospital with incapacitating injuries. The driver was admittedly frustrated at the time of the crash and in a hurry due to being late for the start of classes. The Critical Precrash Event for V1 was “this vehicle traveling over the lane line on the right side of the travel lane”. The Critical Reason was coded as driver related “too fast to be able to respond to unexpected actions of others”. The driver did admit to smoking marijuana the night previous to the crash. Traveling too fast (keeping up with traffic) was also attributed to this vehicle. Insufficient braking input was coded because she did not even try to hit her brakes. A tire deficiency was coded to this vehicle because the tires were larger than OEM and were under inflated before the crash. This was determined by the driver's statements to that effect. V2 was driven by a belted fifty-seven year old female who was listed as having possible injuries in the crash but was not transported anywhere for treatment. She was on her way to work at a religious facility at the time of the crash. The Critical Precrash Event for V2 was “other vehicle encroachment from adjacent lane (same direction) over the left lane line”. The Critical Reason was not coded to this vehicle. No other contributing factors were coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Stress/Emotion, Drugs, Speed/Distance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

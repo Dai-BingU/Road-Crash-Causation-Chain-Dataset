@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred on a two-lane, undivided, north/south roadway bounded by 18 parking stalls to the east. The roadway was straight, level, wet and constructed of concrete. The parking stalls were of asphalt construction. The posted speed limit is 48 kph (30 mph). Traffic was light at the time of the crash. This crash occurred during daylight hours with a light rain falling. Vehicle one (V1), a 2002 Ford Mustang with one occupant, was backing from a parking stall and was facing east. Vehicle two (V2), a 1999 Plymouth Voyager, with two occupants, was northbound in the first travel lane. As V1 entered the roadway the front of V2 impacted the right of V1. V1 rotated slightly counterclockwise and came to rest in the roadway facing east. V2 came to rest in the original lane of travel slightly forward of the point of impact. V1 was towed due to damage. V2 did not sustain disabling damage. The driver of V1, a thirty year-old male, was heading home from a friend's apartment. This driver had been driving for only a few seconds, drives the route monthly and is familiar with the vehicle. The driver stated he did not detect V2 until impact and did not attempt any evasive maneuvers. As V1 was backing, the driver was focused on vehicles to the rear. The driver stated he backed, stopped to shift gears to head south when he was struck on the right side by V2. The critical pre-crash event for V1 was coded: other-driver leaving parked position. The critical reason for V1 was coded: driver related factor-inadequate surveillance. The driver of V2, a twenty-five year old male, was heading home from work. This driver had been driving for about fifteen minutes, drives the route daily and is familiar with the vehicle. He detected V1 approximately 1-2 car lengths prior to the point of impact but could not avoid V1. He failed to look far enough ahead to detect V2 earlier. The critical pre-crash event for V2 was coded: other vehicle encroachment-from parking lane. The critical reason for V2 was coded: not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance, Weather/Environment present problem 
+Vehicle 2:  Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Leaving a parking position
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other- Other (specify) :
+ 2 ：Other Vehicle Encroachment- From parking lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in a four-legged urban intersection controlled by an on-colors traffic signal. All legs were two-way, with one lane in each direction, plus a left turn lane controlled by a left turn arrow. The straight and level roads were bituminous and curbed. The north/south road had a posted speed limit of 56 kmh (35 mph), and the east/west road had a posted speed limit of 40 kmh (25 mph). Conditions at the time of the weekday afternoon crash were daylight, clear and dry. V1 the 1994 Cherolet Blazer was traveling south, V2 a 2005 Chrysler Town and Country minivan was traveling east. As V1 entered the intersection it's front contacted V2's left side. V2 rotated counterclockwise coming in contact with a guy wire and a fence. The stopped westbound witness stated that just as he began to accelerate on his green light, he observed V1 proceeding through the red light. The witness was unsure of the speed of V2, but stated that V1 was traveling about 64 kmh (40 mph), and that neither driver had avoidance actions. Both vehicles were towed from the scene due to damage. The fully restrained driver of V1 denied injuries. The fully restrained driver of V2 was transported to a local trauma center due to injuries. The fully restrained adult front right passenger of V2 denied injuries. V1, a 1994 Chevrolet Blazer 4 door driven by an 81 year-old male, was southbound on the road in lane one. The driver advised that he was returning home after playing 9 holes of golf, and had been driving for 15 minutes. The driver stated that he thought the traffic signal was yellow for him and proceeded through the intersection. The driver of V1 did not see V2 until just before impact. V1 driver had no time for avoidance maneuvers. The front of V1 struck the left side of V2. V1 rotated counterclockwise and came to rest facing southeast at the southeast corner. The Critical Precrash Event coded to V1 was 'this vehicle traveling crossing over (passing through) and intersection. The Critical Reason for the Critical Event coded to this driver was 'illegal maneuver', as this driver disregarded the red traffic signal. The police recommended the driver for license retesting due to his age. Inadequate surveillance was coded to this driver. An associated factor of fatigue was coded to this driver for strenuous physical recreational activities. The 81 year-old had played 9 holes of golf prior to the crash and 18 holes of golf the previous day. V2, a 2005 Chrysler Town and Country minivan driven by a 30 year-old female on her way home from work, was traveling eastbound on the road. The adult front right passenger advised that V2 entered the intersection on the green light, without having to slow down, and was struck by V1, with no time for avoidance maneuvers. V2 rotated clockwise onto the southeast corner and the front of V2 struck a utility pole guy wire. The right back of V2 struck a wooden fence and came to rest facing northeast. The Critical Precrash Event coded to V2 was 'other vehicle encroachment from crossing street across path.' The Critical Reason was not coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

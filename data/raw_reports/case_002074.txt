@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred early evening during daylight hours in the second eastbound lane approaching a four way multi-lane intersection. The east and westbound lanes are divided by a grass median. This was a straight level bituminous asphalt roadway with a posted speed limit of 72 kmph. (45 mph) the road was dry and the sky was clear. Vehicle one (V1), a 1996 GMC Jimmy sport utility vehicle driven by a 41 year-old male was traveling eastbound in the second lane. Vehicle two (V2), a 2006 Chevrolet Malibu sedan driven by a 49 year-old male with two passengers was traveling in the second lane in front of V1. Both V1 and V2 came to a stop behind traffic at a tri-light controlled intersection. As the light turned green V1 accelerated and struck V2 with it's front before V2 began to move. Both vehicles came to final rest in their original travel lanes. V1 was towed from the scene. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical pre-crash event was a driver related decision factor: false assumption of other's actions. When the light turned green driver one accelerated in anticipation of V2 moving forward as well. When this didn't happen the crash occurred. The critical pre-crash event for V2 was coded: other motor vehicle in lane traveling in same direction with higher speed. The critical reason was not coded to this vehicle. An associated factor is an exterior distraction. V2's driver was looking at a previous crash to his left, which delayed his moving forward when the light turned green.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Traffic present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

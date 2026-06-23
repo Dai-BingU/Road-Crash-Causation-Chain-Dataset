@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred in the middle of a four-way intersection. The asphalt road was dry and level, the roadway was slightly uphill for vehicle two, however, it was less then 2%. There were no adverse weather conditions. The posted speed limit was 40 kmph (25mph). There were stop signs on both sides of the street for vehicle one (V1) traveling south. There were no traffic control devices for vehicle two traveling west. The crash occurred on a weekday in the evening. The traffic flow was moderate without congested Vehicle one, a 2004 Toyota Prius*, was traveling south and stopped at the corner before entering the intersection intending to make a left turn, vehicle two (V2), a 2002 Volkswagen Beetle was traveling west. V1's left side contaced V2 in the front. The driver of V1 was a 17-year old male who'd recently obtain his driver's license less than a year ago. He stated that he was driving south coming from a football game. He stopped at the corner and looked both ways, however, he did not see V2 coming from his left and struck V2's front with his left side. The Critical Pre-Crash Event was coded for vehicle one; turning left at the intersection and the Critical Reason for the Critical PreCrash Event was coded inadequate surveillance, (looked but did not see). The driver of V2, a 45-year old female, was conversing with her passenger and said that she saw V1 come out from the intersecting street at the last minute and steered her vehicle left attempting to avoid the crash, however, it wasn't enough time to prevent the collision. The driver of V2 was transported to the hospital with minor injuries. Both vehicles were towed due to damages. The Critical Pre-Crash Event for vehicle two, crossing over (passing through) an intersection. *The PAR says that it's a 1998, Toyota Prius, however, I ran it through Vin Assist, which gave a 2004 manufacture date.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

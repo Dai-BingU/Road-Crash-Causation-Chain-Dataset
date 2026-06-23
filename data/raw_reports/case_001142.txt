@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the intersection of a north/south road with one lane in each direction and an east/west road with one lane in each direction. The roadways were straight and level and each had a speed limit of 48 kmph (30 mph). It was raining and the roadways were wet. The crash occurred in the morning hours on a weekend. Vehicle #1 was a 2001 Chevrolet Lumina that was traveling southbound. Vehicle #2 was a 2003 Lexus LS430 that was traveling westbound. At the intersection, the front of Vehicle #2 impacted the left side of Vehicle #1. The impact spun Vehicle #1 counter-clockwise and the right side impacted a train support pillar. Vehicle #1 then spun clockwise to its final rest, facing northbound. The Chevrolet Lumina (Vehicle #1) was driven by a 52-year old male who did not sustain any injuries. A 52-year old female occupant in the front-right seat sustained incapacitating injuries and was transported to a local medical facility. The driver stated that he was going straight and had the green light when Vehicle #2 ran the red light, which caused him to impact the train support pillar. The Chevrolet Lumina was towed due to damage. The Critical Pre-crash event for Vehicle #1 was coded as: This vehicle crossing over (passing through) the intersection. The Critical Reason for the Critical event was coded as an illegal maneuver. The Critical Reason was coded to the driver of Vehicle #1 due to vehicle damage and the trajectory of the vehicle following the first impact. It was believed that the driver of Vehicle #1 ran the red light shortly after his light changed to red and was struck in the left rear side by Vehicle #2. The traffic control device was working properly. The associated factors coded to this driver were wet roadways (a highway-related factor), and rain, a weather-related factor. The Lexus LS430 (Vehicle #2) was driven by a 57-year old male who did not sustain any injuries. He stated that he was going straight and had the green light when Vehicle #2 ran the red light at the intersection. The Lexus LS430 was not towed. The Critical Pre-crash event for Vehicle #2 was coded as: Other vehicle encroachment from crossing street, across path. The Critical Reason for the Critical event was not coded to this driver. The driver wore prescription glasses that corrected a myopic condition. The associated factors coded to this driver were wet roadways (a highway-related factor), and rain, a weather-related factor.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

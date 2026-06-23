@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in the early afternoon of a weekday in the middle of a three-way urban intersection. The intersection consisted of a north/south two-way, two-lane roadway and a westbound three-lane, one-way, undivided roadway controlled by a properly functioning traffic signal. The posted speed limit for the north/south roadway was 56kmph (35 mph). The westbound roadway had a posted speed limit of 64kmph (40 mph). The bituminous roadways were dry, straight, and level. The traffic flow was heavy, which is normal for this roadway and there were no adverse atmospheric conditions at the time of the crash. V1, a 1998 Ford Crown Victoria taxi, was northbound in lane one traveling at 40kmph (25 mph) approaching the intersection where it intended to go straight. V2, a 2000 Ford E250 Econoline Van, was westbound in lane three approaching the same intersection. V3, a 2000 Jeep Grand Cherokee, was also westbound in lane three behind V2. As V1 entered the intersection against the light its front contacted the back left corner of V2. After the initial contact V1 rotated slightly clockwise and was struck on its right side by the front of V3. V1 came to final rest facing east in the middle of the intersection. V2 continued to travel westward where it came to a controlled stop just past the intersection. V3 came to final rest facing west near its point of impact. V1 was driven by a 31 year-old male who was on duty traveling to pick up a fare. He stated that as he approached the intersection he observed the traffic light turning yellow but thought he could make it through the busy intersection before the vehicles traveling westward reached the intersection. He said he is aware of how busy the intersection is, but he was in a hurry to pick up a passenger. He was not injured, but V1 was towed due to damage. The Critical Precrash Event for V1 was coded, this vehicle traveling, crossing over (passing through) intersection. The Critical Reason was coded a driver related factor, a decision error, an illegal maneuver. In addition to the illegal maneuver, other associated factors include the fact the driver was in a hurry, due to work related delivery schedule. V2 was driven by a 31 year-old male on his way to his next job site. He stated he saw V1 speeding through the light but was unable to prevent the crash. He did say he accelerated in an attempt to avoid V1, but the crash was unavoidable. He was not injured, and V2 was driven from the scene. The Critical Precrash Event for V2 was coded other motor vehicle encroachment, from crossing street, across path. The Critical Reason was not coded to this vehicle. The only associated factor coded to V2 was an experience factor as the driver only rarely drove this road. V3 was driven by a 33 year-old female who was on her way to visit a friend. She stated that she also observed V1 crossing through the intersection while the light was red, but could not do anything to prevent impacting it. She said, it all happen so fast. All three occupants of V3 were transported to the hospital with possible injuries, but V3 could have been driven from the scene. The Critical Precrash Event for V3 was coded as other, not involved in the first harmful event. The Critical Reason was not coded to this vehicle. The only associated factor was a possible inattention as the driver was conversing with her passengers.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Stress/Emotion present problem 
+Vehicle 2:  Driver Inexperience present problem 
+Vehicle 3:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred on an undivided north/south two-lane roadway just north of an intersection with a two-lane east/west roadway. There was one lane in each direction of each road. The north/southbound road was straight, level, dry asphalt. At the point of impact, the road curved to the right with a radius of curvature of 213m and no super-elevation. There were no traffic controls and the posted speed limit was 48kmph/30mph. The crash occurred in the early afternoon under clear skies and with light traffic flow. V1, a 1998 Chevy Lumina four-door sedan with one occupant, was southbound. V2, a 1991 Chevy Caprice four-door sedan with two occupants, was southbound in front of V2. V3, a 1993 Buick Regal four-door sedan with two occupants, was southbound in front of V2. As all three vehicles approached the intersection, V3 almost passed the intersection, but stopped to yield to eastbound traffic before attempting to turn left. V2 stopped behind V3. V1 braked without lockup but was unable to avoid striking V2. The front of V1 struck the rear of V2 (Event 1) and pushed V2 forward where its front struck the rear of V3 (Event 2). All three vehicles came to rest facing south in lane one. V1's front was still in contact with the back of V2 within a meter of impact. V3 came to rest about a meter south of impact. V1, the Chevy Lumina, was driven by a 56-year old male who was not injured. He reported that he was returning to his nearby home, traveling under the speed limit while drinking a soda and smoking. He added that he was going straight behind V2 and glanced down at the ashtray and his drink. He said when he looked up again he was about to hit the rear of V2, which had stopped. Although he applied his brakes, he was unable to avoid impact. The Critical Pre-crash Event for V1 was other motor vehicle stopped lane. The Critical Reason for the Critical Event was an internal distraction, a driver related error. Associated factors coded to the driver of V1 include the physical conditions of a bad knee, bad back, and carpal tunnel syndrome; medications he was taking; inadequate surveillance for failing to look far enough ahead; other non-driving activities - smoking and drinking; and unfamiliarity with the vehicle. V2, the Chevy Caprice, was driven by a 19-year old male who was coded for possible injury and transported to a hospital. His 17-year old female passenger was not injured. This driver reported that he was returning home from school. He reported that he was behind V3, which almost passed the intersection before it stopped suddenly in front of him. The driver added that he was able to stop safely less than two meters behind V3. The driver said that after he stopped he felt a jolt from behind when V1 struck him and he felt a second jolt when he struck the rear of V3. He was unable to take any evasive action. The Critical Pre-crash Event for V2 was other motor vehicle in lane traveling in the same direction at a higher rate of speed. The Critical Reason for the Critical Event was not coded for this vehicle. An associated factor coded to the driver of V2 was unfamiliarity with the roadway, as he stated that he rarely drove on this road. V3, the Buick Regal, was driven by a 27-year old male. Neither he nor his passenger was injured. The driver reported that he was returning home from school and that as he approached the intersection he signaled a left turn and stopped to yield to oncoming traffic. He was not certain how long he stopped before he felt a single jolt from behind when V2 struck his vehicle. He did not take any evasive action. The Critical Pre-crash Event and the Critical Reason for the Critical Event were not coded for this vehicle because it was not involved in the first harmful event. Associated factors coded to the driver of V3 include conversing with the passenger and unfamiliarity with the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Inexperience present problem 
+Vehicle 3:  Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

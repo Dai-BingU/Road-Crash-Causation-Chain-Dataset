@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, two-lane, not physically divided roadway. It was mid-morning and heavy rain was present. The gradient for both roadways of vehicle 1 and vehicle 2 travel were level. The posted speed limit on the roadway was 64 kmph (40mph). V1, a 1999 Pontiac Sunfire operated by a 18-year-old male, was traveling westbound. V2, a 2003 Hyundai Elantra operated by a 24-year-old male, was traveling eastbound. V1 crossed the centerline, entered the eastbound lane, and impacted V2 head-on. The impact caused V1 to rotate counterclockwise; V1 came to final rest in the westbound lane facing south. The driver of V2 was initially traveling straight and then attempted to avoid the collision by steering the vehicle to the right. V2 rotated clockwise before coming to final rest between a mailbox and telephone pole. Both vehicles were towed from the scene. The driver of V1 was transported by EMS to a local hospital. After obtaining the interview from the driver of V1, it is likely that work and sleep patterns contributed to this crash. The driver was traveling home after working the graveyard shift. The Critical Pre-crash Event for V1 was this vehicle traveling over the lane line on the left side of the travel lane. The Critical Reason for the Critical Pre-crash Event was sleeping, that is actually asleep. Associative factors for V1 include work and sleep schedule as well as weather conditions. The driver of V1 did not recall many details from the crash due to fatigue and injuries. The Critical Pre-crash Event for V2 was other vehicle encroachment from opposite direction over the left lane line. The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Stress/Emotion, Weather/Environment present problem 
+Vehicle 2:  Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

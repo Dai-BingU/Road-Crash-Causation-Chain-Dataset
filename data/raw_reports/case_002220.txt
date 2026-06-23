@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary Case 2007-083 The crash occurred in the intersection of a four-lane roadway divided by a grass median at a crossover to and from a driveway of a strip mall. The roadway had two lanes in each direction. The crash occurred in the southbound lanes where the roadway curved slightly to the left (radius of curvature of 1372m with a 2% super-elevation). The roadway was dry, asphalt with a posted speed limit of 72kph/45mph. It was early afternoon on a weekday under sunny skies with moderate traffic flow. V1, a 1990 Buick LeSabre four door with one occupant was southbound in lane two. V2, a 1992 Buick Century four door with one occupant was making a left turn from an eastbound driveway to the northbound lanes. V2 turned left across the path of V1, which tried unsuccessfully to avoid contact. The front left of V1 struck the left side of V2 (Event 1) causing V2 rotate in a counter-clockwise direction. V1 then veered to the left and came to rest facing southeast approximately 9m southeast of the impact point. V2 came to rest facing northwest about 4m southeast of the impact point. Both vehicles were towed from the scene due to damage. V1, the Buick LeSabre, was driven by a 42-year old female who received non-incapacitating injuries and was transported to a hospital. She advised that she was traveling at the speed limit form a relative's home to a doctor's appointment and was not in a hurry. She reported that when she saw V2 start to cross her path she braked without lockup and struck V2. Her skidmarks indicated lockup. The Critical Precrash Event for V1 was other vehicle encroachment from driveway turning into the opposite direction. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors were assigned to V1 for driver physical condition due to the fact that she suffers from MS and is taking several medications and she mentioned fatigue due to MS several times during her interview. V2, the Buick Century, was driven by a 78-year old female who received non-incapacitating injuries and was transported to a hospital. She reported that she had just left a restaurant in the strip mall and was returning home. She said she stopped for an unknown time at the edge of the driveway and looked both directions before commencing her turn. She added that she thought she had enough time to complete her turn. She did not know if or when she saw the other vehicle and that she took no evasive actions before being struck. The Critical Precrash Event for V2 was this vehicle traveling turning left at intersection. The Critical Reason for the Critical Event was driver related, inadequate surveillance, failed to look, looked but did not see. The driver, in her brief statement, claimed she stopped, looked, and thought she had enough time to complete her turn. She was unable to pinpoint when she first saw the other vehicle either in time or distance. The short braking distance of V1 indicates to the researcher that it was very close to the intersection and V2 and should have been seen by the driver of V2. An associated factor was assigned to V2 for driver physical condition - she has high cholesterol and blood pressure and thyroid problems and was taking numerous medications. The driver was also hearing impaired. Another factor was assigned for driver recognition, inadequate surveillance, looked but did not see.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Drugs present problem 
+Vehicle 2:  Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

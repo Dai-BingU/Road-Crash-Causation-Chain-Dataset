@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred mid-morning during daylight hours. Both vehicles were westbound on a divided, 2-lane, rural, bituminous, interstate roadway on a downgrade between a curve left and a curve right section. The roadway had no deficiencies. The weather condition was clear daylight. The posted speed limit is 120 kmph (75 mph). The section of roadway where this crash occurred was in remote, rural, mountainous terrain and bounded on both right and left by guard rails. Vehicle one (V1) a 1999 Freight liner tractor/trailer towing a box trailer of unknown length driven by a 32 year-old male with one passenger was traveling west in the #1 lane and experienced a blow-out of the left front tire on the tractor. This caused a loss of control and the vehicle swerved into the #2 lane, contacting Vehicle two (V2). V2 was a 2003 Ford Explorer SUV driven by a 21 year-old female with one passenger, who were traveling in the #2 lane adjacent to V1. After the first impact V2 was forced into the guard rail on the south side of the roadway. V1 was driven from the scene, V2 was towed. The critical pre-crash event for V1 was coded: this vehicle loss of control due to, blow-out/flat tire (specified as: blow-out of left front tractor tire caused lane departure & impact with V2). The critical reason for the critical event was attributed to V1 as a vehicle related factor: Tires/wheels failed. The critical pre-crash event for V2 was coded: other vehicle encroachment; from adjacent lane (same direction) - over right lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+Vehicle 2:  Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Blow out/flat tire, (specify) :
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Tires/wheels failed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

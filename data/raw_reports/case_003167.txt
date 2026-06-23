@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This four-car crash occurred at an intersection with traffic lights. The road is a five-lane divided (no positive barrier) asphalt roadway from west to east. It is a five lane divided (no positive barrier) asphalt roadway from north to south. The northbound lanes have a separate right turn lane for a total of six lanes. The speed limit is 56 kmph (35 mph) for both roadways. The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. It was early evening on a weekday and there was normal traffic on the roadways. It was dark with both roadways lighted. Vehicle one (V1), a 2000 GMC Sierra pick-up with two occupants, was traveling south in the fourth lane of traffic approaching the intersection of both roadways. The vehicle did not stop at it attempted a left turn at the intersection. Vehicle two (V2), a 2007 BMW 750 with one occupant, was traveling north in the third lane. V2 stopped for the red light before proceeding into the intersection. Vehicle three (V3), a 1993 Jeep Cherokee and Vehicle four (V4), a 2000 Ford F-150 Pick up, were stopped in lane four and five of the westbound travel lanes. Both vehicles were stopped in the left turn lanes at a red light. At the intersection of both roadways, V1 attempted to turn left into the eastbound lanes. Within the intersection, the front of V2 impacted the right side of V1. V1 rotated clockwise and rolled four-quarter turns to it left. During the roll over, the back undercarriage struck the hood of V3 before the left side of V1 struck the right side of V4. V1 came to rest with its right rear corner on top of the front end of V3. V2 came to rest at the point of impact. Vehicle's 1, 2 and 3 were towed from the scene. A 21-year old male drove V1. The driver does not possess a valid drivers license. He stated he had some basic driver's training in his native country more than five years ago but does not possess a driver's license from there. He and his passenger both said they were stopped in lane four of the southbound traffic lanes until they received a protective left turn arrow. The driver said he was not fatigued and was in good health. He was heading home from his job site located about 8 kilometers (5 miles) from the crash site. He just bought the truck as a used vehicle, but said he is familiar with driving pick up trucks. A witness at the scene described how V1 ran the red light at a high rate of speed. This witness was behind V2. He said V2 had just received a green light and had entered the intersection from a stop. This description of events matches with the statements made by the driver of V2 as well as with the dynamics of the crash and post trajectory. The critical pre crash event for V1 was coded: this vehicle traveling; turning left at intersection. The critical reason for the critical event was attributed to V1 and coded as a driver related factor: type of driver error unknown. A 68-year old male drove V2, the 2007 BMW. He was in good health and well rested. He was heading home from jury duty at the nearby court building. He stated he was traveling in the middle lane at no more than 40 kmph (25 mph) when V1 appeared in front of him. The critical pre crash event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line. No critical reason for the critical event was coded to this vehicle. A 42-year-old male was the driver of V3 was not interviewed. V3 was not involved in the first harmful event. A critical reason was not coded to this vehicle. V4 was not considered a case vehicle nor was it involved in the first harmful event. A critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

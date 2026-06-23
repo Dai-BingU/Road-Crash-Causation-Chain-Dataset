@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred early in the morning on a dark, two-lane, divided highway with a grass median separating the north and southbound lanes. The weather conditions were clear and the posted speed limit is 89 kmph (55 mph). The asphalt road is straight with a 2.5% uphill grade at the location of the crash. Vehicle 1, a 1984 Freightliner tractor with an empty log-trailer, was traveling north in lane one of the road. Vehicle 2, a 1980 Buick Regal, was traveling in the same lane as vehicle 1 directly behind it. The front of V2 collided into the back of the trailer and both became attached. The truck drove approximately 40 meters before it pulled over to the right side shoulder. There was minimal damage to V1's underride guard but V2 had to be towed due to damage. The driver of V1 is a 26-year-old male that refused to cooperate unless his attorney granted permission. Several attempts were made to reach the driver after he left the scene but he refused to return my calls. The trooper on the scene said V1's driver had told her that he pulled out into the road from a side road and was traveling north when he felt something “dragging.” He claimed to have never saw V2 when he made his turn. The Critical Precrash Event for V1 was coded: other motor vehicle in lane traveling in same direction with higher speed and the Critical Reason for the Critical Pre Crash Event was: not coded to this vehicle. The driver of V2 is a 47-year-old male that was traveling to work this morning while distracted by something inside his vehicle and crashed into the back of the truck. He was not certain what caused the crash and when interviewed, he hinted that he might have been looking for something in his car. He could not recall the exact details of the pre crash events. The trooper on the scene said this driver reported that he was looking in his brief case when she spoke with him. The driver of V2 works three 12-hour shifts per week as a Respiratory Therapist but had not worked in five days. He wears eyeglasses for astigmatism and takes medication for diabetes and Aspirin. The Critical Precrash Event for V2 was coded: other motor vehicle in lane traveling in same direction with low steady speed and the Critical Reason for the Critical Pre Crash Event was coded: internal distraction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Internal distraction

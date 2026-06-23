@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the north roadside of a two-way, two-lane, rural road. The westbound direction had a 3% downhill grade around a left curve with +10% superelevation. Posted speed limit was 72 kmph (45 mph), though the curve was marked with arrow warning signs indicating it was sharp. Conditions were dark and dry with cloudy skies. The setting was the mid-evening hours of a weeknight. Vehicle one was a 1994 Buick LeSabre sedan traveling west negotiating the left curve. V1 braked with lockup and traveled off the right side of the roadway, striking a curve warning sign with its right plane. V1 continued off the right roadside, striking a medium size tree with its right plane. V1 came to rest after striking a small tree with its front plane. V1 was driven by a 59-year old male who was transported to a local hospital with possible injuries. He stated that he was negotiating this curve at a speed of approximately 40-48 kmph (25-30 mph). He braked and the wheels locked, causing the vehicle to travel off the right roadside. He estimated his impact speed to be 32-40 kmph (20-25 mph). The sedan was not towed due to police-reported damage, but was removed from the scene by a local wrecker service. The Critical Precrash Event for V1 was this vehicle traveling off the edge of the road on the right side. The Critical Reason was a physical impairment of the ability to act. Although the driver denies losing consciousness, the investigating officer reported that the driver blacked out prior to the crash. The medical report lists a history of seizures for this individual. The driver was currently prescribed a medicine used to prevent seizures the possible side effects are drowsiness, mental confusion, nystagmus, dizziness, uncontrollable twitching, double vision, tiredness: he also took medication for bi-polar disorder which has possible side effects of sleepiness, drowsiness, tiredness, weakness, dizziness, light-headedness; and an anticonvulsant with the possible side effects of drowsiness, dizziness, blurred or double vision, confusion. The driver was not working at the time of the crash. He wears corrective lenses for a nearsighted condition. At the time of the crash, this driver was finishing a short road trip from a nearby town 75 miles away. He had been traveling for approximately an hour and a half.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

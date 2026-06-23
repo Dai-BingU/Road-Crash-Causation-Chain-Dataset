@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred on an entrance ramp to a fully controlled, divided with a positive barrier, urban highway with a posted speed limit of 105 kmh (65mph). Conditions at the time of the morning crash were daylight, clear and dry on the straight, level, bituminous roadway. V1, v2, and v3 were all traveling south on the entrance ramp intending to merge into lane one of the southbound road during rush hour traffic. Two/three vehicles were in the lead, followed by v3 which was in front of v2. Behind v2 was a non-contact vehicle, which was in front of v1. The lead vehicles, unable to merge into traffic, came to a stop at the bottom of the ramp. V3, a 2001 Toyota Camry driven by a 32 year-old female, and v2, a 2004 Lexus GX470, driven by a 42 year-old male, also stopped safely. The driver of v2 noticed the vehicle behind him brake successfully but swerve to the right as if to go around v2 on the shoulder, then swerve back to the left and dart swiftly into the highway traffic. V1, a 2003 Dodge Grand Caravan, driven by a 31 year-old female, was driving about 40mph behind the line of traffic, when the vehicle in front of her suddenly braked, swerved to the right and then to the left and swung into the line of moving traffic on the highway. The driver of v1 saw v2 stopped in the lane immediately ahead of her, applied her brakes, and the front of v1 struck the back of v2. The front of v2 was pushed into the back of v3, causing minor damage to both vehicles. V1 was towed from the scene due to damage, with the front airbags deployed. V2 and v3 were drivable following the crash. The fully restrained drivers of all 3 vehicles, and the 19 month-old passenger restrained in a child safety seat in row two of V1, denied injuries. The Critical Precrash Event code to v1 was 'other motor vehicle in lane, stopped.' The Critical Reason for the Critical Event coded was 'driver related error-too fast to be able to respond to unexpected actions of others.' 'Inadequate surveillance' was coded as the driver 'failed to look far enough ahead', and 'following too closely' during the rush hour, in heavy traffic. Also coded was 'false assumption of other road user's actions', because the driver of v1 assumed that the other drivers would continue to proceed. A Contributing Factor of 'rush hour congestion' was coded for all 3 vehicles in the crash. The Critical Precrash Event coded to v2 was 'other motor vehicle in lane traveling in same direction with higher speed.' The Critical Reason was not coded to this vehicle. V3 was not involved in the first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Distraction, Roadway, Surveillance, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

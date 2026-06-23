@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle intersection type crash occurred during morning daylight hours at an intersection controlled by overhead traffic control signals. The East/West roadway is two way, undivided, straight, level, bituminous, and consists of one travel lane in each direction. The North/South roadway, is divided without a positive barrier, consists of two lanes in each direction and a left turn lane, is straight, level, of bituminous construction and was dry at the time of the crash. The posted speed limit for both roadways is 56 kmph (35 mph). At the time of the crash the weather was clear and there were no sight restrictions or road defects. Vehicle one (V1), an unknown vehicle, was in the number one lane. Vehicle two (V2), a 1998 Chevrolet S-10 Blazer with one passenger was turning left from the number three southbound lane. The front of V1 and the right side of V2 collided. After impact with V1, V2 departed in a clockwise yaw on a northeast trajectory, tripped over and rolled left and came to rest on its top. V2 was towed due to damage. The V2 driver was transported to a hospital with unknown injuries. A Police Report was not obtained, and no information has been made available about either vehicle or the occupants therein. V1 left the crash scene and no information for V1 or the driver is available. The Critical Pre crash event for V1 was coded as: other vehicle encroachment- from opposite direction over the left lane line. The Critical Reason was not coded to V1. The Critical Pre crash event for V2 was coded as: this vehicle traveling - turning left at intersection. The Critical Reason was coded to V2 as: type of driver error unknown.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Unknown
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

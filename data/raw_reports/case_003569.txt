@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle rear-end crash occurred in the westbound lane of a 3-lane undivided road in a suburban neighborhood. The roadway is straight, flat, and there is a school zone speed of 56 kmph (35) at the location of the crash. The weather conditions were clear and sunny and it was afternoon of a weekday. V1 and V2 were both traveling west in the same lane behind a large truck. The large truck decelerated in its lane causing V2 to come to a stop. V1 could not stop in time to avoid a collision and it struck the back of V2. V2 was towed due to disabling damage but V1 was driven away. V1, a 2004 Jeep Cherokee, was driven by a 39-year-old female that works as a health insurance agent Monday through Friday during normal business hours She did not work this Tuesday because she had planned a handful of errands to complete today and needed an entire day off to finish her tasks. She woke up this morning at 7 am, an hour later than her normal sleep schedule, and began to drive around town (bank, post office, shopping mall) completing her tasks. While returning home at a speed of 25-35 mph, she was following a Nissan Sentra (V2), at an unknown distance, and the white box truck. This driver claims that she saw the white box truck stopping in its lane so she took her foot off the accelerator and slowed to 10-15 mph. This driver reports that the driver of the Nissan overreacted when the box truck slowed by slamming on her brakes. This apparent exaggerated reaction by the Nissan's driver caused this driver to suddenly brake. There was not enough gap distance between V1 and the V2 to avoid a collision so the front of this driver's 2004 Jeep Cherokee struck the back of the Nissan. There was minimal damage to the Jeep and it was driven away from the scene. This driver was not injured in the crash and she was in a relatively good mood after the crash. The Critical Precrash Event for V1 was coded: (50) other vehicle in lane stopped and the Critical Reason for the Critical Precrash was coded: driver inattention V2, a 1994 Nissan Sentra, was driven by a 38-year-old female that was not very helpful. She said she stopped for a truck that had stopped in her lane and that she was suddenly struck in the back by an SUV that failed to stop. She did not give details about the crash and was relatively uncooperative. The Critical Precrash Event for V2 was coded: (52) other motor vehicle in lane traveling in same direction with higher speed and the Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

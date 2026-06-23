@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the westbound lanes of a dry, concrete, five-lane, two-way, divided by turning lane, urban roadway. Conditions at the time of the crash were clear, and cloudy in the morning on a weekday. Traffic was light, and moving slightly above the posted 56 kmph (35 mph) speed limit. At the crash location there were no traffic control devices. Vehicle #1 was turning left out of a parking lot; vehicle #2 was in the second westbound lane. Vehicle #2 was unable to avoid the collision, and the front of that vehicle contacted the left side of vehicle #2. Both vehicles were towed from the scene due to damage; the driver of vehicle #1 was complaining of leg pain so paramedics treated her on scene, the driver of vehicle #2 was uninjured. Vehicle #1 a 1999 Oldsmobile Bravada was driven by a 29 year-old woman, she was exiting a parking lot, where she had just picked up her dinner, and attempting to turn left (eastbound). She stated that she looked to the left and did not see any vehicle approaching so she looked to the right to see if she could complete her turn into traffic. She stated that she was into the turn when the other car hit her. The driver stated that she failed to look back to her left side, and make sure traffic was not present before she entered the traffic lane. After the crash she was complaining of leg pain so she was evaluated and treated by a paramedic on scene, her vehicle was towed due to damage. The Critical Pre-crash Event for this vehicle is turning left at an intersection; the Critical Reason for the Critical Pre-crash Event is recognition error, inadequate surveillance (looked but did not see). An associated factor with the vehicle is driver fatigue. She stated that she woke up 3 hours earlier than normal, because of a shift change. She also stated that she was on her way home from work, at the time of the crash and had been driving for an hour doing some errands before she want home. She was taking medication to sleep at night and for her allergies. These medications were not thought to contribute to the crash. Vehicle #2 a 1999 Subaru Outback was driven by a 22 year-old uninjured male. The driver stated he was returning home from work when the SUV pulled out in front of him. He stated that he tried to avoid the crash, by applying the brakes and steering to the right, but was unable to avoid the crash. The driver stated that he had been driving for about one hour, after working a full shift. He stated that he always found this ride home “relaxing”. The driver of V2 was not tired and felt alert. This vehicle was towed due to damage, with dual front row airbag deployments. The Critical Pre-crash Event movement for this vehicle is other vehicle encroaching from driveway across his path. No Critical Reason was coded for this vehicle, and no associated factors were coded to this case.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

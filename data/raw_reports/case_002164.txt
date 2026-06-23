@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This three vehicle crash occurred at night in a T-intersection without traffic controls, consisting of a west/east roadway and an intersecting northbound roadway. The westbound roadway consists of two lanes with a divided traffic-way median strip without a positive barrier separating the eastbound two lanes. The eastbound roadway consists of three lanes including a left-turn lane and also has a divided traffic-way median strip without a positive barrier. The northbound roadway consists of a one lane one-way roadway. The roadways are all straight and level. The eastbound and westbound roadways both had a speed limit of 48 kmph (30 mph), while the northbound roadway had a speed limit of 40 kmph (25 mph). At the time of the crash, the roads were wet and it was raining heavily; it was also dark, but the intersection was illuminated by streetlights. Vehicle one (V1), an unknown vehicle with at least one occupant, was traveling westbound in lane two and Vehicle two (V2), a 2001 Ford Taurus 4 door with at least one occupant, was eastbound and initiated a left turn at the intersection. The front of V1 and the right side of V2 collided in the number two westbound lane. After impact with V1, V2 entered a clockwise rotation and the back of V2 collided with the left side of a legally parked 1992 Buick Century with no occupants. The occupant(s) of V1 fled the scene in the vehicle so their injury status, etc is all unknown. The V2 occupant(s) fled the scene without the vehicle so their injury status, etc is also unknown. V2 and V3 were both towed due to damage. The Critical Pre-crash Event for V1 was coded as: Other Vehicle Encroachment - From Opposite Direction - over left lane line. The Critical Reason for the Critical Pre-crash Event was not coded to V1. The Critical Pre-crash Event for V2 was coded as: This Vehicle Traveling - Turning left at intersection. The Critical Reason for the Critical Pre-crash Event was coded to V2 as: Unknown Driver Error - Type of driver error unknown.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

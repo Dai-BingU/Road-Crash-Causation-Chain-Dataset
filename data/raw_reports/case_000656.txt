@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred mid-afternoon during daylight hours on a four-leg intersection. Traffic was controlled by stop signs for the north/south legs of the intersection and no controls for the east/west legs. The road surface was dry, level asphalt. The posted speed limit was 56 kmph (35 mph) east/west and 40 kmph (25 mph) north/south. Vehicle one (V1), a 1996 gold Cadillac Fleetwood 4-door sedan driven by a 70 year-old male with one passenger was traveling east in the first lane. Vehicle two (V2), a 1987 Toyota Tercel 4-door hatchback driven by a 20 year-old male with one passenger was traveling north in the first lane. After V2 stopped at stop sign and continued across intersection the drivers vision of the traffic traveling east was blocked by parked van to the drivers right as V2 continued it was struck on the right side by V1's front. After impact both vehicles side slapped then continued in a northwesterly direction with V2 coming to rest facing northwest, V1 continued up a curb and struck a cement wall and coming to final rest. Both vehicles were towed from the scene. The critical pre-crash event for V1 was coded: other vehicle encroachment; from crossing street, across path. The critical reason for the critical event not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was coded to V2 as an environment related factor: view obstructed by other (legally parked) vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Roadway present problem 
+Vehicle 2:  Decision, Driver Inexperience, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Environment Related Factor- View obstructed by other vehicles

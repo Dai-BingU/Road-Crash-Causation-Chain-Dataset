@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary A single vehicle crash occurred on a two-way, three lane roadway during the afternoon hours. This section of the roadway runs east and west and is a level, straight bituminous roadway. The eastbound lanes consist of one through lane and a left turn only lane. The westbound lane is separated from the eastbound lanes by solid double yellow lines. The speed limit on this roadway is 32 kmph (20 mph). Traffic flow was interrupted because of a non-contact vehicle backing a trailer into a driveway. There were several cars behind the trailer. Vehicle one (V1) is a 2000 Dodge Caravan minivan that was occupied by the driver who is a 70 year-old male retired truck driver. The driver was returning to his home after running errands and was traveling westbound on a residential street. There was a line of non-contact vehicles stopped in the westbound lane waiting for a vehicle with a trailer to back into a driveway. To avoid the stopped vehicles, V1 went off of the right side of the roadway where the front plane struck two mailboxes before it struck a tree where it came to rest facing west. V1 was towed from the scene due to damage. The driver was transported from the scene due to injuries. A witness in this case was the last vehicle in the line of non-contact vehicles also traveling westbound. The witness stated that he looked in the rear view mirror and saw V1 approaching his vehicle. He thought that vehicle one was not going to be able to stop. He stated that the driver locked up the brakes and went off the road right and struck the mailboxes and then the tree where it came to final rest. The witness further stated that the driver of V1 stated to the police that he was ill and had blacked out prior to the crash. During the surrogate interview (grandson) it was stated that the driver was feeling ill due to low blood sugar. The driver is an insulin dependant diabetic and is also taking dialysis. The critical pre-crash event was coded: this vehicle traveling; off the edge of the road on the right side. The critical reason was coded: type of driver error unknown. There was not enough information available to determine type of error committed. The driver was conscious since he attempted evasive maneuvers prior to impact.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Driver Physical, Drugs, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown

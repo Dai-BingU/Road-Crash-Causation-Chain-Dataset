@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during daylight hours a traffic light controlled, three-legged intersection. The east/west roadway is divided, straight, level and the westbound lanes consist of one right turn lane, two through lanes and a left turn lane into a private driveway. The north/south roadway is divided and is a controlled-access highway ramp; in the southbound direction, the lanes are straight and downhill. The speed limit for both roadways is 56 kmph (35 mph) and it was raining at the time of the crash. Vehicle one (V1), a 1991 Mazda Protege was southbound on the exit ramp from an interstate in lane two, the left turn lane. Vehicle two (V2), a 1999 Mercury Sable, was westbound in lane two, the right through lane. The driver of V1 thought she had the green light and started to make a left turn. V2, who actually had the green light, proceeded into the intersection and the front struck the left side of V1. V1 was pushed slightly clockwise and came to rest facing southwest in the middle of the intersection. V2 rotated slightly counterclockwise and came to rest next to V1 facing southwest in the middle of the intersection. V1 was towed due to damage. The driver of V1, a forty-two-year-old female, was driving from her home to an RV park to visit a friend. She was familiar with the route and the vehicle. She took ibuprofen and an unknown brand of medication for a sinus headache several hours prior to the crash. She claimed that she had a green light, that "the light usually stays red for 10 years." The driver of V2, a seventy-two-year-old male, was well rested and comfortable with both his vehicle and route. He was driving from a rental house where he had been working to his home. He saw his green light and proceeded to cross the intersection. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was attributed to V1 and was coded as a driver related factor: inadequate surveillance (failed to look, looked but did not see). The driver said she was looking to the left prior to turning and did not see V2 coming. Additionally, this driver was fatigued and had taken medication for a sinus headache. The critical pre-crash event for V2 was coded: other vehicle encroachment: from crossing street, turning into opposite direction. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Physical, Drugs, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Driver Physical, Drugs, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

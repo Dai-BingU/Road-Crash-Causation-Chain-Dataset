@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of a north/south urban business road and a private drive. Private drives, which served as entrances to parking lots, intersected on the east and west sides of the road and there was a 6 meter wide crossover in the median that provided access. The four-lane road had two lanes in each direction divided a grass median. Approaching the intersection from the north there was also a left turn lane. The four-lane road curved slightly to the west as it approached the intersection with a radius of curvature of 325 meters. The posted speed limit was 48kmph (30mph). Conditions were daylight and dry on a weekday morning just before noon. Vehicle #1 was a 1984 Lincoln Town Car traveling north on the four-lane road. Vehicle #2, a 2001 Ford Focus was southbound in the left lane. Vehicle #1 attempted to make a left turn into the private drive on the west side of the road and was struck in the right side by the front of Vehicle #2. A secondary sideslap impact also occurred with the right side of Lincoln (V1) and the left side of the Focus (V2) contacting. Vehicle #1 came to rest just off the southwest corner of the intersection facing southwest. Vehicle #2 came to rest facing west on the west side of the intersection. Both vehicles were towed due to damage. Vehicle #1 was driven by a 19-year old female that was belted. She was not transported for treatment of minor injuries. She stated that she stopped in the median crossover waiting for traffic to clear to turn left. She said that a non-contact vehicle in the southbound left turn lane blocked her view and she didn't see the Focus (V2) approaching until she had already initiated the turn. Police charged her with failure to yield and no drivers license. The Critical Precrash Event for Vehicle #1 was this vehicle turning left at intersection. The Critical Reason for the Critical Event was inadequate surveillance. Associated factors included turned with obstructed view and a vehicle sightline restriction. Inexperienced driver was also coded. Vehicle #2 was operated by a 56-year old male that was belted with deployed frontal airbags. He was not transported for treatment of minor injuries. He stated that the other vehicle turned left in front of him and he attempted to avoid the crash by braking and steering right. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. The only associated factor coded was other physical factors, specified as heart problems, allergies, and sleep apnea treated with a c-pap device. The driver was wearing glasses to correct a farsighted condition and takes approximately twelve medications for the before mentioned conditions.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

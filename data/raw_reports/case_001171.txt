@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of a median divided urban highway and a four-lane crossover. Northbound on the highway there were two thru lanes, and left and right turn lanes at the intersection. The northbound highway lanes were separated from the southbound lanes by a wide grass median. Intersecting from the west was a four-lane crossover that had one thru lane and one left turn lane in each direction. There was a shopping center entrance on the east side of the intersection. The intersection is controlled by traffic signals. Traffic counts of 2003 indicate the highway carries 38,003 vehicles per day with a posted speed limit of 72kph (45mph). Conditions were daylight and dry on a weekday afternoon. Vehicle #1 was a 1992 Chevrolet Blazer traveling northbound on the highway in the right thru lane. Vehicle #2, a 2002 Chevrolet Impala, was eastbound in the crossover. Vehicle #2 stopped at the intersection for several seconds and when the traffic signal changed to green began to cross the intersection. The front of Vehicle #1 struck the right side of Vehicle #2. After impact the Blazer (V1) rotated clockwise and came to rest facing northeast in the intersection. The Impala (V2) rotated ninety degrees clockwise and came to rest facing south on the east side of the intersection. Vehicle #1 was driven away, but Vehicle #2 had to be towed due to damage. Vehicle #1 was driven by a 17-year old male that was belted and not injured. A 19-year old passenger was also belted with no injuries. Although he denied so in his statement to researcher and police, all the witness' indicated he ran the red light. Police charged the driver with failure to yield. The Critical Precrash Event for Vehicle #1 was this vehicle passing through intersection. The Critical Reason for the Critical Event was a recognition error, inattention. Associated factors included fatigue. The driver works and goes to school and says he averages 4.5 hours sleep per night and had only gotten 3.5 hours the previous night. The driver was also conversing with the passenger at the time of the collision. Illegal maneuver-failed to stop for traffic control and inexperienced driver was also coded. Vehicle #2 was operated by a 69-year old female that was belted with no deployed airbags. She was treated and released from an area hospital with minor injuries. EDR precrash data was extracted from the vehicle and indicated that five seconds prior to algorithm enable the vehicle was stopped. The vehicle begins to slowly accelerate at -4 seconds and gradually increases to a speed of 24kph (15mph) at one second prior to AE. Brake switch status is off during the entire sequence. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from crossing street across path. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors, but the driver takes several medications for various conditions and was wearing glasses to correct a nearsighted condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Inexperience present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

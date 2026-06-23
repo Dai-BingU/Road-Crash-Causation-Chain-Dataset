@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occured at the intersection of two roadways in the evening hours of a weekday. Both roadsways were two way and undivided, and both had posted speed limits of 56kmph (35mph). V1 was traveling east in lane one approaching a signal-controlled intersection. V2 was traveling south in lane one approaching the same intersection. V1 initiated a right turn and V2's front left plane came into contact with the left plane of V1. V1 deflected from the impact, and continued south, departing the roadway to the right before striking a pole and coming to rest. V1, a 1995 Toyota Corolla, was driven by a 48 year-old male who refused to be interviewed. The critical pre crash event for this vehicle was coded: Turning right at intersection. The critical reason was coded unknown. V2, a 2005 Chrysler PT Cruiser, was driven by a 25 year-old male who stated that he saw the other driver and assumed that he would yeild the right of way. He applied his brakes , but was unable to avoid the collision. The critical pre crash event for this vehicle was coded: Other vehicle encroachment, and a critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning right
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

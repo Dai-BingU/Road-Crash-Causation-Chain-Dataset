@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lane of a three lane roadway. There were two southbound lanes, lane one being a right turn only and one northbound lane. This was a straight, downhill grade, bituminous roadway with a posted speed limit of 89 kmph (55 mph). It was early afternoon on a weekday and the road was dry and the sky was clear. V1, a 2003 Buick Lesabre was traveling southbound. V2, a 2003 Ford Crown Victoria (Police vehicle) was also traveling southbound on the same roadway. V1 was traveling behind V2 in lane two. The driver of V2 noticed a speeding vehicle coming northbound. V2 turned on his lights and pulled into lane one attempting to make a U-turn to pursue the speeder. The driver of V1 thought V2 was going to continue in lane one. The front of V1 contacted the left of V2 before they both came to final rest in the northbound lane. The driver of V1 was a 78-year old male who reported that he had been traveling between 67-80kmph (51-60mph) prior to the crash. Had no health related problems and had taken an unknown medication prior to the crash. He was rested and traveling to a quilt shop. He was wearing his corrective lenses that corrected an unknown condition. He sustained injuries and was transported to a local trauma facility. The Critical Precrash Event for the driver of V1 was "other vehicle encroachment, from adjacent lane-over right lane line". The Critical Reason was not coded to this vehicle. The driver of V2 was a 25-year old male who reported that he had slowed down to 18-32kmphh (11-20mph) prior to the crash. He had no health related problems and had taken no medication. He was rested and traveling to pull over a speeder. He was wearing his prescribed lenses that corrected a myopic (near-sighted) condition. He sustained minor injuries and was transported to a local trauma facility. The Critical Precrash Event for the driver of V2 was "other: making a U-turn". The Critical Reason for the Critical Precrash Event was coded “inadequate surveillance”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Stress/Emotion, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 2 ：Other- Other (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

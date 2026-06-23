@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a one-way single lane entrance ramp to an interstate. It had a positive grade of 4% with a curve right. There was also an exit ramp that approached from the left side of the on ramp traffic. The crash occurred in the mid morning hours on a weekday at the end of rush hour. The posted speed limit on the on-ramp was 48 KPH / 30 MPH. Conditions were daylight and dry. Vehicle 1 was a 2001 Mitsubishi Galant traveling westbound up the on-ramp following behind Vehicle 2, a 2003 Dodge 1500 Pickup. A non-contact vehicle came across the median from the eastbound off-ramp to the eastbound on-ramp crossing in front of another non-contact vehicle that was traveling in front of Vehicle 2. This caused both V2 and the vehicle in front of him to brake suddenly. Subsequently, V1 did not stop, and rear-ended V2, with Vehicle 1 coming to rest on the right shoulder of the ramp, as did V2. V1 was towed due to damage. V2 was driven from the scene with minor bumper damage. Vehicle 1 was driven by a 30-year-old belted male whose airbags did not deploy. The driver was uninjured in the crash. The critical pre-crash event for V1 was other motor vehicle in lane: other vehicle stopped. The critical reason for the critical pre-crash event was a recognition error: External Distraction. This was coded because the driver was tracking the non-contact vehicle crossing the ramp in front of traffic as it caught his attention when he noticed a man on foot chasing the vehicle. The non-contact vehicle crossing the ramp was coded as a traffic flow interruption factor. Vehicle 2 was driven by a 45-year-old belted male whose airbags did not deploy and who was uninjured in the crash. The critical pre-crash event for V2 was other motor vehicle in lane: traveling in same direction with higher speed. The critical reason for the critical pre-crash event was not coded to this vehicle. A potential associated factor to the crash for the driver of Vehicle 2 was fatigue as he had had three hours of sleep in the last twenty-four hours and it had been nineteen-and-a-half hours since his last sleep. He was also just coming off of a ten-hour shift at work. The non-contact vehicle crossing the ramp was coded as a traffic flow interruption factor and also as an external distraction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs present problem 
+Vehicle 2:  Distraction, Driver Fatigue, Driver Inexperience, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

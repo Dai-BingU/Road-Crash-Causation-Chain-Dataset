@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lane of a two-lane intersection controlled by a stop sign. The posted speed limit was 80 KMPH (50 MPH). V1 was a 2002 Mercury Grand Marquis sedan traveling northbound in the 1st travel lane approaching the intersection controlled by a stop sign. V2, a 2003 Toyota Corolla sedan, was traveling eastbound in the 1st travel lane intending on going straight. V1 stopped at the stop sign looked both ways but did not see V2. The front of V2 struck the left side of V1 in the northbound lane. V1 came to final rest facing northbound and V2 came to final rest facing eastbound. V1 was driven by a 70-year-old male who was not injured. He stated that he stopped at the stop sign, looked both ways and proceeded thru the intersection. He did not see V2 at all. The driver of V1 did not take any avoidance actions. V1 was towed due to damage. The Critical Precrash Event for V1 was this vehicle traveling, crossing over (passing through) the intersection. The Critical Reason for the Critical Precrash Event was a driver recognition error, inadequate surveillance, looked but did not see. Associated factors coded to this driver were the driver was conversing with his passenger and this may have distracted him and the driver drives on this roadway weekly. V2 was driven by a 40-year-old female who sustained moderate injuries and was transported to a local hospital. She stated that she was traveling eastbound when she saw V1 pull out to her right. The driver of V2 had no time to take any avoidance actions. V2 was towed due to damage. The Critical Precrash Event for V2 was other vehicle encroachment from crossing street, across path. The Critical Reason for the Critical Precrsh Event was not coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

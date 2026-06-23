@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in four-way light controlled intersection. This roadway has the east to west travel lanes as the primary roadway. The north to south roadway is an entrance roadway into a shopping center. This roadway is asphalt constructed with six-lanes for the east to west and three-lanes for the north to south lanes. This roadway has raised concrete medians for the left turn lanes on the east to west lanes. This roadway is straight and level with no obvious defects noted and no adverse weather at the time of this event. The posted speed limit is 56 kmph (35 mph) with stoplights in all directions and pedestrian controls included. This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1994 Dodge Dakota pickup truck was westbound in the second lane when it entered the intersection with the sun glaring into the drivers face. Vehicle two (V2), a 2001 Ford Windstar van, was southbound crossing through the intersection. V2 was heading south into a shopping center when it was impacted on the left front fender area by the front of V1. Both vehicles were towed due to damage. The driver of V1, a sixty-two year old male, was driving from his home to the next major city. This driver had been driving for about one hour and forty-five minutes at the time of the crash. This driver stated that he had gone through several lights with his arm above his eyes to block the sun glare. This driver was taking Lipitor as a medication. This driver drives this vehicle daily and over this road on a monthly basis. The driver of V2, a fifty-nine year old female, was driving from one parking lot across the street to another parking lot. This driver had only been driving for about one minute or so at the time of the crash. This driver was taking Insulin, Plavix, Avandia and an unspecified diuretic. This driver never saw V1 until the impact. This driver drives this vehicle daily and over this road several times a month. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over [passing through] intersection. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The critical pre-crash event for V2 was coded: other vehicle encroachment; from driveway, across path. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From driveway, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

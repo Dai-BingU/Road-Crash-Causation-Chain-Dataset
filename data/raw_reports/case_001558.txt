@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekday in the middle of a four-way intersection. The intersection consisted of a one-way, three-lane, northbound roadway and a two-way, five-lane east/west roadway controlled by a properly function traffic signal. Both roadways were bituminous, dry, straight, and level with posted speed limits of 56kmph (35mph). The traffic flow was normal and the weather was cloudy and overcast at the time of the crash. V1, a 1989 GMC Sierra, was eastbound in lane two approaching the intersection where it intended to go straight. V2, a 2000 Buick Regal, was northbound in lane one approaching the same intersection where it also intended to go straight. As the V1 approached the intersection the light changed to red, V1 failed to stop and entered the intersection. As V2 entered the intersection its left side was struck by the front of V1. V1 and V2 side-slapped as they were both redirected across the intersection. The impact caused V2 to rotate clockwise roughly 90 degrees and travel eastward before coming to final rest 26m (85 ft.) from the point of impact. V1 rotated counter-clockwise and came to rest in the middle of the intersection blocking the westbound lanes of travel. Both the vehicles were towed due to damage. The driver of V1, a 17 year-old male, claimed to be in good health and not taking any medications at the time. He stated that he and the two passengers in his vehicle were taking scrape aluminum rims to the steel yard when the crash occurred. He stated that he was conversing with the passengers when the passenger in the right front seat yelled “red light” and than he struck V2. He stated that as his vehicle-rotated counter clockwise it contacted the vehicle again with the right rear side of his vehicle. The driver and his occupants of the eastbound vehicle were checked out on scene by EMS and released. The passengers of V1 both stated that they did not see the northbound vehicle until it was too late. The passenger seated in the right front seat stated as they approached the intersection he noted the light turning red but thought they would be able to stop. It was only after they entered the intersection did he realize a crash was imminent. The Critical Precrash Event for V1 was coded this vehicle traveling crossing over (passing through) intersection. The Critical Reason for the Critical Event was coded as a driver related factor, an internal distraction. The associated factors coded to this driver include, inattention and driver inexperience (he was a new driver and rarely drove this roadway). The driver of V2, a 58 year-old female, claimed to be in good health but taking medication for a thyroid condition, she was also wearing her prescription lenses that correct a hyperopic (far-sightedness) condition. She is a mental health professional who was traveling from one facility to another when the crash occurred. She stated that as she traveled north on the roadway towards the intersection she saw the light turn green and proceeded at a constant velocity. She stated that as she entered the intersection she was contacted on the left side and does not remember anything after that. She was transported from the scene to a local trauma unit to treat her injuries. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street, across path. The critical reason was not coded to the vehicle. The only associated factor coded to V2 was a false assumption as the driver assumed V1 would yield the right of way.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience present problem 
+Vehicle 2:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at the entrance to a private drive on the left side of a north/south, four-lane, undivided, dry, bituminous roadway that curves to the left. The radius of curvature was 375 meters (1,230 feet) and there was no super-elevation at the location of the crash. There were no traffic control devices present at the location of the crash. The posted speed limit on this roadway was 72 kmph (45 mph). The crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2003 Nissan Pathfinder, was northbound in lane one and vehicle two (V2), a 2007 Chevrolet K-1500 pickup, was northbound in lane two. V1 attempted to turn left into the driveway. As V1 began its turn, the driver of vehicle steered to the left, but the left side of vehicle one was struck by the front of V2. V1 rotated clockwise moved north, rolled over one quarter-turn to the left and came to rest facing southwest in lane one. V2 rotated clockwise, traveling northwest. V2 rolled to the left three quarter-turns as it left the left side of the roadway and the undercarriage struck a pole. V2 came to rest on its right side, facing east/northeast off of the roadway to the left. Both vehicles were towed due to damage. The driver of V1, a twenty-eight-year-old male, was traveling with a nineteen-year-old female when he attempted to turn into the private drive of a mini-storage facility. He did not answer questions regarding his health or his familiarity with his vehicle or the roadway. The driver of V2, a twenty-one-year-old male, was traveling from the job that he had recently been fired from to his home. He did not answer questions regarding his sleep patterns, but was very familiar with his vehicle and his route. According to his medical records, he had ingested benzodiazepines and opiates. The pre-event movement for V1 was coded as "going straight." The critical pre-crash event for vehicle one was coded as "this vehicle traveling - turning left at intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor - inadequate surveillance (e.g. failed to look, looked but did not see)." The pre-event movement for V2 was coded as "going straight." The critical pre-crash event for V2 was coded as "other vehicle encroachment - from adjacent lane (same direction) - over the right lane line." The critical reason for the critical pre-crash event for V2 was coded as "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Surveillance present problem 
+Vehicle 2:  Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

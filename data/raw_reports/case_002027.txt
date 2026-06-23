@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of an interstate highway that was divided by a concrete barrier wall. The eastbound lanes consisted of a right side on-ramp lane and 5 additional through lanes totaling 6 travel lanes. The roadway was straight and level. Conditions were daylight and dry in the early evening on a weekday. The posted speed limit was 89kph/55mph. There was a construction zone on the eastbound side of the interstate that was another one-quarter mile from the crash scene. Vehicle #1, a 1991 Chevrolet S-10 pickup, was traveling east on the interstate in lane 3. It then changed lanes to the right (to lane 2) and struck Vehicle 2, a 2002 Honda Accord that was stopped for traffic in the rear with its (V1's) front. Both vehicles came to rest in lane 2 facing east within a few meters of POI. Both vehicles were towed due to damage. Vehicle #1 was driven by a 45-year old belted male whose airbags did not deploy. He was uninjured in the crash. The Critical Pre-crash Event for Vehicle 1 was other motor vehicle in lane: other vehicle stopped. The Critical Reason for the Critical Pre-crash Event was an external distraction. As the driver was checking traffic to change lanes to the right, he stated that he both turned his head over his right shoulder and checked his side view mirror as he was changing lanes. He then looked forward, and this is when he collided with V2. Another contributing associated factor coded was inadequate surveillance: failed to look far enough ahead (if he had looked further ahead, he may have seen traffic stopping for the next quarter mile east). Rush hour traffic was also coded a traffic interruption factor. Vehicle #2 was driven by a 31-year old belted female whose airbags did not deploy. She was listed on the PAR as possibly sustaining injury, but she was not transported by EMS. The Critical Pre-crash Event for Vehicle #2 was other motor vehicle in lane: traveling in same direction with higher speed. The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. As the interview was not acquired with the driver of this vehicle, the only contributing associated factor coded to this vehicle was the heavy rush-hour traffic.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

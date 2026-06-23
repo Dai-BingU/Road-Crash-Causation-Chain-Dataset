@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on an expressway, on a weekend during afternoon hours. The location was a five-lane divided (with a positive barrier) straight concrete roadway. It was preceded by a right curve (radius of curvature not known) The roadway had an unknown uphill grade. The speed limit is 97 kmph (60 miles) for the south-north direction. There was moderate traffic at the time of the crash. The weather was clear and the roads dry. Vehicle one (V1), a 2000 Dodge Dakota pick-up, was traveling north in the third lane of traffic. Vehicle two (V2), a 2004 Mazda 6, with one occupant was traveling in lane four, behind V1. There were several vehicles ahead of V1 traveling in lane three. A home exercise bike fell off the pick up bed of an unknown vehicle and came to rest in lane three. Several vehicles in front of V1 steered to the side to avoid hitting the object in the roadway. The front of V1 struck and then the vehicle drove over the object. V1 departed lane three and entered lane four. V1 drove partially onto the concrete traffic median where the left rear corner of V1 struck the concrete traffic barrier. As V1 slowed, the front of V2 struck the rear of V1. Both vehicles came to rest within lane four. V2 was towed from the scene. A 20-year old male drove V1. He was heading from home to work. He is in general good health, does not take any medication and was well rested. He is familiar with his vehicle and drives on this roadway on a daily basis. He stated he saw three vehicles move to the right in an attempt to avoid the object. He steered to the left and into lane four, but said someone hit the object and moved it into lane four. He said he was traveling at 75 mph (120 kph). The critical pre-crash event was coded "object in roadway". The critical reason for the critical event was coded "driver related error - driving too fast for conditions." The driver was traveling over the speed limit. He saw three vehicles swerving out of the way to avoid the object in the roadway. He did not slow down until he had a clear view of the object. The object in the roadway was masked by traffic flow in front of him. A 46-year old female drove V2. She was heading from a friend's residence out of town to home. She is in general good health, does not take any medication and was well rested. She is familiar with her vehicle but rarely drives on this roadway. She was traveling within the speed limit when V1 entered her lane ahead of her. The critical pre-crash event for V2 was coded "other-vehicle not involved in critical first harmful event". No critical reason for the critical event was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Roadway, Speed/Distance, Surveillance, Traffic present problem 
+Vehicle 2:  Driver Inexperience, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Object in roadway
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary Vehicle 1, a 2004 Honda Element, was exiting lane 1 of 3 eastbound lanes of a 6 lane interstate. The long exit ramp was one lane, cement, level and curved right. At the time of the crash it was dusk, unlighted and the roadway was dry. There were no adverse weather conditions. Vehicle 2, a 2003 Saturn Vue, had run out of gas 1/3 of the way up the same exit ramp and was parked on the right shoulder, outside of the travel lane's right fog line, occupied but not running. The front right of Vehicle 1 sideswiped the left rear of Vehicle 2. Vehicle 2's final rest was approximately 1 meter forward of the point of impact. Vehicle 1 continued up the ramp approximately 110 meters and stopped on the left shoulder. The driver of Vehicle 2 was transported. The driver of Vehicle 1 was uninjured. Both vehicles were towed due to damage. Complete driver interview and vehicle inspections were obtained for Vehicle 1. The driver was found to be familiar with both the roadway and the vehicle and he was properly licensed for the vehicle. He was not late, had been driving <1/2 hour and speed did not seem to be a factor. There were no indications of fatigue or a medical condition contributing to his actions, but he was cited in the crash. The vehicle inspection yielded no indications that the mechanical condition of the vehicle contributed to the causation of the crash but the driver did state that “this vehicle seemed wider than any he had driven” and may have been uncomfortable with it's feeling of width. Driver 1's pre-event movement was negotiating a curve, the Critical Pre-crash Event was Vehicle 1's movement over the lane line on the right side of travel lane, and the Critical Reason for the Critical Pre-crash Event was poor directional control. Contributing factors in the crash could include the absence of lights or flashers on Vehicle 2 and Driver 1 being intimidated by the apparent width of his vehicle. Driver 1 was assigned an associated factor for inadequate evasive action. There were no indications that drugs or alcohol were a contributor to the cause of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Performance, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

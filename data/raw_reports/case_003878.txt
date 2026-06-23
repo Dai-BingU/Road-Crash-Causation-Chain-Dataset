@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the morning of a weekday on the eastern roadside side of a rural roadway. The north/south roadway consisted of a single lane in each direction with a posted speed limit of 89kmph (55 mph). The bituminous roadway was dry, straight, and level. The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2004 Pontiac Grand Prix, was southbound in lane one. V1 departed the roadway on the right side, the driver tried to regain control of the vehicle by steering left back onto the roadway. The driver over-corrected and the vehicle came back onto the road, but traveled off the left side after rotating slightly in a counterclockwise rotation. V1 struck a tree with its rear right side, than rotated clockwise before coming to rest. V1 was towed from the scene. The driver of V1, a 27-year-old male, was transported along with two passengers for treatment of unknown injuries. The passenger in the right front seat stated that the driver just drove off the right side, and that there was nothing going on in the vehicle at the time that caused the crash. The officer at the scene stated that the driver and passenger both admitted to arguing before the crash, and the passenger later stated to the police officer that the driver was assaulting her when they went off the road. The passenger did state that they were on their way to an unemployment meeting and that they were both looking for jobs, since they had just moved in with family in the past two months. The Critical Precrash Event for V1 was coded this vehicle traveling off the edge of the road on the left side. The Critical Reason for the Critical Event was coded as an internal distraction, that being the driver and passenger arguing. Associated factors include a non-driving activity, the driver assaulting the passenger, the driver's overcompensating after the right side road departure, and the fact that they were in a hurry and running late for an appointment.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance, Driver Physical, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekend in the middle of a four-way intersection. The intersection consisted of a five-lane, north/south roadway divided by grass and concrete medians and a five-lane east/west roadway divided by grass medians controlled by a properly functioning traffic signal. The roadway on the east was the entrance/exit from a large shopping mall. There were three lanes in each direction with two lanes in the opposite direction on the other side of each median. Both roadways were bituminous, dry, straight, and level with posted speed limits of 64 kmph (40mph). The traffic flow was heavy at this time of day but there were no adverse atmospheric conditions at the time of the crash. V1, a 1996 Mazda Protégé with one occupant, was eastbound in lane three approaching the intersection where it intended to turn left. V2, a 2000 Buick Century with one occupant, was stopped facing west in lane one waiting for the light to change so it could cross the intersection. As V1 began its left turn the traffic light turned green for V2 and it proceeded straight into the intersection. Before V1 could complete the turn it was struck on its right front side by the front right of V2. The impact caused V1 to yaw to the left and it came to rest facing north about 4m from the point of impact. V2 rotated slightly in a clockwise direction and came to final rest facing northwest. Both vehicles had to be towed from the scene. The driver of V1, an 18-year old female, suffered non-incapacitating injuries and was transported for treatment. She was on her way home from what she described as a bad day at work. She said that as she approached the intersection she had a green light and that she did not stop before initiating her left turn because she saw V2 was stopped. She added that before she could finish her turn she noticed V2 coming at her. The driver said she applied her brakes trying to avoid V2 but was hit on the right side, which pushed her to the left. The Critical Precrash Event for V1 was coded this vehicle traveling turning left at intersection. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors coded for V1 include driver fatigue, emotional factors (she had a bad day at work), the false assumption that the other driver would yield the right of way, and driver inexperience (she had been driving for less than a year). The driver of V2, a 34-year old male, also suffered non-incapacitating injuries and was transported to a hospital. The driver reported that he had just left the mall on his way to another store. He said he had been stopped for the red light and when the light turned green he accelerated slightly to about 16kph (10mph) before he noticed that V1 was turning left across his path. The driver applied his brakes but was unable to stop before he collided with V1. The Critical Precrash Event for V2 was coded this vehicle traveling, passing through (crossing over) intersection. The Critical Reason was coded as inadequate surveillance (failed to look far enough ahead). In addition to the inadequate surveillance, inattention was also coded as an associated factor.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Inexperience, Driver Stress/Emotion, Drugs present problem 
+Vehicle 2:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

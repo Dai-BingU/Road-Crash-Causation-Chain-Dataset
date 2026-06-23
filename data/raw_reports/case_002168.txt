@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary three lane northbound bituminous expressway during clear conditions. The expressway is under construction and the number of lanes varies frequently. The area the crash occurred is straight, level and has no noted deficiencies. There are shoulders and jersey barriers on the east and west sides of the roadway. The designated speed limit for the roadway is 89 kmph (55 mph). Vehicle one (V1), a 2002 four-door Ford Taurus SE carrying two occupants, was traveling northbound in lane three. The driver of V1 claimed that an unknown vehicle attempted to pass him on the right, attempted to change to lane three and the unknown vehicle clipped the right side of V1. Vehicle inspection contradicted the driver's statement. Rather, V1 ran off the left side of the roadway where the front of the vehicle struck the concrete median barrier. The vehicle continued to rotate counter clockwise as it continued north, coming to rest across lane two facing northeast. The report completed by the investigating officer also states the vehicle also struck the barrier on the right side of the traffic lanes. There was no evidence the vehicle struck a median barrier twice. Neither occupant was injured. The vehicle was towed from the scene. The critical pre-crash event for vehicle one was coded as: this vehicle traveling-off the edge of the road on the left side. The critical reason was coded inattention (i.e., day dreaming). The driver was in conversation with the passenger and also listening to the radio. The crash occurred in a work zone. Inspection of the vehicle contradicted the involvement of another vehicle striking the right side of V1 prior to the vehicle running off the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)

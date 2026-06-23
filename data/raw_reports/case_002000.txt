@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the southbound lanes of a five-lane roadway. In the southbound direction there was a left turn lane, a through lane, and a right or straight lane. The northbound approach had the same lane designations. The roadway had a posted speed limit of 56 kmph (35 mph). The southbound approach was on a 4 percent downhill grade, while the northbound approach was on level ground. The intersection was signal-controlled with crosswalks. Conditions were daylight and dry with clear skies. The setting was late afternoon hours on a weekend. Vehicle one was a 1999 Dodge Grand Caravan minivan traveling southbound in lane two. Vehicle two was a 2002 Jeep Grand Cherokee SUV traveling northbound in lane three preparing to turn left. Both vehicles proceeded into the intersection at the same time. The front of V1 impacted the front of V2. V1 traveled partially off the southwest corner of the intersection before coming to rest. V2 came to rest facing south in the intersection. The Dodge Grand Caravan (V1) was driven by a 56-year old male who was transported with possible injuries. He stated that he was heading home from the mall when another vehicle turned left in front of him. He braked without lockup, but was unable to avoid the collision. He estimated his travel and impact speeds to be 56 kmph (35 mph). The Dodge minivan was towed due to damage. The Critical Pre-crash Event for V1 was other vehicle encroachment from the opposite direction over the left lane line. No Critical Reason was coded to this driver. This driver took Avapro for high blood pressure, and also had high cholesterol. His right front tire had a tire deficiency of inadequate tread depth. The Jeep Grand Cherokee (V2) was driven by a 45-year old female who was also transported with possible injuries. She could not be located for an interview despite repeated attempts. The investigating officer estimated her travel and impact speeds to be 56 kmph (35 mph) and 40 kmph (25 mph). The Jeep was towed due to damage. The Critical Pre-crash Event for V2 was this vehicle turning left at an intersection. The Critical Reason was inadequate surveillance. No other associated factors could be coded due to the lack of an interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Vehicle present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

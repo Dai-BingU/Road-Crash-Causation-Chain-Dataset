@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred on a 2-lane undivided roadway with minimal traffic. The road ran east and west with a posted speed limit of 72 kmph (45 mph). The crash occurred in the late morning hours and the weather was clear and sunny. V1, a 1989 Dodge Dakota with one occupant, was traveling west behind an unknown vehicle at a 2-vehicle gap distance. The unknown vehicle stopped in its lane to make a left turn into a public vehicle area. V1's driver locked his brakes and swerved to the right. V1 departed the right side of the road, entered a ditch, and struck a concrete culvert with its front bumper and frame. V1 continued to jump a private driveway and came to final rest in a ditch on the right side of the roadway facing west. V1 was driven by a 43-year old male who was a self-employed ceramic tile layer. His normal sleep schedule was 23:00 to 06:00 hours regardless if it is a workday or not. On the day of the crash, he was not working at his job, but was working on his vehicle. He visited a salvage yard earlier that morning in search of some parts for the repairs he was making to his truck. After leaving the salvage yard, he began to drive home on this 2-lane roadway when this crash occurred. He said he was driving west on the roadway when the vehicle in front of him suddenly stopped to make a left turn. Once this driver realized the other vehicle was stopped, he slammed on his brakes and steered right. He drove off the right side of the shoulder and into a ditch, where he struck a sewer drain and a driveway before coming to final rest on the right roadside. He was wearing his seatbelt at the time of crash and suffered a smash laceration above his left eye when his face struck the sun visor. This driver could not explain why he did not see the vehicle in his lane slow down or stop and he acknowledged, "It was my fault. I don't know what I was thinking." The Critical Pre-crash Event for V1 coded as this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Pre-crash Event was coded as inattention because the driver could not explain why he didn't see the vehicle in front of him. Associated factors coded to this driver include use of a prescription medication to treat an enlarged prostate and the roadway's narrow shoulders.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the afternoon of a weekday at an intersection / interchange. The intersection consisted of a multi-lane divided roadway and two highway exit/entrance ramps, controlled by a properly functioning traffic signal. The main thoroughfare was a straight, flat, east/west divided roadway with two westbound lanes and three eastbound lanes. The posted speed was 72 kmph (45 mph). The exit and entrance ramps were both for southbound travel and the exit ramp had two-lanes and an uphill slope. The bituminous roadway was clear, dry, sunny, and there was little traffic at the time of this crash. V1, a 1993 Toyota pickup 4 X 4 with one occupant, was southbound in lane one of the exit ramp approaching the intersection where it intended to turn left. V2, a 1998 Mitsubishi Eclipse RS coupe with two occupants, was westbound in lane 1 approaching the same intersection where it intended to go straight. V2 had a red light for its direction and failed to stop before entering the intersection. The front of V2 struck the left side of V1 causing disabling damage to V2 and a minor injury to V1's driver. The driver of V1 was a 25-year-old male who was commuting from work to home this afternoon when he was involved in this crash. He claimed he exited the highway and stopped with the other traffic on the exit ramp because their signal was red. Once the signal turned green, all the traffic moved forward and he was in line to make a left turn at the intersection. As he entered the intersection he heard tires squealing so he looked left and saw a Mitsubishi approaching his driver's side door. This driver thought he could accelerate through the intersection to avoid a collision but there was not enough time and space to evade a crash. His truck was struck in the left side by the Mitsubishi and caused him to spin 180 degrees in the intersection. He was treated and released at a hospital for minor injuries. The Critical Pre-crash Event for V1 was coded this vehicle traveling - turning left at intersection. The Critical Reason for the Critical Event was coded as inadequate surveillance - failed to look to side before entering the intersection. No additional associated factors were coded to the driver of V1. The driver of V2 was a 22-year-old male who was traveling home this afternoon after picking up his brother from a mutual friend's house. As he was driving toward this intersection, he was talking to his brother and also trying to place his mobile phone into the glove box. His brother yelled at him that there was a "red light" ahead so this driver looked back at the road and slammed on the brake pedal. He could not stop before entering the intersection and struck a pickup that was also entering the intersection at the same time. There were not any injuries in his car but the vehicle had to be towed due to disabling damage. This driver mentioned that this was the third time he was involved in a crash where he was driving. The Critical Pre-crash Event for V2 was coded other vehicle encroachment from crossing street, turning into opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors coded to this driver include conversing with passenger, failed to look far enough ahead, placing phone in glove box, and failing to stop for a traffic control device.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Decision, Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

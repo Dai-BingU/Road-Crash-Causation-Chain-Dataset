@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the northbound lanes of a two-way, twelve-lane interstate roadway, which was physically divided by a concrete traffic barrier. There were six northbound lanes, with a posted speed of 105 kmph (65 mph). The bituminous roadway was dry, straight, and level. Conditions were daylight on a weekend morning with clear skies and normal traffic flow. V1, a 2006 Chevy Impala with one occupant, was northbound in lane five. V2, a 2003 Infinity FX35 sport utility vehicle with one occupant, was northbound in lane four, behind V1. The driver of V1 encroached into V2's travel lane. The front left of V2 made contact with the back right of V1. After impact, the two vehicles stayed on the roadway, rotating several times before coming to final rest. The two vehicles came to final rest in lane three, facing south, approximately 30 meters from each other. Both vehicles were towed due to damage. The driver of V1, a 33-year old female, was transported to the hospital due to non-incapacitating injuries. She initially stated that she was on her way from her house to a friend's house. The driver's attire, coupled with her state of mind and the early time of the crash, indicated otherwise. She later admitted that she had come from a nightclub. The driver indicated that she was traveling at a speed of around 48 kmph (30 mph) on the interstate, when she suddenly noticed that she was approaching her exit. The driver said she began to move to the right in order to make her exit, and was hit from behind. The Critical Precrash Event for V1 was coded this vehicle traveling, over the lane line on right side of travel lane. The Critical Reason for the Critical Event was a driver-related error, too slow for the traffic as V1 was traveling well below the speed of traffic. The. An associated factor for this driver was fatigue as she was returning home from a nightclub. Inadequate surveillance was also coded as the driver failed to check the adjacent lane before moving over. A physical factor for this driver included the pre-existing condition of Hepatitis B. The driver of V2, a 43-year old male, was transported to the hospital due to non-incapacitating injuries. He declined to be interviewed, pending litigation. The Critical Precrash Event for V2 was coded other vehicle encroachment, from adjacent lane (same direction), over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. There were no known associated factors that could be coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Physical, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other decision error (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

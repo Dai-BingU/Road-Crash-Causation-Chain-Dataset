@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This is a two-vehicle intersection type collision in an urban area. It occurred just before noon at an intersection controlled by traffic control signals. The east/west roadway is a six-lane roadway approaching from the east. The roadway had no defects, was straight and level and the road surface was dry. The speed limit is 56 kph (35 mph) The north/south roadway is a 3-lane roadway and is also straight and level. The speed limit is also 56 kph (35 mph) The roadways are asphalt and there were no adverse environmental conditions present. Vehicle one (V1), a 2000 Mercury, Grand Marquis, 4-door sedan, driven by a 33 year-old male was traveling southbound in lane one and was stopped for the red traffic control signal. There was a non-contact vehicle in lane two also stopped for the signal with the intention of turning left. This non-contact vehicle was a view obstruction for both drivers. When the light turned green, both vehicles proceeded into the intersection. V1 intended to proceed straight across the intersection. Vehicle two (V2), a 1988 Chevrolet, Astro Van, driven by a 15 year-old male was traveling westbound in lane two approaching the collision intersection. V2 ran the red light, veered left to avoid the non-contact vehicle before the front of V1 struck the right side of V2. V1 rotated slightly clockwise before coming to rest in the intersection. The driver then moved the vehicle to a nearby parking lot. After impact V2 continued forward for about a block before the driver and the 12 occupants attempted to flee. Border patrol agents who had been following the vehicle detained the occupants of V2. V2 was towed from the scene. The pre-event movement for V1 coded stopped in traffic lane, category this vehicle traveling crossing over passing through intersection. Critical reason coded to this vehicle. The pre-event movement for V2 coded going straight, category other vehicle encroachment from crossing street across path. Critical reason for the critical event driver related factor "Illegal maneuver". Associative factor, V1 unlicensed driver, evading police.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Roadway present problem 
+Vehicle 2:  Aggressive Behavior, Decision, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

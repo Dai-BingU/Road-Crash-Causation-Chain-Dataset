@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary A crash happened during mid-afternoon hours. The location was a three lane divided (no positive barrier, six lanes overall) straight blacktop roadway. Speed limit 64 kmph (40 mph).The weather was clear and the road was dry. The only vehicle in this crash, a 1998 Chevrolet Camaro, driven by a 32 year-old male was traveling east in the first lane. The vehicle drove off the road to its right. Its front impacted a utility pole located south of the roadway. The vehicle rotated clockwise around the pole. It came to rest at the pole. The driver claimed he lost control due to mechanical problems. He felt the vehicle was slightly fishtailing. He could not say what exactly what was wrong with his vehicle, but thought the steering failed. The vehicle was towed from the scene. The driver was not injured. The pre-crash movement was coded this vehicle going straight. The critical per-crash event category was coded this vehicle traveling, off the edge of the road on the right side. The critical reason was coded "vehicle related factor" - steering failed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Steering failed

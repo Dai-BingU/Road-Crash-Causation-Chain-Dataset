@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a 4-lane undivided, dry, level roadway (two lanes in each direction) in the northbound lanes. The posted speed limit was 80 kmph (50 mph). The crash happened on a clear, mid-week afternoon. There were no traffic signals at the area of the crash. V1 was traveling north in lane #1 and V2 was traveling north in lane #2 approximately 6 meters (20 feet) behind V1. Suddenly, V1 veered left across the path of V2. V2 then contacted the left side of V1 and then both vehicles skidded across both southbound lanes and off the roadway into a parking lot on the west side of the roadway. The front left of V1 then contacted the right rear of V3, which was parked in the lot on the west side of the roadway. Final rest for V1, V2 and V3 was in the parking lot (this parking lot surface was gravel). V1, a 1994 Pontiac Grand Am, was driven by a 61-year old female who stated that she was looking for a repair shop on her right so that she could set up an appointment to have gas tank repairs done. She also stated that she did not remember turning left in front of V2. She stated V2 hit her in the left side and when they came to final rest they where in the lot on the west side of the roadway. She also stated she was in good health. She does not wear corrective lenses. She did state that she was taking medications but that they do not affect her driving skills. She also stated that she was well rested and felt fine at the start of this driving portion. The Critical Pre-crash Event for this driver was coded: this vehicle traveling over the lane line on the left side of travel lane. The Critical Reason for the Critical Event was coded as an internal distraction, because it was believed (based on witness statements) that a dog inside of V1 had jumped on the driver of V1 immediately before V1 swerved into the path of V2. Associated factors coded to this driver include poor directional control, the use of prescription medication, and an emotional condition, as the driver's daughter had stated at the scene that her mother had a mental condition. V2, a 2005 Chevrolet Cobalt, was driven by a 50-year old female who stated she was traveling north on the roadway in lane #2 about 20 feet back from V#1, which was in lane #1. She also stated that V1 steered into her lane and she had no time to react. She did not want to steer left to avoid the collision because there was a semi-truck traveling south in lane #2 and she did not want to have a head-on collision with the truck. This interviewee stopped the interview at the health and sleep question part of the interview. The Critical Pre-crash Event for this vehicle was coded other vehicle encroachment from adjacent lane (same direction) - over left lane line. The Critical reason was not coded to this vehicle. A witness stated that he was standing at the roadside at the time of the crash and saw both vehicles traveling north at about the speed limit. V1 was in lane #1 and V2 was in lane #2. He also stated that a dog had jumped into the lap of the driver of V1 and she then steered left and crossed the path of V2. They had both just missed being hit by a southbound semi-truck. A second witness stated that he did not want to give his name or really get involved but he also saw the dog jump into the lap of the driver of V1. He then turned and ran so he would not be hit. V3 was a parked and unoccupied 1991 Chevrolet S-10 pick-up, which only had minor damage to the right box side.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance, Driver Stress/Emotion, Drugs present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

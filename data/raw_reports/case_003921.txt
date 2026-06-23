@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during mid-afternoon daylight hours on a undivided four lane, outer ring road that encircles and provides access to a shopping mall. The roadway is bituminous, runs east and west at the location of the crash, is not divided, and consists of two lanes in each direction. The eastbound roadway curves left and has a downhill grade; the westbound roadway is straight and has an uphill grade. The roadway has a posted speed limit of 32 kph (20 mph). At the time of the crash, the weather was clear and there were no sight restrictions or road defects. Vehicle #1 (V1), a white 2001 Chevrolet Monte Carlo, driven by a 64 year-old female was traveling westbound in lane two. Vehicle #2 (V 2) a 1986 Ford Taurus sedan driven by a 29 year-old female was traveling eastbound in lane two. V1 entered the eastbound lane short of a driveway, to initiate a left turn. The front of V1 and front of V2 collided in the number 2 eastbound lane. The impact rotated V1 counterclockwise and V1 came to final rest straddling the double yellow center stripes facing generally southeast. V1 was towed due to damage. After the impact, vehicle two entered lane one and came to rest approximately 28 meters beyond the point of impact facing generally southeast. The V2 driver was transported to a local hospital and treated for minor injuries. The Pre-event Movement for V 1 was coded as "turning left" The Critical Event was coded as "This Vehicle Traveling - turning left at intersection" The Critical Reason coded as "Driver Related Factor - Inadequate surveillance (e.g. failed to look, looked but did not see, The pre-event movement for V 2 coded negotiating a curve, category other vehicle encroachment from opposite direction-over left lane line. Critical reason not coded to this vehicle. Associative factors for V 1 are: 1) driver was westbound and heading toward the sun which was bright and relatively low in the sky; 2) Medications, consisting of Propranolol, Prilosec and vitamins; 3) The V1 driver was on her way to the store to use a coupon that she had received in the mail; her thought process may have been somewhat distracted from driving.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

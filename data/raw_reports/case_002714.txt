@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred on a primary east/ west arterial road in a residential area where the road was intersected on both sides by residential roads and happened in this instance to be intersected on the north by one of those roads with no traffic controls for the primary road. The primary road was a two-way four lane that was straight and level with no physical dividers and two lanes designated for either travel direction. The speed limit was 72kph/45mph along this particular stretch. The crash occurred in the left eastbound lane with no adverse weather conditions on a weekday in the early afternoon. Vehicle #1 was a 1998 Plymouth Voyager traveling east on the arterial road in the right lane when it changed lanes to its left and then while attempting to stop for slowing traffic ahead it rear ended Vehicle #2, a 1997 Eagle Vision that was also in the left eastbound lane. It (V2) in turn rear-ended Vehicle #3, a 1998 Plymouth Neon that was also in the left lane. The Neon then rear-ended a fourth vehicle (this was the vehicle that had initially stopped intending to turn left onto a side road) that fled the scene. All three vehicles came to rest in their original travel lane facing east. They were also all towed from the scene. Vehicle #1, was driven by a belted 41 year-old female who was uninjured in the crash. She stated that she was in the right lane originally heading toward the hospital. She switched to the left lane and was thinking about getting back over when I looked back up (from right side mirror) everyone was stopping so I slammed on my brakes too. That's when I hit V2. The Critical Precrash Event for Vehicle #1 was other vehicle in lane decelerating. The Critical Reason was coded as an external distraction as just before the crash she (driver V1) had been looking in her right side mirror to see if she could get back over to her right. She also failed to look far enough ahead. She was in a hurry to get to the hospital and a traffic interruption factor was coded due to the fourth vehicle stopping to turn left. Vehicle #2, was driven by a belted 23 year-old male who was uninjured in the crash but whose airbags did deploy. He stated he was slowing down with the vehicle in front, who was braking because the car in front of it had stopped to turn left. We were in the left lane here and V1 who had just swerved in behind me couldn't stop quick enough or something and hit me which pushed me forward into V3 which then hit the car that had stopped, but that car took off right away after everything settled. The Critical Precrash Event for Vehicle #2 was other vehicle in lane with a higher speed. The Critical Reason was not coded to this vehicle. The only factor coded to this vehicle was the traffic interruption of the fourth vehicle stopping to turn left. Vehicle #3, was driven by a belted 35 year-old female who was transported to a local hospital with non-incapacitating injuries. Her airbag did not deploy. Vehicle #3 was not involved in the first harmful event and did not have the critical precrash event coded to it. The only contributing factor able to be coded here was the traffic flow interruption.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion present problem 
+Vehicle 3:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

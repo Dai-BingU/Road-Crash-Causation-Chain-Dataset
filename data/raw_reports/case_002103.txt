@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary One light vehicle collided with an unknown type heavy truck during nighttime hours. There were no adverse weather conditions at the time of the crash. The concrete roadway was dry and straight but on a 3% positive grade in the direction of travel for the vehicles involved in the crash. The trafficway was comprised of four traffic lanes, two in each direction, divided by a dirt median. The crash occurred in the westbound travel lanes, which were bordered by paved shoulders and no curbs. At the location of this collision there were no traffic controls or overhead lighting and the posted speed limit was 72 kmph (45 mph). Vehicle one (V1) was an unknown type heavy truck that was traveling west in the number one lane. Vehicle two (V2) was a 1987 2-door Oldsmobile Calais with two occupants. V2 was also traveling west in lane one and collided into the rear of the heavy truck. The heavy truck continued west as its driver did not realize an impact had occurred. After impact V2 rotated counter clockwise 45 degrees and came to rest across the number one lane and right shoulder. V2 was towed due to damage. The driver of V2 is a 17-year-old female. Just before the collision she was helping the right front passenger to adjust his seat. She stated she was leaning forward with her body twisted towards him explaining how to adjust the seat while she continued to drive forward. This statement along with abrasions she sustained to her head in the frontal-parietal junction when it hit the windshield during the impact, suggest she was looking to her right and not forward prior to the crash. The driver of V2 further indicated that she was also emotionally/mentally consumed by a previous argument with a relative. She was feeling fatigued and was consuming coffee to stay alert. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with lower steady speed. The critical reason for the critical event was coded to the driver of V2 as a driver recognition factor of internal distraction. The driver's internal distraction of helping the passenger with adjusting his seat led to the driver losing her focus from the driving task resulting in a misjudgment of the proximity and velocity of the forward vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Distraction, Driver Fatigue, Driver Inexperience, Driver Stress/Emotion, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Internal distraction

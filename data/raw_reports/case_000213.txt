@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a two lane undivided roadway with a posted speed limit of 45 MPH (72 KPH). The roadway curved to the right with a radius of 81.06 meters and a superelevation of 1.6%. The roadway had a downgrade of -6.7%. There was a black-on-yellow curve warning sign with an advisory speed of 30 MPH more than one-quarter mile prior to the crash site. It was cloudy, the roadway wet and it was daylight at the time of this early morning weekend crash. Vehicle #1, a 2004 Nissan X-terra, was traveling in a northerly direction on the two-lane roadway negotiating a curve to the right on a downgrade. Vehicle #1 went off the right side of the roadway rotating slightly clockwise and struck a rock embankment with its front. Vehicle #1 continued up the embankment a short distance and began to roll over to the left. Vehicle #1 came back onto the roadway, continued to roll over two more quarter turns and came to rest on its passenger side in the southbound lane facing in a northerly direction. Vehicle #1 was towed due to damage. The Nissan X-terra was driven by a belted 33-year old female who was transported, treated and released from a local hospital for minor injuries. She reported that she had seen the black-on-yellow warning sign and was traveling between 31-40 MPH, although the advisory speed was 30 MPH. She also stated that she had thought of her friend who always drove slowly down the mountain. It should be noted that she rarely drove this road and was not used to its curvy nature. Also, she reported that she had been driving this vehicle less than one year and may not have had sufficient experience. Information obtained from emergency personnel indicated that the driver had been out all night with friends, slept little and was on her way home from a friend's house when the crash occurred. The Critical Pre-crash Event for Vehicle #1 was this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Pre-crash Event was traveling too fast for the curve, a decision error. This was chosen because the driver stated she was traveling 31-40 MPH and the police indicated unsafe speed. Associated factors coded to this driver were possible fatigue, alcohol presence and insufficient braking and steering inputs. In addition, a roadway-related factor was coded because the measured radius of the curve did not meet AASHTO design standards. The posted speed limit should have been no more than 25 mph. Police indicated alcohol involvement and issued a citation to the driver of Vehicle #1. The results of the alcohol test were not made available.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Distraction, Driver Inexperience, Driver Physical, Driver Stress/Emotion, Drugs, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

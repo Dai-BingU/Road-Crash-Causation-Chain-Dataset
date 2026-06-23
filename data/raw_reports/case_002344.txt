@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a three-lane urban roadway separated by a grass median. There were three westbound lanes and four eastbound lanes with lane four being a left turn-only lane. It was early afternoon on a weekday, and the roads were wet, as it had been raining off and on. The traffic flow was normal and the roadway was straight and level. The posted speed limit was 56 kmph (35 mph). Vehicle #1 was a 1990 International straight truck that was traveling in lane one behind Vehicle #2, a 2004 Toyota Corolla. Both vehicles were approaching an intersection controlled by a traffic light. The driver of Vehicle #2 saw the light turn yellow and quickly slammed on her brakes to try to stop in time. At that point, the front of Vehicle #1 struck the rear of Vehicle #2, as the driver of Vehicle #1 could not stop in time. Vehicle #1 was driven by a 23-year old male. The driver of Vehicle #1 told police that his brakes had failed; however, a quick inspection by police indicated that the brakes were operating properly. During the interview, the condition of the brakes was never mentioned. The Critical Pre-crash Event for Vehicle #1 was another motor vehicle stopped in lane. The Critical Reason was coded as a false assumption. From the interview, it was determined that the driver of Vehicle #1 expected Vehicle #2 to continue on through the yellow light and that he would follow it through. One associated factor coded to this driver was inexperience - he had recently got his CDL and had only 2 months experience driving this type of large vehicle. Another associated factor was the wet roadway. The driver received a ticket for failure to use due care. Vehicle #1 was not towed due to damage and the driver was not injured. Vehicle #2 was driven by a 55-year old female. She reported that she rarely drove on the roadway and when she saw the light at the intersection turn yellow, she slammed on her brakes to stop. She stated that she was stopped for one second or less before she was struck by Vehicle #1. The Critical Pre-crash Event for Vehicle #2 was other vehicle in lane traveling in the same direction with higher speed. The Critical Reason was not coded for this vehicle. Associated factors coded to this driver include the use of prescription medications to treat a bipolar disorder, unfamiliarity with the roadway, and the fact that the roadway was wet at the time of the crash. Vehicle #2 was towed due to damages and the driver was injured and transported to a local hospital.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway present problem 
+Vehicle 2:  Driver Inexperience, Driver Physical, Driver Stress/Emotion, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

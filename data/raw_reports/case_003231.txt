@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the early evening of a weekday in the westbound lanes of a divided urban roadway just past an intersection. The roadway consisted of three lanes with lane three serving as a designated left turn only lane and divided by a median barrier wall that was protected on the end by an impact attenuator. The bituminous roadway was dry, straight, and level and featured a posted speed limit of 64kmph (40 mph). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2003 Nissan Maxima, was westbound in lane two. As V1 passed through the intersection it departed the left side of the road striking the impact attenuator with its front left corner. After impact V1 rotated counterclockwise more than ninety degrees before coming to final rest facing south. The vehicle was towed due to damage. V1 was operated by a 41-year-old male that was not belted but was the beneficiary of deployed frontal airbags. He suffers from diabetes and hypertension for which he treats with medication. He was transported to an area hospital with minor injuries. He stated that he glanced right and a 'black streak' surprised him, causing him to steer left into the median. Police charged him with DUI, no seatbelt usage, failure to maintain lane, and no driver's license. The Critical Precrash Event for V1 was coded this vehicle traveling off the edge of the road on the left side. The Critical Reason for the Critical Event was an external distraction. Associated factors included fatigue. The driver works over 50 hours per week and commutes over an hour each way daily. He described himself as fatigued at the time of the crash. The driver had taken several Valium prior to the crash. The driver's diabetes were also coded as another physical factor, and tests shoed that his blood sugar was elevated at the time of the mishap. A BAC test conducted at the hospital came back negative.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Distraction, Driver Fatigue, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction

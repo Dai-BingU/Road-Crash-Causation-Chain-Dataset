@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at a four-way intersection. East/West traffic had an overhead amber caution flashing control device. North/South traffic had stop signs and an overhead red flashing control device. Both roadways were two-way, two-lane, straight and level. The posted speed limit for both roads was 56 kmph (35 mph); both road surfaces are bituminous asphalt. Setting was early afternoon hours on a weekend. Conditions were daylight, clear and dry. Vehicle 1 (V1) was a 2002 Volkswagen Jetta, four-door, subcompact, with one occupant traveling west in lane one. Vehicle 2 (V2), a 1994 Chevrolet G30 large van with one occupant, was northbound in lane one. V2 was stopped at the stop sign. V1 was traveling straight. As V2 entered the intersection, the front plane of V1 contacted the right front plane of V2 at a right angle. After impact V1 traveled approximately 7.6m (25 ft.) toward the right and came to final rest near the northwest corner of the intersection facing west. V2 after impact traveled approximately 15.9m (52 ft) and came to final rest in the westbound lane facing south. The driver of V1, a 26 year-old pregnant female, was transported from the scene with minor injuries. She advised that she was on her way to work that morning at a local hotel traveling the same way she does everyday. She was driving straight ahead at 56 kmph (35 mph) in lane one. She saw V2 approach the intersection from the left and assumed that he would yield the right of way for her. She remembered him stopping momentarily then proceeding right in front of her. She hit the brakes, but does not recall any of the events after that. VI was towed from the scene due to disabling damage. The Critical Precrash Event for V1 was coded other motor vehicle encroachment, form crossing street, across path. The Critical Reason for the Critical Event was not coded to this vehicle. The only associated factor coded to V1 was a false assumption as she assumed that V2 would yield the right of way to her. The driver of V2, a 46 year-old male, was transported from the scene with minor injuries. He is disabled and currently not working. He volunteers at his church driving a church van on a weekly basis. That day he was en-route from the church to pick up members from around the community. He reports driving northbound in lane one until he approached the stop sign and flashing red signal. He claims he looked both ways, didn't see any vehicles coming, so he proceeded into the intersection where he was struck by V1 on his right side front. V2 was towed from the scene but it did not sustain disabling damage. The Critical Precrash Event for V2 was coded this vehicle traveling, passing through intersection. The Critical Reason for the Critical Event was a decision error; inadequate surveillance- looked but did not see. The driver is disabled for an undisclosed reason and takes medication for Hepatitis C and HIV, but claims they don't affect his driving. He has also had a recent eye surgery that he wouldn't talk about. He admits that there are family concerns in his life, but claimed they were not on his mind at the time of the crash. The driver was possibly in a hurry. Church was due to start shortly after the crash occurred.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical present problem 
+Vehicle 2:  Distraction, Driver Physical, Driver Stress/Emotion, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

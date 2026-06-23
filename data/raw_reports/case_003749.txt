@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound second lane of a four-lane straight, level, bituminous roadway at a T-intersection, with a roadway on the left, controlled by an on-colors traffic signal. The conditions were clear and dry on the weekend evening at dusk. V1, a 1993 Ford Taurus, driven by a 19 year-old female, was following V2 in the left lane. The drivers of V1 and V2 were related and both traveling to the same destination, with V2 leading the way. V2, a 1993 Ford Crown Victoria, driven by a 43 year-old male, came to a stop at the intersection on the green light and was waiting for eastbound traffic to clear to make a left hand turn. The driver of v1 did not realize that V2 was stopping to turn and when she saw V2 stopped in front of her she applied the brakes, without locking up, and the front of v1 struck the back of V2. The Critical Precrash Event coded for the driver of v1 was 'other motor vehicle in lane, other motor vehicle stopped.” The Critical Reason for the Critical Event was coded as “inadequate surveillance.” Contributing Factors coded for this driver were “false assumption of other road users actions”, as she thought V2 was going to continue to go straight, “driver experience” as the driver of V1 had only been driving for three months, and “vehicle familiarity”, as she had only had the vehicle for two weeks. Interviews were obtained for both drivers, although a language barrier existed for both. The driver of V2 was interviewed on-scene, with minimal problems, but the driver of V1 was interviewed over the phone via an interpreter, resulting in some unattainable information. The Critical Precrash Event coded for the driver of V2 was 'other motor vehicle in lane traveling with a higher speed”. The Critical Reason was not coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

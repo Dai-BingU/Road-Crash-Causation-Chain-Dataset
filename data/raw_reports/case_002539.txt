@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This 2-vehicle crash occurred on a 2-lane undivided rural road with a flat, dry asphalt surface. The road had a posted speed of 45 mph. The conditions were dark and foggy. There was not any lighting for the road. The crash occurred in the early morning on a weekend. V1 and V2 were traveling in opposite directions on the same road. V1, a 1998 Ford F-150, was heading north. V2, a 1997 Ford F-150, was heading south. V1 crossed the double barrier lines and struck V2 head-on. V1 came to rest in its northbound lane. V2 continued south after the impact and departed the road on the left side of the northbound lane. A 25-year-old male drove V1. There were three other passengers in the truck. The driver received moderate injuries and EMS transported him to a local trauma center. He was in the hospital for 3 days. He stated he does not remember anything about the crash because he fell asleep and offered very few details about the day of the crash. He did state he was driving home after a hanging-out with friends all night. The Critical Precrash Event for V1 happened when it traveled over the lane line on left side of travel. The Critical Reason for the critical pre-crash event was that this driver fell asleep. He was awake for 23.5 hours and worked 10 hours laying tile within that period. Medical records indicated that the driver of V1 was intoxicated when brought into the hospital; however, police did not order a BAC test. If hospital staff conducted a BAC test, it was not indicated in the medical records. An associated factor coded to both drivers was the weather - fog had blanketed the area. The driver of V1 reported that he was familiar with both his vehicle and the roadway. He was not taking any prescription medications. A 32-year-old male drove V2. His injuries were minor and he was treated at the scene by EMS. He stated he was driving straight and never saw the other truck until they collided. The Critical Precrash Event for V2 was when V1 encroached from the opposite direction-over the left lane line. No Critical Reason event was coded for this vehicle. The fog was coded as an associated environmental and sight line factor. The driver of V2 reported that he was familiar with both his vehicle and the roadway. He was taking an unknown medication to control high blood pressure. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. There were no pre-impact tire marks on the scene to support braking by either vehicle. The driver of V1 was issued a citation for driving left of center. Both drivers were belted and each vehicle had a driver air bag deploy. A third vehicle struck the back of V1 after stabilization took place. That driver said he never saw the truck because of the low visibility.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Weather/Environment present problem 
+Vehicle 2:  Driver Physical, Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

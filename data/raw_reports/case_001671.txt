@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in an intersection in the northbound lanes of a four-lane highway with no barrier. There were two northbound lanes and two southbound lanes. This was a straight bituminous roadway with a posted speed of 72 kmph (45 mph). It was evening on a weekday and conditions were clear. V1 was a 2003 Mitsubishi Eclipse driven by a 16-year-old female. V2 was a 2004 Ford F-350 truck driven by a 62-year-old male. V1 was traveling southbound in lane number two. The driver made a left hand turn in the intersection in front of V2. V2's front collided into the right front side of V1. V1 was spun into the southbound lanes and the right side of V1 side slapped the left side of V2. V2 was forced off of the roadway to the right and up an embankment, knocking down a sign in the process. The Critical Pre-crash Event for V1 was "this vehicle traveling, turning left at intersection." The Critical Reason for the Critical Pre-crash Event was "driver related factor, internal distraction." The driver of V1 was talking on her cell phone at the time of the impact, getting directions to her destination. The driver admitted to this distracting her from the roadway. The driver also said that she recalled being behind a van that made the left turn in front of her. She could not recall if there was a green turn arrow, there was not. She stated that she just followed the van through the intersection. It seems reasonable to infer that because she was disoriented and distracted by her conversation that she assumed that because the van went through the intersection that she could safely cross as well, without realizing that oncoming traffic had the right-of-way. The driver also does not recall ever seeing V2 until the impact occurred. Associated factors coded to the driver of V1 include conversation, inadequate surveillance, this being her first time on the roadway, and driver inexperience. The Critical Pre-crash Event for V2 was "other vehicle encroachment, from opposite direction - over left lane line." The Critical Reason was not coded to this vehicle. No associated factors were coded to the driver of V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Distraction, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

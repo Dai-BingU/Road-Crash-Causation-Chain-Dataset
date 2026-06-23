@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 2002 Chevrolet Cavalier was traveling northbound on a five lane, two way, dry asphalt roadway in dark conditions. V1 was attempting to make a left-hand turn. V2, a 1994 Dodge Ram was traveling southbound on the same roadway. V2 was intending to go straight. The front of V2 contacted the right of V1 before they both came to final rest in the roadway. The driver of V1 was a 69-year old female who had reported that she had been traveling 2-16Kmph (1-10Mph) prior to the crash. She had a history of high blood pressure and took medication to control it prior to the crash. This was not thought to have contributed. She was rested and traveling to pick up her granddaughter. She received minor injuries and was transported to a local trauma facility. Her vehicle was towed due to damage. The Critical Precrash Event for the driver of V1 was this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Precrash Event was a recognition error, inadequate surveillance (failed to look, looked but did not see). The driver of V1 stated that she did not see the other vehicle. The driver of V2 fled the scene on foot leaving his passenger behind. The passenger reported that they had been traveling between 67-80Kmph (41-50Mph) prior to the crash. He stated the driver was in good health, was rested and traveling home. The passenger was uninjured and refused treatment. The Critical Precrash Event for the driver of V2 was other vehicle encroachment from opposite direction over left lane line. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2 and he was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

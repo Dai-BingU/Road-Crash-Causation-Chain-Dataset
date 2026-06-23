@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred just after noon on a weekday in the westbound lanes of an undivided urban roadway. The east/west roadway was composed to two lanes in each direction and featured a posted speed limit of 64kmph (40 mph). The bituminous roadway was dry and straight with a downhill grade greater than 2%. The traffic flow was normal and there were no adverse atmospheric conditions present at the time of the crash. V1, a 1990 Honda Accord, was westbound in lane two. V2, a 1990 Plymouth Caravan, was stopped in the westbound lane two waiting for traffic to clear so it could turn left into a parking lot ahead of V1. V1 failed to stop behind V2 and struck it in the rear. Both vehicles traveled forward several meters before coming to final rest in the roadway. Both vehicles were towed due to damage. The driver of V1, an 18 year-old male, was transported for treatment of minor injuries. He stated that he saw that V2 stopped ahead of him and was going to change lanes, but there was a vehicle in the lane one prevented him from doing so. He then applied his brakes but could not avoid the collision. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Event was a driver related factor, inadequate avoidance maneuver. Associated factors coded to V1 include driver inexperience, and a tire deficiency. The driver of V2, a 40 year-old female, was also transported for treatment of minor injuries. She stated that she was waiting for traffic to clear so she could make the left turn into the gas station, when she was rear-ended. She also stated that she never saw V1 until after the collision. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in the same direction with a higher speed. The Critical Reason was not assigned to V2. There were no associated factors coded to V2, as the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Vehicle present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate evasive action, e.g. braking only, not braking and steering
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

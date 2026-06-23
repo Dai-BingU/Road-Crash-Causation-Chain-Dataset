@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a rural, undivided two-lane road that runs east /west. Approximately eighty meters east of the crash site was a curve that runs from the south and curved left towards the west with a radius of 540.865 meters. As the curve ended there was a private road that extended due east from the end of the curve. There were no shoulders and off the south edge of the roadway there was a side-slope with a negative grade of 12%. There was some underbrush and some small trees growing in the ditch at the foot of the side-slope, approximately three meters from the road's edge. The posted speed limit on the roadway was 56 kmph/35 mph. The crash occurred in early afternoon on a weekday under daylight and dry conditions. Vehicle #1, a 1998 Ford Ranger pick-up (with a box of tools in the bed weighing 150 lbs), was traveling northwest on the roadway and after negotiating the left curve, encountered a non-contact vehicle traveling eastbound in the westbound lane. The driver of Vehicle #1 believes that the vehicle was headed on to the intersecting private road, eastbound. Vehicle #1 swerved left to avoid the non-contact vehicle and continued for approximately 30 meters traveling west in the eastbound lane before its left front tire departed the roadway. The vehicle traveled approximately 12 meters and struck a tree, coming to a complete stop at the tree. The vehicle was towed due to damage. Vehicle #1 was driven by a belted, 35-year old female whose frontal airbag deployed. Although she is listed on the PAR with non-incapacitating injuries, she refused treatment by EMS personnel or transport to a hospital. The Critical Pre-Crash Event was This Vehicle Traveling: Off the Edge of the Road on the Left Side. The Critical Reason for the Critical Pre-Crash Event was a performance error: poor directional control following an avoidance maneuver with a non-contact vehicle. An associated factor coded to this driver was a sightline restriction caused by the dense shrubbery on the left roadside, which blocked the view of eastbound traffic. The driver of V1 reported that she was taking two prescription medications - one was a thyroid replacement medication, and the other was a medication used to treat high blood pressure.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

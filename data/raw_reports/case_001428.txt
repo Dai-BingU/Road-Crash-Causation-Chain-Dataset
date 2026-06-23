@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in southbound lane 3 of a three lane (southbound lanes only) interstate highway along a portion that was straight and level. There were paved shoulders on either side, with rumble strips, and a concrete barrier wall dividing north and southbound lanes. The posted speed limit was 89 KPH / 55 MPH. Conditions were daylight and dry with rush hour congestion in the morning hours. Vehicle 1, a 1991 Ford Ranger, was in the left southbound lane traveling behind Vehicle 2, a 1998 Mercedes ML320 SUV. Traffic began to slow for rush hour congestion and V1 hit V2 in the rear. Both vehicles came to rest a few meters south of point of impact. Vehicle 1 was towed due to damage. Vehicle 2 was driven from the scene. Vehicle 1 was driven by a 29-year old belted male that was uninjured in the crash and whose airbags did not deploy. The Critical Pre-crash Event for Vehicle 1 was other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Pre-crash Event was a recognition error, internal distraction. The driver stated in his interview that he had looked down at the speedometer and then looked up to see that traffic was stopping. Several associated factors were coded including; inadequate surveillance (failed to look far enough ahead), following too closely (rush hour heavy traffic, the driver stated he was 20 feet behind other vehicle initially), in a hurry (late for work), and a traffic flow interruption factor (rush hour congestion). The driver was wearing lenses to correct an astigmatism. Vehicle 2 was driven by a 28-year old belted male, who was uninjured in the crash and whose airbags did not deploy. Although he was borrowing the vehicle from his father, he said he was familiar with the vehicle and comfortable driving it. The Critical Pre-crash Event for Vehicle 2 was other motor vehicle in lane, traveling in same direction at a higher speed. The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. The only associated factor coded was a traffic flow interruption factor-rush hour congestion. The driver was wearing lenses for a near sighted condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Stress/Emotion, Drugs, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

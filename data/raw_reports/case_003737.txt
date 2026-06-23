@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a traffic signal-controlled intersection. The east/west roadway is straight, level and has five lanes, two in each direction and a left turn-only lane. The north/south roadway is straight and has four lanes, two in each direction. The northbound lanes have a 6% downhill grade. It was raining at the time of the crash and the roadways were wet. The speed limit on these roadways was 56 kmph (35 mph). It was dark at the time of this crash, with street lights on. Vehicle one (V1), a 2003 Ford F-150 pickup, was eastbound in lane two, approaching the intersection. V2, a 1990 Plymouth Acclaim, was northbound, stopped at the intersection. Both drivers were distracted by a pickup truck stopped southbound at the intersection with a pedestrian in the vicinity. V1 attempted to pass through the intersection. At the same time, the northbound signal turned green and V2 proceeded into the intersection. The front of V1 struck the left side of V2. V1 came to rest east of the intersection. V2 rotated counterclockwise and came to rest north of the intersection. Both vehicles were towed due to damage. The driver of V1, a fifty-five-year-old male, was driving from his home to work. He was well rested and healthy at the time of the crash. He was very familiar with the roadway as well as his vehicle. This driver stated that he was watching the interaction between the pedestrian and the occupants of the non-contact vehicle and failed to notice that his traffic signal was red. The driver of V2, a fifty-six-year-old male, was driving a friend from her home to her workplace. He was well rested and comfortable with his route, vehicle and passenger. He was talking to his passenger and also noticed the non-contact vehicle and pedestrian, but started in traffic when he saw that his traffic signal changed from red to green. The pre-event movement for V1 was coded as "going straight." The critical pre-crash event for V1 was coded as " this vehicle traveling; crossing over (passing through) intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related; external distraction." The pre-event movement for V2 was coded as "stopped in traffic lane." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from crossing street; across path." The critical reason for the critical pre-crash event for V2 was coded as "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Decision, Distraction, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

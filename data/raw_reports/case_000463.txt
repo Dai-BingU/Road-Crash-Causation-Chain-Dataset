@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekend afternoon in the eastbound lanes of divided highway. The east/west highway consisted of two lanes in each direction, (however at the location of the crash, a third entrance-ramp lane extends throughout this crash sequence) divided by a by a grass median and guardrails. The bituminous highway is dry, straight, and level with a posted speed limit of 105kmph (65 mph). Traffic flow was normal and there were no adverse atmospheric conditions. V1, a 2002 Subaru Outback, was eastbound in lane three traveling at 89kmph (55 mph). V2, a 1996 Dodge Ram van with six occupants, was traveling ahead of V1 in the same lane at a sluggish 16-24kmph (10-15 mph). The front of V1 struck the back of V2 causing V2 to fishtail and depart the left side of roadway where it struck the guardrail with its right side. V2 bounced off the guardrail and rolled one-quarter time onto its right side. Following the initial collision, V1 departed the left roadside and struck a concrete barrier with its front. V1 drove to the right side of the roadway and V2 came to final rest in lane three on its right side. V1 was driven by a 61-year-old female who was driving to visit her grandchildren this afternoon when she was involved in this crash. She states she was driving east at 55 mph when a van stopped in her lane causing the collision. She said after the collision, her vehicle spun around (unknown clock direction), struck the bridge wall, and traveled across all three lanes. This driver reported that she did not have time to stop or swerve because she did not expect to have a van stop in her lane. She became upset during the conversation and was not an easy person to interview. She was refused treatment on the scene. The Critical Precrash Event for V1 was coded other motor vehicle in lane traveling in same direction with lower steady speed. The Critical Reason for the Critical Event was coded as a driver related factor misjudgment of other vehicle's speed. In addition to the misjudgment, inadequate avoidance action was coded as an associated factor. V2 was driven by a 46-year-old male who was returning from a soccer tournament with his family when they were involved in this crash. They live 4 hours away from the soccer field and when they were driving back home, they made a wrong turn somewhere. They were headed east when they should have been going west. While driving in the far left lane, this driver decided he needed to make a u-turn so he slowed down and looked for a place on the highway to turn around. While slowing down, the back of his van was struck by V1 and he spun into a guardrail and rolled over. This driver was treated on the scene by EMS for minor injuries but a couple of his passengers were transported to a hospital for more serious injuries and V2 was towed due to damage. The Critical Precrash Event for V2 was coded other vehicle in lane, traveling in same direction with higher speed. The Critical Reason of the Critical Event was not coded to this vehicle. An illegal maneuver was coded as an associated factor as the driver was driving well below the posted speed limit. A witness that was driving behind V1 confirmed that V2 was driving at a very slow pace. He also confirmed that both vehicles were in the far left lane. He said he saw V2 driving slowly and could not understand how V1's driver did not see it or try to avoid it.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

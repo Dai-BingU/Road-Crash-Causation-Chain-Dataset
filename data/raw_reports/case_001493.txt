@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a weekday afternoon on the southern roadside of an east/west urban arterial roadway. The roadway consisted of one lane in each direction and curved slightly to the right in the eastbound direction (radius of curvature of 1407m). Driveways were intermittently located on both sides of the road. The lanes were 3.1m wide with 0.8m paved shoulders. Deep severely sloped ditches were located off each side of the road for drainage. The bituminous roadway was dry and level with a posted speed limit of 64kmph (40mph). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1998 Chevrolet K1500 series pickup truck, was eastbound negotiating the curve. As V1 negotiated the curve it began drifting to the right and departed the roadway. V1 traveled 84m (275ft.) along the ditch line before striking a utility pole with its front. The vehicle came to rest off the south side of the road facing east at the pole. V1 was towed due to damage. V1 was driven by a belted 57 year-old female who was traveling from one fast food restaurant to another. The driver was wearing glasses to correct a near-sighted condition and takes medications for depression, high blood pressure, high cholesterol, and thyroid. She was not injured in the crash. A small dog was traveling with her in the front seat. She stated that she was drinking a milkshake looking forward and somehow edged off the right side of the road. She said the ditch was too deep for her to return to the roadway and she eventually struck the pole. EDR data was extracted from the vehicle and revealed a maximum longitudinal velocity change of 40kph (25mph). Unfortunately, pre-crash data was not available on '98 models. Police charge her with failure to drive within lanes. The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road, on the right side. The Critical Reason for the Critical Event was a driver related factor, an internal distraction. Associated factors included the non-driving activity of eating/drinking. An inadequate avoidance maneuver was also coded as the driver of V1 failed to apply any brakes after departing the roadway. She had plenty of time to bring her vehicle to a controlled stop before striking the utility pole.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

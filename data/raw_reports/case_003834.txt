@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the early afternoon of a weekday in the southbound lanes of a highway near an entrance ramp. The north/south highway featured two lanes in each direction divided by a cement and metal guardrail and flanked by paved shoulders. The bituminous highway was dry, straight, and level with a posted speed limit of 80 kmph (50 mph). The traffic flow was congested but there were no adverse atmospheric conditions at the time of the crash. Vehicle one (V1), a 2005 Freightliner Business Class box truck with two occupants, was southbound in lane one. Vehicle two (V2), a 1993 Nissan Pathfinder with two occupants, was also southbound in lane one ahead of V1. V2 began slowing down behind traffic, which was allowing vehicles to merge onto the highway from the upcoming entrance ramp. V1 failed to slow behind V2 and its front struck the rear of V2. After the initial impact both vehicles traveled forward several meters before coming to final rest. V2 was towed from scene due to damage while V1 was driven from the scene. The driver of V1, a 25-year old male, said he was traveling approximately 15-20 mph when vehicle two traveling directly in front of him suddenly came to a stop. He slammed on his brakes and steering right but could not avoid V2. He claimed he saw the traffic ahead slowing down and believed there was enough distance to stop in time if he needed to. He stated that travels on this roadway at least once a week and is well aware of the 80 kmph (50 mph) posted speed limit. He was talking to his passenger just prior to the crash and said he also occasionally glances down at his manifest while driving to make certain he going in the right direction for his next delivery. He just started this job driving two weeks ago and is not very familiar with the vehicle. He was not injured as a result of the crash. The Critical Precrash Event for V1 was coded other motor vehicle in lane, traveling in the same direction while decelerating. The Critical Reason coded to this vehicle was following too closely to respond to unexpected actions. Associated factors coded of this vehicle include inexperience driving large vehicles (driver has only been driving this vehicle class for one year), and internal distractions; the driver was talking with passenger and looking at his manifest just prior to the crash. The driver of V2, a 55-year old male, refused to comment or participate in the study. He did tell police though that he was decelerating due to traffic slowing in front of him. Both he and his female passenger (sister) were transported directly from the scene to the hospital with complaints of pain. The Critical Precrash Event for V2 was coded other motor vehicle in lane traveling in the same direction with higher speed. The Critical Reason was not coded to this vehicle. The congested highway was the only associated factor that could be coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

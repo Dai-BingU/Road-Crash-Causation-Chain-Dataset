@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekend afternoon on a high-occupancy, high-volume interstate highway. The northbound direction of traffic consisted of four lanes flanked by paved shoulders and divided from southbound traffic by a concrete barrier wall. The bituminous highway was dry, straight, and level with a posted speed limit of 105kmph (65 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2002 Ford Taurus was northbound in lane one traveling near the speed limit as it approached V2, a 1999 Dodge Intrepid that was disabled and parked on the right shoulder. V1's right side struck the left rear of V2 as it passed causing damage to both vehicles. After contact V1 came final rest facing northbound on the shoulder. Both vehicles were towed due to damage. The driver of V1, an 80-year-old male, was on his way home with his son. He claimed the disabled vehicle was sticking into the lane one but he thought he could maneuver around it. Neither he nor his son were injured in the crash. He was cited for failure to drive within a single lane. The driver was unable to be interviewed and his son could only provide limited information. The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road on the right side. The Critical Reason was a decision error; a misjudgment of gap or others speed, as the driver of the Ford thought he could maneuver around the disabled vehicle. Based on the lack of a driver interview no associated factors could be assigned to the driver of V1.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed

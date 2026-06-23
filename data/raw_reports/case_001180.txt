@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at a 4-lane 2-way intersection. The crash happened on a weekday around mid-day. The slope was +4/122. The roadway was dry asphalt. The posted speed was 56kmph (35mph). V2 was stopped in lane 2 waiting for oncoming traffic to clear so the driver could make a left turn in the intersection. As V1 approached the intersection the driver was looking for a store address to drop off a product delivery. V1 was about 1 ½ vehicle lengths behind V2 the driver of V1 thought V2 had preceded to make its turn. When the driver looked back he was on the back of V2 making contact to the rear of the vehicle. V2 slid into the intersection to final rest. V1 skidded about 10ft. to final rest. A family member took the driver of V2 to the local Trauma Unit after the scene was cleared. V1 was driven by a 51 year-old male who stated he was out helping his brother make product deliveries to local stores in the area. He also stated he did not know the area all that well. He stated he was driving on a suspended license for a previous crash. He also stated his health was not that good. He stated he was in the hospital recently for kidney failure, and takes medication for a heart condition, and medication for a nerve condition. The Critical Precrash Event for this vehicle was coded: Other motor vehicle in lane other vehicle stopped. The Critical Reason for the critical event was coded recognition error: external distraction. The associated facts were the medications the driver was taking at the time of the crash. Also this driver has a suspended drivers license. V2 was driven by a 24 year-old female who stated she was on her way to the day-care to drop off her son 2 year-old that was properly seated in the back right seat of the vehicle. The Critical Precrash Event for V2 was coded: other motor vehicle in lane traveling in same direction with higher speed. The Critical Reason was not coded for this vehicle was not coded. This researcher was traveling East on the said roadway about 200 yard back and saw V1 skidding at an angle. Then saw a cloud of dust as I pulled up on the intersection I realized that what I viewed was a crash. I called 911 and then went to see that all persons were ok. The driver of V1 at that time had stated that he did not have a driver's license that it had been taken away for a crash that he was responsible for in earlier weeks. He also stated that he had a health problem (mental) but was ok to drive. As I checked on the driver of V2 she stated she was ok but was concerned about her child in the back seat. After the driver got out to check her child and had a chance to move around then she noted her neck and arms were tingly. At that time I asked her to sit in her vehicle till the police arrived. When the police arrived the officer Stated that the driver of V1 was not to be driving by court order for previous crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

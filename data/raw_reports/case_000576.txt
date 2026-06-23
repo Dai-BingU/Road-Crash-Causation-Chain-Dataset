@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred early evening hours at the intersection of a one-way, three lane roadway and a two-way, eight lane, undivided roadway. Both roads were dry, polished concrete. Two vehicles involved in the crash one passenger car and a pick-up truck. the east/west roadway has a -2.5% grade. North/south roadway is level. The posted speed limit was 48 kmph (30 mph) for both vehicles. There were no adverse weather conditions. It was dark but lighted, vehicle. V 1 a 2005 Dodge Durango driven by a 28 year-old male was eastbound in the second travel lane. V 2 a 1996 Nissan Maxima driven by a 47 year-old male was southbound in the second travel lane. V 1 entered the intersection without the right of way and was struck on the left side by the front of V 2. V 1 rotated clockwise and was struck on the left side by the right side of V 2. V 1 came to rest facing east in the eastbound lanes east of the intersection. V 2 rotated counterclockwise and was struck on the right side by the left side of V 1. V 2 came to rest facing north in the southbound lanes south of the intersection. V 2 was towed from the scene, no reported injuries. The pre-event movement for V 1 going straight, category this vehicle traveling crossing over passing through intersection. The critical reason driver related factor "internal distraction" (talking on cell phone). The pre-event movement for V 2 going straight, category other vehicle encroachment from crossing street across path. Critical reason not coded to this vehicle..
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Decision, Distraction, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

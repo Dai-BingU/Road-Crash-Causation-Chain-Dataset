@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a rural two-lane roadway. Traveling westbound, the roadway curved sharply to the right. The roadway was bituminous and had a posted speed limit of 56 kmph (35mph). It was late afternoon on a weekday, it was raining heavily, and the roadway was wet. V1 was a 2004 Ford Mustang coupe driven by a 22-year-old male. There was a 22-year old male passenger in the vehicle. V2 was a 2003 Jeep Liberty sport utility vehicle driven by a 29-year-old female. V1 was traveling westbound and entered the curve, lost traction, and crossed the centerline of the roadway. V1 began to reenter its original travel lane when it sideswiped V2, which had just begun to negotiate the curve eastbound. After impact, V2 crossed the right side lane line, sideswiped a guardrail, and came to final rest on the shoulder. The Critical Pre-crash Event for V1 was "this vehicle control loss due to traveling too fast for conditions." The Critical Reason for the Critical Pre-crash Event was "driver related factor, too fast for conditions (wet roadway and sharp curve)." Associated factors coded to V1 include the wet roadway and the weather (heavy rain). No other associated factors could be coded to V1 because its driver could not be reached for an interview. The Critical Pre-crash Event for V2 was "other vehicle encroachment from opposite direction - over left lane line." The Critical Reason was not coded to this vehicle. Associated factors coded to V2 include the wet roadway and the weather (heavy rain). No other associated factors could be coded to V2 because its driver could not be reached for an interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

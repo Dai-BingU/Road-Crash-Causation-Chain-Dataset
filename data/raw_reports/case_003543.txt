@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a rural east/west residential road with no shoulders. Sixty-three meters west of the crash site the road begins to curve to the south (radius 281m) and eastbound travelers have a negative grade ranging between 7-11%. Just off the south edge of the road there was a steep landscaped embankment leading to a residence that ranged between -36% and -82%. The posted speed limit was 48kmph (30mph) and conditions were dark and dry on a weekday night. Vehicle #1 was a 1988 Lincoln Town Car traveling east. The vehicle edged off the right (south) side of the road and went down the steep landscaped embankment. The vehicle traveled off the road 39m. It rotated slightly counterclockwise and sideswiped the fence. Then it hit a stone pillar that served as an entrance to a private drive with its front. The vehicle was towed due to damage. Vehicle #1 was operated by a 62-year-old male that was belted and not injured in the crash which occurred near his home. He stated that as he exited the curve a vehicle was in his lane forcing him to swerve right to avoid a collision and edge off the right side of the road. However, the driver's account was not deemed credible by the researcher. Researcher believes the driver lost control while negotiating the slight curve and overcompensated in an attempt to regain control, departing the right side of the road. The Critical Precrash Event was this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was a performance error, overcompensation. Associated factors included a decision error, traveling too fast reasons unknown. Other physical factor was also coded, the driver had a fractured left wrist, which was in a cast and may have hampered his ability to steer the vehicle. The driver was also taking a medication for blood pressure, Clonidine, which has some common side effects that could have affected driving performance.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Driver Physical, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

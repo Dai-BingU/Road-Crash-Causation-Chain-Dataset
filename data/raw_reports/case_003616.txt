@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary Case #2005-45-142 The crash occurred on an east/west two-lane urban arterial roadway with shoulders. The road curved slightly to the right (north) as it traveled west with a radius of curvature of 804 meters. There were private drives intermittently on both sides of the road. The posted speed limit was 72kph (45mph). Conditions were daylight and dry on a weekday morning. Vehicle #1 was a 2004 Chevrolet Impala traveling westbound. Traffic ahead of Vehicle #1 slowed due to turning vehicles. The Impala (V1) was unable to slow in time and steered right to avoid contacting the vehicles ahead. Vehicle #1 crossed the shoulder and departed the right side of the road. It struck a 20cm high concrete driveway curb with its right front tire before crossing the driveway and striking the curb on the other side with its front tires and undercarriage. The Impala (V1) came to rest facing west in a grassy area just west of the driveway 4 meters off the right (north) edge of the pavement. Police charged the driver with following too closely. The vehicle was towed due to damage. Vehicle #1 was driven by a 30-year old female that was belted with deployed frontal airbags. She wasn't injured in the collision. She said that she was looking down at her cell phone to check the time and when she looked back up traffic had stopped. EDR data extracted from the vehicle indicated that Vehicle #1 was traveling 90kph (56mph) five seconds prior to algorithm enable. Brakes were applied between -4 and -3 seconds before AE. The vehicle speed was reduced to 10kph (6mph) one second prior to AE. The Critical Precrash Event for Vehicle #1 was this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was a recognition error, internal distraction. Associated factors included a non-driving activity, dialing/hanging up phone. Failed to look far enough ahead and too fast for conditions, reason unknown were coded. The driver also assumed that the other vehicles would continue to proceed. She was wearing contacts to correct a nearsighted condition and was taking medications that did not contribute to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Distraction, Driver Inexperience, Drugs, Speed/Distance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

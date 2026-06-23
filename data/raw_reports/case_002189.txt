@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a Friday afternoon on a neighborhood road in a newly built subdivision. The 2-lane road runs east and west and has a severe curve at the location of the crash. The conditions were daylight, clear and dry. Vehicle 1, a 1995 Toyota Tacoma with two occupants, was traveling east entering a curve left. Vehicle 2, a 1988 Chevrolet Astro Van with one occupant, was traveling west entering the same curve but to the right. As V2 drove around the curve, it steered into oncoming traffic to avoid a couple vans that were parked in the road. The front of V2 struck the left side of V1 as they both departed the west edge of the roadway. V1 was towed from the scene and V2 was driven away. The Toyota (V1) was driven by a 39-year-old male that was driving through the neighborhood to plant trees at a job site. He said that as he drove around the curve, the minivan (V2) came 'speeding' around the corner, which forced him off the right side of the road. He was stopped when the two vehicles collided. He and his wife were transported to hospital for minor injuries. The Critical Precrash Event for V1 was coded: other vehicle encroached from opposite direction - over left lane line and the Critical Reason was not coded for this vehicle. The Astro Van (V2) was driven by a 39-year-old male that works as a house-framing contractor. As he was leaving the job site, he was driving around a curved part of a neighborhood street. He said there were three large white vans parked in the right side of the road, which caused him to drive on the left side of the roadway. He reports that as he entered the curve, a vehicle traveling in the opposite direction at a high rate of speed crashed into him. He tried to avoid the crash by swerving to the left and braking, but the other vehicle swerved to the same location and they collided on the roadside. He claims the vans in street blocked his view of the roadway but that the other vehicle was driving too fast as well. The Critical Precrash Event for V2 was coded this vehicle traveling over the lane line on left side of travel lane and the Critical Reason was coded view obstructed by other vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway present problem 
+Vehicle 2:  Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Environment Related Factor- View obstructed by other vehicles

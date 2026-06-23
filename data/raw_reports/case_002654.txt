@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at an urban 4-way signalized intersection with pedestrian crosswalks in all directions. Curbs and sidewalks were present for all roadways. The main road was east/west. There were four westbound lanes and three eastbound lanes, divided by a raised curb median. The intersecting north/south roadway was undivided with a total of three lanes, including a left turn lane in each direction. Westbound traffic had an uphill 2 percent slope and was straight and bituminous. Northbound traffic had an uphill 7 percent slope, and was bituminous and curved to the right. It was evening hours, the roadway was dry and the posted speed limit was 80 kmph (50 mph). Vehicle one, a 2006 Jeep Liberty compact utility vehicle with one occupant, was traveling west in lane two. Vehicle two, a 1993 Ford Taurus four-door sedan, was traveling north, turning left onto the westbound road. V1 and V2 entered the intersection at the same time and collided on an angle. The front of V1 contacted the right passenger side of V2 on an angle. Both vehicles rotated, and the left side of V1 then side-slapped the right side of V2. V1 traveled 10 meters (32 feet) and came to final rest against the westbound north curb. V2 traveled 19 meters (62 feet) and came to final rest with its front tires on the westbound north curb, facing northwest. V1, the Jeep Liberty, was driven by a 32-year-old female who reported no injuries. She reported driving west in either lane 2 or 3 (she couldn't remember) at 64 kmph (40 mph) with the intention of proceeding straight through the intersection. She remembers seeing the red light and then the right side of V2. Even though she knew a collision with V2 was inevitable, she still braked and steered right, but was unsuccessful in avoiding a crash. The Critical Pre-crash Event for V1 was other motor vehicle encroachment from cross street, turning into the same direction. The Critical Reason for the Critical Event was not coded to this driver. One associated factor coded to the driver of V1 was inattention. She did not see the red light until she was under it and did not see V2 until it was in front of her. She claimed she was looking straight ahead the whole time, and denied any internal or external distractions. Another associated factor for this driver was chronic fatigue syndrome. She was taking several medications including antidepressants, birth control, anti-inflammatory medications, and a narcotic headache medication. All of the medications were for the treatment of her condition and carry side effects such as dizziness, fatigue, and light-headedness. Other associated factors coded to the driver of V1 were fatigue and an illegal maneuver, because she ran a red light. V2, the Ford Tempo, was driven by a 20-year-old male who was unable to be located for an interview. There were two occupants in the car with him. He was stopped at the northbound light waiting to turn left, and when the light changed to green he proceeded into the intersection and was struck by V1. The Critical Pre-crash Event for V2 was this vehicle traveling, turning left at the intersection. The Critical Reason for the Critical Event was inadequate surveillance (failed to look to the side), a driver error. As per the police report and medical records, the driver of V2 was under the influence of marijuana and alcohol at the time of the crash. No other driver information was available.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Physical, Drugs present problem 
+Vehicle 2:  Alcohol, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This four-vehicle chain reaction crash occurred on a two-way, two-lane roadway. There are parking lanes on each side of the roadway. The posted speed limit on the roadway was 56kph (35mph). There was some rain, just prior to the crash. The gradient for all the vehicles involved was level. Vehicle one (V1), a 2000 Ford Explorer, was traveling in the southbound lane, at an unknown speed, intending to continue straight on the roadway. Vehicle four (V4) was a legally parked vehicle, a 2005 Subaru Outback. Vehicle three (V3) was a 1992 Ford Ranger, which was stopped in the roadway in front of V1. Vehicle two (V2), a 2004 Mercury Mountaineer was stopped in front of V3 on the roadway. The right side of V1 made contact with the parked car, V4. V1 left front struck the right rear of V3. From the chain reaction, the front of V3 struck V2 in the rear. V1, was in the parking lane for final rest. The final rest for V3 and V2 is unknown, because they were drivable, and left the scene prior to my arrival. The driver of V1 did not suffer any injuries from the crash. He was on scene, and the researcher contacted him at a later date via phone. V1 was towed from the scene as a result of damage. The driver of V1 expressed a work related dispute that played a part in this crash. This dispute played a part in the crash, in two ways. First is that he was thinking about that issue while driving. Second is the stress, related to this work dispute. The Critical Precrash Event for this vehicle was coded as other motor vehicle stopped in lane. The Critical Reason for the Critical Precrash Event was coded as too fast for conditions. V4 was a parked vehicle as stated. Pictures were taken of the vehicle from the outside. This vehicle was marked as other vehicle, in this case. The driver of V3 did not suffer any injuries as a result of the crash. The researcher was able to contact the driver and attain pictures for this vehicle. V3, was stopped, had no chance of avoiding the collision. This driver did not have any fatigue or medical related problems that contributed to this crash. The Critical Precrash Event coded to this vehicle not involved in first harmful event. The reason for the Critical Precrash Event was not coded to this vehicle. The driver of V2 complained of pain, but refused EMS transport. The researcher was able to contact the driver and attain pictures for this vehicle. V2, which was also stopped, had no chance of avoiding the collision. This driver did not have any fatigue or medical related problems that contributed to this crash. The Critical Precrash Event coded to this vehicle was not involved in first harmful event. The reason for the Critical Precrash Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion, Drugs, Roadway, Weather/Environment present problem 
+Vehicle 2:  Drugs, Roadway, Weather/Environment present problem 
+Vehicle 3:  Distraction, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other- Not involved first harmful event
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

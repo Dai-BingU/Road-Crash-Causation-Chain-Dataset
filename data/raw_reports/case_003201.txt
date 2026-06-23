@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle daytime collision occurred during morning hours on a Thursday. The collision occurred on a curve, wet arterial roadway with traffic in both directions. The pre-crash roadway for both vehicles was an uphill grade of 8%, paved with bituminous. The roadway has a posted speed limit of 48 kmph (30 mph). It was raining at this time and the roadways were wet. Vehicle 1 (V 1), a 1995 Toyota Tercel coupe, driven by a 28 year-old female was traveling north/east on the roadway in lane 1. Vehicle 2 (V 2), 1992 Geo Prism sedan, driven by a 62 year-old male was traveling south/west in lane 1. V 1 was attempting to pass two cyclists on the right over a double yellow line, on an incline and around a curve. V 1 was coming in opposite direction again on an incline and around a curve. V 1 impacted V 2 head on causing them to rotate clockwise just a little bit. Both vehicles came to rest facing the direction they were originally heading. Both vehicles were towed from the scene, Driver of V 2 was transported to a local medical facility. Neither driver was willing to answer questions on scene and could not be contacted for an interview. Upon researching the scene, there is no sight line for either vehicle approaching the crest of the hill. The pre-event movement for V 1 was coded going straight. The critical pre-crash event was coded This vehicle traveling: Over lane line on left side of travel lane. The critical reason for the critical event assigned to this driver as Driver related factor: "Illegal maneuver". (crossing over double yellow line). The pre-event movement for V 2 was coded going straight. The critical pre-crash event was coded Other Motor Vehicle in Lane: Traveling in opposite direction. The critical reason for the critical event is not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Motor Vehicle in Lane- Traveling in opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

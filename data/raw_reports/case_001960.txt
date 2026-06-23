@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, two-lane, straight, bituminous road with a >2% downhill slope and an un-posted speed limit of 89 kmh (55 mph.) Conditions at the time of the weekday afternoon crash were daylight, cloudy and dry. V1, a 1991 Ford Escort LX driven by a 30 year-old female was eastbound in lane one when the driver fell asleep at the wheel. Per the witness traveling westbound on the road, as she approached v1, the Escort crossed the centerline and drove directly at the witness vehicle, going an estimated 80 kmh (50 mph), forcing the witness off the road on the north side. V1 left the roadway on the left to the paved shoulder and crossed a set of railroad tracks. The front of v1 struck a metal railroad signal post 15cm in diameter, breaking it at the base. V1 continued and the front struck a wooden utility pole 28cm in diameter breaking it one meter above the ground. V1 rotated counterclockwise and rolled to the right 2-quarter turns. V1 came to rest off the road on the left facing north on its roof. V1 was towed from the scene due to damage. The fully restrained driver was transported to a local trauma center due to injuries. The Critical Precrash Event coded to the driver of V1 was 'this vehicle traveling off the edge of the road on the left side.' The Critical Reason for the Critical Event coded was 'driver related factor-critical non-performance-driver asleep. The driver of V1 told the witness on the scene that she had been really tired driving to her friend's house so she was going to stop for gas and take a nap in the car behind the station. The driver stated to medical personnel that she had worked until 3:00 am the night before and used cocaine and marijuana.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

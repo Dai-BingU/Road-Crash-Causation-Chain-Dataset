@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This crash occurred in a five-way intersection that included an entrance to a hospital. The intersection was level and bituminous with a posted speed of 56 kmph (35 mph). It was mid-morning and conditions were clear and dry. V1 was a 2003 Pontiac Grand Am two-door coupe, which was traveling southbound in lane one of a four-lane undivided road. V1 proceeded through the intersection as V2 was crossing through from the left, traveling west. V1 struck V2, a 2002 Subaru Outback, in the right front and then rotated in a clockwise direction into V3, which was stopped at the red light facing east on the eastbound roadway at the intersection. V3 was a 2004 Ford Econoline E250 van. The right side of V1 sideswiped the front right corner of V3. V1 was driven by a 55-year-old female who reported no injuries. According to the driver, she believed that the light was green when she proceeded through the intersection. Upon inspection of the scene, it was found that the signals were operating properly; however, there is room for confusion at this intersection. Prior to the intersection, traveling southbound there is a downhill right curve. When the intersection becomes visible, there were two sets of traffic lights facing in this direction. They are timed differently and it is possible to think that the set that is farther away is the only set of lights. A police car was traveling on the same roadway behind V2 and witnessed the entire crash. The police officer reported that V2 had the green light and therefore, V1 ran a red light. The Critical Pre-crash Event for V1 was "this vehicle traveling, crossing over intersection." The Critical Reason for the Critical Pre-crash Event was "driver related factor - inadequate surveillance." The driver only saw the green light on the second set of traffic signals and not the ones for her part of the intersection. Associated factors coded to this driver included an illegal maneuver for failing to stop for a traffic control device and a roadway-related factor because of the odd placement of the two traffic signals on either side of the nearest eastbound roadway. V2 was driven by a 24-year-old male who reported no injuries. The Critical Pre-crash Event for V2 was "other vehicle encroachment, from crossing street across path." The Critical Reason was not coded to this vehicle. The driver of V2 could not be reached for an interview and so no associated factors could be coded to him. V3 was driven by a 37-year-old male who reported no injuries. No Critical Pre-crash Event and no Critical Reason was coded to this vehicle because it was not involved in the first harmful event. The driver of V3 could not be reached for an interview and so no associated factors could be coded to him.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

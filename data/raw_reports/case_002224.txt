@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the early evening of a weekday in the intersection of a 4-lane undivided roadway and the entrance to a shopping plaza. The bituminous, dry, straight, north/south roadway featured two level lanes in each direction and a speed limit of 56kmph (35 mph). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1995 Nissan Altima, was northbound traveling in lane two of the roadway approaching the shopping plaza entrance where the driver intended to turn left. V2, a 2003 Honda Odyssey Minivan was southbound in lane one approaching the same entrance, which the driver intended to pass through. As V1 began its turn into the shopping plaza it was struck in the front right corner by the front left corner of V2. Both vehicles came to final rest facing south in the southbound lanes of the roadway. V1 was driven by a 17 year-old male with a 48 year-old passenger riding in the front passenger seat; neither of which were injured. After numerous attempts neither the driver nor passenger could be located for an interview. V1 was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason was coded as an unknown type of driver error. The only associated factor that could be coded for V1 was an experience factor as the driver was only 17 and could not have been licensed for a long period of time. All other factors were coded as unknown, as the driver could not be interviewed. V2 was driven by a belted 57 year-old female who was on her way home after running an errand. She stated that driver of V1 turned without yielding as if he was trying to beat oncoming traffic. V2 was towed due to damage and the passenger in the right front seat was taken to a treatment facility for minor injuries. The Critical Precrash Event for V2 was coded other vehicle encroachment, from opposite direction - over the left lane line. The Critical Reason was not coded to this vehicle. The only associated factor coded to V2 was an experience factor as the driver of V2 rarely drove this road.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

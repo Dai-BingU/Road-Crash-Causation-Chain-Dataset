@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a four-legged intersection. The intersection was signal-controlled with pedestrian lights and crosswalks on three sides. The westbound approach was 3% uphill with a 56 kmph (35 mph) posted limit, the northbound approach was 1% downhill with the same posted limit, and the southbound approach was on level ground with a 40 kmph (25 mph) posted limit. Conditions were daylight and dry with cloudy skies. The setting was morning hours on a weekday. Vehicle one was a 1999 Mazda Millenia sedan traveling westbound in lane two. Vehicle two was a 1997 GMC Yukon sport utility traveling northbound in lane two preparing to turn left. Vehicle three was a 1997 Ford Explorer sport utility stopped facing south in lane one. V1 proceeded straight through the intersection as V2 turned left. The left plane of V1 was struck by the right plane of V2. The two vehicles then side-slapped in the intersection with the same planes impacting again. V1 was pushed north into the front plane of V3, which it struck twice with its right plane. V1 and V3 came to rest at impact. V2 continued into the northwest roadside before coming to rest. The Mazda Millenia (V1) was driven by an 18-year old male who was uninjured. He stated that he was heading to school with a couple of classmates and approaching an intersection with a flashing yellow signal. He mentioned a pickup truck in the left turn lane blocking the view of the intersecting street to the left. He proceeded through the intersection and was struck by a sport utility turning in his direction. As he only saw the other vehicle at impact, there was no chance to react. He estimated his travel and impact speeds to be approximately 72 kmph (45 mph). The Mazda sedan was towed due to damage. The Critical Precrash Event for V1 was other vehicle encroachment from crossing street turning into same direction. No Critical Reason was coded to this driver. This driver had only had his vehicle for a week, though he claimed to be comfortable with it. One tire was slightly under-inflated and one tire was low on tread depth. The GMC Yukon (V2) was driven by a 47-year old male who was uninjured. He stated that he was heading to work when he came to an intersection with a flashing red signal. He stopped 5-10 seconds until clear, and then proceeded. He noted that there was a vehicle in the turn lane blocking his view somewhat. He turned left and never saw the other vehicle coming. His estimated travel and impact speeds were 8 kmph (5 mph). The GMC sport utility was towed, but not due to police-reported damage. The Critical Precrash Event for V2 was this vehicle traveling turning left at an intersection. The Critical Reason was a driver-related factor of inadequate surveillance (looked but did not see). No other associated factors could be coded to this driver. The Ford Explorer (V3) was driven by a 23-year old male who was transported with possible injuries. He stated that he was headed to work and waiting at a stop light when a crash occurred in front of him and then continued into his front bumper. He didn't have a chance to react. The Ford sport utility was not towed due to damage. No Critical Precrash Event or Reason were coded to this driver because he was not involved in the first harmful event. No associated factors could be coded to this driver, in part because he only was willing to give a partial interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Vehicle present problem 
+Vehicle 2:  Decision, Roadway, Surveillance present problem 
+Vehicle 3:  Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

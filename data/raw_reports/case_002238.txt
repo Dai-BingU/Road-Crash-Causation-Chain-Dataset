@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 1997 Ford Escort 4dr, was eastbound in lane 1 of a 2 lane, 2 way, straight, level, bituminous roadway approaching a four way stop intersection. V2, a 1992 International medium/heavy stake truck >10,000lbs GVWR, was eastbound in lane 1 of the same roadway already stopped at the intersection. At the time of the crash it was dawn, cloudy and the roadway was wet. V1, front, impacted v2, rear. The driver of v1 was injured and transported. V1 was towed due to damage. A complete driver interview and vehicle inspection was obtained for v1. The driver was familiar with both the vehicle and the roadway. The Pre-event movement of v1 was going straight, the Critical pre-crash event was Other Motor Vehicle in lane, stopped, and the Critical Reason for the Critical pre-crash event was a driver related factor, driver sleeping. A major factor on the part of the driver of v1 was that she got only 4 hours of sleep the night before the crash. She was asleep when she rear ended v2 and took no avoidance actions. A complete driver interview and vehicle inspection was obtained for v2. V2 was stopped behind another vehicle at the stop sign when it was struck. The driver then looked in his rearview mirror and pulled forward as v1 was under the rear of his truck. He then walked back and assisted the driver of v1. The Pre-event movement of v1 was stopped in traffic lane, the Critical pre-crash event was Other Motor Vehicle in lane traveling in same direction with higher speed and the Critical Reason for the critical pre-crash event was not coded to this vehicle. The driver was properly licensed for the vehicle and was unhurt.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Drugs present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

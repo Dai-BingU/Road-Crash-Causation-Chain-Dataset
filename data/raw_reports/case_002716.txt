@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary The crash occurred on an urban roadway that was 150 feet back from a four-way intersection that was controlled by traffic lights. The east/west roadway had seven lanes that were divided by a cement curbed median. There were four lanes heading west with lane four being a left turn lane and three lanes heading east. The crash occurred in the westbound lanes in lane three. The traffic flow was normal and the skies were clear on a weekday afternoon. Vehicle #1 was a 1995 Mitsubishi Gallant which had just come off the interstate and switched across three lanes of traffic when she noticed the traffic had stopped and she tried to estimate the time she would need to stop in time but, she misestimated and made contact with Vehicle #2, a 1993 Ford Mustang was stopped in lane three when he was impacted by V1. When V2 was hit from behind the vehicle was then pushed into V3 a 2006 Honda Accord that was also stopped for the backed up traffic light. V1, a 1995 Mitsubishi Gallant was driven by a 28-year-old female that stated she was coming from the highway when she got off and cut across three lanes of traffic. She saw that the traffic was backed up and she tried to estimate enough time to stop but V2 cut over into her lane at the last second and she hit the back of V2. The Critical Pre-crash Event for V1 was other motor vehicle in lane stopped. The Critical Reason was misjudgment of gap of other's speed. She complained of hand and elbow pain but refused EMS. Her vehicle was towed due to damage. Some associative factors related to the driver were the fact that she "rarely" traveled this particular roadway so she was unfamiliar. V2, a 1993 Ford Mustang was driven by a 21-year-old male that stated he had come to a complete stop in lane three and was stopped at least 1 second then he was hit from behind. When he was hit the impact pushed him into V3 in front of him. The Critical Pre-crash Event for V2 was other motor vehicle in lane traveling with a higher speed. The Critical Reason was not coded to this driver, as he was not thought to have contributed to the crash. There were no associative factors related to this driver. He was not injured and his vehicle was not towed due to damages. V3, a 2006 Honda Accord that was driven by a 30-year-old female stated she was stopped at the red light in lane three. She was on her way to pick up her children at day care when she was hit from behind. The Critical Pre-crash Event and reason for V3 was not coded, as she was not involved in the first harmful event. There were no associative factors related to the driver. She was not injured and her vehicle was not towed due to damages.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

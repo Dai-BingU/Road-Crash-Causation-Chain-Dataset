@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred just past noon during daylight hours in the four northbound lanes of a divided eight-lane interstate highway. Both vehicles were traveling northbound, on a straight, level dry, concrete roadway, which has tire ruts in lanes one and two. Traffic was flowing, without congestion. The weather was clear, dry, and it was sunny. The posted speed limit is 97 kmph ( 60 mph). Vehicle one (V1) was a 1994 Chevrolet S-10 Blazer driven by a 25 year-old male with one passenger. V1 was traveling northbound in lane one, pulling a utility trailer loaded with approximately 680 kilograms (1,500 lbs) of cargo (personal belongings). The driver stated he was traveling between 65-80 kmph (41-50) mph the trailer began to bounce around on the ruts in the lane one. The driver considered pulling over onto the right shoulder to find out why the trailer was bouncing. For unknown reasons, trailer swing caused V1 to depart the travel lanes to the right, then re-entered the travel lanes and V1 shot out across all lanes to the left. V1 was heading westbound out of control, and as the driver steered right, trying to correct, he then experienced a jackknife event. At the time V1 was approaching lane four, the trailer disconnected from V1. Vehicle two (V2) was a 1991 Chevrolet pick-up driven by a 57 year-old male. V2 was impacted on the right side from an unknown part of V1. V1 then rolled two quarter turns to the left coming to rest in lane three facing northbound on the roof. The trailer came to rest up against the guardrail facing northbound. V1 and its trailer were both towed due to damage. When V1 one came across all four lanes out of control, the driver of V2 saw this and applied the brakes with lockup. V1 impacted the right side of V2. V2 was pushed to the left and up onto the guardrail. V2 slid down the guardrail breaking 3-4 posts and coming to rest facing eastbound straddling the guardrail. The rear tires of V2 were both on the west side of the guardrail. V2 was towed due to damage. The critical pre-crash event for V1 was coded: this vehicle control loss due to, jacknife event (e.g. trailer swing). The critical reason was attributed to V1 as a driver related performance factor: poor directional control (e.g., failing to control vehicle with skill ordinarily expected). The underinflated tires on V1 were considered a contributing factor. V1 had a 6-inch lift which was too high, and oversized, under-inflated tires. This was a bad combination to be traveling at highway speeds. The driver was also inexperienced at pulling a trailer, The critical pre-crash event to V2 was coded: other vehicle encroachment; from adjacent lane (same direction) - over right lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Speed/Distance, Vehicle present problem 
+Vehicle 2:  Distraction, Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Jacknife Event
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

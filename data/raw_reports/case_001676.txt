@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekday in the northbound lanes of divided highway. The bituminous highway consisted of three lanes with the right lane designated as an “exit only” lane. The fully controlled roadway was straight and level. The roadway was wet at the time of the crash as it was raining. Traffic exiting the expressway was backed-up because of heavy traffic flow thought the traffic control devise that controlled traffic after the exit. V1, a 1998 Dodge Caravan, was stopped in the exit only lane, and was the rear vehicle in a long line of vehicles waiting to exit the expressway. V2, a 1993 Lincoln Town Car, was also in the exit only lane also intending to exit the expressway. V2 failed to stop for the line of cars in front of it and struck the rear of V1 with its front. Both vehicles came to final rest near the point of impact on the expressway. V1 was driven by a 79 year-old female who stated that she had been stopped in the travel lane for more than two second when she noticed V2 approaching at high speed from behind her. She stated that she watched V2 approach and knew that she was going to be hit. The driver was uninjured and V1 was driven from the scene. The Critical Precrash Event for V1 was coded other vehicle in lane, traveling in the same direction with higher speed. The Critical Reason for the Critical Precrash Event was not coded to V1. The only associated factors for V1 were the rain and wet roads but V1 was not thought to have contributed to the crash. V2 was driven by an 18 year-old male who stated that he was returning home after a week of staying with his grandmother. He was nearing the end of a three-hour drive and stated that he was traveling north in the right lane when a vehicle in front of him and behind V1 stopped abruptly and veered off to the right side of the lane, he then slammed on his brakes and steered to the left to avoid V1. The driver was transported with non-incapacitating injuries and V2 was towed due to damage. The Critical Precrash Event for V1 was coded other vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Precrash Event was coded as a recognition error of inadequate surveillance as the driver failed to look far enough ahead. Associated factors that might have lead to this crash were the wet road conditions due to the rain, the driver's inexperience, and the fact that he was on the road for an extended amount of time before the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Weather/Environment present problem 
+Vehicle 2:  Driver Fatigue, Driver Performance, Roadway, Speed/Distance, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

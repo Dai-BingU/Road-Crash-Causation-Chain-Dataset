@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, two lane, straight, rural road with an unposted speed limit of 89kmh (55mph). Conditions at the time of the early morning weekday and dawn crash were clear. The bituminous road was predominately ice covered. Interviews were obtained from both drivers and both vehicles were inspected. V1, a 2006 Chevrolet Cobalt, driven by a 55 year-old female, was eastbound on the road traveling at about 45 mph approaching a railroad crossing. The driver stated during the interview that she travels this route daily and always brakes and slows to cross the tracks. As v1 braked and contacted the first set of tracks, the vehicle began to skid and rotate counterclockwise and the driver lost control of the Cobalt. V1 continued across the second set of tracks and over the centerline into the westbound lane. V2, a 2001 Chevrolet Express 3500 cargo work van, driven by a 50 year-old male on his way to work, was westbound on the road, approaching the tracks. While still 30 meters away, the driver, traveling at 35 mph on the icy road, saw v1 lose control and the driver of v2 began to brake. V2 had slowed almost to a stop in lane 1 just prior to the tracks, when v1 crossed the centerline and the front of v1 struck the front of v2. V1 came to rest on the south shoulder facing north. V2 came to rest on the north shoulder facing northwest. Both vehicles were towed from the scene due to damage. The unrestrained driver of v2 denied injuries. The restrained driver of v1 was transported from the scene to a local trauma center. The Critical Precrash Event coded to v1 was 'this vehicle control loss due to traveling too fast for conditions.' The Critical Reason coded to the driver of v1 was 'Decision Error-too fast for icy conditions.' The driver stated that she had driven on the road to drop her son at school and was on her way back down the road, and did not realize the road was icy and that she needed to go slower. The Critical Precrash Event coded to v2 was 'other vehicle encroachment from opposite direction-over left lane line.' The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Speed/Distance present problem 
+Vehicle 2:  Driver Physical, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

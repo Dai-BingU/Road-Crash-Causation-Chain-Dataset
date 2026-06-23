@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-lane, two-way road that ran east/west in a residential area. The road was straight with a slight negative (if eastbound) grade measuring just over 2%. The road had a painted double yellow stripe with no traffic controls. Other residential side roads intersected the road. Conditions at the time of the crash were daylight and dry in the afternoon on a weekend. The speed limit was 48kph/30mph. V1 was a 2001 Toyota Camry traveling east on the road when its front struck the back of V2, a 1999 Oldsmobile Intrigue that was stopped in eastbound lane 1 waiting to turn left onto a side road. V1 came to rest a few meters east of impact with the same heading angle it began with. V2 was pushed several meters east and then was driven onto a side road for safety. V1 was towed from the scene, and V2 was driven away. V1 was driven by a sixty-four-year-old-belted-female who was uninjured in the crash. Her airbags did not deploy. She was on her way home from a trip to the store. She said she wasn't sure if V2 had its turn signal on. The critical precrash event for V1 was other vehicle in lane traveling the same direction, other vehicle stopped. The critical reason was coded as failed to look far enough ahead. The driver did not say she didn't see V2 but said she didn't see it in time to stop. D1 was also taking medication for a back-related issue. V2 was driven by a sixteen-year-old-belted-male who was uninjured in the crash. He was on his way home from work at the time of the crash. He stated that as he was getting ready to make his turn he saw V1 coming at him pretty quick then got hit. The critical precrash event for V2 was other vehicle in lane traveling the same direction with a higher speed. The critical reason was not coded to this vehicle. The only factor attributed to this vehicle was inexperienced driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

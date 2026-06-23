@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary V1, a 1999 Buick Century 4dr, was southbound from a side street turning eastbound onto a 5 lane, bituminous, urban, 2-way roadway. There was a stop sign for V1 but no traffic controls for east-west traffic. V2, a 1998 Dodge pickup truck, was westbound in lane 2 of the 5-lane roadway. At the time of the crash, it was daylight, cloudy and the roads were dry. V2, front, contacted V1, left, as V1 turned east from the side street. The single occupant of V1 was injured, transported and hospitalized. V1 was towed. A complete surrogate interview, witness interview and vehicle inspection was obtained for V1. The driver is still in the hospital with severe injuries. The witness and the driver of V2 both state that V1 failed to stop at the stop sign before proceeding to turn left and only looked to the right while pulling out. Traffic was light and the driver was familiar with the intersection and his vehicle. He did have a history of medical conditions that may have affected his driving performance but not his ability to observe traffic and traffic laws. The Critical Pre-crash Event was this vehicle turning left at intersection and the Critical Reason for Critical Pre-crash Event was inadequate surveillance (e.g., failed to look, looked but did not see). Some contributing factors on the part of the driver of V1 were his failure to look to the left before entering the intersection and his failure to stop for a stop sign before proceeding. A complete driver, witness interview and vehicle inspection was obtained for V2. The driver was found to be observing the speed limit, properly licensed for his vehicle and familiar with the roadway. The witness was following his vehicle and verified his story that V1 rolled through the stop sign and pulled directly in front of him without stopping for the stop sign. The Critical Pre-crash Event was other vehicle encroachment from crossing street, turning into opposite direction and the Critical Reason for Critical Pre-crash Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

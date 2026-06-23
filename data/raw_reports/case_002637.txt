@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the late morning of a weekday in the middle of a four-way intersection. The intersection consisted of a two-lane north/south cobblestone roadway featuring two sets of metal trolley tracks planted in cement running along the center of the roadway and a bituminous two-lane east/west roadway controlled by properly functioning traffic signals. The roadways for both directions were dry and level and each featured a posted speed limit of 40kmph (25 mph). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1996 Ford Ranger Pick up, was southbound on the cobblestone roadway approaching the intersection where it intended to go straight. V2, a 1993 Mazda MX3 was eastbound approaching the same intersection where it also intended to go straight. As V1 entered the intersection against the red light it struck the left of V2 with its front. After the impact, V1 rotated slightly clockwise and came to final rest still facing southward. V2 rotated slightly counter-clockwise and came to final rest still facing southeast. Vehicle two was towed due to disabling damage. The driver of V1, a 66-year old male, was driving to his next job site and admitted to looking at his log book as he approached the intersection. He figured the light changed as he was looking down. He applied his brakes but it was too late. He was not injured and drove his vehicle from the scene. The Critical Precrash Event for V1 was coded this vehicle traveling crossing over (passing through) intersection. The Critical Reason for V1 was coded as a driver related factor, an internal distraction. In addition to the internal distraction an illegal maneuver as well as the fact that the driver rarely drove this road were coded as associated factors. The driver of V2, a 42-year old female, stated she was eastbound approaching the intersection and saw that the light was green and continued to proceed. She was just about in the middle when she was struck by V1. She was listening to the radio and talking with her passenger at the time of the crash. She saw V1 approaching her, but could not avoid it. She travels on this roadway daily and is familiar with he roadway. The Critical Precrash Event for V2 was coded other motor vehicle encroachment, from crossing street, across path. The Critical Reason was not coded to this vehicle. The only associated factor was a possible inattention as the driver was listening to the radio and talking to her passenger, however she was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a fully controlled limited access highway with two lanes in each direction divided by a grassy median with a metal guardrail. The straight, level bituminous road has a posted speed limit of 113kmh (70 mph). Conditions at the time of the weekday afternoon crash were daylight, clear and dry, and traffic was moving at the posted limit. V1, a 2002 Ford Windstar minivan driven by a 37 year-old male on his way home from work, was northbound in lane one traveling 105-113 kmh (65-70 mph). The driver stated that he felt someone 'clip' his vehicle and he did not know what happened. A witness behind v2 stated that v1 suddenly left lane one on the left side. The left side of v1 struck the right side of v2 in lane two. The driver of v1 never saw v2 and took no avoidance actions. The driver of v1 steered back right and braked and came to rest on the right shoulder facing northeast. V1 was towed from the scene due to damage. The fully restrained driver did not seek medical treatment. V2, a 1996 Ford Windstar minivan driven by a 38 year-old male was northbound in lane two on his way from home to work. The driver of v2 stated that he was traveling 105-113 kmh (65-70 mph) next to and a little behind v1. He stated that v1 slowed a bit and suddenly came into his lane and the left side of v1 struck the right side of v2 in lane two. The driver of v2 braked and steered left. V2 left the roadway on the left, crossed the paved (with a rumble strip) shoulder and entered the grassy median. The left front and side of v2 contacted the metal guardrail, bounced off and came to rest in the grass facing north. V2 was towed from the scene due to damage. The fully restrained driver refused medical treatment. The Critical Precrash Event coded to the driver of v1 was 'this vehicle traveling over the lane line on left side of travel lane.' The Critical Reason for the Critical Event coded was 'inattention'. A contributing factor coded to this driver was 'required to work extended work shifts,' due to his work schedule of 70 hours per week, working every day of the week for 273 days consecutively. The driver owns his own cleaning business and his work and sleep schedule rotates during each week. The driver had slept 6 hours the evening prior to the crash and had been up and at work for 12 hours at the time of the crash. Although the driver stated that he felt rested and had worked that schedule for a long time, 'driver fatigued' was coded. His daily commute, sometimes twice per day, is 33 miles each way. The Critical Precrash Event coded to the driver of v2 was 'other vehicle encroachment from adjacent lane (same direction) over right lane line.' The Critical Reason was not coded to this driver. An associated factor coded to this driver was that he was 'late for work and in a hurry'. The crash occurred 13 minutes after his work start time and he was still 5 miles away. The driver stated that he was not in a hurry, but he was definitely late.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Stress/Emotion present problem 
+Vehicle 2:  Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the morning of a weekday in the middle of an urban intersection. The intersection consisted of a two-lane east/west roadway intersected at various points by crossing streets. All the roadways were bituminous, dry and level with posted speed limits of 40 kmph (25 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1991 Volkswagen Jetta sedan with one occupant, was northbound. V2, a 2004 Honda Element with three occupants, was eastbound negotiating a slight curve. V1 failed to stop at the stop sign and entered the intersection attempting to make a turn left across V2's path. The driver of V2 steered left and braked. The front of V1 struck the front right corner of V2. V1 came to final rest on the westbound roadside. After the initial impact V2 departed the roadway and struck a wooden fence before coming to final rest. Both vehicles were towed due to damage. The driver of V1, a 23-year-old male, sustained unknown injuries, and was transported from the scene to a hospital by EMS personnel. The driver of V1 was driving with a suspended license and without insurance. After numerous attempts no interview could be obtain with this driver. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason was coded as an unknown driver type error. The only known associated factor was an illegal maneuver as the driver failed to stop for a traffic control device. The driver of V2, a 33-year-old female, reported no injuries. She stated that she was driving her kids to school when a vehicle appeared in front of her, she slammed the brakes and steered left in an attempt to avoid the other vehicle. The Critical Precrash Event was other vehicle encroachment, from crossing street, turning in opposite direction. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors coded to this driver include work stress (she is an inner-city school teacher) as well as an internal distraction; she was conversing with a passenger (giving her child a spelling quiz).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Distraction, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Unknown Reason - Unknown reason for critical event
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

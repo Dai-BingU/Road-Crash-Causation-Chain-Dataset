@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This three vehicle daytime collision occurred just past noon an intersection comprised by a west/east roadway and a north/south roadway. The west/east roadway consists of five-lanes, including a left-turn pocket. The north/south roadway also consists of five-lanes, including a left-turn pocket. The intersection is controlled by a on-colors signal that was functioning properly at the time of the collision. Both roadways were dry asphalt free of congestion, poor weather conditions, sight restrictions, and/or road deficiencies at the time of the collision. Both roadways are designated as 56 kph (35 mph) zones. Vehicle one (V1), a 1991 Audi 100 sedan driven by a 37 year-old male with two passengers was traveling westbound in the number one lane. Vehicle two (V2) a 1996 Nissan Sentra sedan driven by a 23 year-old male was traveling northbound in the number two lane. Vehicle three (V3) a 2005 Chevrolet Van, was legally parked along the west edge of the north/south roadway and unoccupied. As V1 and V2 traveled through the intersection, both with the intention of going straight, the front of V1 impacted with the right side of V2. After this impact V2 was directed in a NNW direction and its L/F wheel scraped against the west curb and then its front impacted with the front of V3 where it came to final rest. After the first impact V1 came to rest in the intersection. V1 and V2 were towed due to major damage. V3 suffered moderate damage and was not towed. The pre-event movement for V1 coded accelerating in traffic lane, category other vehicle encroachment-from crossing street,across path. Critical reason not coded to this vehicle. The pre-event movement for V2 coded going straight, category this vehicle traveling crossing over passing through intersection. Critical reason for the critical event driver related factor "Illegal maneuver". (disregard of traffic control signal).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

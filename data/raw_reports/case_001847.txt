@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred in a rural area on a two-lane not physically divided roadway. The pre-crash northbound travel lane curves right and is level; then it straightens out and begins a slight uphill climb prior to the area of impact. The speed limit for the area is 55 mph (88 kph). The crash occurred during complete darkness with no adverse weather or road conditions present. Vehicle one, a 1999 Dodge Ram 2500 pickup, was traveling in the northbound lane when the driver encountered an animal in the roadway. The driver of vehicle one did not see the black bull on the black asphalt in the darkness in time to avoid the animal, but attempted to steer left. The vehicle traveled into the southbound lane where the front of the vehicle struck the bull. The bull was thrown forward and to the right and came to rest on the northbound roadside. Vehicle one continued forward and came to a controlled stop 90 meters north of the impact area on the right side of the northbound travel lane. Vehicle one was towed due to damage. The pre-event movement was coded "going straight". The critical pre-crash event was coded "animal in roadway". The critical reason for the critical event was assigned to V1 as a driver recognition factor: "other recognition error (specified as: Driver unable to recognize a black bull in his lane during night with no highway light present.)". The black bull blended in with the black asphalt and at the speed the driver was traveling, he was unable to avoid the bull once he realized it was in the roadway. It does appear that after the driver steered into the left lane to avoid the bull, the bull must have walked into the travel lane at nearly the same time.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Animal in roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other recognition error (specify) :

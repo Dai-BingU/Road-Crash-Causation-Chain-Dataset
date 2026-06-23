@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of weekday on the right roadside of a two-lane, two-way residential street. The north/south roadway consisted of one lane in each direction and a posted speed limit of 48kmph (30 mph). The bituminous roadway was dry, straight, and level. Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2000 Ford Explorer, was stopped at a stop sign on a side street intending to turn right (north) onto the two-lane roadway. As V1 turned it cut the corner short and sideswiped a utility pole. After striking the utility pole it continued northbound out of control and struck a large tree. V1 came to final rest against the tree. V1 was driven by a 49 year-old woman who was driving home from the grocery store. She claimed that a “vehicle with tinted windows swerved into her lane causing her to swerve off the roadway to the right into a tree. This story was very doubtful as the woman seemed inebriated and her speech was slurred. The police on scene made the woman stay in her vehicle because when she attempted to get out she almost fell twice. A witness saw the driver attempt to make a right turn and stated that he never saw the other vehicle that the driver of V1 described. He did state that he saw the driver attempt a right hand turn, hit a telephone pole, and then drive off the roadway to make contact with the tree. The physical evidence on scene support the witness's statement. Fire rescue responded to the scene but she refused treatment and V1 was towed due to damages The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road on the right side. The Critical Reason was coded as a driver related factor, poor directional control. The police did not give the woman a BAC test but it was quite evident that the alcohol played a major role in this crash. Her breath smelled of alcohol, her speech was slurred, she was unable to stand on her own, and she was nodding off during the interview. The alcohol was coded as an associated factor.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

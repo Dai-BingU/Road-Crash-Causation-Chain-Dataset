@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 2005 Ford Taurus was traveling eastbound on a two-lane, two-way, dry, asphalt roadway in daylight conditions. V2, a 2005 Dodge Durango was also traveling eastbound on the same roadway. The driver of V1 had taken the car without permission and was fleeing from the owner who was chasing him. V2 was stopped at a red light. V1 pulled up behind V2 and then attempted to pass it by departing the roadway on the right side. The front of V1 contacted the right side of V2. V1 then contacted its front to a telephone pole and its wheel to a sewer grate before coming to final rest just off the south side of the roadway. The driver of V1 was a 17-year old male. He was not available for an interview. He sustained minor injuries from the crash and was treated on scene, but refused further treatment. The Critical Precrash Event for the driver of V1 was other motor vehicle in lane, stopped. The Critical reason for the Critical Precrash Event was a decision error, aggressive driving behavior, because the driver was reported speeding prior to the crash and passed V2 on the right off the roadway. The driver of V2 was a 33-year old male who had reported that he had been stopped prior to the crash. He had no health related problems and had taken no medication prior to the crash. He was rested and traveling to a relative's house. He does not wear corrective lenses. He did not sustain any injuries from the crash and refused treatment. The Critical Precrash Event for the driver of V2 was other motor vehicle in lane, traveling in same direction with higher speed. The Critical reason for the Critical Precrash Event was not coded to this vehicle and was thought not to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Inexperience, Driver Performance, Driver Stress/Emotion, Speed/Distance present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

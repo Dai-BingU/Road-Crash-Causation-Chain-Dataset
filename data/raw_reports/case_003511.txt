@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the morning on a two-way, two-lane roadway, which was not physically divided. There were no adverse atmospheric conditions at the time of the incident and daylight was abundant. At the point where the collision occurred, there was a sharp right curve for vehicle one (V1) and a sharp left curve for vehicle two (V2). The posted speed limit for both vehicles was 56kph (35mph) and the gradient was determined to be level. Vehicle one, a 2000 Saturn SL, was traveling south on the roadway approaching the right curve. Vehicle two, a 2003 Ford Windstar, was traveling north on the same roadway approaching a left curve. The front of V1 contacted the font of V2 causing V1 to spin counter clockwise approximately 90 degrees. Vehicle two came to final rest slightly off of the roadway in the northbound lane. Both vehicles had to be towed from the scene due to damage. The driver of vehicle one, a 41 year-old female, suffered minor burns from the deployment of the airbags and was taken to the hospital for treatment. There were no other occupants in the vehicle at the time of the incident. A complete interview was obtained from this driver. According to her, the other vehicle crossed the centerline and struck her vehicle. She stated she was not on any medications other than daily vitamins on the day the accident took place. Fatigue was not thought to have played a role in the crash, even though she regularly wakes up very early in the morning for work. One additional factor for this driver was the fact that she was smoking a cigarette at the time of the crash. The Critical Precrash Event coded to this vehicle was: this vehicle traveling, over left lane line. The reason for the Critical Precrash Event was a decision error: traveling to fast for curve/turn. The driver of vehicle two, a 22 year-old female, did not suffer any injuries as a result of the impact. There were three additional occupants in the vehicle, none of which suffered any injuries. A complete interview was obtained from the driver however, she wasn't as willing to offer information. She claimed that the other car crossed into her lane and struck her vehicle. She tried to steer right but to no avail. She said she couldn't see the car because of the curve until it was too late. No medical or fatigue related issues are thought to have contributed to this crash. The Critical Precrash Event coded to this vehicle was: other vehicle encroachment, from opposite direction over left lane line. The reason for the Critical Precrash Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

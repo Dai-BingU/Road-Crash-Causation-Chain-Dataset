@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound third lane of an eight-lane primary arterial road. There were five westbound lanes and three eastbound that were divided by a raised curb median. The arterial road was intersected on the north by a residential secondary road and on the south by an industrial access road. These two roads were not involved in this crash. The arterial road was straight and level and the intersection was controlled by traffic lights with pedestrian signals. The posted speed limit was 72 kmph/45 mph. Traffic counts (2003) indicate that the arterial road carries 49,313 vehicles per day. Conditions were daylight and dry in the early afternoon on a weekday. Vehicle #1 was a 1996 Chevrolet Corsica traveling west in the third lane on the arterial road. As it approached the intersection, it rear ended Vehicle #2, a 2003 Nissan Pathfinder that was stopped at the red light. According to the police report, after striking V2, the driver of V1 backed up his vehicle and then pulled forward, striking V2 a second time. The driver of V1 backed up again and steered harder to the right, and he struck a third vehicle in the adjacent lane. Witnesses surrounded V1 in a nearby parking lot and held the driver there until police arrived. V1 and V2 were towed from the scene. Vehicle #1 was driven by an unrestrained fifty-four-year old male whose airbag did deploy. The driver was on his way home from a doctor visit where he had acquired some sleeping pills and had taken them before leaving the doctors parking lot, "chasing" them down with a 22oz. beer. He was transported to a local hospital for treatment. The Critical Pre-crash Event for V1 was other vehicle stopped in lane. The Critical Reason for the Critical Pre-crash Event was an internal distraction - the driver of V1 was looking down at the pill package when the vehicles collided. The driver was taking at least one other medicine for pain and was blind in his left eye. He had Hepatitis C, which made him very fatigued (fatigue was also coded as an associated factor) but he could never sleep for long periods of time. He also failed to look far enough ahead. Vehicle #2 was driven by a forty-year old female who was belted and uninjured in the crash. Her restrained right front occupant was transported due to possible injury. The Critical Pre-crash Event for V2 was other vehicle in lane traveling at higher speed. The Critical Reason was not coded to this vehicle. No associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Distraction, Driver Fatigue, Driver Physical, Driver Stress/Emotion, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

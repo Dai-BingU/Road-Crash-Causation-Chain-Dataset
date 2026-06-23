@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on at and intersection between two lane undivided roadways. The Precrash roadway of Vehicle #1 had a elevation of +5.7% and the Precrash roadway of Vehicle #2 had an elevation of + 18.8% and posted speed limits of 48KMPH (30MPH). The weather was clear and the roadway was dry. This crash occurred on a weekday evening. Vehicle #1 a 1998 Mercury Sable was traveling in a westerly direction on the two lane undivided roadway crossing an intersection and intending to go straight. Vehicle #2 a 1995 Nissan Altima was traveling northwest intending to cross the intersection and go in a northern direction. Vehicle # 2 impacted the front left of Vehicle #1 with its front left. Vehicle #1 came to rest facing southwest partially off the roadway with its front. Vehicle #2 came to rest on the roadway facing north after having gone through the intersection. The Mercury Sable was driven by belted 28 year old female who was transported to an area hospital, treated and released. She stated that the event happened so quickly she did not have time to react. She did, however, cover her face with her hands prior to impact. The Critical Precrash Event coded to Vehicle #1 was Other Vehicle Encroachment From Crossing street, Across Path. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. The driver of Vehicle #1 was not thought to have contributed to the crash. There is no evidence of any illegal drug use, however the driver stated she takes several types of antihistamines for allergies. The 1995 Nissan Altima (Vehicle #2) was driven by a belted 30 year old male who stated he was not injured. He stated that Vehicle #1 did not stop at the intersection and that he has stopped for 2 seconds before continuing through the intersection. This driver was ticketed by police for driving with a suspended registration. The Critical Precrash Event coded to this Vehicle was This Vehicle Traveling Crossing over (passing through) an intersection. The Critical Reason for the Critical Precrash Event was coded as a Driver Related Factor, Inadequate surveillance. This Critical Reason was coded due to the driver stating he had driven on this roadway many times and knew there were no stop signs. It should be noted at this time that there were no stops signs or traffic control signals on either road of this intersection. It should further be noted that a utility pole situated extremely close to the roadway, on Driver #2's right side, with a large bright green sign may have partially blocked this drivers sight line for approaching traffic. It should also be noted that several parked vehicles to the right of this driver might also have limited his sight line. The police did not consider illegal drugs to be involved and ordered no tests for either driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Drugs, Roadway, Speed/Distance present problem 
+Vehicle 2:  Distraction, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

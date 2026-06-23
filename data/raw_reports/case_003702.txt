@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a divided two-lane southbound interstate. The concrete roadway curved to the right with a 400m radius of curvature. There was a downhill grade of 3 percent and a super elevation of 5percent. The speed limit was 89 kmph (55 mph). The crash occurred on a weekday in the late afternoon during daylight hours. Vehicle 1 was a Mini Cooper of an unknown model year. Vehicle 2 was a 2003 Nissan Murano utility vehicle. Vehicle 1 was traveling south in the right lane and Vehicle 2 was traveling south in the left lane. As Vehicle 1 changed lanes to the left, the left of Vehicle 1 contacted the right of Vehicle 2. Both vehicles lost control and departed the right side of the travel lanes. Vehicle 1 came to rest on the right roadside facing west with its front end under a guardrail. Vehicle 2 came to rest on the right shoulder facing north. The police report could not be obtained. Without this, the necessary driver information could not be obtained. Nether driver would give an interview on scene. The Critical Pre-crash Event for Vehicle 1 was when it began traveling over the left side of the travel lane. The Critical Reason for the Critical Pre-crash Event was coded as inadequate surveillance. Due to the lack of an interview, no additional associated factors could be coded to this driver. The Critical Pre-crash Event for Vehicle 2 was when another vehicle encroached into its lane from adjacent lane (same direction) - over right lane line. The Critical Reason was not coded to this driver. No associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

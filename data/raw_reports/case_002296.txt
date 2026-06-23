@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary Case #2006-119 The crash occurred in the intersection of two roadways. The north/south roadway was a two-way, two-lane undivided street, controlled by a stop sign. The east/west roadway was a two-way, two-lane undivided street, without any traffic control devices. These were straight, level, asphalt roads, with posted speeds of 48 kmph (30 mph). Conditions were daylight on a weekday afternoon with dry roads and clear skies. Traffic flow was normal. V1, a 1997 Ford F250 with one occupant, was traveling northbound in lane one. V2, a 1996 Nissan Sentra with one occupant, was traveling westbound in lane one. Both vehicles were approaching the same intersection. V1 came to a complete stop at the stop sign, and then proceeded into the intersection. As the two vehicles crossed paths, the front of V2 made contact with the right side of V1. After impact the two vehicles traveled toward the northwest corner of the intersection, leaving the roadway. The left side of V2 swiped the right side of V1. The right side of V2 then swiped a stop sign. V2 came to final rest pinned between the stop sign and V1. Both vehicles were towed due to damage. V1, the Ford F250, was driven by a 25-year old male, who was not injured in the crash. He declined to be interviewed. The Critical Precrash Event for V1 was “this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Event was a driver-related recognition error, internal distraction. It was believed that just before the crash, the driver was looking down at something inside his vehicle, distracting him from the driving task. No additional associated factors could be determined for this driver due to lack of interview data. V2, the Nissan Sentra, was driven by a 36-year old female, who was transported to the hospital due to injury. She stated that she was on her way to a daycare center, where she was thinking about enrolling her son. As the driver came to the intersection, she saw the pickup truck stopped at the stop sign. She indicated that she observed the other driver looking down, reading a piece of paper or something. She assumed that he was looking for directions. The driver thought it would be safe to proceed, since she had the right-of-way. Three seconds into the driver's approach through the intersection, the driver of V1 accelerated, without looking in her direction. She remembered steering to the right and taking her foot off the gas pedal, before striking V1. After the crash, the driver's car was pinned between a stop sign and V1. The driver had to climb into the back seat, kicking the door several times before it opened. Immediately upon exiting the vehicle, the driver blacked out and fainted. The Critical Precrash Event for V2 was “other vehicle encroachment, from crossing street, across path”. The Critical Reason for the Critical Event was not coded to this vehicle. One associated factor for this driver was a false assumption. The driver assumed that V1 would yield the right-of-way.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+Vehicle 2:  Decision, Driver Physical, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

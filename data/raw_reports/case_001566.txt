@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred during dusk hours on a weekday. The crash occurred at the four-leg intersection of a north-south roadway and an east-west roadway. The traffic at this intersection is controlled by a tri-light signal without a protected left phase. Both roadways are designated 56 kmph (35 mph) zones. At the time of the crash, there were no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 2000 Volvo S40 four-door sedan, was traveling southbound in the third lane of a five-lane, two-way, undivided, dry, level, bituminous roadway, and was stopped in the middle of the intersection awaiting an opportunity to turn left into eastbound traffic. Vehicle two (V2), a 1998 Toyota Camry four-door sedan, was traveling northbound in the second lane of opposing traffic, approaching the same intersection with the intention of passing straight through. As V1 made its turn, the front of V1 impacted the left side of V2. V2 deflected right and departed the road over the northeast corner, where the front of V1 impacted a signal-light pole, bringing the vehicle to rest. V1 came to rest facing east in the intersection. The 19-year-old male driver of V1 reported that the tri-light signal entered the red phase, and he was aware of V2's approach, but he assumed that V2 would stop for the red light and allow him to clear the intersection. Local regulation gives V1 the right-of-way in this instance. The critical pre-crash event for V1 was: This vehicle traveling-turning left at intersection. The critical reason for the event was attributed to V1, and is coded as a driver related factor: false assumption of other's actions. The 23-year-old male driver of V2 was engaged in conversation with his mother, the passenger, and claimed to have a green light. He did not report being aware of V1 prior to entering the intersection. As he passed through the red light, he saw V1 make its turn. He tried to avoid by steering to the right, but was unsuccessful. The critical pre-crash event for V2 was: other vehicle encroachment; from opposite direction - over left lane line. The critical reason was not attributed to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of a weekday in the middle of a residential T-intersection. The intersection consisted of a two-lane undivided north/south undivided and an undivided four-lane east/west roadway. The east/west bituminous roadway, upon which both vehicles were traveling, was straight and level with a posted speed limit of 72kmph (45mph). The roadway was wet, as it had rained earlier in the evening, however there were no traffic flow problems at the time of the crash. Vehicle one (V1), a 1992 Ford Explorer, was eastbound on the roadway approaching the T-intersection where it intended to continue straight. Vehicle two (V2), a 1996 Buick Regal, was stopped at the intersection ahead of V1 preparing to make a left turn. V1 failed to stop behind V2 and the front of V1 struck the rear of V2. The impact pushed V2 forward and to the left, and it came to final rest facing east in the westbound lane. V1 continued traveling under its own power for a distance of approximately 580m (1903ft.), before losing control around a curve and traveling off of the roadway. The vehicle then returned to the roadway, crossed four lanes of travel, and came to final rest partially off of the roadway on the westbound side. Both vehicles were towed from the scene due to damage. The driver of V1, a 44 year-old male, suffered moderate injuries to his back and foot and was taken to the hospital for treatment. There were no other occupants in the vehicle when the crash occurred. Numerous attempts to contact the driver could not produce an interview with this driver. The driver related to the officer that he thinks he blacked out, possibly due to a stroke, however the medical reports do not support these claims. The medical records did support the officer's belief that the driver had been drinking as his BAC was found to be .24 The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason was coded as an unknown driver error. The only associated factors that could be coded were the presence of alcohol and the wet roads. The driver of V2, a 42 year-old female, did not suffer any injuries as a result of the crash. The passenger located in the front right seat was also uninjured. After numerous attempts an interview could not be obtained from either the driver or passenger. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. The only known associated factor for V2 was the wet roads.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Physical, Drugs, Roadway present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of a weekday in the middle of a multidirectional urban intersection. The main artery was a north/south roadway consisting of two lanes in each direction. The bituminous roadway was dry, straight, and level with a posted speed limit of 48 kmph (30 mph). The traffic flow was normal and there were no adverse atmospheric conditions. V1, a 1999 Lexus ES300 four door with two occupants, was northbound in lane one approaching the intersection where intended to go straight. V2, a 1995 Honda Accord four door with two occupants was southbound approaching the same intersection where it intended to turn left. As V2 turned left it was struck on the right side by the front of V1. V2 rotated counter-clockwise and departed the roadway over the southwest corner of the intersection. V2 right side swiped a light pole that is located on that corner of the intersection and came to final rest. V1 came to a final rest approximately 5 meters north of its point of impact. V1 was towed due to damage, while V2 was driven from the scene. The driver of V1, a 64 year-old female, sustained minor injuries and was transported to a medical facility. The 49 year-old female passenger in the right/front seat also sustained minor injuries and was transported to a medical facility. After numerous attempts to contact the driver an interview was not obtained. The Critical Precrash Event for V1 was coded other vehicle encroachment, from opposite direction, over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. There were no known associated factors coded to V1, as no interview was obtained. The driver of V2, a 26 year-old male, did not sustain any injuries. A 31 year-old male passenger also did not sustain any injuries. This driver refused to be interviewed but stated to the Police that V1 went through a red light. He refused to allow his vehicle to be inspected. The Critical Precrash Event for V2 was coded this vehicle traveling, turning left at the intersection. The Critical Reason for the Critical Event was coded as an unknown driver error. There were no known associated factors coded to V2, as no interview was obtained.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in signalized intersection of divided two-way roadway with three lanes and one left turning lane in both directions. The roadway was straight and level, and it was dark, but lighted and clear with no adverse conditions. The posted speed limit was 48kmph (30 mph). Vehicle # 1 was a 1997 International M/H Truck that was traveling eastbound on the left turning lane. Vehicle # 2 was a 2005 Scion XB that was traveling eastbound on the left travel lane. At the intersection, Vehicle # 1 attempted to go straight when the back of Vehicle # 1 was impacted by the front of Vehicle # 2. The International M/H Truck (Vehicle # 1) was driven by a 32 year-old male who did not sustain any injuries. The International M/H Truck was not towed due to damage. The Critical Pre-crash event for Vehicle # 1 was coded as: This vehicle traveling, over the lane line on the right side of travel lane. The Critical Reason for the Critical Event was coded as a Driver related factor, illegal maneuver. The driver had attempted to go straight on the lane that was marked for left turn only. The possible associated factors were coded unknown because no interview was obtained. The Scion XB (Vehicle # 2) was driven by a 26 year-old male who did not sustain any injuries. The passenger, a 21 year-old female also did not sustain any injuries. The Scion was towed due to damage. The Critical Pre-crash event for Vehicle # 2 was coded as: Other Motor Vehicle encroaching into lane, from adjacent lane (same direction) over left lane line. The Critical Reason for the Critical event was not coded to this vehicle. The possible associated factors were coded unknown because no interview was obtained.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

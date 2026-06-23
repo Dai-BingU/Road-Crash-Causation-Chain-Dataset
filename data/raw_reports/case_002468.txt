@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary V1, a 1998 Saturn SC2, was traveling eastbound on a four lane, two-way, dry, asphalt roadway in daylight conditions. V2, a 1996 Chevrolet 1500, was also traveling westbound on the same roadway. V1 was traveling in lane two and attempted to make a lane change into lane one. She did not see V2 traveling in lane one and the right of V1 contacted the left of V2, before they both came to final rest in the roadway. The driver of V1 was a 41-year old female who reported that she had been traveling between 34-48kmph (21-30mph) prior to the crash. She stated she was in good health, but was taking hormones. She was rested and traveling to a tattoo shop. She and a passenger in the backseat were uninjured while the passenger in right front seat sustained minor injuries but refused treatment. The vehicle was towed due to damage. The Critical Precrash Event for the driver of V1 was this vehicle traveling, over the lane line on the right side. The Critical Reason for the Critical Precrash Event was a recognition error, inadequate surveillance (failed to look, looked but did not see), because the driver reported that she did not see V2 because it was in her blind spot. An associated factor was unfamiliarity with the road as she stated she rarely drove on it. The driver of V2 was a 52-year old male who reported that he had been traveling between 50-64kmph (31-40mph) prior to the crash. He was rested and traveling home. He was in good health and wearing his prescribed lenses that corrected a myopic (near-sighted) condition. He was uninjured and was able to drive from the scene. The Critical Precrash Event for the driver of V2 was other vehicle encroachment, from adjacent lane over left lane line. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2 and he was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

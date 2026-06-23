@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a two lane undivided roadway between a left and right curve with a grade of + 4.0% for Vehicle 1 and - 2.9% for Vehicle 2. The posted speed limit was 64 KMPH (40MPH). The weather was clear and the roadway was dry. This crash occurred on a late weekday afternoon. Vehicle 1, a 2003 Honda Pilot was traveling south on the two lane roadway when it went over the left lane line, completely into the northbound lane, impacting with the left rear of Vehicle 2, a 2006 GMC Yukon, which was heading north. The impact pushed Vehicle 2 into a 1 meter wide tree where it impacted with the tree with its right side. Vehicle 1, (the Honda Pilot) was driven by a belted 37 year old male who was not injured. There was a belted 27 year old female in the front right seat and a child in the second row center, belted into a child seat. The passengers in this vehicle were not injured. The driver of this vehicle stated he was blinded by sun glare and did not realize he had gone over the left lane line. This driver refused inspection of his vehicle. The Critical Precrash Event coded to this Vehicle 1 was: This Vehicle Traveling, Over the Lane Line on Left Side of Travel Lane. The Critical Reason for the Critical Precrash Event was coded as: Internal distraction. Vehicle 2 (the GMC Yukon) was driven by a belted 27 year old male who was transported to an area hospital, treated and released. There was a belted 22 year old male in the front right seat who was also transported to an area hospital, treated and released. This driver stated he had moved over onto the east side shoulder of the roadway to avoid impact but ran out of room due to the line of large trees. He stated he saw no attempt on the other vehicle to go back into its lane but he thought it would. He further stated the impact with Vehicle 1 pushed his vehicle into a large tree on his right side. The Critical Precrash Event coded to Vehicle 2 was: Other Motor Vehicle in Lane, Traveling in Opposite Direction. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. Police did not consider alcohol or illegal drugs to be a factor in this crash and ordered no tests for either driver. Vehicle 1 was issued a summons for 'failure to keep right'.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Motor Vehicle in Lane- Traveling in opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

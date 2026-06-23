@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This is a two-vehicle crash that occurred on a dry five-lane roadway traffic light controlled intersection. The roadway consists of two southbound and two northbound lanes separated by a continuous left turn lane. The cross street involved is a west/west roadway that has two westbound and two eastbound lanes to the west of the intersection that are separated by a continuous left turn lane. There are two westbound lanes and one eastbound lane to the east of the intersection that is separated by a left turn lane. The speed limit for the northbound and southbound roadway is posted 56 kmph (35 mph). The speed limit for westbound and eastbound traffic on the west side of the intersection is posted 56 kmph (35 mph). The speed limit for westbound and eastbound traffic on the east side of the intersection is posted 40 kmph (25 mph). There were no environmental factors that contributed to this crash. There were no sight line restrictions and no obstructions noted. Vehicle one (V1), a 1994 Ford Bronco 4X4, driven by a 45 year-old male was traveling northbound in the number one lane approaching the intersection on a green light for through traffic. The vehicle traveled through the intersection when vehicle two (V2) a 1993 Ford Probe driven by a 17 year-old female with one passenger made a left turn across the path of travel of V1. The front of V1 struck the right side of V2. After striking V2, V1 began to travel off the roadway in a northeasterly direction of the right (east) side of the roadway. The vehicle then struck the west side of a building where it came to rest. The driver of V1 told police that he had the green light when V2 turned in front of him. The driver of V1 submitted to a test for alcohol, which tested positive for alcohol. The time and result are unknown. V1 was towed from the scene due to damage. There were no injuries reported by the driver of V1. The driver of V1 was cited for DUI, DUI w/ BAC over .08% and Extreme DUI. V2 was towed due to damage and the passenger was transported to a local medical facility. The driver of V2 was cited for failure to yield on a left turn at an intersection and no valid driver's license. The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction over the left lane line. The critical reason was not coded to this vehicle. The critical pre crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason was coded to V2 as a driver related factor: misjudgment of gap or other's speed. The driver of V2 stated that she saw V1 approaching the intersection and made the left turn with the thought that she had enough time to turn left in front of V1.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Misjudgment of gap or other's speed

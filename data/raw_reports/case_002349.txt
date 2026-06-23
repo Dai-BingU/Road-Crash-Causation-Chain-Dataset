@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred just after noon on a weekend in the westbound lanes of a divided, east/west interstate highway. The highway consisted of three lanes in each direction flanked by paved emergency shoulders divided by a concrete barrier wall with a posted speed limit of 89kmph (55 mph). The bituminous highway was dry and level and featured a slight (immeasurable) curve left (south). There were no adverse atmospheric conditions but the traffic flow was interrupted by construction ahead and the subsequent congestion at the time of the crash. V1, a 2005 Toyota Camry, was westbound in the left lane three approaching the traffic congestion. V2, a 2007 International tractor (heavy truck) pulling an almost empty dry trailer was slowly moving forward in lane two. As V1 approached the congestion it swerved to the right to avoid the vehicle in front of it and struck the back of V2's trailer unit with its front. V1 rotated about 20 degrees clockwise before coming to final rest near the point of impact. V2 called police and pulled to the right shoulder of the highway. V1 was driven by a belted 33-year-old female who was on her way go get lunch from her jobsite. She stated she came up on the congestion and did not realize that traffic was stopped until it was too late; she swerved right and hit the truck. She was transported to a local trauma center with non-incapacitating injuries and V1 was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle traveling, over the lane line on the right side of the travel lane. The Critical Reason was coded as a driver related factor, inattention. Associated factors include inadequate surveillance, as the driver did not look far enough ahead. Inappropriate evasive action was coded because V1 chose an evasive action that caused a crash when she had a paved shoulder to the left that was apparently open. A tire deficiency was coded due to low tire tread. A traffic flow interruption was coded as a construction work zone that while not actually in the work zone traffic was slowed at this point due to the work zone. V2 was driven by a belted 36-year-old male who was uninjured in the crash. He was on his way from one delivery to the next (and last of the day) when he was hit from behind. He stated he saw a car coming up rapidly behind him but could not get out of the way. V2 was driven from the scene. The Critical Precrash Event for V2 was coded other vehicle encroachment, over the lane line on the left side of the travel lane. The Critical Reason was not coded to this vehicle. Other than the traffic flow interruption (construction zone) there were no associated factors coded to V2 and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Surveillance, Traffic, Vehicle present problem 
+Vehicle 2:  Driver Inexperience, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

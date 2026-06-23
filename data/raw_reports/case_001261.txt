@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the westbound lanes of a five lane, positively divided, straight roadway with an unknown positive grade and a speed limit of 97 kmph (60 mph). This crash occurred during daylight afternoon hours with heavy traffic. There were no adverse weather conditions at the time of the crash. The crash occurred adjacent to an entrance ramp. Vehicle one (V1), a 2005 Volkswagen Jetta with one occupant, was westbound in lane one. Vehicle two (V2), a 2002 Dodge Ram with one occupant, was westbound in lane one ahead of V1. V1 had been following V2 for some distance, both traveling 32-48 kmph (20-30 mph). V1 had a gap distance estimated by the driver at one car length. V2 braked for traffic ahead and the front of V1 struck the back of V2. Both vehicles came to rest in lane one. V1 was towed due to damage. V2 was driven from the scene without disabling damage. No one was transported. The driver of V1, a twenty-six year-old female, was traveling from a friend's residence to work. She was well rested, in good health and comfortable with her vehicle. She drives this route daily. This driver stated that she was following approximately one car length behind V2. She also stated that she was listening to the radio at the time of the collision. The driver is under some work stress by working extended hours. The driver failed to look far enough ahead and detect traffic ahead slowing. The critical pre-crash event for V1 was coded as "other motor vehicle in lane; traveling in the same direction while decelerating." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; following too closely to respond to unexpected actions." The driver of V2, a forty-one year-old female, was traveling from a doctor's appointment to home. She was well rested, in good health and comfortable with her vehicle. It is unknown how often she drives the route. She was listening to the radio. The driver looked into her rearview mirror to see V1 after determining that she was not going to strike the vehicle in front of her. The critical pre-crash event for V2 was coded as "this vehicle traveling-this vehicle decelerating." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Stress/Emotion, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：This Vehicle Traveling- This vehicle decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the early evening hours on a weekend at the intersection of a north/south eight-lane, two-way arterial road and an east/west roadway with five lanes. The south side of the intersection had four lanes in each direction separated by a raised curb concrete median. The north side of the intersection had four southbound travel lanes and three northbound lanes also separated by a raised curb concrete median. The intersection was controlled on all four sides by traffic lights that utilized left turn arrows. Conditions were daylight and dry with a posted speed limit of 56 KMPH/35 MPH. Although offset slightly at an angle, both northbound and southbound roadways were straight. The southbound approach had a slight negative grade of 3 percent. Vehicle 1, a 2005 Chevrolet Malibu, was northbound in the left turn lane attempting to turn left onto the westbound travel lanes on the east/west road. The light went from red to solid green as Vehicle 1 approached the intersection, and Vehicle 1 proceeded into the intersection to make its left turn, following a non-contact vehicle that was in front of it. The non-contact vehicle cleared the intersection and then Vehicle 1 struck Vehicle 2, a 1990 Toyota Four Runner, in the left front with its front. Vehicle 2 had entered the intersection while traveling in the second lane on a solid green light when it was struck. After impact, Vehicle 1 spun 180 degrees counterclockwise and came to rest facing south about 16 meters southwest of POI. Vehicle 2 was spun 90 degrees clockwise and came to rest about 20 meters west of POI facing west. Both vehicles were towed due to damage. Vehicle 1 was driven by a 31-year old belted male whose frontal airbag deployed. His right front passenger, a 31-year old pregnant female in her third trimester, was also the beneficiary of a deployed frontal air bag. The driver was transported to the hospital for non-incapacitating injuries but was not treated at the hospital. The passenger was hospitalized as a precautionary measure due to pregnancy. EDR data was retrieved from the vehicle and indicated that Vehicle 1 didn't slow during the 5-second pre-algorithm enable window, never hitting the brakes. The vehicle speed during the pre-crash phase only slowed from 30 to 29 mph. The Critical Pre-Crash Event for Vehicle 1 was when it began to turn left at the intersection. The Critical Reason for the Critical Pre-Crash Event was a decision error - false assumption of other's actions. Associated factors coded to this driver included the driver falsely assuming that he had the right-of-way since the traffic signal was solid green. The experience factor was also taken into consideration because the driver was new to the area, unfamiliar with that roadway and had only been driving in the United States for two years. Vehicle 2 was driven by a 63-year old belted male who did not have airbags available in his vehicle. He was transported to a local hospital with non-incapacitating injuries. He sustained a head trauma that was most likely caused by contact with the driver's window. The Critical Pre-Crash Event for Vehicle 2 was other vehicle encroachment from opposite direction over left lane line. The Critical Reason for the Critical Pre-Crash Event was not coded to this vehicle. False assumption was the only associated factor that was coded to this vehicle as this driver assumed that Vehicle 1 would yield the right of way.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience present problem 
+Vehicle 2:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

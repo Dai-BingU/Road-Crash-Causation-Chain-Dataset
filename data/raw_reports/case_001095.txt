@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the morning of a weekday on the eastern roadside and northbound lane of two-lane, north/south, undivided roadway. The bituminous roadway featured one lane in each direction with a posted speed limit of 48 kmph (30 mph) and a school zone advisory of 24 kmph (15 mph). The southbound approached curved to the left (radius of curvature of 135 m) and then straightened out with an uphill slope that varied from 13% pre-crash to 4% at impact. The northbound roadway was straight with a -4% slope. The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2002 Chrysler 300m with one occupant, was northbound in lane one. V2, a 1995 Nissan Quest minivan with one occupant was southbound in lane one negotiating the curve. As V2 continued negotiating the curve it partially traveled off the right edge of the roadway. The driver overcompensated in an attempt to return V2 onto the roadway. V1 crossed both lanes and departed the roadway to the left side while rotating in a clockwise direction. V2 struck the ditch on the left side of the road (Event 1) and yawed back onto the roadway into the path of V1. V1 struck the left rear side of V2 with its front end (Event 2). V1 came to rest northbound in lane one very near the point of impact. V2 rotated in a counterclockwise direction and came to rest facing south. Both vehicles were towed due to damage. The driver of V1, a 49-year female, received minor injuries and was transported to a hospital. She reported that she was on her way to work when she saw V2 heading towards her apparently out of control swerving sideways onto her side to the road. She braked but could not avoid contact with V2. The Critical Precrash Event for V1 was coded as other, not involved in first harmful event. The Critical Reason was not coded to this vehicle. There were no known associated factors coded to this driver and she was not thought to have contributed to the crash. The driver of V2, an 18-year old male, received minor injuries but was not transported. He was on his way to school while negotiating a curve to the left. He recalled going partially off the road on the right side. He said he overcompensated and veered across the road and off the left side of the road. The driver added that he rotated in a clockwise direction and continued skidding sideways along the left roadside. As his vehicle then re-entered the roadway onto the northbound lane where he collided with V1. The Critical Precrash Event for V2 was coded this traveling, off the edge of the road on the left side. The Critical Reason for the Critical Event was a driver related error, overcompensation. Associated factors assigned to V2 included driver inattention, thought focus unknown, traveling too fast for conditions, and driver inexperience.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Driver Performance, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other- Not involved first harmful event
+ 2 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Overcompensation

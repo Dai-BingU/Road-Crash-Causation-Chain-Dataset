@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred mid-afternoon during daylight hours involving two passenger cars at an intersection with traffic lights. The speed limit for the roadway is 64 kmph (40 mph). The road is a 3-lane divided (no positive barrier) concrete roadway for both vehicles. The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. Vehicle one (V 1), a 1992 Ford Taurus driven by a 50 year-old male was traveling south in the third lane attempting a left turn from the third lane of traffic at the intersection. Vehicle two (V 2), a 1992 Mazda Protoge driven by a 42 year-old male was traveling north in lane one of the northbound lanes, attempting to pass through the intersection. The front of V 2 impacted with the right front of V 1. V 2 rotated clockwise, V 1 rotated counter clockwise after both vehicles separated. Both vehicles came to rest within the intersection. Both vehicles were towed from the scene. No reported injuries. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at an intersection. The critical reason was coded a driver related factor: unknown decision error (possible false assumption). The critical pre-crash event for V2 was coded: other vehicle encroachment. from opposite direction, over left lane line. Critical reason not coded to this vehicle. The researcher was not able to interview either driver. None of the drivers spoke English. The driver of V 2 was at the scene, but unable to provide any information. The driver of V 1 had left the scene upon the researcher's arrival. He was reached on the phone later. He did not speak any English and was unable to provide any information. The researcher observed the traffic lights during the scene inspection. It was found the left turn arrow for the south bound lanes turned green after the north bound traffic has passed the intersection. The dynamics of the vehicles indicate V 1 attempted to make the left turn in time but underestimated the speed of V 2 or gap in the traffic. At the scene the researcher learned from police another police officer gave the driver of V 1 a ride because he had to be somewhere. It seems the driver was in a hurry. The crash location was located a block west of the entry of a local airport. V 1 was heading into that direction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown decision error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

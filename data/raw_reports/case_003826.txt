@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred during the morning rush hour of a weekday in the southbound lanes of a high-occupancy, high volume interstate. There were five southbound lanes with paved emergency shoulders on both sides of the roadway. There were concrete barriers separating the north and southbound roadways. The bituminous, level roadway curved to the left and had a posted speed limit of 105kmph (65mph). The exact curve was unable to be measured due to the fact that the crash occurred on a high volume high-speed roadway. The traffic flow was congested and conditions were clear with no adverse atmospheric factors at the time of the crash. V1, a 1986 Chrysler Fifth Avenue, was southbound in lane one traveling at 105kmph (65 mph). V2, a 1990 Chevy 1500 Cheyenne, had come to a complete stop due to rush-hour congestion, in lane one ahead of V1. As V1 negotiated the curve it failed to slow for the traffic in front of it and struck the back of V2 with its front. Both vehicles came to final rest near the point of impact in lane one. V1 was towed due to damage, but V2 was able to be driven from the scene. V1 was driven by a 28 year-old male who was on his way to pick-up a family member from work. He stated in the interview that as he came around the curve and saw that everyone was stopped, but assumed the truck in front of him (V2) would pull off onto the shoulder. During the course of the interview this researcher observed very unusual behavior exhibited by the driver including talking to himself, hand gestures, and a constant rocking back and forth. These behavior patterns led this researcher to believe the driver suffered from an unknown medical condition. When asked if he suffered from any form of illness or took any medication the driver answered “no”. The driver was uninjured and did not require transport. The Critical Precrash Event for V1 was coded as another vehicle in lane, other vehicle stopped. The Critical Reason was coded as a driver related factor, false assumption of other's action. This coding is based on statements made in the interview combined with what is believed to be the drivers altered emotional state (based on the observed behavior during the interview). The associated factors include the rush hour conditions on the interstate combined with the false assumption of the other road user's actions and the emotional factors affecting the driver. V2 was driven by a 70 year-old male who was out running errands. He stated in his interview that he was stopped for more than 10 seconds prior to V1 hitting him from behind. The driver was uninjured and did not require transport. The Critical Precrash Event for V2 was coded as another vehicle in lane, traveling at higher speed. The Critical Reason was not coded to this vehicle. The only associative factor related to this driver was physical in nature as he stated in the interview that he had prostate problems and took several medications, but would not say what they were. V2 was not thought to have contributed to this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Stress/Emotion, Traffic present problem 
+Vehicle 2:  Decision, Driver Physical, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

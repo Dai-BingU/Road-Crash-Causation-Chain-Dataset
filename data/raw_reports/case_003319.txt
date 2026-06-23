@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the early morning of a weekend on the right roadside of a four-lane divided roadway. The north/south roadway consisted of two lanes in each direction divided by a center raised grassy median. The bituminous roadway was dry, straight, and level with a posted speed of 72kmph (45 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1985 Dodge Aries, was southbound in lane one. V1 drifted to the right, mounting the curb, striking a sign and then a telephone pole. V1 than rolled over 2 quarter turns before coming to final rest on its roof in the middle of lane one. V1 was towed due to damage. V1 was driven by a 19-year-old male who reported bleeding of the knee/lower leg/foot, and was treated on scene by EMS. Driver states he was traveling at approximately 72kmph (45 mph), when he fell asleep. The next thing he remembers is crawling out of the car. The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road on the right side. The Critical Reason for the Critical Event was coded as a driver related factor, sleeping; that is actually asleep. The Driver stated that he had not slept in over 24 hours prior to the crash. A vision impairment was also coded to the driver of V1, as he was not wearing his corrective lenses at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Vision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

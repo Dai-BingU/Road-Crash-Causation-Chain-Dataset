@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred in the southbound lane of a five-lane roadway with a center turn lane. There were two southbound lanes, two northbound lanes and the center lane was a left turn lane for both directions. The roadway was bituminous, level and had a right curve in the southbound direction. The posted speed was 72 kmph (45 mph). It was mid-afternoon on a weekday and the road was dry with no adverse weather conditions. Vehicle 1, a 2005 Chevrolet Blazer, was traveling north in lane two of the roadway. Vehicle 2, a 2001 Jeep Grand Cherokee, was traveling south in the left turn lane waiting to make a left turn into the parking lot. Vehicle 3, a 2005 Dodge Magnum, was traveling north in lane two of the roadway. As V2 made her left turn V1 swerved to the left to try to avoid hitting V2, however V1's front contacted V2's right back. V1 then continued heading left into V3's lane and V1's front contacted V3's front. V1 and V3 came to final rest in lane two of the northbound lane. V2 came to final rest in lane one of the southbound lane. The driver of V1 was a 21-year old male. The driver stated that he saw V2 turning from the center lane into the parking lot. He claimed that she turned to slow into the parking lot so he couldn't avoid hitting her. V1 swerved over the center lane and into lane two in the oncoming traffic, thus striking V3. The Critical Pre-crash Event for V1 is "other vehicle encroachment from opposite direction - over left lane line". The Critical Reason for the Critical Pre-crash Event was coded "inadequate evasive action". (driver stated that V2 took too long to make the turn into the parking lot. There is somewhat of a raised entrance to the parking lot driveway. Some people take their time entering it so they won't scrape the bottom of their vehicle.) The driver of V2 was a 68-year old female. The driver of V2 stated that she saw V1 driving at a fast rate of speed but never thought he would have hit her even though she knows he saw her trying to turn into the lot. The Critical Pre-crash Event for V2 was coded "this vehicle traveling turning left at intersection". The Critical Reason was "not coded to this vehicle". The driver of V3 was a 51-year old male. The driver of V3 stated that he was on his way to the store to get a drink. He was traveling in lane two when V1 swerved to avoid hitting V2. V1 struck V2 in the right rear corner then struck V3 in the front in lane two of the northbound lane. The Critical Pre-crash Event for V3 is coded "not involved in the first harmful event". The Critical Reason is "not coded to this vehicle".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Driver Inexperience present problem 
+Vehicle 3:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate evasive action, e.g. braking only, not braking and steering
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at an interchange intersection in the eastbound lanes of a four-lane, suburban roadway with a curbed grass median. The intersection included a southbound exit ramp, an east/west roadway, and a southbound on-ramp. The roadway had a posted speed limit of 72 kmph (45 mph) and a level grade in all directions. Conditions were daylight and dry with clear skies. The setting was late morning hours on a weekday. Vehicle one was a 1999 Chevrolet 1500 van stopped facing south at the intersection. Vehicle two was a 1993 Toyota Camry sedan traveling eastbound in lane two. V1 and V2 both proceeded through the intersection. The front of V1 impacted the left side of V2. V2 continued off the southeast corner of the intersection, colliding into a medium-sized tree with its right side. V1 came to final rest partially off the roadway in the southeast corner. V2 came to rest against the tree. V1 was driven by a 39-year old male who was uninjured. He stated that he was getting near his jobsite after a 4-hour commute and preparing to cross the intersection. He claims that there was sun glare in the direction of V2. He estimated that he was stopped for a second or two before proceeding, and that his speed was approximately 16 kmph (10 mph) at impact. The van continued in service after the crash. The Critical Precrash Event for V1 was this vehicle traveling crossing over the intersection. The Critical Reason was inadequate surveillance (looked but did not see). Several associated factors were present for this driver. He has diabetes and is taking prescription medication for the condition. The driver had only slept five hours the previous night and had driven for four consecutive hours, though he claimed not to be tired. He drives this roadway on a monthly basis. At the time of the crash he was entering the on-ramp of a highway he had just exited, indicating he may not have been familiar with the roadway. V2 was driven by a 30-year old male who was transported to a local hospital with non-incapacitating injuries. He stated that he was heading to work when the other driver crossed the road in front of him. He braked with lockup and steered right but did not have enough time to avoid the crash. He estimated his travel and impact speeds to be 80 and 64 kmph (50 and 40 mph), respectively. The sedan was towed due to damage. The Critical Precrash Event for V2 was other vehicle encroachment from a crossing street across the path of travel. No Critical Reason was coded to this vehicle. No associated factors were present for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Driver Stress/Emotion, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

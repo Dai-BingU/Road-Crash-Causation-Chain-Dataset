@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This four-vehicle crash occurred on a divided, one-way urban roadway several meters past a “T” intersection. The northbound lanes were asphalt, dry, and level with a posted speed limit of 72kmph (45 mph). There were no traffic control devices. The crash occurred in the early afternoon on a weekday. The traffic flow was normal and the weather was clear. V1, a 2002 Mitsubishi Gallant, was traveling northbound in lane one, at a high rate of speed, where two vehicles were legally parked. V1 steered left to avoid the parked cars entering lane two. V1 was contacted in the rear by the front of V2, a 2001 Kenworth tractor with trailer, traveling northbound in lane two. After the initial impact V1 rotated slightly clockwise and contacted, with its front, the rear of V3, a 1999 Honda CRV (one of the legally parked vehicles), pushing it a few feet onto the curb and into the rear of V4, a 1994 Jeep Cherokee (the other parked vehicle). V1 continued rotating clockwise, 180 degrees, where it came to final rest facing southward. Vehicle one was towed due to severe damage. The driver of V1, a 21-year old female, traveled on the roadway daily. She said while traveling northbound in lane one, on the busy highway, suddenly realized a parked vehicle(s) in her lane, steered left, and tried to enter lane two, in front of V2, a large track. She said as she cut in front of the truck, the truck sped up, like they always do, and cut her off slamming into the rear of her vehicle. Her vehicle hit the rear of the parked vehicle. She said she was traveling approximately 80kmph (50 mph). The police on scene recorded her speed at 97kmph (60 mph). The driver of V1 was transported to the hospital with non-incapacitating injuries. The Critical Pre-Crash Event for V1 as this vehicle traveling over the lane line on the left side of the travel lane. The Critical Reason was coded as a decision error, aggressive driving behavior. Associated factors coded to this driver aggressive driving, speeding and a misjudgment of another vehicles gap distance and speed. The driver of V2, a 27 year-old male, said while traveling in lane two saw V1 cut in front of him and he applied his brakes, however, it was too late and he struck the rear of V1. He travels on the roadway weekly and knew that at certain times lane one is a parking lane. He said although he was conversing with his passenger he was well aware of the traffic flow. He saw the vehicle and thought it was going to park. He was not injured. The Critical Pre-Crash Event for V2 was other vehicle encroachment from adjacent lane (same direction) - over the right lane line. The Critical Reason was not coded for vehicle. Associated factors include a possible distraction as the driver was talking to a passenger.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Speed/Distance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

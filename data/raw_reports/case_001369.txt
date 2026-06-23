@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekday morning just before noon. There was a light blowing snow. The roadway was a straight overpass that crossed over the interstate with a .03% uphill grade. The posted speed was 72 kmph (45mph). The overpass had a covering of ice. As V1, a 2004 Chevrolet Tracker, began crossing the over pass it loss control rotating clockwise to the right. The driver than overcompensated causing his vehicle to rotate counterclockwise and cross the centerline into the path of V2, a 1998 Ford Explorer. V1's right side was struck by the front of V2. V2 pushed V1 13m west before V1 struck the concrete barrier and both vehicles came to final rest. V1 was driven by a 67 year-old male that was said to have been in good health. The occupant of the vehicle was pronounced dead at the scene and the driver was rushed to a trauma facility where he died a few hours later. The son-in-law gave the interview but could give very little information as to the nature of the trip but did state that they may have been they may have been shopping or at the local skill center that was just west of the crash scene. V1 was towed due to damage. The Critical Pre-crash Event was coded vehicle control loss due to poor road conditions (ice covered road). The Critical Reason for the Critical Event was coded as an environment related factor, highway related slick roads (low friction road surface due to ice). The associated factors were the speed the driver was traveling at (did not realize that caution was required) and the steering overcompensation when the driver first began to lose control of his vehicle. Also the son-in-law indicated that they were planning a large family dinner so the driver's thoughts and attention could have been focused on that. V2 was driven by a 20 year-old in good health. He stated that he could see the vehicle approaching from the west loss control and he started to decelerate. When the other vehicle crossed the centerline he states that he applied the brakes wanted to steer off the roadway but there was a bridge abutment to his right. The driver suffered minor injuries while an occupant suffered non-incapacitating injuries for which he sought treatment for after being released from the scene. A third occupant left the scene before police arrival with an unknown injury status. V2 was towed due to damage. The critical pre-crash event was coded other vehicle encroachment from opposite direction- over left lane line. The critical reason for the critical event was not coded to this vehicle. The associated factors were possible inattention as the driver was conversing with his occupant and inexperience as he rarely drove this road. Slick, icy roads could have also limited his vehicle's stopping ability.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Roadway, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Driver Physical, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

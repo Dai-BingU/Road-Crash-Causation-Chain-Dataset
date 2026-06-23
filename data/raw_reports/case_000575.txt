@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The following crash took place in the middle of a 4-way intersection. The east/west roadway is a one-way street going west, with a stop sign visible approaching the intersection. The crossing street is a two-way not physically divided roadway, this roadway has no TCD (traffic control device) at the intersection. The driver of V1 a 2000 Ford F-150 was traveling northbound and V2 a 1996 Ford Taurus was traveling westbound. V2 stopped at the stop sign and because of her obstructed view slowly drove into the intersection. V1's view was also obstructed by the same parked vehicle and was unable to see V2 pulling into the intersection. V1's front contacted V2 in the left side. V2 continued across the street and contacted a parked vehicle in the left side. The driver of V1 states that he was traveling northbound. As they approached the intersection a vehicle (V2) had made a rolling stop through the stop sign right into their lane of travel. The driver states that at the speed they were going there was nothing they could do so they slammed on the brakes and struck V2 with the front end of the vehicle. They also said that there was a vehicle blocking the driver's sight of vision to the intersecting roadway. The driver stated that, had that car not been there they would have probably seen the vehicle and slowed down. The Critical Pre-Crash Event was coded to this vehicle as: other vehicle encroachment, from crossing street, across path. The Critical Reason for the Critical Pre-Crash Event was not coded to this vehicle. The driver of V2 stated that she was traveling westbound approaching the intersection. She state that they came to the intersection and made a complete stop at the intersection. The driver also states that when they completed their stop their view of the crossing street was being blocked by a vehicle parked on the corner. They proceeded through the intersection slowly when the driver saw V1 coming at them. The driver states that they don't remember what happened until the fire/rescue paramedics were pulling them out of the vehicle. The Critical Pre-Crash Event was coded to this vehicle as: this vehicle traveling, Crossing over (passing through) intersection. The Critical Reason for the Critical Pre-Crash Event was coded to this vehicle as: recognition error, inadequate surveillance (e.g., failed to look, looked but did not see). ASSOSIATIVE FACTORS: One major factor was the vehicle that both drivers state was blocking their views of each other. Both drivers were familiar with the area
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

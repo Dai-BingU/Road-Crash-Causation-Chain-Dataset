@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the late evening of a weekday on the roadside of a two lane, two-way undivided roadway. The bituminous and level roadway featured a sharp left curve that straightened out and a posted speed limit of 56kmph (35 mph). The roadway also featured a soft, narrow shoulder that ran adjacent to a drainage ditch. V1, a 2001 Acura 3.2TL, was traveling north in lane one, and had just successfully negotiated the curve left. V1 than departed its lane to the left, crossed over the oncoming traffic lane, and departed the roadway to the left. This vehicle traveled over the drainage ditch making contact with its undercarriage to the opposite side of the ditch. V1 continued to travel through a grassy area and began to rotate clockwise before contacting a horizontal barrier (wooden pole) with its left tires. This barrier initiated a trip over to the left, and V1 rolled eight quarter turns before coming to rest on its tires in a grassy area. V1 was driven by a thirty-three year-old female and had three additional occupants. The driver stated that she and her friends had just left a cabaret a short time earlier and that they were taking a friend home when the crash occurred. She stated that all occupants were engaged in loud social conversation, trying to talk over a CD playing. The driver further stated that she had turned her head to the right, over her shoulder as the right rear occupant was speaking, and only realized that she was departing the roadway when the front right occupant screamed. The two passengers in the second row were transported with minor injuries and V1 was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the roadway on the left side. The Critical Reason was coded as a recognition error, internal distraction. Associated factors for this crash include driver inattention as she was engaged in conversation with her passengers, as well as being engaged in other non driving activities (looking at the actions of other occupants). The driver was also traveling too fast for conditions as she was speeding at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Distraction, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

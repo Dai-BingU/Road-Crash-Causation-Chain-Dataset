@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the westbound lanes of a two-way, suburban roadway. Approaching the intersection in the eastbound direction was a 5% uphill grade and one lane in each direction. Approaching the intersection in the westbound direction was a 6% uphill grade and three westbound lanes. The roadway had a posted speed limit of 56kmph (35 mph). Conditions were dusk, cloudy, and dry. The setting was a weekday afternoon. V1, a 2005 Toyota Matrix 5-door hatchback, was stopped facing eastbound in lane one intending to turn left. V2, a 1998 Toyota Camry sedan, was traveling west in lane two. As V1 proceeded to turn left at the intersection V2 continued through the intersection. The front plane of V2 impacted the right plane of V1. V1 then rolled left one-quarter turn onto its left side, coming to rest in the roadway. V2 also came to rest in the roadway. V1 was driven by a 68-year old female who was transported to a local hospital with possible injuries. This driver wore corrective lenses for a farsighted condition. She was retired. She travels this roadway on a monthly basis. She stated that she was distracted watching an oncoming car turn left in front of her, almost colliding with another car traveling adjacent to hers. She said she was stopped about 5 seconds before proceeding to turn left. Upon turning left she was struck, causing her car to rollover. She had no chance to react and estimated her impact speed to be 5 mph. This vehicle was towed due to damage. The Critical Precrash Event for V1 was this vehicle traveling, turning left at an intersection. The Critical Reason was coded as a recognition error, external distraction. The driver of V1 was focused on other cars and the driving task. This focus on the approaching vehicle was coded as an associated factor. V2 was driven by a 27-year old male who was listed with possible injuries. He stated that he was heading home from shopping when another vehicle turned in front of him at the intersection. He didn't have a chance to react and estimated his travel and impact speeds to be 56kmph (35 mph). This vehicle was not towed due to damage. The Critical Precrash Event for V2 was coded other vehicle encroachment, from the opposite direction - over the left lane line. No Critical Reason was coded to this vehicle. There were no associated factors coded to this vehicle and the driver of V2 was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This one-vehicle crash occurred during daylight hours on a one-lane, one-way, straight, level, westbound residential roadway. This road includes parking lanes on both sides that were in use at the time of the crash. There is an alley entrance on the right side of the roadway. The speed limit was 40 kmph (25 mph) and there were no adverse atmospheric conditions. Vehicle one, a 2005 Ford Mustang, was traveling westbound. The driver, who stated that he was traveling 40-48 kph (25-30 mph), attempted to turn right into the alley and lost control, traveling off the right side of the roadway. The front of the vehicle struck a pole that was located just west of the alley entrance. The driver left the scene, leaving the vehicle partially in the roadway and partially on the curb. According to the police officer, a few neighbors pushed the vehicle from final rest into a street parking space. The vehicle was towed due to damage. The driver, a sixteen-year-old male, was unlicensed and had never received any driver training. His father had rented this vehicle. During the week that his father had possession of this vehicle, the driver had driven this vehicle once prior to the crash. He had never driven on the roadway where he had the crash. He was well rested but concerned about the vehicle overheating. He stated that the traction control was turned off causing him to drive off the road when he abruptly attempted to turn right in to the alley. The critical pre-crash event for this vehicle was coded as "this vehicle traveling; off the edge of the road on the right side." The critical reason for the critical pre-crash event for this vehicle was coded as "driver related factor; poor directional control (failing to control vehicle with ordinary skill)."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Performance, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

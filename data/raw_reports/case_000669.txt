@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred on a 2-lane undivided rural roadway on a weeknight. The roadway runs east/west, does not have shoulders, and has a posted speed limit of 89 kmph (55 mph). The conditions were clear, dry, and dark. V1, a 1997 GMC Sierra 1500 with one occupant, was traveling west when it drifted off the right side of the road, re-entered the roadway while rotating counterclockwise and departed the left side of the road. V1 traveled down an embankment, rolled over (right side leading), and struck two trees with its right side. V1 came to final rest on the right side and had to be towed from the scene because of disabling damage. V1 was driven by a 39-year-old male that works as a tobacco farmer. He was driving home this weeknight when he admitted he was dialing a phone number on his cell phone, dropped the phone, and drove off the right side of the roadway. He steered his truck back onto the roadway but overcorrected his steering too much and departed the left side of the roadway. His pickup truck rolled over while traveling down an embankment and struck two small trees with its right side. After striking the trees, his truck rolled onto its right side where it came to final rest. This driver climbed out of his cab and walked home. A passerby called the police to report the crash and the sheriff department arrived on scene to discover the driver had fled the crash. The sheriff department apprehended the driver at his home and brought him back to the crash scene where I was able to briefly speak with him while we waited for the Highway Patrol to arrive. While speaking with the driver (with the police present), he admitted he was drinking beer earlier in the day and that he walked home after the crash to get help. Once the Highway Patrolmen tested this driver for driving under the influence, he was arrested and taken to the police station. This driver failed the field test but passed the BAC test and his DWI charge was dropped. The Critical Precrash Event for V1 was coded: "this vehicle traveling off the edge of the road on the left side". The Critical Reason for the Critical Event was coded: "overcompensation". Associated factors coded to this case are: alcohol presence, dialing the phone and narrow shoulders.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Cell Phone Use, Distraction, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

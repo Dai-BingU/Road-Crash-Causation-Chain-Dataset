@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This early afternoon, weekday crash occurred in lane one of a bituminous, one-way, one-lane, cloverleaf exit ramp that curved right from the collector lane of a southbound interstate to the collector lane of an eastbound interstate. The advisory speed limit for the ramp was 40kmph (25mph). At the time of the crash the roadway was dry and traffic was moderate. V1, a 1990 Mazda 626 4 door with one occupant, was negotiating the roadway described above. Midway through the curve, V1 drifted off the roadway to the left. The driver steered right and tried to re-enter the roadway but the left wheels dug into the soft ground causing V1 to roll over with its left side leading. V1 rolled to the left 4 quarter turns before coming to rest on its wheels facing northeast. V1 was towed due to damage. The driver of V1, a 54-year-old male, stated that he was doing approximately 40 kmph (25 mph) around the curve on his way to work. He stated that he wasn't late and was not in a hurry. He said that he was aware that his left front tire was low and had been pulling to the left. He said that he glanced down at something on the seat (he can't remember what) and when he looked up the car was going off the road to the left. He braked and steered right to try to re-enter the roadway but the tires dug in and the car rolled over down the embankment. Even though he had an out of state drivers license he admitted that he had lived/worked in the area for at least 6 months and was familiar with the road. The Critical Precrash Event for v1 was coded this vehicle traveling off the edge of the road on the left side. The Critical Reason for the Critical Event was a driver related factor, an internal distraction. An associated factor coded to V1 was the under inflated left front tire (a vehicle inspection confirmed that the left front was under inflated by over 10 psi) which may have hastened the vehicle's road departure when he took his eyes off the road.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

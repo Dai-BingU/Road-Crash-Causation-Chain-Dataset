@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary A three vehicle intersection-related collision occurred in the early evening daylight hours. It had been raining heavily for 15 minutes prior to and at the time of the crash. Vehicle one (V1), a 1995 Chevrolet K1500 4x4 multi colored pickup, was traveling south in the second lane of a 3-lane divided concrete, level roadway. When V1 was about 100-meters (328-feet) from the intersection, it made a lane change into the first lane. V1 was going about 56 kmph (35 mph) as it approached the intersection and the traffic signal had just turned green. Vehicle three (V3), a 1998 grey Cadillac Deville sedan, was traveling north in the third lane of a 4-lane divided concrete, level roadway. V3 had a green arrow, which was turning yellow as she exited the turn. Just as V3 completed the turn, and V1 had entered the intersection and was impacted on the left side by vehicle two (V2). V2 was a 1996 green Oldsmobile 88 sedan that was traveling in the second lane of a 4-lane divided traffic way controlled by a traffic signal. V2 entered the intersection on a red light and its front impacted with the left side of V1. V1 then was pushed to the right and it's front bumper impacted with the right side of V3. V1 came to rest on the grassy median dividing the west and east traffic. V3 continued forward and ended up facing northwest in the second lane of the connecting 2-leg roadway. V2 spun counter clockwise to end up facing south on the shoulder of the southbound traffic. Immediately after the crash, the driver of V2 departed the scene in another vehicle that had been following it. This vehicle stopped and drove the driver of V2 from the scene. The driver of V2 had taken the vehicle from his neighbor three days earlier for a test drive. At this time the owner left town for business. The driver of V2 returned the vehicle to the owner's mother, and then the day of the crash said he needed to borrow it again. V2's driver informed the owner of V2 of the crash three days later. The driver stated a hit-run accident had occurred and that the hit-run driver left the scene. Information given during the interview contradicted the information received by the owner. The driver of V2 also had a suspended license. The critical precrash event for V1 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle. The critical precrash event for V2 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason for the critical event was attributed to V2 as a driver related factor: illegal maneuver. Inadequate surveillance was considered an associative factor as was aggressive driving for ignoring traffic control devices. V3 was not involved in the first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Aggressive Behavior, Decision, Driver Stress/Emotion, Surveillance, Weather/Environment present problem 
+Vehicle 3:  Driver Stress/Emotion, Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Negotiating a curve
+ 3 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

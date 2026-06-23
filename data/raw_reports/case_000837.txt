@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a two-lane roadway. There was one eastbound lane and one westbound lane. This was a straight, level, bituminous roadway with a posted speed of 72 kmph (45 mph). It was late in the evening on a weekend and the road was dry and the sky was clear. There were no traffic flow interruptions. V1 a 1997 Toyota Camry four door with one occupant was traveling westbound in lane one. V2, a 2006 Honda Civic two door with one occupant, was traveling eastbound in lane one. V1 made a sudden left turn directly in front of V2. V1 came to final rest facing southwest and V2 came to final rest facing southeast. V1, the Toyota Camry, was driven by a 19-year-old male who reported no injuries. He advised that he had just come from his home and was heading to his friend's house. He advised that he was traveling at about 72 kmph (45 mph) when he turned left and struck V2. The Critical Precrash event for V1 was “this vehicle traveling, turning left at intersection.” The Critical Reason for the Critical Event was “driver related error, inadequate surveillance.” V2, the Honda Civic, was driven by a 25-year-old female who sustained moderate injuries and was transported to a local hospital. She stated that she was traveling eastbound at about 72 kmph (45 mph) when V1 swerved into her lane causing the collision. The driver of V2 did not have time to take any avoidance actions. The Critical Precrash event for V2 was “other vehicle encroachment from opposite direction - over left lane line.” No Critical Reason for the Critical Event was coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

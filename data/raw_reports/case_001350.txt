@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary A two-vehicle crash occurred mid-afternoon on a dry, straight, level, five-lane, undivided, bituminous roadway that runs north to south. It has a posted speed limit of 72 kmph (45 mph) and intersects with a two-lane, level, bituminous roadway that curves to the left and runs east to west. This intersection was controlled by a traffic light (on colors) with no pedestrian signal. Vehicle one (V1), a 1990 Chevrolet Caprice was traveling southbound and was attempting to turn left and travel eastbound. Vehicle two (V2), a 1990 Chevrolet Corsica was traveling northbound. As V1 was making its turn, V2 was attempting to cross through the intersection. The front of V1 contacted the front of V2. Post impact the vehicles deflected to the right and the front of V1 one contacted pole. The driver of V1 was a 47-year-old male in good health & well rested. He was on an errand coming from a friend's house to go to a mechanic to pick up his car and was not in a hurry. The driver stated that he pulled up to the light and stopped for a few seconds in the left turn lane. When the light turned yellow he thought V2 was going to stop and so he started to turn left. He tried to avoid the impact by accelerating, but this was unsuccessful. The critical pre-crash event for V1 was coded: this vehicle traveling/ turning left at intersection. The critical reason for the critical event was coded as a driver decision factor: false assumption of other user's actions. A 42-year-old male driver, a 44-year-old male passenger in the right front seat and a 38-year-old female passenger in the center rear seat occupied V2. According to the medical records the driver does not take any medications, and was discharged with no injuries or illness. There was no past medical history of any previous medical conditions for the driver. No further information is known about the driver of V2 other than his statement recorded on the police report. The police report indicated that the driver stated he had a yellow light and proceeded straight through the intersection. A witness statement included in the police report indicated V2 accelerated to get through the intersection. The physical evidence indicates V2 braked just prior to the intersection and steered right to avoid the collision. The braking actions and statements on the police report indicate the driver was not distracted in any manner and was aware of the driving conditions. The critical precrash event for V2 was coded: other vehicle encroachment/ from opposite direction- over left lane line. The Critical Reason for the Critical Event was not coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lane of a two lane, two way, dry asphalt roadway in daylight conditions. The intersecting road ran east/west and was controlled by a stop sign. Both roads had a posted speed limit of 88kmph (55mph). V1, a 1997 Chevrolet Astro Van was traveling westbound. V1 was approaching the intersection intending to go straight. V2, a 2002 Pontiac Grand Am was traveling northbound on a similar roadway approaching the same intersection. V2 was also intending to go straight. The driver of V1, was reaching for an unknown object in his car when he looked up he saw a stop sign and the approaching V2, but it was too late to avoid contact. The front of V1 contacted the right side of V2 before they both came to final rest off the west side of the roadway. The driver of V1 was a 34-year old male who had reported that he had been traveling between 82-97kmph (51-60mph) prior to the crash. He had no health related problems and had taken a depression medication prior to the crash. The possible side effects of this medication are drowsiness, tiredness, dizziness and weakness. He was rested and traveling to play golf. He was wearing his prescribed lenses that corrected a Myopic (near-sighted) condition. He sustained some minor injuries during the crash but refused to be transported to the hospital. The Critical Precrash Event for the driver of V1 was this vehicle traveling crossing over (passing through) intersection. The Critical Reason for the Critical Precrash Event was coded as a recognition error, internal distraction, because he was looking down in his car for something and not looking at the road. An associated factor in this crash was that this was the drivers' first time on the road and he was unfamiliar with the area. The driver of V2 was a 24-year old female who had reported that she had been traveling 82-97kmph (51-60mph) prior to the crash. She was rested and traveling home. She was transported to a local trauma facility with minor injuries. The Critical Precrash Event for the driver of V2 was other motor vehicle encroachment, from crossing street, across path. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2 and was thought not to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Drugs present problem 
+Vehicle 2:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of a north/south arterial road and an east/west interstate entrance/exit ramp. On the south side of the intersection the arterial was two-way with eight lanes divided by a double yellow line. The north side of the intersection the arterial road had only six lanes and was divided by a raised concrete median. The right southbound lane on the north side of the intersection was designated as right turn (to the interstate) only. The two left northbound lanes on the south side of the intersection were left turn (to westbound direction) only. The intersection was controlled by traffic lights with left turn arrows included. The portion of road where the crash occurred was straight and level. The speed limit was 48kph/30mph. The crash occurred in the late evening under dark, unlit conditions on a weekday evening. Vehicle 1 was a 1992 Honda Civic hatchback that was in the inside northbound left turn lane on the arterial road attempting a left turn onto the westbound entrance ramp of the interstate. V1 followed closely behind a tractor-trailer truck that was making the same left turn. The southbound side of the intersection received a solid green signal and Vehicle 2, a 1993 Toyota Camry, (in the second southbound lane), preceded through the intersection. Vehicle 2 struck Vehicle 1 on the right side with its front. Vehicle 1 came to rest on the left shoulder of the ramp (to westbound interstate) and Vehicle 2 came to rest about 2 meters from impact. Vehicle 1 was towed from the scene. Vehicle 2 was driven from the scene. Vehicle 1 was driven by a belted 23-year old male that was accompanied by two passengers. All three occupants were uninjured in the crash. The occupants of Vehicle 1 were on their way home from a movie. The critical pre crash event for V1 was this vehicle traveling: turning left at intersection. The critical reason for the critical pre crash event was coded as an, "Other decision error - turned with obstructed view", as the driver could not see the light was red because of the proximity of the tractor trailer in front of him. Associated factors included that the driver was conversing with his two passengers. He was also focused on an extraneous vehicle (tractor-trailer) and turned with obstructed view. The driver was unfamiliar with this particular vehicle as he was driving for one of the passengers (vehicle owner) who was uncomfortable driving on the interstate. The non-contact tractor-trailer was included as a vehicle sight line restriction. Vehicle 2 was driven by a 17-year old belted female whose airbags did not deploy. She was uninjured in the crash. The critical pre crash event for Vehicle 2 was, "Other vehicle encroachment - from opposite direction over left lane line". The critical reason for the critical pre crash event was not coded to this vehicle. Associated factors included impending problem masked by traffic flow pattern and the false assumption that the non-contact truck was the last vehicle proceeding through the intersection. The tractor-trailer was coded as a sight line restriction because it prevented the driver of V2 from seeing V1 attempting the turn. Inexperienced driver was also coded.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Inexperience, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Starting in traffic lane
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

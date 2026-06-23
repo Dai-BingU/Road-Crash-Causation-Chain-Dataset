@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the eastbound lanes of a four-lane, one-way, slushy, concrete highway with a positive grade in daylight conditions. V1, a 2002 Hyundai Elantra, was traveling east bound. V2 was also traveling eastbound on the same highway. V1 was attempting to merge into the exit ramp lane when he lost control of the vehicle. The front of V1 contacted the right side of V2. V1 then rotated clockwise and contacted the V2's rear right side with its left side. V2 then swiped the concrete barrier with its left side before both vehicles came to final rest on the roadway. The driver of V1 was a 16-year old male who had reported that he had been traveling 82-96kmph (51-60mph) prior to the crash. He had no prior health conditions and had taken no medication. He was rested and on his way home. He was wearing his prescribed lenses that corrected a Myopic (near sighted) condition. He reported that he had hit a patch of ice that caused him to lose control. The Critical Precrash Event for the driver of V1 was this vehicle loss of control, poor road conditions (icy roadway). The Critical Reason for the Critical Precrash Event was coded as Decision Error, too fast for conditions. The roadway was icy and caution should have been taken. Another factor in the crash was driver inexperience. The driver of V1 had reported that he had only been driving one year prior to the crash. Another factor was that he had not driven this roadway often. The driver of V2 was a 58-year old male who had reported that he had been traveling 82-96kmph (51-60mph) prior to the crash. He had a prior condition of high blood pressure, which was not thought to have contributed to the crash. He reported that he usually takes medication for this condition but had not taken prior to the crash. He was rested and on his way to church. He was transported to a local trauma facility with minor injuries. The Critical Precrash Event for the driver of V2 was other vehicle encroachment, from adjacent lane (same direction) over left lane line. The Critical Reason for the Critical Precrash Event was not coded for this vehicle, and he was not thought to have contributed to the crash. He reported that he did not have time to attempt any avoidance maneuver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Roadway, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Drugs, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

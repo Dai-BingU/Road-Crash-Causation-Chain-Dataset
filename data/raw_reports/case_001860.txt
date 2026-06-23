@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at 1815- hours in an intersection on a five-lane, level, dry, straight roadway. Both eastbound and westbound traffic have two through lanes and one left turn lane and the intersection has a tri-light traffic control signal. The speed limit is 56 kph (35 mph) and there were no adverse weather conditions at the time. Vehicle one, a 1998 Toyota Tacoma pick-up driven by a 25 year-old male was traveling eastbound in lane three. Vehicle two, a 1995 Toyota 4-Runner driven by s 17 year-old male was traveling westbound in lane two. Vehicle one made a U-turn as the traffic light turned yellow and the right side of vehicle one was struck by the front of vehicle two. Vehicle one rotated counterclockwise and traveled off the north side of the road and the front of the vehicle struck a concrete bus bench. Vehicle one came to rest facing northwest against the bench. Vehicle two rotated clockwise and came to rest facing north between lanes one and two in the northwest corner of the intersection. Both vehicles were towed due to damage. The pre-event movement for V 1 coded making u-turn,category this vehicle traveling over the lane line on left side of travel. Critical reason driver related factor, false assumption of other's actions. (The driver was running an errand. He was familiar with the road, but was fatigued at the time of the crash. Also, he was not wearing his prescription glasses at the time. When he started his U-turn, he believed that vehicle two was going to stop when the light turned yellow) The pre-event movement for V 2 coded going straight, category other vehicle encroachment from opposite direction over left lane line. Critical reason not coded to this vehicle. .
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Inexperience, Drugs, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Making a U-turn
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

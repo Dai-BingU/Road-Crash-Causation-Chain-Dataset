@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a two lane undivided roadway, slightly curving to the right, with radius of 375 meters and a super-elevation of 6.3%. The posted speed limit was 72KMPH (45MPH). The side roadway from which Vehicle #2 was traveling was a two lane undivided roadway curving to the left with a radius of 94 meters and a super elevation of 4.4%. The roadways were dry and the weather was cloudy. This crash occurred on a weekday evening. Vehicle #1, 2002 Toyota Sienna, was traveling west on the two lane undivided roadway negotiating the curve when it impacted with the left side of Vehicle #2, a 2000 Subaru Forester, with it's front. The Toyota Sienna, (Vehicle #1) was driven by a belted 41year old male who was not injured. The driver stated he thought the other vehicle would wait at its stop sign and not pull out in front of him. The driver stated he steered to his right and braked but was unable to avoid impact. The Critical Pre-Crash Event coded to this vehicle was Other vehicle encroachment from crossing street, turning into opposite direction. No Critical Reason for Critical Pre-Crash Event was coded to this vehicle. The Subaru Forester (Vehicle #2) was driven by a belted 74 year old male who refused medical attention and was not injured The driver stated he was making a left turn from a side road onto the two lane undivided roadway after stopping at a stop sign for 1-2 seconds. The driver stated he thought Vehicle #1 was further back on the roadway and he would have time to pull out safely. The driver further stated his left front window was fogged over and he couldn't see Vehicle #1 clearly. It should be noted here that this driver has an unspecified heart condition for which he takes medication and also takes medication for high cholesterol. The Critical Pre-Crash Event coded to this vehicle was This vehicle turning left at intersection. The Critical Reason for the Critical Pre-Crash Event was coded as Driver Related Error Decision Error Misjudgment of Gap or Other's Speed. Police did not consider illegal drugs or alcohol to be a factor and ordered no tests for either driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs present problem 
+Vehicle 2:  Decision, Distraction, Driver Physical, Drugs, Vehicle, Vision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Misjudgment of gap or other's speed

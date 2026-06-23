@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle daytime collision occurred on a controlled access, divided highway in the southbound lanes. The roadway was dry, is straight, bituminous, consists of 4 lanes, and is on a slight uphill grade. There are paved shoulders and short concrete jersey barriers adjacent to the shoulders on both sides of the roadway; the one to the left separates southbound lanes from northbound lanes. The number 4 lane is a High Occupant Vehicle (HOV) lane. The posted speed limit for the roadway is 96 kph (60mph). At the time of the crash, it was clear, and there were no adverse weather conditions, sight restrictions or road defects. Vehicle #1 (V1), a light green 1998 Ford Windstar minivan, was traveling south in lane two. Vehicle #2 (V2) a dark green 2001 Honda Accord was traveling south in lane three. V1 was slightly ahead of V2. From impact damage, both vehicles were going approximately the same speed. The V1 driver, a 19 year old male, began a lane change to the left in order to avoid traffic from a merging highway ahead and the left front side of V1 contacted the right front side of V2. The vehicles slide slapped and the left rear quarter panel struck the right rear quarter panel on V2. After impact with V1, V2 departed on a southeast trajectory, exited the road to the left, impacted the left concrete jersey barrier, departed the barrier on a southwest trajectory in a counterclockwise yaw, and came to rest partially on the right shoulder, and partially in lane one, facing generally northeast. The V2 driver, 20-year-old female, was transported for observation. V2 was towed due to damage. V1 came to a controlled stop on the left shoulder and was driven from the crash scene. The Pre-event movement for V1 was coded as "Going straight". The Critical Pre-crash event was coded as "This Vehicle Traveling: over the left lane line." The Critical Reason for the critical event was assigned to V1 as "Driver Related: Inadequate surveillance: Looked, but did not see." Possible Associative Factors for the V1 driver is relatively inexperience; he stated that he looked in his mirror before changing lanes and did not see V2. V2 may have been in a blind spot and the V2 driver may not have been aware of the area of view covered by the mirror. The Pre-event movement for V2 was coded as "Going straight." The Critical Pre-crash event was coded as "Other Motor Vehicle encroachment, over the right lane light traveling in same direction." The Critical Reason was not coded to V2. The driver was not available for interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

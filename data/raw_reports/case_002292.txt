@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This incident occured on a two lane highway. Weather conditions were clear. Vehicle 1 which was a 1994 Plymouth Sundance was driven by a 30 year old male. Vehicle two was a 2003 Volvo Tractor with a 2003 Brody Trailer in Tow, being driven by a 45 year old female. Vehicle two was driving Northbound of the highway. Vehicle one was driving directily behind. The driver of V2 stated that there was a lot of stop and go traffic due to rush hour. V2 stated that she didn't even feel when V1 struck her until someone flagged her from a different car that her vehicle was struck. She is unsure if it happened when she was slowing down or accelerating. The driver of Vehicle one stated that he was driving and doesn't really remember what happened. All he remembers is driving and all of the sudden the airbag was in his face. In the interview the driver stated that he has Attention Defecit Disorder. This may have been a contribution to the accident. The critical pre-crash event for V1 was coded as other motor vehicle in lane, other vehicle traveling in same direction with lower speed.The critical reason for critical pre-crash event was coded as a recognition error: Inattention (day dreaming). The critical pre-crash event for V2 was coded as other motor vehicle in lane, other vehicle traveling in same direction with higher speed. No critical reason was coded for V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Surveillance, Traffic present problem 
+Vehicle 2:  Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

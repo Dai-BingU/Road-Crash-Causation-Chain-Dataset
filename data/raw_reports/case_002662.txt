@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a 2 way, gravel/slag roadway curved right with a positive grade >2%. The posted speed was 89 kmph (55 mph). At the time of the crash the roadway was uneven and "wash boarded". It was daylight and dry on this weekday afternoon. V1, a 2002 Jeep Wrangler, was eastbound on the road. V1 exited the roadway to the right where it impacted a tree >10cm with it's left front, it then rotated clockwise and came to rest in the roadway facing west. The driver was injured, transported, treated and released. A single passenger was uninjured. The vehicle was towed due to damage. The driver was a 16 year-old male, newly but properly licensed for the vehicle and familiar with the road. He stated that he was going uphill taking a curve left and downshifting a manual transmission when the car went to the right and left the road. He said he was going 64 - 72 kmph (40 -45 mph) and had one hand on the wheel and right hand on the shifter and doesn't know why he ran off the road. The Critical Pre-crash Event was "this vehicle traveling off the edge of the road on the right side" and the Critical Reason for the Critical Pre-crash Event was coded "poor directional control (e.g., failing to control vehicle with skill ordinarily expected)". Some factors contributing to the crash include the following. The driver had only been driving for 5 weeks. During this time he had been driving a small car with an automatic transmission. 7 days before the crash, he had begun to drive the Jeep, which has a stiffer suspension and has a manual transmission so he was somewhat inexperienced as a driver and with the vehicle and it's handling characteristics. He took inadequate/incorrect evasive actions, was trying to "downshift" to go up the hill and the roadway had a deteriorated condition (was rough). The vehicle also had at least 2 tires, which were under inflated (the other 2 were flat following the crash). The driver was also thought to be driving too fast for conditions.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Performance, Roadway, Speed/Distance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

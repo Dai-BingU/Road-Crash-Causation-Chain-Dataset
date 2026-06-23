@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of a two lane arterial roadway and a two-lane residential side street. The arterial made a sharp ninety-degree curve from north to east with a radius of curvature of 49m and the sightline is restricted by a tree line on the east/south side of the road. It is intersected near the apex of the curve from the north by the two-lane side street. Thirty meters west of the side street is another residential road that intersects the arterial from the west. The posted speed limit was 48kmph (30mph), and there are no curve warning signs. Conditions were daylight and dry on a weekend afternoon. Vehicle #1 was a 1993 Dodge Ram 1500 series pickup traveling north on the arterial road. Vehicle #2, a 1986 Toyota Celica was traveling west on the arterial. Vehicle #1 attempted to turn left to go north on the intersecting side street and was struck in the right side by the front of Vehicle #2. After impact Vehicle #1 rotated clockwise and came to rest facing southeast in the northwest corner of the intersection. Vehicle #2 came to rest facing northwest in the northwest corner of the intersection. The pickup (V1) was driven from the scene, but the Celica (V2) was towed due to damage. Vehicle #1 was driven by a 49-year old male that was belted and not injured. He stated he stopped at the intersection and didn't see any other vehicles so he initiated the turn. Midway through the maneuver he saw the other vehicle and attempted to accelerate but was struck in the right rear. He was very familiar with the intersection and reported the other vehicle was traveling at a high rate of speed. Alcohol was detected and police charged Vehicle #1's driver with driving under the influence. The Critical Precrash Event for Vehicle #1 was this vehicle turning left at intersection. The Critical Reason for the Critical Event was inadequate surveillance (looked but did not see). Fatigue was coded as an associated factor the driver stated he only sleeps four hours per night and he seemed tired at the scene. Roadway geometry (curve) and a sightline restriction (shrubbery) were also coded. The driver takes an unspecified medication for high blood pressure and was wearing glasses to correct a farsighted condition. Vehicle #2 was operated by a 16-year old male that was not belted and not injured. His 16-year old passenger female was also not belted and she was transported to an area hospital with minor injuries. The driver stated he intended to go straight/right on the second side street that intersected just west of the involved intersection. He said the other vehicle turned across in front of him. One witness reported that Vehicle #2 was traveling at a high rate of speed. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from crossing street, across path. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors included too fast, reason unknown, and inexperienced driver. Roadway geometry (curve) and a sightline restriction (shrubbery) were also coded. The driver takes an unknown medication to control tremors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Fatigue, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Inexperience, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

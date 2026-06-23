@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a weekday morning at an interchange/intersection. The roadway runs north and south with highway entrance and exit ramps at the location of the crash. The conditions were daylight, clear and dry. Vehicle 1, a 1996 Toyota Camry with one occupant, was traveling north toward an intersection, intending to turn left toward a highway entrance ramp. Vehicle 2, a 2001 Ford Focus with one occupant, was traveling south in lane 1 toward the same intersection. The intersection was controlled by a pretimed traffic signal and the posted speed limit was 72 kmph (45 mph) for both directions. Both vehicles entered the intersection with a green signal and collided at a right angle. The front of V2 struck the right of V1 when V1 made a left turn. Both vehicles were towed due to damage and EMS treated both drivers on scene. V1 was driven by a 45-year-old female that was driving to work this morning when the crash occurred. She reports that her traffic light was green and she saw the Focus (V2) approaching the intersection but figured it would turn right onto the same entrance ramp as her. She admits she has a habit of turning left at the intersection when her signal is green without checking to see if the intersection is clear. She admits to being lost in thought about a character in a book she was reading last night. She was shaken up but was not injured in the crash. The Critical Precrash Event for this vehicle was coded: turning left at intersection and the Critical Reason for Critical Precrash Event was coded: inattention (daydreaming.) V2 was driven by a 21-year-old female driver. She has a corrective lens restriction on her driver license and she wears contact lenses for her near-sightedness. For this trip, she was driving to work on a road she travels everyday when a northbound Toyota (V1) turned in front of her as she approached an intersection. While driving south in lane one, this driver reportedly saw V1 (northbound) approaching the same intersection as her with its left-turn signal on. She claims a car ahead of V1 had made a left turn before V1 attempted to make its turn. This driver reports the traffic was light and that she could clearly see V1 nearing the intersection before the crash and that's why she could not understand why it would continue to cross in front of her. Once V1 proceed to turn left, this driver said she steered right and applied the brakes but there was not enough time or space to avoid the crash. The front of her car struck the right side of V1 causing disabling damage to both vehicles. The driver and passenger air bags deployed because of the crash but this driver was not injured. The Critical Precrash Event for vehicle two was coded: other vehicle encroaching from opposite direction - over left lane line and the Critical Reason for the Critical Precrash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

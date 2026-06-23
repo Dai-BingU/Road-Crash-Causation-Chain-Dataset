@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 2001 Kia Rio, was traveling northbound on a four lane, two-way, dry asphalt roadway in daylight conditions in the second lane of travel. V2, a 1987 Pontiac Fiero, was traveling southbound on the same roadway in the first lane of travel. Both vehicles were approaching a 4-way intersection controlled by a traffic signal. The posted speed was 56 kmph (35 mph). It was the late afternoon hours on a clear day. The driver of V2 intended to go straight through the intersection. V1 was attempting to make a left-hand turn at the intersection. The driver of V1 initiated his turn while V2 entered the intersection and the front of V2 struck the right side front of V1. The vehicles came to final rest in the southwest corner of the intersection. They were both towed due to damage. The driver of V1 was a 34-year old male who reported that he had been traveling between 2-16 kmph (1-10 mph) prior to the crash. He stated that he did not see V2 because another vehicle was in front of him in the opposing lane, blocking his view. He had no health-related problems and had taken no medication prior to the crash. He was rested and traveling to his insurance company. He was wearing his prescribed lenses that corrected a hyperopic (far-sighted) condition. He sustained minor injuries from the crash, but refused treatment. The Critical Pre-crash Event for the driver of V1 was: this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Pre-crash Event was an "other" decision error: turned with obstructed view. The driver of V1 did not have a clear view of oncoming traffic but proceeded anyway. The non-contact vehicle (a van) was coded as a sightline restriction. The driver of V2 was a 37-year old male who reported that he had been traveling between 34-48 kmph (21-30 mph) prior to the crash. He saw V1 when it turned in front of him and locked up his brakes in an attempt to avoid a collision. He sustained non-incapacitating injuries from the crash and was transported to a local trauma facility. The Critical Pre-crash Event for the driver of V2 was: other vehicle encroachment from opposite direction over left lane line. The Critical Reason for the Critical Pre-crash Event was not coded to the driver of V2 and he was not thought to have contributed to the crash. He was taking two prescription medications for the treatment of high blood pressure.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

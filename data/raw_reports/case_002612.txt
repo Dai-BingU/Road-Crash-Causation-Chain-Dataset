@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle collision occurred around noon on a four lane northbound divided interstate with a posted speed limit of 97 kmph (60 mph). Lanes three and four are exit lanes divided by a traffic attenuator and guardrail. Lanes one and two are through lanes. It was raining at the time of the crash. The concrete roadway was wet, free of congestion/sight restrictions, and road deficiencies at the time of the collision. The roadway has a minimal positive grade and slight curvature to the right. Vehicle one (V1), a Chrysler Lebaron convertible driven by a 21 year-old male, was traveling northbound in lane four, the exit lane for the Express lanes. He traveled into the gore point between lanes three and four and collided with the traffic attenuator separating the exit lanes. The front of V1 hit the attenuator. V1 rotated counterclockwise and rolled ¼ turn onto its right side. V1 then rolled another ¼ turn onto its roof and slid approximately 15 meters (49 feet) before coming to final rest on its roof facing south in the lane three-exit lane. V1 was towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical event was coded as a driver related factor: sleeping that is, actually asleep. At the time of the crash the driver indicated he had driven 290 kilometers (180 miles) and was coming from a relative 's residence from out of state and was on his way to work. He had concerns with his family and was upset when the trip started. He said he fell asleep prior to the collision.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Performance, Driver Stress/Emotion, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

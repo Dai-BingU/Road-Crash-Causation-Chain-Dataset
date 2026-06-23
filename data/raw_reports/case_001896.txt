@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of two one-lane, one-way roadways. The roadway was straight and level, and it was cloudy and raining. It was daylight and the speed limit was 48kmph (30 mph). Vehicle # 1 was a 1992 Dodge Caravan that was traveling northbound and Vehicle # 2 was a 1999 Chevrolet (Geo) Metro traveling eastbound and stopped at the stop sign, and proceeded through. The front of Vehicle # 1 impacted the right side of Vehicle # 2. The Dodge Caravan (Vehicle # 1) was driven by a 68 year-old female who did not sustain any injuries. The Dodge was not towed due to damage. The driver declined to participate in the study. The Critical Pre-crash event for Vehicle # 1 was coded as: Other Vehicle encroaching into lane, from crossing street across path. The Critical Reason for the Critical event was not coded to the driver. Two associated factor coded to the driver was a roadway related factor, wet roads and a weather related factor, cloudy and raining. The Chevrolet (Geo) Metro (Vehicle # 2) was driven by a 90 year-old male who did not sustain any injuries. The driver stated that he was stopped at the intersection when he was impacted on the right side by Vehicle # 1. The Chevrolet was towed due to damage. The Critical Pre-crash event for Vehicle # 1 was coded as: This Vehicle Traveling, crossing over (passing through) intersection. The Critical Reason for the Critical event was coded as a recognition error, inadequate surveillance, which is a driver related error. A roadway related factor, wet roads and a weather related factor, cloudy and raining were associated factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Weather/Environment present problem 
+Vehicle 2:  Driver Inexperience, Roadway, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

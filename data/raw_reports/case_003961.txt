@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of an eight-lane roadway divided by a cement curbed median. There were four eastbound and four westbound lanes. The roadway was straight and level. It was dawn on a weekend, the road was wet and it was clear with no adverse conditions. The speed limit was 48kmph (30mph) and traffic flow was normal. V1, a 1995 Lexus ES300 four door with three occupants, was traveling southbound in lane two. V2, a 2004 Ford Crown Victoria four door with one occupant was traveling eastbound and stopped at the intersection for the traffic control signal. V1 was attempting to pass a Non-contact vehicle in front of him. He changed lanes to the right, and at the same time, the Non-Contact vehicle attempted to change lanes to the right. As V1 attempted to change lanes back to the original lane, the Non-Contact vehicle did the same. Then V1 attempted to change lanes to the right when he lost control and skidded clockwise and the left front wheel contacted the steel curb and then the left front impacted a light pole. V1 continued to skid clockwise and the left side of V1 impacted the front of V2. V1 spun around and the right rear contacted a sign post and then came to a final rest on top of the south/west curb where a fire started in the engine compartment. V1, the Lexus ES300 was driven by a 21 year-old male who reported no injuries. The two passengers sustained minor injuries and were transported to a medical facility. The driver advised that he was on the way to drop off his passengers, traveling approximately 64kmph (40 mph) when he was attempting to pass a slower vehicle in front of him. He advised that he lost control and impacted a light pole and then V2. The Critical Pre-crash Event for V1 was "This vehicle lost control due to, traveling too fast for conditions". The Critical Reason for the Critical event was a driver related factor, incorrect evasive action. An associated factor coded to the driver was an aggressive factor, rapid/frequent lane changing/weaving. Work related stress was also coded as an associated factor. The driver wore contact lenses that corrected a myopic condition with astigmatism. V2, a 2004 Ford Crown Victoria was driven by a 42 year-old male who reported no injuries. He stated that V1 was speeding and lost control, hit the light pole and then hit the front of his vehicle. V2 was not involved in the first harmful event. Therefore, no Critical Pre-Crash Event or Critical Reason was coded to the driver of the Crown Victoria. No associated factors were coded to the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Stress/Emotion, Roadway, Speed/Distance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

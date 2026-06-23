@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash happened in the intersection of a five-lane, two-way roadway, in the interchange area of an expressway. The expressway is north/south and is elevated over the east/west roadway. The entrance and exit ramps join the two roadways on the east and west of the expressway. Traffic at the intersection is controlled by traffic signals, the east/west roadway has a posted speed limit of 80 kmph (50mph). At the time of the crash the roadway was clear and dry, the conditions at the time were cloudy, during daylight hours. V1 a 1996 Ford Windstar minivan was stopped heading east in lane three the left turn lane, trying to turn onto the northbound entrance ramp. The 51 year-old, female driver stated that she was returning home from the grocery store with her niece and son who both live with her. She said that she was stopped at the intersection due to a red light and waited for a few seconds until the light turned green; she said that when the light turned green she proceeded to turn left. She said that she does not know why she didn't wait for eastbound traffic to clear. V2 a 1987 GMC S15 small pick-up truck was westbound in lane two. The 40 year-old, male driver stated that he was returning home from picking up some dinner, when he was stopped at the intersection by a red light. He stated that when the light tuned green he continued west when V1 began to turn. He stated that he noticed V1 at the light before entering the intersection. The driver stated that he slammed on the brakes and steered to the right to try to avoid the crash, but was unable to. The Critical Precrash Event for V1 is “this vehicle turning left at an intersection”. The Critical Reason for the Critical Precrash Event is coded an “internal distraction”. The driver stated that she didn't know why she proceeded to turn left at the intersection when the light turned green. Associated factors for this crash are the driver and passengers talking, the fact that the driver had been awake for less than two hours, and the drivers lack of experience on the roadway. The Critical Precrash Event for V2 is coded “other vehicle encroaching from an opposite direction over the left lane line”. No critical reason is coded this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

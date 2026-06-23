@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a two-way, five-lane, undivided roadway with a two-way left turn lane. There were two northbound lanes and two southbound lanes, separated by the two-way left turn lane. This was a straight, level, bituminous roadway with a posted speed of 56 kmph (35 mph). Conditions were daylight in the early evening of a weekday, with dry roads and clear skies. Traffic flow was normal. V1, a 1984 Chevy S-10 pickup truck with one occupant, was traveling northbound in lane two. V2, a 1995 Toyota Land Cruiser with one occupant, was traveling northbound in front of V1. Traffic in front of V2 suddenly slowed, causing V2 to come to brake abruptly. V1 steered to the left and locked the brakes in an effort to avoid colliding with V2. V1 skidded approximately 10.5 meters (34.5 feet), at which point the front right corner of V1 made contact with the left rear corner of V2. The impact with V2 caused V1 to roll left, one-quarter turn. V1's final rest was at the point of impact. V1, the Chevy S-10, was driven by a 24-year old male who reported minor injuries. He advised that he had just come from an appliance store and was on his way home. He said that he was traveling about 56 kmph (35 mph) when the driver of V2 made a sudden stop. He stated that he tried to avoid hitting her by steering left and locking his brakes. He also indicated that he downshifted his manual transmission in order help slow down his vehicle, but was unable to stop in time. The Critical Precrash Event for V1 was "other motor vehicle in lane, traveling in the same direction while decelerating." The Critical Reason for the Critical Event was a decision error, traveling too close to respond to unexpected actions of other road users. An associated factor may have been aggressive driving. It is thought that the driver may have been speeding and/or tailgating, which posed a potential risk to surrounding traffic. V2, the 1995 Toyota Land Cruiser, was driven by a 47-year old female who reported no injuries. She stated that she was going to the grocery store from her house. She had to slow down suddenly because two vehicles in front of her stopped for unknown reasons. She advised that she saw V1 coming toward her from her rear view mirror, and could hear the sound of screeching tires. She believed that the driver of V1 was speeding. At impact, the driver said she had almost come to a complete stop, and was traveling about 8 kmph (5 mph). The Critical Precrash Event for V2 was "other motor vehicle in lane, traveling in same direction with higher speed." The Critical Reason was not coded to this vehicle. This driver had no associated factors coded for this accident and was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

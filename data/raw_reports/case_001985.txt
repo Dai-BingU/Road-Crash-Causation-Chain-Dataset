@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during early morning hours on a dry, left curve, five-lane, divided, bituminous roadway at a on-colors controlled intersection with pedestrian signals. The road generally runs east/west; however, at this point it runs northeast/southwest. Westbound traffic consists of a right turn lane, a painted median and two through lanes. Southbound traffic consists of a right turn lane and two left turn lanes. The speed limit for east/west traffic is 89 kmph (55 mph) and there were no adverse atmospheric conditions present. Vehicle one, a 1993 Ford Probe GT coupe, driven by a 18 year-old male was traveling westbound in lane three, the outside through lane. Vehicle two, a 1998 Chevrolet Cavalier sedan, driven by a 62 year-old female was traveling southbound in lane two, the outside turn lane. Both vehicles entered the intersection, vehicle one intending to go straight and vehicle two intending to turn left. The front of vehicle one contacted the left side of vehicle two. Vehicle one rotated counterclockwise and vehicle two rotated clockwise. The two vehicles side slapped, the right side of vehicle one contacting the left side of vehicle two. Vehicle one continued counterclockwise coming to rest facing northeast in lane two of eastbound traffic. Vehicle two continued rotating clockwise. It came to rest facing south partially in lane one and the paved shoulder of eastbound traffic. Both vehicles were towed from the scene. The critical pre-crash event for vehicle one was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inattention. Associative factors for the driver of vehicle one: fatigue, unemployment. The critical pre-crash event for vehicle two was coded: this vehicle traveling, turning left at intersection. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Physical, Driver Stress/Emotion, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

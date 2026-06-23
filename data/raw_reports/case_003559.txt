@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the afternoon of a weekday on a seven-lane undivided roadway near an intersecting side street. The main thoroughfare consisted of three northbound lanes, three southbound lanes and a middle left-turn lane for both directions. The bituminous roadway was straight, flat, and had a posted speed limit of 56 kmph (35 mph). The weather conditions were clear, dry and daylight. V1, a 1999 Ford Explorer utility vehicle with two occupants, was southbound in lane three intending to go straight. V2, a 1994 Toyota Camry with one occupant, was northbound in the lane three intending to turn left at an approaching side street. As both vehicles approached each other, V2 entered the left turn lane and turned into the left side of V1 (event #1). V1 rotated counterclockwise and rolled two-quarter times, coming to final rest on its roof. V2 was driven from the scene but V1 was towed due to damage. EMS arrived on the scene but all occupants refused treatment. The driver of V1 was a 20-year-old male who was driving straight when V2 turned into his truck. This driver does not have a driver's license and did not have driver training. The interviewee did not speak English so the survey was completed with the help of a translator. The Critical Pre-crash Event for V1 was coded other vehicle encroachment from opposite direction - over left lane line. The Critical Reason was not coded to this vehicle. No associated factors were coded to the driver. The driver was a 42-year-old female who was driving to a restaurant during her lunch break when she was involved in this crash. She said she was following a vehicle ahead of her and when she turned left she crashed into V1. The Critical Pre-crash Event for V2 was coded this vehicle turning left at intersection. The Critical Reason for the Critical Event was coded inadequate surveillance (failed to look before turning). No additional associated factors were coded to the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

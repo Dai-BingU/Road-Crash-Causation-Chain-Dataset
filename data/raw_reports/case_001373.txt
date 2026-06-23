@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a twelve-lane interstate divided by a concrete barrier wall. There were seven southbound lanes and five northbound lanes. This was a straight, level, bituminous roadway with a posted speed of 105 kmph (65 mph). Conditions were daylight on a weekday afternoon with dry roads and clear skies. Traffic flow was normal. V1, a 1997 Chevy C2500 pickup truck with one occupant, was traveling northbound in lane six. The right rear tire tread separated from the tire. The driver of V1 put on his left turn signal with the intention of pulling over to change the tire. Then the right rear tire blew out. The driver lost control of V1, as the pickup began to rotate counterclockwise. The vehicle rolled one time (four quarter turns), making contact with a concrete barrier wall in the process. During the rollover, the driver was ejected. V1 came to final rest upright, facing east. V1 was driven by a 34-year old male who was transported to the hospital with incapacitating injuries. The driver could not recall the accident due to his injuries. The father of the driver was on scene shortly after the crash, and spoke with witnesses. According to the driver's father, the driver of V1 was coming from the office to a work site. The right rear tire tread separated from the tire, followed shortly thereafter by a right rear tire blowout, causing the driver to lose control. The driver indicated that he had changed the right rear tire a week earlier due to a flat, and that he used the spare from under the truck as a replacement. He stated that he did not think that the replacement tire was the original spare from 1997, although he couldn't be sure because he purchased the vehicle used two years ago. The Critical Pre-crash Event for V1 was "this vehicle control loss due to blow out/flat tire." The Critical Reason for the Critical Event was a vehicle related tire/wheel failure. First, the tread separated from the tire. Then the tire blew out, contributing to the driver's loss of control. One associated factor for this driver was an additional vehicle condition related factor. Specifically, a suspension deficiency was a factor in the crash. The driver had recently added coil-over shock absorbers to his work truck in order to make the vehicle ride smoother. Coil-over springs are not designed for work vehicles that carry cargo. Although this type of shock absorber is capable of handling heavy loads, it makes the vehicle much more unstable in an event such as a tire blowout. Other associated factors could not be determined due to the driver's lack of recollection of the crash events.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Blow out/flat tire, (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Tires/wheels failed

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred during the late evening hours on a weekend night at a rural intersection of two undivided two-lane bituminous roads. The conditions were clear and dry on the summer evening. The unlighted intersection was controlled by 4-way stop signs and flashing red beacons. V1, a 2003 Chrysler Voyager minivan, was traveling eastbound on a straight, level road that had no posted speed (by default, 89 kmph/55 mph). The van was observed by a witness as traveling around 45 mph, flashing its high beam lights and not slowing at all prior to traveling into the intersection without stopping at the stop sign. V1 was driven by a 35-year old male. V2, a 2003 Ford F-150 pick-up truck, was northbound on the straight and level, intersecting road. The driver of V2, a 56-year old male, stopped at the stop sign, and then proceeded into the intersection to turn left, assuming V1 would stop at its stop sign. The front of V2 struck the right front of V1. V1 rotated clockwise and left the roadway on the northeast corner. The left side passenger area of V1 struck a stop sign and V1 continued to rotate clockwise, continuing off of the road backwards, coming to rest against a group of pine trees in the front lawn of his home facing southwest. The driver was transported from the scene due to injuries to a local trauma center, where a blood alcohol test was obtained. V1 was towed from the scene due to damage. V2 rotated clockwise following the impact and came to rest in the eastbound lane of the east leg of the intersection facing northwest. The fully restrained driver of V2 was transported from the scene due to injuries to a local trauma center. V2 was towed from the scene due to front damage. The Critical Pre-crash Event coded to the driver of V1 was "this vehicle traveling crossing over (passing through) intersection." The Critical Reason for the Critical Event was coded as an illegal maneuver. A strong associated factor was the use of alcohol: the driver of V1 was found to have a blood alcohol level of .205. Additional associated factors coded to the driver of V1 included a pre-existing medical condition of post-traumatic stress disorder, for which he takes an unspecified antidepressant and an anticonvulsant, and aggressive driving. As per the witness statement, the driver of V1 went through the stop sign while flashing his high beams. The Critical Pre-crash Event coded to the driver of V2 was "other motor vehicle encroachment from crossing street across path." The Critical Reason was not coded to V2. One associated factor coded to the driver of V2 was a false assumption of other road user's actions. As per his interview, he stated: "I must have seen headlights down the road and thought the car would stop at his stop sign, so I pulled into the intersection to turn left."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Alcohol, Decision, Driver Stress/Emotion, Drugs present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred on a five-lane divided (with a positive barrier) straight highway. The weather was clear and the roads dry. The posted speed limit for the roadway was 105 kmph (65 mph). The highway's surface was partially repaved. Lanes one to three consisted of traveled asphalt, while lanes four and five consisted of new asphalt. The area located south of the roadway was a 25 % uphill embankment. Vehicle one, a 2001 Ford Explorer Sport Trac was eastbound in the fourth lane. The left rear tire of vehicle one, a Bridgestone Dueler, had a complete tread separation. Vehicle one veered to the right and departed all three lanes of travel and left the roadway. The vehicle started to roll over its left side. The vehicle came to rest after an unknown number of quarter turns, 35-meters (115-feet) from the start of the roll over. The right front wheel of the vehicle was separated at an unknown point during the crash event. The vehicle was towed from the scene. The driver of vehicle one, a thirty-three year old female, was heading back to work after lunch. This driver had been driving for about one half hour at the time of the crash. This driver indicated that the control loss occurred just as she was about to change lanes to the right to get over for an upcoming exit. This driver drives this vehicle daily and over this road on a daily basis. The vehicle inspection revealed that the remaining tires on this vehicle both had very low tread depth. The critical per-crash event was coded: this vehicle control loss due to; disabling vehicle failure (specified as: the left rear tire suffered a tread separation. The critical reason for the critical pre-crash event for vehicle one was coded as a vehicle related factor: tires/wheels failed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Disabling vehicle failure (e.g,  wheel fell off) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Tires/wheels failed

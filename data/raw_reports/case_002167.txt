@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of weekday in the northbound lanes of a divided high-speed interstate highway. The north/south highway consisted of two lanes in each direction divided by a grassy median. The bituminous highway was dry, straight, and level with a posted speed limit of 105 kmph (65 mph). There were no adverse atmospheric conditions but the roadway was dark and unlit. Vehicle 1 (V1), a 2005 Freightliner box truck, was northbound in lane one of the highway. Vehicle 2 (V2), a1992 Hyundai Excel, was also northbound in lane one ahead of V1. As V2 continued north, two mattress strapped to it roof began to come lose and slide backwards obstructing its taillights. The driver of V1 braked and came to a stop in the traffic lane shortly before it was rear-ended by the front of V1. V1 came to final rest facing north on the east shoulder. V2 came to final rest in the median next to a guardrail facing north. Both vehicles were towed due to damage. The driver of V1, an unbelted 46-year-old male was not injured, but was very shaken up. He claimed this was his very first accident. He stated he was waiting for traffic in lane two to pass so he could pass V2. He did not see any brake or signal lights on V2 and did not realize it had stopped until it was too late. He stated he was traveling about 113 kmph (70 mph) when the crash occurred. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Event was coded as traveling too fast to respond to unexpected actions of others (vehicle stopping in lane). Associated factors include a false assumption (assumed that other driver would continue to proceed) as well as the dark, unlit roads. The driver of V2, a belted 54-year-old male was transported to an area trauma center with a head injury. Unsecured cargo in the rear of the vehicle, a shelving board, impacted with the back of the drivers head. This driver could not be reached for an interview. The driver of V2 was issued a summons for obstructed taillights. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors include a decision error (stopped when not required), improperly secured cargo, as well as the unlit roads.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance present problem 
+Vehicle 2:  Cargo Shift, Decision, Drugs, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

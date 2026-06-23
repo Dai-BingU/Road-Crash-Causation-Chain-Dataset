@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred a little past noon during daylight hours, on a seven lane divided concrete roadway with a +1% slope roadway was wet from earlier rain. Traffic flow controlled by on-colors traffic signal. Posted speed limit 56 kmph (35 mph). Vehicle one (V1), a 1995 Mitsubishi Galant 4-door sedan, driven by a 16 year-old male with one passenger was traveling north in lane two. Vehicle two (V2) was a 2001 Dodge Ram 4X4 pickup driven by a 41 year-old male with one passenger, which was stopped in lane three. Vehicle three (V3) was a 2003 Jeep Liberty SUV driven by a 30 year-old female, which was also stopped in lane three. V1 while passing a large slow moving truck in lane 3. the passenger informed driver that he needed to merge left due to the lane being closed beyond the intersection. As driver change lanes to lane two the front of V1 struck the rear of V2 causing V2's front to strike the rear of V3. All three vehicles came to final rest facing north in lane three. V1 was towed from the scene, V2 and V3 were driven from scene. Associative factors assigned to V1 driver are as follows: the driver was inexperience and had a physical impairment (cerebral palsy) along with wet roadway and upcoming closed lanes all contributed to collision. Driver has only one year of driving experience and has general motor skills impairment caused by physical impairment (cerebral palsy). The latter two factors led to driver to not being able to properly control vehicle with ordinary skill expected (performance error). The critical pre-crash event for V1 was coded: this vehicle traveling, over the lane line on left side of travel lane. The critical reason for the critical event was coded to V1 as a driver related factor: poor directional control. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason not coded to this vehicle. V3 was not involved in first harmful event. The critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Driver Physical, Drugs, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Distraction, Drugs, Traffic, Weather/Environment present problem 
+Vehicle 3:  Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

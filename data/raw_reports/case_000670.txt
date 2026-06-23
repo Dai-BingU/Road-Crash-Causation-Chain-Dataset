@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred just after noon on a holiday in the middle of an intersection between the westbound lanes of a divided city street and a mall entrance road. The east/west roadway is bituminous, dry, and straight, with a posted speed limit of 72kmph (45 mph.). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1998 Pontiac Grand Am, was stopped facing south on the mall road waiting for traffic to clear so it could turn left onto the roadway. V2, a 1999 Ford Escort LX, was westbound in lane two approaching the intersection where it intended to go straight. V1 entered the roadway and slowly began to turn left when it was struck on the left side by the front of V2. Both vehicles came to final rest near the point of impact in the middle of the intersection. V1 was driven from the scene and V2 was towed due to damage. V1 was driven by a 66-year-old male who, along with his wife, was on his way home after shopping at the mall. He stated that he stopped at an uncontrolled intersection and waited for traffic to clear so he could make a left turn. As this driver waited for traffic to clear, he looked left (east) and saw three vehicles slowing to turn right (north) into the service road he was stopped at. He slowly entered the roadway and looked right (west) to make sure there were no vehicles coming from that direction. He and his wife were discussing the traffic clearance when suddenly a vehicle struck his car in the driver's side door. This driver said he never saw the vehicle that struck him before the crash and thinks it must have been speeding. Nobody in his car was injured and he was able to drive home from the scene. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was coded as an environmental factor, view obstructed by other vehicles, as several vehicles were turning into the service drive obstructing the view of V2. An associated factor coded to this driver was inattention as he was conversing with his passenger. V2 was driven by a 39-year-old male who was driving to friend's house at the time of the crash. This driver said he was driving straight ahead when V1 suddenly pulled in front of him. He did not have a chance to react and struck the left side of V1. This driver was transported to a local hospital for minor injuries. The Critical Precrash Event for V2 was coded other vehicle encroaching from crossing street, turning into opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. An associated factor coded to this driver is a sightline restriction view obstructed by other vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- View obstructed by other vehicles
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

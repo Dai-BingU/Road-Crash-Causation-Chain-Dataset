@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on an undivided east/west roadway that had one lane in each direction plus a left-turn only lane in the eastbound direction. This was a straight, level bituminous roadway with a posted speed of 56 kmph (35 mph). It was early evening on a weekday (still daylight) and the roadway was dry and the skies were clear. The traffic flow was congested, with stop-and-go activity. Vehicle one (V1), 1999 Pontiac Bonneville four-door sedan with one occupant, was traveling eastbound, approaching an intersection with a driveway of a fast food establishment. Vehicle two (V2), a Volkswagen Jetta four-door sedan with two occupants, was traveling westbound approaching the same intersection. V1 pulled into the left turn-only lane and stopped, waiting for oncoming traffic to clear so that the driver could make a left turn. A non-contact minivan driver stopped in the opposing lane waved the driver of V1 on to make the left turn. V1 cleared the front of the minivan and was entering the driveway when the right rear of V1 was struck by the front right of V2. The driver of V2 had passed stopped non-contact vehicles in his lane on the right in order to continue on. After impact, V1 rotated slightly clockwise before coming to an uncontrolled final rest facing north, partially blocking the roadway and driveway. V2 came to an uncontrolled final rest in the westbound lane facing westbound. V1 was towed from the scene due to crash damage. V2 was drivable and was driven from the scene by driver #2. Vehicle one was driven by a 46-year old male who reported no injuries. He stated that he made the left turn because he observed stopped traffic and an unidentified driver of a minivan waved him on. Driver #1 claimed the driver of V2 was passing the stopped traffic on the right side and contacted his passenger side rear tire. The Critical Pre-crash Event for V1 was "This vehicle traveling-turning left at intersection." The Critical Reason for Critical Event was an "other" decision error - turned with obstructed view. The driver of V1 chose to believe that the way was clear because the driver of the non-contact minivan waved him on. He could not see around the stopped vehicles in the opposing lane, and yet he made the decision to turn anyway. A sightline restriction caused by the non-contact vehicles was coded as an associated factor. Vehicle two was driven by an 18-year old male who reported no injuries. The right front passenger sustained a possible broken nose. He stated he was traveling west when he observed V1 pulling into his immediate travel path. Driver #2 advised he contacted V1's rear tire with the front of his vehicle. The Critical Pre-crash Event for V2 was "other vehicle encroachment from opposite direction - over left lane line." The Critical Reason was not coded to V2; however, several associated factors were coded to its driver. The driver of V2 made the decision to pass the stopped non-contact vehicles in front of him on the right. Had he stopped behind those vehicles, the crash could have been averted. The driver of V2 was conversing with his passenger at the time of the crash, and his sightline was blocked by the non-contact vehicles. Driver inexperience was also coded as an associated factor.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

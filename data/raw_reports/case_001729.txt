@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of a weekday in the middle of an urban intersection. The intersection consisted of a northbound one-lane one-way roadway and a westbound one-lane, one-way roadway controlled by a properly functioning traffic signal. All the roadways were bituminous, dry, straight, and level with a posted speed limit of 48kmph (30 mph). It was daylight and clear with no adverse atmospheric conditions at the time of the crash. V1, a 2006 Chrysler 300C, was northbound approaching the intersection, where it intended to go straight. V2, a 2003 Seagrave Fire-truck, was westbound with its emergency lights and sirens on approaching the same intersection where it also intended to go straight. As V2 crossed through the intersection it was struck on the left side by the front of V1. V1 came to a final rest in the intersection near the point of impact while V2 came to a controlled stop just west of the intersection. V1 was driven by a 76 year-old male who was going to work. The driver wore prescription eyeglasses that corrected a myopic and hyperopic condition (Bifocals), and was taking a prescribed medication for high blood pressure. He said and was traveling approximately 32-40kmph (20-25 mph) with the green light. He stated that he did not hear the sirens until he was in the intersection, and he did not attempt any avoidance maneuvers. The driver was uninjured but V1 was towed due to damage. The Critical Precrash event for V1 was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical event was coded as a driver related factor, inadequate surveillance. In addition to the inadequate surveillance a traffic flow interruption factor (an Emergency vehicle approaching) and a sightline restriction caused by a building were coded as associated factors. V2 was driven by a 35 year-old male who was responding to a fire with the lights and sirens. He stated that he performed a rolling stop at the intersection when he was impacted at the left/rear wheel as he passed through. Neither the driver nor the four other occupants of V2 were injured and it was driven from the scene. The Critical Precrash event for V1 was coded as other vehicle encroachment, from crossing street, across path. The Critical Reason for the Critical event was not coded to this vehicle. An associated factor coded to the driver was inadequate surveillance because he looked but did not see V1. The driver was also in a hurry as he was responding to a fire alarm. A sightline restriction caused by a building was coded as a roadway related factor.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Roadway, Surveillance, Traffic, Vision present problem 
+Vehicle 2:  Driver Stress/Emotion, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

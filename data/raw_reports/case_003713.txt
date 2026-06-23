@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary Case 2007-43-113 This single-vehicle crash occurred in the early evening of a weekday on a two-lane rural roadway. The roadway runs north and south with a posted speed limit of 72 kmph (45 mph) and is curved to the left at the location of this crash. The weather conditions were clear, dry, and daylight. V1, a 1998 Buick LeSabre with one occupant, was southbound approaching a curve to the left when an unknown northbound vehicle crossed the double yellow line and entered V1's lane. V1's driver swerved to the right, departed the right side of the road and struck a large tree (100 cm in diameter) with its front end. V1 spun clockwise after striking the tree and ejected its driver as it came to rest against a utility pole, facing east. The driver died at the scene and the Buick was towed due to damage. The driver of V1 is a 44-year-old male that worked on an assembly line for a cereal and convenience foods company and had recently moved to the area from Virginia. He did not work this week because of the holiday break and was returning home from a friend's house this evening when he died in this crash. The driver's father described the crash exactly as it was written on the crash report, which is that, an unknown vehicle traveling in the opposite direction forced his son off the road and into a tree. A brief discussion on-scene with a witness supports the police narrative that a northbound "blue car" entered the southbound lane before V1 crashed. The Critical Precrash event coded to this vehicle was traveling off the edge of the road on the right side. The Critical Reason was coded as inadequate evasive action. An associated factor coded to this driver was alcohol consumption (BAC of 0.230).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate evasive action, e.g. braking only, not braking and steering

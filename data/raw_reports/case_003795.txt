@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of an east/west barrier divided urban interstate. It had three lanes, shoulders and emergency lanes in each direction divided by a concrete barrier wall. The area is inside an interchange and impact was just before the gore where an entrance ramp lane makes the interstate four lanes westbound. The interstate curves slightly to the left (south) for westbound travelers with a radius of curvature of 803m and a superelevation of 4%. Conditions were daylight and wet on a weekday afternoon with heavy rain falling. The posted speed limit was 55mph (89kmph). Vehicle #1 was a 2003 Pontiac Vibe traveling westbound in the far left lane. As the vehicle negotiated the curve left the driver lost control on the wet roadway. It began to slide towards the right and the driver steered left in an attempt to avoid striking a tractor-trailer that was just ahead in the center lane. The driver overcorrected and crossed the emergency lane and struck the concrete barrier wall with its front left corner. A secondary collision followed with the left back of the vehicle contacting the wall. The vehicle came to rest on the right (north) shoulder several meters west of impact. It was towed due to damage. Vehicle #1 was driven by a 25-year-old female. She was belted with no deployed airbags and was not injured in the crash. At the time of the collision she was 2½ into a 5-hour trip and it was her first time on the roadway. She estimated her speed to be 65mph (105kmph). The Critical Precrash Event for Vehicle #1 was this vehicle traveling off the edge of the road on the left side. The Critical Reason for the Critical Event was a decision error, too fast for conditions. Some associated factors included a performance error, overcompensation. She also admitted she was in a hurry to get to her destination by a certain time to avoid rush hour traffic. Highway and weather factors were coded, the road was wet and it was raining. An experience factor was also included; it was her first time on the road. She also wore glasses for a near sighted condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Stress/Emotion, Drugs, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :

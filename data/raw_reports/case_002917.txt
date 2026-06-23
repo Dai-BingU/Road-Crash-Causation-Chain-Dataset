@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This four-vehicle chain reaction crash occurred on a two-way, three-lane roadway. The middle lane acts as a common turning lane for both directions. The posted speed limit on the roadway was 64kph (40mph). There were no adverse atmospheric conditions at the time of the incident, although it was slightly cloudy. The gradient for all vehicles involved was determined to be level. Vehicle one (V1), a 2000 Mercury Grand Marquis, was traveling in the south bound lane, at approximately 48kph (30mph), intending to continue straight on the roadway. Vehicle two (V2) was a 1990 Honda Civic, which was stopped in the roadway for a traffic light at the intersection ahead. Vehicle three (V3) was a 2003 Acura TL, which was also stopped in the roadway in front of V2. Vehicle four (V4), a 2000 Chevy Cavalier was stopped in front of V3 on the roadway. The front of V1 made contact with the back of V2 which then in turn, contacted the back of V3 which ultimately contacted the back of V4. V1 continued forward a bit before coming to final rest. All the other vehicles also continued forward as a result of the crash before coming to final rest. The driver of V1 did not suffer any injuries from the crash. Although he was on scene, he did not want to answer any questions at that time. He said I could call later, however he never returned any of my calls. For this reason, an interview could not be obtained. Through information contained in the Police Accident Report (PAR), as well as conversation I overheard while on scene, the driver of V1 apparently looked away from the roadway at a piece of paper he had in the vehicle. By the time he focused his attention back on the roadway, he realized the crash was imminent. He applied the brakes, unfortunately this was not enough to prevent the crash from occurring. The vehicle was towed from the scene as a result of damage. The Critical Precrash Event for this vehicle was coded as other motor vehicle stopped in lane. The Critical Reason for the Critical Precrash Event was coded as internal distraction. The driver of V2 had minor injuries, but did not require transportation to a hospital. Through the interview obtained from this driver, no other additional factors seemed to have played a role in this crash. Both fatigue and emotional levels appeared to be normal. He was not taking any medication, prescription or otherwise, on the day of or in the days preceding the incident. The driver stated that he was talking to a passenger, however this was not considered a cause, as the driver was already stopped in the roadway. It is the opinion of the researcher, that there was nothing this driver could have done to prevent the crash. The vehicle itself was towed from the scene as a result of damage. The Critical Precrash Event coded to this vehicle was other motor vehicle in lane, traveling in same lane while deceleration. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. The driver of V3 did not suffer any injuries as a result of the crash. Seeing as this vehicle did not have to be towed from the scene, the driver of V3 left shortly after my arrival. Numerous attempts to contact the driver were unsuccessful. This vehicle, which was also stopped, had no chance of avoiding the collision. The Critical Precrash Event coded not involved in first harmful event. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. The driver of V4 also came away unscathed from the crash. A vehicle inspection as well as an interview was not required for this vehicle. Even so, no critical conditions were attributed to this vehicle. There was nothing that could have been done to prevent this vehicle from being hit.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

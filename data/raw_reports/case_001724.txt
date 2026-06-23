@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash took place in the southbound lanes of a four lane divided roadway with a grass median. There were two southbound lanes and two turn lanes, the left turn lane beginning 85 meters back from a traffic signal-controlled intersection. Conditions were daylight and dry with overcast skies in the early afternoon on a weekday. The roadway had a posted speed limit of 80 kpmh (50 mph). V2, a 1993 Oldsmobile Cutlass Ciera, was stopped for the traffic control signal in lane two behind a late model SUV. V1, a 1997 Dodge Ram Van was traveling south in lane 2 alongside another vehicle in the adjacent lane 1, both approaching the intersection. V1 was distracted by the driver of the vehicle in lane 1 and was not able to stop before making contact to the rear of V2. V1 was driven by a 53 year-old male who was not injured. The driver refused to be interviewed. The policeman at the scene stated that the driver of V1 was distracted by the driver of the vehicle in lane one and was tracking her via the right front window. V1's driver did not return his attention to V2 or the traffic ahead in time to stop. The Critical Precrash Event for V1 is the other motor vehicle in lane stopped. The Critical Reason for the Critical Precrash Event is recognition error, external distraction. V2 was driven by a 20 year-old male who was not injured. He had stated that he had come to a complete stop behind the SUV, and was watching the cross traffic pass through the intersection for 3-4 seconds before being struck. V2 was towed due to damage. The Critical Precrash Event for V2 is the other motor vehicle in lane traveling in same direction while decelerating. There is no Critical Reason coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

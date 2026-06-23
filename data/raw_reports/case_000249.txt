@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred a few hours before noon in daylight hours in the westbound lanes of a six lane raised median divided roadway. The bituminous roadway was dry and level. There is a curve right at the area of the crash, and the third westbound lane tapers to an end, indicated by warning signs and yellow lane markings. It was a weekday and traffic was light. Posted speed limit 72 kmph (45 mph). Vehicle one (V1), a 2004 International 9400 Tractor pulling one trailer driven by a 54 year-old male, was traveling westbound in the third lane. As V1 approached the lines marking the end of the third lane it began to change lanes to the right. Vehicle two (V2) a 1998 Dodge Dakota pickup driven by a 58 year-old male with two passengers, was westbound in the second lane, overtaking and then passing V1 on the right. As V1 changed lanes to the right it struck the left rear of V2 with it's right front. This caused V2 to begin a counterclockwise rotation and yaw across the roadway to the left, crossing the third lane in front of V1 and striking the raised center median. V2 crossed the center median and came to final rest facing south-east across the first and second eastbound lanes. V1 came to a controlled final rest in the third, closed westbound lane. V2 was towed from the scene. The driver of V1 had left a fuel stop about a half hour prior to the crash, and was advised to detour onto this roadway in order to avoid highway congestion. He was unfamiliar with this roadway, but was informed that he would have to make a left turn to re-enter the highway further on. Driver stated that when he saw the "Left Lane Ends" warning signs he checked his mirrors on the right and then began to move right. The driver stated that he never saw the pickup truck. The driver of V2 stated that he was westbound in the second lane, approaching and then passing V 1 on the right. He stated that he was aware that V1 was to his left, but he thought that V1 would merge over after he had passed it. The critical pre-crash event for V was coded: this vehicle traveling, over the lane line on right side of travel lane. The critical reason for the critical pre-crash event was coded as a driver related factor: Inadequate surveillance (e.g., failed to look, looked but didn't see). An associated factor was the unfamiliarity of the driver with this roadway. There may have been an associated factor with a vision obstruction related to the vehicle design. It appears V2 may have been near V1's "No Zone" (e.g., in a blind spot). The critical pre-crash event for V2 was coded: other vehicle encroachment; from adjacent lane (same direction) over left lane line. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Physical, Drugs, Surveillance, Vehicle present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

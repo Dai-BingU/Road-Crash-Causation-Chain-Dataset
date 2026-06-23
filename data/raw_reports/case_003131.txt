@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred at a four-leg intersection where traffic is controlled by traffic signals. The east/west road is divided with four westbound lanes that includes a left turn lane. It is straight with a 2.5 % upgrade prior to the intersection. The road surface is concrete. The north/south road is divided with two thru lanes and a left turn lane for northbound traffic. The right turn lane was under construction and blocked from traffic. The road is straight with a 4.9% upgrade. The road surface is also concrete. Both roadways are divided by a curbed median. The speed limit is 54 kph (35 mph) for both roadways. The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. It was early morning on a weekday and there was normal traffic on the roadways. Vehicle one (V1), a 1995 Chevrolet Blazer with one occupant was traveling west in the second lane of traffic approaching the intersection of both roadways. Vehicle two (V2), a 1997 Ford Crown Victoria with one occupant, was traveling north in the first lane. Vehicle three (V3), a 1994 Mack 600 series single unit truck, loaded with a container, was traveling north in lane three. At the intersection, the front of V1 impacted the right side of V2. V1 rotated clockwise, the left rear corner impacted the right side of V3. V1 continued to rotate clockwise while moving off the road to the northeast corner of the intersection. The front left corner of V1 impacted the pole of a traffic light while the front right corner struck a utility pole. The vehicle came to rest between the poles, facing northeast. After the first event V2 rotated clockwise and moved north where it came to rest 22 meters (74 feet) from the north curb of the westbound lanes. V3 continued northbound until the driver stopped the truck within a safe area, north of the final rest of V2. Both passenger vehicles were towed from the scene. V3 was driven from the scene. The driver of V2 was briefly treated at the scene. After examining the damage on his vehicle, the driver of V1 left the scene on foot. An unidentified male drove V1, the 1995 Chevrolet Blazer. The driver left the scene shortly after the crash events and was never identified. The critical pre-crash event was coded "other vehicle encroaching into the lane, from crossing street, across path". The critical reason for the critical event was coded "illegal maneuver". This vehicle ran a red light. The exact reason for this illegal maneuver is not known. V2, the 1997 Ford Crown Victoria was driven by a 50-year old female, who reported minor injuries. She stated he was in the first lane, traveling at a normal rate of speed and had a green light. She was on his way to her work site, using the same daily route for 30 years. She said she did not see V1 coming from her right. She was traveling in a work zone at the time. The driver suffers from diabetes and high blood pressure for which she is being treated. She failed to detect V1 approaching from her right. The critical pre crash event was coded "this vehicle traveling-passing through an intersection". No critical reason for the critical event was coded to this vehicle. A 27-year-old male was the driver of V3, the 1994 Mack Truck. He did not speak English and could not be interviewed at the scene. A critical pre-crash event and reason was not coded to this vehicle, because it was not involved in the first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Drugs, Surveillance, Traffic present problem 
+Vehicle 3:  Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

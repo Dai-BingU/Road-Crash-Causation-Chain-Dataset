@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a high volume, high occupancy, high-speed interstate highway that consisted of five lanes northbound and five lanes southbound separated by a concrete wall. The crash occurred in lane two of the northbound lanes. The posted speed was 105 kmph (65 mph) and the roadway where the crash occurred was straight and level. The crash occurred on a weekday afternoon under clear skies. Vehicle #1 was a 1989 Honda Accord that was driven by a 51-year old male who was on his way to a doctor's appointment. He was traveling in lane two going approximately 105 kmph following Vehicle #2, a 1990 Freightliner tractor-trailer. The driver of V1 noticed traffic starting to slow, so he said he thought about changing lanes to either the right or the left. He looked in both directions and when he looked back straight ahead, the 18-wheeler in front of (V2) him had come to a complete stop. He stated that he slammed on the brakes and steered to the left to avoid going under the 18-wheeler. He was unable to avoid contact with V2 because there were cars in both the adjacent lanes. The driver was not injured but his vehicle was towed due to damages. V2 was driven by a 37-year old male who had been traveling approximately 105 kmph in lane two. He stated in his interview that he noticed a large mattress/furniture in his lane. In order for him to avoid making contact with the mattress, he stopped. He said that once he had come to a complete stop, he heard screeching tires and then felt a vehicle make contact with the back of the trailer unit. The truck was not towed due to damages and the driver was not injured. The Critical Pre-crash Event for V1 was other motor vehicle stopped in lane. The Critical Reason for the Critical Pre-crash Event was an external distraction, in that the driver of V1 was looking around him to change lanes and did not notice in time that V2 had stopped. Associated factors coded to this driver include a false assumption of other road user's actions because he assumed that V2 would continue to proceed without stopping and a traffic flow interruption caused by the debris in the roadway. This driver was issued a ticket for failure to use due care. The Critical Pre-crash Event for V2 was other vehicle in lane traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. Associated factors coded to this driver include an exterior factor (the mattress in the road that the driver was looking at) and a traffic flow interruption caused by the debris in the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Traffic present problem 
+Vehicle 2:  Distraction, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

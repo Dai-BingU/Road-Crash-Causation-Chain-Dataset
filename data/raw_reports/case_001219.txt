@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a two-lane roadway with a T-intersection. Conditions were dusk and dry in the evening on a weekend. The northbound lane had a posted speed limit of 40 kmph (25 mph) and the eastbound lane had a posted speed limit of 56 kmph (35 mph). V1 was a 2003 Hyundai Elantra sedan traveling eastbound in the right lane approaching a T-intersection. V2, a 1998 Ford Taurus sedan, was traveling northbound in the right lane approaching a stop sign intending on turning left. V2 stopped at the stop sign, looked in both directions but there was landscaping and a fence obstructing V2's view. V2 then proceeded to turn left and the front of V1 struck the left side of V2 in the intersection., as V1 passed by V2, V2's right front contacted the back of V1. V1 continued on and struck a curb and a tree. V1 came to final rest facing eastbound. V2 continued on and struck a curb and came to final rest facing northwest. V1 was driven by a 61-year-old female who sustained moderate injuries and was transported to a local hospital. She stated that she was traveling eastbound and saw V2 turn in front of her. The driver of V1 braked and swerved left but struck the left side of V2. V1 was towed due to damage. The Critical Precrash Event for V1 was other vehicle encroachment from crossing street turning into opposite direction. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. Associated factors coded to this driver include several physical ailments such as high blood pressure, diabetes and asthma. The driver of V1 also takes several medications for these ailments. The driver is familiar with the roadway. V2 was driven by a 26-year-old female who was not injured. She stated that she stopped at the stop sign, looked in both directions but was unable to see V1 because of a fence and landscaping obstruction. V2 intending on turning left but was struck by V1. V2 was towed due to damage. The Critical Precrash Event for V2 was this vehicle turning left at the intersection. The Critical Reason for the Critical Precrash Event was an environmental related factor; view obstructed by a fence and landscaping. Associated factors coded to this driver was a recognition factor; driver was conversing with the passenger, inadequate surveillance; looked but did not see, the driver being unlicensed. The driver was familiar with the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+Vehicle 2:  Distraction, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Environment Related Factor- Other highway-related condition (specify):

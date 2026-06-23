@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the late morning of a weekday in the middle of a residential intersection. The intersection consisted of a north/south two-lane divided roadway (controlled by a stop sign and served as an entrance into a housing development) and an east/west two-lane undivided roadway (no control devices). Both roadways were dry, straight and level. The speed limit on the east/west roadway was 64kmph (40 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1979 Chevrolet Malibu Classic, was stopped facing north at the stop sign where it intended to turn left. V2, a 1999 Ford Escort was eastbound approaching the intersection where it intended to go straight. As V1 turned left it's front contacted V2's front right corner. After the initial impact V2 was re-directed across the intersection and departed the roadway and struck a tree on the northeast corner of the intersection. V2 came to final rest against the tree facing approximately 14m (46ft.) from the initial point of impact. V1 was moved from final rest before the researcher arrived and was driven from the scene. V2 was towed from the scene. V1 was driven by a 20-year-old belted male who was uninjured in the crash. He was cited by police for driving on an expired license. He was on his way to lunch from a construction jobsite and claimed that the utility pole on the southwest corner obstructed his view enough that he could not see V2. It was only after he entered the intersection that he saw the on-coming vehicle, but could not avoid it. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at an intersection. The Critical Reason was coded as a recognition error, inadequate surveillance (looked but did not see). Associated factors include inattention (the driver had been dealing with some family issues the night before) as well as an internal distraction (he had been adjusting the volume of his radio at the time of the crash). The sightline obstruction posed by the utility pole was also coded as an associated factor. V2 was driven by a 60-year-old belted female who was uninjured in the crash as was the 15-year-old right front female occupant. She was on her way home from having some tests run at a local hospital. The driver was taking thirteen prescription medications including a muscle relaxer and a narcotic painkiller for various conditions. The Critical Precrash Event for V2 was coded other vehicle encroachment from a crossing street turning into the opposite direction. The Critical Reason was not coded to this vehicle. A vision impairment was coded as an associated factor as the driver told the researcher that she is supposed to wear bifocals but was not wearing any corrective lenses at the time of the crash. She was coded with falsely assuming that the other vehicle would yield the right of way.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Driver Stress/Emotion, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Decision, Driver Physical, Drugs, Vision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

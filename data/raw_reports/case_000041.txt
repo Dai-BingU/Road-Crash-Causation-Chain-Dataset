@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred early morning hours on a clear morning. The north south roadway has six lanes and is divided by a grassy median. The east west roadway exits from a neighborhood and enters a shopping center and is controlled with a stop sign, this road is also divided with one lane on each side. Vehicle one, a 2004 Dodge Dakota, was westbound attempting to cross the six-lane roadway and enter the shopping center. Vehicle two, a 1994 Chevrolet S10, was southbound in lane two. Vehicle one crossed to the center median and then pulled across the southbound lanes. Vehicle one was impacted on its right side by vehicle two. Vehicle one rotated clockwise and came to rest in the westbound lane. Vehicle one came to rest in the eastbound lanes. Vehicle two was towed due to damage. The driver of vehicle one, a seventeen-year-old male stated that he had been up for about one-half hour at the time of the crash. This driver was leaving his residence to go to the gas station on the other side of the intersection. This driver is familiar with the intersection. The driver stated that he did not see vehicle two when he went to cross the second half of the intersection. There was no interview with the driver of vehicle two. The critical pre-crash event for vehicle one was coded as “This vehicle traveling: crossing over [passing through] intersection”. Vehicle one's critical pre-crash reason was coded “Driver related factor: inadequate surveillance (looked but did not see)”. The critical pre-crash event for vehicle two was coded as “Other vehicle encroachment: from crossing street: across path”. The critical reason for the critical pre-crash event for vehicle two was coded as “not coded to this vehicle”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

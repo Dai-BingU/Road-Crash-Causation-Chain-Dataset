@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the late morning hours on a weekday on an undivided asphalt roadway that was straight and level. There were two lanes northbound and two lanes southbound. The weather was clear and the roadway was dry. The speed was posted at 72 kmph (45 mph). The crash occurred as Vehicle #1, a 1997 Pontiac Bonneville sedan, contacted the rear of Vehicle #2, a 2003 Chevrolet G1500 express cargo van. V1 was traveling south in lane #2, coming up behind V2, which was traveling at a much slower speed. V1 was not able to decelerate in time to avoid striking the rear of the slower V2. Both drivers received injuries from the crash but refused EMS transport. Both vehicles were towed due to damage. The driver of V1 was a 22-year old female who reported being in good health despite six previous back surgeries. She denied taking any medications. She also stated she did not wear corrective lenses. She stated that she had received a call from her doctor earlier that morning stating that a surgery she had scheduled had been bumped up to the next morning. Her boss had given her the rest of the day off to get things in order. She stated that as she traveled south in lane #2 she thought she saw brake lights then no brake lights on the vehicle ahead of her. She stated that it was like the vehicle missed its turn and it could not turn into the next driveway because it was chained off. She then stated that when she realized the vehicle was not moving very fast it was too late to stop and she contacted the rear of the vehicle. Vehicle 2 was driven by a 69-year old female who stated she was in fair health. She also stated that she was taking medication for diabetes and high cholesterol. She stated that she wore corrective lenses for farsightedness. She stated that she was traveling south in lane #2 taking her husband and herself to the doctor's. She also stated that she knew they were going to be early for their appointment so she was in no hurry to get there. She stated she did not realize that the vehicle behind her was there. When asked if she was intending to turn she stated, "No, I was traveling south and was not going to turn. I just realized we were going to be early for our appointment and did not want to sit in the office for a long time." The Critical Pre-crash Event for V1 was coded: other vehicle in lane -traveling in same direction with lower speed. The Critical reason for the critical event was coded: driver related factor - decision error - misjudgment of gap or speed of other vehicle. Associated factors coded to this driver include her previous back problems and inattention, as she was thinking about her upcoming surgery the next day and wanting to get things in order. The Critical Pre-crash Event for V2 was coded: other motor vehicle in lane- traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors coded to this driver include the use of prescription medications to control diabetes and high cholesterol, conversation with her passenger, and the fact that the driver was traveling much slower than the speed limit and was causing a traffic hazard in the roadway. The vehicle's EDR revealed that within 5 seconds of impact, V2 was traveling between 9 and 11 mph on this 45 mph roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical present problem 
+Vehicle 2:  Decision, Distraction, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

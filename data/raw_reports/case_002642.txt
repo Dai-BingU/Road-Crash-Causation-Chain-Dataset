@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a city street on an early weekday morning during the to work commute. The speed was posted at 40 kmph (25 mph). The roadway was straight, level Asphalt. The roadway had three lanes of travel. One lane in each direction with a left turn lane in the center. As Vehicle #1 a 2004 Saturn Ion was traveling east on the roadway. Vehicle #2 a 2004 Dodge Neon was also traveling east on the roadway in front of Vehicle #1. The driver of Vehicle #1 stated that she blacked out, however there were skid marks showing that Vehicle #1 was trying to brake before Vehicle #1's front contacted Vehicle #2's back. Vehicle #2 traveled on for about another 75ft. to final rest facing east in lane one. Vehicle #1' final rest was facing east in lane one at the point of impact. The driver of Vehicle #1 came to from the impact and the airbags being deployed. The driver of Vehicle #1 refused transportation to the local E.R. The driver of Vehicle #2 was checked at the scene and released. Vehicle #2 was drivable. Vehicle #1 was towed due to damage. Vehicle #1 a 2004 Saturn ION was driven by a 67 year-old female. She stated she is in good health but is being treated by medication for diabetes and high blood presser. The driver stated that she drives down this road because the trees seem to keep the sun glare down. As she drove along she felt faint and dizzy the next thing she knew, she hit the back end of Vehicle #2. She believes that she blacked out because of her high blood presser medication. She stated that she refused to be transported because she had a Doctor appointment later that morning. (She was taken to the E.R. within the hour after the crash). This driver wears corrective lenses for near sightedness. The Critical Pre-crash Event for V#1 was coded: "other motor vehicle in lane traveling in same direction with lower steady speed." The Critical Reason for the Critical Pre-crash Event was coded: "driver related factor inattention." The associated factors was the medication that she was taking for high blood presser medication was new. The driver stated her blood sugar test the morning of the crash was read at a good level. Vehicle #2 2004 Dodge Neon was driven by a 36 year-old female that stated she is in good health and is taking no medications at this time. She did state she wears corrective lenses for far sightedness. She stated that several hundred feet back up the road as she left the traffic light she looked in her mirror and there was no vehicle in the lane behind her. She stated then there was a quick push. She stated she was traveling at a steady speed. The Critical Pre-crash Event for V#2 was coded: "other motor vehicle in lane traveling in same direction with higher speed." The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. There were no associated factors to this vehicle. This driver seemed to have been attentive she had previously checked her rear view mirror.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

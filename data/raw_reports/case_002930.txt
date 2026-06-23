@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three vehicle crash occurred just past noon during daylight hours on a 3-lane, divided, and dry bituminous roadway with a negative 4% grade. The weather was clear, and the posted speed limit is 72 kmph (45 mph). Vehicle two (V2), a 2002 black Mitsubishi Eclipse 2 door driven by a 26 year-old male with one passenger, was traveling south and stopped for traffic on the same roadway as vehicle one (V1). V1 was a 2002 Pontiac Grand Am sedan driven by a 19 year-old female who was also traveling south trailing behind V2. Vehicle three (V3) was a 2005 Dodge Stratus sedan driven by a 31 year-old female. V2 and V3 stopped for a few seconds due to traffic up ahead that had stopped. V2 was struck in the rear by the front of V1. V2 then struck the rear of V3. All three vehicles came to final rest still facing south. V1 and V2 were towed from the scene, V3 left under own power. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver of V1 did not realize forward traffic had stopped. The driver of V1 also had a misjudgment of speed of V2. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. V3 was not involved in first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+Vehicle 3:  Distraction, Driver Inexperience, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on the southbound lanes of an interstate. There were three lanes of travel in each direction with a positive barrier wall in the center median. This interstate was curved to the left with a posted speed of 105 kmph (65mph). The roadway was dry concrete. The crash occurred shortly before midnight and the roadway was illuminated by streetlamps. Vehicle 1, a 1992 Pontiac Grand Prix, was driven by a 33-year old male. The driver was negotiating the sweeping left curve and started to skid toward the left shoulder, so the driver counter-steered to the right. This action sent the vehicle into a clockwise rotation and it then rolled to the left. The vehicle rolled onto its roof and then slid 109 meters to final rest. The driver was able to climb out of the vehicle on his own. He was checked out by the EMS unit that was on scene but he refused transport to a hospital. The police administered a Breathalyzer test to the driver on scene, which revealed a reading of .19. V1 was towed due to damage. The driver of V1 reported that he was in good health and was taking no medications. He does not wear corrective lenses. This driver admitted to drinking "a few" beers earlier that evening. He reported that he was on his way home from dropping off a friend at home and had traveled about 7 miles. He stated that as he negotiated the curve, it felt like something snapped in the front end of the vehicle causing the vehicle to rotate clockwise. He claimed that he tried to counter-steer but the vehicle did not respond. The driver stated that the vehicle rolled over onto its roof and he did not remember anything after that. The Critical Pre-Crash Event was coded: this vehicle loss of control due to traveling too fast for conditions. The Critical Reason for the Critical Pre-crash Event was coded as too fast for curve/turn. Associated factors coded to this driver were alcohol, inadequate evasive action (the driver never braked), and a tire and brake deficiency. The researcher re-inspected the vehicle after interviewing the driver and found that the vehicle had bad wear to the outside of the right front tire, which may have been from a bad front-end alignment. The brakes were found to be soft. The researcher could not find any bad parts that would have caused this vehicle to veer to the left for no reason.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Speed/Distance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

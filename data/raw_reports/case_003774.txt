@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, two-lane urban road with a posted speed limit of 80 kmh (50 mph). The bituminous road was level and curved right for V1 and left for V2. Conditions at the time of the weekday early morning crash were daylight, cloudy and dry. V1, a 2002 Ford Ranger XLT pick-up truck was traveling eastbound on the roadway. V2 a 2000 Ford Taurus SEL was traveling westbound on the same roadway. The driver of V1 fell asleep as he entered into the right had curve. The driver of V2 saw V1 cross into his lane as he was negotiating the left hand curve. V2's driver braked and steered right onto the shoulder but could not avoid V1. Both vehicles were towed from the scene due to damage. Both airbags in each vehicle deployed. Both fully restrained drivers refused treatment for injuries at the scene. V1, a 2002 Ford Ranger XLT pick-up truck, driven by a 31 year-old male on his way to work, was eastbound on the road. The driver stated he had gone 27 miles and had been driving for 45 minutes. The driver stated that he slowed and then passed through an intersection and was traveling 50 mph when he fell asleep a half mile down the road as he entered a right hand curve. V1 crossed the centerline and the front of V1 struck the front of V2. The Critical Precrash Event coded to V1 was 'this vehicle traveling over the lane line on the left side of travel lane.' The Critical Reason coded was 'driver related factor of critical non-performance-the driver was asleep.' The contributing factor of fatigue was coded. V2, a 2000 Ford Taurus SEL, driven by a 26 year-old male who had just started out on his way to work, was traveling westbound on the road. The driver of V2 stated he saw V1 cross into his lane as he was negotiating the left hand curve. The driver braked and steered right onto the shoulder, but could not avoid V1. The Critical Precrash Event coded to V2 was 'other vehicle encroachment from opposite direction-over left lane line.' The Critical Reason was not coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

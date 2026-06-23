@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at the intersection of a six-lane roadway and a four-lane roadway. The six-lane roadway is divided with a grass median and has four-lanes for the northbound traffic. Northbound traffic has a curve to the left with a radius of 391 meters and a super elevation of -3/122 cm. The four lane road is not divided and has three-lanes for the eastbound traffic. The intersection is controlled with a traffic signal without pedestrian controls. This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one, a 1995 Jeep Cherokee was northbound in the second lane. Vehicle two, a 2003 Ford Explorer was eastbound in the first lane. As vehicle one attempted to pass through the intersection, the front of vehicle one contacted the right side of vehicle two. Post-impact, vehicle one proceeded northbound and came to rest on the right shoulder of the northbound lanes. Post-impact, vehicle two rotated clock-wise and came to rest facing west on the eastbound side of the roadway. Both vehicles were towed due to damage. The driver of vehicle one, a twenty-one year-old female was not interviewed. She told police that she was talking on her cell phone as she passed through the intersection while the light was red. The driver of vehicle two, an eighteen-year-old female was on her way to work at the time of the crash. This driver had just left a fast food restaurant and had only been driving for a few minutes at the time of the crash. She stated that she was eating lunch in her vehicle. This driver drives this vehicle daily and over this road on a weekly basis. The critical pre-crash event for vehicle one was coded as: this vehicle traveling: crossing over [passing through] intersection. The critical reason for the critical pre-crash event was attributed to vehicle one and was coded as a driver related error: internal distraction. The critical pre-crash event for vehicle two was coded as: other vehicle encroachment: from crossing street, across path. The critical reason for the critical pre-crash event for vehicle two was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Distraction present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west undivided urban five-lane roadway with a center two-way left turn lane. The road was straight and level with business driveways intermittently located on both sides. Recent traffic counts indicate the road carries 33,700 vehicles per day in the crash area. The posted speed limit was 72 kmph (45 mph). Conditions were daylight and dry on a weekend afternoon. Vehicle #1 was a 1989 GMC Safari cargo van that was traveling westbound in the right lane. Vehicle #2, a 1999 Land Rover Discovery wagon, was westbound in the left (second) lane. The GMC van (V1) attempted to change lanes to the left and contacted the right side of the Land Rover (V2) with its left side in a very minor impact. Vehicle #1 then continued west crossing into the oncoming lanes and striking Vehicle #3, which was a 2000 Chrysler Voyager that was eastbound in the left lane, head on. After the second more severe impact, V1 rotated clockwise 90 degrees and came to rest facing north partially on the sidewalk just off the south side of the road. After stabilization, V1 was struck in the left side by a pickup truck (V4) that was eastbound in the right lane. After impact, Vehicle #3 rotated 90 degrees counterclockwise and came to rest in the center left turn lane facing south. Vehicle #2 came to a controlled stop in its original lane. Vehicles #1 and #3 were towed due to damage; Vehicle #2 was driven away with only minor damage. Vehicle #1 was driven by an 18-year old male who was not belted. The van was not equipped with airbags. The driver was transported to an area hospital with minor injuries. The driver didn't speak English and although he was located in the hospital emergency room, a translator was not available since it was a weekend. In a brief statement to police at the scene he claimed the steering on his van malfunctioned. Police charged him with no driver's license and no insurance. The Critical Pre-crash Event for Vehicle #1 was this vehicle traveling over the lane line on left side of travel lane. The Critical Reason for the Critical Event was an unknown driver error. Associated factors were unknown. Vehicle #2 was operated by a 26-year old female that was belted with no deployed airbags. She was not injured in the crash. The driver stated that the GMC van (V1) was erratically attempting to change lanes to the left and she sped up in an attempt to get out of his way. She also blew her horn in an attempt to avoid a collision. The Critical Pre-crash Event for Vehicle #2 was other vehicle encroaching from adjacent lane over right lane line. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors included inappropriate/incorrect evasive action, based on investigation and driver statements. It is likely that if the driver had decelerated, a crash could have been avoided. She was under work-related stress due to a new position and was wearing glasses to correct a nearsighted condition. Vehicle #3 was driven by a 47-year old female that was belted with deployed frontal airbags. She sustained minor injuries but refused EMS transport. She stated that Vehicle #1 came across into her lane and struck her head-on. No Critical Pre-crash Event and no Critical Reason were coded to Vehicle #3 because it was not involved in the first harmful event. No associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Driver Stress/Emotion present problem 
+Vehicle 3:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

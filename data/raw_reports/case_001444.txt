@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during the early afternoon in daylight hours at a rural intersection. Traffic approaching the intersection from the east or west is controlled by stop signs before entering the intersection. Both roadways are two way, two lane, undivided, asphalt and straight and level. However approaching the intersection from the east there is a left turn lane. For traffic approaching from the north, there is a left turn lane, a right turn lane and a thru lane. There were no environmental conditions or sight restrictions that contributed to the crash. However, the traffic was heavy as the driver of V1 stated she was stopped for about 5 minutes, waiting for traffic to clear the intersection. A witness stated the driver had stopped before proceeding into the intersection. V1, a 1993 Nissan Pathfinder, was traveling eastbound approaching the intersection. V2, a 1994 Chevrolet Camaro, was traveling southbound. The driver of V1 stopped and then was attempting to turn left onto the northbound lane when it was struck by V2, which was traveling southbound in the number two lane. V1 continued to travel across the intersection for a short distance coming to rest in the northbound number one lane facing east. V2 at impact rotated clockwise and came to rest facing east adjacent to the impact point. Both vehicles were towed from the scene. The driver of V1 was a 50-year old male who had stopped at the stop sign and was waiting for traffic to clear before pulling out to turn left. Although there were three other occupants in the vehicle the driver indicated that they were not conversing nor were there any other internal distractions prior to the collision. The driver takes the medication Diovan for a pre-existing medical condition of high blood pressure. For this trip, he had left his home about 15 minutes prior to take one of the occupants to their home. The driver was looking to his right at cross traffic before he pulled out into the intersection and did not look to his left. He stated he did not even aware of V2's presence. There were no sight line obstructions noted by either driver. The pre event movement for V1 was coded: stopped in traffic lane. The critical pre-crash event was coded: this vehicle traveling/ turning left at intersection. The critical reason for the critical event was coded to V1 as a driver recognition factor: inadequate surveillance (e.g. failed to look, looked but did not see). He failed to look to his left before making his left turn. The driver of V1 did stop at the stop sign, but he failed to yield the right-of-way to V2 who had no traffic controls. The driver of V2 was a 26-year-old male who was transported to a medical facility for injuries and released that same day. Medical records do not indicate that alcohol, medications or illegal drug consumption were factors for this driver. The driver of V2 was on his daily commute home from work and did not have any internal or external distractions prior to the collision. The pre event movement for V2 was coded: going straight. The critical pre-crash event was coded: other vehicle encroachment-from crossing street, turning into opposite direction. This driver assumed that the driver of V1 would yield the right of way to his vehicle. The critical reason for the critical event was not coded to V2
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

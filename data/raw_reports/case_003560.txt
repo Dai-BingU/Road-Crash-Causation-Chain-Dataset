@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred just after noon on a weekday in the middle of a T intersection between two secondary arterial roads. The intersection consisted of an east/west roadway intersected by a north/south roadway. Both roads were straight and level in the area of the crash. The north/south roadway had a speed limit of 48 kmph (30 mph) and had a stop sign as traffic control for the southbound traffic terminating into the east/west roadway. The east/west roadway had a speed limit of 64 kmph (40 mph) with no traffic controls. Conditions at the time of the crash were daylight, cloudy and dry. V1, a 1991 Dodge Ram pickup truck with one occupant, was stopped facing south at the intersection preparing to make a left turn. V2, a 2000 Ford Windstar minivan with four occupants, was westbound on the east/west arterial approaching the intersection. V1 attempted its turn into the eastbound lane when it was struck on the left side by the front of V2. V1 then rotated counter-clockwise and the right side (at its back) impacted an embankment that bordered the south edge of the east/west roadway. V1 came to rest facing northeast in the eastbound lane. V2 had begun to swerve to its right just before impact (avoidance maneuver) and after impact traveled to the northwest corner of the intersection coming to rest there with the front partially off the road. Both vehicles were towed from the scene. The driver of V1, a 17-year-old male, was not restrained at the time of the crash. He was listed as having sustained minor injuries (his head had a minor laceration) but refused medical treatment or transport. He was on his way home from school early having just received news before his crash that his younger sister had just been hit by a car. He also complained to the researcher that his vehicle had been experiencing some transmission trouble. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at an intersection. The Critical Reason was coded as a misjudgment of gap. He told the researcher that he saw the other vehicle and assumed he had enough time. Driver inattention was coded due to his mind being on his sister's predicament. The driver was also coded as being upset and in a hurry. Inexperienced driver was also attributed here. The vehicle had tires with low tread and the transmission issue was also captured as a vehicle related factor. The driver of V2, a 33-year-old belted female, and her three occupants were uninjured in the crash. She had just left a church meeting and was on her way shopping at the time of the crash. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street, turning into the opposite direction. The Critical Reason was not coded to this vehicle. The only contributing factor associated to this vehicle was a false assumption that the other driver would yield the right of way.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Stress/Emotion, Vehicle present problem 
+Vehicle 2:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of an urban-four lane roadway separated by a grass median. There were four westbound lanes with lane four being the entrance ramp to the interstate. There were three eastbound lanes. It was late afternoon on a weekday and conditions were dry roads and clear skies. Vehicle #1 was a 1988 Mercedes Benz that was traveling behind Vehicle #2, a 2005 Lincoln Town Car. Vehicle #2 was stopped behind Vehicle #3, a 1998 Honda Accord. Vehicles 2 and 3 were stopped for a red light, waiting to get onto the interstate at the red light. The driver of Vehicle #1, a 51-year old male, stated that he was stopped and then traffic started to go and then came to a quick stop. He said he was unable to stop without impacting the back of Vehicle #2. Vehicle #2 was then pushed into the back of Vehicle #3. The drivers of Vehicles 2 (a 26-year old male) and Vehicle 3 (a 19-year old female) both reported that they were stopped for at least one minute before being rear-ended by Vehicle #1. The Mercedes was towed due to damage but the other vehicles were not. No one was injured. The Critical Pre-crash Event for Vehicle #1 was “other motor vehicle stopped in lane.” The Critical Reason was coded as driver inattention as the driver stated in the interview he “did not know what happened.” During the interview he was frazzled and making many work-related calls. This gave further indication of preoccupation and not paying attention to the driving task. The Critical Pre-crash Event for Vehicle #2 was “other vehicle in lane, traveling in same direction at higher speed.” The Critical Reason was not coded to this vehicle. Associated factors coded to this driver were a conversation with a passenger in the vehicle and the fact that this was the first time that the driver had driven this particular vehicle. However, it was not believed that this driver took any actions that contributed to the crash. No Critical Pre-crash Event and no Critical Reason were coded to Vehicle #3, as it was not involved in the first harmful event. The driver of Vehicle #3 reported that she rarely drove on the roadway; however, it was not thought that the driver of Vehicle #3 took any actions that contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+Vehicle 2:  Distraction, Driver Inexperience present problem 
+Vehicle 3:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

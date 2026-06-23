@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a two-lane roadway. Conditions were daylight in the afternoon on a weekday. The posted speed limit was 40 MPH (64 KMPH). V1 was a 1999 Toyota Camry sedan traveling westbound in the right lane. V2, a 2002 Ford F150 pickup truck, was traveling eastbound in the right lane. As V1 was traveling westbound, a dead animal was in the roadway and V1 swerved right to try and avoid it but lost control of the vehicle. V1 fishtailed for several meters and V1 entered oncoming traffic and the front of V1 struck the left side of V2 in the eastbound lane. Both vehicles then spun counter clockwise. V1 came to final rest off the roadway in a field facing northeast. V2 struck a curb, went down a -45% embankment, and came to final rest against a tree facing south. V1 was driven by a 21-year-old male who was not injured. He stated that he saw the dead animal, swerved right, then lost control of his vehicle and struck V2. V1 was traveling between 41 and 50 MPH (66 and 80 KMPH) and did not take any avoidance actions before striking V2. V1 was towed due to damage. The Critical Precrash Event for V1 was this vehicle control loss due to - traveling too fast for conditions. The Critical Reason for the Critical Precrash Event was a performance errors - poor directional control e.g.. Failing to control vehicle with skill ordinarily expected. The driver of V1 is familiar with the roadway and was wearing glasses at the time of the collision for his myopic condition. An associated factor coded to this vehicle was a driver recognition factor/exterior factor, the dead animal in the roadway. V2 was driven by a 29-year-old male who sustained moderate injuries and was transported to a local hospital. He stated he was driving eastbound when V1 swerved into his lane. He had no time to take any avoidance actions. V2 was traveling between 31 and 40 MPH (50 and 64 KMPH) at the time of impact. V2 was towed due to damage. The Critical Precrash Event for V2 was the other vehicle encroachment from opposite direction-over left lane line. No Critical Reason for the Critical Precrash Event was coded to this vehicle. Associated factors coded to this vehicle was driver recognition, the driver was conversing with his wife. The driver of V2 travels this road daily and is comfortable driving his vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Speed/Distance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Animal in roadway
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary Case 2007-43-136 This single-vehicle crash occurred in the morning of a weekday on a 2-lane undivided rural roadway. The north/south bituminous roadway has a slight curve to the left near the location of this crash and a posted speed limit of 72 kmph (35 mph). The conditions were clear, dry and dark without street lighting. V1, a 1990 Chevrolet C-1500 with one occupant, was southbound negotiating a curve to the left when it departed the right side of the road. V1 struck two different culverts and rolled onto its rooftop. The driver was transported for moderate injuries and the vehicle was towed due to disabling damage. The driver of V1 is a 23-year-old male that reports that while he was commuting to work this morning, he reached down for a pack of cigarettes and drove off the right side of the road. His truck struck a culvert and then rolled over onto its top. This driver was not wearing a seat belt during the crash but was able to exit the truck under his own power through the passenger door. He was treated and released at a local trauma center for severe internal bruising to his right arm and a small cut to his left ear. He said the location of the crash is less than a mile from his home and that he travels that route to work everyday. He said he woke up this morning at his normal time, did not have any concerns, does not have any medical or health issues, was well rested and simply drove off the road. The Critical Precrash Event for V1 was coded this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was coded internal distraction; retrieving object from floor and/or seat. Another factor coded to this case is tire deficiency since the right rear tire tread was measured at 0/32.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

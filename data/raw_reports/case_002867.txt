@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in lane 2 of a 3-lane one-way city street near a 4-way intersection. The intersection is controlled by a pre-timed traffic signal with a pedestrian crossing and the speed limit is 48 kmph (30 mph). The roadway is curved left and has a 2% uphill grade at the location of the crash. The weather conditions were clear, dry, and it was the mid-afternoon of a weekday. V1, V2, V3, and V4 were all traveling south in the same lane when V4 suddenly stopped. V3, which was traveling ahead of V2 and V1, had stopped in its lane and V2 had done the same. However, V1 could not stop in time and struck the back of V2. Subsequently, V2 was pushed forward and struck the back of V3, and V3 was pushed forward and struck the back of V4. All four vehicles had come to rest in their lane and V3 was the vehicle towed due to damage. V1, a 1995 Ford Super Duty pickup truck with an attached landscape trailer, was driven by a 46-year-old male that works for this county's landscaping department. The driver stated that he was driving toward a job site after leaving his headquarters. As he drove south in congested traffic, he reports that a traffic signal in his direction turned yellow and a driver, 4-vehicles ahead of him, suddenly stopped. This driver slammed on his brakes but could not slow down his truck in time to avoid crashing into the back of the Suburban (V2) in front of him. This driver admits he was probably following too close to the vehicle ahead of him. The Critical Precrash Event for V1 was coded: other vehicle stopped and the Critical Reason for the Precrash Event was coded: driver inattention. V2, a 1993 Chevrolet Suburban, was driven by a 29-year-old male. He stated that he drove south through business downtown toward his home. While returning home, this driver states he stopped in his lane because the cars in front of him stopped. After being stopped for 1-2 seconds, he unexpectedly felt an impact to the back of his Suburban. The impact pushed his truck into the back of a car (V3) that was in front of his. He was not treated on the scene for injuries but he later went to the emergency room for an examination. The Critical Precrash Event for V2 was coded: other vehicle in lane traveling in same direction while decelerating and the Critical Reason was not coded to this vehicle. V3, a 2003 Toyota Echo, was driven by a 42-year-old female. After leaving one of her stores, she drove south through downtown toward her home. She reports that as she was keeping up with traffic, she was following a Mercedes Benz that had suddenly stopped for a yellow light and caused everybody in her lane to slam on their brakes. This driver claims that she came to a stop without contacting the Mercedes but not avoid being struck from behind by V2. This driver reports that she was slowing down for the yellow signal while anticipating the Mercedes would proceed through the intersection. V3 was not part of the first Critical Event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

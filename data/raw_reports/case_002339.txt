@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, five-lane, straight, concrete, urban roadway with a posted speed limit of72 kmh (45 mph). Conditions at the time of the weeknight crash were dark, unlighted, clear and dry. V1, a 1997 Mercury Tracer 4 door, driven by a 19 year-old male on his way from a fast food restaurant to drop off the passenger at his home, was northeast bound on the road on a downhill slope. The driver of V1, who was unfamiliar with the area, stated that he was traveling approximately 72 kmh (45 mph) and looking for the highway entrance ramp on the left. The passenger, also unfamiliar with the area, suddenly saw the ramp in the dark and told the driver to turn. The driver stated that he pulled into the left turn lane and braked, slowing to 48 kmh (30 mph). The driver noticed that oncoming headlights all seemed to turn right onto the ramp. He saw V2 coming in lane two but thought it was also turning. He made the decision to turn too fast to correctly judge V2's intentions, and continued his left turn. The front left of V1 struck the front left of V2 in the southwest lane two. The driver had no avoidance maneuvers. V1 rotated counterclockwise and came to rest in lane 3 facing north. V1 was towed from the scene due to damage. The fully restrained driver was treated at the scene. The fully restrained 18 year-old front right male passenger denied injuries. V2, a 2000 Saturn SL 4 door, driven by a 46 year-old female on her way to a gas station from her daughter's home, was traveling southwest on the road on an uphill slope, in lane two at 97 kmh (60 mph). The driver stated that she saw V1 coming at her but it was too late to attempt avoidance maneuvers. A witness to the crash, traveling behind V1, stated that he saw V2 swerve to the right just before impact. This driver also was unfamiliar with the area and did not even know the location of the entrance ramp, and did not know why V1 was turning. V2 rotated clockwise after the crash and came to rest partially in lanes one and two, facing southeast. V2 was towed from the scene due to damage. The fully restrained driver was treated at the scene. The Critical Precrash Event coded to the driver of V1 was 'this vehicle traveling turning left at intersection.' The Critical Reason for the Critical Event coded was ' a driver related factor-decision error of false assumption of other road users actions.' Contributing Factors coded to this driver were 'unfamiliarity with the area', 'first time on road' and 'internal distraction due to the passenger unexpectedly telling the driver to turn.' An associated factor was coded of 'work related stress (other)-pressure felt from self and supervisor to meet sales goals', and long work hours. The Critical Precrash Event coded to the driver of V2 was 'other vehicle encroachment from opposite direction over left lane line'. The Critical Reason was not coded to this vehicle. This was the first time on the road for this driver also.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Physical, Driver Stress/Emotion present problem 
+Vehicle 2:  Driver Inexperience, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

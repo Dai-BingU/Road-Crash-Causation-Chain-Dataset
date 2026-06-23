@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle collision occurred during morning daylight hours on a weekday. The crash occurred on a slight right hand curve of a dry, level, positively divided, five-lane, concrete expressway. The speed limit on this roadway is 105 kmph (65 mph). At the time of the crash, there were no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 2006 Chevrolet HHR four-door wagon, was traveling westbound in the second lane, about to change lanes to the left. A non-contact vehicle slightly behind V1 in the fourth lane was, at the same time, changing lanes to the right into the third lane. As V1 made its lane change, the driver noticed the non-contact vehicle entering the same space and veered hard right to avoid a collision. V1 lost traction and rotated clockwise as it crossed the westbound lanes and departed the road over the right road edge. On the roadside, the left wheels of V1 impacted the raised curb, causing V1 to roll left-to-top onto a steep uphill embankment. V1 slid down the embankment and back onto the roadway, where it came to rest on its roof in the first lane. The 43-year-old female driver of V1 reported that she was in good health, rested and alert at the time of the crash. She was on her way to a camping trip with the right front passenger, her 12-year-old daughter. The driver takes daily medication for high blood pressure, taken at night. The critical pre-crash event for V1 was: this vehicle control loss due to, other cause of control loss (specified as: overcompensation). The critical reason for the critical event was coded to V1 as a driver related factor: overcompensation. The driver overcompensated and the vehicle was out of control as it left the roadway and struck the curb.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Other cause of control loss (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

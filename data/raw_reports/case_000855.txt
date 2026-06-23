@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred a two lane (two-way traffic) undivided roadway. The speed limit for the east-west roadway is 48 kmph (30 mph). There is an entrance to an apartment complex south of the roadway. The road surface was dry and there were no adverse atmospheric conditions at the time of the crash. It was evening hours on a weekday and there was little to no traffic on the roadways. Vehicle one (V1), a 2006 Chevrolet Impala police car with two occupants, was traveling west in the first lane. Vehicle two (V2), a 2004 Buick Le Sabre with two occupants, was traveling ahead of V1. V1 had the police lights activated and was pursuing V2, after V2 failed to stop for a traffic signal earlier. V2 attempted to turn left into the apartment complex entrance. V1 moved into the opposing travel lane and the front of V1 struck the left side of V2. Both vehicles traveled to the southwest and the front of both vehicles struck a wrought iron fence. Both vehicles came to rest at the fence. Both vehicles were towed from the scene. The driver of V2 fled the scene on foot and was not identified. A 35-year old male drove V1. He is in good health, does not take any medication and is a trained police officer. He followed V2 at a speed of around 64 kmph (40 mph) with the vehicles overhead police lights operating. He cut off V2's escape route following police procedures. The critical pre crash event for V1 was coded: other vehicle encroachment from adjacent lane (same direction) - over right lane line. The critical reason for the critical event was not coded to this vehicle. An unidentified male, who left the scene, drove V2. The right front occupant was arrested at the scene and could not be interviewed. The critical pre crash event for V2 was coded: this vehicle traveling - turning left at intersection. The critical reason for the critical event was coded driver related factor - type of driver error unknown. Evading police and a sudden turn from its original lane into the apartment complex was coded as contributing factors leading to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Aggressive Behavior, Driver Stress/Emotion, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

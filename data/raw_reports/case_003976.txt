@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred during daylight hours on a weekend. The crash occurred at the four-leg intersection of a north-south roadway and an east-west roadway. The intersection was controlled by a tri-light traffic signal. At the time of the crash, there were no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 1987 Ford Ranger pickup, was traveling southbound in a 64 kmph (40 mph) zone, in the second lane of a five-lane, two-way, undivided, dry, level, bituminous roadway, approaching the intersection with the intention of passing straight through. Vehicle two (V2), a 2002 Honda Accord four-door sedan, was traveling eastbound in the first lane of a three-lane, divided (five lanes overall, divided by a raised median), dry, level, bituminous roadway, approaching the same intersection with the intention of passing straight through. As both vehicles entered the intersection, the front of V1 impacted the left side of V2. Both vehicles rotated counter-clockwise and came to rest in the intersection. V1 then drove away from the scene. A witness at the scene verified that V1 entered the intersection on the red phase of the tri-light. The 27-year-old unlicensed male driver of V1 reported that he has only been driving for two months, and has had no driver training. He reported that upon approaching the intersection, he believed he had a green light, and proceeded through the intersection without stopping or checking crossing traffic. The critical pre-crash event for V1 was: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the event was attributed to V1, and was coded as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The 28-year-old male driver of V2 was traveling with a full passenger load. He reported that he was stopped for about two minutes at the red phase of the tri-light, and he proceeded into the intersection at the beginning of the green phase. V2 proceeded without checking crossing traffic, and an associative factor of inadequate surveillance is attributed to V2. The critical pre-crash event for V2 was: other vehicle encroachment; from crossing street, across path. The critical reason for the event was not attributed to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Drugs, Surveillance present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

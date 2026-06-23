@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle morning collision occurred during daylight hours on a two-way, straight, undivided five lane bituminous roadway consisting of 2 travel lanes in each direction and a 2-way center turn lane. . There is a slight uphill grade for V1, and the roadway is level for V2. The posted speed limit for the roadway is 48 kph (30 mph). At the time of the crash, the weather was clear and there were no sight restrictions or road defects. Vehicle #1 (V1), a red 1998 Honda Accord 2 door was traveling north in lane 2. Vehicle #2 (V2), a dark green 2005 Honda Accord 4 door was stopped in the center turn lane preparing to turn left, when V1 swerved into the center turn lane, and the front of V1 impacted the front of V2. Both vehicles were towed due to damage. The V1 driver, a 26-year-old male, was not injured, and stated to police that he had swatted with a newspaper at a bee that flew at his face. The V2 driver, a 59 year old female, stated to police that she noticed the newspaper and that her 1st impression was that the V1 driver was reading, but that after hearing the V1 driver's account of what happened, that account was believable. The V2 driver was transported, treated and released for soft tissue neck and back injuries. The Pre-event Movement for V1 was coded as "Going straight." The Critical Event was coded as "This Vehicle Traveling-over the lane line on the left side of travel lane." The Critical Reason for the critical event was assigned to the V1 driver as a "Driver Related Factor - Internal distraction" The Pre-event Movement for V2 was coded as "Stopped in traffic lane." The Critical Event for V2 was coded as "Other Vehicle Encroachment - From opposite direction, over the left lane line". The Critical Reason was not coded to V2. Neither driver was interviewed, so driver related factors are unknown.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

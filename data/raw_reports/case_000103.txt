@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during mid-afternoon daylight hours at an intersection, which had two undivided lanes going East/West road and a North/South road with one lane going into both directions. The North/South road that is controlled by stop sings and the speed limit is 42 kmph (25 mph). The East/West road has no control devices and the speed limit is 50 kmph (30 mph). This road was under going construction, which left the road with several sewer caps that were elevated several centimeters above the surface of the road. The weather was sunny and clear at the time of the crash. Vehicle one (V1), a black 2004 Dodge Intrepid with one passenger, was traveling southbound through the crossover when it was impacted on its right side by the front of vehicle two. Vehicle two (V2), a blue 1995 Plymouth Voyager with three passengers, was traveling eastbound going straight. According to a witness that was at the scene of the crash, V2 was believed to be speeding eastbound. The witness also stated that V1 barely stopped at the stop sign and was traveling slowly, avoiding the sewer caps. Also, while interviewing the driver of V1, she said that she was focusing on the sewer caps. The driver of V1 is a 54-year-old female who was on an errand from home going to the store. The critical pre crash event for V1 is coded: this vehicle traveling, crossing over/ passing through intersection. The Critical Reason for the Critical Event is coded to V1 as a driver recognition error: external distraction. Even though the road was undergoing construction, it was the appearance of the construction, the elevated sewer caps, not the construction itself that was the cause of the crash. The driver of V2 is an 18-year-old female. The driver and two passengers had left her house and were on their way to a friend's house when the crash occurred. They were listening to the radio. This driver stated that V1 was going very fast and did not stop (at the stop sign). The critical pre crash event for V2 is coded: other motor vehicle encroachment, from crossing street- across path. The Critical Reason for the Critical Event is not coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Decision, Roadway, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

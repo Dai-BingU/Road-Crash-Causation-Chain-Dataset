@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at an intersection of two - two-lane, two-way roadways. Vehicle 1 was traveling westbound approaching an intersection controlled by a stop sign. Vehicle 2 was traveling southbound approaching the same intersection and had the right of way. The road had a speed of 40 KMPH (25 MPH). The north, southbound lanes were a level grade and the east west had a -3/122 grade. Conditions were daylight with cloudy skies and the roadway was wet. The crash occurred in the early afternoon on a weekday. Vehicle 1 a 1986 Chevy pickup, driven by a 43 year-old maile, had slowed for the stop sign, looked both ways, then proceeded to cross the intersection without coing to a full stop. V2 was approaching the same intersetion and was traveling straight through the same. V2's left fender contacted the front right corner of V1. V1 rotated counterclockwise facing south in the roadway. V2 after contact proceeded to the southwest corner striking the curb then contacted a tree with the left front corner of the vehicle coming to final rest with the right side of the vehicle making contact to a chain link fence. A 21 year-old female, who was later transported to a local trauma center for minor injuries, drove vehicle 2, a 1986 Chevy Cavalier. She stated that she saw V1 approach the stop sign; she assumed the vehicle would stop but it just slowed and did not stop. She does not remember if she kept her brake on or if she let up on it to try to turn right so she would not make contact to the other vehicle. She estimated she was traveling 48-56 kmph (30-35 mph) at the time of impact. There were three other occupants in this vehicle. The occupant in seat 13 had C-injuries but refused treatment. The two occupants in the back seat were seat belted but not in child restraint seats; no injuries were sustained. The vehicle was towed from the scene due to damage. The Pre-Event Movement for V1 is going straight. The Critical Precrash Event for V1 was crossing over (passing through) intersection. The Critical Reason for the Critical Event was coded to this vehicle as a Recognition Error, inadequate surveillance (failed to look but did not see). An associated factor was this driver was going to a Doctor appointment out of town he reported he was on medication for pulmonary lung disease he refused to state medication he was on for his illness. Another associated factor is that V1 performed an illegal maneuver by failing to stop at the stop sign by slowing and going. His vehicle was driven from the scene. The Pre-Event Movement for V2 was going straight; the Critical Pre-Crash Event for V2 was other vehicle encroachment from a crossing street, across path. The Critical Reason for the Critical Event was not coded to this vehicle. an associated factor for V2 was that the driver was engaged in a conversation with her back seat occupants at the time of the crash. The driver of V2 was driving with no license, no insurance, no registration, and no plate onhte vehicle. Sh also stated she had no driver training. One child in the back seat was 5 years old the other was 2 years old; neither were in child safety seats. The driver of V1 reported that he had stopped for stop sign. It seems likely that the driver of V1 executed a rolling stop through the stop sign. He stated that he was late for a doctor's appointment at the VA Hospital.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Surveillance present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

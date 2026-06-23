@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred in the middle of a T-intersection. The roadways for both vehicles were asphalt, dry, and level. The posted speed limit was 56 kmph (35 mph) for both directions. Vehicle one (V1) had a stop sign controlling its direction; there was no control device for Vehicle two (V2). The crash occurred in the early afternoon on a weekday. The traffic flow was light and the weather was clear. Vehicle one, a 2005 Ford Expedition, was traveling westbound and stopped at the corner, adhering to the passive stop sign located on both sides of the corner. She said she looked both ways before making her intended right turn; however, her view was obstructed by several vehicles parked on the southeast corner. She accelerated into the intersection and the front of her vehicle contacted the right front of V2, a 1992 Pontiac Bonneville. The driver of V1, a 21-year old female, was aware of the posted stop sign, and said that she felt comfortable with the rented vehicle. She gave no other explanation for the crash besides her inability to see the traffic to her left. After the initial impact, V1 continued traveling north for a few feet and spun around 45 degrees clockwise before striking a narrow pole on the northeast corner of the intersection, where it came to final rest. The driver of V2, a 26-year old female, stated that she had the right of way and didn't see V1 until the last second and she then applied her brakes. She was issued a citation for driving without proof of insurance. Although V2 was towed, police logged the crash as a non-reportable accident. The Critical Pre-Crash Event for V1 was when it began to turn right at the intersection. The Critical Reason was coded as inadequate surveillance (looked but did not see). Associated factors coded to this driver include a sightline restriction caused by the parked vehicles on the side of the roadway and unfamiliarity with both her vehicle and the roadway. The Critical Pre-Crash Event for V1 was coded as other vehicle encroachment from crossing street, turning into same direction. The Critical Reason was not coded to this vehicle. No associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

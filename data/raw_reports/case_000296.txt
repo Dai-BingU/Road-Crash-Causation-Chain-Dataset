@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two vehicle daytime collision occurred at 2005 hours. The collision occurred on the southbound lanes of a divided interstate highway, in the third and fourth lanes. The roadway for both vehicles is level worn, dry concrete paving. The roadway has a posted speed limit of 96 Kmph (60mph). Vehicle 1 (V 1), a 1998 Acura Integra, driven by a 18 year-old female was traveling southbound on the roadway in lane three. Vehicle 2 (V 2), a 2002 Honda Accord, driven by a 21 year-old female was traveling southbound in lane 4. V 1 went to change lanes into lane four. The left side of V 1 collided with the front right side of V 2. V 2 rotated counter clockwise colliding head on with the guardrail continued to rotate coming to final rest facing north. V 1 continued in a southerly direction coming to rest on the shoulder. Both vehicles were towed from the scene. The pre-event movement for V 1 was coded changing lanes. The critical pre-crash event was coded This vehicle traveling: Over lane line on left side of travel lane. The critical reason for the critical event driver related factor " Inadequate surveillance" (driver stated at the scene that she was changing lanes and didn't see the other vehicle). The pre-event movement for V 2 was coded going straight. The critical pre-crash event was coded Other vehicle encroachment: From adjacent lane- over right lane line The critical reason for the critical event is not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

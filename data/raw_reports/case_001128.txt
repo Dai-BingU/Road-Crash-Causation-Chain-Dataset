@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at a rural 4-legged intersection of two-way, two lane, straight, bituminous roadways with a speed limit of 89 kmh (55 mph). A flashing amber light for the east/west road, and a flashing red light and stop sign for the north/south roads controlled the intersection. Conditions at the time of the weekday afternoon crash were daylight, cloudy with light rain and wet pavement. V1, a 1998 Ford Taurus SE 4-door sedan driven by a 74 year-old female on her way from one errand to the next, was northbound on the road. V1, per the witness traveling behind her, stopped at the stop sign for 3-4 seconds, with her left blinker activated, intending to turn left. V1 proceeded into the intersection, and began to accelerate. The left side rear door of V1 was struck by the front of V2 in the intersection. V1 swerved to the right at the last moment prior to the crash. The driver of V1 stated that she does not remember exactly what happened and thought maybe she just slowed down at the intersection. The driver stated that she never saw V2 prior to the crash. V1 rotated counterclockwise and came to rest in the intersection facing south. V1 was towed from the scene due to damage. The fully restrained driver was transported to a local trauma center due to injuries. Both front airbags deployed in V1. V2, a 1992 Dodge Caravan minivan, driven by a 26 year-old male was traveling eastbound on the road on his way from home to run an errand. The driver stated that as he approached the intersection, traveling 89 kmh (55 mph), he noticed V1 stopped, with the witness vehicle behind V1 on his right. The driver stated that he drives the road daily, is familiar with the intersection, and knew that V1 was required to yield to east/west traffic by the stop sign. The driver noticed the V1 driver appeared to look left and right, and then pulled into the intersection and began to accelerate. The driver of V2 applied the brakes, and V2 slid on the wet pavement. The witness stated that V1 appeared to swerve to the right, although the driver of V2 did not recall seeing V1 swerve. The front left of V2 struck the left side of V1. V2 rotated slightly counterclockwise and came to rest facing northeast in the intersection. V2 was towed from the scene due to damage. The fully restrained driver of V2 stated he would seek medical attention for an injury to his left hand. The fully restrained adult front right 22 year-old female passenger denied injuries. The Critical Precrash Event coded to V1 was 'this vehicle traveling-turning left at intersection'. The Critical Reason for the Critical Event coded was 'inadequate surveillance-looked but did not see.' Contributing factors coded to this driver include 'inattention-thought focus on future events-activities for the remainder of the day' and possible side effects of tiredness, weakness, dizziness and confusion due to her prescribed heart and cholesterol medication. The Critical Precrash Event coded to V2 was 'other vehicle encroachment from crossing street, turning into opposite direction.' The Critical Reason was not coded to this vehicle. A contributing vehicle related factor of low tire tread on the left rear tire was coded.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

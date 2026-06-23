@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred at the intersection of a four-lane undivided roadway and a three-lane, one-way roadway. For eastbound traffic there is four travel lanes. For southbound traffic there is three travel lanes. The eastbound road was dry, traveled, level concrete. The southbound road was dry, traveled, level asphalt. The posted speed limit is 48 kph (30 mph). Traffic was light at the time of the accident. This crash occurred during daylight hours with clear skies. Vehicle one, a 1995 Oldsmobile Aurora, was eastbound in the first travel lane. Vehicle two, a 1999 Infinity I30 was southbound in the first travel lane. Vehicle one attempted a right turn and the front of vehicle two impacted the left side of vehicle one. Vehicle one rotated clockwise and the left side impacted the right side of vehicle two. Vehicle two had rotated counterclockwise prior to the second impact. Vehicle one came to rest facing south, south of the intersection. Vehicle two departed the roadway on the southeast corner and the front of the vehicle impacted a telephone pole. After pole impact, vehicle two began to roll backward through the intersection and came to rest near the northwest corner facing south. Both vehicles were towed due to damage. The driver of vehicle one, an eighteen-year-old male was heading to work from home at the time of the crash. This driver had been driving for about one minute at the time of the crash. This driver stated that he had a green light when he initiated his turn. The report by the investigating officer states the driver attempted to turn right on a red light. The driver admitted during the interview he did not stop for the red light before attempting a right turn. He was looking at his intended path of travel prior to the crash. The driver of vehicle one is not licensed to drive. This driver drives this vehicle daily and over this road on a daily basis. The driver of vehicle two, a thirty-five year old male was not available to be interviewed. The critical pre-crash event for vehicle one was coded as "this vehicle traveling: turning right at intersection". The critical reason for the critical pre-crash event was attributed to vehicle one and was coded as "driver related factor: inadequate surveillance". The critical pre-crash event for vehicle two was coded as "other vehicle encroachment: from crossing street, turning into same direction". The critical reason for the critical pre-crash event for vehicle two was coded as "not coded to this vehicle".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

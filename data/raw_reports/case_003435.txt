@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred near an exit ramp on a two-way, six-lane, divided roadway with a positive barrier. The road was dry, traveled, asphalt with a positive grade. The posted speed limit was 96 kph (60 mph). Traffic was heavy at the time of the accident. This crash occurred during daylight hours with no adverse atmospheric weather conditions. Vehicle one, a 2000 GMC Savanna Van was southbound in the first travel lane. Vehicle two, a 2001 Freightliner tractor with a trailer was southbound in the first travel lane ahead of vehicle one. Vehicle two stopped in the first lane due to traffic. Vehicle one was unable to stop prior to impacting the rear of the trailer. The front of vehicle one struck the rear of the trailer. Vehicle one came to rest at the point of impact. Vehicle two remained at the point impact. Both vehicles were facing south in their original travel lane. Vehicle one was towed due to damage. Vehicle two was not towed due to damage. The driver of vehicle one, a twenty-five year old male was heading back to a job site after lunch at the time of the crash. This driver had been driving for about fifteen minutes at the time of the crash. This driver stated that he was looking in his side mirror to see if he could merge left and when he looked forward vehicle two was stopped. This driver indicated that he was thinking of financial problems. This driver had only driven this vehicle a few times in the last few months and drives over this route weekly. The driver of vehicle two, a fifty-five year old male was coming from a delivery and heading to another delivery at the time of the crash. It is unknown how long this driver had been driving at the time of the crash. This driver stated that he had only been driving at about 16 kph (10 mph) before he had to stop because of congestion. This driver only gave a partial interview and his experience in this vehicle and roadway are unknown. The critical pre-crash event for vehicle one was coded as "other motor vehicle in lane: other vehicle stopped”. The critical reason for the critical pre-crash event was attributed to vehicle one and was coded as “driver related factor: external distraction“. The critical pre-crash event for vehicle two was coded as "other motor vehicle in lane: traveling in the same direction with higher speed” and the critical reason for the critical pre-crash event was coded as “not coded to this vehicle”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Speed/Distance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

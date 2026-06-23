@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 2001 Ford Expedition, was traveling southbound on a one lane, one way, wet, highway entrance ramp in daylight conditions. The highway was under construction and the on-ramp was backed up with traffic due to a yield sign at the bottom of the ramp. V2, a 2002 Chevrolet Cavalier, was also traveling southbound on the same ramp. V2, was waiting at the bottom of the ramp to merge into traffic. V1 thought that V2 would merge without stopping and as the driver of V2 was looking over her left shoulder to merge, the front of V1 contacted the back of V2. Both vehicles then came to final rest on the right side of the roadway. The driver of V1 was a 38-year old female who had reported that she had been traveling 2-16 kmph (1-10 mph) prior to the crash. She had no health related problems, and had taken no medication prior to the crash. She was rested and traveling home. She was wearing her prescribed lenses that correct a myopic (near-sighted) condition. She did not sustain any injuries in the crash. The Critical Precrash Event for the driver of V1 was other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Precrash Event was a decision error, false assumption of other road user's actions, because she thought that V2 would merge without stopping. Associated factors coded to this driver include her focus on extraneous vehicles to her left, the fact that this was her first time driving on this roadway, and the traffic flow interruption due to the construction work zone. The driver of V2 was a 20-year old female who had reported that she had been stopped for more than ten seconds prior to the crash. She was waiting for a break in traffic so that she could merge. She had no health related problems and had taken no medication prior to the crash. She was rested and traveling to her fiancé's house. She does not wear corrective lenses. She sustained minor injuries and was transported from the scene to a local trauma facility. The Critical Precrash Event for the driver of V2 was other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2 and she was not thought to have contributed to the crash. One associated factor (coded to both drivers) was the traffic flow interruption due to the construction work zone.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

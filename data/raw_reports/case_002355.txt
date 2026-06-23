@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred near the entrance ramp of a controlled-access roadway. This roadway is divided by a jersey barrier and the westbound lanes consist of four through lanes that are straight and level. The speed limit on this roadway is 97 kmph (60 mph). It was dark with street lights on at the time of the crash and there were no adverse atmospheric conditions. Vehicle one (V1), a 2003 Nissan Xterra, was westbound on the entrance ramp and merged into westbound lane one. Vehicle two (V2), a 1998 Dodge Durango, was westbound in lane two. V1 changed lanes into lane two and the left side was struck by the front of V2. V1 then rotated counterclockwise and the front and then right side struck the median jersey barrier. V1 was towed due to damage. The driver of V1, a twenty-one-year-old female, was traveling from her mother's house to work. She was well rested, healthy and familiar with her vehicle. She drives this route daily. This driver stated that she checked the rearview mirror before she changed lanes but did not turn her head to check for traffic in lane two. The driver of V2, a twenty-three-year-old male, was traveling with three male passengers, from his friend's house to his workplace. He was healthy, well rested and comfortable with his vehicle and passengers. He travels this route daily. This driver stated that he applied the brakes in an attempt to avoid a crash when he realized that V1 was changing lanes. The pre-event movement for V1 was coded as "merging." The critical pre-crash event for V1 was coded as "this vehicle traveling; over the lane line on left side of travel lane." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)." The pre-event movement for V2 was coded as "going straight." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from adjacent lane (same direction) - over right lane line." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Merging
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

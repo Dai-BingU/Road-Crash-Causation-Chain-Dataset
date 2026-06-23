@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle daytime collision occurred early afternoon daylight hours. The collision occurred in a controlled intersection of a north-south roadway and an east-west roadway. The pre-crash roadway for north/south travel is level worn concrete/blacktop paving. The east/west roadway is divided by parking under the bridge, a positive barrier divides the north/south roadway. There is a post speed limit of 48 kmph (30 mph). Signs were posted showing no left turn. It was raining and the roadways were wet. Vehicle one (V1), a 2002 Volkswagen Jetta driven by a 32 year-old male with one passenger, was traveling northbound on the roadway in lane 2. The driver of V1 was making an illegal left turn onto the westbound roadway. After the left turn V1 proceeded straight across an intersection. Vehicle two (V2), a 1990 Subaru Legacy driven by a 35 year-old female, was traveling southbound in lane 2. Both vehicles approached the intersection at roughly the same time, and the front of V2 collided with the right side of V1. V1 rotated clockwise coming to rest facing north. V2 came to rest in travel lane facing north. Both drivers of V1 and V2 stated that they didn't see each other until the crash was imminent. Both vehicles had sight line restrictions from the construction of the over head bridge. V1 also was making an illegal left had turn the signs were posted clearly. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). Associative factors were: making an illegal maneuver (making turn where not permitted), and a partial sight line restriction because of the bridge & its construction. The driver was also having a conversation with his passenger at this time. The passenger was yelling at the driver "No Left Turn, No Left Turn!" The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason for the critical event is not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Distraction, Driver Inexperience, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

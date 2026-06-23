@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred during early morning daylight hours on a "Y" of an interchange from a state highway to an interstate. Before the roadway split, there are three travel lanes that then split into four travel lanes with two pairs of travel lanes going in two different directions. The left split of the highway is comprised of two travel lanes with a left curve that is uphill. This section of highway runs northeast and was the location of the crash. The speed limit on the highway is 89 kmph (55 mph) and there were no adverse weather conditions at the time. Vehicle one (V1), a 1994 Chevrolet K-1500, was driven by a 45 year-old male who was traveling eastbound on the highway negotiating a left hand curve in lane two ,after the roadway had split at a "Y" junction. The vehicle traveled into lane one and then departed the right side of the highway. The vehicle continued off the road down a steep embankment and impacted a fence with its front. It then continued and impacted the front header into the bottom of a cement bridge. It slid across the cement bridge causing the vehicle to tilt to the right and impacted three large boulders and a small tree with its right side. The vehicle then impacted a bridge pillar with its front. The vehicle came to rest on its wheels against the pillar facing northeast. V1 was towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason was coded as a driver related factor: sleeping, that is actually asleep. The driver takes medication for seizures, had just finished working. He stated that he always wakes up fatigued and he started driving this trip feeling drowsy. The researcher was not notified until nearly three hours after the collision had occurred. The actual length of driving time was about 15 minutes for the driver. The date of driver's last sleep was the day before the crash and he started driving on this trip 15.5 hours after his last sleep of 7.5 hours duration. He was commuting home from work.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

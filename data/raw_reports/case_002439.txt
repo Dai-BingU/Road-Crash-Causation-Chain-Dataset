@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the morning of weekend in the eastbound lanes of a four-lane divided highway. The east/west highway consisted of four lanes in each direction divided by a grass median and flanked by guardrails. The bituminous highway was straight and level with a speed limit of 104kmph (65 mph). At the time of the crash a heavy rain was falling that formed large puddles within the roadway. V1, a 1999 Honda Civic, was eastbound, traveling in lane three. V1 drove through a large puddle that had formed on the roadway and began to rotate counter-clockwise. The driver lost control of the vehicle, and V1 spun around until it hit the center guardrail with its back end. V1 came to final rest perpendicular to the guardrail, facing north partially off the roadway. The driver of V1 was a 22-year-old female who reported no injuries. She stated that she was just driving along and she hit a puddle of water and lost control of the vehicle. She said she was not sure which way she spun but believes it was counterclockwise. She claimed she was not speeding, but it was the first time she had ever driven this road. Investigation of the vehicle revealed the tires tread were very low. The Critical Precrash Event for V1 was coded this vehicle's control loss was due to poor road conditions (the standing water in lane 3 and 4). The Critical Reason for the Critical Event was coded as an environmental related factor (the standing water). The rain and wet roads were coded as associated factors as well as the low tread depth of the tires and the driver's unfamiliarity with the roadway. *After arrival on the scene another vehicle had loss control and hit the guardrail as well about 100 yards from this crash. About three minutes after that, two other cars in lane 3 lost control resulting with one rear ending the other. About 5 minutes after that, another car in lane 1 lost control and hit the walls on the right side of the highway. All cars except one were towed due to damage.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Roadway, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Other highway-related condition (specify):

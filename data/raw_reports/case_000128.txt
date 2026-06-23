@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in southbound lanes of a five-lane, divided, rural highway with a grass median. There were two southbound lanes and three northbound lanes in close proximity to a paved median crossing. The roadway had a posted speed of 89 kmph (55 mph) and was level in all directions. Conditions were daylight and dry with clear skies. The crash occurred in the early afternoon hours on a weekday. Vehicle one was a 1993 Ford F150 Lightning pickup. Vehicle two was a 1994 Lincoln Mark VIII coupe. Both vehicles were traveling southbound in the second lane. A third non-contact vehicle was traveling in the first lane. The non-contact vehicle, upon seeing the median crossing, abruptly switch lanes to the left and braked. V1 and V2 both braked with lockup in response. The rear of V1 was struck by the front of V2. V1 pulled ahead into the grass median while V2 came to rest in the roadway. The non-contact vehicle continued to make a U-turn at the median crossover and did not stop at the crash scene. A 17-year old male who was uninjured drove vehicle one. He had one passenger who was also uninjured. He stated that the non-contact vehicle cut him off abruptly, forcing him to slam on brakes. He estimated his travel speed to be 89 kmph (55 mph) and his impact speed to be 8 kmph (5 mph). V1 was not towed due to damage. The Critical Precrash Event for V1 was this vehicle's deceleration. No critical reason could be coded to this driver. The non-contact vehicle's actions played a large role in causing the Critical Precrash Event. A 67-year old male who suffered possible injuries, but received no treatment drove vehicle two. He had one uninjured passenger. He stated the same recount of the crash events as the driver of V1. He estimated his travel speed to be 89 kmph (55 mph) and his impact speed to be 56 kmph (35 mph). V2 was towed due to damage. The Critical Precrash Event for V2 was other motor vehicle in lane traveling in the same direction while decelerating. The Critical Reason for the Critical Precrash Event was following too closely to respond to the unexpected actions of other vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- This vehicle decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Following too closely to respond to unexpected actions

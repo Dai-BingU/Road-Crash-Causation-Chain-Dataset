@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a straight level barrier divided east/west four-lane interstate in an interchange area. The collision took place in the right eastbound lane where an entrance ramp merges from the right to create a temporary third lane that ends 30 meters west of impact. Barrier walls on the north and south sides divide the interstate which carries 103,000 vehicles per day based on 2003 traffic counts. The crash occurred under rainy and wet road conditions in the early afternoon. Vehicle #1 was a 2002 Mazda Protégé traveling in the right eastbound lane. Vehicle #2, a 1998 Dodge Avenger, was merging from the entrance ramp to the eastbound lanes and began to slow in front of Vehicle #1 due to traffic congestion. The driver of Vehicle #1 applied the brakes and they locked. The front of Vehicle #1 impacted the back of Vehicle #2. The Mazda (V1) was pulled to the right shoulder and Vehicle #2 came to rest in its travel lane, both vehicles facing eastbound. Vehicle #1 was towed from the scene, Vehicle #2 was driven away. Vehicle #1 was driven by a belted twenty seven year old female who was not injured in the crash but was transported to a local hospital for emotional issues. The airbags in Vehicle #1 did not deploy. Police cited her for speed too fast for conditions. Vehicle #1's Critical Pre Crash Event was other motor vehicle In lane: traveling in same direction while decelerating. The Critical Reason for the Critical Pre Crash Event was a recognition error; inattention. This was chosen because the driver of Vehicle #1 was on several medications including a sleep aid and an anti-psychotic and was on her way to work (the main source of her emotional issues) from an emotional therapy session. Associated factors involved were fatigue; the driver works long hours and does not usually get restful sleep. Traveling too fast for conditions as she was keeping up with traffic (she stated 60mph) in the rain approaching a posted work zone. Traffic flow interruption, construction work zone was also coded as an associated factor. Vehicle #2 was driven by a forty two year old belted female who was treated and released from an area hospital with minor injuries. The airbags in Vehicle #2 did not deploy. Vehicle #2's Critical Pre Crash Event was this vehicle decelerating. The Critical Reason for the Critical Pre Crash Event was not coded to this vehicle. The only associated factor coded that contributed to the crash was a traffic flow interruption, construction work zone.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Stress/Emotion, Drugs, Speed/Distance, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Driver Stress/Emotion, Drugs, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Merging
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：This Vehicle Traveling- This vehicle decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred near an intersection on a northbound undivided two-lane rural roadway. The roadway had a posted speed limit of 72 kmph (45 mph) and the northbound lane had an uphill grade of 3 percent. Conditions were daylight and wet with rain. The setting was morning hours on a weekend day. Vehicle one was a 1997 Nissan pickup truck with a camper shell. V1 was traveling northbound in lane one and had just completed negotiating a right curve. As V1 approached the intersection, the vehicle traveled off the right side of the roadway and then returned, skidding in a counterclockwise rotation. V1 rotated 90 degrees and then rolled over two quarter turns, coming to rest on its top in the southwest corner of the intersection. V1 was towed due to damage. V1 was driven by an 18-year old male who was uninjured. His 17-year old passenger was treated on scene for non-incapacitating injuries. He stated that as they were approaching the red light at the intersection and trying to slow down, the brakes failed. He steered right then left in an attempt to slow the vehicle down, and they subsequently overturned. He estimated his travel speed to be about 40 mph. The driver's version of events was not deemed credible after reviewing the police report and the events of the crash. On the PAR, there is no mention of brake failure; in fact, the "Vehicle defects" field was coded "None." The driver was interviewed 17 days after the crash, and the vehicle was not inspected until almost one month after the crash. The researcher did not get permission to inspect the brakes. V1 had a standard transmission and this was the driver's first time driving it. He reported that he had only driven about 3 miles before the crash occurred. It was believed that the driver of V1 panicked as he approached the intersection and drove off the road to the right. In trying to bring the vehicle back onto the roadway, he jerked the wheel to the left and initiated a rollover on the roadway. The Critical Pre-crash Event for V1 was this vehicle traveling off the edge of the road to the right. The Critical Reason was overcompensation. Had the driver not jerked the wheel so hard to the left, he might have returned to the roadway gradually without initiating a rollover. Associated factors coded to this driver include this being his first time driving the vehicle (a standard transmission), driver inexperience (he had only been driving for one year), the wet roadway, and the weather (rain).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

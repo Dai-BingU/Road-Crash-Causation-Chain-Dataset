@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a north/south bound interstate highway divided by a concrete barrier. There were two lanes in each direction. The asphalt roadway was straight, level, dry and dark and poorly lit with a posted speed limit of 89 kph (55 mph). The crash occurred late on a weekday night while traffic was light under clear skies. V1, a 1983 Chevy Caprice Classic four-door with four occupants was northbound in lane one. The left rear wheel fell off of V1 and the vehicle veered to the left across both lanes. It departed the roadway on the left and struck the dividing concrete barrier with the left front several times and it came to rest about 29 m north of where it first struck the barrier facing west across the shoulder and lane two. V1, the Chevy Caprice Classic was driven by a 27-year old female. Neither she nor any of the occupants were injured. According to the driver, V1 was traveling from a friend's home to pick up her child at another friend's home. The driver reported that while she was traveling about 80 kph (50 mph), she felt a bump and hit her brakes. The vehicle swerved to the left and struck the barrier. She added that when the vehicle came to rest and the occupants departed the vehicle they discovered that the left rear wheel had fallen off. She said she did not know why it had done so and said that no work had been performed on the vehicle recently. The Critical Pre-crash Event for V1 was "this vehicle lost control due to disabling vehicle failure (the left rear wheel fell off)". The Critical Reason for the Critical Event was vehicle related "tire/wheel failure". Based on researcher inspection of the vehicle associated factors were coded for the vehicle because it had over-sized, over-inflated tires and very heavy custom wheels.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Tires/wheels failed

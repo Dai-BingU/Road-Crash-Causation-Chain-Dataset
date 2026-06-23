@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lane of a two lane undivided roadway just east of its intersection with a two lane north/south bound divided roadway. There was one lane in each direction of the straight, level, dry asphalt roadway, which had a posted speed limit of 64 kph (40 mph). The crash occurred on a weekday morning during rush hour while traffic was heavy and the skies were clear. V1, a 1997 Ford F350, pickup truck with one occupant was traveling west in lane two. V2, a 1993 Ford Ranger pickup with two occupants was stopped westbound in lane one ahead of V1. V3, a 1994 Chrysler Town and Country minivan with one occupant was stopped westbound in lane one ahead of V2 and behind several other non-contact vehicles also stopped for traffic. While V2 and V3 were completely stopped in the traffic lane, V1 approached V2 from behind and ran into the rear of V2 after applying its brakes with lockup in an unsuccessful attempt to avoid impact. The front of V1 struck the rear of V2 (Event 1) knocking V2 forward where its front struck the rear of V3 (Event 2). When the researcher arrived only V3 was still at the scene. All three vehicles stopped facing west within one or two meters from point of impact. V1, the Ford F350, was driven by a 30-year old male, who was not injured. The driver refused the interview and permission to inspect the vehicle. He referred the researcher to the company owner who also refused permission for either the interview or inspection. He suggested that the researcher submit a letter to his attorney for possible permission. The researcher sent the vehicle owner a letter and flyer explaining the program and requesting permission but never got a response. The Critical Pre-crash Event for V1 was other vehicle in lane stopped. The Critical Reason for the Critical Event was driver related, unknown recognition error since the driver refused the interview. Associated factors assigned to V1 were for driver behavior, recognition, inattention thought focus unknown and too fast for conditions, reason unknown and also for rush hour congestion. V2, the Ford Ranger, was driven by a 40-year old male who received possible injury and transported himself to a hospital. His passenger was not injured. The driver advised that he was completely stopped in a line of stopped vehicle while he was transporting his passenger to school. He said he glanced into his rear view mirror and saw V1 about to strike his vehicle. He added that he already had his foot on the brake and could do nothing to avoid being struck. He reported that the impact of V1 striking him pushed his vehicle forward into the rear of V3. He did not know how close he was to V3 prior to impact two. The Critical Pre-crash Event for V2 was other vehicle traveling in same direction with a higher speed. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors for this vehicle were for the rush hour congestion and for driver physical condition due to presence, the driver had a bad thyroid and was taking medication for it. V3, the Chrysler Town and Country was driven by a 23-year old female, who reported possible injuries and was transported to a hospital. The driver said she had been stopped behind traffic for over a minute while traveling from home to work when she was struck from behind by V2. She had been unaware that she was about to be struck and took no avoidance actions. The Critical Pre-crash Event and the Reason for the Critical Event were not coded for this vehicle since it was not involved in the first harmful event. It was assigned an associated factor for the rush hour congestion.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Speed/Distance, Traffic present problem 
+Vehicle 2:  Driver Physical, Drugs, Traffic, Vehicle present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

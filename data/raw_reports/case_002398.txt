@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of an undivided three-lane roadway. There was an intersection 64 meters west of the point of impact and a store parking lot entrance at the point of impact. The parking lot was outlined with trees in large planter boxes. The planter boxes on the right side of the eastbound lane partially obscured the view of Vehicle 2 up to up to 60 meters prior to impact. The roadway had a posted speed limit of 56 KMPH (35MPH). The crash occurred in the early afternoon hours on a weekday. Vehicle 1, a 1991 Chrysler LeBaron convertible, was traveling east. Vehicle 2, a 2001 Buick LeSabre sedan, was turning left (west) out of the parking lot. As Vehicle 2 pulled out it was contacted on its left side by Vehicle 1's front end in the eastbound lane of the roadway. Vehicle 1 was driven by a 22-year old female who refused treatment by EMS personnel. The vehicle was towed due to damage. An interview of the driver of Vehicle 1 was not obtained. The critical pre-crash event for Vehicle 1 occurred when Vehicle 2 encroached into Vehicle 1's lane to turn left and proceed west. The critical reason for the critical event was not coded to Vehicle 1. However, the driver of Vehicle 1 was thought to have contributed to the crash. As per a witness, Vehicle 1 had gone through a red light at the previous intersection and was traveling at a high rate of speed. Based on the witness statement, the driver of Vehicle 1 was also coded as driving aggressively. The tree/planter box on the right side of the roadway may also have served as a sightline restriction. Due to the lack of an interview, it was not known if there were other contributing factors (e.g. distractions, non-driving activities). The driver of Vehicle 2, an 82-year old male, stated he was stopped waiting for traffic to let him out of the parking lot. When he saw a break in traffic, he checked left and right and proceeded onto the road and was struck on the left side by Vehicle 1. The driver of Vehicle 2 also stated that he noted that the traffic signal at the nearby intersection was red and thought that no one would be coming from the eastbound direction. The driver of Vehicle 2 refused medical treatment on scene. The critical pre-crash event for the driver of Vehicle 2 occurred when he pulled out of the driveway to make a left turn. The critical reason for the critical event was coded as inadequate surveillance. The driver of Vehicle 2 stated that he could still see the eastbound roadway despite the tree/planter box to his left.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Roadway, Speed/Distance present problem 
+Vehicle 2:  Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

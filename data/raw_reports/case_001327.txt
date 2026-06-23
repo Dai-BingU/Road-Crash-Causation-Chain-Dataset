@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash happened during the early morning hours involving one vehicle. The location was a three-lane, divided (no positive barrier, six lanes overall), concrete straight roadway. At the time of the crash it was lightly raining and the roadway was wet, it was dark but lighted. The posted speed limit for the roadway was 56 kmph (35 mph). Vehicle one (V1) was a 1996 Ford Explorer SUV driven by a 33 year-old male was traveling northbound in the first lane. An abandoned shopping cart was located in the lane. The driver recognized the object in the roadway and tried to avoid a collision by steering to the left. This action did not prevent the collision with the shopping cart. The vehicle's front impacted the shopping cart. The vehicle lost control on the slippery road. It drove off the road to its right. Its front first impacted a traffic sign and then a utility pole located east of the roadway. The pole broke off and fell onto the vehicle's roof. After it impacted the pole the vehicle kept driving north for about 35 meters (115 feet). The shopping cart was separated from the vehicle about 12 meters (39 feet) north of the original location of the pole. The vehicle came to rest within lane one, facing north. The pole was on top of the vehicle, still attached to its utility wiring. V 1 was towed from the scene. The driver was not injured. Prior to the collision the driver was on his way home from a fast food restaurant and was eating his breakfast while driving. He stated he was looking straight ahead while driving in the rain and did not see the cart until the last second. Based on the vehicle dynamics he was traveling at a rate of speed higher than the posted speed limit. He was able to steer slightly left before impact, but his reaction time did not allow any additions avoidance actions. The critical pre-crash event for V1 was coded: object or animal, object in roadway. The critical reason was coded as a driver related factor: inadequate evasive action.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Roadway, Speed/Distance, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Object in roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate evasive action, e.g. braking only, not braking and steering

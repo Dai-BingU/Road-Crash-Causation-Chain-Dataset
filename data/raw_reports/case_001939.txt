@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the southbound lane of a 2-lane undivided roadway located near a downtown college campus. The roadway is straight, runs north and south, and has a posted speed limit of 56 kmph (35 mph). The conditions were clear, dry and daylight. V1, a 1992 Buick Skylark, was legally parked on the right side of the southbound road. V2, a 1993 Honda Accord EX, was traveling south on the same road. V1 left its parked position and made a u-turn across the path of V2. V2 attempted to brake and steer left around V1, but it could not and the two vehicles collided. The front left corner of V1 struck the right of V2. V1 sustained disabling damage but V2 was able to drive away from the scene. V1 was driven by a 26-year-old female that was leaving the parking space in front of her house when she was involved in this crash. She was on her way to a job interview at a local mental hospital (4 miles from crash site) when she started her vehicle, checked her mirrors for southbound traffic, and made a u-turn. As she entered the southbound lane from her parked position, she was immediately struck in the left front bumper by a southbound Honda. She claims she never saw the Honda when she was checking her mirrors and thinks the Honda must have been "traveling really fast" because it came out of nowhere. She was not injured in the crash but her passenger was transported for emergency room examination. The Critical Precrash Event for V1 was coded: this vehicle traveling over the lane line on left side of travel lane. The Critical Reason for the critical precrash event was coded: inadequate surveillance (looked but did not see). V2 was driven by a 23-year-old male and full time college student that also works a part-time job as a day care teacher. He works at the day care center in the mornings and attends class in the afternoon and evening. He admits he does not sleep much during the week and spends much of his time on the weekend catching up with his schoolwork. He said he usually has plenty of time to get to class from work because they are only 3 miles apart. However, today he forgot a book at a friend's house and he had to stop there to pick it up before school. He admits he was running late for class before the crash happened but maintains the other vehicle still caused the crash. This driver says that as he was driving south on this 2-lane road, a Buick Skylark parked in the same southbound lane on the right side, pulled out from its position, and attempted a u-turn in his lane. He says he applied his brakes and steered left but could not avoid colliding with the Buick. He was wearing a seat belt at the time of the crash and did not report any injuries. The Critical Precrash Event for V2 was coded: other vehicle encroaching from adjacent lane - over right lane line and the Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+Vehicle 2:  Aggressive Behavior, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Leaving a parking position
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred at the intersection of a three-lane divided roadway and a one-lane divided roadway. For westbound traffic there is one travel lane separated by a 3-meter (9.8-feet) wide raised curbed median followed by one eastbound lane. Westbound traffic is controlled by a stop sign. For northbound traffic there is three travel lanes. The northbound road was dry, traveled, and straight concrete. The westbound roadway was dry, traveled, level asphalt. The posted speed limit is 64 kmph (40 mph). Traffic was moderate at the time of the accident. This crash occurred during daylight hours with clear skies. Vehicle one (V1), a 2000 Ford Explorer was northbound in the third travel lane with the driver and one passenger. Vehicle two (V2), a 2004 Lexus GX470 was stopped westbound in the first travel lane also with the driver and one passenger. V1 attempted a right turn from the third lane, lost directional control of the vehicle, crossed over lanes two and one. V1 then entered the intersecting roadway and departed the left side of that roadway into the the center median separating the east and westbound travel lanes striking a sign. V1 then crossed through the median into the opposing travel lanes and its left plane impacted with the left side of V2. V1 then reentered the center median and the front of V1 struck a tree. V1 came to rest facing southeast in the median. V2 did not move from the point of impact. V1 was towed due to damage. V2 did not sustain disabling damage. The driver of V1, a thirty-four year old female was heading to the pool from home at the time of the crash. This driver had been driving for about thirty minutes at the time of the crash. This drive stated that she was trying to avoid another vehicle that was crossing her path from right to left. There is no evidence that the vehicle existed. The driver of V1 is not licensed to drive. This driver drives this vehicle daily, but this is her first time on this road. The driver of V2, a twenty-nine year old female was coming from home at the time of the crash. This driver had been driving for about ten minutes at the time of the crash. This driver stated that she moved forward to avoid the other vehicle. This driver drives this vehicle daily and over this road daily. The critical pre-crash event for V1 was coded as: this vehicle traveling; off the edge of the road, on the left side. The critical reason for the critical pre-crash event was attributed to V1 and was coded as a driver related decision factor: illegal maneuver. Poor directional control and unfamiliarity with the roadway were also factors for this driver. The critical pre-crash event for V2 was coded as: other; not involved in first harmful event. The critical reason for the critical pre-crash event for V2 was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Inexperience, Driver Performance, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

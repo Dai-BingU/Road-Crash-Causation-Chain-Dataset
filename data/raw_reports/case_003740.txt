@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary V1, a 2000 GMC Sierra was traveling northbound on a two lane, two way dry asphalt roadway on a level grade. V2, a 1994 Acura Integra, was traveling southbound on the same roadway. The driver of V1 stated that she had seen V2 coming from the opposite direction swerving in and out of the lanes. The driver of V1 slowed down and steered to the right as far as possible trying to avoid contacting V2. V1 could only get over so far because of a guardrail on the road edge. V1 contacted the right side of V2 with its front. Both vehicles then contacted the guardrail with their fronts before coming to final rest on the East road edge. The driver of V1 was an 18-year old female who reported that she had been traveling between 40-50 mph prior to the crash. She had no health related problems, and had taken no medications prior to the crash. She was rested and traveling home from a friend's house. She was wearing her prescribed lenses that corrected a myopic (nearsighted) condition. She sustained no injuries and refused to be transported to the hospital. The Critical Precrash Event for the driver of V1 was other vehicle encroachment from opposite direction over the left lane line. The Critical Reason for the Critical Event was not coded for the driver of V1and she was not thought to have contributed to the crash. She took appropriate avoidance actions. The driver of V2 was a 44-year old woman who reported that she had blacked out and did not remember anything. She did report that she was on her way to pick up her taxes. She had a history of high blood pressure, which may have been a factor in her loss of consciousness. She was taking Metoprolol Tartate for her condition. She does not wear prescriptive lenses. Driver sustained severe injuries including a punctured lung and six broken ribs. She was transported to a local trauma facility. The Critical Precrash Event for the driver of V2 was when the driver traveled over the lane line into the opposing lane. The Critical Reason for the Critical Event was coded as “heart attack or other physical impairment of the ability to act.” An Associated Factor included the high blood pressure condition of the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

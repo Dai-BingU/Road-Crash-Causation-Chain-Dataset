@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a one-way roadway with one lane of travel. The roadway was straight and level and it was clear with no adverse conditions. The speed limit was 48kmph (30mph). V1 was a 1996 Saab 900 that was pulling out of the left parking lane. V2 was 1996 Plymouth Neon that was traveling northbound on the roadway. As V1 pulled out of the left parking lane, it was impacted by the front of V2. The front of V1 then impacted the back of V3, a 1996 Land Rover Discovery. V2 then impacted V4, a 1995 Pontiac Bonneville, and V5, a 1994 Jeep Wrangler; that were parked on the right side of the road. V1 was driven by a 27 year-old female who did not sustain any injuries. An occupant in the right-front seating position also did not sustain any injuries. The driver stated that she was pulling out of the parking spot on the left side of the roadway and did not see V2. The Saab was towed due to damage. The Critical Pre-crash event for V1 was coded as: This vehicle traveling, over the lane line on the right side of travel lane. The Critical Reason for the Critical event was coded as a Driver related factor, inadequate surveillance. An associated factor coded to the driver was also inadequate surveillance, looked but did not see. V2 was driven by a 39 year-old male who did not sustain any injuries. The driver was going straight, and attempted to brake with lock-up but could not avoid the crash. The Plymouth was not towed due to damage. The Critical Pre-crash event for Vehicle # 2 was coded as: Other Vehicle encroachment, from parking lane. The Critical Reason for the Critical event was not coded to the driver. The only associated factor coded to the driver was that he was traveling too fast for conditions; the driver did not realize that caution was required. Other possible associated factors were coded unknown because no driver interview was obtained.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Leaving a parking position
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From parking lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

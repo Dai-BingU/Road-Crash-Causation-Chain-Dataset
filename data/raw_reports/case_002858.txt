@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three vehicle crash occurred in the early morning daylight hours in the urban intersection of a four lane two way roadway and a two lane one way roadway. The intersection is controlled by a tri-color traffic control signals and has no pedestrian crossings or signals. The four lane roadway runs east/west, and the one-way roadway runs north. The lane markings on the four lane roadway are worn to the point of being nonexistent and the double yellow center line marking is very faded. There are no roadway markings on the one way roadway. The intersection is flat and level and the roadways are straight The speed limit on the four lane roadway is posted as 40 kmph (25 mph) and 48 kmph (30 mph) on the one way roadway. The roadways were dry bituminous, with no adverse weather conditions at the time of the crash. There does exist a roadway sight restriction at the southwest corner of the intersection, a building that blocks the view of northbound traffic to eastbound drivers. Vehicle one (V1), a 1992 Buick LeSabre 4-door driven by a 18 year-old male with one passenger, was eastbound in the second lane approaching the intersection. Vehicle two (V2), a 1998 Ford Escort 4-door sedan driven by a 36 year-old female, was northbound in the first lane of the one way roadway. Vehicle three (V3), a 2004 Lexus SC430 2-door driven by a 67 year-old male with one passenger, was stopped westbound at the intersection in the second lane. V2 entered the intersection northbound. V1 entered the intersection and impacted with the left side of V2 with it's front end. V2 rotated counter clockwise off the initial impact and struck the front of V3 with the right side. All three vehicles initially came to final rest in the intersection. Subsequently V1 and V3 were driven from the scene. V2 was towed from the scene and the driver of V2 was transported to a local trauma center. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as a driver related factor: Illegal maneuver, for disregard of traffic signal. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle. V3 was not involved in first harmful event. The critical reason was not coded to this vehicle. Note: a building on southwest corner may have been a view obstruction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Roadway, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Fatigue, Driver Stress/Emotion, Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

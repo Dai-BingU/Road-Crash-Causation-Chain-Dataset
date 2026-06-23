@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two lane undivided roadway with an upgrade of 2.2% and a posted speed limit of 30 MPH (48 KPH). It was raining, the roadway was wet and it was daylight at the time of this weekday afternoon crash. Vehicle 1, a 1995 Dodge Neon, was traveling east on the two-lane roadway. Vehicle 2, a 1999 Crown Victoria, was also traveling east ahead of Vehicle 1. Vehicle 2 had pulled off the roadway to the right onto the sidewalk. Vehicle 1 attempted to pass on the left as Vehicle 2 re-entered the roadway to make a left hand turn into a side street. Vehicle 1 was struck in the right side by the front of Vehicle 2. Vehicle 1 continued off the right side of the roadway, struck a stone wall with its front and came to rest facing south. Vehicle 2 pulled off to the right side of the roadway and stopped facing east. Vehicle 1 was towed due to damage. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. The Dodge Neon (Vehicle 1) was driven by a belted 20-year-old female who was transported, treated and released at a local hospital for complaint of pain. She stated that she was driving on the road and saw the other vehicle on the side of the road. As she passed the vehicle he hit the right side of her vehicle. She looked over to the right at the "bang", went off the right side of the road and hit a wall. She had no hearing or vision impairments and was in good health. The only medication she took was an unspecified birth control pill. The Critical Precrash Event for Vehicle 1 was coded as Other (specify) other vehicle encroachment from side of roadway (sidewalk). The Critical Reason for the Critical Precrash Event was not coded to this vehicle. No additional factors were coded to this driver. The Ford Crown Victoria (Vehicle 2) a taxi was driven by a belted 21-year-old male who was not injured. He stated that he was on his way to pick up a customer, but had the wrong street address. He drove the roadway only monthly and was not familiar with the street he was looking for. He drove down to the next place to turn around, made a U-turn and proceeded back the way he had come. He said he had stopped to make a left turn (was at an angle), had his blinker on and was waiting for two cars to pass before making the left. He advised that the other vehicle came around his left side and struck the front of his vehicle. He pulled off the road and called for assistance. He stated he was in good health, wore contacts for an unknown vision impairment, took no medications and was not fatigued. The Critical Precrash Event for Vehicle 2 was coded as Other (specify) leaving side of roadway (sidewalk) to re-enter roadway. The Critical Reason for the Critical Precrash Event was inadequate surveillance, failed to look, looked but did not see, a recognition error. This was chosen because the driver made no mention of seeing the other vehicle until she hit him. It may have been possible that since the driver was unsure of the correct direction to take for the address he was looking for, he may have been on his cell phone or CB requesting directions.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Weather/Environment present problem 
+Vehicle 2:  Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other- Other (specify) :
+ 2 ：Other- Other (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

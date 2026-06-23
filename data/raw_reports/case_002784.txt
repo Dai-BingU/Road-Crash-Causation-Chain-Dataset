@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle rear end configuration mid-morning crash occurred in the #2 eastbound lane of an urban, two-way, five lane, dry, straight, level, asphalt roadway. The roadway consists of two westbound and two eastbound lanes that are separated by a continuous left turn lane. The posted speed limit on the roadway where the crash occurred is 56 kmph (35 mph). At the time of this crash it was clear, and there were no sight line restrictions or environmental factors that contributed to the crash but the traffic was congested. The crash occurred approximately 6.1 meters (20 feet) east of a T-intersection that is controlled by a traffic light on colors that was functioning properly at the time of the crash. Vehicle one (V 1), a 2005 Volvo S60 4 door was traveling eastbound in the #2 lane through the intersection. V 1 cleared the intersection, and the front of V 1 struck the rear of V 2. V 1 came to rest in the #2 lane facing east. The V 1 driver, a restrained 41-year old male, stated that he was traveling to the rear of V 2 and it stopped suddenly. He applied the brakes (no lock up) and struck V 2. The V 1 driver stated that he had been following V 1 too closely. The V 1 driver did not report any injuries at the scene. The V 1 driver estimated his speed at 16 kmph (10 mph) when he collided with V 2. The V 1 driver was on his way home from his parents' house after spending a week of vacation with them. V 1 was towed due to damage. Vehicle 2 (V 2), a 1994 Nissan 4X4 pickup was traveling eastbound in the #2 lane. V 2 stopped for traffic ahead that was also stopped. The V 2 driver stated that she had been stopped for about 2-3 seconds before the collision with V 1. The impact propelled V 2 forward and the front of V 2 collided with the rear of V 3. The restrained V 2 driver, an 18-year-old female, stated that prior to stopping in the traffic lane, she had looked straight ahead and had noticed V 3 stopping. She then looked in the rear view mirror and saw V 1 approaching from the rear in the same lane. The V 2 driver stated that when she noticed V 1 it had just entered the intersection and was accelerating. The V 2 driver stated that she stopped for about 2-3 seconds about 1-½ car lengths behind V 3. The V 2 driver was on her way to work from home and had been driving for about 30 minutes and about 24 kilometers (15 miles) before the crash occurred. The V 2 driver did not report any injuries as a result of this crash. V 2 was driven from the crash scene. Vehicle #3(V 3), a 1996 Nissan pickup was traveling in the eastbound #2 lane in front of V 2. V 3 was struck from behind by V 2 and came to rest in the #2 eastbound lane facing east. The restrained driver of V 3, a 32-year-old male, stated that he was stopped for about 2 seconds before he was hit from behind. The driver did not look behind his vehicle while he was stopped. The V 3 driver stated that he was traveling from home to go to his wife's work. The V 3 driver did not report any injuries as result of this crash. V 3 was driven from the crash scene. The pre event movement for V 1 was coded as "going straight". The Critical Pre-crash event was coded as "other motor vehicle in lane other vehicle stopped. The Critical reason was coded as a driver decision factor: misjudgment of gap or other's speed. Since the driver of V2 had actually stopped for 2-3 seconds before impact, V1 was not following too closely but instead misjudged the gap and speed of V2. The Pre-event movement for V 2 was coded as stopped in traffic lane The Critical Pre-crash event was coded as "other motor vehicle in traffic lane-traveling in same direction with higher speed". The Critical reason was not coded to this vehicle. The Pre-event movement for V 3 was coded "stopped in traffic lane". This vehicle was not involved in the first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

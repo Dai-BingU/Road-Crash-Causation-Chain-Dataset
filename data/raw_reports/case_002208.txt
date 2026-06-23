@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the middle of a “T” intersection. The northbound lane was a one-way roadway, which intersected the two-way, two-lane east/west roadway. A stop sign was present for the one-way traffic, however there were no signs or signals present for the east/west roadway. The incident occurred in the early morning hours, and it was raining at the time of the crash. Both roadways were considered to be level, and both roadways had a posted speed limit of 40kph (25mph). Vehicle one (V1), a 2003 Suzuki XL-7, was traveling north on the one-way roadway approaching the intersection. Vehicle two (V2), a 1989 Nissan Maxima, was traveling west on the two-way roadway also approaching the intersection. The front of V2 made contact with the left front of V1. Both vehicles came to final rest shortly after the impact. Vehicle one was driven from the scene, however, vehicle two had to be towed due to vehicle damage. The driver of V1, a 40-year old male, did not suffer any injuries as a result of the crash and did not require any medical attention. An interview could not be obtained from the driver because the telephone number on the Police Accident Report (PAR) was for a fax machine. No record of the driver could be found in the phone book or on the Internet. Through information contained in the PAR, it was revealed that the driver of V1 was not familiar with the area. Further, he believed that the crossing roadway was also a one-way roadway and that V2 had a stop sign as well. The Critical Precrash Event was coded as unknown travel direction because the driver's intentions were unclear. The Critcal Reason for the Critical Precrash Event was coded as false assumption of other's actions, because he thought V2 had to stop at the intersection. The driver of V2, a 46 year-old female, did receive injuries, however, the severity of which are unknown. The driver was taken to the hospital for treatment. After numerous attempts, an interview could not be obtained from the driver. The Critical Precrash Event for V2 was coded other vehicle encroachment from crossing street, intended path not known. The Critical Reason for the Critical Precrash Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Traffic, Weather/Environment present problem 
+Vehicle 2:  Roadway, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

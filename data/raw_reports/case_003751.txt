@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred during early evening dark hours, in the eastbound lanes of a 2 lane divided highway. The posted speed limit is 89 kmph (55 mph) the roadway was wet with standing water in the westbound lanes, and heavy rain pouring down. This portion of roadway is under construction to add more lanes, and divide further with more of a median. However at the time of the crash there was no worker's present. The westbound is a slight uphill grade, and the lane merges to the left slightly just prior to the area of control loss. This is part of the construction re-routing. The eastbound lane is straight and a slight downhill slope. Vehicle one (V1), a 2002 Chevrolet Impala 4 door sedan, was driven by a 23 year-old male with one passenger. V1 was traveling westbound in lane one, as the vehicle merged to the left to follow re-routing of the lane, the vehicle came in contact with standing water, and hydro planed, and lost control. The driver attempted to steer to the right, however the vehicle rotated counter-clockwise and to the left into the gravel median. As V1's right side tires came in contact with the paved edge of the eastbound lanes, it caused the vehicle to roll to the right. V1 became airborne, and came down on its left side sliding in a southeast direction. The undercarriage of V1 impacted a motorcycle that was traveling in the eastbound lane. V1 came to rest facing northeast on the east shoulder. V1 then caught fire in the fuel or exhaust system. V1 was towed due to damage. Vehicle two (V2), a 2002 Harley Davidson STC driven by a 46 year-old male with one passenger. V2 was traveling eastbound in lane one when the undercarriage of V1 impacted the front tire. V2 was towed from the scene. The critical pre-crash event for V1 was coded: this vehicle loss due to - poor road conditions (standing water). The critical reason for the critical event was coded to V1 as a driver related factor: too fast for conditions. V2 was not involved in first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Roadway, Speed/Distance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Drugs, Roadway, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

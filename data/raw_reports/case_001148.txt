@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred at a T-intersection. The main road is five-lanes with a center turn lane. This main road is straight and level with no defects. The main road has a speed limit of 64 kph (40 mph). The main road is not controlled by any traffic control devices. The intersecting road has three lanes and a bike lane. This road is straight and level and is controlled by a stop sign. This road has a speed limit of 56 kph (35 mph). At the time of the crash it was raining heavily with standing water on the roadway. This crash occurred during nighttime hours with additional lighting. Vehicle one, a 1992 Mercury Sable was stopped facing westbound in the second lane. Vehicle two, a 2002 Ford Mustang, was northbound in the second lane. Vehicle one turned left at the intersection and the front of vehicle one impacted the front of vehicle two. Both vehicles were towed due to damage. The driver of vehicle one, a nineteen-year old male was on his way to pick up a friend. This driver had been driving for about fifteen minutes at the time of the crash. This driver stated that he was stopped for about five minutes at the stop sign waiting for the traffic to clear. This driver stated that he saw a vehicle to his right and then turned left. This driver stated that he was a little annoyed for having to go get his friend. This driver drives this vehicle only a couple of times a month and over this road on a daily basis. The driver of vehicle two, a thirty-three year old female was not interviewed. There is no known pre-crash information on this driver. The critical pre-crash event for vehicle one was coded as “this vehicle traveling: turning left at intersection”. The critical reason for the critical pre-crash event was attributed to vehicle one and was coded as “driver related factor: Inadequate Surveillance”. The critical pre-crash event for vehicle two was coded as “other vehicle encroachment: from crossing street, across path”. The critical reason for the critical pre-crash event for vehicle two was coded as “not coded to this vehicle”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

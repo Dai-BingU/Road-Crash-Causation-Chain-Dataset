@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a curve of a two-lane undivided roadway with a posted speed limit of 89 KMPH (55 MPH). The weather was clear and the roadway was dry and level. This crash occurred on a weekend afternoon. Vehicle #1, a red 2003 Buick Century, was traveling south on the two-lane undivided roadway negotiating a curve to the right when it went over the left side double yellow lines into the northbound lane. Vehicle #2, a white 1992 Nissan Sentra, was traveling north on the same roadway negotiating the same curve. Vehicle #1 impacted the front left of Vehicle #2 with its front left. Vehicle #1 spun counter-clockwise and came to rest facing north on the southbound shoulder. Vehicle #2 spun counter-clockwise and came to rest on the northbound shoulder facing south. The Buick Century (Vehicle #1) was driven by a belted 58-year old female who was airlifted to a trauma center and hospitalized due to left leg and abdominal injuries. She stated that she could not remember the actual crash but does remember talking with her passenger and then waking up to see dirt, a broken window and the airbag. The right front passenger in this vehicle was a relative of the driver, a belted 80-year old male with a previous diagnosis of dementia. He was transported to an area hospital. The driver of this vehicle takes several medications for diabetes, high blood pressure, and depression. She also has been diagnosed with sleep apnea. Possible side effects of these medications include drowsiness and lethargy. It should be noted here that a witness described this driver as looking “like she fell asleep.” Vehicle 1 was towed due to damage. The Critical Pre-crash Event coded to Vehicle #1 was this vehicle traveling over the lane line on the left side of the travel lane. The Critical Reason for the Critical Pre-crash Event was coded as an unknown critical non-performance error. It was possible that the driver fell asleep or that she passed out - medical records did not indicate a cause for the crash. Associated factors coded to this driver include her previous medical conditions (sleep apnea, diabetes, high blood pressure, depression), the prescription medications she had been taking, and her conversation with her passenger prior to the crash. The Nissan Sentra (Vehicle #2) was driven by a belted 30-year old male who was airlifted to an area trauma center. There was a belted 27-year old female passenger in the right front seat who was transported to an area hospital. The occupants of this vehicle were not available for interviews and did not return messages. This vehicle was towed due to damage. The Critical Pre-crash Event coded to Vehicle #2 was other vehicle encroachment from opposite direction over left lane line. The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. No associated factors could be coded to this driver due to the lack of an interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown critical non-performance
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

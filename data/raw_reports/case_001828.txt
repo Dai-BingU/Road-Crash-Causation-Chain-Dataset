@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle nighttime crash occurred during the evening rush hour dark hours on an urban overpass that is fully controlled, 2-way, has one travel lane in each direction, no shoulder, and a short concrete barrier topped by a metal rail fence. The roadway curves to the right for westbound traffic, and is level in the crash area. Southbound traffic is on an uphill grade of +10% in the pre-crash area that becomes level in the crash area. The road surface is concrete, has a posted speed limit of 48 kph (30 mph) and was wet. At the time of the crash, it was dark, the roadway was not illuminated light rain was present. There were no sight restrictions or adverse weather conditions. Vehicle 1 (V 1), a 2004 Lexus RX330 SUV, driven by a 31 year-old male was traveling west in lane one. Vehicle 2 (V 2) a 1996 Toyota 4 Runner SUV driven by a 25 year-old male was traveling east in lane one. As V 1 was negotiating the curve, it lost traction, slid outward into the oncoming lane, just missed a non-contact vehicle in front of V 2, and had a front corner impact with the left side of V 2. The left front wheel assemblies of both vehicles snagged, then the 2 vehicles separated and V 1 departed to the right, exited the right road edge, and had a front impact with the footing of the concrete barrier. Both vehicles were towed due to damage. The pre-event movement for V 1 coded negotiating a curve, category this vehicle traveling over the lane line on left side of travel lane. Critical reason driver related factor; too fast for curve/turn." The pre-event movement for V 2 coded negotiating a curve, category other vehicle encroachment from opposite direction-over left lane line. Critical reason not coded to this vehicle. An Associative Factor for this crash is the V 1 driver's Blood Alcohol Content (BAC), which the PAR reported as 0.12.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Alcohol, Decision, Roadway, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Distraction, Driver Stress/Emotion, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary Case #2006-41-005 The crash occurred in the intersection of two roadways. The east/west street was a two-way, four-lane undivided roadway. The north/south street was a two-way, five-lane undivided roadway. Posted speed in all directions was 48kmph (30 mph). The intersection was controlled by a stoplight. Conditions were daylight on a weekday afternoon with dry roads and clear skies. Traffic flow was normal. V1, a 1985 Cadillac Deville with one occupant, was traveling eastbound in lane two. V2, a 2002 Lincoln LS with one occupant, was traveling northbound in lane one. V3, a Mitsubishi Gallant with two occupants, was stopped at the traffic light, facing westbound in lane two. All vehicles were approaching the same intersection. As V1 and V2 entered the intersection, the right side of V1 made contact with the front of V2. V1 and V2 then traveled in a northeast direction. The left side of V2 made minimal contact with the left side of V3. V1 and V2 were towed due to damage. V1 was driven by a 54-year old female, who was transported to the hospital with possible injuries. The driver had a history of medical problems including Bi-polar disorder, seizures, and depression. Treatment of these problems included a variety of medications with various side effects including dizziness, drowsiness, tremors, weakness and confusion. She stated that she was going eastbound on a green light. She indicated that if the light did indeed turn red before she got to the intersection, then it did so very quickly because she thought it was green. The Critical Precrash Event for V1 was coded this vehicle traveling, passing through intersection. The Critical Reason for the Critical Event was a recognition error, inattention. One associated factor for this driver was vision impairment. The driver does not comply with a restriction on her license to wear corrective lenses. Another associated factor was the presence of drugs and their various side effects. An additional factor was the presence of family and personal problems. There was also the illegal maneuver factor of failing to stop for the traffic control device. V2 was driven by a 69-year old female, who refused treatment. She stated that she was traveling northbound when V2 failed to stop for a red light. She said the other driver appeared to be disoriented, but not necessarily from the accident. She indicated that she thought it was particularly strange that the other driver exited out the driver side window rather than using the driver door, which was not damaged in the crash. Her opinion was that the other driver was drinking or medicated. The Critical Precrash Event for V2 was coded other motor vehicle encroachment, from crossing street across path. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors coded to this vehicle. The driver was not thought to have contributed to the crash. V3 was driven by a 16-year old male, who was not injured. He stated that he was stopped, facing westbound, at the stoplight. He clearly saw V1 coming the opposite direction run the red light. He witnessed the impact and after a brief comment to his passenger exclaimed that V2 was coming right at them. He said that it appeared V2 made a steering maneuver to avoid him at the last second, minimizing the impact between he and V2. The driver agreed that the driver of V1 acted very unusual at the scene. The Critical Precrash Event for V3 was coded as other as V3 was not involved in the first harmful event. The Critical Reason was not coded to this vehicle. Driver inexperience was the only associated factor present for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Driver Stress/Emotion, Drugs, Vision present problem 
+Vehicle 2:  Drugs present problem 
+Vehicle 3:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

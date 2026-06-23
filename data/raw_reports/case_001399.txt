@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of two roadways. The east/west street and the north/south street were two-way, two-lane, undivided roadways. The north/south street leading into the intersection was controlled by a stop sign. These were straight, level, bituminous roads. Conditions were dark with streetlights on. The roadway was dry and skies were clear. Traffic flow was normal. V1, a 2002 Ford Crown Victoria Interceptor with two occupants, was traveling westbound in lane one. V2, a 2001 BMW 330i with two occupants, was traveling northbound in lane one. Both vehicles were approaching the same intersection. The driver of V1 was driving slowly, circulating the area looking for a culprit. The driver saw the suspect riding a bike. As the suspect began to flee from the police car, the driver speed up, knocking the driver off of the bicycle, and coming to a halt. The suspect then fled on foot, in the direction of the intersection. At this point, V1 accelerated toward the intersection in pursuit of the suspect. As the two vehicles entered the intersection, the front left corner of V1 made contact with the front right corner of V2. This impact was immediately followed by a sideslap impact of the left side of V1 and the right side of V2. V1 continued to travel northwest, making contact with a tree. V1 came to final rest facing west, leaning against the tree at a forty-five degree angle. Both vehicles were towed due to damage. V1, the Crown Victoria, was driven by a 35-year old male who was transported due to injury. The driver declined to be interviewed as a matter of policy. The Critical Precrash Event for V1 was “other vehicle encroachment, from crossing street across path”. The Critical Reason for the Critical Event was not coded to this vehicle. One associated factor for this driver was an external distraction. The driver was looking at an outside person, mainly the suspect that was fleeing the scene. V2, the BMW 330i, was driven by a 35-year old male who was transported due to injury. The driver did not return telephone requests for an interview. The Critical Precrash Event for V2 was “this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Event was an environment related factor. Actually there were two environment related factors, which equally contributed to the crash. An illegally parked vehicle and eight-foot tall hedges blocked V2's view of V1. The Critical Reason was coded under “other highway related condition” because the only two Critical Reasons pertaining to view obstructions do not incorporate hedges or illegally parked vehicles in the definitions. One associated factor was decision related. The driver attempted to cross the intersection with an obstructed view. Another factor was an illegal maneuver. The driver failed to yield the right-of-way to V1.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Roadway present problem 
+Vehicle 2:  Decision, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Environment Related Factor- Other highway-related condition (specify):

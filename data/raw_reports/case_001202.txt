@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred during daylight hours on a weekday. The crash occurred at the intersection of a north-south roadway and an east-west roadway. The intersection is controlled by a tri-light traffic signal, and the speed limit is 56 kmph (35 mph) in all directions. At the time of the crash, there were no adverse atmospheric conditions and the roadway was free of defects. Vehicle one (V1), a 2001 Nissan Xterra, was traveling northbound in the second lane of a five-lane, two-way, undivided, dry, level, bituminous roadway, approaching the intersection with the intention of passing straight through. Vehicle two (V2), a 2000 Toyota Camry four-door sedan, was traveling westbound in the first lane of a five-lane, two-way, undivided, dry, level, bituminous roadway, approaching the intersection with the intention of passing straight through. As both vehicles entered the intersection, the front of V1 impacted the left side of V2. Both vehicles deflected northwest and came to rest in the intersection. The 24-year-old male driver of V1 reported that he was passing through the intersection on the green phase of the tri-light. He said that he was aware of V2's approach, and that he assumed that V2 was approaching on the red phase of the tri-light and would therefore stop. When V2 entered the intersection, the driver of V1 applied his brakes, but was unable to stop in time. The critical precrash event for V1 was: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was attributed to V1, and was coded as a driver related factor: false assumption of other's actions. The 71-year-old female driver of V2 reported that she was approaching the intersection on the green phase of the tri-light. No other information was available to corroborate or refute this. She reported that she was not aware that V1 was coming towards her, although she was aware of its presence. She also said that she applied the brakes when V1 entered the intersection. An associative factor of inadequate surveillance is attributed to V2. The critical precrash event for V2 was: other vehicle encroachment; from crossing street, across path. The critical reason for the event was not attributed to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Vision present problem 
+Vehicle 2:  Driver Physical, Drugs, Surveillance, Vision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

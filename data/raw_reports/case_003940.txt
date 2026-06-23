@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the southbound lanes of a four-lane roadway divided by a concrete median barrier. There were two southbound lanes and two northbound lanes. This was a straight, concrete roadway with an uphill grade. The posted speed limit was 72 kmph (45 mph). It was late in the afternoon on a weekday and the road was dry and conditions were clear. Traffic flow was moderate. V1 was a 2005 Toyota Corolla four-door driven by a 52-year old female. The vehicle was traveling in the first southbound lane. V2 was a 1999 Ford Ranger pickup driven by a 44-year old male, who was also traveling in the first southbound lane. V2 had come to a stop behind a bus that was dropping off and picking up passengers. V1 was traveling in the same lane as V2 and did not see that V2 and the bus were stopped. The driver of V2 saw V1 approaching in his rearview mirror and realized that it was not slowing down. The driver began pulling V2 onto the right side shoulder of roadway when it was struck by V1. Both vehicles came to final rest on the shoulder of the roadway. The Critical Pre-crash Event for V1 was "other motor vehicle in lane, other vehicle stopped." The Critical Reason for the Critical Pre-crash Event was driver inattention. There was enough distance for the driver of V1 to see the stopped vehicles and slow down accordingly. The driver of V1 failed to realize that the vehicles in front of her were stopped. Associated factors coded to the driver of V1 include inadequate surveillance in that she failed to look far enough ahead to see the bus, and a traffic flow interruption caused by the stopped bus. The Critical Pre-crash Event for V2 was "other motor vehicle in lane traveling in same direction with higher speed." The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. The driver of V2 attempted correct avoidance maneuvers but was still unable to avoid the crash. Associated factors coded to the driver of V2 were the fact that he was in a hurry to get to a social event and the traffic flow interruption caused by the stopped bus.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance, Traffic present problem 
+Vehicle 2:  Driver Stress/Emotion, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

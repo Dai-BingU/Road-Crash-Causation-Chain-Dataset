@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a 4-lane roadway divided by a concrete barrier (two eastbound lanes and two westbound lanes). This was a straight, level bituminous roadway with a posted speed limit of 64 KPH (40 MPH). There was a heavy rain falling, the roadway wet and it was dark but lighted at the time of this weekday late afternoon crash. The traffic flow was normal for that time of day. V1, a 1997 Chevrolet Monte Carlo, was traveling east in the passing lane of the roadway approaching the tollbooths. V2, a 2004 Subaru Legacy, was traveling behind V1 in the same lane. V1 approached a crossover on the left between the east and westbound lanes. V1 attempted a left turn into the crossover. V2 attempted to avoid V1 by steering left, but was unable to stop in time and struck V1 in the left side with its front. V1 was rotated counterclockwise and came to rest facing in a northerly direction. V2 came to rest facing in a northeasterly direction. V1 was towed due to damage. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. V1, the Chevrolet Monte Carlo, was driven by a belted 40-year-old female who complained of pain, but refused treatment. The right rear passenger, a 4-year-old male secured in a child safety seat was not injured. Driver of V1 stated to police that she was making a left turn into the rest area on the westbound side of the roadway. No additional information was obtained as the driver could not be contacted or located. The Critical Precrash Event for V1 was "this vehicle traveling over the lane line on the left side of travel lane". The Critical Reason for the Critical Event was an illegal maneuver, a decision error. This was chosen because the driver attempted a left turn over hazard markings. It should be noted that the only way to access the rest area is from the westbound lanes. Also coded to this driver were wet roadway and rain (roadway and weather related factors). V2, the Subaru Legacy, was driven by a belted 28-year-old female who was not injured. Driver of V2 stated to police that it appeared that V1 was signaling to use the left hand E-Z pass lane when V1 slowed/stopped to make a left hand turn prior to the toll booths. V2 stated she was unable to stop in time and struck V1 in the driver's side. No additional information was obtained as the driver could not be contacted or located. The Critical Precrash Event for V2 was "other vehicle encroachment from adjacent lane (same direction) over the right lane line. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors coded to this driver were misjudgment of velocity of other vehicle, false assumption that the other driver would continue to proceed (driver decision errors), wet roads (highway related) and rain (weather related).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Weather/Environment present problem 
+Vehicle 2:  Decision, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

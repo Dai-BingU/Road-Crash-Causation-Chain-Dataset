@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening with no adverse weather conditions, and the roadway was dry. It took place on a two-lane undivided roadway that ran east/west. V2, a 2000 Dodge Stratus, was stopped at the traffic control device (a tri-color light without pedestrian crossing signs). V1, a 1997 Honda Accord, was traveling on the same roadway in the same direction, approaching V2 from behind. For an unknown reason, the front of V1 struck the rear of V2. V1 was driven by a 43-year old female. V2 was driven by a 24-year old female. The interviews could not be obtained from either driver. The Critical Precrash Event for the driver of V1 was coded as: "Other motor vehicle in lane, other vehicle stopped." The Critical Reason was coded as "Type of driver error unknown," due to the lack of an interview. An associated factor was alcohol use - the police report indicates that the driver of V1 was intoxicated at the time of the crash and was taken from the scene for alcohol testing. The results of that testing were not made available. The Critical Precrash Event for the driver of V2 was coded as: "Other motor vehicle in lane, traveling in same direction with higher speed." The Critical Reason was not coded to the driver of V2. The operator of V2 has sought legal counsel and no cooperation could be obtained with the counsel to speak to the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

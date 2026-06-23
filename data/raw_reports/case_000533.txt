@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, two-lane, bituminous road with a posted speed limit of 80 kmh (50 mph). Conditions at the time of the weekday, morning crash were daylight, cloudy and dry. V1, a 1999 Mitsubishi Galant ES 4 door, driven by a 37 year-old female on her way to work, was southbound on the road negotiating a left hand curve, on a > 2% downhill slope. The driver of V1 stated that she looked down at the floor for a second and the vehicle went off of the roadway to the gravel shoulder on the right. The driver stated that she over corrected to the left and hit the gas pedal instead of the brake. V1 rotated counterclockwise, crossed the centerline, and left the roadway on the left side. V1 impacted a >2% positive slope embankment and slid sideways. V1 came to rest on the embankment facing southeast. V1 was towed from the scene due to damage. The fully restrained driver was treated at the scene. The Critical Precrash Event coded to the driver of V1 was 'this vehicle traveling off the edge of the road on the left side.' The Critical Reason for the Critical Event coded was 'driver related factor-recognition error-internal distraction.' A contributing factor coded was 'driver related factor-decision error-incorrect evasive action.' An associated factor was coded for 'vehicle related factor of new front tires that were leaking air and needed to be refilled that day'. Another associated factor coded was for the driver's 'pre-existing health condition of back pain and depression'. Medications taken were for depression and included 'side effects of headache, dizziness, nervousness, weakness and vision problems'. Also coded were associated factors of 'strenuous labor as the driver spent 8 hours moving the day before the crash'.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Drugs, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

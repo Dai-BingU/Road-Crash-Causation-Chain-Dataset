@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a four-lane urban highway with a guardrail-divided median. There were four westbound lanes on a level graded roadway with a posted speed limit of 104 kmph (65 mph). Conditions were daylight and dry with cloudy skies. The setting was midday on a weekday. Vehicle one was a 2004 Nissan Xterra compact utility traveling westbound in lane two. Vehicle two was a 1998 Mitsubishi Eclipse coupe traveling westbound in lane one. Vehicle three was a 1998 Acura Integra hatchback traveling west in lane four. A non-contact pickup truck towing a trailer was traveling west in lane three. The non-contact vehicle pulled partially forward of V1, and then merged right into V1's lane. V1 steered quickly right, traveling into lane one and impacting V2's left plane with its right plane. V1 then overcorrected back to the left, crossing all lanes of travel and impacting V3's right plane with its left plane. V1 traveled across the roadway to the right a final time. V1 rotated clockwise 90 degrees and then rolled over as it traveled across a grass median. V1 rolled one complete turn and came to rest facing east on the shoulder of a highway onramp to the right side of the road. V2 pulled over to the right shoulder. V3 pulled over to the left shoulder. The Nissan Xterra (V1) was driven by a 29-year old female who was transported to a local trauma center with possible injuries. She stated that she was heading from home to a friend's house. She noted that the driver of the pickup with trailer did not appear to be conscious of his trailer as he merged towards her. She remembers steering right in avoidance and then having several impacts. She estimated her travel and impact speeds to be 104 kmph (65 mph). The Nissan compact utility was towed due to damage. The Critical Precrash Event for V1 was this vehicle traveling over the lane line on the right side of the travel lane. The Critical Precrash Event was a driver related factor of inadequate evasive action. She wore glasses for a nearsighted condition. She rarely drives this roadway. The Mitsubishi Eclipse (V2) was driven by a 22-year old female who suffered possible injuries but was not transported. She stated that she was commuting from home to school when V1 drove into her from the left. She didn't have a chance to react and was not aware of the other crash events. She estimated her travel and impact speeds to be 96 kmph (60 mph). The Mitsubishi coupe was towed from the scene. The Critical Precrash Event for V2 was other vehicle encroachment from adjacent lane over the left lane line. The Critical Reason was not coded to this vehicle. This driver was 32 weeks pregnant at the time of the crash. This driver was a full-time student at the time. The Acura Integra (V3) was driven by a 24-year old male who was uninjured. He stated that he was slightly behind V1, V2, and the non-contact vehicle, so was thereby able to witness all of the crash events. He attempted to steer left to avoid V1 as it came towards him, but simply could not get out of the way in time. He estimated his travel and impact speeds to be 104 kmph (65 mph). The Acura hatchback was towed from the scene. No Critical Precrash Event or Reason were coded to V3 because it was not involved in the first harmful event. This driver was working long shifts of 12 hours per day during 55-hour work weeks.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Drugs present problem 
+Vehicle 2:  Drugs present problem 
+Vehicle 3:  Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate evasive action, e.g. braking only, not braking and steering
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

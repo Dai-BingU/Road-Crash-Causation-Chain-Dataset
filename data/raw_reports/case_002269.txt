@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred on a seven-lane, divided, asphalt, east/west roadway at the intersection with a two-lane, undivided, concrete, north/south roadway. There are three travel lanes for westbound traffic. Both roadways were straight, level and dry. A stop sign for southbound traffic controls traffic at the intersection. The posted speed limit is 48 kmph (30 mph) for the north/southbound lanes and 56 kmph (35 mph) for the east/westbound lanes. Traffic was light at the time of the crash. This crash occurred during daylight hours with clear skies. Vehicle one (V1), a 1994 Ford Taurus with one occupant, was southbound in the first travel lane. Vehicle two (V2), a 1998 Buick LeSabre with one occupant, was westbound in the second travel lane. V1 entered the intersection, turning left, and the front of V1 struck the right side of V2. V1 rotated clockwise and came to rest in the intersection facing southwest. V2 rotated counterclockwise, the right side of the vehicle struck a light pole in the median, crossed through the four eastbound lanes, departed the south edge of the road, struck a chain link fence, crossed through a field approximately 18 meters (59 feet) before coming to rest facing south off the south side of the roadway. Both vehicles were towed due to damage. The driver of V1, an eighty-five year old male, was heading from home to work. This driver had been driving for about two minutes, drives the route daily and is familiar with the vehicle. The driver stated he looked to his left prior to entering the intersection. He did not see V2 prior to impact and did not attempt any evasive maneuvers. The driver stated a wall that runs parallel to the eastbound lanes obscured his view of V2. The critical pre-crash event for V1 was coded: this vehicle traveling-turning left at intersection. The critical reason for V1 was coded: driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The wall that this driver claimed partially blocked the view of V2 was four meters from the street and fifty-one centimeters high and did not obstruct the view. The driver of V2, an eighty-three year old male, was heading home from the grocery store. This driver had been driving for about five minutes, drives the route daily and is familiar with the vehicle. The driver stated he had reached for a box of tissues on the right floorboard. He unbuckled his seat belt to retrieve the tissues and was in the process of buckling his seat belt when the collision occurred. He did not detect V1 prior to impact and did not attempt any evasive maneuvers. The critical pre-crash event for V2 was coded: other vehicle encroachment-from crossing street, turning into opposite direction. The critical reason for V2 was not coded to this vehicle. This driver's distraction was an associated factor in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

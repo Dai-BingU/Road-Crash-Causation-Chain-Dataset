@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a 4-legged intersection. The main roadway was one-way northbound. It was straight with three lanes of travel and a 2 percent uphill profile. The intersecting secondary road ran east/west, and was level and straight. The intersection was signal controlled, had pedestrian crosswalks, and there were curbs and sidewalks present. The road surface was sharp bituminous asphalt and the posted speed limit for all traffic was 56 kmph (35 mph). The crash occurred on a weekend afternoon with sunny skies and no adverse atmospheric conditions. Vehicle 1 (V1), a 2005 Honda Accord four door sedan with one occupant, was traveling north in lane two. Vehicle 2 (V2), a 1998 Toyota 4-Runner compact utility vehicle with two occupants, was traveling eastbound in lane one. V1 and V2 entered the intersection at the same time and collided at a 90-degree angle. The front of V1 contacted the right side of V2, subsequently causing V2 to overturn 2-quarter turns. V2 came to final rest on its top facing northwest, against the curb at the northeast corner of the intersection, 13 meters (43 feet) from rollover initiation. V1 came to final rest 42 meters (138 feet) east of impact area with disabling front end damage. V1, the Honda Accord, was driven by a 38-year-old male who suffered minor injuries and was treated on the scene by EMS. He reported being on his way home from a friend's house, which he left about 60 minutes prior to the crash. He reported being in the center lane traveling at 56 kmph (35 mph). He had a green light and intended on going straight through the intersection when V2 ran the red light and caused the collision. The Critical Pre-crash Event for V1 was other vehicle encroachment from crossing street, across path. The Critical Reason was not coded to the driver of V1. The driver of V1 reported that he rarely drove this roadway. No other associated factors were coded to the driver of V1. V2, the Toyota 4-Runner, was driven by a 22-year-old male who was a full time student. He had minor injuries and was treated on-scene by EMS. He was traveling straight at 48 kmph (30 mph) reading a map with his girlfriend, who was a passenger in the vehicle. They were trying to find a restaurant at which to eat. He claimed he never saw the red light because he was looking at the map. He ran the red light and was struck on the right side, and then his vehicle rolled 2 times. The Critical Pre-crash Event for V2 was this vehicle traveling, passing through intersection. The Critical Reason for the Critical Event was an internal distraction, a driver error. The driver admitted to looking at a map inside his vehicle and not paying attention to his driving task. The driver admitted that this was his first time on this roadway and he was unfamiliar with the traffic lights and patterns. He was talking to his girlfriend too when the crash occurred. Associated factors coded to the driver of V2 include conversation with the passenger, an illegal maneuver because he ran the red light, and the driver's unfamiliarity with the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Internal distraction

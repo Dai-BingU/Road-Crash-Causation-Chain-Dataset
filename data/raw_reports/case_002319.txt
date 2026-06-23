@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at a four-leg intersection in the westbound lane. For the northbound approach there was a north and southbound lane controlled by a stop sign. For the westbound approach there was an east and west bound lane as well as a westbound left turn lane. The roadway had a posted speed limit of 56 kmph (35 mph) in the northbound direction and 72 kmph (45 mph) in the westbound direction. The northbound lane was set on a 3% downhill grade while the westbound lanes were on a 2% uphill grade. Conditions were daylight and dry with clear skies. The setting was early evening hours on a weekday. Vehicle one was a 2003 Ford Escape compact utility traveling northbound in lane one. Vehicle two was a 1997 Toyota 4Runner sport utility traveling westbound in lane one. Both vehicles proceeded straight through the intersection. The front of V1 impacted the left plane of V2. V1 came to rest northwest of the point of impact in the intersection. V2 continued westward while rotating counterclockwise approximately 200 degrees. The left wheels came in contact with the northwest curb, causing V2 to roll over towards the left side. V2 rolled left one quarter turn onto the grass and rotated counterclockwise on its left side to final rest. The Ford Escape (V1) was driven by a 35-year old female who suffered possible injuries, but was not transported. She stated that she was heading home from the wedding dress store and was taking a new route. She got confused by the unfamiliar landmarks confessed that she may have accidentally run the stop sign as well as failing to check for crossing traffic. She braked when she saw the other vehicle but could not avoid the crash. Her estimated travel and impact speeds were 32 kmph (20 mph). The Ford compact utility was towed due to damage. The Critical Precrash Event for V1 was "this vehicle traveling crossing over (passing through) intersection". The Critical Reason was a driver related factor of "inadequate surveillance (failure to look)". This driver was talking with a friend on a hands free cellular telephone at the time of the crash. She was thinking about the particulars of her upcoming wedding. This was the first time she had traveled this particular roadway. The Toyota 4Runner (V2) was driven by a 39-year old male who was uninjured. He stated that he was coming home from work and about to pass through an intersection. He noted V1 approach the intersection from the left, pause briefly, and then proceed into his left side. He did not have a chance to react. He estimated his travel and impact speeds to be 72 kmph (45 mph). The Toyota sport utility was towed due to damage. The Critical Precrash Event for V2 was "other vehicle encroachment from crossing street across path". No Critical Reason was coded to this driver. This driver wears corrective lenses for a nearsighted condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Decision, Distraction, Driver Inexperience, Surveillance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

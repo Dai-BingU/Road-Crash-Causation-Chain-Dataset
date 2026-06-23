@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the eastbound lane, of a two way undivided roadway, at the intersection with another two lane two way roadway. The north south roadway had a posted stop sign, however, the east west roadway had no traffic control device. Conditions were daylight and dry with no adverse conditions in the morning hours of a weekday. V2, a 1996 Honda Accord, was traveling east negotiating a curve left and approaching the intersection. V1, a 1986 Ford F-150, was also traveling east and negotiating a curve left approaching the same intersection. V2 intended to turn left at the intersection and was stopped waiting on oncoming traffic. V1's front plane came into contact with the rear plane of V2. V1 was driven by a 44 year-old male who stated that while en route to a worksite his co worker was telling him a joke. The co worker was using hand movements to tell the joke distracting the driver's attention. The driver stated that he returned his attention to the road ahead just before impact. The Critical Pre Crash Event for this vehicle was coded Other Vehicle in Lane (stopped) and the Critical Reason was coded a Driver Related factor, Internal Distraction. V2 was driven by a 43 year-old male who was taking his children to a relative's before heading to work. The driver stated that he was stopped waiting on oncoming traffic to pass before intending to turn left. The Critical Pre Crash Event for this vehicle was coded Other Vehicle in Lane (Traveling in same direction with higher speed). A Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Fatigue, Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

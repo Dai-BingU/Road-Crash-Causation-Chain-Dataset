@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred a few hours before mid-night during dark hours in the middle of a 4-way, tri-color traffic signal controlled urban intersection. The northbound roadway consists of three lanes including a left turn lane before the intersection and two lanes after the intersection with an additional bicycle lane curbside. The southbound roadway consists of three lanes before the intersection including a left turn lane and two lanes after the intersection. The westbound roadway consists of four travel lanes including a left turn only and a right turn only before the intersection. The roadway also had a bicycle lane between lanes one and two. After the intersection the westbound roadway consists of two lanes and a bicycle lane curbside. The eastbound roadway shares the same makeup as the westbound lanes. Each roadway was divided by a raised concrete median. The roads were dark but illuminated by street-lights, surfaces are bituminous, straight and level, and were dry and without defects. The road had a posted speed limit of 48 kph (30 mph), was virtually free of traffic, the skies were clear and there were no sight restrictions. Vehicle one (V 1), a 1994 Chevrolet Cavalier station wagon with two occupants, was northbound in lane two. Vehicle two (V 2), a 2002 Dodge Grand Caravan with one occupant was westbound in lane two stopped at a red traffic light. The V 2 driver, a 38 year old female, entered the intersection when the light turned green. The V 1 driver, a 4 1 year old male, entered the intersection on a red light and the front of V 2 struck the right rear passenger area of V 1. After impact with V 1, V 2 came to final rest near the point of impact with V 1. After impact with V 2, V 1 entered a clockwise rotation and continued northbound until tripping over the raised concrete median separating the northbound and southbound lanes and rolling left two quarter turns. V 1 came to rest on the roof on the median facing generally east. Both vehicles were towed due to damage. The Critical Pre-Event movement for V 1 coded as going straight, category This Vehicle Traveling - crossing over (passing through) intersection. The Critical Reason for the Critical Pre-crash Event a Driver Related factor - Illegal maneuver (disregard of traffic signal). The Critical Pre-Event movement for V 2 coded as stopped in traffic lane, category Other Vehicle Encroachment - From crossing street, across path. The Critical Reason for the Critical Pre-crash Event not coded to this vehicle. Associative Factors: V 1 may have been speeding. The V 2 driver stated that she was fatigued and rarely drove on the road where the crash occurred; these may have played a role in her scanning for other traffic before entering the intersection.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision present problem 
+Vehicle 2:  Driver Fatigue, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

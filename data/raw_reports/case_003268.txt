@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the late morning of a weekday in the middle of an intersection between a two-lane roadway and a four-lane highway. The four-lane highway had two northbound lanes and two southbound lanes. The bituminous highway was dry, straight, and level with a posted speed limit of 56kmph (35 mph). The two-lane east/west roadway consisted of one lane in each direction with a posted speed limit of 40kmph (25 mph). The bituminous roadway was dry and straight and featured an uphill grade of 6.5%. The intersection was controlled by a properly functioning traffic signal. The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2003 Ford Taurus sedan with one occupant, was northbound in lane one of the four-lane highway approaching the intersection where it intended to go straight. V2, a 1997 Mercury Grand Marquis sedan with three occupants, was stopped, facing west, preparing to make a left turn onto the highway. As light turned green light for V2, it began to accelerate and make its left turn. V1 failed to stop for the recently changed red light and impacted V2's left side with it's front. Both vehicles came to final rest in the intersection near the point of impact. The driver of V1, a 46-year-old female, reported no injuries. V1 was driven from away from the scene shortly after this researcher's arrival. Numerous attempts to contact or locate the driver have failed. Therefore an interview or vehicle inspection could not be obtained. The Critical Precrash Event for V1 was coded other vehicle encroachment from crossing street turning in opposite direction. The Critical Reason was not coded to this vehicle. Associated factors for this crash include driver inattention as the driver told police she was not paying attention as she approached the intersection and an illegal maneuver as she violated a traffic control device. The driver of V2, a 75-year-old male, reported no injuries. Neither of his two passengers were injured or required medical assistance. He stated that he began his left turn as his light turned green. As he entered the intersection he was struck by V1. His vehicle was towed due to damage. The Critical Precrash Event for V2 was coded vehicle traveling, turning left at intersection. The Critical Reason for the Critical Precrash Event was coded as a false assumption, as he assumed that traffic would yield when the light changed. In addition to the false assumption, inattention was coded as an associated factor as the driver was conversing with his passengers.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+Vehicle 2:  Decision, Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

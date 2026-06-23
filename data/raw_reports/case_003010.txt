@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred on a four-lane, wet, asphalt, roadway. There were two westbound lanes, one that was an exit lane, and another that was controlled by a traffic light. Eastbound traffic traveled on the right lane and there was a turn-lane dividing the two. Traffic was backed-up in the left southbound lane and was stopped waiting for a red light to turn green. The east and westbound travel lanes have a posted speed limit of 89kmph (55 mph), and both have a level grade. V1, a 1986 Lincoln Town Car, was traveling westbound, in the left westbound lane approaching stopped traffic. V1 failed to stop for the traffic ahead of it and struck the rear of V2, a 1998 Dodge Ram pick-up that was stopped in the traffic lane. V2 had the rear gate in a lower position, and this sustained damage, V1 then contacted a recessed trailer hitch causing it to deform and contact the ground. V2 was than pushed into the back of V3 a 1996 GMC Pick-up, which was also stopped in the traffic lane ahead of V2. V3 was paushed forward striking V4, a 2002 Mercury Mountaineer. V1 was driven by a 47 year-old male in good health who was running an errand. The driver stated that he was paying attention, and saw that traffic was stopped but the vehicle just wouldn't stop. Scene evidence did show that leading up to the point of impact between V1 and V2 there were two tire marks apparently from V1 attempting to brake, causing the tires to lock-up. The driver was transported with non-incapacitating injuries and V1 was towed due to damage. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason was coded as inattention vecause there was no reason that the driver could not see the line of stopped trafic in front of him. Associated factors for this crash include being in a hurry as he was late for a social appointment and the wet roads. V2 was driven by a 26 year-old male in good health who was wearing his prescription lenses that correct an unknown condition. He stated he was stopped in traffic waiting for the light to change when he was hit from behind. The driver was uninjured and his vehicle was driven from the scene. The Critical Precrash Event for V2 was coded as other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. There were no known associated factors assigned to this vehicle except for the wet road conditions but V2 was not thought to have contributed to the crash. V3 was driven by a 55 year-old male in good health who was wearing his prescription lenses that correct an unknown condition. He was also stopped waiting for the light to change when he was hit from behind. The driver suffered non-incapacitating injuries but V3 was able to driven from the scene. The Critical Precrash Event for V3 was coded as other, not involved in first harmful event, and no critical reason was assigned. He also had to deal with the wet road conditions but was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Driver Stress/Emotion, Drugs, Roadway present problem 
+Vehicle 2:  Distraction, Roadway present problem 
+Vehicle 3:  Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

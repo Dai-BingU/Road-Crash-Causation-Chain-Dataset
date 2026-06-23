@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred at the intersection of a driveway and a four lane undivided roadway. Conditions were daylight and dry, and the bitumous roadway had a posted speed limit of 48kmph (30 mph). V1, a 1984 Cadillac Seville, was traveling east in lane two. V2, a Dodge Caravan, was stopped in eastbound lane two waiting to initiate a left turn into the driveway. The front plane of V1 came into contact with the rear plane of V2. The Critical Precrash Event for V1 was coded Other Vehicle in Lane, (stopped). The Critical Reason for the Critical Precrash Event was coded unkown. The Critical Precrash Event for V2 was coded Other Vehicle in Lane, (traveling at higher speed). The Critical Reason was not coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Unknown Reason - Unknown reason for critical event
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

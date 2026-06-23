@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a high-occupancy, high volume interstate. There were five northbound lanes with paved emergency shoulders on both sides of the roadway. There were concrete barriers separating the north and southbound roadways. The roadway was straight and level. The conditions were dry and clear. It was an afternoon of a weekday. The posted speed limit was 105 KPH (65mph). Vehicle 1 was a 1994 Chevy Camaro driven by a 17-year-old that was traveling in lane five going northbound. The driver stated in the interview that a phantom vehicle in front of him suddenly slowed down. He stated that he steered to the right and hit his brakes to avoid hitting the vehicle. This caused the Camaro to lose control and fishtail across the lanes into the right concrete barrier wall. Once the Camaro hit the wall it continued skidding northbound till it came to final rest facing northbound. V1 was driven by a 17-year-old male who was one his way home from the YMCA. He had two other friends in the vehicle ranging from ages 15-17 years of age. The driver and all the passengers were transported to the local hospital due to injuries. The vehicle was towed due to damages. The phantom vehicle never stopped after the crash. The critical pre-crash event was coded as this vehicle traveling off the edge of the road on the right side. The critical pre-crash reason was coded as a driver error, traveling too fast to respond to the unexpected actions of other road users. An associative factor was age related, as the driver was only 17. Another associative factor was driving experience, as the driver had only been license for 5 months. The driver was issued a ticket for causing the crash, failure to use due care.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :

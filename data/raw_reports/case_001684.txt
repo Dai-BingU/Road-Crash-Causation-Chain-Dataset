@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a 4 lane divided (2 lanes southbound and 2 lanes northbound) highway with a posted speed limit of 105 KPH (65 MPH). The roadway was curved to the right with a radius of curvature of 1, 023 meters and a superelevation of 1%. There was a negative grade of 2%. It was raining, the roadway was wet and it was daylight at the time of the weekday morning crash. Vehicle 1, a 2005 Chevrolet Equinox, was traveling southbound in the passing lane negotiating the curve to the right. Vehicle 2, a 2002 Hyundai Elantra, was traveling southbound in the same lane behind Vehicle 1. Vehicle 2 strikes Vehicle1 in the rear with its front. Vehicle 1 crosses the driving lane, rotating clockwise, off the west shoulder and strikes a box beam guardrail with its front. Vehicle 1 continued to rotate and struck the guardrail with its left side coming to rest facing in a northerly direction. Vehicle 2 continued off the east side of the roadway rotating clockwise across the grass median and struck a box beam guardrail with its left side. Vehicle 2 then rotated counterclockwise striking a delineator and the guardrail with its front. Vehicle 2 came to rest facing in a southeasterly direction. Both vehicles were towed due to damage. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. The Chevrolet Equinox (Vehicle 1) was driven by a belted 25-year-old male who complained of pain, but was not transported. He stated that he was on his way to work, had left early that morning and was not in a hurry. He stated that he was rear-ended by Vehicle 2 causing him to lose control and strike the guardrail. He was taking an antibiotic for an undisclosed infection. He considered himself in good health, did not wear corrective lenses and was not fatigued. The Critical Precrash Event for Vehicle 1 was other vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Precrash Event was not coded to this driver and he was not thought to have contributed to the crash. No additional associated factors were coded to this driver. The Hyundai Elantra (Vehicle 2) was driven by a belted 30-year-old female, who was not injured but taken to the hospital due to her pregnancy. The 1-year-old female child who was restrained in a child seat in the middle rear seat was not injured. The driver refused any further information. The Critical Precrash Event for Vehicle 2 was other vehicle in lane, traveling in same direction with lower steady speed. The Critical Reason for the Critical Precrash Event was an unknown type of driver error. This was chosen because no further information was obtained from the driver. Police indicated on the PAR that unsafe speed and slippery surface were contributing factors to the crash. The police also indicated that the driver might have fallen asleep while driving which may have caused the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Stress/Emotion, Drugs, Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

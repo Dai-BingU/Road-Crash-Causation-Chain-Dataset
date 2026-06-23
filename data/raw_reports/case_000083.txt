@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle rear end crash occurred in the westbound #2 lane of a five lane, dry asphalt roadway during daylight in the early afternoon hours. The roadway has two westbound and two eastbound lanes and a left turn lane that separates the lanes. The speed limit on the roadway where the crash occurred is posted at 56 kmph (35 mph). There were no environmental factors that contributed to the crash and there were no sight line restrictions. Vehicle two (V2), a 1998 K1500 Tahoe SUV, was traveling westbound in the number two lane of the five lane roadway when it stopped in the traffic lane due to forward traffic that also stopped for the red light at the intersection to the west of the crash location. The vehicle was stopped for an unknown period of time before being struck from the rear. The vehicle was driven from the scene. Vehicle one (V1), a 1989 Ford Ranger 4x4 pickup, was traveling westbound in the number two lane of the five-lane roadway at police calculated speed of 63 kmph (39 mph). The driver, a 35-year-old female, was conversing with her daughter, the 13-year-old female right passenger. The driver looked to her right at her daughter while conversing. The driver then looked straight ahead and saw V2 stopped in the traffic lane. The driver then locked up the brakes and the vehicle skidded for approximately 23 meters (75.5 feet) before impacting the rear of V2 with the front of V1. V1 came to rest in the traffic lane facing west. V1 was towed due to damage. The driver of V1 was transported from the scene. The critical pre crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The driver was engaging in a conversation with the right front passenger and looked at the right front passenger prior to the crash. The critical reason for the critical event was coded to V1 as a driver recognition factor: Internal distraction. The critical pre crash event for V2 was coded: other motor vehicle in traffic lane, traveling in same direction with higher speed. The critical reason for the critical event was not coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

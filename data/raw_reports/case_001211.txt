@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a two lane undivided roadway intersecting with another two lane undivided roadway with no grade and a posted speed limit of 48KMPH (30MPH). This crash occurred on a weekday evening. Vehicle #1, a 1993 Ford Taurus, was traveling on the two lane undivided roadway behind Vehicle #2, a 1996 Volkswagen Jetta, which was stopped at a red light. Vehicle #1 impacted with the rear of Vehicle #2 with its front. Both vehicle came to rest in the intersection. Vehicle #2 was towed from the scene. The Ford Taurus (vehicle #1) was driven by a belted 19 year old male who was not injured. The driver stated Vehicle #2 had come to a stop and started to pull forward, but stopped again. He stated he couldn't understand why Vehicle #2 stopped a second time and he thought she would just continue to turn right. The Critical Precrash Event coded to this vehicle was Other Motor Vehicle in Lane Traveling in same direction while decelerating. The Critical Reason for the Critical Precrash Event was coded as: Driver Related Factor Decision Error False assumption of other's actions. This was chosen when the driver stated he thought the driver of Vehicle #2 would continue to turn right. The Volkswagen Jetta (vehicle #2) was driven by a 58 year old belted female who was coded as having possible injuries but refused medical attention. The driver stated she had stopped at the red light and was going to turn right on red when she saw approaching traffic and slowed to allow traffic to pass before proceeding. The Critical Precrash Event coded to this vehicle was Other Motor Vehicle in lane Traveling in Same Direction with Higher Speed. A Critical Reason for the Critical Precrash Event was not coded to this vehicle. The Police did not consider illegal drugs or alcohol to be involved and ordered no tests for either driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Distraction, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning right
+ 2 ：Turning right
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

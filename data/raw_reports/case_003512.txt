@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred mid-afternoon during daylight hours on a three-lane (seven overall), east-west roadway divided by a concrete median at the intersection of a two-lane, undivided north-south roadway. The roadway is curved 45.8 meters (150 feet) east of the intersection. The intersection had no traffic controls. The roadway was straight, level, concrete with a posted speed of 56 kmph (35 mph). the road was dry and the sky was clear. Traffic flow was moderate. Vehicle one (V1), a 1996 Honda Civic coupe driven by a 20 year-old male was traveling westbound in lane two. Vehicle two (V2), a 2001 Dodge Ram pick-up with a trailer attached driven by a 31 year-old male was making a u-turn from the eastbound lanes to the westbound lanes. As V2 was completing the u-turn, the front of V1 struck the right rear of the trailer. V1 rotated clockwise and came to rest in the intersection facing northwest. V2 continued on its path of travel and the driver directed the vehicle to final rest in the first travel lane west of the intersection. The driver of V1 advised that he was on his way to work, having just left a nearby bank. He advised that he was traveling at between 48-64 kmph (30-40 mph) when he recognized that V2 was making a u-turn. The driver had initially believed that V2 was turning left across his path. He steered to the right and braked in an attempt to avoid the collision, but was unsuccessful. The critical precrash event for V1 was coded: other vehicle encroachment from; from adjacent lane (same direction)- over left lane line. The critical reason was not coded to this vehicle. The critical precrash event for V2 was coded: this vehicle traveling; over the lane line on right side of travel lane. The critical reason for the critical event was coded to V2 as a driver related factor: misjudgment of gap or other's speed. The driver stated he overestimated the time it would take to complete the U-turn.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Making a U-turn
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Misjudgment of gap or other's speed

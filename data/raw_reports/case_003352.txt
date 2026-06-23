@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This accident occurred on a two-way, two-lane, not physically divided, stop sign -controlled intersection. The conditions were as follows: late afternoon, clear skies, the roadway was dry and no adverse atmospheric conditions were present. The gradient for both roadways of V1 and V2 travel were level. The posted speed limit for V1 was 56 kph (35 mph), whereas the posted speed limit for V2 was 40 kph (25 mph). V1 was a 2001 Ford Escort, traveling north, and did not have any traffic control devices, for its travel lane, giving V1 the right of way. V1 was struck by V2 in the left front. The impact caused V1 to be pushed off the side of the road, coming to final rest on the northbound side. This vehicle needed to be towed from the scene. V2 came to final rest after hitting the street sign on the northbound side of the road that V1 was traveling, which was near V1's final rest. The driver of V1 was a 19-year-old female who was treated by EMS on scene, with an ice bag for her arm. The driver stated that she had the right of way, the side road had a stop sign. The driver of V2 went across the street, he used poor judgment. V1 was towed due to damage from the scene. The Critical Precrash Event for V1 was coded as other vehicle encroachment from crossing street, across path. After obtaining the interview from the driver of V1, there were no factors that contributed to this crash. She was wearing her contacts that corrected her myopic (near-sighted) condition. The driver stated that no medications were taken prior to the accident. Furthermore, her emotional and fatigue levels at the time of the crash, as well as the days preceding, were normal. The driver of V2 was a 67-year-old male who did not need medical attention. V2 was a 2002 Toyota Highlander, traveling east, that was stopped at a stop sign at the intersection. The driver of V2 was supposed to cross over the perpendicular roadway that V1 was traveling. Upon realization of the impending crash, the driver of V2 attempted to avoid the collision by steering his vehicle to the left. With this maneuver, the driver unfortunately could not prevent this crash. This vehicle also needed to be towed from the scene due to damage. The Critical Precrash Event for V2 was coded as this vehicle traveling over, passing through the intersection. The Critical Reason for the Critical Precrash Event is a decision error, misjudgment of gap or other's speed. He claimed to be in good health, but was taking a prescribed medication to lower blood pressure that was thought not to contribute to the crash. Furthermore, his emotional and fatigue levels at the time of the crash, as well as the days preceding, were normal.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+Vehicle 2:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Misjudgment of gap or other's speed

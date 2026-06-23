@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the early afternoon of a weekday in the middle of a residential “T' intersection. The intersection consisted of a two-lane, north/south undivided roadway intersected by a two-lane, east/west undivided roadway (that was controlled by a stop sign). The bituminous north/south roadway was dry, straight, and level with a posted speed limit of 56 kmph (35 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. Vehicle one (V1), a 1992 Oldsmobile/Cutlass with one occupant, was stopped facing north in lane one at the intersection preparing to turn left. Vehicle two (V2), a 2001 Acura /TL with one occupant, was southbound in lane one approaching the same intersection where it intended to go straight. As V1 turned left V2 entered the intersection and was struck on the left side by the front of V1. The impact caused V1 to rotate counter-clockwise until it came to final rest in the middle of the intersection. V2 continued forward and also came to final rest in the middle of the intersection. Both vehicles were towed due to damage. The driver of V1, a 75 year-old female, sustained minor injuries, and was transported for treatment. She stated that she was on her way home from shopping and stopped turn down a side street. She claimed that checked for on-coming traffic and watched truck pass her going southbound. She did not see any other vehicles so she began her turn and that is when she struck V2. The Critical Precrash Event for V1 was coded to this vehicle traveling, turning left at intersection. The Critical Reason for Critical Precrash Event was coded as a recognition error, inadequate surveillance (looked but did not see). The associated factors include the medications she was taking, and the wearing of think bi-focal glasses. The driver of V2, a 45 year-old female, sustained minor injuries, and was also transported for treatment. She stated that she was headed home from shopping when she saw the red car stopped northbound. As she approached the intersection she assumed V2 would remained stopped. All of the sudden she turned left very quickly and hit me on my left front. The Critical Precrash Event for V2 was coded other vehicle encroachment, from opposite direction - over left lane line. The Critical Reason for the Critical Pre-Crash Event was not coded to this vehicle. The only associated factor that could be coded to V2 was a false assumption as the driver thought V1 would yield the right of way.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+Vehicle 2:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

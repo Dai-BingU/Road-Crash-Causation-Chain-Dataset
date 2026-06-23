@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on a residential street that ran north/south, was straight and level and had one lane in each direction divided by a double yellow painted stripe. The posted speed limit was 48 kmph/30 mph. Conditions at the time of the crash were daylight and dry at late morning on a weekday. V1 was a 1992 Oldsmobile Cutlass 4-door traveling north on the residential road when it struck the back end of V2, a 2000 International garbage truck that was stopped in the northbound lane waiting to be loaded. Final rest for both vehicles was at the point of impact. V2 was driven away and V1 was towed from the scene. V1 was driven by an unrestrained eighteen-year-old female who was transported from the scene with non-incapacitating injuries to an area hospital. Her passenger was also unrestrained and transported. She told police that she had dropped a drink and was reaching for it at the time of the crash but no evidence of a drink was found in V1. The Critical Pre-crash Event for V1 was other vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Pre-crash Event was coded as an unknown recognition error due to a lack of information as the driver refused an interview. There were several unknown types of medical conditions and drugs listed on the medical report. The stopped trash truck was coded as a traffic flow interruption. The driver was also coded as being inexperienced. V2 was driven by an unrestrained forty-three-year old male who was uninjured as was his passenger. The driver had stopped as was usual for him on his trash route when he was rear-ended. The Critical Pre-crash Event for V2 was other vehicle in lane traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. No contributing factors were coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Physical, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

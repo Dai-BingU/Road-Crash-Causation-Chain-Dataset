@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a weeknight in the middle of a four-way residential intersection. The intersection consisted of a 5-lane north/south roadway intersected by a 3-lane east/west roadway controlled by a stop sign in the east/west direction. The bituminous north/south roadway was dry, straight, and level with a posted speed limit of 72 kmph (45 mph). The bituminous east/west roadway was dry straight and level with a posted speed limit of 56 kmph (35 mph). The traffic flow was normal and there were no adverse atmospheric conditions but the roadway was dark due to the lack of streetlights. V1, a 2006 Toyota Corolla with two occupants, was stopped facing east at the stop sign at the intersection where it intended to go straight. V2, a 2002 Chevrolet Trailblazer with one occupant, was southbound approaching the same intersection where it also intended to go straight. V1 entered the intersection at the same time as V2 and the front of V2 struck the left side of V1. The force of impact caused V1 to rotate counter-clockwise and depart the roadway over southeast corner of the intersection before coming to final rest. V2 also departed the roadway over the southeast corner before coming to final rest. Both vehicles had to be towed from the scene because of disabling damage. The driver of V1, a 21-year-old female, is a full-time college student but works part-time as a retail store clerk. She is in good health, gets plenty of rest each night, and wears contact lenses for her near-sightedness. She stated that she was headed to her boyfriend's apartment and was less than a mile away when she stopped at the intersection waiting for traffic to clear. She saw a gap in the traffic, and she decided to enter the intersection. She stated she saw V2, but misjudged the distance and speed of the oncoming as it approached her. She tried to accelerate through the intersection but it was too late she could not avoid V2. Her vehicle spun off the southeast corner of the intersection where it came to final rest on a grass roadside. She suffered minor injuries but did not require transport while her passenger (her boyfriend) was injured in the crash. The Critical Precrash Event for V1 was coded this vehicle traveling, passing through intersection. The Critical Reason for the Critical Event was coded misjudgment of gap or other's speed. Associated factors coded to this driver include proceeding with insufficient clearance, being in a hurry (her impatience), and the fact that the vehicle was relatively new (only 5 months old). The driver of V2, a 40-year-old female was commuting home from work when she was involved in this crash. She stated that she was driving south when suddenly an eastbound vehicle (V1) pulled in front of her. This driver said there was not enough time to avoid a collision but she did swerve left and brake. The front of her vehicle struck the left side of V1 and departed the roadway before coming to final rest on the southeast corner of the intersection. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street, across path. The Critical Reason was not coded to this vehicle. There were no associated factors coded to V2 and the driver was not believed to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

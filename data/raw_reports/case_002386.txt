@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a three-lane urban highway approaching a right exit off-ramp. There were three southbound lanes, and lane one was the exit lane. The roadway was level and curved to the right, and had rumble strip patches on both sides. Conditions were daylight and dry with cloudy skies. The crash occurred in the morning hours of a weekday. Vehicle one was a 1999 Ford Taurus sedan traveling south in lane two. Vehicle two was a 1992 Toyota Paseo traveling south in lane three. V2 attempted to switch lanes to the right in order to take the exit off-ramp. The right rear of V2 struck the left front of V1. V1 came to rest on the shoulder of the exit ramp. V2 continued right across all lanes of travel and traveled off the right side of the road, impacting and coming to rest against a medium-sized tree. V1 was driven by a 34-year old female who was uninjured. She stated that she was headed to work when the car to her left suddenly swerved across her front in an attempt to make the exit ramp. She didn't have a chance to react, and estimated her travel and impact speeds to be 65 mph. V1 was towed due to damage. The Critical Pre-crash Event for V1 was other vehicle encroachment from adjacent lane (same direction) - over the left lane line. No Critical Reason was coded for this driver. No associated factors were coded to this driver. V2 was driven by a 36-year old male who was transported to a local trauma center with possible injuries. Two passengers in the vehicle were also transported with possible injuries. This driver was unable to be interviewed since he was a non-English speaker, and no translators were available. The investigating officer estimated his travel and impact speeds to be 70 mph. The Critical Pre-crash Event for V2 was this vehicle traveling over the lane line on the right side of the travel lane. The Critical Reason was a recognition error - inadequate surveillance. Blood alcohol/drug screen tests conducted at the hospital came back negative. No associated factors were coded to this driver since no interview was obtained.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle daytime crash occurred shortly past noon. The collision occurred on east and westbound travel lanes. The roadway consists of one lane each way with a 19% grade at point of impact. The pre-crash roadway for eastbound traffic is a 3 % negative grade at the uncontrolled intersection immediately prior to impact and just prior to the intersection is a 23% negative grade. The pre-crash roadway for westbound traffic has a 19% positive grade. Travel lanes were wet and free of congestion. Due to the grade fluctuation of the roadway, sight distance is restricted. Both roadways have a posted speed limit of 48 kph (30 mph). Vehicle one (V1), a 1997 Toyota Corolla, driven by a 24 year-old male was traveling eastbound. Vehicle two (V2), a 2002 GMC Yukon suv driven by a 34 year-old male with one passenger was traveling westbound. As V1 negotiated the steep grade it lost control and went into in a counterclockwise yaw. V1 crossed over the centerline into the westbound lane. The right side of V1 struck the front of V2. The vehicles then rotated and side slapped with the right rear corner of V1 impacting the left side of V2. V1 came to rest in the middle of the roadway facing southwest. V2 came to rest up on the north curb facing northwest. Both V1 and V2 were towed due to damage. The pre-event movement for V1 coded going straight, category this vehicle control loss due to traveling too fast for conditions. Critical reason driver related factor "Too fast for conditions" (rain/wet roadway). The pre-event movement for V2 coded going straight, category other vehicle encroachment from opposite direction-over left lane line. Critical reason not coded to this vehicle . Associative factors, V1 tire deficiency thread worn. V2 sight-line in sufficient.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

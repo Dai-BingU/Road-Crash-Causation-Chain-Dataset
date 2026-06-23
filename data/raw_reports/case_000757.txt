@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of an east/west urban four-lane divided roadway and a two-lane side street. The four-lane road was divided by a grass median and had left turn lanes at the intersection. It was level and curved to the south (left) as it traveled westward with a radius of curvature of 239 meters. The side street intersected on the north and south sides of the road and had one lane in each direction plus a left turn lane. The intersection was controlled by a traffic signal. Although a left turn arrow was present for westbound left turning traffic, no left turn arrow was in place for eastbound traffic at the intersection. The posted speed limit was 64kmph (40mph). Conditions were daylight and dry on a weekday afternoon. Vehicle #1 was a 1995 Plymouth Neon traveling east on the four lane road attempting to turn left to travel north on the intersecting two lane side street. Vehicle #2, a 2002 Chevrolet Express G-1500 series cargo van, was westbound in the left (2nd) lane. Vehicle #1 had stopped at the intersection for several seconds, and the signal was green, however there was no left turn arrow. A non-contact vehicle in the westbound left turn (3rd) lane motioned for the Neon (V1) to turn left. Vehicle #1 attempted to turn left and was struck in the front right corner by the front of Vehicle #2. Both vehicles came to rest facing northwest in the northwest corner of the intersection and were towed due to damage. Vehicle #1 was driven by an 18-year old female that was belted with deployed frontal airbags. She was transported to a nearby hospital with minor injuries. Her sister, a 17-year old female in the front right seat, was belted and not injured. The non-contact vehicle in the westbound left turn lane motioned to the driver to turn and was blocking her view. In discussions with the police officers on scene they reported that the intersection has become notorious for crashes in recent months since several new business have opened in the area. They indicated that a left turn arrow is badly needed for eastbound traffic at the intersection and would eliminate the problem. On the four-lane road there are intersecting side streets every few hundred meters and it appears that left turn arrows are present at every other intersection in each direction. Police charged the driver of Vehicle #1 with failure to yield. The Critical Precrash Event for Vehicle #1 was "this vehicle turning left at intersection". The Critical Reason for the Critical Event was "inadequate surveillance". Associated factors included turned with obstructed view and view obstructed by other vehicle. Inexperienced driver was also included. Vehicle #2 was operated by a 19-year old male that was belted with no deployed airbags. He was not injured in the crash. He stated that the Neon (V1) turned left in front of him and although he braked and steered right he could not avoid a collision. EDR data extracted from the cargo van indicated a maximum recorded longitudinal velocity change of 11kmph (7mph) for the non-deployment event. The Critical Precrash Event for Vehicle #2 was "other vehicle encroaching from opposite direction over left lane line". The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

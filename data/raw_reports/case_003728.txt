@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of a north/south arterial roadway and an east/west side street. The arterial had two through lanes in each direction as well as right and left turn lanes. The side street had one lane in each direction with turn lanes. The large intersection was controlled by traffic signals. Traffic counts from 2003 indicate the north/south artery carried 33,060 vehicles per day in the crash area with a posted speed limit of 64kmph (40mph). Conditions at the time were dark with streetlights illuminated just before dawn on a weekday morning. Vehicle #1 was a 2000 Nissan Sentra traveling north on the arterial road. Vehicle #2, a 1999 Dodge Neon, was southbound on the arterial in the left through lane. The Sentra (V1) attempted to turn left and go west on the intersecting side street and struck the left side of the Neon (V2) with its front. Based on investigation, both vehicles had solid green lights. After impact, Vehicle #1 continued west and came to rest facing west in a parking lot on the northwest corner of the intersection. Vehicle #2 rotated 180 degrees counterclockwise and came to rest facing north off the southwest corner of the intersection. No one involved required medical attention. Vehicle #1 was driven by a 74-year old male who was belted with deployed frontal airbags. He stated that he saw several other southbound vehicles go by but didn't see Vehicle #2. Police charged him with failure to yield. The Critical Pre-crash Event for Vehicle #1 was this vehicle turning left at intersection. The Critical Reason for the Critical Event was inadequate surveillance. Associated factors coded to this driver were kidney, heart, and blood pressure ailments and the use of prescription medications to treat these conditions. He was on his way to a dialysis appointment when the collision took place. Vehicle #2 was operated by a 28-year old male who was belted with no deployed airbags. Through a translator he relayed that he was going straight through the intersection with a green light when the other vehicle turned into him. Police charged him with no driver's license and no insurance. The Critical Pre-crash Event for Vehicle #2 was other vehicle encroaching from opposite direction over left lane line. There were no associated factors coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

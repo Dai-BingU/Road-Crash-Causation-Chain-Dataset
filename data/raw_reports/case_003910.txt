@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on the left shoulder of the westbound lanes of an east/west interstate highway with three lanes in each direction, a 3 meter wide left shoulder, and a concrete divider wall between the opposing directions of travel. There is also a single lane on ramp from the southbound lanes of a north/south interstate that merges into the westbound traffic way on the right side. The roadway here was straight and level with a posted speed limit of 89kph (55mph). Conditions were dark, and unlit with no adverse weather conditions. The researcher believes that the hit and run (described on PAR) is a phantom vehicle as there is no damage from another vehicle on V1 (Subaru). The driver of V1 is the relative of an officer whose police jurisdiction investigated the crash. It is believed that the hit and run vehicle was at the scene and the vehicles merging into westbound traffic did contribute to the crash, as there was no other plausible reason noted for this crash to occur. Vehicle#1, a 1992 Subaru Loyale was westbound in the center lane when the non-contact vehicle was merging from the right on ramp. It is believed that the driver of V1 thought the non-contact vehicle was going to contact her vehicle on the right side and she swerved left to avoid a collision. Vehicle#1 then crossed the left lane in a yaw to the left and crossed the shoulder of the highway striking the divider wall with the front and then the left back of V1 coming to rest facing west partially on the shoulder and partially in the left travel lane. Vehicle #1 was towed due to damage. The 28-year old belted female driver of Vehicle#1 was transported to an area hospital for treatment. There was also a 5-year old child in the car that was also transported with her mother but sustained no injuries. The Critical Pre-crash Event for this vehicle was other vehicle encroachment from adjacent lane (same direction) over right lane line. The Critical Reason for the Critical Precrash Event was a performance error - overcompensation. One associated factor coded to this driver that didn't contribute to the crash is that she's an epileptic and takes medicine for the condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

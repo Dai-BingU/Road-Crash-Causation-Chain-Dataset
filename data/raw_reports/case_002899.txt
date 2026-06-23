@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary A three-vehicle crash occurred on a weekday morning at a four-way intersection. The north/south roadway; the north leg runs undivided in both directions, and the south leg is one way southbound. The intersecting roadway runs northwest and southeast, there is one travel lane in each direction of the road, also there is a bike lane and a parking lane on each side of the roadway. Stop signs are posted for the north/south legs of the intersection. The speed limit is 48 kmph (30 mph). Vehicle one (V1), a 1990 Chevrolet Geo Tracker with one occupant, was traveling northbound on a southbound roadway attempting to either crossover the intersection or turn left at the intersection. Vehicle two (V2), a 2006 Toyota Corolla with one occupant, was traveling southeast in lane one behind vehicle three. Vehicle three (V3), a 2001 Freightliner School Bus with one occupant, was traveling southeast in lane one ahead of vehicle two. V1 was traveling out into the wrong direction into the intersection attempting to cross through. This resulted in vehicle three to decelerate to give up the right of way to vehicle one. As vehicle one began to precede into the intersection, vehicle two left its original travel lane and passed vehicle three. This caused vehicle one to strike with its front, the front of vehicle two. Then after event one, the left of vehicle two came into contact with the front of vehicle three. All three vehicle came to rest in the intersection. Vehicles one and two were towed due to damage, and vehicle three was not towed. The drivers of V1, V2 and V3 received no injuries in the crash. The driver of V1 was a 21-year-old male unlicensed driver. There was no interview with this driver so many factors for him are unknown. It is known that he was driving the wrong way on a one-way road, an illegal maneuver, and entered an intersection to turn left. His sight line of V2 was blocked by the presence of a school bus was determined to be an associative factor in the collision. This was also inadequate surveillance of the intersection on this driver's part and he made a decision to turn with an obstructed view. The pre-crash critical event for vehicle one is: this vehicle traveling/ turning left at intersection. The critical reason for the critical event for vehicle one is driver related factor, decision error illegal maneuver. The driver of V2 was a 39-year-old female. There was no interview with this driver so many factors for her are unknown. The pre-crash event for vehicle two is: other vehicle encroachment/ from crossing street, turning into opposite direction. The critical reason for the critical event was not coded to the driver of V2; however, this driver had the same associative factor as the driver of V1: Inadequate surveillance of surrounding traffic due to the school bus blocking her sight line of V1. The driver of V3 was a 58-year-old female school bus driver who had departed from a school and was on her way to the bus yard. For this trip she had been driving 34 minutes when the crash occurred. She takes an unspecified type of blood pressure medication. Indications are that this driver decelerated as she approached the intersection in order to yield to V1, who was approaching the intersection going the wrong way. This driver was driving in a safe manner and was not involved in the first harmful event of the crash. The critical reason for the critical event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Decision, Roadway, Surveillance present problem 
+Vehicle 3:  Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Passing or overtaking another vehicle
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

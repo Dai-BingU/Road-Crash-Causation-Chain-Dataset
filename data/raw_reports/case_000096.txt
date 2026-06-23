@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an urban intersection of two straight, bituminous roads. V1 was traveling on a two-way, two-lane, level road with an un-posted residential speed limit of 40 kmh (25 mph), controlled by a stop sign. V2 was traveling on a one-way, two lane, plus a parking lane, road with an uphill slope >2% and a posted speed limit of 48 kmh (30 mph). Conditions at the time of the weekend afternoon crash were daylight, cloudy and dry. V1, a 2007 Ford Escape 4 door utility vehicle, driven by a 19 year-old female on her way to work, was traveling south and stopped for about 3 seconds at the stop sign at the intersection. The driver was late to work, and taking an unfamiliar route, in a new vehicle that she was driving for the third time. The driver stated that she looked to the left but did not see V2. A witness driving behind v2 stated that v1 did not even slow for the stop sign, and then V1 proceeded into the intersection. The front of v1 struck the right side of v2. V1 rotated clockwise and came to rest along the curb east of the intersection, facing east. V1 was towed from the scene due to damage, and the fully restrained driver denied injuries. V2, a 1998 Toyota Corolla 4 door sedan, driven by a 22 year-old male on his way from church to lunch, was traveling east on the one-way road approaching the intersection in lane one, when the driver observed v1 pulling out from the stop sign. The driver of v2 steered into the left lane and accelerated in an attempt to avoid v1. V2 was struck in the right side by v1. V2 rotated clockwise and came to rest past v1 along the curb facing east. V2 was towed from the scene due to damage. The fully restrained driver denied injuries. The fully restrained front right adult female passenger was transported to a local trauma center. The Critical Precrash Event coded to the driver of v1 was 'this vehicle crossing (passing through) intersection.' The Critical Reason for the Critical Event coded was a driver related factor of 'inadequate surveillance-looked but did not see.' Contributing factors of unfamiliarity with the road and the vehicle were also coded. In addition, the driver stated that she was stressed because her employer had to call her at home and wake her up because she was late for work. An associated factor was coded as the driver was listening to her radio. The Critical Precrash Event coded to the driver of v2 was 'other vehicle encroachment from crossing street across path.' The Critical Reason was not coded to this vehicle. An associated factor for v2 of low tire pressure was also coded. Tires measured 18 and 19 pounds per square inch, when the recommended pressure is 30 per square inch.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Stress/Emotion, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

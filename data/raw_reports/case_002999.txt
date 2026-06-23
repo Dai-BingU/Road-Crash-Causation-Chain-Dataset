@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred on a five lane north / south straight arterial road with the center (third) lane as the turn-only lane. There was a traffic light approximately one hundred meters north of the crash location controlling an intersection. The roadway was level and had a posted speed limit of 73kph (45mph). The crash occurred on a weekday in the early afternoon under daylight and dry conditions. Traffic was backed up on the arterial road on the northbound side for the red light approximately eighty meters south of the red light. Vehicle 1, a 2006 Freightliner conventional tractor pulling a fifty-three foot trailer that was loaded with 23,000 pounds of cardboard boxes flat-packed, was northbound in the right lane on the arterial road when it struck vehicle two, a 2003 Dodge Intrepid. The Dodge (V2) was then pushed forward into vehicle three, a 1995 Nissan Altima that was also in the right lane stopped for the light. Vehicle 3 then impacted a fourth vehicle in the rear before stabilization occurred. All vehicles came to rest still facing northbound in the right lane only a few meters from their initial impact positions and Vehicles 1, 2 and 3 were towed due to damage. Vehicle 1 was driven by a 52-year-old male who was wearing his seatbelt at the time of the crash. He stated that he was driving in the right lane, and the light had turned red and the car in front of him stopped. He didn't even see the car stop, but he hit him, and then that vehicle hit the one in front of it, and that one hit the vehicle in front of it. He said he was not officially late for an appointment, but had received a call from dispatch stating that the customer was awaiting delivery. The driver was uninjured in the crash. Police charged him with following too closely. The Critical Pre Crash Event for Vehicle 1 was other motor vehicle in lane: other vehicles stopped. The Critical Reason for the Critical Pre Crash Event was inadequate surveillance (failed to look, looked but did not see). An associated contributing factor is driver fatigue. The driver woke up early in the morning and started his 4 hour trip 9 hours after he woke up. Another contributing factor is that although the driver is on four different medications, one of them has as a possible side effect of dizziness and fatigue. The driver may also have been in a hurry due to his dispatcher's phone call regarding being late for his delivery. Vehicle 2 was driven by an 80-year-old female who was belted and uninjured in the crash. She stated that she was stopped at the light and heard the truck behind her, she pressed harder on the brake and then the truck hit her. The Critical Pre Crash Event for Vehicle 2 was Other Motor Vehicle in Lane: Traveling in same direction at a higher speed. The Critical Reason for the Critical Pre Crash Event was not coded to this vehicle. No contributing factors were coded to this vehicle. Vehicle 3 was driven by a 28-year-old male who was belted and uninjured whose airbags did not deploy. He stated that they were all stopped at the red light and he was looking ahead. He heard the bang, but before he could look up, he was pushed into the vehicle in front of him. The Critical Pre Crash Event for Vehicle 3 was listed as not involved in first harmful event. The Critical Reason for the Critical Pre Crash Event was not coded to this vehicle. There were no associated contributing factors for Vehicle 3.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Stress/Emotion, Drugs, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+Vehicle 3:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred in the morning of a weekday in the southbound lane of a three lane undivided roadway. The north/south roadway consisted of one southbound lane and two northbound lanes (with one designated a right turn only lane) and featured a posted speed limit of 48kmph (30 mph). The bituminous roadway was dry, straight, and level. There were no adverse atmospheric conditions, but traffic was backed up due to rush hour conditions. V1, a 2001 Dodge Caravan, was southbound in lane one when it failed to slow for traffic and impacted the rear of V3, a 2004 Honda Civic, which was stopped ahead of it. V2, a 2005 Chevrolet Trailblazer, was also southbound behind V1, and failed to stop for the collision ahead of it and subsequently struck the rear of V1. The force of this impact pushed all vehicles forward and the front of V3 struck the rear of V4, a 1997 Ford Escort Wagon, which was also stopped in lane one. V1 was driven by a belted 46-year-old female who was taking several clients to a worksite. She stated the vehicle in front of her (V3) suddenly appeared in front of her, maybe from a parking lot. This driver denied inattention or conversation with passengers (four developmentally disabled adults who may have contributed as a distraction). This driver stated she did not have time to make any defensive actions. There were no injuries reported to any occupants in this vehicle. This Vehicle was towed due to damage. The Critical Precrash Event for V1 was coded other motor vehicle in lane, traveling in the same direction while decelerating. The Critical Reason for the Critical Precrash Event was coded as a driver related factor, inadequate surveillance. Following too closely (keeping up with traffic) and rush hour traffic were coded as associated factors. V2 was driven by a belted 35-year-old female, who after numerous attempts, could not be contacted for an interview. There were no reported injuries for this driver and the vehicle was driven from the scene. The Critical Precrash Event for V2 was coded other, not involved in first harmful event. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. Due to the lack of an interview the only known associated factor for this vehicle was the presence of rush hour traffic. V3 was driven by a belted 68-year-old female who was transported to an area hospital, treated and released. This driver stated she was pushed into V4 by the force of the second impact. V3 was towed due to damage. The Critical Precrash Event for V3 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Precrash Event was not coded to this Vehicle. Rush hour traffic was coded as an associated factor but the driver was not thought to have contributed to the crash. V4 was driven by a belted 59-year-old male who stated he was stopped in the traffic lane, waiting for vehicles to pass before making a left turn into a retail parking lot. He stated he made no avoidance actions, was not looking behind his vehicle and already had his foot on his brake.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Surveillance, Traffic present problem 
+Vehicle 2:  Decision, Traffic present problem 
+Vehicle 3:  Driver Physical, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other- Not involved first harmful event
+ 3 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

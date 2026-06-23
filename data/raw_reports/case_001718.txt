@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a north/south six-lane undivided roadway at an intersection with a driveway to a shopping plaza. The north/south roadway had two southbound lanes, three northbound lanes, and a middle turn lane used by both directions. This was a straight, bituminous roadway with a posted speed of 72 kmph (45 mph). It was mid-afternoon on a weekday and the road was dry and the sky was clear. Traffic flow was heavy in this shopping district. East of the point of impact there was a 2 percent downward slope in the southbound direction. The roadway was level west of and at the point of impact. V1 was a 1994 Jeep Grand Cherokee driven by a 50-year old male who was transported due to injuries. He was traveling in the southbound lane 3, the middle turn lane, preparing to make a left turn into the shopping center. After waiting for more than 10 seconds, traffic in the northbound lanes 2 and 3 had stopped to allow V1 to cross over their lanes into the plaza. V1 proceeded to make the left turn, not seeing V2 in the northbound lane 1 traveling approximately 48 kmph (30 mph) until it was too late to react. The driver of V1 stated that his view of V2 was blocked by a large van in the northbound lane 2. V2, a 1998 Mack Cement Mixer carrying 35,000 pounds of water, was driven by a 40-year old male who was traveling north in lane 1. The driver stated that when he saw that V1 was going to turn left through the northbound lanes, he attempted to stop 30 meters prior to the impact but was unsuccessful. A witness stated that V1 was in the middle lane proceeding with caution. The cars going north stopped to let him through. The witness stated that V2 was going full speed and hit V1. The light was red at a nearby intersection and all the cars were stopped to let him (V1) through. V2 was in the far right lane going north, and V1 was turning into the shopping center with caution. The Critical Pre-crash Event for V1 was "This vehicle traveling, turning left at intersection. " The Critical Reason for the Pre-crash Event was "Other decision error- Turned with obstructed view." An associated factor coded to the driver of V1 was a sightline restriction caused by the non-contact van in the northbound lane 2. The Critical Pre-crash Event for V2 was "Other motor vehicle encroachment from opposite direction - over left lane line." The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle and no associated factors were coded to its driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

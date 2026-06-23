@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on a high occupancy, high volume, and high-speed interstate highway in the southbound lanes. The roadway is straight and level with a posted speed of 105 kph (65 mph). There were five lanes running northbound with lane five being a high occupancy travel lane. There were 2 paved emergency shoulders on the right and left side as well as 2 concrete median walls. The conditions were dry and clear on a weekend afternoon. The traffic flow was normal and the roadway was straight and level. Vehicle 1, a 1988 Ford Bronco was traveling in lane two going 105 kph (65 mph). The driver was a 24-year-old male who was trying to make a lane change into lane one. He was on his way to help a friend who had broken down on the right side shoulder. Vehicle 2, a 1995 Nissan Quest Minivan was traveling southbound in lane one going the speed limit. V1 moved over into lane one and the left front of V2 scraped along the right side of V1 as it was changing lanes. The driver of V2 was a 38-year-old male who was on his way to a friend's house with his wife. He stated in the interview that he did not even know that V1 was going to try to change lanes into lane one. He did not make any avoidance maneuvers and V2's right front hit V1 on the right back bumper causing V1 to rotate counterclockwise across three lanes of traffic making final rest facing east bound against the left side concrete barrier wall. V1 the Ford Bronco was driven by 24-year male who was making a lane change to help a friend whose car was broken down on the right side shoulder. He claimed that he was pulling off the road to the right shoulder when the Minivan tried to go around him to the right. A witness who saw the crash told the police on scene that the Ford Bronco was changing lanes from lane 2 into lane one. The Critical Pre-crash Event for Vehicle 1 was this vehicle traveling over the lane line on right side of travel lane. The Critical Pre- crash Reason was an inadequate surveillance as the driver told me in the interview he was trying to pull over to the right side once he saw his friends vehicle on the right hand shoulder. The driver was transported due to injuries and his vehicle was towed due to damages. There were no associative factors related to this driver. He was cited for the crash for making an improper lane change. V2, The Nissan Quest was driven by a 38-year-old male who was traveling in lane one when he stated in his interview that the Ford Bronco just cut into his lane. He did not have any time to try to avoid the crash. The Critical Pre-crash Event was other vehicle encroachment from adjacent lane over the left lane line. The Critical Pre-crash Reason was not coded to this driver, as he was not thought to have contributed to the crash. He was not injured but the vehicle was towed due to damages. There were no associative factors related to the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

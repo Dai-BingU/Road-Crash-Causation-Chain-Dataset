@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a two-lane, bituminous, undivided, level and dry roadway. The speed limit is 89 kph (55 mph). This crash occurred within a work zone that was not active. The crash occurred during nighttime hours with no additional lighting and no adverse atmospheric conditions. Vehicle one (V1), a 1999 Chrysler Sebring was westbound in the eastbound lane. Vehicle two (V2), a 1998 Freightliner was eastbound. V1 was driving on the wrong side of the roadway at approximately 89 kmph (55 mph) and impacted with V2 in the left rear at the rear axle. When V2's driver saw V1, he tried to get to the right but was impacted on its left rear axle. V2 rotated and rolled over one-quarter turn. V1 came to final rest partially off the south road edge and in the eastbound lane. Both vehicles were towed due to damage. The driver of V1, a twenty-five year old female was heading home from work and had been driving for about thirty minutes. This driver does not remember what happened in the crash. The medical records indicate a BAC of .157. The medical records also indicate the presence of an opiate. The driver admits to taking Clonazepam. Fatigue is considered a factor for this driver. This driver drives this vehicle daily and over this road on a daily basis. The driver of V2, a thirty-seven year old male was returning back to the post office after picking up mail at various post offices. This driver drives this route daily and in this vehicle daily. The critical pre-crash event for V1 was coded: this vehicle traveling: over the lane line on the left side of travel lane. The critical reason for the critical pre-crash event was attributed to V1 and was coded as a driver related factor: other critical non-performance (specified as: Passed out combination of alcohol and Clonazepam, which should not be taken with alcohol). The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Fatigue, Drugs, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other critical non-performance (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

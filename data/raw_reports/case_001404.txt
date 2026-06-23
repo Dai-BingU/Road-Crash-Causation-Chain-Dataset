@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in a signalized intersection of a two-way north-south roadway with two lanes in each direction and a turning lane, and a two-way east-west roadway that had one lane in each direction. The north-south roadway also had a physically divided service lane for each direction. The roadway was straight and level, and it was daylight and clear with no adverse conditions. The posted speed limit was 48kmph (30mph). Vehicle # 1 was a 1997 Lincoln Town Car that was traveling southbound in the right lane of the main roadway. Vehicle # 2 was a 2001 Jeep Grand Cherokee that was traveling southbound on the service road. At the intersection, Vehicle # 2 attempted to turn left from the service road when the front of Vehicle # 1 impacted the left side of Vehicle # 2. The Lincoln Town Car (Vehicle # 1) was driven by a 56 year-old male who sustained minor injuries and was transported to a medical facility. A 26 year-old female occupant also sustained minor injuries and was transported to a medical facility. The Lincoln was towed due to damage. The Critical Pre-crash event for Vehicle # 1 was coded as: Other Motor vehicle encroaching into lane from adjacent lane (same direction) over the right lane line. The Critical Reason for the Critical event was not coded to the driver. The driver of the Lincoln was not thought to have contributed to the crash. The possible associated factors were coded unknown because no interview was obtained. The Jeep Grand Cherokee (Vehicle # 2) was driven by a 50 year-old female who did not sustain any injuries. The driver stated that she was attempting to make a left turn from the service lane. She was lost and had called her sister for directions on her cell phone. The Jeep was towed due to damage. The Critical Pre-crash event for Vehicle # 2 was coded as: This vehicle traveling, turning left at intersection. The Critical Reason for the Critical event was coded as a Driver Related factor, internal distraction. The following Associated factors were coded to the driver: Two Recognition factors were coded because she was on the phone and conversing with her sister to get directions, and inadequate surveillance, looked but did not see. An Experience factor was also coded, because she had rarely driven on this roadway. She was taking four medications for her heart and diabetes condition and she was wearing prescription sunglasses that corrected a myopic (near-sighted) condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Cell Phone Use, Distraction, Driver Inexperience, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Internal distraction

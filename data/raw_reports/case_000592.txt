@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the morning rush hour of a weekday on a four-lane, one-way highway off-ramp. The southbound roadway was composed of two left turn lanes, one straight lane and one right turn lane. This bituminous roadway had a negative 2% downhill slope, and curved to the right. The posted speed limit was 72 kmph (45 mph). Conditions were daylight and rainy with fog in the air. Vehicle one (V1), a 1998 Mitsubishi Eclipse two-door with two occupants, was southbound in lane three. Vehicle two (V2), a 1990 International medium/heavy box truck with one occupant, was stopped southbound in lane three, ahead of V1. A non-contact vehicle that V1 was following was also traveling southbound in lane three. The non-contact vehicle V1 was following made a sudden lane change from lane three to lane four. V1 failed to make the lane change and the driver slammed on his brakes but contacted the back of V2. V2 did not move as a result of the impact, the hood of V1 under-rode the rear bumper of V2 and came to final rest with half of the hood under the rear bumper of V2. V1 was towed due to damage. The driver of V1, a 20 year-old male, was transported from the scene with minor injuries. He reports the morning of the crash it was raining and foggy. He was following a friend to their job site that he had never been too before. He was traveling at 64 kmph (40 kmph) in lane three, the left turn lane. The car he was following made a sudden lane change to the left, to get into the far left turn lane. This driver could get over and then noticed the stopped box truck in his lane. He says he hit the brakes, but due to wet roads and the downhill grade, he could not stop in time. When he realized a crash was evident he braced the steering wheel and prepared for impact. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Event was inadequate surveillance (failure to look far enough ahead). One associated factor was the driver failed to look far enough ahead. Associated factors include the fact the driver was focused on following the car in front of him as well as traveling too fast for the wet roads, downhill grade and foggy conditions. This was the first time this driver had ever been on this roadway, and was not familiar with the traffic pattern and the morning rush hour congestion. The driver of V2, a 53 year-old male, was not injured in the crash. He reported being stopped in lane three for approximately 10 seconds due to heavy morning rush hour traffic. He described the roadway as being wet with fog being present. As he was sitting there waiting for traffic to move, he heard screeching tires behind him. He looked in his right side mirror and observed V1 skidding into the back of his truck. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling the same direction at a higher steady speed. The Critical Reason for the Critical Event was not coded to V2. The driver suffered from arthritis, in which he takes prescription medication for, as well as heart problems and issues related to sleep apnea. He was also not wearing his glasses at the time of the crash. The rain, wet roads, and fog were all coded as associated factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Roadway, Speed/Distance, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Driver Physical, Drugs, Roadway, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

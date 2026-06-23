@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a fully controlled urban highway divided with a median guardrail, with a posted speed limit of 105kph (65mph). The two southbound lanes become four lanes, with the two left ones curving onto another highway. Conditions at the time of the evening weekday crash were dark, wet and raining on the straight and level bituminous roadway. V1, a 1994 Toyota Paseo driven by a 43 year-old female, was traveling southbound in lane one approaching an interchange area. The driver of the Toyota had left her home 4 hours before, stopped for coffee, and 20 minutes later was only midway through her trip to a neighboring state. The driver was unfamiliar with the exact location of the ramp to the eastbound lanes, and when she saw it at the last moment, she sharply turned the steering wheel to the left, losing control of the vehicle on the wet pavement. V1 began to hydroplane and rotate counterclockwise, crossing 3 lanes and leaving the roadway to the 70cm wide paved shoulder, and dropping onto the dirt. V1 went down and up the other side of a ditch and rolled with the left side leading 4 quarter turns and came to rest facing southeast. V1 was towed from the scene due to damage. The fully restrained driver refused medical treatment. The Critical Precrash Event coded to v1 was 'this vehicle traveling off the edge of the road on the left side.' The Critical Reason for the Critical Event coded was 'other decision error'. The driver saw the highway split at the last moment in the dark and rain, and decided to try to make the cutoff from lane one. Contributing Factors were coded for the wet pavement; low tread on rear tires, and driver's unfamiliarity with the road, which she rarely drove.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Inexperience, Roadway, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other decision error (specify) :

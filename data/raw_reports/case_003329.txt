@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the southbound lane of an undivided two-lane residential roadway. The roadway had a posted speed limit of 40 kmph (25 mph) and a 3 percent uphill grade in the eastbound direction. There was a 6 percent uphill grade in the southbound direction. Stop signs were present for the east and west lanes of travel. Conditions were daylight and dry with clear skies. The setting was late morning on a weekday. Vehicle one was 2006 Nissan Altima sedan traveling eastbound approaching the intersection. Vehicle two was a 2004 Toyota Sienna minivan traveling southbound approaching the same intersection. V1 decelerated and then proceeded across the intersection as V2 entered the intersection. The left plane of V1 was struck by the front of V2. The two vehicles then rotated into each other in a side-slapping fashion with the left plane of V1 striking the right plane of V2. Both vehicles came to rest in the southeast corner of the intersection. The Nissan Altima (V1) was driven by a 40-year old female who was transported to a local hospital with non-incapacitating injuries. She stated that she had just left her children's school and was driving home in an area she wasn't familiar with. She slowed for the intersection but didn't notice the stop sign. She estimated her travel and impact speeds to be between 5 and 10 mph. The sedan was towed due to damage. The Critical Pre-crash Event for V1 was this vehicle crossing over the intersection. The Critical Reason for the Critical Pre-crash Event was inadequate surveillance. This driver wore contact lenses. She was unemployed at the time. It was her first time driving this roadway. Unfamiliarity with the roadway was coded as an associated factor, as was an illegal maneuver, because the driver of V1 failed to stop for the stop sign. The Toyota Sienna (V2) was driven by a 37-year old female who was treated on the scene for non-incapacitating injuries. She stated that she was also returning home from her children's school. She saw V1 pull out at the last moment and did not have a chance to react. Her estimated travel and impact speed was 25 mph. The minivan was towed due to damage. The Critical Pre-crash Event for V2 was other vehicle encroachment from a crossing street across the path of this vehicle. The Critical Reason was not coded to this driver. This driver also wore contact lenses. She was not employed. No associated factors were coded to the driver of V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

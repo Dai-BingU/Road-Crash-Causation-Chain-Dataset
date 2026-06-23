@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the southbound travel lanes of a 6-lane divided highway. At the location of the crash, the roadway had three lanes northbound and 3 lanes southbound and the roadway was intersected on the west side by a private business driveway. The posted speed limit was 89 kmph (55 mph). The conditions for this weekday afternoon crash were clear, dry and daylight. V1 was traveling north when it entered the left turn-only lane and attempted to turn left across the southbound lanes into the private driveway. V2 was traveling south in lane three when V1 turned left in front of it. The front of V2 struck the right quarter panel of V1 when it turned across the path of V2. Both vehicles traveled to the southwest corner of the intersection where they both came to final rest. V1, a 1995 BMW 525I, was driven by a 16-year old male high school student that was driving to the Department of Motor Vehicles this afternoon when he was involved in this crash. He was driving his father's car to the DMV so he could complete his driver test and get his driver license. While stopped in the left turn-only lane waiting to turn across two southbound lanes, his father was telling him "how dangerous this highway is" and "how to cross through the traffic." Once this driver decided there was enough space to complete a turn, he initiated his turn but suddenly realized he had misjudged the speed and distance of V2 (a 1997 Nissan Sentra). This driver accelerated across the lanes but he could not avoid being struck in the right rear quarter panel by the front of the Nissan. The impact caused this vehicle to spin off the roadway and come to rest on the southwest roadside. The damage to the BMW was minimal but the gas tank was punctured and right rear tire was restricted so it was towed from the scene. This driver and his father were not injured in the crash and were very cooperative with the interview. This driver was in good health, does not need to wear corrective glasses, and slept two more hours last night than what he usually sleeps because he was on spring break from school this week. The Critical Pre-crash Event for this driver was coded: this vehicle turning left at intersection. The Critical Reason for the Critical Pre-crash Event was coded: misjudgment of gap or other's speed. Associated factors coded to this driver include inattention (he was thinking about taking his driver's test), conversation with his passenger, an exterior factor because he was looking at his turn destination, and driver inexperience. V2, was driven by a 22-year-old female who reported to be in excellent health. For this trip today, she was driving to the bank to withdraw some money before running some errands. As she was driving south in lane three, she saw northbound V1 enter the left turn-only lane and then attempt to turn across her path. She said V1 pulled into her lane, stopped, and then proceeded to cross the southbound lanes. This driver immediately locked her brakes and steered away (right) but she could not avoid slamming into the right side of V1. She continued to drive off the right side of road and came to final rest against a wire fence. Nobody in her vehicle was injured but her car was towed due to damage. The Critical Pre-crash Event for V2 was coded: other vehicle encroaching from opposite direction over left lane line. The Critical Reason was not coded to this driver and no associated factors were coded to her.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

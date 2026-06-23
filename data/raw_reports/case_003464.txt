@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred mid-morning in the five northbound lanes of a divided interstate with a posted speed limit of 97 kmph (60 mph). It was rush hour and traffic was moving prior to crash at about 64 kmph (40 mph). The concrete roadway was dry, flat with an unknown grade and relatively straight. There were no adverse weather conditions at the time of the crash. Vehicle two (V2), a Chevrolet Suburban SUV driven by a 33 year-old male, was traveling northbound in lane four. Vehicle one (V1), a 2000 Lincoln Town car limousine driven by a 34 year-old female, was traveling north behind V2 in the same lane. Traffic suddenly came to a quick stop. V2 was able to stop just short of the vehicle in front of it. The driver of V2 then looked in the side mirror and noticed V1 coming at it without deceleration. V1 did not see any brake lights but noticed the distance that is normally kept between vehicles was diminishing quickly. The driver of V1 looked for open lanes for evasive actions. Lane three was occupied, but lane five was clear. He turned the wheel to the left and braked hard. The front of V1 under rode the back of V2. The vehicles came to rest in lane four just a short distance north of the point of impact. V1 was towed due to damage. V2 was not towed due to damage. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: too fast to respond to unexpected actions of others (specified as: this driver expected V2 to continue to proceed forward, and was unable to respond in time when he realized that V2 was stopped in front of him). An associative factor for the driver of V1 was fatigue. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Drugs, Speed/Distance, Traffic present problem 
+Vehicle 2:  Alcohol, Driver Inexperience, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

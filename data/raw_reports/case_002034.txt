@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekday afternoon in the middle of a four-way residential intersection. The intersection consisted of two, two-lane lane roadways controlled by stop signs in the east/west direction. There were two lanes for both north/south bound and east/west bound traffic. The bituminous roadways were dry, straight, and level with posted speed limits of 40kmph (25 mph). The traffic flow was normal as there were no adverse atmospheric conditions at the time of the crash. V1, a 1999 Honda Odyssey, was stopped facing east at the intersection where it intended to turn left. V2, a 2006 Nissan Xterra, was southbound in lane one approaching the same intersection where it intended to go straight. As V1 began its left turn it was struck on its left front corner by the front of V2. Both vehicles came to final rest in the middle of the intersection near the point of impact. The driver of V1, a 16-year-old female, had only been licensed for roughly 1 month. She stated that her and two friends were on their lunch break and heading back to basketball practice. In the interview she stated that she was busy eating lunch and conversing with her friends as she was stopped for about 1 minute waiting to turn left. She thought it was clear to go and started to turn left when she was hit by V2. None of the occupants were injured, but V1 was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at the intersection. The Critical Reason was an internal distraction, as she was conversing and eating. Associative factors coded to V1 include experience as she had been driving for such a short period of time as well as all of the internal distractions occurring in her vehicle at the time of the crash. The driver of V2, a 57-year-old male, was running some errands on his lunch break. He was traveling at the speed limit and going straight when V1 just pulled right out into the intersection making contact with the front right corner of his SUV. He was not injured, but his vehicle was towed due to damages. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing, street turning into opposite direction. The Critical Reason was not coded to this vehicle. There were no associative factors related to this vehicle and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

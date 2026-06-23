@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the roadway of a two-way, two-lane, non-divided rural asphalt roadway with a posted speed limit of 89Kmh (55Mph). The crash occurred during the hours of dark, and there were no adverse conditions present at the time of the crash. V1 a 2007 Chevy Avalanche was northbound turning, attempting to turn left into her driveway. V2 a 1996 Mercury Villager was traveling southbound in the right curb lane. V1 turned in front of V2 and was contacted in the left front by the left front of V2. Both vehicles were towed from the scene with moderate damage. The driver of V1 a 38 year-old female stated that she had been drinking alcohol at the bar before the crash occurred. She then stated that she was on her cell phone talking to a friend, and did not remember if she looked to see if traffic was clear. The Critical Pre-Crash Event coded for V1 is "This vehicle traveling turning left at intersection". The Critical Reason for the Critical Pre-Crash Event coded for V1 is " internal distraction". The driver of V2 a 40 year-old female stated that she saw that the vehicle was going to turn in front of her, so she hit her brakes. She also stated that she did not turn the steering wheel. The Critical Pre-Crash Event coded for V2 "is other motor vehicle encroachment from adjacent lane accost left lane line". V2 was not assigned a Critical Reason.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Cell Phone Use, Decision, Distraction, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

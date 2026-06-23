@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the intersection of a 4-way signalized intersection in a rural part of town. The intersection is controlled by a pre-timed traffic signal, without a pedestrian crossing, and the speed limit for all four directions is 72 kmph (45 mph). The conditions were dark without lighting and wet roads because of a rainstorm. V1, a 1994 Plymouth Voyager, was traveling east toward an intersection and V2, a 2001 Chevrolet K-1500 4x4, was traveling north toward the same intersection. An unknown box truck was traveling ahead of V1 and turned right (south) at the intersection. V1 passed the truck on the left side and continued east through the intersection. V2 entered the intersection the same time as V1 and was struck in left front by the front of V1. After the initial impact, V1 and V2 side slapped and both vehicles moved to the northeast corner of the intersection. V1 came to rest in the northbound lane and V2 departed the roadway and struck a utility pole. Nobody was injured in the crash but both vehicles were towed due to damage. V1 was driven by a 24-year-old female that was returning home from her shift at a fast food restaurant when she was involved in this crash. She was driving her Plymouth minivan east on this 2-lane roadway when a "large yellow truck," traveling ahead of her, slowed to make a right turn at the intersection. This driver continued to proceed through the intersection without noticing what the color of the signal was, and struck the left side of the Chevrolet pickup truck. This driver said the large truck turning right obstructed her view of the traffic signal but she figured it was green because there was still traffic coming in the opposite direction. The Critical Precrash Event for V1 was coded: this vehicle passing through intersection and the Critical Reason for the precrash event was coded: inadequate surveillance. Associated factors also coded to this driver include: failure to stop for a traffic control signal, falsely assuming the traffic signal was green, and following too close to the box truck to view the traffic signal. V2 was driven by a 16-year-old male high school student that was driving his friend home today when he was involved in this crash. This driver states he left his home this afternoon and was driving north on a two-lane road when his truck was suddenly struck in the left side as he entered an intersection by V1. He reports that his traffic signal was green as he approached the signal and confirms that a large box truck was turning south as he entered the intersection. He said he never saw the minivan that struck him and did not have a chance to avoid the collision. He is currently on holiday break from school and he does not have a job. The Critical Precrash Event for V2 was coded: other vehicle encroaching from crossing street, across path and the Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

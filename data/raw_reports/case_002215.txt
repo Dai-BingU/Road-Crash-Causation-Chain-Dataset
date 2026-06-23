@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lane of a two-lane roadway. Conditions were cloudy with rain in the early evening on a weekday. The posted speed limit was 40 MPH. The northbound lane had a -3% downhill grade. The southbound lane had a positive 2 % uphill grade. V1 was a 1995 Mercedes Benz S420 sedan traveling northbound in the first travel lane negotiating a curve left. V2, a 2003 Ford Ranger pick-up, was traveling southbound in the first travel lane about to negotiate the curve. V1 lost control of her vehicle and began to spin in a counterclockwise rotation. V1 crossed over the centerline and the front of V2 struck the right side of V1 in the southbound lane. V1 came to final rest facing southeast. V2 came to final rest facing easr-southeast. V1 was driven by a 70-year-old female who was not injured. She refused to be interviewed but a surrogate interview was obtained by the investigating police officer. He stated that the driver of V1 was speeding while negotiating the curve, which caused the driver to lose control on the wet pavement. V1 then spun counterclockwise and crossed over the centerline and struck V2. The driver of V1 did not take any avoidance actions. The driver of V1 was traveling between 31 and 40 MPH at the time of impact. V1 was towed due to damage. The critical precrash event for V1 was when this vehicle lost control due to traveling too fast for conditions. The critical reason for the critical precrash event was coded as a decision factor: traveling too fast for curve/turn. Associated factors coded to this driver were the driver not being familiar with the area, (first time on the roadway), a driver decision factor (did not realize that caution was required), a driver aggressive act (speeding), a roadway related factor (wet roads), and atmospheric conditions (cloudy with rain). V2 was driven by a 33-year-old male who sustained moderate injuries and was transported to a local hospital. He stated that he was traveling southbound when he saw V1 come into his lane of travel. The driver of V2 tried to avoid V1 by swerving right but was unsuccessful. The front of V2 struck the right side of V1 in the southbound lane. V2 was towed due to damage. The critical precrash event for V2 was other vehicle encroachment (from opposite direction over left lane line. The critical reason for the critical precrash event was not coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Driver Inexperience, Roadway, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

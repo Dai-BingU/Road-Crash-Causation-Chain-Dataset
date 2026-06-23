@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This four-vehicle collision occurred shortly after the noon hour. The location was on a busy urban overpass, in lane one, that leads to a right turn only to the entrance/on-ramp for the southbound lanes of a busy interstate highway. This lane also leads from an exit ramp from the interstate highway. Traffic was congested with lunch hour commuting traffic. The pre-crash roadway has a 4% uphill grade and is straight. The posted speed limit on the road is 48 kmph (30 mph). At the time of the crash, the weather was clear, the roadway was dry, and there were no adverse weather conditions, sight restrictions or road defects. Vehicle four (V4), a gold 2000 Lexus LX470 SUV, was traveling westbound in lane one ahead of Vehicle three (V3). V3, a blue 2001 Nissan Sentra 4-door, was traveling westbound in lane one ahead of Vehicle two (V2). V2, a gray 2005 Honda CRV, was traveling westbound in lane one ahead of Vehicle one (V1). V1, a red 1992 Chevrolet S-10 pickup, was traveling westbound in lane one. V4 was moving slowly forward, waiting for a gap in traffic to merge left to go straight ahead and not enter the on ramp. V3 with a 45 year-old male driver stated that he was moving forward very slowly when he heard a bang and then was hit from behind by V2. The V2 driver, a 36-year-old female, stated that she had been stopped for 5 to 10 seconds prior to impact with V1. The V1 driver, a 48 year old male, stated that he had just moved into the #1 lane, was scanning traffic to his side, and thought that traffic ahead of him was moving. The front of V1 impacted the rear of V2. V2 was pushed forward into the rear of V3. V3 was pushed forward and the front of V3 came in contact with the rear corner of V4. All four vehicles came to rest in lane one adjacent to the impact points. V1 and V2 were towed from the scene. The V1 driver, a 48 year old male, stated that he had just moved into the #1 lane, was scanning traffic to his side, and thought that traffic ahead of him was moving. The V1 driver's associative factors are unknown, as a complete V1 driver interview was not obtained just the aforementioned statement on-scene. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other motor vehicle stopped. The critical reason was attributed to the driver of V1 and coded as a driver related factor: false assumption of other's action. The V2 driver stated she had been stopped at impact. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. V3 was not involved in the first harmful event and was not assigned a critical reason.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance, Traffic present problem 
+Vehicle 2:  Drugs, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

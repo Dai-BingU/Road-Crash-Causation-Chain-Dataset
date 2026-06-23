@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle collision occurred shortly past noon in a traffic signal controlled four-way intersection. No adverse weather conditions were present at the time of collision. All vehicles were traveling on a bituminous roadway. Vehicle one (V1), a 1997 Mazda Protege sedan occupied only by the 48-year-old female driver, was traveling west in lane one. V1's two-way, undivided, roadway has 5 lanes of travel. V1 was approaching the intersection with the intention of going straight. The posted speed limit for V1 and vehicle two (V2) was 56 kmph (35 mph). V2, a 1997 Dodge Grand Caravan occupied by the 49-year-old female driver and two passengers, was stopped at the traffic signal facing southwest. V2's roadway is physically divided from V1's roadway by a raised curbed median. V2's intention was to travel south after crossing the west and eastbound lanes. V2 proceeded to enter westbound lanes when it was struck on the left front door and tire by the front right bumper of V1. V1 attempted to avoid the collision by applying brakes with lockup. After impact, V1 deflected off V2, departed the travel lane, traveled across three other lanes of traffic, where the front of V1 contacted the front of vehicle three (V3). V3 was a 1996 Chevrolet Cavalier coupe occupied only by the 21-year-old female driver. The posted speed limit for V3 was 40 kmph (25 mph). V3 had been stopped in lane 2 of 4 of a two-way, undivided roadway, to turn left. Contact between V1 and V3 front bumpers was minor. After impact, V1 traveled across west and eastbound traffic lanes in a westerly direction before coming to rest in lane one of the eastbound traffic lanes. V1 and V2 were towed due to damage. V3 was driven from the scene. Associative factors assigned to V1 driver are as follows: driver inattention resulted in improper surveillance of traffic signal control device, which led to a traffic violation (failed to stop for red traffic signal). Driver inattention was a result of driver thinking about her destination of travel as driver suffers from anxiety and depression. V1's driver, within a week from collision date, switched medications for depression and changed the time in which ingested. Driver went from Prozac to Zoloft and from daytime to nighttime ingestion. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason for the critical event was coded to the driver of V1 as a driver related factor: inattention (i.e., daydreaming). The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not assigned to this vehicle. V3 was not involved in first harmful event. The critical reason was not assigned to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Surveillance present problem 
+Vehicle 2:  Decision, Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

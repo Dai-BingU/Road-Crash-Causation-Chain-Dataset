@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The Crash occurred in the late afternoon during daylight hours, on a two-lane, two-way, wet, city road. The posted speed limit for this road is 40 Kph (25 MPH). A 45-year-old male drove the vehicle. V1, a 1991 Oldsmobile Eighty-Eight, was in the right curb lane when it departed the road first to the right, traveling about 10 meters before striking a garbage can and than reentering the road. The vehicle then departed the road to the left striking a fire hydrant, where it came to final rest. The vehicle was towed due to damage with frontal damage. The driver was transported to the hospital with moderate injuries. The driver stated that the last thing he remembers was being stopped on the side of the road in front of his mother's house. He then added that he must have blacked out with a diabetic seizure, and when he regained consciousness, he was off the left roadside on top of a fire hydrant. The driver also stated that he was on three types of medication at the time of the crash (insulin, paxil, and triphasil). The Critical Pre-crash Event is Off the Edge of the Road on the Right Side; the Critical Reason for the Pre-crash Event is heart attack or other physical impairment of the ability to act. Associative factors include: the driver admitted feeling drowsy prior to the crash; he had an argument within 12 hours of the crash; the driver suffers from diabetes and assumed that he had a blackout, causing the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

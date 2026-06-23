@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a rural two lane residential roadway. The lightly traveled road has several sharp curves and changes in elevation. It's 5.5m wide but has no center lane line. At the crash location the road curves from north to southeast as it travels eastward at approximately a 120-degree angle. The incident took place near the apex of the curve, which had a radius of curvature of 70m and a superelevation 12% and a grade of 6%. Although there were no speed limit or advisory signs on the road, the countywide speed limit unless posted otherwise was 48kmph (30mph). Conditions were daylight and dry in the early afternoon on a weekday. Vehicle #1 was a 1996 Toyota Camry traveling east negotiating a curve left with a positive grade of 6%. Vehicle #2, a 1999 Honda Civic, was westbound entering the curve right for westbound travelers at a 7% negative grade. Vehicle #1 crossed into the westbound lane and struck the front left of Vehicle #2 with its front left. Both vehicles came to rest at impact and were towed due to damage. Vehicle #1 was driven by a 26-year-old female. She was accompanied in the vehicle by a 24 year old female front right passenger and three children ages 3,5, and 6 in the back seat. The three year old was in the center position in a child seat, but none of the other occupants appeared to be belted. The frontal airbags on the Camry deployed. All five people in the vehicle were transported and released from area hospitals with minor injuries. The driver's statement to researchers and police was inconsistent with physical evidence and not reliable. The Critical Precrash Event for Vehicle #1 was this vehicle traveling over lane line on left side of travel lane. The Critical Reason for the Critical Event was other decision error, specified as negotiating curve in oncoming lane- cutting curve short. Associated factors coded were other decision error and a roadway factor, no lane delineation. There was also a sightline restriction, view obstructed by roadway curvature and terrain. Vehicle #2 was operated by a 20-year-old male that was not belted with deployed airbags. He was also transported and released from a local hospital with minor injuries. The Civic left 20m of right front skids and partially departed the right side of the road in an attempt to avoid the collision. The driver was charged with driving on a suspended license. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching into lane from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors coded were a roadway factor - no lane delineation and a sightline restriction, view obstructed by road curvature and terrain.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other decision error (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

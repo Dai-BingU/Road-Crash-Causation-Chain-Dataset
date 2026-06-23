@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the early evening hours during the week in the westbound lanes on a fully controlled, limited access urban freeway with a posted speed limit of 113kmh (70mph). Conditions at the time of the crash were daylight with heavy rain. The straight, level, concrete roadway was wet as V1, a 1997 Jeep Grand Cherokee began to merge from the entrance ramp. The 31 year-old female driver reported that the vehicle began to hydroplane as she was trying to move from the merge lane to the first travel lane at approximately 72kmh (45mph). The driver began to brake lightly but said that it only made it worse and then the front of V1 began to spin to the left. The driver tried to steer to the right and then to the left but the Jeep continued to spin counterclockwise until it was facing east and had moved across all three-travel lanes. V1 crossed the paved shoulder and then slid down the grassy median embankment where it rolled 6 quarter turns and came to rest on its' top facing northwest. Bystanders noticed a small fire in the engine compartment and helped the driver exit the vehicle, while the fire was put out with a fire extinguisher. V1 was towed from the scene due to damage. The fully restrained driver did not seek medical treatment following the crash. V1's pre-event movement was merging. The Critical Precrash Event coded to this vehicle was “This vehicle loss of control due to poor road conditions-puddling.” The Critical Reason for the Critical Event was coded weather related, rain. A Contributing Factor was coded for the left tires of the Jeep that had low amount of tread and may have been instrumental in the hydroplaning of the vehicle. An Associated factor was also coded for the driver's medical condition of Crohn's disease for which she takes prescribed medication. The driver reported no emotional or work related stress or distractions. The driver was familiar both with her vehicle and with the roadway. There were no mechanical defects found during the vehicle inspection. She was properly licensed for the vehicle and was not cited in the crash. Police did not consider alcohol or illegal drugs to be involved and ordered no tests.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Making a U-turn
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Rain, snow

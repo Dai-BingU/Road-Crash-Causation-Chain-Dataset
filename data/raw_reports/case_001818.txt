@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during daylight hours on a 5-lane straight and level cement roadway with a two-way left turn lane. The weather was clear, pavement dry and the roadway posted speed 56 kmph (35 mph). Vehicle one (V1) was a 1995 Jeep Grand Cherokee, occupied by the 51 year old female driver and the right front passenger. V1 was traveling north in lane two approaching a private business driveway on the east side or the roadway. Vehicle two (V2) was a 1999 Ford Escort 4 door sedan occupied only by the 42-year-old female driver. V2 was waiting to exit the private business driveway to turn left and head south. There was an unidentified non-contact vehicle northbound in lane one that stopped to allow V2 to enter the roadway. There was another non-contact vehicle in one of the southbound lanes that also stopped to allow V2 to enter the roadway. After the northbound non-contact vehicle stopped, she motioned V2 to enter the roadway. V2 then entered the roadway to turn left; V1 driver applied braking but the front of V1 struck the left side of V2. After contact, V1 moved a few meters north and came to final rest facing generally north, still in the number two lane. Impact to V2 pushed V2 slightly northwest coming to final rest straddling the number two lane and the two-way left turn lane, facing southwest. There was a driver frontal airbag in V1 that did not deploy. The passenger in V1 was injured but not transported. V1 was driven from the scene. V2 driver was injured and transported. V2 was equipped with frontal airbags that did not deploy. V2 was towed from the scene. V1 driver saw V2 stopped in the private business drive, but did not expect V2 to enter the roadway in front of her. V1 may not have noticed the northbound non-contact vehicle stop to allow V2 to enter the roadway. V2 did not ensure that all traffic had stopped before entering the roadway. The critical pre-crash event for V1 was coded: other vehicle encroachment; from driveway, turning into opposite direction. The critical reason was not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason was coded as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Decision, Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

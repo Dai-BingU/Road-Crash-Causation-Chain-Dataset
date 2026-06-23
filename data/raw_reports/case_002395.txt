@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during mid-afternoon daylight hours on a cloudy day in a, traffic signal controlled, four-way intersection. The southbound roadway is bituminous, straight, and level and consists of two through lanes and three left turn lanes that are divided from northbound lanes by a raised concrete curbed median. The eastbound roadway is bituminous, straight, level, one-way and consists of one left turn lane, one right turn lane and a middle lane from which one may proceed straight or turn in either direction. The posted speed limit for the southbound road is 56 kmph (35 mph) and the eastbound road has an advisory speed limit of 72 kmph (45 mph). At the time of the crash the road surfaces were dry, and there were no adverse weather conditions, road defects or sight restrictions. Vehicle one (V1), a maroon 2001 Chrysler PT Cruiser 4-door, was southbound in lane two, approaching the intersection intending to go straight. As V1 entered the intersection, the V1 driver, a 48-year-old male, noticed V2 enter the intersection and applied his brakes, but was unable to avoid the collision and the front of V1 and left side of V2 collided in the intersection. The impact redirected V1 to the southeast and V1 came to rest near the middle of the intersection facing generally southeast. Vehicle two (V2), a black 1998 Nissan Sentra 4-door, was eastbound in lane two, was stopped for a red light waiting to turn left. The V2 driver, a 21-year-old female entered the intersection when the light turned green and was struck on the driver side by V1. After the impact with V1, V2 departed on an east/southeast trajectory and came to rest in the middle of the intersection facing east/southeast. V1 was towed due to moderate frontal damage. V2 was towed from the crash scene due to moderate left side damage. The critical pre-crash event for V1 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason for the critical event was coded to V1 as a driver related factor: illegal maneuver. The V1 driver was cited for running a red light. The driver of V1 had a cold for a week and had been taking non-prescription Sudafed and Tylenol. He was on vacation, but had gone into work to pick up blue prints for a project and was thinking about the project. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason was not coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at just before midnight at the "T" intersection of a two-lane, two-way dry, level, bituminous north/south roadway and a two-lane, two-way, dry, uphill, bituminous roadway that intersects the north/south roadway from the west. The roadway curves to the right slightly for westbound traffic. The intersection was controlled by a stop sign for westbound traffic. The roadway intersects the northbound roadway at a 50-degree angle. It was dark but lit at the time of the crash and there were no adverse atmospheric conditions. The posted speed limit for the north/south roadway was 89 kmph (55 mph) and the westbound roadway was 56 kmph (35 mph). Vehicle one (V1), a 2000 Chrysler Cirrus was traveling westbound approaching the intersection. Vehicle two (V2), a 2002 Ford Explorer was traveling northbound and pulling a trailer loaded with musical equipment. V1 entered the intersection attempting to turn left while V2 passed through the intersection going straight. The front of V2 contacted the left side of V1. V1 deflected to the right and came to rest off of the roadway facing southwest. V2 rotated counterclockwise and came to rest on the roadway facing south. While V2 was rotating towards final rest, its trailer contacted the left rear of V2. The driver of V1 was a 19-year old female who maintains a regular sleep schedule of 7 hours of sleep per evening and a normal work schedule of 35 hours per week. She was fatigued at the time of the crash. She was familiar with the vehicle and has over 4 years of driving experience. This was however, her first time on this particular roadway. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver of V2 was a 34-year-old male who had been driving this portion of the trip for over 1/2 hour. He maintains a regular sleep schedule of 9 hours per night. The driver of V2 had just completed a 5-hour workday and was driving home. This was his only workday in the preceding seven days. He has 18 years of driving experience and had driven this roadway monthly. He was also very comfortable with the vehicle, cargo trailer, and passenger load. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing, turning into opposite direction. The critical reason was not assigned to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

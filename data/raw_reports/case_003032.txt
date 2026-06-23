@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of an undivided, six-lane, suburban roadway at an intersection. There were four northbound lanes including left and right turn lanes, and two southbound lanes. The intersection was signal-controlled with pedestrian signals. The roadway had a 2% downhill grade in the northbound direction. Conditions were daylight with a light sprinkling of rain on a mid-morning weekday. Vehicle one was a 1992 Chevrolet Blazer sport utility. Vehicle two was a 2001 Volkswagen Passat sedan. Vehicle three was a 2000 Dodge Grand Caravan minivan. V1 was traveling northbound in the third lane intending to go straight through the intersection. V2 was stopped facing east in the second lane waiting to go straight. V3 was stopped facing west in the second lane waiting to go straight. The light signal changed to red for north/south traffic and green for east/west traffic. V2 and V3 proceeded to accelerate into the intersection. V1 continued through the intersection. The front left brush guard of V1 struck the front of V2. The driver of V3 noticed V1 coming and braked to a stop. The front of V1 then struck the left side of V3. All three vehicles came to rest in the intersection. Vehicle one was a driven by a 20-year old male who was untreated with possible injuries. He had a one passenger who was treated at the scene for possible injuries. He stated that he had glanced down at his radio and did not notice the lights had changed. He estimated his travel speed to be 72 kmpn (45 mph) and his impact speed to be 56 kmph (35 mph). This sport utility was towed due to damage. The Critical Precrash Event for V1 was this vehicle crossing over (passing through) the intersection. The Critical Reason was an internal distraction consisting of the radio display. Vehicle two was driven by a 28-year old male who was untreated with possible injuries. He stated that he saw V1 out of the corner of his eye and braked, allowing V1 to merely graze the front of his vehicle. He estimated his travel speed to be 16 kmph (10 mph) and his impact speed to be 8 kmph (5 mph). This sedan was not towed due to damage. The Critical Precrash Event for V2 was other vehicle encroachment from a crossing street across the path of this vehicle. The Critical Reason was not coded to this driver. Vehicle three was driven by a 54-year old male who was transported with incapacitating injuries. He had one passenger who was untreated with possible injuries. He stated that he was running an errand for work and had just begun accelerating at a traffic light when he saw V1 traveling out of control in his direction. He braked to a stop and was then struck in the driver's door. This minivan was towed due to damage. The Critical Precrash Event for and the Critical Reason were not coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Weather/Environment present problem 
+Vehicle 2:  Drugs, Weather/Environment present problem 
+Vehicle 3:  Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

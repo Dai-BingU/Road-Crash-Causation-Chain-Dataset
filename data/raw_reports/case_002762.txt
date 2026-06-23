@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle collision occurred in a non-controlled four-way intersection. At the time of the crash it was a cloudy early evening, still daylight, and there were no adverse weather conditions or road defects. The roadways go through a major shopping area that is on both sides of the roadway. Traffic was moderate at the time of this crash. The speed limit is 48 kmph (30 mph). Vehicle one (V1), a red 1996 Ford Ranger pickup with one occupant, was traveling south in lane 3 of a six lane, concrete, divided roadway. As V1 approached intersection in left hand lane, the V1 driver, a 25-year-old male, sighted a minivan in lane 3 of northbound traffic waiting to turn left across southbound lanes. A northbound vehicle that was stopped in the left turn lane may have been a sight restriction for V1. The V1 driver focused his attention on the minivan and turned left across northbound lanes without noticing vehicle two (V2) approaching. V1's right front tire and fender were struck by V2's front bumper. After impact with V2, V1 was redirected on a northeast trajectory and the front of V1 and front left corner of V3 collided. V1 came to final rest at that approximate point of impact facing generally northeast. Vehicle two (V2), a dark blue 1998 Chevrolet Malibu 4-door with one occupant, was traveling in lane 1 of a six lane, concrete, divided roadway and was negotiating a right curve. As V2 approached the intersection, V1 turned left into the path of V2. The V2 driver, a 31-year-old female, was not able to stop and the front of V2 and right side of V1 collided. After impact, V2 was redirected on a northeast trajectory and the front of V2 collided with the left side of vehicle three (V3). V2 came to rest at that approximate point of impact facing generally northeast. V3, a black1999 Pontiac Sunfire coupe with two occupants, the driver, a 22-year-old female, and a 24-year-old female passenger, was stopped facing west in lane 1 of a two-way, two-lane, and undivided bituminous roadway. V3 was waiting to turn right. V3 was struck by both V1 and V2 and came to rest at the approximate area where those minor impacts occurred. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as driver related factor: inadequate surveillance (e.g. failed to look, looked but did not see). V1's driver was inattentive and did not adequately surveying the roadway for oncoming traffic before turning left. Vehicular sight line restriction may have contributed since there was a vehicle in the northbound turn lane that caused an obstructed view of other northbound travel lanes. Furthermore, the V1 driver was thinking about getting to the phone store to have his cell phone repaired which may have interfered with his ability to focus on ensuring that oncoming traffic lanes were clear of traffic. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason was not coded to this vehicle. V3 was not involved in the first harmful event and a critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Roadway, Surveillance present problem 
+Vehicle 2:  Distraction, Drugs, Surveillance present problem 
+Vehicle 3:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Negotiating a curve
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

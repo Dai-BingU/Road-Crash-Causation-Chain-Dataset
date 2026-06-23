@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary A single vehicle crash occurred in the late afternoon hours on a rural 2-lane gravel roadway with a downhill grade of 5 percent and a 5 percent super elevation at the location of the crash. The roadway runs east and west with slight curves to the left and right throughout its path. There is not a posted speed limit sign; however, the Highway Patrol reported the speed limit to be 55 mph (89 kmph.) Weather conditions were daylight, clear and dry. Vehicle 1, a 2001 Honda Civic with one occupant, was traveling east on this road. The driver had just completed negotiating a curve left and was traveling down a straight section of the road when it lost control and departed the right side of the roadway. V1 departed the road while rotating clockwise and rolled over 2 quarter times on the roadside. The vehicle came to final rest on its roof facing north. The vehicle was equipped with driver and passenger side airbags that did not deploy in the crash. The vehicle was towed due to damage because of the crash. The driver of V1 was a 22-year old female that worked full time Monday thru Friday, but took this weekday off to spend time with her boyfriend at his place of business. She left his place of business and was driving to her boyfriend's house when this crash happened. She said that as she was driving east at approximately 45 mph, she looked down at her speedometer and when she looked up at the roadway, she realized she had drifted into the oncoming lane. She said there was not traffic on the road but she feared she would drive off the left side of the road so she immediately steered to the right and tried to brake. She admittedly "freaked-out," lost control of her vehicle and departed the right side of the road where it rolled onto its roof. She was not seriously injured in the crash but EMS examined her on the scene and applied a band-aid to her left elbow for a small cut. This driver said she was familiar with this gravel roadway as she drove it on a weekly basis. She acknowledged that she was upset when this trip began because she and her boyfriend had been arguing earlier in the day and that their "squabble" was still on her mind when she was driving. She had 20/20 vision and took medications for allergies, attention deficit disorder, and depression. The Critical Pre-crash Event was coded as a loss of control due to traveling too fast for conditions and the Critical Reason for the Critical Pre-crash Event was coded as overcompensation. Associated factors coded to this driver include an internal distraction because she admitted she was looking at her speedometer before she lost control, inattention because she was thinking about her argument with her boyfriend, being emotionally upset due to the argument, and traveling too fast for conditions.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Driver Stress/Emotion, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

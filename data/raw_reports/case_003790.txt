@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary V1, a 1997 Chevrolet Cavalier 2dr, was exiting a private, dirt driveway facing north turning west onto a rural, gravel, >2% uphill-grade, straight roadway. V2, a 1999 Dodge Durango SUV, was eastbound on the same rural roadway approaching the private drive. At the time of the crash it was daylight, there were no adverse weather conditions and the roadways were dry. V1 turned left out of the driveway and was struck in it's left side by V2, front. V1 was towed to the driver's residence (the crash occurred in front of her house) and V2 was towed to a local garage. The driver of V1 was injured and transported. The driver of V2 was uninjured. A complete driver interview and vehicle inspection was obtained for V1. The driver was found to be familiar with the roadway and the vehicle as well as properly licensed for the vehicle. She was not late or in a hurry. There were no indications of fatigue or a medical condition contributing to her actions although she does take allergy pills daily. The vehicle inspection did not reveal any indications that the mechanical condition of the vehicle contributed to the causation of the crash. The Pre-event movement of V1 was accelerating in traffic lane, the Critical pre-crash event was turning left at intersection and the Critical reason for critical pre-crash event was inadequate surveillance (looked but did not see). Factors contributing to the driver's actions include sun glare, a mailbox and the crest of a hill, all to her left, as she pulled out at the time of the late afternoon crash. It should also be noted that the driver is small in stature (5'tall) making her even lower to the ground when seated normally in the vehicle. A complete driver interview and vehicle inspection was obtained for V2. The driver was found to be familiar with the roadway and the vehicle and was properly licensed for the vehicle. She was also in compliance with the corrective lenses restriction on her license. The driver was not late or in a hurry and excessive speed or aggressive drive did not seem to be a factor. There were no indications of fatigue or a medical condition contributing to the driver's actions. The vehicle seemed to be in good mechanical condition when inspected though scene evidence revealed skid marks from only 1 tire. This could be attributed to the gravel surface of the roadway. The Pre-event movement of V2 was going straight, the Critical pre-crash event was other vehicle encroachment from driveway, across path and the Critical reason for critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Drugs, Roadway, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

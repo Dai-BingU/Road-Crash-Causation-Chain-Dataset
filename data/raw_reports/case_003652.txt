@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of a weekday in the middle of a busy four-way urban intersection. The intersection consisted of a divided (local and express lanes) seven-lane southbound roadway and a divided (local and express lanes) seven-lane northbound roadway intersected by a four-lane east/west roadway controlled by a properly functioning traffic signal. All roadways were bituminous, dry, straight, and level. The north and south roadways had a posted speed limit of 64 kmph (40 mph) while the east/west roadway had a posted speed limit of 40 kmph (25 mph). The traffic flow was slowed as the intersection was congested and under construction. There were no adverse atmospheric conditions at the time of the crash. V1, a 2002 Chevrolet Malibu, was northbound in lane six (the third express lane) approaching the intersection where it intended to go straight. V2, a 1999 Suzuki Esteem, was eastbound in lane two (the designated left turn lane) approaching the intersection where it intended to turn left. As V2 entered the intersection and crossed over the southbound traffic lanes the signal changed to red, V2 failed to stop and enter the northbound lanes as V1 entered the intersection. V1 was struck on the left side by the front V2. V1 continued forward and to final rest in the center median dividing the northbound lanes of travel. V2 rotated counter-clockwise and came to final rest partially on the median dividing north and southbound traffic. Both vehicles were towed due to damage. The driver of V1, a 44-year-old male, suffered non-incapacitating injuries and was transported for treatment. After numerous attempts to contact him, the driver declined to take part in this study on the advice of his attorney. The Critical Precrash Event for V1 was coded other vehicle encroachment, from crossing street, turning into same direction. The Critical Reason was not coded to this vehicle. The only known associated factors that could be coded to this vehicle were a tire deficiency (the tires were worn) and the traffic flow interruptions of congestion in a work zone. The driver of V2, a 49-year-old female, suffered non-incapacitating injuries and was transported for treatment. In the interview she stated that she was shopping at a near-by shopping center and knew the roadway very well as she drove on it often. She was following other traffic in the left turn lane and never saw the light change or V1 enter the intersection. The Critical Precrash Event for V2 was coded this vehicle traveling, turning left at intersection. The Critical Reason was coded as inadequate surveillance (failed to looked either side ahead). The associated factors coded to V2 include failure to stop for a traffic control device as well as the same traffic flow interruptions (congestion in a work zone) experienced by V1.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic, Vehicle present problem 
+Vehicle 2:  Decision, Driver Fatigue, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekday in the center of an intersection composed of a 2-lane north/south roadway, and an east/west 2-lane driveway. The east/west driveway was bituminous, with a 3% downhill grade, composed of one lane in each direction and controlled by a stop sign. The north/south roadway was bituminous, with a 3% uphill grade, composed of two northbound lanes and one southbound lane with a posted speed limit of 72 kmph (45 mph). The traffic flow was heavy due to rush hour conditions and the sky was overcast. V1, a 1998 Honda Passport with one occupant, was stopped facing west preparing to exit the driveway and turn left into the southbound traffic lane. V2, a 2001 Ford Taurus with 1 occupant, was traveling north in left-hand turn lane approaching a traffic light. V1 was waved through a gap in traffic by a Non-Contact Vehicle and began its left turn. As V1 crossed the northbound lanes it struck the right front corner of V2 with its front. Both vehicles came to final rest near the point of impact. Both vehicles were towed due to damage. The driver of V1, a 19-year-old female, complained of pain and was transported for treatment. She stated that as she was preparing to turn left, traffic in the northbound lane was stopping and the driver of NCV waved her through a gap. She proceeded through the gap and struck V2, a vehicle she never saw. The Critical Precrash Event for V1 was coded this vehicle traveling turning left at intersection. The Critical Reason for the Critical Event was coded as a false assumption of other's action. Associated factors include a recognition factor impending problem masked by traffic flow pattern, a decision error; turned with obstructed view and the fact that the driver was uncomfortable with surrounding traffic densities. The Driver of V2, a 68-year-old female, complained of pain in the neck and was transported for treatment. She claimed that she was traveling between 48 and 64 kmph (30 and 40 mph) in the left hand turn lane approaching an intersection when V1 entered the travel lane and struck her on the right side. The Critical Precrash Event for V2 was coded other vehicle encroachment, from driveway, turning in opposite direction. The Critical Reason was not coded to this vehicle. Associated factors include a recognition factor; the impending problem masked by traffic flow pattern, as well a sightline restriction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Drugs, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Drugs, Roadway, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This five vehicle mid-afternoon crash occurred on a residential two-way roadway just south of an intersection. The intersection is controlled by four-way stop signs. The roadways are straight, level, consist of one lane in each direction and have parking lanes on both sides. At the time of the crash it was clear and there were no adverse weather conditions or road defects. Vehicle one (V1), a 2000 Kia Sportage compact utility, occupied by the driver, a 34-year-old female, and one passenger, was parked facing southbound on the west side of the north/south roadway at the curb, just south of the intersection. V1 entered the traffic way and the left side of V1 was struck by the front of V2. V1 then veered to the right and the front struck the left side of V3 and then the back of V4 V1 came to final rest against V4. Vehicle two (V2), a 2000 Chevrolet Malibu 4 door, occupied by the driver only, a 22-year-old male, was westbound approaching the intersection. After stopping at the stop sign, V2 turned left at the intersection and noticed children had crossed the roadway in front of V1. The V2 driver stated that his attention was then focused upon V1, and when V1 pulled away from the curb into the traffic lane, the left side of V1 and right side of V2 collided. After impact with V1, V2 rotated clockwise and rolled left one quarter-turn onto its driver side then came to rest in the middle of the roadway. V3, a 1995 Chevrolet Lumina, was legally parked and unoccupied at the curb facing south in front of V1. V4, a 1983 Ford F-150 pickup truck, was legally parked and unoccupied at the curb facing south in front of V3. A 1998 Ford Contour was legally parked and unoccupied at the curb facing south in front of V4. A pedestrian, between V4 and the Contour, was in the process of closing the trunk of the Contour. When V2 struck V4, V4 moved forward and struck the pedestrian and the Contour. The passenger in V1 and the pedestrian were transported to a local trauma center for treatment. The Critical Event for V1 was coded as "Other (specify): entering travel lane from parking lane (parked position at curbside)". The V1 Critical reason for the critical pre-crash event was coded as "inadequate surveillance." The V1 driver looked but did not see V2's approach in the travel lane prior to entering the travel lane. The driver was also having a conversation with her child whom she had just picked up from school. The Critical Event for V2 was coded as “other vehicle encroachment from parking lane.” The Critical reason was not coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Leaving a parking position
+ 2 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：Other- Other (specify) :
+ 2 ：Other Vehicle Encroachment- From parking lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred mid afternoon on a wet, level, straight, bituminous, five-lane, undivided roadway that supports east to west traffic. This roadway intersects with a level, straight, bituminous, five-lane divided roadway that supports north to south traffic. The posted speed limit for both roadways was 56 kmph (35 mph). The intersection is controlled by a traffic control signals (on colors). It was raining at the time of the crash. Vehicle one (V1), a 1991 Ford F-150 pickup with one occupant, was traveling southbound in lane three. Vehicle two (V2), a 2004 Dodge Dakota pickup with two occupants, was traveling westbound in lane one. V1 attempted to turn left at the intersection and as it turned, the front of V2 struck the left side of V1. Post impact, the engine compartment of V2 caught fire. Post-impact, V1 rotated counterclockwise and came to rest facing west in the eastbound lanes. V2 rotated counterclockwise and came to rest facing south in the westbound lanes of the roadway. Both vehicles were towed from the scene. None of the occupants were transported. The driver of V1, a 45 year-old male was not available for interview. The critical pre-crash event for V1 was coded "this vehicle traveling-turning left at intersection." The critical reason was coded "type of driver error unknown." The driver of V2 was a healthy, unemployed 27-year-old female. She advised that she was traveling westbound in lane one when V1 pulled into the intersection and the front of her vehicle struck V1 on the left side. She also advised that she rarely drives the route and it was her first time driving the vehicle. The critical pre-crash event for V2 was coded "other vehicle encroachment-from crossing street, turning into opposite direction." The critical reason was not coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Weather/Environment present problem 
+Vehicle 2:  Driver Inexperience, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

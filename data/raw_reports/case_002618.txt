@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred mid-afternoon during daylight hours at the intersection of a four-lane (seven overall), east-west roadway divided by a concrete median and a four-lane (seven overall), north-south roadway divided by a concrete median. The intersection was controlled with tri-color traffic signals. The east-west roadway was straight, concrete with a posted speed of 56 kph (35 mph) and +3.3% grade. The north-south roadway was straight, level concrete with a posted speed of 56 kph (35 mph). the road was dry and the sky was clear. Traffic flow was light. Vehicle one (V 1), a 1994 Ford Tempo coupe driven by a 19 year-old female was traveling eastbound in lane two. Vehicle two (V 2), a 2005 Lexus ES330 sedan driven by a 19 year-old male was traveling southbound in lane two. V 1 entered the intersection and was struck on the left side by the front of V 2. V 1 rotated counterclockwise and continued on its path of travel. V 1 came to rest in the first travel lane east of the intersection facing southeast. V 2 continued on its path of travel and the driver directed the vehicle to final rest in the third travel lane south of the intersection. The driver of V 1 stated that she was on her way home from a friend's. She advised that he was traveling at between 48-64 kph (30-40 mph) when she recognized that V 2 was not going to stop. She steered to the right in an attempt to avoid the collision, but was unsuccessful. The driver of V 2 advised that he was on his way to a friend's from home. He advised that he was traveling at between 48-64 kph (30-40 mph) when he recognized that V 1 was not going to stop. He applied the brakes in an attempt to avoid the collision, but was unsuccessful. Both vehicles were towed from the scene. The critical event for V 1 coded other vehicle encroachment from crossing street across path. Critical reason not coded to this vehicle. The critical event for V 2 coded this vehicle traveling crossing over passing through intersection. The Critical Reason for the Critical Event coded driver related factor "inadequate surveillance". Associated factor for V 2 that he did not see V 1 until he was entering the intersection. This is a controlled intersection and both drivers claimed green light.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

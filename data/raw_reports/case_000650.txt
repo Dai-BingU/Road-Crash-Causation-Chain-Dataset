@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekday afternoon on a busy two-lane one-way highway. The asphalt roadway was wet and it was raining at the time of the crash. This was a work zone with a posted speed of 80 kmph (50 mph). V1 was a 1995 Ford E350 transportation van that was being used to transport a handicapped girl. It was driven by a male (age unknown). V2 was a 2002 Toyota Tacoma pickup, also driven by a male (age unknown). Both drivers related that they were traveling southbound in the first lane of travel. A tractor-trailer that was pulled off of the road on the right side suddenly reentered the roadway in front of V2. The driver of V2 applied his brakes, slowing in time so as to not hit the truck. The driver of V1 also applied his brakes but was unable to stop his vehicle, and V1 hit V2 in the rear. The driver of V1 also stated that the wet roads caused the vehicle to skid slightly. Due to the wet conditions, no skid marks could be seen. The tractor-trailer never stopped. The Critical Pre-crash Event for V1 was other motor vehicle in lane, traveling in same direction while decelerating. The Critical Reason for the Critical Pre-crash Event was following too closely to react to unexpected actions. Associated factors coded to this driver include the use of a medication for high cholesterol, a failure to look far enough ahead (inadequate surveillance), the work zone, the wet roadway, and the weather (rain). The Critical Pre-crash Event for V2 was other motor vehicle in lane, traveling in same direction at higher speed. The Critical Reason was not coded to V2. Associated factors coded to this driver include the physical conditions of sleep apnea and hypertension, the work zone, the wet roadway, and the weather (rain).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs, Roadway, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Driver Physical, Drugs, Roadway, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

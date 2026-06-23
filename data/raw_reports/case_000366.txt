@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the eastbound lane of a 3-way intersection. The roads at the intersection include an east-west roadway with a city street interconnecting from the south. At the location of the crash, the eastern roadway has one right-turn only lane, one eastbound lane, and two westbound lanes. The westbound traffic has one left-turn only lane, one westbound lane, and one eastbound lane. The speed limit for this roadway is 72kmph (45 mph) and there is not a traffic signal for either direction. The weather conditions were clear and daylight and it was the mid-afternoon of a weekday. V1, 1998 Ford Expedition, was traveling west at stopped at the intersection at make a left turn on the city street and V2, a 2002 Mazda Protégé, was traveling east in lane 2. V1 turned across the path of V2 and caused the two vehicles to collide. After the impact, V1's driver drove a short distance on the side street before he jumped out and fled the scene. V2's post impact travel lead to a final rest in the northbound lane of the city street. V1 was driven by an unknown person. The driver of V2 said V1's driver was a male who fled the scene after the crash. The police reported the vehicle had been stolen. The Critical Precrash Event for V1 was coded as this vehicle traveling, turning left at intersection. The Critical Reason for the Event was coded as aggressive driving behavior. Associated factors for this crash include, a decision error, turning without signaling. V2 was driven by a 15-year-old female high school student who was returning home from school when she was involved in this crash. She was only a permitted driver and was accompanied by her grandmother. As she traveled east at 64-72kmph (40-45 mph), she saw V1 stopped in its lane without a turn signal on. She reports that as she drew closer to the V1, it slowly turned in front of her and stopped in her lane. She immediately slammed on the brakes but could not stop in time to avoid striking V1 in the right rear. She said V1 tried to accelerate just before the impact “as if it was playing chicken.” She said she could not see the other driver's eyes and was not sure if the SUV stopping in her lane was deliberate or accidental. This driver was not injured in the crash but her grandmother was transported to a hospital for minor injuries. The Critical Precrash Event for V2 was coded as other vehicle encroachment, from opposite direction-over left lane line. The Critical Reason for the Event was not coded to this vehicle. Associated factors for this driver include inexperience as she was 15 and only had a learner's permit to operate a vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

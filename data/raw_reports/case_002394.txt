@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This rear end type crash occurred on a Saturday at approximately in the late afternoon. The location was a five-lane divided straight concrete roadway with no positive barrier. The weather was clear and the roads dry. The posted speed limit was 64 kmph (40 mph). Vehicle one (V1), a 1999 Honda Accord with one occupant, was traveling south in the first lane of traffic. Vehicle two (V2), a 1997 Chevrolet S-10 pick up with two occupants, was traveling south in lane 2, ahead of V1. V2 changed into lane 1 with the intention to enter the entrance to an apartment complex located west of the roadway. The driver of V1 applied his brakes but the front of V1 struck the rear of V2. V2 rotated clockwise and rolled onto its left side before it entered the roadside on the southwest corner of the intersection. As it rotated to a stop, it came to rest on its wheels, facing northeast off the roadway. The vehicle rolled one-quarter turn to the left before rolling one-quarter turn back onto its wheels. After V1 disengaged from V2, it started to rotated clockwise and moved across all southbound lanes of traffic until it came to rest within the intersection just north of the southern median, facing southeast. Both vehicles were towed from the scene. The two occupants in V2 fled the scene and were never identified. The driver of V1 was not injured. A 24-year old male drove V1, the 1999 Honda Accord. He estimated he was in lane one, behind V2 at a distance of 5 meter (15 feet). V2 moved into lane 1 very suddenly without signaling. He applied his brakes but was unable to avoid the collision. After both vehicles came to final rest, he observed the two males leave V2 and run into the gated apartment complex. The driver of V1 was heading home from a recreational location located three miles north of the crash site. He had worked at his part time job prior, but was well rested. He does not take any medications and is in good health. He works a part time and a full time job totaling about 60 hours a week. He usually does not drive on this roadway very often. The critical pre crash event for V1 was coded: other motor vehicle encroachment- same direction, over the left lane line. No critical reason for the critical event was coded to this vehicle. An unidentified male drove V2. The fact he abruptly changed lanes before the entryway to the apartment complex, and him running into the apartment complex together with his male passenger indicates he was either living at the apartment complex or visiting there. The police on location did not further pursue the driver or owner of the vehicle and was unable to identify the driver afterwards. The critical pre crash event for V2 was coded: this vehicle traveling, over the right lane line. The critical reason for the critical event was coded to the driver of V2 as an driver decision error: illegal maneuver. The driver made the decision to change lanes to turn right into the apartment complex from the wrong travel lane, an illegal maneuver and also an aggressive maneuver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Aggressive Behavior, Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

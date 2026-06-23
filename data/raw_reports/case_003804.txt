@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a southbound exit ramp off of an urban highway. There was one lane of travel, which curved right at a 5% downhill grade with +7% superelevation. The posted speed limit of the preceding highway was 97 kmph (60 mph), but an advisory sign was posted for 56 kmph (35 mph) for the exit ramp. Conditions were daylight and dry with cloudy skies. The roadway was bordered by grass shoulders on both sides, which were declined embankments of 20% grade. The grass was wet with condensation. The crash occurred in the morning hours of a weekday. Vehicle one was a 2000 Nissan Maxima sedan negotiating the right curve of the exit ramp. V1 was traveling too fast to handle the curvature and superelevation of the curve. V1 traveled off the left side of the roadway, rotating clockwise 90 degrees as it descended the embankment on the roadside. The left plane of V1 struck a small tree. The force of the impact caused V1 to roll one-quarter turn onto its left plane, coming to rest at the bottom of the embankment. V1 was driven by a 22-year female who was transported to a local hospital with possible injuries. She stated that she was heading to work and lost control on this exit ramp. She estimated her travel and impact speeds to be 48 and 40 kmph (30 and 25 mph). The driver claimed that it was raining, but the investigating officer and this researcher did not notice the presence of rain at the time of the crash. There was condensation on the grass roadside. V1 was towed due to rollover damage. The Critical Precrash Event for v1 was this vehicle control loss due to traveling too fast for conditions. The Critical Reason was a decision error driving too fast for this curve. The driver was currently taking a medication for an unknown condition which had the possible side effect of drowsiness, tiredness, tremors, dizziness, light-headednes.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

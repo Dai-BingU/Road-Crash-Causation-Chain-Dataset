@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a four-lane, divided, suburban roadway with a curbed median. There were two westbound lanes; a left turn lane, and a right turn lane at the four-way intersection where the crash occurred. The roadway had a posted speed of 45 MPH. All lanes leading to the intersection were of a flat grade. The incident took place in the early afternoon hours of a weekday. Vehicle one was a 1989 Dodge Spirit, was initially stopped facing north at a stop sign. Vehicle two, a 2003 BMW X5, was traveling west in the third lane approaching the intersection. V1 proceeded halfway across the intersection and stopped in the middle of the intersection to wait for traffic to clear. The driver of V1 saw V2 approaching from her right and assumed v2 was going to turn left at the intersection. An uninvolved white van was making a left turn in front of V2.V1 proceeded across the intersection. V2 also continued straight through the intersection. Both drivers braked and steered left. The right side of V1 was impacted by the front of V2. Both vehicles came to rest in the intersection. The 35-year old driver of V1 complained of back pain but refused treatment. She stated that V2 entered the turn lane and then changed lanes to the right, causing her to misjudge his actions. She was at a complete stop in the middle of the intersection and had just begun accelerating when she began her avoidance maneuvers and was struck. V1 was not towed due to damage. The Pre-event movement for V1 was stopped in traffic lane. The Critical Pre-Crash Event was this vehicle crossing over and passing through the intersection. The Critical Reason for the pre-crash event was a decision error resulting in a false assumption of the other road user's actions. The driver was wearing her prescription glasses for a myopic condition. Associated factors for this driver included exterior factors: looking at approaching traffic from its right side; and a false assumption of other road user's actions: other false assumption- assumed V2 would turn left and yield right of way to this vehicle. The 31-year old driver of V2 stated that he was proceeding straight through the intersection when V1 traveled in front of him. He steered left and braked to attempt to avoid the crash. This vehicle was not towed due to damage. Pre-event movement for V2 was going straight. The critical Pre-crash Event was other vehicle encroaching from a crossing street, across the path of this vehicle. The Critical Reason was not coded to this vehicle. There were no associated factors for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

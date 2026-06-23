@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the traffic signal controlled intersection. The northbound lane is a four lane non-divided, one-way city street, with a posted speed limit of 56 Kmph (35 Mph). The east-west street is a two-way non-divided city street with a posted speed limit of 40 Kmph (25 Mph). V1 a 1993 Chevrolet Corsica was traveling west approaching the intersection at approximately 40 Kmph (25 Mph). The driver of V1 stated that he thought the light was green. The driver then stated that he proceeded into the intersection where he contacted V2 in the right side. The vehicle then bounced off V2 and ran into a utility pole. V2 a 2004 Chevy Trailblazer was traveling north bound in the left curb lane at approximately 48 Kmph (30 Mph) also approached the intersection, tried to make a left turn when V1 hit him in the right side. V2 was driven away from the scene with minor damage. The driver stated that he was making the left turn when V1 hit him in the right side. The driver then stated that he did not have time to react to the crash. The police officer at the scene talked with witness before my arrival and the witness stated that V1 ran the red light. The witnesses were not at the scene when I arrived. I tried to call the witness for an interview, but could not get a hold of her. The Critical Pre-crash Event coded for V1 is this vehicle traveling (crossing over, passing through an intersection). The Critical Reason coded for V1 is a recognition error (Inadequate Surveillance, looked but did not see). The Critical Pre-crash Event coded for V2 if other vehicle encroachment from crossing street across path. V2 was not given a Critical Reason.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

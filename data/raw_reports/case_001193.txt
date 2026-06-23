@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on the northbound exit-ramp to an interstate highway. This one-way roadway consisted of two lanes with two emergency paved shoulders and concrete barrier walls on both roadsides. The posted speed limit was 105 KPH (65 MPH). Conditions were evening on a weekday with wet roads and rainy skies. Vehicle 1 was a 2001 Toyota Tundra pickup traveling northbound on the entrance ramp at approximately 89 KPH (55 MPH). This truck started to wobble and shake as the right rear tire's tread began to separate. V1's driver stated that he lost control and struck the left side concrete barrier wall. V1 was driven by a 51-year-old male who was not injured. His car was towed due to disabling damage. The fact that it was raining and the wet roadway conditions were two associated factors considered in this crash. The Critical Pre-crash Event for vehicle 1 was coded as: Exiting the left roadside. The Critical Reason for the Critical Pre-crash Event was coded as: Vehicle related - tire/wheel malfunction. This was based on the right rear tire tread separation, which caused V1's control loss. Upon inspection, the RR wheel was damaged and the tire's tread was completely separated. This tire was a Dunlop Grand Trek: P275/70 R16. The tire had a measured tread depth of 5mm.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Tires/wheels failed

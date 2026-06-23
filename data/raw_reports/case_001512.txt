@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a three-lane urban roadway separated by a grass median. There were three westbound lanes and four eastbound lanes. It was late afternoon on a weekend, and the roads were dry and skies were clear. The traffic flow was normal and the roadway was straight and level. Vehicle #1 was a 2002 Ford Expedition that was traveling in lane one behind Vehicle #2, a 2005 Toyota Corolla that was also in lane one, approaching an intersection controlled by a traffic light. The driver of Vehicle #2 noticed that the light had turned yellow and quickly slammed on his brakes to try to stop in time. At that point, the front of Vehicle #1 struck the rear of Vehicle #2. Vehicle #1 was driven by a 49-year old male. He reported that he thought that the light was still green when the driver of Vehicle #2 slammed on his brakes for no reason. The Critical Pre-crash Event for Vehicle #1 was when another vehicle was decelerating in his lane. The Critical Reason was a false assumption of other road user's actions, as the driver thought that the driver of Vehicle #2 was going to continue through the intersection without stopping. Vehicle #1 was towed due to damages but the driver was not injured. No additional associated factors were coded to this driver. The driver received a ticket for failure to use due care. Vehicle #2 was driven by a 26-year old male. He reported that he was approaching the intersection when he realized that the light had turned yellow. He slammed on his brakes to stop for the light and he was rear-ended by Vehicle #1. The Critical Pre-crash Event for Vehicle #2 was other vehicle in lane traveling in the same direction with higher speed. The Critical Reason was not coded for this vehicle. The only associated factor coded to this driver was a hearing impairment for which he was not wearing his hearing aid. Vehicle #2 was towed due to damages but the driver was not injured.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+Vehicle 2:  Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

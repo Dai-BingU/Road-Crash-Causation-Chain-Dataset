@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lane of a two-lane roadway with a driveway related intersection. Conditions were daylight in the morning on a weekend. The posted speed limit for the northbound lane was 35 MPH. There was no posted speed limit for the driveway. V1 was a 2001 Buick Century sedan turning left out of the driveway facing westbound. V2, a 2005 Toyota Tundra pick-up, was traveling northbound in the 1st travel lane approaching the driveway intending on going straight. V1 made a left turn and the front of V2 struck the left side of V1 in the northbound lane. Both vehicles came to final rest facing northbound. V1 was driven by a 76-year-old female who sustained moderate injuries and was transported to a local hospital. She stated that prior to exiting the driveway, she looked both ways and couldn't see to her left because of a big sign. She proceeded to turn left and struck V2. V1 did not take any avoidance actions and was traveling less than 10 MPH at the time of impact. V1 was towed due to damage. The critical precrash event for V1 was when this vehicle was turning left at the intersection. The critical reason for the critical precrash event was a highway related factor (view obstructed by a large sign). Associated factors coded to this driver were a sightline restriction (sign), inadequate surveillance (looked but did not see), and the driver turned with an obstructed view. The driver takes several medications due to her pre-existing medical conditions but this was thought not to have contributed to the crash. V2 was driven by a 46-year-old male who was not injured. He stated that he was traveling northbound in the 1st travel lane when he saw V1 turn in front of him. V1 did not have time to take any avoidance actions. The driver of V2 did state that he is uncomfortable with the congestion on this roadway and rarely drives on it. V2 was towed due to damage. The critical precrash event for V2 was other vehicle encroachment from the driveway turning into opposite direction. No critical reason for the critical precrash event was coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- View obstructed by roadway design/furniture
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

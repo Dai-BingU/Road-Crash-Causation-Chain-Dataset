@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the mid-morning of a weekday on two-lane, two-way undivided roadway. The concrete roadway was dry, and level, and had a posted speed limit of 56kmph (35 mph). The roadway curved to the left as the road continued south. Traffic flow was normal as there were no adverse atmospheric conditions at the time of the crash. V1, a 1989 Chevrolet Corsica, was southbound negotiating the curve. As V1 continued south on the roadway it began to veer off the roadway to the right where it contacted a guardrail. V1 than bounced back across the roadway in a clockwise yaw departing the roadway on the left side and contacting a bridge abutment. After impacting the abutment V1 slid south 10m along the wall where it came to final rest. V1 was driven by a 34 year-old female who claimed to be in good health who was traveling home after running an errand. She stated she rarely drove this road and was unsure exactly where it went. She also told this researcher that she drank half a beer with a friend while running her errands. She stated that as she was traveling south on the roadway when she struck a pothole in the roadway causing the right front tire to blow out. This blow out caused her to depart the roadway and strike the guardrail. She stated that she knew the tires on the vehicle were in bad condition, but did not know how bad. The driver was uninjured but the driver was taken into custody on several outstanding warrants and V1 was towed due to damage. The Critical Pre-crash Event for V1 was coded this vehicle traveling, off the edge of road on the right side. The Critical Reason for the Critical Event was coded as a driver related factor, traveling too fast for the curve. The associated factors coded to V1 include the presence of alcohol as the admitting to drinking and was found to have a BAC of .04. She also had concerns of getting an infant seat to bring her daughter's new baby home from the hospital. She was also unfamiliar with roadway as she rarely drove it.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Distraction, Driver Inexperience, Speed/Distance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on the right roadside of the two northbound lanes of a divided, bituminous roadway on a weekday evening. The straight, level, and dry roadway had a posted speed limit of 89kmph (55mph). There were no adverse atmospheric conditions but the roadway was dark at the time of the crash. V1, a 2006 Scion TC, was traveling north in lane two entering a tree-lined section of the roadway. As V1 attempted a sudden lane change into lane one, it lost control, and departs the roadway to the right. This vehicle contacted a small ditch and overturned two-quarter turns coming to final rest on its roof. V1 was driven by a 29 year-old male in good health, who was in the process of transferring a customer's vehicle from one dealership to another. He stated that a small, unidentified animal approached the roadway from the west tree line. He attempted to avoid a collision with it by braking and steering hard right. The driver of V1 was transported to a treatment facility with non-incapacitating injuries and V1 was towed due to damage. The Critical Precrash Event for V1 was coded object or animal, animal approaching roadway. The Critical Reason was coded incorrect evasive action, as the driver did not need to brake as hard as he did or steer as hard to the right as he did. The associated factors include several emotional factors, as the driver had been required to work many extended shifts at work as well as a tight delivery schedule. The driver was also fatigued at the time of the impact as it was nearly four hours past when he was scheduled to get off of work. Experience also played a role in this crash as the driver had driven this type of automobile less than 2 times in the past three months. This lack of experience could have contributed to the inappropriate evasion action taken by the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Inexperience, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Animal approaching roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

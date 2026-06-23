@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle daytime collision occurred during mid-morning daylight hours. The collision occurred at a on-colors controlled intersection comprised by a west/east roadway and a north/south roadway. The west/east roadway is 5 lanes, that is divided with a small raised divider. The north/south roadway is 7 lanes, that is divided with a small raised divider. Both roadways were bituminous and level at impact. The east/west lanes have -10% grade for pre-crash. Both roadways are designated as 48 kmph (30 mph) zones. Vehicle one (V1), a 1989 Oldsmobile Cutlass station wagon, driven by a 74 year-old male with one passenger was traveling eastbound weaving through traffic. Vehicle two (V2), a 2001 BMW 325 coupe, driven by a 51 year-old male was traveling northbound in lane two. As the vehicles entered the intersection the front of V1 struck the left side of V2. V1 rotated counter clockwise about ten degrees. V2 was pushed north/east and both came to rest in the crosswalk. V1 came to rest facing east. V2 came to rest facing north. Both vehicles were towed due to damage. The driver of V1 was disabled and expired from injuries sustained during the crash. His right leg is paralyzed from the thigh down, forcing him to drive with his left foot. He had driven less than 1.6 kilometers (1 mile) before the crash, he was returning home from failing his driver test. During the interview of the passenger of V1 she stated that they had a red light but the driver yelled out "I cant stop, I have no brakes!" and started to maneuver around the stopped cars on the left side. It was confirmed that there was no brake failure by police brake expert. BAC & illegal drug test results for this driver were negative from the autopsy. The passenger indicated the driver was diabetic and took insulin & vitamins as medications. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was attributed to V1 as a driver related factor: poor directional control (e.g., failing to drive vehicle with skill ordinarily expected). The driver was driving with left foot, right leg paralyzed. This was a factor in his ability to control his vehicle. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Driver Physical, Driver Stress/Emotion, Drugs present problem 
+Vehicle 2:  Driver Inexperience, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

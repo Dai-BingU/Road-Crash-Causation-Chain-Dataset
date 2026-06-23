@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred at a four leg intersection controlled by on-color traffic signal's. Road surface concrete, dry and level, three lanes in all directions. Posted speed limit 40 kmph (25 mph). Vehicle one (V1) a 1988 red Toyota Camry sedan driven by a 43 year-old male was traveling east in the second lane. Vehicle two (V2) a 1998 red Chevrolet Cavalier coupe driven by a 31 year-old female with one passenger was traveling west in the first lane. The driver of V 2, when approaching the intersection, noticed the oncoming V1 in the opposite turn lane. The driver of V 2 thought nothing about the other V1, assuming that the vehicle would yield. As V 2 entered the intersection V 1 turned left without slowing or stopping. V 2 was struck by the front of V 1. Both vehicles came to final rest facing northwest in the middle of the intersection. Both vehicles were towed from the scene. The pre-event movement for V1 coded stopped in traffic lane, category this vehicle traveling turning left at intersection. Critical reason for the critical event coded driver related factor "inattention". The pre-event movement for V2 coded going straight, category other vehicle encroachment from opposite direction-over left lane line. Critical reason not coded to this vehicle. Associative factors, alcohol, fatigue and inexperience. The driver of V 1 was a Mexican national who has been in the United States less than 2 years and does not speak or read English. This driver has no driver's license and only 5 years experience driving, the driver also had been helping a friend move to a new house all day, and was tired and just wanted to go home. he had consumed an unknown amount of beer sometime before the crash. At the time of the interview the driver showed obvious signs of fatigue and lack of understanding the rules of who has the right of way. The driver's constant statements that he had to turn left to get home led to this conclusion.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Stress/Emotion, Surveillance present problem 
+Vehicle 2:  Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash took place during afternoon rush hour traffic, in the middle of the week, with no weather problems. Vehicle one (V1), was a 1983 red Ford Ranger pickup with a camper topper attached, and occupied by the driver and one passenger. The driver of V1 was an 82-year-old male who had parked his vehicle facing west in a parking lot outside a business. When the driver of V1 started to reverse his vehicle to exit the parking lot, his foot slipped off the brake onto the gas pedal. V1 then made a left turn to the rear and struck two traffic signals on the corner of the parking lot. V1 continued heading in reverse, traveling south across 5 lanes of a westbound one-way roadway. V1 then turned right back across the same roadway-heading north. V1 the exited the roadway, struck a wood picnic table located just outside a restaurant. V1 continued north and struck and drove through the exterior wall of a restaurant, driving into the dinning area hitting tables and chairs before stopping. V1 was towed from the scene due to damage and the driver received minor injuries. The posted speed on the roadway was 56 kmph (35 mph). The following factors contributed to the crash. The driver of V1, even though he has no medical reason, believed that it might be time for him to stop driving. There was no evidence on the shoes of the driver to indicate any slippery substance on the soles of the shoes that could have caused his foot to slip off the brake once his vehicle started to reverse. The driver admitted that his reaction time was not what he thought it should be. The critical pre-crash event was coded: this vehicle control loss due to - other control loss (specified as: driver hit accelerator instead of brake). The critical reason for the critical event was coded as a driver related factor: poor directional control (e.g., failing to control vehicle with skill ordinarily expected).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Backing up (other than for parking position)
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Other cause of control loss (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

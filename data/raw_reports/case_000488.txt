@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the early morning daylight hours involving two passenger cars at highway exit ramp without traffic signals. The speed limit for the highway is 96 kmph (60 mph). The speed limit for the exit ramp is 64 kmph (60 mph). The five northbound lanes of the divided highway are concrete. The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. The first two lanes of the roadway turn into an exit ramp. Lane 2 can be used as an exit road as well as a continuing lane of the highway. The pre-crash location was curved to the left. Vehicle one (V 1), a 2002 Nissan Sentra driven by a 21 year-old male with one passenger was traveling north in the third lane of traffic. Vehicle two (V 2), a 1997 Mitsubishi Mirage, driven by a 25 year-old male was traveling north in the second lane. An unidentified white pick up truck or suv was traveling ahead of V 2. V 2 and the non-contact vehicle were heading for the exit ramp. Prior to the exit ramp, V 1 attempted to change into the second lane in an attempt to get onto the exit ramp. The unidentified white truck/suv did not let V 1 cut into its lane and V1 continued onto the left shoulder to pass. V 1 did not have enough space to pass by the truck/suv and impacted the south tip of a traffic impact attenuator, located between the beginning of the exit ramp and the north bound lanes of the highway. V 1 impacted this object with its left front corner. It caused V 1 to rotate counter clockwise while moving north into lane two of the exit ramp. The front of V 2 impacted the left side of V 1. Both vehicles came to rest within the northbound traffic lane. V 1 was facing east at final rest, V 2 was facing north. V 1 was towed from the scene. V 2 was able to drive off the scene with minor frontal damage. The critical precrash event for V1 was coded: this vehicle traveling, off the edge of the road on the left side. The critical reason for the critical event was coded "illegal maneuver". This vehicle tried to aggressively change lanes and pass on the left shoulder despite the fact the desired exit lane was occupied. The driver of V1 could not be located for an interview. A skid mark documented on scene indicates the driver applied his brakes prior to the impact with the attenuator. V 2 was not involved in the first harmful event. The critical reason was not coded to this vehicle..
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

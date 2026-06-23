@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at the intersection of a five-lane roadway and a four-lane roadway. Both roads are divided leading into the intersection. This intersection is controlled by a traffic light with pedestrian controls. Both roadways are straight, level, and were dry at the time of the crash. The sun was shining and the weather was clear. The speed limit on both roadways is 48 KPH (30 MPH). Vehicle one, a 2004 Infiniti G35 was eastbound in the second lane approaching the intersection. Vehicle two, a 2000 Chevrolet Astro Van was northbound in the second lane approaching the intersection. There was a non-contacted vehicle in the second lane at the stoplight waiting to make a left turn. Vehicle two changed lanes to the right and began to decelerate for the intersection. Prior to arriving at the intersection, the control signal for north/ south traffic turned green and vehicle two began to enter the intersection. Vehicle one entered the intersection eastbound, passing in front of the stopped non-contacted vehicle and into the path of vehicle tow. The front of vehicle two impacted the right side of vehicle one. Vehicle one came to final rest east of the intersection in the first lane facing southeast. Vehicle two came to final rest in the intersection near the point of impact, facing northeast. Vehicle one was towed due to damage. Vehicle two was not towed due to damage. The driver of vehicle one, a forty-five year old male advised that he had been up most of the night before, had only gotten about four hours sleep, and had fallen asleep sometime previously to entering the intersection. The driver of vehicle one had no recollection of the crash. This driver was considered fatigued for this crash. This driver had spent the night in a motel. This driver drives this vehicle daily and over this road on a weekly basis. The driver of vehicle two, a fifty-six year old male had just dropped his daughter off and was bringing his mother home at the time of the crash. This driver had been driving for about thirty minutes at the time of the crash. Just before the crash this driver was slowing and changing lanes to the right to come around a non-contact vehicle turning left at the intersection. This driver was having a conversation with the passenger at the time of the crash. This driver drives this vehicle daily and over this road several times a month. The critical pre-crash event for vehicle one was coded as “this vehicle traveling: crossing over (passing through) intersection”. The critical reason for the critical pre-crash event was attributed to vehicle one and was coded as “driver related factor: sleeping, that is, actually asleep”. The critical pre-crash event for vehicle two was “other vehicle encroachment, from crossing street, across path”. The critical reason for the critical pre-crash event for vehicle two was coded as “not coded to this vehicle”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Vehicle present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Changing lanes
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

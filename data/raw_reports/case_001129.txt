@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred at a traffic signal controlled four-way intersection. No adverse weather conditions were present at the time of the collision and the rising morning sun played no role in either driver's sight. The crash occurred in the morning during daylight hours. The roadway that vehicle one (V1) was traveling is a one-way, two-lane, concrete, with a minimal right curve. V1, a 1994 Mazda B2300 pickup with three occupants, was traveling south and stopped in lane one with the intention of going straight across the intersection when the signal turned green. The roadway that vehicle two (V2) was traveling is a two-way, 5-lane, divided, +5% slope, and concrete. V2, a 1986 Oldsmobile Delta 88 sedan with two occupants, was traveling east in lane two with the intention of going straight across the intersection. When the signal turned green for his direction of travel, the driver of V1 proceeded across the intersection. V2 entered the intersection where the front of V2 struck the right back of V1. At impact V1 initiated a clockwise yaw and the vehicle rolled one-quarter turn onto its left side. The vehicle continued to rotate on its left side when the left rear corner of the bed struck the curb on the southwest corner of the intersection. The vehicle returned to its wheels before coming to rest facing east. V2 after impact came to rest facing southeast in the southeast quadrant of the intersection. V1 was towed from the scene while V2 was driven. The driver of V1 was a 54 year-old male who is familiar with the vehicle and drives the route daily. He was taking his son to work at the time. He had stopped at the intersection waiting for the green traffic control signal before proceeding into the intersection. The critical pre-crash event for V1 was coded: other motor vehicle encroachment; from crossing street-across path. The critical reason was not coded to this vehicle. This driver failed to look to his right and detect V2 approaching the intersection. The driver of V2 was a 92 year-old male who was returning to his residence after picking up his passenger from a hair salon. He drives the route weekly and is familiar with the vehicle. At the crash scene, he described the traffic signal as "white" for his direction of travel as he approached the intersection, but was not sure. He appeared confused when interviewed at the scene. He is taking medication (Aricept) for Alzheimer's disease and also Isosobide Mononitrate for a heart condition. He is required to wear glasses and was wearing bifocals at the time. He claimed the sun was not a problem. The critical pre-crash event for V2 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason for the critical event was was coded for V2 as a driver related factor: inadequate surveillance (e.g., failed to look looked, but did not see). Driver appeared to be confused during the on-scene interview. He stated the traffic control light was "white" but not sure. This driver suffers from Alzheimer's disease and has heart problems. This driver was inattentive as he approached and entered the intersection on a red light.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Decision, Distraction, Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a two-way, two-lane, not physically divided roadway. There was an intersecting road, although the intersection did not play a part in this crash, and there were no traffic signals controlling the intersection. The posted speed limit upon which both vehicles were traveling was 40 kmph (25 mph). There were no atmospheric conditions at the time of the incident, and the roadway was dry. The gradient for this roadway was measured to be level. Vehicle one (V1) was a large truck and was heading north on the roadway. Vehicle two (V2) was a light vehicle and was also heading in the same direction, traveling behind V1. There was a green traffic light up a few blocks. The driver of V2 noticed this and was wondering why traffic was not moving. V2 decided to go around the truck using the shoulder to achieve this. After overtaking the truck, V2 attempted to return back to the original lane of travel at which point V2 was struck by the large truck. The front of the large truck made contact with the driver side of V2. The impact caused the light vehicle to spin counter clockwise approximately 30 degrees before coming to final rest in the roadway. The driver of the large truck did not suffer any injuries as a result of the crash. The truck itself had minimal damage and was driven from the scene. Numerous attempts at obtaining the interview from the driver of V1 were unsuccessful. The Critical Precrash Event for this vehicle was coded as other vehicle encroachment from adjacent lane (same direction - over right lane line). No Critical Reason for the Critical Precrash Event was coded for this vehicle. The driver of V2 was transported to the hospital due to possible injuries. The vehicle suffered moderate to major damage and had to be removed from the scene. The interview was obtained on a follow up telephone call to the driver. Through the interview, it was revealed that they were indeed in a hurry because of an appointment with the local DMV. The driver also stated that they were not familiar with the surrounding area, and in addition, they had never driven on this particular roadway before. As previously stated, the driver of V2 thought the green light ahead of them was for the intersection they were approaching. That was not the case, as the signal was designated for an intersection a few blocks up. Since the traffic was not moving the driver of V2 took it upon themselves to move around the truck in front of their vehicle. When they attempted to return to the original travel lane, that is when the large truck (V1) struck V2. The driver stated that no fatigue related issues played a part in this crash, and that no drugs were taken on the day of, or in the days prior to this incident. The Critical Precrash Event for this vehicle was coded as this vehicle traveling over the lane line on left side of the travel lane. The Critical Reason for the Critical Precrash Event was coded as illegal maneuver, in that they passed another vehicle using a non-passing lane.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Driver Inexperience, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Passing or overtaking another vehicle
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

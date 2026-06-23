@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle collision occurred during night hours on a weekend. The crash occurred on a dark (lighted), straight, level, dry stretch of bituminous roadway in a 56 kmph (35 mph) zone. At the time of the crash, there were no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 1995 Dodge Ram half-ton single-cab pickup, was traveling northbound in the second lane of a five-lane, two-way, undivided roadway. There are bike lanes and marked parking lanes on the left and right road edges. V1 departed its lane to the left, traversed the center two-way left turn lane and both southbound lanes, and departed the road over the west road edge, where the front of V1 impacted a street light pole, knocking the pole over. V1 continued moving forward off the road and the left side of V1 swiped across the corner of a low brick wall and the front of V1 impacted the corner of another wall on the opposite side of a private walkway. V1 rotated counter-clockwise and impacted a mailbox with its right side, where V1 came to rest. The 17-year-old female driver of V1 reported that she has no memory of the crash events, and does not know what caused the vehicle to veer left and depart the roadway. The driver reported being under stress, as she was about to start college courses the next day, and she was fatigued from lack of sleep. Additionally, the driver had a heated telephone argument earlier in the day with her father, who was demanding that she bring the vehicle home. The driver suffers from bipolar personality disorder, and takes the following medications: Zoloft, Wellbutrin, Macrobid (under the trade name Macrodantin), and unspecified birth control pills. The driver also reported that the vehicle has squeaky brakes, very loose steering, and starter problems. Dirt and insects obscured the windshield. The critical pre-crash event for V1 was: this vehicle traveling, off the edge of the road on the left side. The critical reason for the critical event was attributed to the driver of V1, and is coded as a driver related factor: type of driver error unknown.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Inexperience, Driver Performance, Driver Physical, Driver Stress/Emotion, Drugs, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown

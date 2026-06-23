@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary Case 2007-081 The crash occurred on a two lane east/westbound undivided roadway at the driveway entrance to a business. There was one lane in each direction of the roadway which was straight, dry, level, asphalt with a posted speed limit of 48kph/30mph. The crash occurred shortly after noon on a weekday while traffic was moderate under clear skies. V1, a 1992 Chrysler New Yorker four door with one occupant was making a left turn from the eastbound lane to the driveway. V2, a 2003 Chevy Tahoe four door SUV with one occupant was westbound. V3, a 2003 Chrysler Town & Country van with one occupant was eastbound behind V1. V1 turned across the path of V2. V2 braked without lockup in an unsuccessful attempt to avoid impact. The front left corner of V2 struck the front right corner of V1 (Event 1) causing V1 to rotate in a counterclockwise direction. V1's front left then sideswiped the left side of V3 (Event 2) as it passed and before it came to rest. After the first impact V2 veered to the right, jumped the north curb, and its front struck a signpost off road (Event 3). V1 came to rest facing south about 12m southwest of the point of impact straddling both lanes. V2 came to rest about 14m northwest of impact facing west. V3 came to rest facing east about 6m east of impact 2. V1 and V2 were towed due to damage. V3 was not. V1, the Chrysler New Yorker, was driven by a 68-year old female who was coded for incapacitating injuries and transported to a hospital. She was returning to her office from a business meeting. She reported that she had stopped behind two other vehicles that turned left at the intersection seven meters east of the driveway of her office. After the other vehicles turned the driver said she did not see anyone coming so she began her left turn toward the driveway. She added that before she could complete the turn V2 struck her causing her to spin around. She said she did not recall V3. The driver took no evasive actions. The Critical Precrash Event for V1 was this vehicle traveling turning left at intersection. The Critical Reason for the Critical Event was inadequate surveillance, failure to look, looked but did not see. An associated factor was assigned to this vehicle for driver, physical condition because the drive suffered from high blood pressure and high cholesterol and was taking numerous medications. V2, the Chevy Tahoe, was driven by a 48-year old female who was not injured. The driver reported that she had just left a doctor's office traveling to nearby shops at an unknown speed. She said that she was not certain when she saw V1 but added that she did have time to apply her brakes without lockup. She said she was unable to stop before striking V1 and then careening off the road to her right. The Critical Precrash Event for V2 was other vehicle encroachment from the opposite direction over the left lane line. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors were assigned to V2 for driver behavior, recognition, inadequate surveillance, failure to look far enough ahead and for driver experience - the driver rarely used this roadway. V3, the Chrysler Town & Country, was driven by a 30-year old female who was not injured. She reported that she was traveling to lunch from work. She said she had been traveling behind V1 for several blocks and had stopped behind V1 before it turned left. She advised that when V1 started to turn she advanced and was struck by V1 after it was struck by V2 and before V1 came to rest. She said she took no evasive action. The Critical Precrash Event and the Critical Reason for the Critical Event were not coded for V3 because it was not involved in the first harmful event. V3 was assigned an associated factor for vehicle tire deficiency because all its tires were under-inflated.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Inexperience, Surveillance present problem 
+Vehicle 3:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

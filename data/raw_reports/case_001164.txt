@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of a weekday in the middle of a four-way suburban intersection. The intersection consisted of a north/south, five lane (with lane three serving as a left turn lane) curved roadway and an east/west four-lane roadway controlled by a properly functioning traffic signal. The bituminous roadways both had a posted speed limit of 48kmph (30 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1988 Volvo 240 Station wagon, was westbound in lane three approaching the intersection where it intended to turn left. V2, a 1994 Plymouth Acclaim, was westbound in lane two approaching the same intersection where it also intended to turn left. As the light changed from yellow to red, V1 entered the intersection and began its left turn. The front right corner of V2 struck V1 on the right side. Both vehicles came to a rest in the middle of the intersection not far from the point of impact. Both vehicles were towed due to damage. V1 was driven by an 18-year-old female who reported no injuries. She stated that she went through the light when it was yellow and that V2 must have run the light. She did admit to looking left where she intended to turn as she entered the intersection. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason was not coded to this vehicle. Associated factors coded to this driver include inadequate surveillance as she failed to look far enough ahead as well as inexperience as she had only been driving for a short period of time. V2 was driven by a 22-year-old female who was accompanied by her two children in the back seat (ages four and one). She was transported for treatment of minor injuries but the children were uninjured. She stated that appeared out of nowhere and that she no time to react. The Critical Precrash Event for V2 was coded this vehicle traveling, turning left at intersection. The Critical Reason was coded as a driver related factor inadequate surveillance as she failed to look to either side ahead before proceeding into the intersection. NOTE TO REVIEWER: I CHANGED THE CRASH TYPE FOR BOTH VEHICLES TO CLEAR AN EDIT. IF AFTER FURTHER REVIEW, YOU WANT TO CHANGE IT, GO AHEAD. C.S.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

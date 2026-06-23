@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred during early evening hours involving two passengers cars at a signalized intersection with no protected left turn signals. The speed limit for the roadway is 56 kmph (35 mph). The road is a two way, 4-lane undivided asphalt roadway. The road surface was dry and there were no detrimental atmospheric conditions. The roadway is illuminated at night. Vehicle one (V1), a 1992 Buick LeSabre, was traveling north in the second lane. The driver had just left a business establishment owned by her husband and was attempting a left turn at the intersection. Vehicle two (V2) a 2001 Ford Mustang was traveling south in the first lane of the same roadway. The front of V2 impacted the right side of V1. At impact V1 rotated clockwise and came to rest in the westbound lanes, facing east. V2 moved all the way through the intersection and came to rest within the original traffic lane, south of the intersection. The driver of V1 is a 44-year-old female who claimed to be well rested and in good health. She possesses a valid motor vehicle license with no restrictions or endorsements. She was not in a hurry, no previous arguments not conversing, and was attentive to the driving task. She takes birth control pills and medication to control blood pressure. There was no indication of alcohol/drug involvement. She slept 9 hours the night before the crash. She drives the route daily and is very familiar with the vehicle. She had just left a business establishment owned by her husband and was following him home. She was stopped 3-4 seconds at the intersection before attempting a left turn. There is no protective turn signal at the controlled intersection. Both drivers stated they had a green signal light. She saw V2 approaching but continued to turn left, misjudging the gap/speed of V2 due to a false assumption that V2 would yield to her vehicle.. The driver of V2 is a 39-year-old female who possesses a valid driver's license with no restrictions or endorsements. She drives the route daily and is familiar with the vehicle. She was going to a restaurant for dinner and had traveled approximately 1.6 kilometers (1 mile) from her residence. She claimed she was not in a hurry, not conversing or arguing and was well rested prior to the start of the trip. She was in good health, not taking any medication and had not done any strenuous activities. She claimed she had a clear sight of the other vehicle but later stated there was another vehicle going in the same direction that was attempting a left turn at the collision intersection. She also claimed she was traveling 2-16 kmph (1-10 mph) prior to and at impact. Vehicle dynamics and final rest position of both vehicles indicate a much higher speed. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to this vehicle as a driver related factor: false assumption of other's actions. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason for the critical event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Stress/Emotion, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

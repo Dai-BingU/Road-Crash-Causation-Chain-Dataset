@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the northbound lanes of a seven-lane urban roadway. There were seven lanes of travel on the north, south, east, and west sides of the intersection. On the north side, the northbound and southbound directions of travel were split into two one-way streets. The roadway had a posted speed limit of 56 kmph (35 mph). The northbound approach was set on a 2% uphill grade while the southbound approach was set on a 3% downhill grade. Conditions were daylight and dry with clear skies. The setting was midday on a weekday. Vehicle one was a 1999 Dodge Intrepid sedan traveling north in lane one. Vehicle two was a 1995 Isuzu Rodeo sport utility stopped facing south in lane four, waiting to turn left. V1 and v2 both proceeded through the intersection. The front of v1 impacted the right plane of v2. V2 immediately rotated 90 degrees clockwise and overturned one complete turn, coming to rest on its wheels facing west in the intersection. V1 traveled a short distance north and parked in lane one on the north side of the intersection. The Dodge Intrepid (v1) was driven by a 78-year old male who suffered unknown injuries and was not transported from the scene. He stated that he had just left a funeral home and was heading downtown when another vehicle crossed in front of him at an intersection. He did not have a chance to react in avoidance. He estimated his travel and impact speeds to be 56 kmph 35 mph). The Dodge sedan was towed due to damage. The Critical Precrash Event for v1 was other motor vehicle encroachment from the opposite direction over the left lane line. The Critical Reason was not coded to this vehicle. This driver was upset about a recent death in the family, was inattentive to the driving task, and violated a TCD. He wore glasses for a nearsighted condition. He is retired, and drives this road on a weekly basis. The rear tires of this vehicle had inadequate tread depth. The Isuzu Rodeo (v2) was driven by a 44-year old female who suffered unknown injuries and was not transported to a medical facility. She stated that she had come to a stop at this intersection and waited more than a minute for the light to change to green. She proceeded on green and was struck by v1 before she could react in avoidance. She estimated her travel and impact speeds to be 32 kmph (20 mph). The Isuzu sport utility was towed due to damage. The Critical Precrash Event for v2 was this vehicle traveling turning left at an intersection. The Critical Reason was coded as inadequate surveillance. This driver has asthma. No other associated factors were present for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Stress/Emotion, Vehicle present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

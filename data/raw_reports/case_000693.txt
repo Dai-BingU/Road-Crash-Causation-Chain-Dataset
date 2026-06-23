@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred during early morning daylight hours on a urban, two way, bituminous ,roadway at the entrance to a private driveway. There were no roadway deficiencies, no sight line restrictions and no traffic controls present. The weather was clear and the posted speed limit is 56 kmph (35 mph). Vehicle one (V1) was a 1999 Chevrolet S-10 4x2 pickup, driven by a 17 year-old female who was traveling westbound in the number one lane. Vehicle two (V2) was a 2001 Ford Escape compact SUV driven by a 23 year-old female with two passengers. V2 was also westbound in the number one lane and was stopped waiting to make a left turn into a private driveway south of the roadway. The driver of V1 attempted to avoid a collision by braking with lockup and was not successful. The front of V1 struck the back of the V2. V1 came to final rest near the point of impact facing generally west. V2 was propelled forward and exited the roadway in a counterclockwise rotation coming to final rest in soft sand and gravel shoulder south of the roadway facing generally southwest. V1 was towed due to damage, V2 was driven from the scene. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was attributed to V1 and coded as a driver related factor: Internal distraction. This driver was commuting to school from home and were running late. They stated that prior to the crash they were looking at something down on the floor. The critical pre-crash event for V2 was coded: other motor vehicle in lane traveling in same direction with higher speed. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Stress/Emotion, Surveillance present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

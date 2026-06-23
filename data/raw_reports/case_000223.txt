@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred during early morning hours involving one passenger car at an off-set intersection with stop signs. The speed limit for both roadways is 48 kmph (30 mph). The road is a 2-lane undivided asphalt roadway from east to west. The roadway from south to north is a one-way exit road of a highway with stop signs at the intersection. The north bound roadway is a two-way undivided concrete roadway. The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. Vehicle one (V1), a 1992 Cadillac De Ville, was traveling north on the exit road of the highway. When the vehicle approached the stop sign at the intersection, the brakes failed. Unable to stop the vehicle, the driver made an attempt to steer the vehicle through the off-set intersection. The vehicle departed the road on the north of the intersection. It's front impacted a utility pole, located north of the roadway. V1 rotated clockwise around the pole. Its front impacted two more street signs. V1 rolled over its left side onto its roof. V1 came to rest north of the north curb of the intersection. The vehicle was towed from the scene. The driver was not injured. The critical pre-crash event for V1 was coded: this vehicle control loss due to - brake failure. The critical reason for the critical event was coded to V1 as a vehicle related factor: brakes failed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Disabling vehicle failure (e.g,  wheel fell off) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Brakes failed

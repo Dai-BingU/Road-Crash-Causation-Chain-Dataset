@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the morning of a weekday in the northbound lanes, of a divided, four-lane highway. The highway consisted of two lanes in each direction divided by a grassy median and guardrails. The bituminous roadway was dry, level, and curved slightly to the right (in the northbound direction) with a posted speed limit of 112 kmph (70 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1999 Chevrolet Tahoe four-door with one occupant, was northbound in lane two negotiating the curve. V2, a 2003 GMC Sierra four-door with one occupant, was southbound in lane two. V1 drifted off the roadway to the left onto the grassy median. The driver than steered hard right and V1 re-entered the roadway. The driver than overcorrected by steering hard left. This action caused him to roll right 16 quarter turns. In the course of the rollover, V1 departed the road on the left side again and came to final rest in the center median. V2 was struck by flying rocks and debris as it passed by V1. V1 was towed from the scene due to damage while V2 was driven away. The driver of V1, a 42-year-old male, was ejected from his vehicle during the course of the rollover and was pronounced dead on the scene. The wife of the driver stated that he had called his father at 8:15 and told him that he was just leaving work and was on his way home. A witness traveling in lane one of the northbound lanes claimed that V1 was traveling in excess of 137 kmph (85 mph) prior to departing the roadway. The witness watched V1 drift off the roadway to the left and than return. V1 then overcorrected and rolled right several times before coming to final rest. The Critical Precrash Event for V1 was coded this vehicle loss of control, traveling too fast for conditions. The Critical Reason for the Critical Precrash Event was coded as overcompensation. Associated factors include excessive speed, driver fatigue, and work stress due to a recent change in his schedule. The driver of V2, a 48-year old male, was uninjured as a result of the crash. The driver stated that he had left home and was on his way to an interview. He advised that he was traveling between 98-112 kmph (61-70 mph) prior to the rocks and debris hitting his windshield. He applied the brakes but was not able to avoid them. The Critical Precrash Event for V1 was coded other, not involved in first harmful event. The Critical Reason was not coded to this vehicle. There were no known associated factors coded to V2 and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Performance, Driver Stress/Emotion, Drugs, Speed/Distance present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

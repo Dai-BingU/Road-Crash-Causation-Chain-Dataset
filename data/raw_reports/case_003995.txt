@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the intersection of two similar roadways, both being two-way non-divided asphalt roadways with a posted speed limit of 89Kmh (55Mph). The only difference was that the roadway for V2 was curved to the left. The crash occurred during daylight hours and there were no adverse conditions present at the time of the crash. V1 a 1992 Chrysler New Yorker was traveling west and had came to a stop at the intersection. V2 a 1996 Mercury Villager was traveling south bound in the right curb lane negotiating a curve to the left. V1 entered the intersection and came into contact with the right side of V2. As the vehicles traveled to final rest they side slapped V1's left rear with V2's right side. Both vehicles were towed from the scene due to damage. The driver of V2 a 17-year-old male stated to his father that he had come to a stop, looked both ways then proceeded to take off. His father also stated that he did not see V2. The Critical Pre-Crash Event coded for V1 is “this vehicle traveling crossing over passing through an intersection”. The Critical Reason for the Critical Pre-Crash Event is “inadequate surveillance, looked but did not see”. The driver of V2 a 37-year-old female stated that she saw V1 was going to pull out in front of her, so she steered to the left. She also stated that she hit the brakes but could not avoid the collision. The Critical Pre-Crash Event Coded for V2 is “ other vehicle encroachment from crossing street across path”. V2 was not assigned a critical reason.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

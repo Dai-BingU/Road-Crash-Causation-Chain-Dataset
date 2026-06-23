@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The collision occurred about noon during daylight hours shortly after noon in 4-leg intersection. The east/west legs of the intersection were comprised of seven lane with three through lanes and a center left turn only lane for each direction of travel. The lanes were divided without a positive barrier. The roads were dry, traveled, level concrete. The intersection is signalized with a protected left arrow for all directions of travel. The posted speed limit is 56 kmph (35 mph). There were no adverse weather conditions. Vehicle one (V1) was a 1991 Jeep Cherokee driven by a 17 year-old male who was eastbound in the fourth travel lane, the left hand turn only lane. Vehicle two (V2) was a 1999 Ford Expedition driven by a 30 year-old male who was approaching the intersection westbound in the second travel lane. V1 turned left and entered the intersection without the right of way and was struck on the right side by the front of V2. V1 rotated counterclockwise, V2 rotated clockwise and the two side slapped. V1 left the roadway to the west and came to rest facing north. V2 left the roadway to the west and came to rest facing east. Both vehicles were towed from the scene both drivers were transported to a medical facility for treatment. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection, The critical reason for the critical event was coded to V1 as a driver related factor: type of driver error unknown. There was no interview obtained with the driver of V1 so it could not be determined if it was a decision or recognition error on this drivers part. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

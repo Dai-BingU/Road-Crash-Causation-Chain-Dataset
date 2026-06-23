@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekday evening in the intersection of an east/west four-lane highway and a two-lane side street that intersected from the north. The undivided, bituminous highway was straight and featured a slight downgrade with a posted speed limit of 72kmph (45mph). Recent traffic counts indicate the highway carries 19,258 vehicles per day in the crash area. The residential side street was straight with a left turn lane and minor upgrade and was controlled by a stop sign. There were no adverse atmospheric conditions at the time of the crash and the roadway was dry, but dark. V1, a 2001 Nissan Altima was stopped at the intersection preparing to turn left from the side street onto the highway. V2, a 1999 Mitsubishi Montero, was westbound in lane two approaching the intersection. As V1 initiated the left turn it struck the right rear of V2 with its front. After impact V1 came to final rest facing east in the eastbound lane two. The collision caused V2 to rotate clockwise and come to rest facing north in the westbound lanes 41 meters west of impact. Both vehicles were towed from the scene. V1 was driven by an 18 year-old female that was belted and not injured in the collision. The frontal airbags in the vehicle did not deploy. She stated that she looked both ways but never saw the other vehicle. The Critical Precrash Event for V1 was turning left at intersection. The Critical Reason for the Critical Event was inadequate surveillance, looked but did not see. Associated factors included inexperienced driver. She was wearing glasses to correct a nearsighted condition and takes an unknown medication for depression. V2 was operated by a 21-year old female that was belted and not injured. A 23 year-old passenger in the front right and a 4-day old infant in the back right were also not injured. None of the airbags on the SUV deployed. The Critical Precrash Event for V2 was other vehicle encroaching from crossing street turning into opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. The only associated factor was that the driver and passenger were conversing.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during daylight hours on a northbound four-lane expressway and continuing onto one of its off ramps. The road surface is straight and level concrete, but the off ramp runs slightly on a downhill grade. The weather condition at the time of the crash was light snow that was melting on the roadway causing them to be wet. The speed limit for this road was 67 kmph (40 mph). Vehicle one (V1), a 2005 Mitsubishi Eclipse coupe driven by a 32 year-old male, was traveling northbound in the forth lane when it veered right and crossed over all travel lanes and into the off ramp, Vehicle two (V2), a 1995 Honda Civic driven by a 29 year-old male, was traveling in the first lane on the off ramp. The front of V1 contacted the rear of V2 causing V2 to skid in a clockwise direction then striking, its left side, into a lamp post on the east side of the off ramp and coming to a final rest. After the first event V1 drove up onto a grassy area between the expressway and off ramp, striking a tree with its front, and detaching the tree from the ground. The tree then fell on the top of V1, and came to a final rest shortly after this point. The reporting police officer partially witnessed the pre-crash movement of V1 and using a radar gun clocked V1 traveling at 122 kmph( 76 mph), the driver told the officer that he was in a hurry to go home and use the bathroom. The driver of V1 also tested positive for alcohol consumption according to the medical records. Both vehicles were towed from the scene. The critical pre-crash event for V 1 was coded: other motor vehicle in lane, traveling in same direction with lower speed. The critical reason for V1 was coded as a driver related factor: too fast for conditions (driver stated he was in a hurry to get home). An additional factor was the wet roadway. The critical pre-crash event for V 2 was coded: other motor vehicle in lane, traveling in same direction at higher speed. The critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Alcohol, Driver Performance, Driver Stress/Emotion, Drugs, Roadway, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

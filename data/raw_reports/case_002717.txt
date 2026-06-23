@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a four-lane roadway with a median controlled by a traffic control signal. Conditions were daylight with rain and overcast in the afternoon on a weekday. The posted speed limit was 80kmph (50mph). V1 was a 2000 Buick LeSabre sedan traveling westbound in the third travel lane approaching a T-intersection controlled by a traffic control signal intending on going straight. V2, a 1994 Nissan Stanza sedan, was stopped in the third travel lane directly in front of V1. V3, a 2001 Ford Focus sedan, was also stopped in the third travel lane directly in front of V2. V4, a 2003 Chevrolet Silverado pick-up was stopped in front of V3 also waiting for the light to change. The front of V1 struck the back of V2 in the third travel lane. As a result of the impact, V2 rolled forward and struck the back of V3. V3 was pushed into the back of V4. All vehicles came to final rest facing eastbound. V1 was driven by an 87-year-old male who was not injured. He stated that he was on his way to pick up his wife at the hospital and saw the other vehicle stopped. He applied his ABS but slid on the wet pavement and struck the back of V2. V1 was traveling between 33-48kmph (21-30mph) at the time of impact. V1 was towed due to damage. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other motor vehicle stopped. The Critical Reason for the Critical Precrash Event was a driver recognition error, inattention as he was focused on a family problem at the time. The driver has several ailments and did not recall what medications he was taking. This may have been an associated factor as well as the wet roads. V2 was driven by a 66-year-old male who sustained minor injuries but was not transported. He stated that he was stopped in traffic when he heard a car sliding on the pavement and then felt the impact. V2 did not take any avoidance actions. V2 was towed due to damage. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Precrash event was not coded to this vehicle. V3 was driven by a 44-year-old female who refused to be interviewed. V3 was driven away from the scene. The Critical Precrash Event for V3 was coded as other, not involved in first harmful event. No Critical Reason for the Critical Precrash Event was coded to this Vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Driver Stress/Emotion, Drugs, Roadway, Vision, Weather/Environment present problem 
+Vehicle 2:  Drugs, Roadway, Weather/Environment present problem 
+Vehicle 3:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

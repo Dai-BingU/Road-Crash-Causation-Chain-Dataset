@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred in towards the middle of the block of a busy major roadway. There were no traffic signals located at that point. However, there is a traffic light for every intersection in the area, none for no U-turn, slow down, etc. The speed limit was 56 kmph (35mph). The asphalt roadway was dry, level, and there were no adverse weather conditions. The crash occurred on a weekday afternoon and the traffic flow was very busy and at times congested. Vehicle two, a 2001 Lincoln LS Sedan, was traveling south in lane one when she saw a parking space across the street on the north side of the street and decided to make a U-turn. As she was making the U-turn she was struck on the right side by vehicle one, a 1987 Pontiac Grand AM. Vehicle one was traveling north in lane one and struck vehicle two with its front. Vehicle two continued heading north, after the initial impact with V1, and struck the rear left corner of vehicle three, a 1993 Dodge Intrepid that was legally parked. the driver of vehicle one, a 27-year old female who stated that she was traveling north in lane one. She saw vehicle two coming from the opposite direction and trying to make a U-turn right infront of me when I hit it. I tried steering to the right to avoid hitting her but it was too late. The Critical Pre-Crash Event was coded other vehicle encroachment from opposite direction - over left lane line. The Critical Reason was not coded to this case. The driver of vehicle two, a 31-year old female, said that she was, driving south, returning from lunch and saw a parking space in the opposite direction on the north side of the street, and attempted to made a U-turn. She said that she didn't see the car traveling north in lane one and was struck by it on her right side. The driver of vehicle two is very familiar with the area. She travels it on a daily basis. Although, she admitted that she just got her vehicle repaired from a previous crash. The accident occurred minutes after her lunch break was over and she was trying to get back, she said The Critical Pre-Crash Event was coded for vehicle two; over the lane line on the left side of the travel lane, and the Critical Pre-Crash Reason also coded for this vehicle; illegal maneuver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+Vehicle 2:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

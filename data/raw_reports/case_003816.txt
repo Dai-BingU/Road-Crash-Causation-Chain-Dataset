@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in an intersection of a two-lane two-way residential roadway. All four sides of the intersection are two-lanes. The north and south sides of the intersection are stop sign controlled. The east and west sides have no traffic controls present. This is a straight level bituminous asphalt roadway. The speed limit is 32 kmph (20 mph). It was evening on a weekday and the road was dry and the sky was clear. The sun was shining from the west. Vehicle one (V1), a 1995 Ford Windstar minivan with one occupant, was traveling southbound in the first lane. Vehicle two (V2), a 2002 Chevrolet Trailblazer SUV occupied by the driver and one passenger, was traveling westbound in lane one. As vehicle two entered the intersection it was struck in the right by V1. V2 rotated clockwise and rolled left two quarter turns. V2 came to a final rest on its roof facing east. V1 came to a final rest on the south side of the intersection facing south. V1 & V2 were towed from the scene due to damage. V1, the Ford Windstar, was driven by a 17-year old male who reported injuries. He advised that he was on his way to his girlfriend's house. He further advised that he stopped briefly at the stop sign and continued through it. He also stated that he had forgotten that the east/west traffic did not have to stop. He was unable to avoid hitting V2. The Critical Precrash Event for V1 was coded: this vehicle traveling; crossing over (passing through) intersection. The Critical Reason for the Critical Event was a driver decision error: Illegal maneuver. Driver one drives this roadway several times a week. He stated he didn't come to a complete stop therefore running the stop sign. V2, the Chevrolet Trailblazer, was driven by a 62-year old male who reported injuries and was transported from the scene. V2 was occupied by a 65-year old passenger who also reported injuries and was transported from the scene. Due to driver two's attorney stating he didn't have to cooperate, he chose not to participate in an interview. The Critical Precrash Event for V2 was coded: Other Vehicle Encroachment, from Crossing Street- Across Path. The Critical Reason was not coded to this vehicle; however, sun glare was present for driver two.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

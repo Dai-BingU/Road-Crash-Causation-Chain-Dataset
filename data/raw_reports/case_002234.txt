@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the early evening on a two-way, two-lane roadway approaching an intersection. The roadway was straight and level with no adverse atmospheric conditions at the time of the crash. The posted speed limit for the roadway was 56kph (35mph). V1, a 1999 Nissan Altima, was traveling west on the roadway approaching an intersection. V2, a 2005 Ford F-250, was also in the westbound lane stopped at the intersection in front of V1. V1 failed to stop and the front of V1 made contact with the rear of V2. Both vehicles came to final rest shortly after the impact. V1 was driven by a 17 year-old male who refused to be interviewed and participate in the study. There was another occupant present in the vehicle that may have suffered from possible injuries. According to statements given to the police, the driver apparently was focusing on other police activity in the area. Local police were conducting a traffic stop in the opposite lane. As the driver was looking to the left, he did not notice the vehicle in front of him had stopped. Neither the driver nor passenger of V1 suffered any injuries as a result of the crash, but V1 was towed due to damage. The Critical Precrash Event coded to V1 was other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Precrash Event was an external distraction, as the driver was focused on a traffic stop and not paying attention when this incident occurred. Another associated factor for this crash was driver inexperience as he was only 17 years old. V2 was driven by a 54 year-old male who did not suffer any injuries as a result of the crash. V2 had already departed from the scene upon the researcher's arrival. Numerous attempts to contact the driver and locate the vehicle were unsuccessful making an interview or vehicle inspection impossible to obtain. The Critical Precrash Event coded to this vehicle was other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. There are no known associated factors for V2 and the driver of V2 was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

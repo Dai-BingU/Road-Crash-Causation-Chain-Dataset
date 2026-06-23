@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred during the late afternoon hours of daylight on a two-lane median divided highway with a posted speed limit of 70mph (113Kmph). The highway at the time of the crash was dry concrete. The atmospheric conditions were clear and sunny. V1 a 1993 AMC Eagle station wagon was heading southbound when the vehicles in front of him hit their brakes, V1 stated that he steered hard to the left to avoid hitting them and went into the median. V1 then stated that he crossed through the median and was struck in the front right side by the other vehicle. The Critical Pre-crash Event coded for V1 is over the lane line on the left side of the travel lane. The Critical Reason for the Critical Pre-crash Event was coded incorrect evasive action. V2 a 1999 Buick Park Avenue was traveling northbound in the second lane when a vehicle came through the median in front of him. He also stated that did ot have any time to avoid the crash. V2 also stated that he was hit in the rear end by V3. The Critica Pre-crah Event coded for V2 is other vehicle encroachment from opposite direction - over left lane line. The Critical Reason was not coded for this vehicle. V3 a 1994 Dodge Grand Caravan was heading northbound in the left lane when the car in front of her struck another vehicle, she stated that she tried to steer to the right but could not avoid hitting V2 in the rear. The critical pre-crash event coded for V3 is other motor vehicle in lane (Traveling in the same direction while decelerating). The critical reason coded for V3 is inattention.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Surveillance present problem 
+Vehicle 3:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

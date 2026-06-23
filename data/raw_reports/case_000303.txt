@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at a 4-way intersection controlled by a traffic signal with a flashing left turn arrow. There are 3 lanes of travel East & West (1 in each direction and a left turn lane). The roadway is level in all directions with a posted speed of 80kmph (50mph) eastbound and 72 kmph (45mph) westbound. As V1, a 2004 Chevrolet Silverado Pickup, approached the intersection and moved into the left turn lane the light turned to green and a flashing arrow for the left turn lane. V1 sat at a stop for a few seconds waiting to make its turn. While waiting the driver was conversing with his occupants. The driver noted the light had changed to amber. He then started his left turn thinking the through traffic had already turned red. As V1 crossed into V2 (1992 Jeep Cherokee) path V2 contacted V1 at the right front side of the vehicle. V1 came to final rest facing southwest in the lane 1 at the apex of the southeast corner. V2 came to final rest in lane 1 of the northbound lanes of the intersection V1 was driven by a 58 year-old male who stated he is in good health despite having been diagnosed with diabetes and non-alcohol related cirrhosis of the liver (the driver does take medications for these conditions, but they were not believed to have contributed to the crash). He also stated that he wears corrective lenses for an unknown condition. The driver claimed he has worked 10 hrs a day without a day off since 11/27/05. The driver stated he thought the eastbound vehicle had a red light and after starting his turn he had no time to perform any avoidance maneuvers. The driver of V1 was transported to the local trauma unit. Occupant 2 was trapped and was extricated before being transported to the local trauma unit. Occupants 3 & 4 were not injured and were released to the family. V1 was towed due to damage. The Critical Pre-crash Event for V1 was coded as this vehicle traveling, turning left at intersection. The Critical reason for the Critical Event was coded as a driver related factor - decision error, false assumption of other's action. The associated factors were this driver's fatigue from long work hours and having had no time off as well as this driver conversing with his occupants, which was a distraction to the driver attentiveness. The driver also was also unfamiliar with this road as he only driven it rarely. V2 was driven by a 23 year-old male that states he is in very good heath and traveling home with his occupant. The driver stated he looked at he light then to the north of the intersection then as he looked back to look south the vehicle in the left turn lane started his turn. He stated there was no time to do anything but he still tried to steer to the left. The driver and occupant of V2 were not injured and released. V2 was towed due to damage. The Critical Pre-crash Event for V2 was coded as other vehicle encroachment, from opposite direction-over left lane line. The critical reason for the critical event was not coded to this vehicle. The associated factor was the driver's inattention as he was conversing with the occupant as he drove into the intersection. This researcher has found that the county road commission had studied the light and has changed the timing of the light as of 1/ 05/ 06.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Inexperience, Driver Physical, Driver Stress/Emotion, Drugs, Weather/Environment present problem 
+Vehicle 2:  Distraction, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

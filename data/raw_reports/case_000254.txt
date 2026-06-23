@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the morning of a weekend in the eastbound lanes of a two-lane, rural roadway. The east/west roadway consisted of one lane in each direction and featured a posted speed limit of 72 kmph (45 mph). The roadway was bituminous and dry with the eastbound lane having a 4% downhill grade and curving to the left. The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash Vehicle one (V1), a 2005 Kia Spectra, was negotiating the curve as it traveled west. Vehicle two (V2), a 1998 Ford F150 pickup, was negotiating the curve as it traveled east. V1 began drifting across the double yellow center lane line and entered the eastbound travel lane. The left side of V1 struck the left side of V2 as they passed one another. Both vehicles continued forward, departing the road to the south. The front of V1 struck a medium sized tree before coming to final rest against the tree. The right side of V2 struck a small tree before coming to final rest. The driver of V1, a 34-year-old male, was transported to a local trauma center with non-incapacitating injuries. He refused to be interviewed, citing numerous pending legal charges levied against him. The investigating officer estimated his travel and impact speeds to be 88 kmph (55 mph) and 56 kmph (35 mph), respectively. The Kia sedan was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle traveling, over the lane line on the left side of the travel lane. The Critical Reason was coded as a driver related factor, driving too fast for the curve. Although the driver refused to be interviewed, several associated factors were identified by his medical report. The driver was under the influence of alcohol as well as suffering from diabetes and pancreatitis. He was taking medications for these conditions, which may have adversely interacted with the alcohol. The driver of V2, a 15-year-old female, was transported to a local trauma center with possible injuries. She stated that she was heading home from her grandmother's house when V1 crossed into her lane of travel. She steered and braked but was unable to avoid impact. She estimated her travel and impact speeds to be 56 kmph (35 mph) and 48 kmph (30 mph), respectively. The Ford pickup was not towed due to police-reported damage. The Critical Precrash Event for V2 was coded other vehicle encroachment from opposite direction over left lane line. The Critical Reason was not coded to this vehicle. The only associated factor coded to V2 was driver inexperience as she was only a permitted driver with less than 6 months of experience.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Performance, Driver Physical, Drugs, Speed/Distance present problem 
+Vehicle 2:  Driver Inexperience, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

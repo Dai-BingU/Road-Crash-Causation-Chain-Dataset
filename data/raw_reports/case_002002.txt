@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekend at an intersection of a southbound one-way roadway and a two-way east-west roadway. The bituminous roadway was straight and level, and it was dusk and snowing causing the roads to be wet. The posted speed limit was 48kmph (30mph). V1, a 1997 Jeep Wrangler, was southbound in lane three preparing to make a left turn at the intersection. As V1 commenced its turn the driver lost control and the front of V1 impacted a light pole that was located off the roadway at the southeast corner. V1 was driven by a 20 year-old female who sustained non-incapacitating injuries and was treated on-scene. The driver stated that her brakes failed causing her to hit the light pole. The driver also stated that the brakes were always a problem with her vehicle. V1 was towed due to damage. The Critical Precrash Event for V1 was coded as this vehicle traveling, off the edge of the road on the right side. The Critical Reason for the Critical Precrash Event was coded as a vehicle related factor, degraded braking capability. The Associated factors coded to the driver were a performance error, poor directional control. An experience factor was coded as inexperienced driver, because the driver had less than a year of experience. A braking system deficiency was coded as a vehicle factor. The slick surface conditions and wet roads were coded as a roadway related factor, and the snowy conditions were coded as weather related factor. The driver did not wear corrective lenses for a hyperopic (far-sighted) condition, which resulted in a physical factor.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Driver Physical, Roadway, Vehicle, Vision, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Degraded braking capability

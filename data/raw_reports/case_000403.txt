@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during early evening hours at a controlled intersection. The road surface is concrete,dry and free of defects. There were no adverse atmospheric conditions at the time. Traffic flow controlled by stop signs in all directions. Posted speed limit 48 kmph (30 mph). Vehicle one (V1), a 1997 GMC Sierra pick-up driven by a 60 year-old male with one passenger, was traveling southbound in the first lane. Vehicle two (V2), a 1998 Mitsubishi Eclipse coupe driven by a 20 year-old male with one passenger, was traveling eastbound in the second lane. As V1 passed through the intersection its right side was impacted by the front of V2. V1 came to final rest in the roadway south of the point of impact. V2 rotated clockwise and came to rest with its front off the roadway south of the point of impact. During the rotation, the vehicles side slapped, the left side of V2 struck the right side of V1. V2 was towed from the scene due to damage sustained in the collision. Both drivers were cited for no driver's license. Driver of V1 was also cited for failure to maintain financial responsibility. The driver of V1 was well rested, in good health, not in a hurry and claimed to be attentive to the driving task. He did not have a driver license. Fatigue was not an issue. He stated he was traveling 56 kmph (35 mph) and when he saw V2, applied the brakes and steered left. He was returning home and had driven 8 kilometers (5 miles). He drives the route daily and has driven the vehicle 2-5 times in the last 3 months. The driver entered the intersection without stopping for the traffic control device. The driver of V2 was returning home and had driven 32 kilometers (20 miles). He claimed he had been stopped at the intersection for 3-4 seconds before accelerating into the intersection with the intention of going straight. He did not attempt any evasive maneuvers prior to impact. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as a driver related factor: illegal maneuver, for disregard of traffic control sign. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street - across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Driver Stress/Emotion, Surveillance present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

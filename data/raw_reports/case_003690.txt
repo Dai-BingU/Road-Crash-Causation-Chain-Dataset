@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the southbound lanes of a one-way urban roadway. There were four southbound lanes in the downtown area of the city with an east/west cross street. The roadway had a posted speed limit of 56 kmph (35 mph). The westbound lanes were on a 3% uphill grade while the southbound lanes were on a 3% downhill grade. Conditions were daylight and dry with cloudy skies. The setting was late morning hours on a weekday. This area has recently undergone road construction and been converted from one-way to two-way in the westbound direction. Vehicle one was a 2002 Volkswagen New Beetle hatchback traveling westbound in lane two. Vehicle two was a 2003 Honda CR-V compact sport utility traveling southbound in lane three. Vehicle three is a 1998 Volkswagen New Beetle hatchback parked facing south on the left side of the southbound roadway. Vehicles one and two both entered the intersection simultaneously. The front of V1 impacted the left side of V2. Vehicle one came to rest in the intersection, and then pulled to a stop on the opposite side of the intersection on the right westbound shoulder. Vehicle two rotated counterclockwise 90 degrees after impact and then rolled to the right. During the rollover sequence, the undercarriage of V2 impacted the right side of V3. Vehicle two then came to rest on its wheels facing north in lane four. Vehicle one was driven by a 17-year old female who was transported to a local hospital with unknown injuries. Her father stated the she was confused by the signage in this area of downtown and thought her light was green. She proceeded through the intersection where the collision subsequently occurred. Her estimated speed at impact was 40 kmph (25 mph), while the investigating officer estimated her speed to be 64 kmph (40 mph). She did not stop prior to entering the intersection and did not have a chance to execute an avoidance maneuver. Her vehicle was towed due to damage. The Critical Precrash Event for V1 was this vehicle traveling crossing over intersection. The Critical Reason was a driver related factor of inadequate surveillance. The driver wore contact lenses for a nearsighted condition, as well as sunglasses. This was the driver's first time on this roadway. She had been driving for approximately 12 months on a provisional license. Vehicle two was driven by a 55-year old female who was transported to a local hospital with unknown injuries. She stated that she was running an errand from work and driving through the downtown area. A vehicle struck her left rear wheel and spun her into a rollover. She didn't have time to react, and estimates her travel and impact speeds to be 56 kmph (35 mph). Her sport utility was towed due to damage. The Critical Precrash Event for v2 was other vehicle encroachment from crossing street, across path. No Critical Reason was coded to this driver. The driver's mother had just died the week before, and was in her thoughts. She wears glasses for a farsighted condition. She drives this roadway on a weekly basis.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

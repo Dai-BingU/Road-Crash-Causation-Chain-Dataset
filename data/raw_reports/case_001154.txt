@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on the morning of a weekday on the roadside of a two-lane undivided roadway. The roadway was curved with a downhill grade greater than 2%. It had been raining on and off during the day making the roadway wet. There was also construction work occurring on the roadside, which tracked mud onto the roadway. As V1, a 1998 Chevy Blazer, attempted to negotiate the curves of the road but the driver lost control, causing V1 to begin a clockwise spin and depart the roadway. V1 rode up the embankment and began to rollover. As V1 rolled over it struck a fire hydrant with it left side and finally came to final rest on the roadside on its top. V1 was driven by an 18 year-old male in good health and on his way to his friend's house. He stated he was traveling at 40kmph (25mph) when the car started to swerve and he attempted to regain control by braking and steering to the left and to the right, but this only caused the vehicle to skid even more and eventually roll over. The driver was transported to a treatment facility with non-incapacitating injuries. V1 was towed due to damage. The Critical Precrash Event for V1 was coded as a control loss due to traveling too fast for conditions. The Critical Reason for Critical Precrash Event was traveling too fast for the curve. There were several associated factors coded this vehicle as the driver was traveling too fast for conditions, not realizing that caution was required. As the driver had poor directional control of his vehicle due not only to unfamiliarity with the roadway (it was his first time driving it) but also the fact that he had his driver's license for only three months prior to the crash. There were also roadway and weather factors involved as it was raining which caused the road to be wet.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

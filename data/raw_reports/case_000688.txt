@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred near a three-legged intersection. The east/west roadway is divided by a painted median, straight and level. The westbound lanes consist of one through lane and a right turn lane. The speed limit for this roadway is 89 kmph (55 mph). It was dark with no adverse atmospheric conditions at the time of this crash. Vehicle one (V1), a 2001 Honda Accord, was westbound in lane two. V1 traveled off the right side of the road and down an embankment. The front struck the ground and then a tree. V1 was towed due to damage. The driver of V1, a twenty-nine-year-old female, was traveling with a five-year-old female passenger. This driver stated that she was on her way from her home to a store. She provided no further information. According to her medical records, this driver fell asleep prior to the crash. She tested positive for Methadone and unspecified opiates. The critical pre-crash event for V1 was coded as "this vehicle traveling; off the edge of the road on the right side." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; sleeping, that is actually asleep."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

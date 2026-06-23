@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred on a divided, north/south trafficway in a traffic signal-controlled intersection. There are six lanes and a left curve for northbound traffic. The radius of curvature was 74 meters (243 feet). The southbound lanes are straight and consist of three through lanes, a left turn lane and a right turn lane. The second left turn lane is closed for construction. Both roadways were level and dry. There was road construction north of the intersection. The posted speed limit is 56 kmph (35 mph). Traffic was moderate at the time of the crash. This crash occurred during daylight hours with clear skies. Vehicle one (V1), a 2003 Nissan Xtrerra, was turning left from the fifth southbound lane. Vehicle two (V2), a 1997 Toyota 4Runner, was northbound in the third travel lane. V1 entered the intersection and the front of V1 struck the front of V2. V1 rotated counterclockwise and came to rest in the intersection facing north. V2 rotated clockwise and came to rest facing northeast in the intersection. Both vehicles were towed due to damage. The driver of V1, a forty-four year old male, was not interviewed. No further information is available for this driver. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for V1 was coded: type of driver error unknown. The driver of V2, a forty-nine year old female, was heading home from work. This driver had been driving for about forty minutes, drives the route daily and is familiar with the vehicle. The driver stated the light was green. She did not notice V1 until impact and did not attempt any evasive maneuvers. Driver did not state the road construction was a distraction. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic present problem 
+Vehicle 2:  Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

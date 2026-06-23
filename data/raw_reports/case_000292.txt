@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a five-lane roadway. There were five northbound lanes: lane one was a right turn only, lane two, three, and four were straight only, and lane five was left turn only. There were no traffic lights controlling the roadway. Intersecting this roadway on the east side was a shopping plaza parking lot with a lane to pull into and a lane to exit. Conditions were dry on an afternoon on a weekend. The traffic flow was normal and the roadway was straight and level. The posted speed limit was 72 KMPH (45 MPH). Vehicle #1 was a 1996 Hyundai Accent driven by a 29-year old male who was stopped at the exit of the plaza waiting to pull out into traffic to make a left hand turn. He looked both ways but did not see the Vehicle #2, a 2000 Dodge Caravan. The Dodge Caravan was traveling northbound in lane two going approximately 56 KMPH (35 MPH). Vehicle #1 pulled out onto the northbound roadway and was struck in the left side driver's door by the front of Vehicle #2. The driver of Vehicle #1 was not injured. The car was towed due to damages. The driver stated he looked both ways before pulling out into the roadway but did not see the van that was traveling at a higher rate of speed in the curb lane. He was cited for failure to use due care. The Critical Pre-crash Event for Vehicle #1 was this vehicle turning left at the intersection. The Critical Reason was a recognition error, inadequate surveillance (looked but did not see). There were no additional associated factors coded to the driver. The Dodge Caravan was driven by a 26-year old male who reported driving in lane two when the Hyundai pulled out in front of him. He tried to take an avoidance maneuver by braking and steering right to avoid impact but was not successful. He was not injured and his vehicle was not towed due to damages. The Critical Pre-crash Event for Vehicle #2 was other vehicle encroachment from driveway/parking lot, turning into opposite direction. The Critical Reason was not coded to this vehicle and there were no associated factors coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the early afternoon on a clear day. The crash occurred on a four-lane roadway in a four-point intersection that is controlled with a traffic control device on color. Vehicle one's roadway is straight and level. Vehicle two's roadway has an uphill grade with a left hand curve. Vehicle one (V1), a 1987 Toyota Camry, was westbound in lane two with one occupant. V1 was attempting to make a left turn (southbound) on a green signal. As V1 entered the intersection, it was struck in the front by vehicle two's (V2) front. V1 rotated counter clockwise and came to final rest in the intersection headed south. The driver refused treatment and the vehicle was towed due to disabling damage. Vehicle two (V2), a 1996 Toyota Camry, was eastbound in lane two with one occupant negotiating a left-hand curve approaching the intersection. There were two vehicles stopped in lane two waiting to make a left turn at the intersection. These two vehicles obscured traffic coming from the opposite direction, including V1 who was attempting to turn left. V2 changed lanes to the right, into lane one, just before entering the intersection. As V2 entered the intersection its front contacted V1's front. V2 then veered right and departed the roadway to the northeast corner of the intersection and came to final rest facing northeast. The driver was transported to a local trauma center and the vehicle was towed due to disabling damage. The driver of V1 is a 19-year-old male who commutes on this roadway daily. He reported that he was not in a hurry and was very comfortable driving his vehicle. He was well rested, having had ten hours of sleep, was in good health and not taking drugs of any kind. The driver of V2 is an 18-year-old female who drives this roadway daily and is very comfortable driving her vehicle. She was not in a hurry and was on her way to visit her grandmother at the time of the crash. She reported to have had six hours of sleep, was in good health and was not taking any drugs.. The critical pre-crash event for V1 was coded as: this vehicle traveling; turning left at intersection. The critical event was coded as a driver related factor: turned with obstructed view. The critical pre-crash event for V2 was coded as: other vehicle encroachment; from opposite direction- over left lane line. The critical reason for the critical event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

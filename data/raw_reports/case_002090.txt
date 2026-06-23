@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred in the morning during daylight hours on a rainy day. The crash occurred on a two-lane, wet bituminous roadway that curves to the left. The radius is 375m, and the super elevation is 2%. The roadway has a down slope of 7%. The roadway has a caution sign and the speed limit is 72 kmph (45 mph). Vehicle one (V1), a 2000 Ford Taurus sedan was traveling southbound in lane one. V1 lost traction as it was nearing the exit of the curve and departed the right road edge. V1 traveled out of the right of way, down a slope and struck a tree. V1 came to final rest against the tree facing south. The vehicle was towed due to disabling damage and both occupants were transported to a local trauma center with incapacitating injuries. V1 contained two occupants. The driver was a 39 year-old female and the passenger a 37 year-old female. The driver had left her sisters' house a short time ago and they were commuting to work and having a social conversation. The driver advised that as she went through the curve the vehicle started skidding to the right. The driver locked the brakes and steered left in an attempt to regain control of the vehicle. She also advised that she was not familiar with the vehicle and rarely drives the roadway. According to her and the investigating officer she was negotiating the curve at a safe speed, which was less than the posted speed limit. She was unaware the vehicles tires were bald since it was not her vehicle and she had only driven it two or three times in the past month. The critical pre-crash event was coded as: This vehicle control loss due to, non-disabling vehicle problem (slick tires). The vehicle's two front tires had zero tread depth, the left rear tire had just 1 mm (1/32”) depth, and the right rear tire had 3 mm (4/32) of measured tread depth. Both rear tires were less than the recommended inflation pressure. The critical reason for the critical pre-crash event was coded as: Vehicle related factor, other tire degradation. The wet road and the driver being unfamiliar with the vehicle and the roadway are also contributing factors to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Roadway, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Non-disabling vehicle problem (e.g., hood flew up) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Other tire degradation

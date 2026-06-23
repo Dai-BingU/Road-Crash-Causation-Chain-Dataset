@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at mid-night on a dark but lighted on-colors controlled 4-way intersection. No adverse weather conditions present and traffic was light due to late night conditions. Road surface leading to intersection level, dry concrete, within intersection the surface is asphalt. Posted speed limit 72 kmph (45 mph). Vehicle one (V1), a 1986 two-door Buick Regal T-type driven by a 22 year-old male was traveling east in lane 3 with the intention of traveling straight through the intersection. Vehicle two (V2) a 1997 Pontiac Grand Am sedan driven by a 40 year-old female was traveling west in the forth lane with the intention of turning left. As V1 while talking on cell phone made left turn the front collided with the front of V2, V2 after impact rotated counterclockwise coming to final rest in the intersection. V1 after impact continued forward in a southeasterly direction coming to final rest at the southeast corner. Both vehicles were towed from the scene. V1 was going home after visiting a friend earlier that evening and consuming an unknown amount of alcohol. V2 was going home after having spent 2 hours at local bar consuming an unknown amount of alcohol. BAC test results reported on police accident report reported zero level of alcohol. The critical pre-crash event for V1 was coded: other vehicle encroachment, from opposite direction - over left lane line. The critical reason was not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection, The critical reason for the critical event was coded to V2 as a driver related factor: internal distraction (talking on cell phone). Associative factors, driver fatigue was possibly enhanced due to driver's consumption of alcohol, it was 1 hour past driver's usual sleep time, and driver is a diagnosed narcoleptic.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Drugs present problem 
+Vehicle 2:  Alcohol, Cell Phone Use, Distraction, Driver Fatigue, Driver Physical, Driver Stress/Emotion, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Internal distraction

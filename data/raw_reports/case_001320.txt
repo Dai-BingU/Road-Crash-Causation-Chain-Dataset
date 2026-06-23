@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a level two-lane undivided straight roadway with a posted speed limit of 64 KMPH (40 MPH). Many driveways for retail establishments intersect with the roadway. There is a side road with a control device with a pedestrian signal, which was mentioned by the drivers of both vehicles, 100 meters north of the crash site. The weather was clear and the roadway was dry. The crash occurred on a weekday afternoon. Vehicle #1, a 2000 Pontiac Grand Am, was traveling south on the two lane undivided roadway. Vehicle #2 pulled out from a fast food establishment's driveway making a left turn in front of Vehicle #1. Vehicle #1 impacted the left front corner of Vehicle #2 with its front right. Both vehicles came to rest in the roadway facing their intended directions. The 2000 Pontiac Grand Am (Vehicle #1) was driven by a 16-year old belted female who was transported to an area hospital, treated and released. The vehicle was pushed out of the roadway to a parking lot and then towed from the scene. The Critical Precrash Event for the driver of Vehicle #1 was when another vehicle encroached into her lane, from a driveway, across her path. The Critical Reason for the Critical Event was not coded to this vehicle. It should be noted here that the driver of the Pontiac Grand Am had been licensed for one-half a year and had not finished her high school driver's education course. This driver was wearing contact lenses at the time of the crash. The driver of this vehicle takes a birth control medication and an ibuprofen combination drug. This driver also stated she thought the pickup was stopping in the driveway from which it emerged (a false assumption). She also stated a control signal before the crash site was green as she was going through it. The Chevrolet Colorado (Vehicle #2) was driven by a belted 70-year old male who was not injured. There was a belted female passenger in the front right seat who was not injured and was checked out by the EMS. It should be noted that both driver and passenger stated they saw the above mentioned control signal as being red, and therefore, proceeded to turn north on the undivided two-lane roadway. The driver takes several medications for two health issues, high blood pressure and arthritis. The driver wears corrective lenses for reading only. This vehicle was not towed. The Critical Precrash Event for Vehicle #2 was coded as "This vehicle traveling -turning left at intersection." The Critical Reason for the Critical Event was coded as inadequate surveillance (looked but did not see). It should be noted that the driver of Vehicle #2 was ticketed for Failure to Yield. The police did not consider either alcohol or illegal drugs to be involved and ordered no tests for either driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs present problem 
+Vehicle 2:  Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a high-speed/high-volume interstate divided by a concrete wall. There were five northbound lanes and two emergency paved shoulders. The posted speed limit was 105 kmph (65 mph). Conditions were dry in the mid-afternoon on a weekend. Vehicle # 1 was a 1996 Mercedes Benz that was traveling northbound in lane one. The driver of Vehicle #1 was reportedly driving at a high rate of speed changing lanes frequently. He stated that he was cut off by a phantom vehicle, which caused him to jerk the wheel to the left into lane #2 to avoid impact. As he cut the wheel to the left, the left front of Vehicle #1 impacted the right rear of Vehicle #2, a 1996 Pontiac Sunfire, which was traveling northbound in lane 2. The impact caused Vehicle #2 to roll over to the left onto its roof, coming to final rest in the third lane. After the initial impact, the driver of the Mercedes tried to compensate and jerked the wheel again, causing his vehicle to roll over onto its roof, coming to final rest in lane 5 facing southbound. The driver of Vehicle #1 was cited for careless driving and the driver of Vehicle # 2 was cited for driving without adult supervision, as she only had a learner's permit. The Mercedes Benz (Vehicle #1), was driven by a 49-year old male who was transported from the scene with moderate injuries. The Mercedes was towed due to damages. The critical precrash event for Vehicle #1 was when he traveled over the lane line on the left side of his travel lane. The critical reason for the critical event was coded as aggressive driving. Speed was an associated factor. The Pontiac Sunfire (Vehicle #2) was driven by an 18-year old female who stated she was traveling in lane 2 when Vehicle #1 smashed into her back right side causing her to roll over. She was transported with minor injuries and her vehicle was towed due to damages. The critical precrash event for the driver of the Pontiac was when another vehicle encroached into her lane from an adjacent lane, over the right lane line. The critical reason was not coded to this vehicle. One associated factor coded to this driver was driver inexperience because the driver did not have a license, only a learner's permit. The driver of the Pontiac also reported that she suffered from asthma but was not having any symptoms at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Driver Performance, Speed/Distance present problem 
+Vehicle 2:  Driver Inexperience, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

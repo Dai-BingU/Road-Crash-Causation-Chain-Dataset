@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in lane one of two northbound lanes of a four lane, divided, limited access roadway divided by a median with positive barrier. This was a wet, level, left curve, bituminous roadway with a posted speed of 113kmph (70mph). At the time of the weekend evening crash it was dark and cloudy and traffic was light. V1, a 1999 Toyota Corolla 4 door driven by a sole 25-year-old female occupant, was northbound in lane one of the above-described roadway. V1 was negotiating a curve to the left when the vehicle went into a counterclockwise yaw. The driver of V1 steered right, left then right again and lost control. V1 exited the roadway to the right where it contacted a cement barrier with its front end and then rebounded straight back out into lane one perpendicular to the flow of traffic. V2, a 2003 Honda Civic 4 door, driven and solely occupied by a 33 year old male, was traveling north in lane one of the same roadway a few seconds behind V1. As V2 rounded the curve the driver saw V1 rebound off the wall into his lane. He tried to brake but unable to avoid V1. V2, front, struck V1 in the right rear. V1 rotated clockwise and came to rest on the right shoulder facing east. V2 came to rest in lane one facing west. Neither driver was transported. Both vehicles were towed due to damage. The driver of V1 advised that she was traveling home from a visit with her parents and had been traveling for about seven hours before stopping for gas 3 miles prior to the crash. She was not in a hurry and was traveling below the speed limit when the car began to go into a counterclockwise yaw. She could not explain why she might have lost control. The Critical Pre-crash Event for V1 was "this vehicle traveling off the edge of the road on the right side." The Critical Reason for the Critical Event was an "environmental related factor, highway related, slick roads (low friction road surface due to ice, loose debris, any other cause)". Other associated factors include the driver's unfamiliarity with the roadway and her possible fatigue from a long drive even thought she stated that she felt fine as she began this latest leg of her trip. The driver of V2 advised that he was coming home from work and had driven less than ½ hour. He drives that route daily and was not exceeding the speed limit and was in lane one talking on a handheld flip phone to a friend when he rounded the curve and ran into V1. The Critical Precrash Event for V2 was other, "not involved in first harmful event". The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors for this driver include the distraction of his talking on a cell phone at the time of the crash, his possible inadequate evasive actions (insufficient steering inputs) due to this distraction, his fatigue after working a full shift of 8 plus hours and the slick condition of the roadway. A complete witness interview was obtained at the scene, which supports the above description of the crash events. At least two more crashes occurred on the same curve shortly after this one before police arriving on scene could close down the roadway due to slick condition. One of the subsequent crashs involved V2, damage was the the back of V2..
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Drugs, Roadway, Speed/Distance present problem 
+Vehicle 2:  Cell Phone Use, Decision, Distraction, Driver Fatigue, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

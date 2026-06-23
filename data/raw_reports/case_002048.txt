@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred on a divided, eastbound highway with a positive barrier in an entrance/exit ramp area. The roadway was level, dry and of concrete construction. The eastbound lanes have a right curve and consist of five through lanes. The posted speed limit is 97 kmph (60 mph). Traffic was light at the time of the crash. This crash occurred during daylight hours with clear skies. Vehicle one (V1), a 1994 Toyota Camry, was eastbound in the fifth travel lane. Vehicle two (V2), a 2001 Ford F-150, was eastbound in the second travel lane. V1 changed lanes to the right to exit the expressway. In lane two, the front of V2 struck the right side of V1. V1 rotated clockwise and the front of V1 struck the concrete retaining wall on the south side of the roadway. V1 came to rest in lane one facing west. The driver of V2 drove the vehicle to final rest in the first lane facing east. V1 was towed due to damage. The driver of V1, a forty-seven year old female, was heading from home to work. This driver had been driving for about five minutes, drives the route daily and is familiar with the vehicle. The driver was unsure of what happened and claimed that a non-contact vehicle passed on her left side causing her to steer to the right. The driver is required to wear corrective lenses, but was not at the time of the crash. She never saw V2 prior to impact. She failed to look to the side and detect V2 approaching in lane two. The critical pre-crash event for V1 was coded: this vehicle traveling, over the lane line on right side of travel lane. The critical reason for V1 was coded as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). This driver's failure to wear corrective lenses was an associated factor in this crash. The driver of V2, a thirty-six year old male, was heading home from work. The driver was leaving work early, taking half of a sick day. He stated that he felt fatigued prior to starting his trip. This driver had been driving for about two minutes, drives the route daily and is familiar with the vehicle. He stated he detected V1 less than one second prior to impact and attempted to brake and steer, but could not remember if he steered left or right. The critical pre-crash event for V2 was coded: other vehicle encroachment; from adjacent lane (same direction)- over left lane line. The critical reason was not coded to this vehicle. His fatigue and inadequate surveillance were associated factors in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Surveillance, Vision present problem 
+Vehicle 2:  Driver Fatigue, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

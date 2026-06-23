@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred just before noon on an eight-lane, asphalt, straight, divided roadway near a on-colors controlled intersection with pedestrian crossings. The roadway runs east/west at this location and there are five lanes for westbound traffic. There is a right turn lane, three through lanes and a left turn lane. The roadway was wet at the time as a light rain (slushy snow) was coming down. The speed limit on the road is 64 kmph (40 mph). Vehicle one (V1), a 2004 Chevrolet Trailblazer SUV driven by a 51 year-old male with one passenger, was traveling west in lane two. Vehicle two (V2), a 1994 RTD Gillig Bus driven by a 50 year-old female with two passengers, was stopped in lane two in front of V1. The front of V1 contacted the back of V2. V1 deflected around the left side of the bus and came to rest facing west mostly in lane three of westbound traffic with the rear tires on the pedestrian crosswalk. V2 came to rest at impact. V1 was towed due to moderate frontal damage. V2 was driven from the scene. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was attributed to V1 as a driver related factor: type of driver error unknown. No driver interview was obtained with the driver of V1. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Roadway, Weather/Environment present problem 
+Vehicle 2:  Drugs, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This one-vehicle crash occurred during the early afternoon hours on a three-lane eastbound expressway with mild traffic congestion. The roadway has jersey barriers on the north and south sides of the expressway. The roadway is straight, level, bituminous asphalt, with no visible deficiencies and no traffic control devices. The conditions at the time of the crash were clear and dry. The posted speed limit was 88 kmph (55 mph). Vehicle one (V1), a 1995 Mitsubishi Mirage was eastbound in the middle lane of the expressway when, it was cut off on the right side by non-contact vehicle. V1 swerved to the left and applied the brakes. V1 crossed the adjacent left travel lane and then struck the north median barrier with the front left side of the vehicle. V1 then climbed up onto the barrier and rolled over to the right and slid approximately six meters. V1 came to rest on its roof. After the first event at some point the vehicle's engine compartment caught fire. V1 was towed due to damage. The driver of V1, a forty-eight year old male was heading home from work. This driver had been driving for about ten minutes at the time of the crash. This driver indicated that as he was driving a non-contact vehicle cut him off from the right. This driver steered left to avoid the crash but never took an evasive action before impacting the wall. This driver drives this vehicle daily and over this road on a daily basis. The driver reported that he was going to rotate/change the front tires later that week because he noticed they were getting fairly worn. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the left side. The critical reason for the critical pre-crash event for V1 was coded as a driver related decision factor: incorrect evasive action.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

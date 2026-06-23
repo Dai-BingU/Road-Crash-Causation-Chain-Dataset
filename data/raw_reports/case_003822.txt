@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a north/south highway with a concrete barrier wall as a median. The southbound side had four lanes narrowing to three at the location of the crash and was beginning a curve left. Access to the highway was fully controlled with on and off ramps. The grade measurement was -5 percent 120 meters pre-crash and +9 percent at 35 meters pre-crash. The crash occurred in the early afternoon hours on a weekday under rainy and overcast conditions. The posted speed limit was 80 kmph/50 mph. The road is notorious for crashes during rainstorms due to drainage problems. Vehicle 1 was a 1997 Isuzu Hombre two wheel drive pickup truck traveling southbound in the center lane attempting to pass Vehicle 2, a 2002 Ford Windstar, that was traveling in the left lane. As V1 proceeded up the hill the driver downshifted and tried to accelerate on the right side of V2. V1 then lost traction and rotated counterclockwise, crossing into the left lane and passing in front of V2, which had begun to decelerate in its lane. Vehicle 1 struck the left wall with its rear bumper then ricocheted back towards the lanes of traffic and struck V2 on the driver's door. Vehicle 1 came to rest on the left shoulder facing west. Vehicle 2 came to rest another 30 meters south on the left shoulder. Vehicle 1 was towed due to damage and Vehicle 2 was driven from the scene. Vehicle 1 was driven by a 26-year old belted female whose airbags did not deploy and who refused treatment for a facial injury (her face struck the steering wheel). The driver stated that she had accelerated in her center travel lane in an attempt to overtake V2 when she felt the rear end of the vehicle slip. The Critical Pre-Crash Event for Vehicle 1 was This vehicle loss of control due to: traveling too fast for conditions. The Critical Reason for the Critical Pre-Crash Event was a decision error: too fast for conditions (specified as heavy rain). Associated factors included inadequate/incorrect evasive action (driver immediately put her feet on the brakes and began steering in the opposite direction of the way she was rotating at the start of the spin). A vehicle related factor was coded since the rear tires had only 1mm of tread. Highway and weather-related factors were noted for wet roads and rain. Vehicle 2 was driven by a 43-year old belted female who was bringing her 79-year old mother (also belted) to visit with the driver's brother. The driver stated that she had begun to decelerate for the heavy rain before she even realized that there was anything amiss with the vehicle to the right of her (V1). Vehicle 2's airbags did not deploy in the crash. Both occupants were transported to a local trauma center for treatment of possible injuries. No Critical Pre-Crash Event and no Critical Reason were coded to Vehicle 2 because V2 was not involved in the first harmful event. Associated factors included the driver's conversation with her right front passenger, use of a prescription medication used to treat depression, and highway and weather-related factors (wet roads and rain).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Distraction, Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

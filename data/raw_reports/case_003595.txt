@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on the entrance ramp to a limited access freeway. This ramp is one-way, straight and downhill. At the bottom of the ramp, there is a flashing light which meters access to the freeway. The speed limit on the road is 89 kmph (55 mph) with an advisory speed of 56 kmph (35 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one, a 2003 Ford Crown Victoria sedan was south bound on the ramp. Vehicle two, an unknown vehicle was stopped at the control light at the bottom of the ramp facing south. Vehicle one is a taxicab and was on duty with no passenger. The front of vehicle one impacted the rear of vehicle two. Vehicle two left the scene. Vehicle one was towed due to damage. The driver of vehicle one, a twenty-nine year old male was not interviewed. Vehicle one had one tire with low tread depth. The driver of vehicle two is unknown and was not interviewed. The critical pre-crash event for vehicle one was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical pre-crash event was attributed to vehicle one and was coded as a driver related factor: type of driver error unknown. The critical pre-crash event for vehicle two was coded: other motor vehicle in lane: traveling in same direction with higher speed. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance, Surveillance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

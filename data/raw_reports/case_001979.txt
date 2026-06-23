@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekend evening in the eastbound lane of a two-lane, two-way, suburban roadway at the entrance to an apartment complex. The bituminous roadway featured an 8% uphill grade in the eastbound direction, a right curve and a posted speed limit was 56kmph (35 mph). There were no adverse weather conditions and the roads were dark and dry at the time of the crash. V1, a 2003 Nissan Xterra sport utility, was stopped facing east in lane one waiting to turn left into the apartment complex. V2, a 2005 Toyota Prius, hatchback was eastbound negotiating the right curve approaching apartment complex entrance. V2 failed to stop behind V1 and the front of V2 impacted the rear of V1. Both vehicles came to final rest in the roadway. V1 was driven by a 24-year old female who was uninjured. She stated that she was going home from work and waiting to turn left into her apartment complex. She noticed a vehicle approaching in her rear view mirror, but did not have a chance to execute an avoidance maneuver. She was stopped at the time of impact. Her sport utility continued in service after the crash. The Critical Precrash Event for V1 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason was not coded to this driver. No other associated factors were present for this driver. V2 was driven by an 80-year old male who was transported to a local hospital with non-incapacitating injuries. He was unable to be located for an interview by phone or in-person. The investigating officer estimated his travel and impact speeds to be 56kmph (35 mph). His hatchback was towed due to damage. The Critical Precrash Event for V2 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason was coded as a driver related factor, an unknown type of driver error. There are no known associated factors that could be coded for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

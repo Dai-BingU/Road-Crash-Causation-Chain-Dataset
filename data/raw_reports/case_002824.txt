@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of a weekend in lane one of a four lane southbound highway. Lane one was divided from the other lanes by a narrow slightly raised cement median. Lane two was for exiting the main highway. There was a stop sign located on the right curbside for lane one, vehicle one's travel lane. There were no traffic control devices for any of the other lanes. The bituminous roadway was straight and level with a posted speed limit for lane one of 56kmph (35 mph). The traffic flow was normal but the roadway was wet from a rain that was falling at the time of the crash. V1, a 1998 Nissan Maxima, was stopped southbound in lane one at the stop sign just before the crossover between lane one and three other lanes of travel. V2, a 1997 Mercedes-Benz E320, was southbound merging into lane one from the highway. V3, an unknown Van, had just merged into lane one ahead of V1 and V2. As V2 merged into lane one it was struck in the back by V1. After the initial impact V2 was pushed into the back of V3. V1 and V2 both rotated clockwise slightly before coming to final rest near the point of impact. V1 and V2 were towed due to damages while V3 fled the scene shortly after impact. The driver of V1, a 22-year-old male, was uninjured in the crash. He stated that he was southbound in lane when vehicle two suddenly crossed in front of him and slowed down. It may have slowed down because of the van in front it. The driver admitted to looking down at the instrument panel to adjust the radio and when he looked up V2 came out of nowhere. He was not injured. The Critical Precrash Event for V1 was coded other motor vehicle in lane, traveling in the same direction while decelerating. The Critical Reason for V1 was coded as an internal distraction (adjusting radio). Associated factors for this driver include the rain and subsequent wet surface in addition to the internal distraction. The driver of V2, a 45-year-old female, was not injured. She refused to be interviewed and take part in this study. The Critical Precrash Event for V2 was coded other motor vehicle in lane traveling in the same direction with a higher speed. The only known associated factors coded to V2 were the rain and wet surface conditions. V3 fled the scene of the accident and no further information could be obtained regarding it or it's driver. The Critical Precrash Event was coded other: not involved in first harmful event. The Critical Reason was not coded to this vehicle. As with the previous two vehicles the rain and wet roads were coded as associated factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+Vehicle 3:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Merging
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

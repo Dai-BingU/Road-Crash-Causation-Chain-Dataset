@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a high volume, high occupancy, and high-speed interstate highway. There were five lanes running southbound with lane five being a high occupancy lane. There were right and left side paved emergency shoulders and a concrete median wall separating the south and northbound lanes. The condtions were dry and clear on a weekend night. The posted speed was 105 KPH (65 mph). Vehicle 1 was 2004 Mitsubishi Fuso Tow truck that was traveling in lane four on his way to respond to a disabled vehicle that was broken down on the left paved emergency shoulder. He was attempting to change lanes to the left into lane five, which is also the HOV lane. As he changed lanes into lane five he sideswiped V2, a 2007 Mitsubishi Eclipse. V2 was driving southbound in lane five going 105 KPH (65 mph). V2 made contact with his right side making his vehicle lose control and hit the left side concrete wall. Vehicle 1, the tow truck was not towed due to damages. V2 was towed due to damages. Both drivers were not injured and refused treatment. V1, the Mitsubishi Fuso, was driven by a 45-year-old male who actually worked for the highway as a Road ranger. The road ranger responds to disabled vehicles and keeps the highway running smoothly. The driver stated in the interview that he was on his way to respond to a disabled vehicle that was on the left side paved emergency shoulder. He claimed in the interview that V1 was way behind him and as he changed lanes into lane five V1 came out of nowhere and was in front of him. The Critical Pre-crash Event for V1 was “this vehicle traveling over the lane line on the left side of the travel lane”. The Critical Pre-crash Reason was an “external distraction”, looking for the location of the disabled vehicle was distracting the driver to notice that V1 was in his path in lane five. The driver was cited for the crash for improper lane change. There were no associative factors related to the driver. V2, the Mitsubishi Eclipse was driven by a 49-year-old male who was traveling southbound in the HOV lane. He was driving the speed limit when he was hit on the right hand side by V1 causing his vehicle to lose control and hit the left side concrete wall. He tried to steer left but was unable to avoid the crash. The Critical Pre-crash Event for V2 was “other vehicle encroachment, from adjacent lane over the right lane”. The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle, as he was not thought to have contributed to the crash. An associative factor was that the driver has HIV and had Hepatitis and was taking a plethora of medications one of which is called truvada, which can cause nausea. He was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

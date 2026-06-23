@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a four-legged, traffic signal-controlled intersection. The north/south roadway is straight and divided by a curbed median. The speed limit on this roadway is 64 kmph (40 mph). The northbound approach lanes have a 3.3% downhill grade and consist of four through lanes and a left turn lane. The southbound approach lanes have a 2.5% uphill grade and consist of four through lanes and a left turn lane. It was dark with streetlights on at the time of the crash and there were no adverse atmospheric conditions. Vehicle one (V1), a 1992 GMC Jimmy, was northbound in lane five. Vehicle two (V2), a 1988 Cadillac Deville, was southbound in lane two. V1 turned left at the intersection and the front of V2 struck the right side of V1. V1 traveled off the northwest corner of the intersection and the front struck a building. Both vehicles were towed due to damage. The driver of V1, a thirty-nine-year-old male, was not interviewed. No information is available for this driver. The driver of V2, a twenty-six-year-old male, was traveling with a sixteen-year-old male, from a store to his home. He was healthy, well rested and familiar with his vehicle. This was the first time that this driver traveled on this roadway. He stated that he did not realize that V1 was going to turn left until it was too late to attempt to avoid a crash. The critical pre-crash event for V1 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; type of driver error unknown." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from opposite direction - over left lane line." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol present problem 
+Vehicle 2:  Decision, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

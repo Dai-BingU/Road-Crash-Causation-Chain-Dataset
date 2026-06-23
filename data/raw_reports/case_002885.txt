@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred mid-afternoon during daylight hours on a bituminous three-lane roadway. Roadway was dry and slopes 3% in both directions. No adverse weather conditions present at the time of collision. Speed limit for all vehicles was 64 kph (40 mph). Vehicle one (V1), a 1995 Jeep Grand Cherokee, driven by a 20 year-old male was traveling south in lane one. Vehicle two (V2) a 1991 Jeep Cherokee driven by a 18 year-old male was traveling north in lane one. Vehicle three (V3) a 2003 Oldsmobile Alero sedan driven by a 47 year-old female with one passenger was traveling north in lane one. The driver of V1 fell asleep crossing over into lane one and colliding front to left side of V2 in a sideswipe type impact, V1 continued south colliding with the left side of V3. V1 continued in a southeasterly direction off the roadway and rolling right one quarter turn coming to final rest on the passengers side facing north. V2 after impact departed the roadway and came to final rest facing southeast. V2 after impact continued north coming to final rest in the second lane facing northwest. Vehicles V1 and V3 were towed from the scene. V2 was driven from the scene. The pre-event movement for V1 coded going straight, category this vehicle traveling over the lane line on left side of travel lane. Critical reason for the critical event coded driver related factor "sleeping, that is actually asleep". The pre-event movement for V2 coded going straight, category other vehicle encroachment from opposite direction over left lane line. Critical reason not coded to this vehicle. The pre-event movement for V3 coded going straight, category other this vehicle not involved in the first harmful event. Associative factor for V1 driver fatigue due to working excessive hours in hot weather and insufficient sleep pattern.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Drugs present problem 
+Vehicle 2:  Driver Inexperience present problem 
+Vehicle 3:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

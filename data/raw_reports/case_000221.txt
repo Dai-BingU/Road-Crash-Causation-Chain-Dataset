@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred shortly after noon in daylight hours at an intersection without traffic lights. The road is a 3-lane divided concrete roadway from west to east. It is a two lane (two-way traffic) downhill asphalt roadway from west to east. The speed limit for the roadway is 48 kmph (30 mph) The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. Vehicle one (V1), a 2001 Ford Focus sedan driven by a 19 year-old female was traveling west in the first lane of this downhill left curved roadway. Vehicle two (V2), a 2004 Mazda Tribute SUV, driven by a 26 year-old male was leaving an apartment complex, driving north in the first lane of the exit road of the complex, attempting a left turn at the intersection of both roadways. Within the intersection of both roadways, the front of V1 impacted the left side of V2. V1 rotated counter clockwise and came to rest within the intersection, facing northeast. V2 rotated counter clockwise after the impact, and came to rest within the intersection, facing northeast. The vehicle was driven back to the driveway of the apartment complex. V1 was towed from the scene, V2 was driven from the scene. The driver of V1 at the time of the crash she was pregnant in the last trimester, but claimed she was not injured. She was on her lunch break on the way to her residence. She had just started the lunch break and was in no hurry to return to work. She stated she did not see the vehicle coming from her right until it was too late. V 2 pulled out in front of her. The critical pre-crash event for V1 was coded: other vehicle encroachment: from crossing street, across path. The critical reason was not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V2 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). While turning left, he looked to the right to look for vehicles traveling into the same direction he was turning to. He said a tree located in the west corner of the intersection was limiting his line of sight. He simply did not see V1. An associated factor was a possible sight line obstruction (tree) for V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Surveillance present problem 
+Vehicle 2:  Decision, Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

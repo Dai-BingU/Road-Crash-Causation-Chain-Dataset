@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lane of an east/west state highway that was straight and level. It was a two-way, two-lane road that if traveling west then spread to a third center lane that was a left turn only lane for westbound travel. The speed limit was 89kph (55mph) and conditions were daylight and dry in the early afternoon on a weekday. Vehicle #1 was a 1995 Ford Escort station wagon that was traveling west on the road when it came upon traffic stopped in the westbound lane. It began to brake and skid longitudinally into the back of Vehicle #2, a 1990 Buick Century Custom that was already stopped. Vehicle #2 was pushed by the first impact into Vehicle # 3, a 1999 Dodge Ram pickup, which was also stopped. Vehicle #2's front contacted Vehicle #3's rear. Vehicle #1 came to rest facing northwest in the westbound lane. Vehicles #2 and #3 stayed facing west at final rest. Vehicles #1 and #2 were towed from the scene and Vehicle #3 was driven away. Vehicle #1 was driven by a forty one year old, belted male who was uninjured in the crash. The driver stated that he was heading back to the job from lunch and the traffic was moving along pretty good. He glanced to his left to look at a new house going up kind of professional interest, and when he looked forward again everyone was stopped. He got on his brakes pretty hard and tried to swerve away to his left but couldn't steer while he was skidding. He hit V2 pretty hard. The driver was not licensed and was taken into police custody on scene. The Critical Pre-crash Event for Vehicle #1 was other motor vehicle in lane stopped. The Critical Reason for the Critical Precrash Event was an external distraction. The driver stated in the interview that he had looked to his left just before the crash to look at some construction on a nearby house. The driver had several prescription medications with him at the time of his arrest. He also failed to look far enough ahead to see the stopped traffic, which was also coded as a factor. The driver was running late getting back to work from lunch and was unfamiliar with the road he was on. One factor that may have had some bearing on the handling of Vehicle #1 was that the left rear wheel was missing one of four lug nuts. A traffic interruption was also included; traffic was backed up due to vehicles turning into a waste facility that was located ahead off the north side of the road. Vehicle #2 was driven by a thirty eight year old belted male who, although sustaining some possible injuries in the crash, was not transported for treatment. The driver stated that he ws sitting there stopped in traffic and V1 hit him from behind. He was also arrested on scene for driving on a suspended license. The Critical Pre-crash Event for Vehicle #2 was other motor vehicle in lane traveling in same direction with a higher speed. The Critical Reason was not coded to this vehicle. The traffic stopped on the roadway was coded as a traffic flow interruption factor. The driver was also in a hurry to get back to work after lunch. Vehicle #3 was driven by a thirty year old, belted male, who was uninjured in the crash. He stated that he was stopped with everyone else in his lane and heard the crash behind him. Then he got bumped from behind. Vehicle #3 was not involved in the 1st harmful event and the critical reason was not coded to this vehicle. The traffic flow interruption was the only associated factor coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Physical, Driver Stress/Emotion, Drugs, Surveillance, Traffic, Vehicle present problem 
+Vehicle 2:  Driver Stress/Emotion, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

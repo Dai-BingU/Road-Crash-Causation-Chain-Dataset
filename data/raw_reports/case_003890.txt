@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of a five-lane roadway with a traffic control signal. Conditions were daylight with snow and slush on the roadway at 1:06 pm on a Monday afternoon. The roadway had a posted speed of 50 MPH and the northbound lane had a positive 3% grade. V1 was a 1998 Toyota Camry sedan intending on going straight thru the intersection with a green light in the southbound lane. V2 was a 1994 Dodge Intrepid sedan intending on turning left at the same intersection with a green light. V2 was in the northbound lane. As V2 was turning left, the front of V2 struck the left side of V1. V1 continued on and the front right corner struck a guardrail, coming to final rest. V2 came to final rest in the center of the intersection-heading north. A 34-year-old male who was transported drove V1 and was transported to a local hospital with minor injuries. He stated that he was going straight in the southbound lane and he saw the other vehicle turning in front of him. He was unable to take any avoidance actions. V1 continued straight and the front of V1 rested against a guardrail. The driver of V1 was traveling at 50 MPH at the time of impact. V1 was towed due to damage and had a CDC of 10LYEW1. No critical precrash event and no critical reason were coded to the driver of V1. The driver of V1 wears prescription glasses and is near sighted. He felt rested before the crash sequence. A 34-year-old male drove V2 and sustained minor injuries but was not transported. He did not have a license and spoke very little English. His primary language was Spanish. Thru translation he stated that the light was green so he turned left. He saw V1 but thought he was stopped. V2 was traveling less than 5 MPH at the time of impact and final rest was facing in a northwest direction. V2 was towed due to damage and had a CDC of 11FLEN1. The critical precrash event for V2 was this vehicle turning left at the intersection. The critical reason for the critical event was weather related, primarily snow restricting his view. The driver of V2 stated that he was also fatigued from his busy work schedule. He works six days a week, ten hours each day and only gets seven hours of sleep each night. The driver of V2 was thought not to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Decision, Driver Fatigue, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

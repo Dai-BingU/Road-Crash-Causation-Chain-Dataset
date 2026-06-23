@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred on a two-lane divided highway that is under construction. The highway has two northbound lanes and two southbound lanes with a concrete barrier separating both directions. The road is flat, straight and has a posted speed limit of 89 kmph (55 mph). The conditions were clear, dry, daylight and there was light traffic on a weekday afternoon. V1, a 1997 Chevrolet Lumina 4 door with one occupant, was traveling north when its driver had a seizure, drifted left, and struck the concrete barrier with its front bumper. V1 bounced off the barrier and came to rest on the right side shoulder. The driver was treated on the scene and the Lumina had to be towed from the scene because of disabling damage. V1 was driven by a 28-year-old male, which after a brief on-scene dialogue refused to complete the follow-up interview. The driver told me he worked as a nurse and that he cannot recall anything in the previous two hours before crash. Three minutes into the interview, the police officer made me clear the scene. The EMS told the investigating officer the driver suffered a seizure before he crashed into the concrete wall. The Critical Precrash Event for this vehicle was coded: "this vehicle traveling off the edge of the road on the left side" and the Critical Reason for the Critical Event was coded: driver related "physical impairment of the ability to act" due to the seizure he suffered per EMS. Other factors coded to this crash were traffic, roadway related: construction work zone and narrow shoulders.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Roadway, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

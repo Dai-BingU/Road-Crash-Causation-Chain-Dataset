@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at the intersection of two six-lane, divided roadways. All roadways were constructed of concrete and covered in snow. Traffic controls with pedestrian crossings governed the intersection. The southbound road has a speed limit of 56 kph (35 mph). The westbound road has a speed limit of 64 kmph (40 mph). This crash occurred during nighttime hours with snow falling. Vehicle one (V1), a 1996 Chevrolet Tahoe was southbound in the second lane. Vehicle two (V2), a 1997 Chevrolet S-10 Blazer was westbound in the second lane. The front of V1 impacted the right of V2. Both vehicles came to rest in the southwest corner of the intersection. Both vehicles were towed due to damage. The driver of V1, an eighteen-year old male was heading home after spending some time at the mall. This driver had been driving for about twenty minutes at the time of the crash. This driver was taking Nexium as a medication. This driver indicated that while driving he was talking to the passenger. This driver drives this vehicle daily and over this road on a daily basis. The driver of V2, a forty-three year old female was driving home from Karate class. This driver had been driving for about five minutes at the time of the crash. This driver stated that as she approached the intersection the light turned yellow. She braked but slid into the intersection, and then proceeded because she was in the middle of the intersection. The critical pre-crash event for V1 was coded: other vehicle encroachment: from crossing street, across path. The critical reason for the critical pre-crash event was not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling; crossing over [passing through] intersection. The critical reason for the critical pre-crash event for V2 was coded as a driver related factor: false assumption of other's actions. Inattention and slick roads were associative factors for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Roadway, Speed/Distance, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Decision, Distraction, Driver Performance, Roadway, Speed/Distance, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

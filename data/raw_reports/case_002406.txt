@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle collision occurred shortly before noon during daylight hours on a Saturday. The collision occurred at a four-way intersection with two undivided northbound lanes and two southbound lanes. There is also one eastbound and one westbound lane. The roadway was dry, level and made of asphalt. There are no turn lanes present at the tri-light controlled intersection. The signal was working properly at the time of the collision. The north and southbound lanes are designated 56 kmph (35 mph) zones. Vehicle one (V1) is a 1990 Ford Aerostar mini-van, traveling south in the number two lane with the intention of turn left at the intersection. Vehicle two (V2) is a 1999 Ford F-150, traveling north in the number one lane with the intention of going straight. A non-contact vehicle described by the witness as a Ford F-150 was stopped in the number two northbound lane waiting to turn left. As V1 made a left turn to head east, the front of V2 struck the front of V1. V1 rotated 180 degrees counter clockwise and came to rest facing north, north of the impact point in lane one. V2 came to rest near the impact facing northeast. Both vehicles were towed from the scene. The driver of vehicle one is a 30-year-old female with 12 years of driving experience, but no formal driver training. Her father is a truck driver and taught her to drive. The driver was coming from a vocational class that she had just finished in order to obtain a promotion at her current job. She was on her way to her friend's house and wanted to be there by noon. The driver never saw the other vehicle due to a vehicle in the northbound number two lane that was stopped, waiting to make a left turn from the opposite direction to go west. The witness also stated the driver did not stop prior to entering the intersection and the witness did not see the brake lights come on prior to impact. The witness indicated that the driver might have been in a hurry. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver of vehicle two is a 58-year-old male with 40 years of driving experience. He was on his way to the post office with his wife. He saw the truck in the number two lane making a left and did not see V1 making a left turn until it was in front of him. He applied his brakes, but was unable to stop in time. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Stress/Emotion, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

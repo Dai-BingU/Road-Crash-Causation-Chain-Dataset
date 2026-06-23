@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the intersection of two similar roadways, both being two-lane, two-way, non-divided asphalt rural roadways with a posted speed limit of 72 kmph (45 mph). The crash occurred during the daylight hours, and there was no adverse conditions present at the time of the crash. V1 a 1999 Ford Taurus was stopped, facing south waiting for traffic to clear. V2 a 1995 Ford Taurus was traveling westbound in the right curb lane. V1 proceeded through the intersection and came in contact with V2. V1's front hit V2's right front side. V2 was towed due to damage. The driver of V1 a 54 year-old female stated that she did not see V2 until she pulled out onto the road and by then it was to late. The driver also stated that she was talking to her passenger (daughter). The Critical Pre-crash Event coded for V1 is "this vehicle traveling crossing over (passing through) intersection". The Critical Reason for the Critical Pre-crash Event coded for V1 is "failed to look-looked but did not see". The driver of V2 a 40 year-old female stated that she saw V1 stopped at the stop sign. The driver then stated that she also saw at the last second V1 pull out attempting to cross the road. She locked up the brakes and steered to the left to try and avoid the collision but could not. The Critical Pre-crash Event coded for V2 is "other vehicle encroachment from crossing street across path". V2 was not assigned a critical reason
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

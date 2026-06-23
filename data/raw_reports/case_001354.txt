@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west residential road that had two lanes and was a two-way road with no physical divider. The road was straight and level. All of the driveways along this portion of road were on the north side of the road. The posted speed limit was 56kph (35mph). Conditions were overcast in the early evening hours (pre-dusk) with wet roads from rain showers that occurred a little while before. Vehicle #1 was a 2003 Nissan Sentra traveling east on the residential road when Vehicle #2, a 1998 Ford F-150 pickup truck, backed out of a driveway from the north side of the road into the path of Vehicle #1. Vehicle #1 struck the left side of Vehicle #2 near Vehicle #2's rear bumper causing minimal damage to the pickup truck. Vehicle #1 came to rest facing east in its original travel lane within a few meters of impact and was towed from the scene. Vehicle #2 was partially in a driveway on the north side of the road facing northwest when the researcher arrived. Vehicle #2 was driven from the scene. Vehicle #1, was driven by a 22 year-old belted female, whose airbags did not deploy, and who was not injured in the crash. She stated that she was on her way home from a friends' house, when the pickup truck backed out of the driveway on an angle. She didn't have time to to anything but slam on her brakes. The Critical Precrash Event for Vehicle #1 was other vehicle encroachment, from driveway over left lane line. The Critical Reason was not coded to this vehicle. Traveling too fast, did not know caution was required was coded to this driver as she estimated her speed at 40mph on a wet road where the speed limit was lower. She saw Vehicle #2 pull into the driveway and thought he was there to stay so she also falsely assumed that he would not be backing out again. Wet roads and cloud cover were environmental factors coded also. Vehicle #2, was driven by an 18 year-old belted male, whose airbags did not deploy. He was also uninjured in the crash. He stated that he was on his way to a friend's house. He thought he had found the right house, so he pulled into the driveway. He discovered it was the wrong driveway, he needed the one next to it,so he backed out and was going to shoot into the next driveway over since that was the one he needed. He got hit before he really even started forward. The Critical Precrash Event for Vehicle #2 was this vehicle traveling backing out of driveway. The Critical Reason for the Critical Precrash Event was inadequate surveillance, failied to look to side. The driver of Vehicle #2 only drove that roadway on a monthly basis and was an inexperienced driver. The road being wet and cloud cover were also coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Speed/Distance present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Leaving a parking position
+
+ Critical Pre-Crash Event
+ 1 ：Other- Other (specify) :
+ 2 ：Other- Other (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on the eastbound lanes of a one-way roadway with two lanes of travel. The roadway was concrete, straight with a downhill measurement of -2/61, and had a posted speed limit of 64kmph (40mph). It was daylight and cloudy with no adverse conditions. It was during the morning hours of a weekday, and the traffic flow was normal. V1, a 1992 Mercury Grand Marquis four door with two occupants was traveling in lane one. V2, an unknown M/H Tractor-trailer truck was traveling in lane two. V2 attempted to merge into lane one when the right side of V2 sideswiped the left side of V1. V1 came to a final rest after being dragged several feet. V2 fled the scene immediately after the crash. V1 was towed due to damage. The driver of V1, a 68-year-old male, was uninjured in the crash. The 64-year-old female passenger in the right front seat also reported no injuries. He advised that V2 was attempting to merge into his lane when V2 impacted the right side of his vehicle. The Critical Precrash Event for V1 was coded other vehicle encroachment, from adjacent lane (same direction), over left lane line. The Critical Reason was not coded to this vehicle. There were no associated factors coded to this vehicle and the driver was not thought to have contributed to the crash. The driver of V2 could never be identified, as he never stopped after the crash. No subsequent information could be obtained regarding either the vehicle or its driver. The Critical Precrash event for V2 was coded this vehicle traveling, over the lane line on right side of travel lane. The Critical Reason was coded as an unknown driver error. The only known associated factor that could be coded was an illegal maneuver as the driver of V2 crossed a solid double line when it attempted to merge into V1's lane.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

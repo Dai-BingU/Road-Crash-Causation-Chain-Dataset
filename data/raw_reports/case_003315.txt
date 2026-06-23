@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle case occurred in the late afternoon of a weekday on a four-lane divided highway. The north/south highway consists of two lanes in each direction divided by a steel “W” beam guardrail. The bituminous highway was dry, straight, and level with a posted speed limit of 105 kmph (65 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2000 Ford Explorer XLS with two occupants, was northbound in lane two when the vehicle experienced a tire tread separation (right rear). V1 began rotating counter-clockwise as the driver attempted to brake and steer. V1 departed the left side of the roadway and struck a guardrail with its front (event #1). V1 deflected off the guardrail and continued its counterclockwise rotation until it rolled right six quarter-turns (event #2) on the paved shoulder. While rolling over, the right rear corner struck a concrete barrier (event #3) before it came it rest on its roof in lane two. The driver of V1, a 28-year-old female, was returning home this afternoon after picking up her daughter from her parent's house when a tire blew out on her vehicle. She said the SUV began to shake and rattle before she lost control of her vehicle. She also explained that it happened so fast that she was hardly able to react or gain control of the vehicle. Neither her nor her daughter suffered any injuries in the crash but her vehicle had to be towed due to disabling damage. She could not remember the last time her tires were serviced but she thinks her boyfriend put the tires on last fall. The Critical Precrash Event for V1 was coded this vehicle control loss due to tire tread separation. The Critical Reason for the Critical Event was coded as a vehicle related factor tire failure/deficiency. An incorrect evasive action was coded as an associated factor as the steering and braking attempts made by the driver actually made the situation worse.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Blow out/flat tire, (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Tires/wheels failed

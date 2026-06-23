@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred during early afternoon daylight hours at an intersection with on-color traffic control. The roadway was asphalt and dry. posted speed limit for westbound traffic 48 kmph (30 mph) and 40 kmph (25 mph) for the northbound traffic. Vehicle one (V1) a 2001 Ford Ranger Pick up driven by a 24 year-old female was traveling westbound in the number four lane approaching the intersection. Vehicle two (V2) a 2005 Ford Taurus sedan driven by a 29 year-old male with one passenger was traveling northbound in the second lane. The driver of V2 had stopped for the red traffic at the intersection. When the traffic signal changed to green V2 proceeded north until it was struck on the right side by the front of V1. V2 was towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inattention (i.e., daydreaming), thinking about boy friend, and appointment. The critical pre-crash event for V2 was coded as: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle. Additional factors: It is noted that sightline restriction played a small role in this collision. The were vehicles parked alongside the south curb of the southeast corner of the intersection. This greatly hindered the ability of both drivers, especially V2 driver, to see each other. Vehicle 1 could not see approaching traffic until the vehicle was about 25-35 meters from the intersection. The driver could not see on coming traffic until it was about 20 meters (66 feet) from the intersection. Furthermore, V2 driver, who was from out of state on a business trip and traveling on this roadway for the first time, was engaged in a conversation with passenger. The passenger was giving directions to the driver as he was not familiar with the area.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

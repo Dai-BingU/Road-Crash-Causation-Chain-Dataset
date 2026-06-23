@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occured during the afternoon hours of a weekday, at the intersection of two roadways. Both roadways were four lanes and undivided, and the intersection was signal controlled. The posted speed limit was 48 kmph (30 mph). V1 was traveling north in lane one approaching the intersection. V2 was traveling south in lane two approaching the same intersection. V2 initiated a left turn at the intersection, and the front planes of both vehicles made contact in the intersection. V1, a 1992 Buick LeSabre, was driven by a 53 year-old female who stated that she was intending on traveling straight through the intersection. She had the green signal and did not decelerate as she entered the intersection. She further stated that she saw the other vehicle, but assumed that it would yield. The Critical Pre crash Event for this vehicle was coded: "Crossing over (passing through) intersection", and the Critical Reason was not coded to this vehicle. V2, a 1991 Mazda Protege, was driven by a 29 year-old male who refused to be interviewed. This driver was apprehended by police on the scene and was taken into custody. The Critical Pre crash Event for this vehicle was coded: "Turning left at intersection". The Critical Reason was coded "unknown".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Unknown Reason - Unknown reason for critical event

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary V1, a 1990 Chevrolet Suburban, was traveling southbound on a 4-lane, one-way dry asphalt roadway on a level grade. V1 was approaching the intersection and traveling in the third lane of travel. The driver of V1 stated that he thought he had a green light. V2, a 1994 Pontiac Grand Am, was traveling westbound on a 4-lane, one-way dry asphalt roadway on a level grade. V2 was approaching the same intersection traveling in lane two. The driver of V2 stated that she had a green light. The front of V1 contacted the right of V2 before coming to final rest on the roadway. V2 then contacted a sign with its front before coming to final rest off the East road edge. The driver of V1 was a 77-year old male who reported that he had been traveling 50-64 kmph (31-40 mph) prior to the crash. He had had a kidney replacement and was taking a prescription for it. He was rested and traveling to the post office. He was wearing his prescribed lenses that corrected a Myopic (nearsighted) condition. The driver of V1 was cited for disobeying a red signal. He sustained minor injuries and was treated on scene. The Critical Pre-crash Event for V1 was this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Event was coded as decision error, - illegal maneuver, because he did not obey the red light. Inattention may have been a factor in the crash. The driver of V2 was a 26-year old female who reported that she had been traveling 34-48kmph (21-30mph) prior to the crash. She reported that she did not have time to react, so no avoidance maneuver was executed. She had no health related problems and had taken no medication prior to the crash. She was rested and was traveling to work. She does not wear prescription lenses. She was not injured in the crash. The Critical Pre-crash Event for the driver of V2 was other vehicle encroachment from a crossing street, across path. The Critical Reason for the Critical Event was not coded to the driver of V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

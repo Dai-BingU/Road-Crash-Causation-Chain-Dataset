@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This rear-end type crash occurred during rush hour when a passenger car ran off the left side of the roadway into a painted paved gore area where two roadways merge and struck a parked car. Vehicle one (V1) was traveling west in lane four of a four lane interstate highway. Through the location, the roadway curves to the right and is level. The road surface is concrete and was dry at the time with no weather problems during a period of heavy traffic at during the morning rush hour. There were no sight restrictions. The impact occurred in a painted paved gore area where two additional westbound lanes merge with the interstate system. The two merging lanes are located to the north of the four through lanes where V2 was traveling. The gore area where the two roadways merge is concrete. A not-in-transport passenger car, vehicle one (V2), was traveling in lane two of the merging roadway when the vehicle developed engine trouble. The driver pulled into the gore area and stopped. The driver of V1 initiated the hazard warning lights before using a cellular to call for assistance. Vehicle one (V1), a white 1999 Oldsmobile Intrigue 4 door sedan, was traveling west in the fourth lane. There were four occupants in V1. As V1 approached the merge area, the vehicle crossed the painted gore area where the front of V1 struck the rear of the parked vehicle. Both vehicles moved forward before coming to rest. After both vehicles came to rest, a third vehicle sideswiped the right rear quarter panel of V1. The third vehicle is not included in this crash since stabilization had occurred. V2 and V1 were towed from the scene. None of the occupants in either vehicle were transported. The driver of V1 was a 24 year-old- male who is familiar with the vehicle and drives the route daily. He was on his way to work and in the process picked up the three occupants. He was running late during rush hour. Although he claimed to be attentive to the driving task, he was conversing with the occupants as he was looking back over his left shoulder to see when he could change lanes to the left. He drove into the gore area to change lanes and failed to detect the parked vehicle in front of him until too late. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the left side. The critical reason for the critical event was attributed to V1 and was coded a driver related factor: external distraction. This driver inadvertently drove into the gore area to change lanes to the left. He was focused on traffic to the left rear in order to change lanes and failed to detect the parked vehicle in time to avoid the crash. Inadequate surveillance and poor directional control were associative factors. There was no critical pre-crash event assigned to V2 Since V2 was a legally parked not-in-transport vehicle, a critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Stress/Emotion, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction

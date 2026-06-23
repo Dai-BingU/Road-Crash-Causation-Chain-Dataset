@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at during afternoon hours in a four-way, traffic light controlled intersection. The east/west roadway is comprised of two through lanes and a left turn lane in each direction. South of the intersection, the north/south roadway is initially comprised of two undivided lanes, bordered by shared bus and bicycle lanes. Near the intersection, the northbound section splits into three lanes, which include a left-turn lane, a through-lane and a right-turn lane. The southbound roadway prior to the intersection is also comprised of three lanes, which include a left-turn lane, a through-lane and a right-turn lane. It was dusk at the time of the crash and the weather was clear, but the roadways were wet from previous rain. Both roadways are straight, level and of bituminous construction and the posted speed limit for both roadways was 48 kmph (30 mph). Vehicle one (V1), a 2003 Kia Spectra 4-door carrying two occupants. V1 was traveling northbound in the second (through) lane. Vehicle two (V2) was a 2005 GMC Yukon large utility 4-door (V 2) carrying one occupant. V2 was traveling westbound in the second lane. V1 entered the intersection on a red light, and the front of V2 contacted the right side of V1. After impact, V1 rotated clockwise, nearly ninety degrees and came to rest facing eastbound near the north edge of the intersection. V2 rotated slightly clockwise and came to rest against the right side of V1 while facing northwest. The right rear door of V1 was imbedded in the front of V2. Both vehicles were towed due to damage . The occupant of V1 was transported to a local medical facility. The V1 driver, a 43 year-old female who was familiar with the roadway, stated that she had picked up her son from school and was heading home. The driver of V1 also mentioned that she was talking to her child at the time of the crash. According to the police report and the reported witness, the driver of V1 disregarded the traffic signals causing V2 to run into V1. The V2 driver, a 39 year-old male, said that when he exited his vehicle, the driver of V 1 stated that she was just trying to go straight through the intersection and didn't know it was red. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as a driver related factor: Inattention, due to distraction by conversation. Inadequate surveillance and an illegal maneuver were associative factors. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

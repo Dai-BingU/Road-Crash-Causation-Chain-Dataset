@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred shortly past noon on a divided, straight, bituminous, five-lane state highway at a on-colors controlled intersection. The highway runs north and south. Northbound traffic consists of two through lanes, which have a 3.2% uphill grade. The posted speed limit is 64 kmph (40 mph). At the time there were no adverse atmospheric conditions present; however, just to the west, there were several large storm clouds. Vehicle one (V1), a 1993 Chrysler New Yorker sedan driven by a 49 year-old female, was traveling north in lane two. Vehicle two (V2), a 1998 Chrysler Cirrus sedan driven by a 79 year-old female, was traveling north in lane two and was stopped behind traffic that was stopped for the traffic light ahead. Vehicle three (V3), a 2004 Ford Crown Victoria sedan driven by a 30 year-old female, was also north in lane two stopped in front of V2. V1 was unable to stop and its front contacted the rear of V2. V2 was pushed forward and its front contacted the rear of V3. All three vehicles came to rest at impact. V1 was towed from the scene due to damage. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: external distraction. The driver stated that she was looking to the left at storm clouds. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason not coded to this vehicle. V3 was not involved in the first harmful event. The critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Inexperience, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

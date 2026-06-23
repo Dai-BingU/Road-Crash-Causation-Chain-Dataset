@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of a four-lane north/southbound undivided roadway and an east/west roadway divided by a painted gore in the westbound direction. There were three eastbound lanes and two westbound lanes on the west side of the intersection. Eastbound lane three was a left turn-only lane with a protected left turn signal. On the east side of the intersection, there were two eastbound lanes and two westbound lanes divided by a painted gore. The east/west roadway was dry, straight, level, asphalt. Traffic was controlled by over-hanging stop and go traffic control signals without pedestrian control. The posted speed limit was 64kmph/40mph. The crash occurred on a weekday afternoon under clear, sunny skies with moderate traffic flow. V1, a 1993 Honda Accord four-door sedan with one occupant, was traveling westbound in lane two. V2, a 1995 GMC Sierra pickup truck with one occupant, was turning left from eastbound lane three to northbound lane two. After being stopped for the red light V2 start to turn with the protected left turn signal across the path of V1. In the intersection, V1's front left struck the front of V2. Both vehicles came to rest still in contact with each other within about a meter of impact. V1 was facing west and V2 was facing northeast. Both vehicles were towed due to damage. V1, the Honda Accord, was driven by a 39-year old male who was coded for possible injury and transported to a hospital. The driver reported that he was returning to work from lunch and that he was traveling below the speed limit. He admitted that he did not know if he had a green light. He said that he had seen the vehicle ahead of V2 turn left across his path and thought it was okay for him to proceed. Based on a witness statement to police it was determined that V1 had a red light and apparently did not stop for the traffic control device. Police told the researcher the witness had been traveling eastbound behind V2. The traffic control was working properly. The driver added that he did brake without lock-up in an unsuccessful attempt to avoid impact. The Critical Pre-crash Event for V1 was other vehicle encroachment from the opposite direction over the left lane line. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors coded to this driver include an illegal maneuver (failed to stop for traffic control device) and inadequate surveillance - failure to look far enough ahead. V2, the GMC Sierra, was driven by a 68-year old male who was coded for possible injury and transported to a hospital. The driver stated at the scene that he had been stopped more than 10 seconds behind another vehicle at the eastbound red light. He said when the light turned green for the protected left turn he saw the vehicle ahead of him turn and he followed and started to turn left to the northbound lanes. He added that he saw V1 approaching after he had commenced his turn but did not have time to take any evasive actions before being struck. The Critical Pre-crash Event for V2 was this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was inadequate surveillance. Associated factors coded to the driver include the physical conditions of sleep apnea (for which he uses a CPAP machine) and diabetes, for which he takes several prescription medications.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

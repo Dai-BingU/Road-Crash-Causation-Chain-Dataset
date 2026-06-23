@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred mid-afternoon on a two-way, ten-lane, divided freeway divided by a positive barrier and a right curve in the northbound direction of travel. There were five travel lanes in the northbound direction of travel. The road was dry, traveled, level asphalt. The posted speed limit is 96 kmph (60 mph). Traffic was moderate at the time of the collision. There were no adverse weather conditions. Vehicle one (V 1) was a 1998 Ford Explorer driven by a 23 year-old male with one passenger. It was traveling northbound in the first travel lane. A non-contact recreational vehicle attempted to merge from the second lane of travel into the first lane of travel. The driver of V 1 attempted to avoid a collision by accelerating and steering to the right; departing the roadway to the right shoulder. The driver avoided the recreational vehicle and re-entered the original traffic lane. The driver then lost directional control of the vehicle by steering right. V 1 rotated clockwise and rolled onto its left side, completing one full turn. V 1 departed the roadway to the right and came to rest off the roadway, upright and facing southbound. Prior to the collision the driver and passenger were having a conversation and listening to the radio. The driver had left home and they were on their way to college for this trip. They had driven approximately 402-kilometers (250-miles) when the crash occurred. The critical pre-crash event was coded: other vehicle encroachment; from adjacent lane (same direction) over left lane line. Critical reason was coded as a driver related performance factor: overcompensation (accelerating and steering right after returning to the original travel lane).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary Case #2005-45-127 The crash occurred on a north/south four-lane urban roadway with center left turn lane. The road was straight and level and sidewalks were present on both sides of the road. The posted speed limit was 72kph (45mph). Conditions were daylight and cloudy with light rain falling on a weekday afternoon. Vehicle #1 was a 1995 Honda Accord traveling southbound. The driver had a seizure and departed the right side of the road. The vehicle struck the curb on the west side of the road before contacting shrubbery with its front as it went down a steep embankment into a pond. The car came to rest facing west in the pond with the front half of the vehicle partially submerged in the water 79m south of initial roadway departure. A witness climbed down the embankment and pulled the unconscious driver out of the vehicle just as his head became submerged. The vehicle was towed due damage. Vehicle #1 was driven by a 19-year old male that was not belted. The frontal airbags in the vehicle did not deploy. He was transported to an area hospital with minor injuries. He stated that he normally takes a medication to control his epileptic seizures, but had not taken it for 1½ days. The driver said he had been up until 4am the night before drinking large quantities of alcohol. Doctors told him the combination of alcohol and drugs the night before along with not taking his medication caused the seizure. The Critical Precrash Event for Vehicle #1 was this vehicle traveling off edge of the road on the right side. The Critical Reason for the Critical Event was a critical non-performance error, heart attack or other physical impairment of the ability to act. Associated factors included fatigued and ill. It was also raining at the time of the crash. The medical report indicated the driver tested positive for cocaine.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

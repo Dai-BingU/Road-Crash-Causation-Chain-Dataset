@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a four-lane north/south state highway divided by a grass median (two lanes in each direction). South of the crash location, a guardrail divided the roadway; however, the guardrail ended prior to the crash location and the road was divided by a grass median with a concrete drainage ditch. The northbound lanes were curved to the right with a measured radius of 563 meters. There was a negative 5 percent grade in the northbound direction with a superelevation of 6 percent. There was a downhill slope of 17 percent off the left side of the road into the drainage ditch. The speed limit on the highway was 89 kmph/55 mph. The crash occurred in the early morning on a weekend under daylight and dry conditions. Vehicle #1 was a 1986 Mazda B2L small pickup that was traveling north in the left lane on the highway when it went off the left side of the road and into the drainage ditch. The front end of the pickup struck the west bank of the ditch and it came to rest straddling the ditch laterally, facing west. Vehicle #1 was towed from the scene. Vehicle #1 was driven by a 27-year old male who could not remember if he was belted. He was on his way home from work after working third shift and after admittedly having had "one or two beers" before leaving work. He was transported to a local hospital from the scene for treatment of non-incapacitating injuries. The Critical Pre-crash Event for Vehicle #1 was this vehicle traveling off the edge of the road on the left side. The Critical Reason for the Critical Pre-crash Event was that the driver was asleep. The driver was extremely fatigued, not having slept in over 27 hours prior to the crash. Medical records indicated that one hour after the crash, the driver of V1 had a BAC of 0.253. The driver of V1 was taking a prescription antidepressant and reported that he was borderline diabetic.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Fatigue, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

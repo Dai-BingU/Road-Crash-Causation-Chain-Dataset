@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This 2-vehicle crash took place during a mid-morning weekday in an intersection. This intersection was the meeting place for 2 streets. One street was for northbound travel only, with a posted speed limit of 40 kmph (25 mph) and had 1 travel lane, while the other street was for east/west travel with a posted speed limit of 48 kmph. (30 mph.) This east/westbound street had 2 undivided lanes for travel in either direction. Both streets had a shoulder on either side that was used for parking. The weather was clear, the asphalt surface was dry, and the roadways were free of any defect. The northbound street had a slight uphill grade with a rise of less than 2% and the east/westbound street was level. Vehicle 1 (V1), a 1995 Honda Accord driven by a 65-year-old male, was traveling eastbound in lane 1. This driver was present at the crash-scene when the researcher arrived and when asked what happened, he replied that, "I messed-up." (verbatim) When asked to explain how so the driver became angry and refused to participate in the study. Although the police report states that the driver was going straight, the physical evidence supports the statement made by the driver of V2 to the police that V1 was actually attempting to make a left turn onto the northbound street. As V1 entered the intersection, it was struck on its front passenger side by the front left portion of vehicle 2 (V2). The impact pushed V1 in a northwardly direction and at final rest, V1 was sitting in the travel lane of the northbound street with disabling damage to its right front wheel. The Critical Pre-Crash Category and Event coded to V1 was: "This vehicle traveling, turning left at intersection ". The Critical Reason for Critical Pre-Crash Event was coded as: "Driver Related Factor/Unknown recognition error". V2, a 2003 Cadillac Escalade driven by a 21-year-old female, was traveling in lane 1, the only travel lane on the northbound street. When the researcher arrived at the crash-scene, both the driver and passenger had already been taken to a hospital by a medic unit. (There is no mention of this in the police report.) A friend of the driver and occupant was present and explained that the driver of V2 was on her way to work and that she takes this street daily. He stated that she had called him after the crash and asked that he come to the scene to wait with her vehicle until it was towed. According to her friend, the driver explained that she had the green light when V1 pulled out in front of them to make a left turn onto the northbound street. Taking no avoidance actions, upon V2 striking V1, V2 veered into a wooden pole on the northeast corner of the intersection and came to its final rest. The Critical Pre-Crash Category and Event coded to V2 was: "Other vehicle encroachment from crossing street, turning into same direction". The Critical Reason was not coded to this driver. Emergency medical services were dispatched to the scene and the driver and passenger of V2 were transported directly to emergency rooms for evaluation. The driver of V1 claimed not to be injured. Both vehicles were towed from the scene due to disabling damage. Neither driver was cited for any moving violations.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

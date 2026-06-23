@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of two four-lane two-way roadways. There were two north and southbound lanes and two east and west bound lanes. They were both straight asphalt roadways with a negative slope of 1%. The posted speed limit was 89 kmph (55 mph). It was early afternoon and the road was dry and the sky was clear. V1, a 1998 Saturn SL four door with one occupant was traveling northbound in lane two. V2, a 2003 Buick Lesabre four door with one occupant was traveling in lane two of the westbound lanes. Both vehicles had a stop sign (it was a four-way stop). V1 stopped at the stop sign and then proceeded to go. A witness stated that V2 did not stop for the sign. The front of V2 contacted the right of V1 before they both came to final rest in the roadway. V1, the Saturn SL was driven by an 84-year old female who reported minor injuries. She advised that she was on her way home from the salon. She advised that she had stopped 3-4 seconds before proceeding. She stated that she was traveling 2-16 kmph (1-10 mph) at the time of impact. She stated that she did not see V2 coming at her so she did not attempt any avoidance actions. The Critical Precrash Event for the driver of V1 was "this vehicle traveling: crossing over, passing through intersection". The Critical Reason for the Critical Precrash Event was coded “inadequate surveillance, looked but did not see”. V2, the 2003 Buick Lesabre was driven by a 77-year old female who reported no injuries. She advised that she was on her way to her brother's house. She advised that she did not really know what happened, but she thought she stopped at the stop sign. She advised that she thought she was traveling between 18-32 kmph (11-20 mph) prior to the crash. The Critical Precrash Event for the driver of V2 was "other vehicle encroachment from crossing street, across path ". The Critical Reason for the Critical Precrash Event was not coded to this vehicle. An associated factor for the driver of V2 is illegal maneuver did not stop for TCD and unknown medication that she was taking for high blood pressure.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Decision, Driver Inexperience, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

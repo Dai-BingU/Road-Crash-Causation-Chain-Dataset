@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lane of a highway intersection with entrance and exit lanes. The intersection was not an interchange with full control, however. The intersection was signal-controlled in all directions. The roadway had a posted speed limit of 72 kmph (45 mph) in the north and southbound directions. There was a 1% downhill grade for both the north and southbound approaches. Conditions were dark and dry with clear skies. The setting was mid-evening hours on a weekend. Vehicle one was a 1998 Ford Mustang coupe traveling north in lane one preparing to go straight. Vehicle two was a 1999 Nissan Altima sedan traveling south in lane two preparing to turn left. Both vehicles proceeded through the intersection. The front of v1 impacted the front of v2 as v2 turned left into v1's path. Both vehicles came to rest in the intersection. The Ford Mustang (v1) was driven by a 21-year old male who suffered possible injuries, but was not transported to a medical facility. He stated that he was heading to a gas station from his work supervisor's house. When he crossed this intersection, another car turned into his car. He braked with lockup but couldn't avoid the crash. His estimated travel and impact speeds were 51 kmph (32 mph). The Ford coupe was towed due to damage. The Critical Precrash Event for v1 was other vehicle encroachment from the opposite direction over the left lane line. No Critical Reason was coded to this vehicle. This driver wore glasses for a nearsighted condition. He drives this area on a monthly basis. The RF tire on his vehicle had inadequate tread depth. The Nissan Altima (v2) was driven by a 25-year old female who also suffered possible injuries, but was not transported from the scene. She was unable to be located for an interview by either myself or a local Spanish translator. The investigating officer estimated her travel and impact speeds to be 56 kmph (35 mph). The Nissan sedan was not towed due to police-reported damage. The Critical Precrash Event for v2 was this vehicle traveling turning left at an intersection. The Critical Reason was a driver related factor of an unknown recognition error. This driver was unlicensed. No other associated factors could be coded without an interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Unknown recognition error

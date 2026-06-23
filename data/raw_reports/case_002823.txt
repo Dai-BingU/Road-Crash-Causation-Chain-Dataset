@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary Case #2006-41-027 The crash occurred at an intersection. The north/south roadway was a two-way, five-lane undivided roadway. The east/west roadway was also a two-way, five-lane undivided street. The intersection was controlled by a traffic light. These were straight, level, asphalt roads. The posted speed in all directions was 56 kmph (35 mph). Conditions were daylight on a weekend afternoon with dry roads and clear skies. Traffic flow was normal. V1, a 1995 Oldsmobile Aurora with one occupant was traveling southbound in lane two. V2, a 2003 Toyota Matrix with one occupant, was traveling southbound in lane one, staggered beside V1. V3, a 2001 Nissan Maxima with one occupant, was stopped at a traffic light, facing east in lane one. All three vehicles were approaching the same intersection. As V1 and V2 neared the intersection, the right side of V1 made contact with the left side of V2. Both vehicles continued to travel in a southwest direction, toward the southwest corner of the intersection. V2 made contact with V3 before coming to final rest. The front of V1 hit a concrete utility pole. All three vehicles came to final rest within ten meters of each other. V1 and V2 were towed due to damage. V1, the Oldsmobile Aurora, was driven by an 18-year old male, who refused treatment. He stated that he was on his way home from a convenient store. He indicated that he was going to make a left turn at the intersection, but lost control and made contact with V2 in the lane to his right. During the interview, the driver admitted knowing the driver of V2. Apparently they were friends. Many details of the driver's description of the crash events were conflicting. It was determined by the researcher that the two vehicles were racing one another, weaving in and out of traffic, just prior to the crash. The Critical Precrash Event for V1 was "this vehicle traveling, over the lane line on the right side of travel lane". The Critical Reason for the Critical Event was a decision error, aggressive driving behavior. Associated factors for this driver included speeding and driving too fast for conditions. Another associated factor was inexperience. The driver had been driving for less than a year, and was on a learner's permit. He was not complying with the restrictions on his license. There was also the presence of vision impairment. The driver was not wearing his eyeglasses for near-sightedness. V2, the Toyota Matrix, was driven by a 19-year old male, who was not injured. He refused to be interviewed. The Critical Precrash Event for V1 was "other vehicle encroachment, from adjacent lane over the left lane line". The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors included aggressive driving (speeding and weaving in and out of traffic), and driving too fast for conditions. Other associated factors could not be determined. V3, the Nissan Maxima, was driven by a 73-year old male, who was not injured. He could not be located for interview. He was not involved in the first harmful event. No associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Driver Inexperience, Driver Physical, Speed/Distance, Vision present problem 
+Vehicle 2:  Aggressive Behavior, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

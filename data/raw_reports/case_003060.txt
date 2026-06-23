@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the southbound lanes of a divided highway. There was a north/south highway with grass medians intersecting a three-lane east/west roadway at a signal-controlled intersection. The highway had a posted speed limit of 88 kmph (50 mph) and a 1% downhill grade in the southbound direction. Conditions were daylight and dry with clear skies. The setting was midday on a weekday. Vehicle one was a 1999 Chevrolet S10 pickup truck traveling north in lane four preparing to turn left. Vehicle two was a 2005 GMC Yukon sport utility traveling southbound in lane two. Vehicle three was a 1999 Dodge Ram pickup stopped facing east in lane one waiting to turn right. V1 proceeded to turn left as v2 continued straight through the intersection. The front V1 impacted the left plane of V2. V2 then rolled right one full turn, impacting the front of V3 with its rear plane during the rollover. V1 came to rest in the intersection. V2 came to rest on its wheels in lane one just south of the intersection. V3 came to rest at impact in lane one. The Chevrolet S10 (V1) was driven by a 79-year old male who was uninjured. He stated that he was heading home from the store and was turning left at an intersection. He was hit by another vehicle without warning, and did not have a chance to react. His estimated travel and impact speeds were 32 kmph (20 mph). The Chevrolet pickup was towed due to damage. The Critical Precrash Event for V1 was this vehicle traveling turning left at an intersection. The Critical Reason was a driver related factor of inadequate surveillance. This driver was taking prescription medications for high cholesterol and stomach tension. He wore glasses for a nearsighted condition. He was retired. The GMC Yukon (V2) was driven by a 27-year old female who was transported to a local trauma center with possible injuries. She stated that she was heading back to work from lunch when she was unexpectedly struck in the left door, causing her to rollover several times. She never saw the other vehicle and hence didn't have a chance to act in avoidance. Her estimated travel and impact speeds were 72 kmph (45 mph). The GMC sport utility was towed due to damage. The Critical Precrash Event for V2 was other vehicle encroachment from the opposite direction over the left lane line. No Critical Reason was coded to this vehicle. No other associated factors were present for this driver. The Dodge Ram (V3) was driven by a 47-year old male who was uninjured. He stated that he was heading to lunch with his wife from a jobsite when he witnessed a crash occur in front of him. One of the vehicles tumbled into his front grill. He was stopped waiting to turn at the time. The Dodge pickup continued in service from the crash. No Critical Precrash Event or Reason were coded to V3 since it was not involved in the first harmful event. The driver was wearing sunglasses.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

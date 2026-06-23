@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a four-way intersection. There were four lanes running southbound with lane three and four being a left turn only lane. There was one lane running northbound. The north/southbound lanes were controlled by a traffic light. The conditions were dry and clear on a weekday afternoon. The posted speed was 56 Kmph (35 mph). The roadway where the crash occurred was straight and level. Vehicle 1 was a 2003 Ford Focus that was driven by a 32-year-old female. She had just stopped for gas at the gas station located on the northwest corner. She stated in the interview that traffic was stopped and backed up in lanes one and she needed to pull out to get into the left turn only lane (lane four southbound). As she pulled out into the roadway she was hit on the left side drivers door by V2, a 1993 Toyota Camry that was traveling southbound in lane three. The driver was a 59-year-old male who was working at the time. He stated in his interview that he didn't even see V1 pull out, only when it was too late and she was right in his lane. V2 had moderate front-end damage and V1 was impacted in the driver's side door. Both vehicles came to final rest in lane four and V1 partially in the northbound lane. V1 the Ford Focus had just gotten gas and was trying to pull out of the gas station. There was traffic stopped at the red light and she was trying to pull out across the lanes to make a left turn. She pulled out and got hit in the left side door. She claimed she did not even see V2 as traffic in lane one was blocking her view. She doesn't even know what lane V2 was in. She had no time to avoid the crash. She was not injured but her vehicle was towed due to damages. She was cited for the crash for failure to yield right of way. The Critical Pre-crash Event for V1 was “this vehicle traveling, turning right at the intersection”. The Critical Reason was a driver related factor “inadequate surveillance, looked but did not see”. An associative factor to this driver was noted by the other driver, that the driver of V1 was on her cell phone when she exited her vehicle. She was also on depression medicine, Zoloft, which has dizziness as a side effect. V2, the Toyota Camry was driven by a 59-year-old male who worked as a traveling salesman. The driver was not able to avoid the crash. He was transported to a local hospital with injuries. His vehicle was towed due to damages. He had just gone around the block because he had just gotten gas and couldn't make a turn onto the road he needed to be on. He was driving in lane three approaching the intersection to make the left turn. He was driving in lane three going 32 kph (30 mph) when V1 just pulled in front of him. He hit her on the left side of the driver's side door. He honestly doesn't even know where she came from. The Critical Pre-crash Event for V2 was “other vehicle encroachment, from driveway turning into same direction”. The Critical Reason was not coded to this vehicle. There were no associative factors related to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Inexperience, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

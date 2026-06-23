@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a three-legged intersection. The north/south roadway is undivided, level and straight and consists of one lane in each direction. The speed limit on this roadway is 89 kmph (55 mph). The intersecting roadway is on the west side of the north/south roadway. This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2006 Dodge Ram pickup, was northbound in lane one. Vehicle two (V2), a 2002 Kubota tractor with a front-end loader, was in front of V1, making a left turn in the intersection. V2 is a construction vehicle with flashing amber caution lights on and a slow-moving vehicle sign on the back. V2 is not equipped with rearview mirrors. V1 moved into the southbound lane to pass V2. The front of V1 struck the left side of V2. Both vehicles were towed due to damage. The driver of V1, a twenty-nine-year-old male, was on his way to work from his home. He was healthy, well rested and familiar with his vehicle. He travels this route daily. This driver stated that he did not realize that V2 was turning left. The driver of V2, a twenty-year-old male, was on his way from a job site to his workplace. He was healthy, well rested and familiar with his vehicle. He travels this route daily. This driver stated that he signaled his left turn with his arm since his vehicle is not equipped with turn signals. He also stated that he did not see V1 prior to the crash. The critical pre-crash event for V1 was coded as "this vehicle traveling; over the lane line on right side of travel lane." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; false assumption of other's actions." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from adjacent lane (same direction) - over left lane line." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle." V2's lack of rearview mirrors and turn signals was an associated factor in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+Vehicle 2:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

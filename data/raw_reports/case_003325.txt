@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a 4 lane undivided roadway slightly curving to the left prior to the crash site. The posted speed limit is 48 KMPH (30MPH) with no grade. The weather was clear and the roadway was dry. The crash occurred on a weekday evening. Vehicle 2, a 1999 Mercury Mystique, was traveling north on the four lane undivided roadway when it stopped to allow several southbound vehicle to pass before proceeding to make an intended left turn into a retail establishment's driveway. Vehicle 1, a 2003 Dodge Neon, was traveling in the same direction behind Vehicle 2. Vehicle 1 impacted the rear of Vehicle 2 with its front. Both vehicles came to rest in the roadway facing north. The Dodge Neon (Vehicle 1) was driven by a belted 18 year old female who was transported to an area hospital, treated and released. She stated she didn't know what went wrong as she didn't realize the vehicle in front of her had stopped. This driver stated she was not in a hurry, does not have any medical conditions and does not take any medication. This Vehicle was towed from the scene due to damage. The Critical Precrash Event coded to Vehicle 1 was Other Motor Vehicle in Lane, Other Vehicle Stopped. The Critical reason for the Critical Precrash Event was coded as Driver Related Factor, Recognition Error, Inadequate Surveillance. It should be noted here that this driver has had only two years driving experience. The Mercury Mystique, (Vehicle 2) was driven by a belted 23 year old female who was not injured. This driver stated she was stopped in her lane for 1 or 2 seconds waiting for oncoming traffic to pass before proceeding to make a left turn. She also stated she did not see Vehicle 1 approaching her as she was watching traffic ahead of her. This vehicle was driven from the scene. The Critical Precrash Event coded to this vehicle was Other Motor Vehicle in Lane Traveling in the Same Direction with Higher Speed. No Critical Reason for the Critical Precrash Event was coded to this vehicle. The police did not consider illegal drugs or alcohol to be involved and did not order tests for either driver. No citations were issued in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

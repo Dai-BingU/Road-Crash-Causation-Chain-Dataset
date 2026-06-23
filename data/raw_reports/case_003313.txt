@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred early evening on a straight 5 lane undivided level bituminous two way roadway, with a common turn lane in the middle. The road was wet and it was raining. Posted speed limit 64 kmph (40 mph). Vehicle one (V1) was a 1996 Ford 4-door Taurus sedan driven by a 89 year-old male with one passenger. Vehicle two (V2) was a 1999 Nissan Maxima sedan driven by a 53 year-old female. V1 was traveling west in the turn lane with intention of turning left into a driveway of a local restaurant. V1 had been sitting in the turn lane about 1 minute due to heavy rush hour traffic and a light rain. A non-contact vehicle heading east in the second lane stopped and waved the driver of V1 on to turn left. The driver of V1 turned left without looking for any oncoming traffic. As V1 turned left into the driveway it was struck on the right front by the front of V2. V1 was pushed to the southeast corner of the driveway, facing south to final rest. V2 was traveling east in the first lane of the 5 lane undivided roadway. At the time of the crash the traffic was heavy going both east and west. V2 braked and left skid marks about 9 meters (30 feet) leading up to impact. V2 came to final rest facing southeast in the entrance of the driveway blocking the right lane. Both vehicles were towed from the scene. The following factors contributed to this crash. V1 was stopped in the center turn lane waiting to turn left into the driveway during heavy rush hour traffic and light rain. V1 was waved through by another vehicle in the second lane. The driver of V1 proceeded to turn left with out looking to the right for any other oncoming traffic. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Drugs, Roadway, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Driver Inexperience, Drugs, Roadway, Surveillance, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the middle of a four-way intersection, two northbound, two southbound lanes with east/ west turning lanes, and one lane each for westbound and eastbound travel. There was a wide slightly raised median with grass on top dividing the north and southbound lanes. Double lines divided the east/ westbound lanes. Signalized traffic control devices control all directions of the intersection. The asphalt roadways were dry and level. The posted speed limit for both V1 & V2 was 56 kmph (35 mph). There's no curbside parking for any direction of the roadway. The crash occurred on a weekday during the early afternoon daylight hours. The roadway was free of any defects and the weather was clear. The traffic flow was heavy/normal for this roadway. Vehicle one, a 2006 Chevrolet Cobalt, was traveling southbound in lane two on the six lane three north/ three south roadway when it contacted, with its front, the right side of vehicle two, 1998 Toyota Corolla, traveling northbound in lane three intending to make a left turn on the same roadway from the opposite direction across V1's path. After the initial contact V2 continued to travel yawing while rotating counter-clockwise. Vehicle one jumped the curb and struck, with its back, a fence located on the southwest curb where it came to final rest facing northward. Vehicle one, after the initial impact, rotated slightly clockwise where it came to final rest facing southward. Both vehicles sustained disabling damages and were towed from the scene. The driver of vehicle two, a 80-year-old female, said he was traveling northbound at approximately 24 kmph (15 mph). While approaching the intersection she entered the left turning lane and came to a complete stop. She observed vehicle one coming from the opposite direction, however, she decided to continue making her turn figuring V1 would allow her to continue. She said, however, vehicle one seemed to, at this point, go faster/ accelerate so I panicked, she said, and hit my brakes and that's when V1 struck my vehicle one on the right side. She was transported by EMS to the hospital with minor injuries. The driver of vehicle one, a 37-year old male, couldn't be reached for an interview. He was also transported by EMS directly from the scene to the hospital with minor injuries. The police on scene reported the driver said he was traveling approximately 40 kmph (25 mph) and the lady cut in front of him and he had no time to react. The 'Critical Pre-Crash Event' coded to V2 was: this vehicle turning left at the intersection. The 'Critical Reason' for V2 was: a decision error: false assumption of other's actions. Associated factors for the driver of V2 included: misjudgment of gap distance to other vehicle or speed of other vehicle since she misjudged the velocity of the other vehicle. A performance errorwas also assigned since she panicked and slammed on her brakes. The 'Critical Pre-Crash Event" coded to V1 was: other motor vehicle encroachment from opposite direction - over the left lane line. The 'Critical Reason' was not coded to this vehicle. There were no associated factors coded for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

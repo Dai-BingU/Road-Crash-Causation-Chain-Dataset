@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a four-legged, traffic signal-controlled intersection. The eastbound approach roadway is straight, level, undivided and consists of one lane in each direction and a left turn lane. The speed limit for this roadway is 72 kmph (45 mph). The northbound approach roadway is straight, level, undivided and consists of one lane in each direction. The speed limit for this roadway is 40 kmph (25 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2006 Hyundai Santa Fe, was eastbound in lane one. Vehicle two (V2), a 1999 Ford Escort, was stopped northbound in lane one. V2 entered the intersection and the left side was struck by the front of V1. V1 continued to the northwest and struck a small post. V2 was towed due to damage. The driver of V1, a sixty-three-year-old female, was on her way home from doing volunteer work at a surgical center. She was well rested, healthy and familiar with her vehicle. She travels this route daily. This driver stated that she was following a large truck through the intersection and did not notice that the signal was red. She also stated that she was "inattentive." This driver steered left just prior to the crash. The driver of V2, a twenty-seven-year-old female, was a postal worker traveling between mail deliveries. She was healthy, well rested and familiar with her vehicle. This driver stated that she waited until the truck had passed through the intersection before proceeding. She also stated that she did not see V1 prior to the crash. The critical pre-crash event for V1 was coded as "other vehicle encroachment; from crossing street, across path." The critical reason for the critical pre-crash event for V1 was "not coded to this vehicle." This driver's inattention was an associated factor in this crash. The critical pre-crash event for V2 was coded as "this vehicle traveling; crossing over (passing through) intersection." The critical reason for the critical pre-crash event for V2 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

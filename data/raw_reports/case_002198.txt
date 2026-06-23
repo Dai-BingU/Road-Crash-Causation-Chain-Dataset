@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane one of a 5-lane, two-way roadway. There were two eastbound and two westbound lanes with a left turn lane in between. There were no control signals at the crash area the posted speed 64 KMPH (40 MPH); the roadway was of level grade and it was dark but lighted. Vehicle 2 was a 1991 Buick Century that was traveling eastbound in lane one; V2 was slowing and had its right turn signal activated and was intending to enter a store parking lot. As the driver slowed and looked right to observe the other vehicles in parking lot, V2 was struck in the back by the front of V1. V1, a 1998 Buick LeSabre, was traveling in lane 2 and was in the process of changing lanes into lane 1 not realizing that V2 was slowing to turn. Vehicle 2 was driven by a 27- year old female who was transported to a local trauma center with minor injuries. She stated she had just picked up dinner for the family and was stopping at a store for additional items. She states she had her right turn signal on for 5-10 seconds before the crash. The vehicle was towed due to damage. The Critical Pre-crash Event for V2 was other vehicle in lane traveling in the same direction at a higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. An associative factor for V2 was the driver was talking to the right front passenger while slowing and executing a right turn. Vehicle 1 was driven by a 34- year old male. He states he was on his way home from work and was going to pick up dinner. He stated he wanted to change lanes and looked over his right shoulder to check for clearance and then executed the lane change. He then noticed that V2 was stopped and he could not avoid hitting V2. The driver was not injured and the vehicle was driven from the scene. The Critical Pre-crash Event for V1 was other vehicle in lane traveling at a slower speed and turning right. The Critical Reason for the Critical Event was coded as a recognition error - inadequate surveillance - looked, but did not see, failed to look. Associative factors for this vehicle include the driver assumed that the other vehicle would continue to proceed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Turning right
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

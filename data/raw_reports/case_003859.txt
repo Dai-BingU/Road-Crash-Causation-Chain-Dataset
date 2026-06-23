@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred during the morning hours of a weekday, on a four lane undivided roadway. The east/west roadway consisted of two lanes in each direction with a posted speed limit of 56kmph (35 mph). The bituminous roadway was level and featured an S-type curve. The traffic flow was normal, but the roadway was wet at the time of the crash. V1, a 2004 Toyota Sienna, was eastbound in lane two negotiating the curve. V2, an unknown light truck, was also eastbound in lane two, just ahead of V1. As V1 continued negotiating the curve, its front struck the rear of V2. V1 came to final rest near the point of impact while V2 fled the scene. V1 was driven by an unknown person who was treated for minor injuries on scene. All attempts to locate this driver for interview were met with negative results. The Critical Precrash Event for V1 was coded other vehicle in lane, traveling in same direction while decelerating. The Critical Reason was coded as unknown. The only associated factor that could be coded was the wet roads. V2 was driven by an unknown person who departed the scene prior to police or EMS arrival. The Critical Precrash Event for V2 was coded other vehicle in lane, traveling in same direction with higher speed. A critical reason was not coded to this vehicle. The only associated factor that could be coded was the wet roads.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Unknown Reason - Unknown reason for critical event
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

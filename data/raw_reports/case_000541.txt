@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the morning of a weekday in the eastbound lanes of an urban roadway near a T-intersection. The east/west roadway consisted of two through lanes flanked by a designated right turn lane and a designated left turn lane in the eastbound direction and two through lanes in the westbound direction. The bituminous roadway was dry, straight, and level, with a posted speed of 72 kmph (45 mph). Traffic was congested, but flowing and there were no adverse atmospheric conditions at the time of the crash. V1, a 1978 Chevrolet Corvette two-door with one occupant was eastbound in lane three. V2, a 1990 Buick Regal two-door with one occupant was stopped eastbound in lane three ahead of V1 waiting for the light at the intersection ahead of him to turn green and traffic to proceed. As light turned green and V2 began to accelerate V1 struck V2's rear. A witness stated that the driver of V1 was traveling between 82-97 kmph (51-60 mph) when he made the avoidance action of steering right but could not avoid V2. Both vehicles rolled forward and came to final rest near the point of impact. Both vehicles were towed due to damage. The driver of V1, an unknown aged male, fled the scene shortly after maneuvering the vehicle off the road. No further information could be obtained regarding the driver as the owner of the vehicle told the police it had been taken without him knowing. The Critical Precrash Event for V1 was coded other motor vehicle in lane, traveling in same direction with lower speed. The Critical Reason for the Critical Precrash Event was coded as an unknown driver error. The only known associated factor coded to this driver was traveling too fast for conditions based on statements made by the witness. The driver of V2, a 58-year old female reported no injuries as a result of the crash. She advised that she had just finished working out and was on her way to work. She stated that she was stopped at the stoplight until it turned green and she slowly began accelerating when she was hit from behind. She was not able to make any avoidance actions because she did not see V1 prior to the crash. The Critical Precrash Event for V2 was coded other motor vehicle in lane traveling in the same direction with higher speed. The Critical Reason was not coded to this vehicle. There were no associated factors coded to V2 and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

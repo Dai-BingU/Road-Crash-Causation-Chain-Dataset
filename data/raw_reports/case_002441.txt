@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a two-way roadway that was divided by a raised curb median with two lanes in each direction. The roadway was straight and level and had a posted speed of 48 kmph (30 mph). The weather was clear with no adverse conditions. It was the evening hours of a weekday and it was dark out but the roadway was lighted. The crash occurred at a signalized intersection with an east/west roadway. Vehicle #1 was a 2001 Mitsubishi Mirage that was traveling southbound in the right lane. Vehicle #2 was a 1995 Ford Probe that was traveling northbound in the left lane and attempting to make a left turn. At the intersection, the front of Vehicle #1 impacted the right front side of Vehicle #2, and then Vehicle #2 impacted a chain-link fence that was located on the southwest corner of the intersection. The Mitsubishi Mirage (Vehicle #1) was driven by a 40-year old female who was transported to a local medical facility with incapacitating injuries. A 21-year old female sustained minor injuries and a 12-year old male in her vehicle sustained non-incapacitating injuries and were both transported to a local medical facility. Vehicle #1 was going straight through the intersection when Vehicle #2 turned in front of it. The Mirage was towed due to damage. The Critical Pre-crash event for Vehicle #1 was coded as: Other vehicle encroachment, from opposite direction over the left lane line. The Critical Reason for the Critical event was not coded to this driver because she was not thought to have contributed to the crash. A sightline restriction was coded because it was believed that a non-contact vehicle obstructed the driver's view of Vehicle #2. All other associated factors for the driver were coded as unknown due to a lack of an interview. The Ford Probe (Vehicle #2) was driven by a 20-year old male who did not sustain any injuries. The driver stated that he was making a left turn at the intersection and that his sightline was restricted by an on-coming vehicle (sport utility vehicle) when he was impacted on the right front side by Vehicle #1. The Probe was towed due to damage. The Critical Pre-crash event for Vehicle #2 was coded as: This vehicle traveling, turning left at intersection. The Critical Reason for the Critical event was coded as a Driver Related Factor: inadequate surveillance (looked but did not see). The associated factors coded were a decision error: crossed with obstructed view, and work stress, as he had an adversarial work relationship with his manager. A sightline restriction was also coded due to a larger vehicle attempting to make a left turn from the opposite direction, obstructing his view of Vehicle #1. The driver was not coded to be fatigued even though he had only slept five hours in the last 24 hours because that was his normal sleep pattern and his sleep and work patterns did not rotate or change.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway present problem 
+Vehicle 2:  Decision, Driver Stress/Emotion, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

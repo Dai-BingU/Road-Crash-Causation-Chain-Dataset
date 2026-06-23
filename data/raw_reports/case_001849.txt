@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a 6-lane roadway - 2 lanes west and 2 lanes east - with a center left turn lane and a right turn lane on the eastbound side. The crash occurred in the westbound lanes. It was in the evening during daylight hours. The road had a -2/122 slope and the roadway was dry. The speed was posted at 72 Kmph (45mph). The driver of V1 was stopped in the left hand turn lane waiting to make a left turn. There was construction .5 miles to the west in the intersection the traffic was backed up to the east in lane two of the westbound side. A non-contact vehicle stopped to let V1 make its turn. As V1 made its turn it did not note that V2 was approaching in lane 1 of the westbound roadway. V1's front right then made contact with the front left of V2. V1 slid counter clockwise to the curb on the north side of the road to final rest, and V2 traveled off into the drive entrance on the north side of the road to final rest. V2 was towed from the scene due to damage. V1 a 2000 Chevy S-10 pick up was driven by a 51 year old male who reported he had been sitting stopped in the left turn lane for about 4 minutes waiting to make a left turn when a vehicle in the westbound lane had stopped to let him make his turn. He also stated he didn't stop to check traffic coming in lane one of the westbound traffic because of the construction. He stated that he was not traveling fast because he was entering a restaurant driveway. The driver of vehicle 1 has no related health problems but does wear prescription glasses that correct a myopic - near sightedness - condition. This driver was wearing his lap & shoulder belt at the time of the crash he stated that his nose was swollen and his right hand sore but did not want EMS treatment. The Critical Precrash Event for V1 was coded as left turn at intersection. The Critical Reason for The Critical Event was coded as inadequate surveillance (e.g., failed to look, looked but did not see). An associated factor was the driver was wearing glasses for near sighted- myopic and had been sitting in the turn lane for about 4 minutes. Due to the long wait time the driver may have gotten impatient. Additionally, the driver was focused partly on the restaurant he intended to dine at. That may have become an exterior factor contributing to this crash. The traffic patterns were askew as well due to construction taking place shortly west of the crash site. V2, a 2000 Dodge Intrepid, was driven by a 41-year-old female who reported she was on her way to pick up something to eat. She stated that she was in the curb lane and had not moved into lane 2 because the restaurant she was going to was only a few hundred feet past were the crash occurred. She also stated that she honked the horn and was braking and steering right to avoid the crash. She stated her health is good but does have diabetes and takes insulin to correct this condition. She also wears prescription glasses to correct near sightedness. She was wearing her lap & shoulder belt and was not injured in the crash. The Critical Precrash Event for V2 was coded other vehicle encroachment - from opposite direction - over left lane line. The Critical Reason for the Pre-crash Event was not attributed to this vehicle. Two factors present were the driver's corrected vision and diabetes condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Drugs, Roadway, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

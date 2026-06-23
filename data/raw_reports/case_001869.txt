@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a two-lane, two-way, wet asphalt roadway during dusk hours with a posted speed limit of 40 kmph (25 mph). At the time of the crash the road was wet, because it had been raining most of the day preceding the crash, but at the time of the crash it was not raining. V1 a four door 1995 Nissan Maxima was traveling northbound in the right lane and was going to continue traveling straight through the intersection when V2, a 2006 Chevrolet Impala, which was headed northbound decelerated and began to turn left. The driver of V1 tried to avoid the collision by applying braking pressure, and steering to the left. When V1 steered to the left to avoid the crash, V2 attempted to make a U-turn the front of V1 contacted the left side of V2. After the crash the two vehicles came to rest in the southbound lane of the roadway, north of the intersection. The 21-year-old male driver of V1 was taking a drive around the beach with a friend before he was to meet his parents for dinner. He stated that he was going straight when V2 made a U-turn, and he was unable to avoid the crash. The Critical Precrash Event was coded “other vehicle encroachment, from adjacent lane - over the right lane line”. The Critical Reason for the Critical Precrash Event was coded “too fast to be able to respond to unexpected actions of others”. Possible associated factors for this vehicle in this crash are the driver and passenger conversing, and this vehicle traveling too fast to respond to other road users actions. V2 was driven by a 61 year-old female and she had three elderly occupants who were all related and were heading to another sisters home where they were going to meet for dinner. The driver stated that she didn't know which road she had to turn at, but after they passed the last road she realized that they had gone to far and had to turn around. The Critical Precrash Event was coded “other - making a U-turn”. No Critical Reason was coded to this vehicle. Associated factors coded for this vehicle are, drivers inattention due to conversing with passengers, and looking for turn destination, drivers limited experience with the vehicle and the roadway, and inadequate surveillance when turning she failed to look to the rear.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 2 ：Other- Other (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

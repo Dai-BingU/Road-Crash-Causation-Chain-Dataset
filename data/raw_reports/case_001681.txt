@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during daylight hours on a north/south, undivided two-lane roadway in front of a school. At the south end of this roadway is an intersection that is comprised of an east/west two-lane road that comes from the east and tees with the intersection. There is also a northwest/southeast two-lane road. The road surface was level, dry asphalt. The posted speed limit on the north/south road was 32 kmph (20 mph) in the school zone. Vehicle one, (V 1) a 1991 Mercedes Benz 300E sedan driven by a 46 year-old female with one passenger, was traveling northbound in the first lane. An unoccupied full-size school bus was parked in front of the school on the right (east) side of the road. V 1 entered the parking lane and the front of the V 1 collided with the rear of the school bus. V 1 came to rest with the majority of its front end underneath the rear of the bus. V 1 was towed due to damage and both the driver and passenger were transported to a local medical facility with non-incapacitating injuries. The pre-event movement for V 1 coded going straight, category this vehicle traveling over the lane line on the right side of travel lane. Critical reason driver related factor "inattention", at the hospital this driver indicated that she was having an argument with her husband and was upset.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)

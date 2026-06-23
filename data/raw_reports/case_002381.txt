@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash took place on a two lane undivided roadway near a T-intersection. Conditions were daylight and dry with clear skies shortly after noon on a weekend. The roadway had a posted speed limit of 56 kmph (35 mph). V1, a 1997 Chevrolet 300 conversion van, was traveling east on the roadway. V2, a 1999 Infinity QX sport utility vehicle, was traveling west on the same roadway. The vehicle traveling directly in front of V1 slowed quickly and to avoid making contact, the driver of V1 steered left, made a lane departure to the left, and this vehicle's right front made contact to the front right of V2. The critical pre-crash event for V1 was when it traveled over the lane line on the left side of the travel lane. The critical reason for the critical pre-crash event was coded as an incorrect evasive action. One associated factor coded to the driver of V1 was inattention. He reported that he had been thinking about some concerns immediately before the crash. V1 was driven by a 60 year-old male who was not injured. V1 was towed due to damage. The critical pre-crash event for the driver of V2 was when another vehicle encroached into her lane from the opposite direction-over the left lane line. The critical reason was not coded to the driver of V2 and no associated factors were coded to her. V2 was driven by a 42 year-old female who was not injured. V2 was also towed due to damage.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

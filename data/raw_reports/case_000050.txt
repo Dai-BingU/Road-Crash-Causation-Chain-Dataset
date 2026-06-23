@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at a four-legged intersection in the southbound lanes. This was a very high-volume traffic area, with as many as thirteen total lanes on one leg of the intersection. The roadway had a posted speed limit of 72 kmph (45 mph) and a 3% uphill grade in the northbound direction. The southbound direction was sloped downwards at 4%. There was a slight left curve in the southbound approach. Conditions were daylight and dry with cloudy skies. The setting was morning hours on a weekday. Vehicle one was a 1997 Ford Expedition sport utility stopped facing north in lane six, a left turn lane. Vehicle two was a 2002 Nissan Frontier pickup traveling south in lane two. Both vehicles proceeded through the intersection. The front of v1 impacted the left of V2. V1 drove to a safe parking position off the southwest corner of the intersection on a small side street. V2 rolled over to the right one full turn from the point of impact, coming to rest on its wheels facing southwest on a curbed, grass median. The Ford Expedition (V1) was driven by a 23-year old male who was uninjured. He stated that he was heading to work from home and turning left at an intersection when the collision occurred. There was no chance for a reaction. He estimated his travel and impact speeds to be 8 kmph (5 mph). The Ford sport utility continued in service. The Critical Precrash Event for V1 was this vehicle traveling turning left at an intersection. The Critical Reason was a driver-related factor of inadequate surveillance. The tread depth and tire pressure for V1 was slightly below safe levels. This driver was borrowing the vehicle from a relative, and had only driven it four times prior to this trip. The Nissan Frontier (V2) was driven by a 31-year old male who suffered possible injuries but was not transported. He stated that he was going to get some coffee when V1 turned into him from the oncoming direction. He didn't have a chance to react. His estimated travel and impact speeds were 40 kmph (25 mph). The Nissan pickup was towed due to damage. The Critical Precrash Event for V2 was other vehicle encroachment from opposite direction over left lane line. No Critical Reason was coded to this driver. The driver wore glasses for a nearsighted condition. He drives this roadway on a monthly basis.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

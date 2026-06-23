@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a weekday afternoon on a two-way, two-lane rural bituminous road. The level road had an unposted speed limit of 89kmh (55mph). The conditions at the time of the crash were daylight, cloudy and dry. V1, a 1997 Mercury Tracer, driven by a 24 year-old male, was traveling eastbound on the road in a right hand curve. The driver, who was on his way home from work dozed off while driving and crossed the centerline. The front of V1 struck the front of V2 in the westbound lane. The front airbags deployed and V1 was towed from the scene due to damage. The fully restrained driver was transported from the scene to a local trauma center due to injuries. The Critical Precrash Event coded to the driver of v1 was 'this vehicle traveling over the lane line on the left side of travel lane.' The Critical Reason for the Critical Event coded was 'driver related factor-sleeping.' Contributing Factors coded were 'work-related stress' for this driver who stated he has a history of panic attacks and experiences high anxiety, and was thinking about a pending unrealistic delivery schedule. The driver stated he either dozed off or was 'dazed out'. The driver's prescribed anti-anxiety medication has possible side effects of sleeplessness, drowsiness, tiredness, and nervousness. V2, a 1996 Jeep Cherokee Sport, driven by an 88 year-old male, was going straight traveling westbound just entering the left hand curve when struck by V1. The driver of V2 did not see V1 until just prior to impact due to a non-contact vehicle right next to V2 in the eastbound lane ahead of V1. V1 'just popped out from behind the other car and there was no time to avoid the crash' stated the driver during the interview. The airbags deployed and the fully restrained driver and 73 year-old female right front passenger were transported to a local trauma center due to injuries. V2 was towed from the scene due to damage. The Critical Precrash Event coded to the V2 was 'other vehicle encroachment from opposite direction over the left lane line.' The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Stress/Emotion, Drugs present problem 
+Vehicle 2:  Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

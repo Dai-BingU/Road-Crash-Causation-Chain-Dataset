@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred on a five-lane north/south roadway that has two northbound lanes and two southbound lanes. The roadway also has a left turn northbound lane in the area of the crash. The crash occurred in the number two lane of the southbound lanes approximately 28 meters (92 feet)south of an intersection. There were no environmental factors that contributed to this crash. There was heavy traffic in the area of the crash, however there were no sight line restrictions or obstructions for the drivers of the vehicles involved. The speed limit on the roadway is posted 56 kmph ((35 mph). The crash occurred on Tuesday in mid-summer in the early afternoon hours during daylight. Vehicle one (V1), a 1996 Honda Civic, was behind vehicle two (V2), a 2004 Jeep Cherokee. V2 was behind vehicle three (V3), a 1993 Isuzu Amigo pickup. All three vehicles were southbound in lane 2 and had just cleared an intersection. A non-contact vehicle also southbound in front of V3 stopped, waiting for northbound traffic to clear to make a left turn into a driveway. V3 stopped behind the non-contact vehicle and V2 stopped behind V3. V2 and V3 were stopped for 2-3 seconds before the front of V1 struck the rear of V2. V2 at impact moved forward and the front of V2 struck the rear of V3. V1 was towed from the scene; V2 and V3 were driven. The driver of V1 was transported to a medical factility due to injuries. The driver of V1 was a 26-year-old female who is familiar with the vehicle and the route traveled. She was on her way to a funeral home to make funeral arrangements for her friend who had recently deceased unexpectedly. The driver was preoccupied and inattentive to the driving task until too late to avoid the crash. She stated there were vehicles to her left and right so she was unable to steer out of the way. She braced prior to impact. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other motor vehicle stopped. The critical reason for the critical event was attributed to V1 and coded as a driver related factor: inattention (i.e., daydreaming). The driver was preoccupied with thoughts about the death of her friend and the task of making arrangements. The report completed by the investigating officer lists a 4th vehicle that struck the rear of V1. The driver of V1 stated that this impact occurred after V1 had come to rest. The driver of V2 is a 68-year-old female who was stopped in the traffic lane behind V3 when struck by V1. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. The driver of V3 was a 19-year-old male who is familiar with the vehicle and the route. He detected V2 in the rear view mirror prior to impact. He was attentive to the driving task and did not contribute to the cause of the crash. V3 was not involved in the first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion present problem 
+Vehicle 2:  Drugs, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

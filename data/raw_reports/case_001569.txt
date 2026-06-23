@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary A two-vehicle crash occurred during the early afternoon daylight hours on a northbound four-lane urban expressway. This expressway also has an exit ramp at the location of the crash, but it does not play a roll in the crash. The speed limit on the expressway was 89 kmph (55 mph), and there were no adverse weather conditions or roadway restrictions. Vehicle one (V1), a 2005 Nissan Maxima carrying one occupant, was traveling northbound in the third lane. Vehicle two (V2), a 1993 Kenworth T602 tractor with semi-trailer, one occupant, and with an estimated 21,319-kgs (47,000 lbs) of cargo, was traveling northbound in the second lane. For unknown reasons the driver of V1 departed the lane on the right side and its front plane impacted with the external gas tank of V2's tractor on its left side. After this first event the driver of V1 attempted to return into the vehicle's original travel lane and over compensated by steering left then right. V1 crossed the right lane line a second time and then V1's right plane impacted the back left corner of V2's tractor cab. The driver of V1 is a fifty-nine year old female who stated that she was looking for the feeder area into express lanes that were on the left side, and did not see the truck that was beside her. She apparently exhibited poor directional control and allowed her vehicle to drift across the right lane line as she was looking to her left for the feeder area. The Critical Pre-crash event for V1 was coded: this vehicle traveling, over the lane line on right side of travel lane. The Critical Reason for the Critical Pre-crash event was coded as a driver performance error: poor directional control (e.g., failed to control vehicle with skill ordinarily expected. The driver of V2 is a fifty-nine year old male who has been driving commercial truck for forty years. He had been on the road for seven hours and driven over 483-kilometers (300-miles), but he was not fatigued. The driver had picked up a load of cattle and delivering it to a slaughterhouse. He stated that as he remained in his original travel lane he observed V2 hit his left side, than went out of control and hit his left side again. The Critical Pre-crash event for V1 was coded: other vehicle encroachment, from adjacent lane (same direction)- over left lane line. The Critical Reason for the Critical Pre-crash event was not coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance, Drugs, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

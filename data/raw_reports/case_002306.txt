@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a weekday during early evening rush hour on a north/southbound interstate that had a posted speed limit of 89 kmph (55 mph). This interstate varied in both its road surface type (concrete and asphalt), as well as its number of travel lanes. Both V1 and V2 were traveling northbound on a portion of this interstate that had 4 travel lanes, was level, and had an asphalt surface. Though the roadway curved to the left just ahead of where the crash took place, the pre-crash portion of the roadway was straight. V1, a 2004 Mercedes C230 driven by a 64-year old male, had just traveled across a bridge and entered this north/southbound interstate traveling northbound. A partial interview was obtained from the driver's spouse. She stated that her husband lost consciousness at some point as he crossed the bridge and didn't remember any of the crash details. As V1 entered the 4-lane northbound interstate, it drifted across 3 lanes of northbound travel and struck a concrete barrier with its front left side. Upon this impact the vehicle was redirected back across the 4 northbound travel lanes where it then struck the concrete barrier on the other side of the roadway with its front right side. V1 was again redirected back into the northbound traffic lanes where its left front side struck the right side cab of V2, rotated clockwise, and its left rear was then struck and partially run over by the right rear tire of V2. V2, a 2000 GMC refrigerated straight truck with a GVWR of 25,500 lbs, was driving northbound in lane 2. The driver of this vehicle, a 30-year old male, could not be reached for an interview and so a partial surrogate interview was obtained from the driver's employer. He stated that his employee was driving northbound in lane 2 when he heard the sounds of V1 impacting the concrete barriers behind him. He also explained that his employee said that it all happened so fast that there was nothing that he could do to avoid being struck. The Critical Pre-Crash Event coded to V1 was: This vehicle traveling off the edge of the road on the left side. The Critical Reason for Critical Pre-Crash Event was coded as: Heart attack or other physical impairment of the ability to act. Upon being examined at the emergency room it was first thought that the driver had suffered a stroke. In an interview with the driver's wife almost 3 full weeks after the crash, she stated that the physicians are still not sure what it was that caused him to lose consciousness. She also stated that prior to the crash her husband was considered to be in excellent health and had no known pre-existing medical conditions. A stroke had not been ruled out because her husband sustained partial paralysis to certain portions of his face and to one of his arms although his situation was improving. Medical reports were received, and no explanation for the loss of consciousness was determined. No Critical Pre-Crash Event and no Critical Reason were coded to V2 because it was not involved in the first harmful event. No associated factors were coded to this driver. A medical unit was dispatched and the driver of V1 was transported directly to an emergency room where he underwent a full physical exam. The driver of V2 did not receive any injuries. Both V1 and V2 had to be towed from the scene due to damage sustained in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

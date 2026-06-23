@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on the south roadside of a two-lane, suburban roadway. There were grass shoulders on both sides and a creek on the south roadside running roughly parallel to the roadway. The roadway had a posted speed of 56 kmph (35 mph) with a 3% downhill grade in the eastbound direction. Conditions were daylight and dry with clear skies. The setting was midday on a weekend. Vehicle one was a 2006 Dodge Sprinter step van (GVWR < 10,000 lbs.) traveling northbound in lane one. The driver reportedly fainted just before a section of roadway that began curving to the left. V1 traveled off the right side of the roadway and drove off a four-foot downwards embankment into the creek, impacting the opposite creek embankment with its front plane. V1 came to rest at impact. The Dodge Sprinter (v1) was driven by a 45-year old male who was transported to a local trauma center with possible injuries. He refused twice to be interviewed for this study. According to individuals on the scene, the driver had a history of fainting. The investigating officer estimated his travel and impact speeds to be 56 kmph (35 mph). The Dodge step van was towed due to damage. The Critical Precrash Event for v1 was this vehicle traveling off the edge of the road on the right side. The Critical Reason was a driver related factor of a physical impairment of the ability to act. The rear tires were under-inflated. No other factors could be coded.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

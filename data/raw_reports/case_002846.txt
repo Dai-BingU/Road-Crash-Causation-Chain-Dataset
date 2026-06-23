@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred at morning daylight hours on a suburban, non-divided, two-lane, 2-way, dry, straight, level, bituminous roadway with no traffic controls that runs north and south at the crash location. The posted speed limit for this road is 48 kmph (30 mph). At the time of the crash it was clear, and there were no adverse weather conditions, sight restrictions or road defects. Vehicle one (V1), a red 1999 Ford Ranger compact pickup, was northbound behind a non-contact vehicle. Vehicle two (V2), silver 1999 Chevrolet Blazer compact SUV, was northbound, stopped, in front of the non-contact vehicle behind vehicle three. Vehicle three (V3), a white 1993 Mitsubishi Diamante 4 door, was stopped in traffic for a second non-contact vehicle that was stopped waiting to turn left. The first non-contact vehicle, followed by V1, steered to the right into a bicycle lane and passed V2 and V3 in a bike lane. The restrained V1 driver, a 51 year old female, noticed the stopped traffic and braked, but was unable to stop before the front of V1 contacted the back of V2. The impact with V1 pushed V2 forward and the front of V2 impacted the back of V3. All three vehicles came to rest near their points of impact on their approximate original headings in their original lane of travel. The restrained V2 driver, an 18 year old female, was transported to a local trauma center with minor injures. The restrained V3 driver, a 40-year-old male, was not injured. V1 and V2 were towed due to damage; V3 was driven from the crash scene. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: external distraction. The V1 driver was distracted by two skiers who, she thought, were about to step out into the roadway. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. V3 was not involved in first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Roadway present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+Vehicle 3:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

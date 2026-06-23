@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary Case #2006-41-032 The crash occurred at a driveway access area onto a roadway. The driveway access was a two-way, two-lane, parking lot entrance/exit running north/south. The east/west roadway was a two-way, five-lane street, with a two-way left turn lane separating the eastbound lanes from the westbound lanes. These were straight, level, asphalt roads. The east/west posted speed was 64 kmph (40 mph). There were no traffic controls in either direction at the access area. Conditions were dark with streetlights on a weekday evening. The roads were dry and skies were clear. Traffic flow was normal. V1, a 2000 Ford Ranger with one occupant, was traveling southbound, exiting a parking lot. V2, a 1999 Cheverolet Suburban with one occupant, was traveling westbound in lane two. Both vehicles were approaching the same access area. V1 intended to cross the east/west roadway diagonally into the opposite parking lot entrance. As V1 attempted to cross the roadway, the front of V2 made contact with the left side of V1. This impact was followed immediately by a sideslap impact between the left side of V1 and the right side of V2. The vehicles came to final rest side-by-side, facing south. Both vehicles were towed due to damage. V1, the Ford Ranger, was driven by a 58-year old male, who was not injured. He stated that he was on his way home from picking up Chinese take-out. He said that he normally takes a short cut to his house, by driving across the roadway, into the opposite shopping plaza. He explained that the quickest and easiest way to access his home is to drive around the back of the grocery store located in that plaza. The driver indicated that he looked carefully in both directions before crossing, because it is normally a very busy traffic area. He did not see any vehicles coming so he attempted to cross, at which time he got hit. He did not know where the other vehicle came from. The driver's wife stated that she and her husband had company earlier in the day, and that her husband had been drinking prior to running out for Chinese food. The Critical Precrash Event for V1 was "this vehicle traveling, crossing over (passing through) intersection". The Critical Reason for the Critical Event was a recognition error, inadequate surveillance. The driver looked in the required direction, but did not see V2. One associated factor for this driver was a non-performance error. The driver had been drinking alcohol prior to the crash. V2, the Chevy Suburban, was driven by a 36-year old male, who was not injured. He stated that he was traveling westbound in the left through lane (lane two), when for unknown reasons, the driver of V1 suddenly pulled out in front of him. He said that he steered left, but had no time to apply brakes or take any other avoidance actions. The Critical Precrash event for V2 was "other vehicle encroachment, from driveway, across path". The Critical Reason for the Critical Event was not coded to this vehicle. The driver could not be reached later for a more complete interview. No additional associated factors could be determined for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From driveway, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

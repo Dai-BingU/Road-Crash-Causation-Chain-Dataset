@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This four vehicle crash occurred mid-afternoon during rush hour on a two lane, two way roadway in a construction zone. The roadway is fresh concrete, running east/west, bordered on the north edge with construction barrels, and on the south with an emergency berm. There is a stoplight controlled intersection farther to the east. Traffic was heavy and backed up in both directions from the intersection. The speed limit on the roadway is 72 kmph (45 mph), and the weather was dry, bright, and hot. Vehicle one (V1), a 2002 Ford F150 pickup truck driven by a 40 year-old male, was carrying a cargo of roadway rebar baskets weighing 862 kgs. (1900 lbs.). V1 was eastbound in the first lane, approaching the stoplight controlled intersection. Vehicle two (V2), a 2003 Ford Crown Victoria Police car driven by a 28 year-old male with one passenger, was eastbound in front of V1. Vehicle three (V3), a 2001 Ford Explorer SUV driven by a 31 year-old male with one passenger, was eastbound in front of V2. Vehicle four (V4), a 1993 Ford Crown Victoria driven by a 17 year-old female with one passenger, was eastbound in front of V3. As eastbound traffic came to a stop due to the controlled intersection, V1's front impacted with the rear of V2. V2 was pushed forward and struck the right rear of V3 with the front end. V3 was pushed forward and bumped the rear of V4 with the front end. All vehicles came to final rest on the eastbound roadway. V1, V2, and V3 were all towed from the scene. The driver and passenger of V2 were transported to a local medical facility. V4 was driven from the scene. Per the interview, the driver of V1 was initially distracted internally, he had dropped his pack of cigarettes on the floor of the truck. After retrieving them he was distracted externally, looking at a co-worker who was going to motion to the driver where to turn off the roadway to deposit his cargo. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason was attributed to V1 as a driver related factor: external distraction. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. V3 was not involved in first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Driver Inexperience, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

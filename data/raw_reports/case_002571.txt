@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of an east/west highway with one lane in each direction and paved 2.5m shoulders. A rural side road intersected from the north in a T-junction without any traffic controls pertaining to the junction for the highway traffic. The shoulder to the eastbound side was bordered by an embankment with a -66% grade and heavily wooded. The roadway where the crash occurred was straight and level, with a posted speed limit of 80kph(50mph). Conditions were early afternoon, daylight, and dry. Vehicle #1, a 2005 Subaru Forrester, was traveling eastbound on the highway when the driver saw the two vehicles in front of her begin to brake, apparently so that the lead of the two vehicles could turn left at the side road that intersected from the north. Vehicle #1 swerved right to go around the stopped vehicles when the right front wheel slipped off the right edge of the road. This caused the Subaru (V1, which does have AWD) to slide down the steeply graded embankment striking a tree with its right side and coming to rest up against that same tree. The Subaru (V1) was towed due to damage. Vehicle #1 was driven by a thirty six year old belted female who was on her way to her parents home with her six year old son who was in a booster seat in the second row on the passenger side. Neither occupant was injured and the airbags did not deploy. The driver's description of crash events seemed to match the researchers assessment of statements and evidence. The Critical Precrash Event for Vehicle #1 was This Vehicle Traveling: Off the Edge of The Road On The Right Side. The Critical Reason for The Critical Precrash Event was coded as Recognition Error: Internal Distraction. This was chosen because the driver was conversing with her son before recognition of the impending problem. Two associated factors were prescription medications used for allergies and inadequate surveillance (failed to look far enough ahead).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

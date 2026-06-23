@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This one-vehicle crash occurred during early morning hours on a seven lane divided roadway. The roadway surface is concrete, dry and free of defects. There were no adverse atmospheric conditions at that time. The accident occurred near an intersection without traffic controls. Posted speed limit 56 kmph (35 mph). Vehicle one (V1), a 1997 Volkswagen Jetta sedan driven by a 33 year-old female with three passengers was traveling northbound in the second lane of a four-lane, two-way, divided, concrete roadway without a positive barrier. The driver stated she temporarily lost consciousness prior to impact. V1 departed its original travel lane to the left and then departed the roadway to the left. The front of V1 impacted a light pole in the median separating the north and southbound travel lanes. V1 rotated clockwise and came to rest partially on the median, facing northeast. V1 was towed from the scene due to damage sustained in the collision. The driver and three occupants of V1 were transported to the hospital for treatment. The 33-year-old female driver of V1 was fatigued and familiar with area. The driver had been in the hospital the previous night and received pain management medication (hydrocodone). She stated that she lost consciousness prior to the accident, but recalls striking the light pole. The loss of consciousness may have been due to the combined effects of the medication and lack of sleep. She received citations for no driver's license and failure to maintain financial responsibility. The pre-event movement for V1 coded negotiating a curve, category this vehicle traveling off the edge of the road on the left side. Critical reason for the critical event coded driver related factor "sleeping that is actually asleep".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

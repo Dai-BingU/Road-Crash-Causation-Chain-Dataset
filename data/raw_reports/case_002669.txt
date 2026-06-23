@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a six-lane roadway divided partially by a positive barrier and partially by a yellow gore with a north and south bound intersection of entrance and exit ramps to an interstate highway. There were three lanes in each direction. This was a straight level, dry asphalt roadway with a posted speed limit of 56kph (35mph). The crash occurred on a weekday afternoon of a bright, sunny, clear day. Traffic flow was moderate. V1, a 1998 Lincoln Continental, four door with two occupants was westbound in lane two which was marked as a left turn or straight through traffic lane. V2, a 2006 Mack CV7 dump truck with one occupant was westbound in lane three which was marked as a left turn only lane. Westbound traffic had a green light with a protected left turn. V2 was behind another dump truck and both were intending to turn left to the southbound entrance ramp. V1 intended to also turn left to the ramp but started to move to the left to lane three. As V1 moved to the left, it crossed into the path of V2. V2 struck the left rear of V1 causing it to rotate counter-clockwise and then struck the left front door of V1. The vehicles continued toward the west still in contact with each other and came to rest approximately 6m west of the initial point of impact. V2 was still facing west and V1 was facing southeast. V1, the Lincoln Continental was driven by a 67-year old male. He was not injured but his female passenger in the right front seat received possible injuries and she was transported to a hospital. The driver advised that he was changing from lane two to lane three prior to turning left at the intersection. He added that he was traveling about 8kph in route home from a doctor's appointment. He indicated that he saw two dump trucks to his left but that V2 was behind him when he started to change lanes. He said V2 struck his twice on the left side, first on the left rear and then on the left front door. The Critical Pre-crash Event for V1 was this vehicle traveling over the left lane line on the left side of the travel lane. The Critical Reason for the Critical Event was driver related - misjudgment of gap or speed. Associated factors coded for V1 included driver recognition, inattentive, thought focus unknown, and driver experience, the driver said he rarely drives this road. Also coded for presence was the driver's high blood pressure and medication as well as his sleep apnea.. V2, the Mack CV7 was driven by a 49-year old female who was not injured. She reported that she was going straight toward the intersection to turn left when V1 suddenly cut to the left into her path. The driver of V2 braked without lockup in an unsuccessful attempt to avoid colliding with V1. She said V2's right front bumper struck the left rear of V1 and then the left front door with the right front bumper before her V2 came to rest still in contact with V1 in the same lane. The Critical Pre-crash Event for V2 was other vehicle encroachment from adjacent lane in same direction over the right lane line. The Critical Reason was not coded for this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

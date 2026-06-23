@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lane of a three-lane (one north, one left turn northbound and one southbound) road that had an intersecting east/west access road on the west side of the main road. The crash occurred in the early morning hours on a weekday just prior to dawn at the beginning of rush hour. Conditions were dry, and dark (not illuminated). The roadway was level where the crash occurred. The posted speed on the northbound side was 56 kmph (35 mph) and the posted speed on the southbound side was 64 kmph (40 mph). Vehicle #2 was a 1996 Pontiac Grand Am, making a left turn into the access road from the northbound left turn lane when it impacted front to front with Vehicle #1, a 1986 Mitsubishi Mighty Max compact pickup that was traveling south. Both vehicles then rotated counterclockwise and traveled approximately 8 meters southeast of POI and came to rest. Vehicle #1 was facing southeast still in the southbound lane. Vehicle #2 was now facing southwest with the front 1/3 of the vehicle in the southbound lane and the rear 2/3 of the vehicle in the northbound left turn lane. Vehicle #1 was driven by a belted 36-year old female who was transported due to injury to a local hospital. This vehicle did not have airbags available. The driver stated through her interpreter (husband) that she was on her way to work when Vehicle #2 pulled out in front of her without a turn signal. Vehicle #1 was towed due to damage. The Critical Precrash Event for Vehicle #1 was "Other Vehicle Encroachment: From Opposite Direction-Over Left Lane Line." The Critical Reason For The Critical Precrash Event was not coded to this vehicle. One associated factor was coded to this driver - traveling too fast for conditions. When interviewed, the driver of V1 reported that she had been traveling at 45 MPH prior to the crash. The posted speed limit on the north side of the intersection was 56 kmph (35 MPH). Vehicle #2 was driven by a belted 35-year old female whose airbags deployed. She was transported to a local hospital due to injury. The driver stated that she had been stopped for a "few" seconds when she saw Vehicle #1 and thought it was turning right into the same road that she intended to turn onto. Vehicle #2 was towed due to damage. The Critical Precrash Event for Vehicle #1 was "This Vehicle Traveling: Turning Left at Intersection." The Critical Reason for the Critical Precrash Event was a Decision Error: False Assumption of Other Road Users Actions. Associated factors that were coded to the driver of V2 include (1) driver fatigue - she stated that she usually wakes up drowsy every day. (2) She stated that she knows she is nearsighted but has not gotten a set of prescription lenses to correct the problem. (3) She was smoking a cigarette at the time of the crash. (4) The driver of Vehicle #2 was also thought to have misjudged the speed of Vehicle #1. (5) She was taking a prescription birth control pill that had no known performance-impairing side effects. Any of these associated factors may or may not have had an influence on crash events.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance present problem 
+Vehicle 2:  Decision, Distraction, Driver Fatigue, Driver Physical, Drugs, Vision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-lane undivided rural residential roadway. This was a straight, level, asphalt roadway with a posted speed limit of 56 kmph (35 mph). It was early on a weekend morning and the weather was clear and dry. Traffic was light. V1, a 1995 Ford F250 pickup truck with two occupants, was southbound in lane one. There were no pre-crash skid marks for V1. V1 crossed the left lane markings and went off the roadway to the left where its left front sideswiped an 80 cm diameter tree at the edge of the embankment on the east side (left edge) of the roadway. V1 careened off the tree to the right and back onto the northbound lane going the wrong way. V1 traveled about 25 meters before it again went off the left edge of the roadway and the front left of V1 struck a second tree (60 cm diameter) on the edge of the embankment and then rolled over to the right one-quarter turn. V1 came to rest on its right side facing southbound in the northbound lane. V1 was driven by a 26-year old female. Her five-year old daughter was seated in the right front seat. Both occupants received non-incapacitating injuries and were transported to the hospital. The driver claimed that she was on her way home from a sister's home after working all night and that she fell asleep. She said she did not remember going off the roadway or striking the trees. The Critical Pre-crash Event for V1 was "this vehicle traveling off the left edge of the road." The Critical Reason for the Critical Event was "sleeping, that is, actually asleep." The driver of V1 was not in a physical condition to be driving. She admitted to being fatigued due to long hours at work (including double shifts) combined with having to take care of two young children at home. The driver said that she fell asleep. The lack of any pre-crash skid marks and no evidence of other causes seems to verify this. According to police, the driver of V1 was DUI; however, subsequent toxicology tests revealed no alcohol use. The toxicology tests did indicate however, that the driver of V1 tested positive for opiates, cocaine, cannabinoids, and benzodiazepines. Work stress and tire deficiency were also coded as associated factors (there were mismatched tires that were under-inflated and had low tread). According to her spouse, the driver of V1 always chooses to drive knowing that she does not have a driver's license.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Fatigue, Driver Stress/Emotion, Drugs, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

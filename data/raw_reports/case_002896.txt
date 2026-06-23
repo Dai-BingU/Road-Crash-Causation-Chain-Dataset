@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred at the end of the evening rush hour in the three southbound lanes of an urban divided six-lane interstate highway that was a straight, level, dry concrete roadway. Traffic ahead was congested due to the evening commute and was stop & go. The weather was clear, dry, and it was daylight. The posted speed limit is 97 kmph or (60 mph). Vehicle one (V1), a 2001 Jeep Cherokee, driven by a 21 year-old male was traveling southbound in lane one at an unknown rate of speed. The driver was unavailable for interview, but it was discovered that he was on his way to the airport to pick up his girlfriend. Traffic came to a fast stop. The driver applied the brakes without lockup but did not have time to stop, striking the rear of Vehicle two (V2), a 2000 Volvo V70 Station wagon driven by a 35 year-old male. V2 was pushed forward into the rear of Vehicle three (V3), a 2002 Hyundai Elantra driven by a 41 year-old female. V1 and V2 came to rest in lane one, straddling the right lane line, V3 moved to the right shoulder. V1 was towed due to damage. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. Because the driver braked before impact, he was aware of the other vehicle's presence. The driver assumed the forward traffic would continue to proceed and most likely did not expect it to stop suddenly. Since the other vehicle was stopped it was evident that he misjudged its speed and the gap distance and could not avoid the collision. The critical reason was coded to V1 as a driver related factor: misjudgment of gap or other's speed. The police on scene stated alcohol was a factor, and this impairment would affect the driver's reasoning ability and reduce his reaction time. Due in part to the alcohol impairment, the driver exhibited poor directional control of his vehicle and had insufficient braking inputs to avoid the collision. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. V3 was not involved in first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Driver Performance, Driver Stress/Emotion, Speed/Distance, Traffic present problem 
+Vehicle 2:  Distraction, Driver Fatigue, Driver Inexperience, Driver Stress/Emotion, Traffic present problem 
+Vehicle 3:  Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

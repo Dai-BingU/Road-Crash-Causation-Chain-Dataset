@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in an angled intersection of two roads that ran north and south, and east and west. Both roadways were two lanes, two way, level, asphalt roadways, with a posted speed of 89 kmph (55mph). It was early afternoon on a weekday and the road was dry and the sky was clear. V1, a 1998 Chevrolet S-10 two door with one occupant, was traveling eastbound in lane one, approaching a stop sign. V2, a 2002 G series package delivery van two door with one occupant was traveling southbound in lane one. He did not have a traffic control device. V2 was passing through the intersection when the driver saw that V1 was not going to stop for the stop sign. The driver of V2 accelerated to try to avoid V1. The front of V1 contacted the right of V2. V2 then spun around clockwise and departed the roadway on the east side of the roadway. V2 went into the ditch and rolled on his right 1 quarter turns before coming to final rest on it's side. V1 came to final rest in the intersection. V1, the Chevrolet S-10 was driven by a 23-year old male who was injured and transported to a local trauma facility. He advised that he was on his way to the store and rarely drove this road. He advised that he was traveling between 67-80 kmph (41-50 mph) prior to the crash. He advised that he did not see the stop sign and before impact applied his brakes. He could not avoid contacting V2. The Critical Precrash Event for the driver of V1 was “this vehicle traveling: crossing over passing through intersection”. The Critical Reason for the Critical Precrash Event was a driver related factor: “inadequate surveillance”, because he did not see the stop sign. An associated factor for the driver of V1 was being unfamiliar with this roadway. V2, the 2002 Chevrolet G-series van was driven by a 31-year old male who reported minor injuries, but refused treatment. He advised that he had just come from one delivery and was on his was to another. He advised that he had been traveling between 67-80 kmph (41-50 mph) prior to the crash. He tried to speed up but could not avoid getting hit by V1. The Critical Precrash Event for the driver of V2 was “other vehicle encroachment from crossing street across path”. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2, and he was thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

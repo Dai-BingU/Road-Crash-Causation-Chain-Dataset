@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle collision occurred mid-afternoon on a 4-lane bituminous, divided, and level roadway. Roadway traffic was heavy and with constant stop and go flow of traffic. V1, a 2004 Chevrolet Malibu sedan with the 27-year-old male driver and three passengers, was traveling west in lane 2. V1 driver was in engaged in conversation with front passenger while looking at businesses on the left side of roadway. V1 driver failed to notice that traffic ahead had come to a stop and attempted to avoid collision by locking up brakes, but front bumper collided into the rear of V2. V2, a 2000 Pontiac Grand Prix GT sedan with the 36-year-old male driver and two passengers, was stopped in westbound lane 2. V2 driver heard the sound of tires screeching, but never saw V1 coming from behind. After V1 struck V2, V2 moved forward and contacted the rear bumper of V3. V3, a 1996 Honda Accord LX sedan occupied only by the 32-year-old female driver, was also stopped in westbound lane 2. V3 driver heard screeching tires and tracked V2 with rearview mirror before contact was made. All 3 vehicles were equipped with driver and passenger frontal airbags. Only the airbags in V1 deployed. The posted speed was 72 kmph (45 mph). V1 and V2 were towed due to damage. No occupants were transported due to injury. Associative factor assigned to V1 driver is as follows: V1 failed to recognize imminent collision due to inattention. Driver was engaged in conversation with front passenger and was distracted by looking at an exterior subject (business establishments) on left side of roadway. Data recovered from the vehicle shows the V1 was traveling 40 mph pre-crash. The driver applied the brakes approximately 1 second prior to impact. The vehicle sustained a longitudinal deceleration of approximately 18 mph at impact.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on an east/west, seven lane, divided roadway at an uncontrolled intersection. There are three eastbound lanes and four westbound lanes, including a left turn lane. The roadway curves to the south with a radius of 304 meters (997 feet) and a positive slope of 4.1 % for westbound traffic. The speed limit was 64 kph (40 mph). The roadway intersects a business parking lot entrance/exit. This crash occurred during daylight hours with moderate traffic. There were no adverse weather conditions at the time of the crash. Vehicle one (V1), a 1998 Dodge Stratus with one occupant, was westbound in lane four (a left turn only lane). The driver had stopped, waiting for oncoming traffic to clear the intersection before initiating a left turn. He saw another vehicle approaching but attempted his left turn. Vehicle two (V2), a 2002 Ford Mustang with two occupants, was eastbound in lane two. V1 attempted to turn left across the path of V2 and the front of V2 struck the right side of V1. Both vehicles were towed due to damage. None of the occupants was transported. The driver of V1, a sixteen year-old male, was traveling from home to a bookstore. He was well rested, in good health and comfortable with his vehicle. He drives this route weekly. This driver stated that he misjudged both the gap and speed of V2. The driver has had four months of driving experience. The critical pre-crash event for V1 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; misjudgment of gap or other's speed." The driver of V2, a thirty-one year-old male traveling with a twenty-eight year-old female, was traveling from a pet store to a friend's residence. He was conversing with the passenger at the time. He was well rested, in good health and comfortable with his vehicle. He drives this route daily. The driver stated that he saw V1 as he entered the intersection and did not have time to attempt any evasive maneuvers. The critical pre-crash event for V2 was coded as "other vehicle encroachment; from opposite direction, over left lane line." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience present problem 
+Vehicle 2:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

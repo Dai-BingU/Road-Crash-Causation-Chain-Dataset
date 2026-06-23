@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a rainy night, in the intersection of a two-way undivided roadway and a two-way roadway divided by a raised curb median strip. The undivided roadway was a five-lane roadway with the center lane being a turn lane. The posted speed limit was 72 kmph (45 mph). The divided roadway was a private road that led from a hospital that was one lane in each direction until it ended at a T-intersection with the undivided 5-lane roadway. At the intersection, there was both a right turn-only lane and a left turn-only lane. The posted speed on this roadway was 24 kmph (15 mph). Both roadways were straight, level and wet. V1, a 2001 Mitubishi Eclipse driven by a 23-year old female, was southbound exiting a parking lot roadway and was turning left into traffic. The driver stated that she tried to stop but was unable to do so, due to the wet roadway. She stated that she went past the sign, and was halfway into the westbound travel lane when she started to back up into the drive. She was unable to back up fast enough and was struck in the front right side by V2. V2, a 1996 Ford Ranger pick-up driven by a 27-year old male, was westbound approaching the intersection when the driver stated that he saw V1 go through the stop sign. The driver never mentioned that V1 was trying to back up. The driver stated that he applied the brakes and steered the vehicle to the left, but was unable to avoid contacting V1. Both vehicles were towed due to damage, and the two occupants of V1 were transported to a medical facility for treatment. The driver of V2 was uninjured. The Critical Pre-crash Event for the driver of V1 was when she entered the intersection intending to turn left. The Critical Reason was coded as driver inattention, because the driver reported that she had been thinking about some concerns, particularly her health. It was believed that the driver of V1 was not paying attention to the driving task and began braking too late to stop for the stop sign. She had just left the hospital emergency room due to stomach pain. This was coded as an associated factor. Other associated factors coded to this driver include use of prescription medications for migraines, traveling too fast for conditions, the wet roadways, and the rain. The Critical Pre-crash Event for the driver of V2 was when another vehicle encroached into his lane from a crossing street, intended to turn into the opposite direction. The Critical Reason was not coded to this driver. Associated factors coded to this driver include the wet roadway and the rain.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Drugs, Roadway, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

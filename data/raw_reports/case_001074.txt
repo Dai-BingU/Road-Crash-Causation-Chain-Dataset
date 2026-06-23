@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This early morning, two-vehicle crash, occurred in the middle of a four-way intersection controlled by traffic signals in all directions. The east/west roadway upon which vehicles one and two were traveling consisted of four lanes. The posted speed limit on the roadway was 72kmph (45 mph). There were no adverse atmospheric conditions at the time of the incident and the roadway was dry. V1, a 2003 Saturn Vue, was traveling in lane two of the westbound roadway approaching an intersection. V2, a 2004 Ford Explorer, was stopped in lane two of the eastbound roadway, intending to turn left at the intersection. As V1 approached the intersection a non-contact vehicle in front of it began slowing when the traffic light changed from green to amber. V1 changed lanes from lane two to lane one and continued into the intersection. As V2 began its left turn its front made contact with the left side of V1. The impact caused both vehicles to spin in a counter-clockwise motion approximately 90 degrees before coming to final rest. Both vehicles had to be removed from the scene due to vehicle damage. The driver of V1, a 44 year-old female, had to be extricated from the vehicle. She was taken to the hospital for unknown injuries. There were no other occupants in the vehicle when the crash occurred. No interview could be obtained from this driver. According to the Police Accident Report, the driver was initially in the left lane of the westbound roadway traveling behind another vehicle. While approaching the intersection, the light had changed to amber. The vehicle in front of her began to stop for the light. Vehicle one changed to the first lane of travel, intending to continue through the intersection when she was struck by vehicle two. The Critical Precrash Event for V1 was coded other vehicle encroachment, from opposite direction over left lane line. The reason for the Critical Precrash Event was not coded to this vehicle. Associated factors include a sightline restriction, when V1 crossed into the intersection its view of V2 was obscured by the non-contact vehicle that had stopped at the intersection. The driver of V2, a 43 year-old female had unknown injuries and was also transported to the hospital. There were no other occupants in the vehicle at the time of the incident. Numerous attempts could not yield an interview with this driver. Through information contained in the PAR, this vehicle was stopped in the middle of the intersection waiting to make a left. When the signal changed to amber, she proceeded to make the turn not expecting V1 to continue through the intersection. The Critical Precrash Event for V2 was coded as this vehicle traveling, turning left at intersection. The reason for the Critical Precrash Event was coded as an unknown type of decision error. The associated factors for this crash include a decision error, turning with obstructed view, and a sightline restriction as the non-contact vehicle also prevented V2 from seeing V1 enter the intersection.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Roadway present problem 
+Vehicle 2:  Decision, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

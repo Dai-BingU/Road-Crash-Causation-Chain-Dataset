@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a two-way, six-lane roadway. There were three westbound lanes and three eastbound lanes, separated by a concrete curbed median. This was a straight, level, asphalt roadway, with a posted speed of 56 kmph (35 mph). Conditions were dark with streetlights on a weekday evening. The roadway was dry and the skies were clear. Traffic flow was normal. V1, a 1994 Mercury Grand Marquis with three occupants, was traveling westbound in lane one. V2, a 2000 Hyundai Accent with one occupant was stopped ahead of V1, waiting at a traffic signal. V3, a 2006 Ford F150 with two occupants, was stopped ahead of V2, waiting at the same red light. The driver of V1 rear-ended the driver of V2. The front of V2 then made contact with the back of V3. Only V2 was towed due to damage. V1, the Grand Marquis, was driven by a 40-year old female, who was not injured. The police report says that she was traveling west when V2 came to a sudden stop. The driver of V1 advied she tried to stop but couldn't and she hit the rear of V2. The Critical Precrash Event for V1 was "other motor vehicle in lane, other vehicle stopped". The Critical Reason for the Critical Event was coded "misjudment of gap or other's speed". V2, the Hyundai Accent, was driven by a 44-year old male, who was not injured. The driver stated that he was going home from work. He stopped at a red light behind some other vehicles. The driver said he was stopped for at least ten seconds when he was abruptly hit from behind. He said he tried to avoid the vehicle in front of him by steering the wheel to the right. The Critical Precrash Event for V2 was "other motor vehicle in lane, traveling in same direction with higher speed". The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors coded to this driver. V3, the Ford F150, was driven by a 48-year old male, who was not injured. He was on his way to drop off his boss at his boss's hotel, from a nearby restaurant. He stated that they were discussing business at the time. He believed that he was stopped for at least five seconds before he was struck from behind. V3 was not involved in the first harmful event. The Critical Reason for the Critical Event was not coded to this vehicle. An associated factor for this driver was the presence of a business conversation inside the vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 3:  Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

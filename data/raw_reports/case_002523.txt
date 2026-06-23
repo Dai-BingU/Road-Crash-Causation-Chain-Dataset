@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred in the morning of a weekday on a rural two-lane undivided roadway. The bituminous roadway runs north and south and has a slight curve to the right the location of the crash. The conditions were clear and dry and the posted speed limit is 72 kmph (45 mph). V1, a 1995 Chevrolet Tahoe with one occupant, was southbound when its right front tire departed the right side of the road and when this driver over steered to the left, the driver lost control of the vehicle and drove off the right side of the road. V1 continued to rotate clockwise as it traveled on the grass roadside and struck a big rock (event #1) with its left side which caused the Tahoe to roll onto its rooftop (event #2). The vehicle was towed due to damage and the driver was transported to a trauma center. The driver was not interviewed for this crash. The Critical Precrash Event was coded this vehicle traveling off the edge of the road on the right side. The Critical Reason for Critical Event was coded overcompensation.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate evasive action, e.g. braking only, not braking and steering

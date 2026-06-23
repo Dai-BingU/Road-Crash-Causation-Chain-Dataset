@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary V1, a 2000 Ford Ranger was traveling northbound on a three lane, one way, dry asphalt roadway in dark, but lighted conditions. V1 was intending to go straight. V2 a 2005 Chevrolet Monte Carlo was traveling eastbound on a four lane, one way, dry asphalt roadway in similar conditions. V2 was intending to go straight. V3 a 2003 Buick Century was also traveling eastbound on the same roadway. V3 was intending to go straight. V1 stated that he did not notice the light was red until he did not have time to stop. The left of V2 contacted the left of V1, V2 came to final rest in the roadway. The front of V3 contacted the left of V1. V1 rolled left one-quarter turn before coming to rest in the roadway. V3 rolled right two quarter turns before coming to rest in the roadway. The driver of V1 was a 37-year old male who had reported that he had been traveling 50-64kmph (31-40mph) prior to the crash. He was in good health, rested and traveling to a pool hall. He sustained minor injuries from the crash but refused treatment. V1 was towed due to damage. The Critical Precrash Event for the driver of V1 was this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Precrash Event was a recognition error, inattention. The associated factors for this crash were inadequate surveillance and traveling too fast for conditions as he was speeding at the time of the crash. The driver of V2 was a 64-year old male who had reported that he had been traveling between 50-64kmph (31-40mph) prior to the crash. He was in good health, rested and traveling to a restaurant. He did not sustain any injuries from the crash and refused treatment. V2 was able to be driven from the scene. The Critical Precrash Event for the driver of V2 was other vehicle encroachment from the crossing street, across path. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2 and he was not thought to have contributed to the crash. He took appropriate avoidance actions. The driver of V3 was an 87-year old male who had reported that he had been traveling 18-32kmph (11-22mph) prior to the crash. He had a preexisting condition of Diabetes and takes Insulin (but this was not thought to have contributed to the crash). He was rested and traveling home. He was wearing his prescribed lenses that corrected a myopic (near-sighted) condition. He sustained minor injuries and was transported to a local trauma facility. V3 was towed due to damage. The Critical Precrash Event for the driver of V3 was other, not involved in first harmful event. The Critical Reason for the Critical Precrash Event was not coded to the driver of V3 and he was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Distraction, Driver Physical, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Alcohol present problem 
+Vehicle 3:  Decision, Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

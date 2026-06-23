@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a level two lane undivided roadway with a posted speed limit of 56 KPH (35 MPH). The road was slightly curved to the left with a radius of curvature of 5,625 meters. There were no curve warning signs present. The weather was clear, the roadway dry and it was daylight at the time of this late afternoon weekday crash. Vehicle #1, a 1992 Chrysler LeBaron, was traveling west negotiating the slight curve to the left and approaching a sharp curve to the left with a small hillcrest. Vehicle #1 entered the sharp curve, went off the right side of the roadway and struck a 40 cm diameter tree with its front. Vehicle #1 came to rest facing in a westerly direction. Vehicle #1 was towed due to damage. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. The Chrysler LeBaron (Vehicle #1) was driven by a belted 17 year old male who was transported, treated and released for a minor head contusion. The belted right front seat 15 year old passenger and belted right seat rear 17 year old passenger were also transported, treated and released for minor injuries. The driver stated that he had been driving over the center of the roadway and another car was coming the other way. He said the other driver started “screaming and cursing” at him and he thought that he would “come after me” so he sped up (indicating that he was traveling at 82-97 KMPH (51-60 MPH)) and the lost control. He also stated that he was in good health, did not wear corrective lenses and took no medications. The Critical Precrash Event for Vehicle #1 was that this vehicle was traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was decision error - inadequate evasive action. This was chosen because the driver stated he drove the road rarely and was in the center of the roadway when he initiated a braking maneuver, however drove straight off the roadway striking the tree. An associated factor coded to this driver was that he failed to look far enough ahead and did not realize that caution was required. It should also be noted that the driver had only had his license for two weeks and had been driving less than one year. He also had two friends in the car and they were going to a friend's house so there was the probability of inattention. The police indicated that the driver was inexperienced and was traveling at an unsafe speed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Inexperience, Driver Performance, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate evasive action, e.g. braking only, not braking and steering

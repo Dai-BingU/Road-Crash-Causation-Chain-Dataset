@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred on a two-lane major thoroughfare. The highway merged from three to two lanes several hundred feet before the point of impact. The roadway was cement, dry, and level with a curve to the right. The posted speed limit was 80 kmph (50 mph). There were cement barriers on each side of the roadway. There were no traffic control devices. The crash occurred in the mid-evening hours on a weekend. It was dark out but overhead lights illuminated the roadway. Traffic flow was normal and the weather was clear. Vehicle one, a 2005 Honda Pilot, was traveling eastbound in lane one. V1 had merged onto the highway several hundred feet prior to the point of impact from the on-ramp. At that point the highway consisted of three lanes. Several feet after the emergence onto the highway, the lanes narrowed to just two lanes. The driver of V1, a 60-year old male, reported that after he merged onto the highway, another vehicle crossed in front of him from lane two and slowed down. In an attempt to avoid contact with the vehicle, he quickly steered left and applied the brakes. He lost control of the vehicle and struck the cement barrier on the north side of the highway. After the initial impact, V1 rotated to the right and its left rear side contacted the guardrail. V1 came to final rest facing south across both lanes of travel. A witness contacted police after the crash with a different version of events. The witness stated that V1 had passed him at a high rate of speed and then V1 came up fast upon a slower-moving vehicle. In an attempt to avoid striking this slower vehicle, the driver of V1 slammed on his brakes while steering left sharply. These actions caused V1 to skid into the cement barrier. V1 was towed due to damages. The driver was transported to the hospital with minor injuries. The passenger, a 14-year old male, was not injured. The Critical Pre-Crash Event for V1 was control loss due to excess speed The Critical Reason for the Critical Pre-crash Event was coded as too fast to be able to respond to the unexpected actions of others. Associated factors coded to this driver include conversation with the passenger and use of prescription medications to control diabetes and high blood pressure.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :

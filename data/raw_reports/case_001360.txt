@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred at a traffic signal-controlled intersection. Both trafficways are straight and divided by a curbed median. All approach roadways consist of three through lanes and a left turn lane. The eastbound lanes have a -4.1% downhill grade and the northbound lanes are level. The posted speed limit is 64 kmph (40 mph) for both trafficways. Traffic was light at the time of the crash. This crash occurred during daylight hours with clear skies. Vehicle one (V1), a 2002 Ford F-150, was eastbound in the first travel lane. Vehicle two (V2), a 2005 Toyota Matrix, was northbound in the second travel lane. In the intersection, the front of V2 struck the right side of V1. V1 rotated clockwise and the left rear wheel struck the median curb. V1 then rolled over to the left and came to rest on its wheels in the westbound lanes east of the intersection. V2 rotated clockwise and came to rest facing southwest in the intersection. Both vehicles were towed due to damage. The driver of V1, a twenty-three-year-old female, was heading home from picking-up her son from daycare. This driver had been driving for about ten minutes, drives the route daily and is familiar with the vehicle. She did not notice V2 until impact and did not attempt any evasive maneuvers. The driver did not recall rolling over. The driver appeared to be disoriented and was given a field sobriety test at the scene. The results of the test are unknown. The critical pre-crash event for V1 was coded: other vehicle encroachment-from crossing street, across path. The critical reason was not coded to this vehicle. The driver of V2, a nineteen-year-old female who was 5.5 months pregnant, was heading to her boyfriend's from home. This driver had been driving for about three minutes, drives the route daily and is familiar with the vehicle. The driver stated she had been stopped for more than ten seconds when the light turned green and she entered the intersection. Physical evidence indicates that this driver did not stop prior to entering the intersection. She did not detect V1 until impact and did not attempt any evasive maneuvers. The driver failed to look to the left to detect V1 prior to entering the intersection. The critical pre-crash event for V2 was coded: this vehicle traveling-passing through intersection. The critical reason for the critical pre-crash event for V2 was coded as driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see). The driver failed to look far enough ahead to notice V1.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle nighttime collision occurred just before mid-night. The collision occurred in a controlled intersection of a north-south roadway and an east-west roadway. The pre-crash roadway southbound is straight and level bituminous paving. The westbound roadway is straight, paved with bituminous, and has a positive grade of 10%. There is a posted speed limit of 56 kmph (35 mph) for both roads. At the time of the crash, it was raining and the roads were wet, but there was no standing water. Vehicle one (V1), a 1997 Ford Ranger pick-up, driven by a 30 year-old male was traveling south on the roadway in lane 1. Vehicle two (V2), a 2001 Honda Accord sedan, driven by a 34 year-old male was traveling west in lane 2. Both vehicles approached the intersection at roughly the same time, V1 failed to stop for the red traffic signal and the front of V1 collided with the right side of V2, causing V1 to deflect to the right and come to rest facing southeast. V2 was deflected southwest, but continued over the southwest curb, up a mild embankment, and came to rest in the parking lot of a business. Both vehicles were towed due to disabling damage. The driver of V2 was transported to the hospital for treatment of injuries. The driver of V1 was arrested for DUI. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). the driver failed to recognize that he was entering the intersection on a red light and also failed to look to his left to recognize that V2 had already entered the intersection. He claimed no external or internal distractions and stated that prior to impact he was just looking straight ahead. The driver stated that he was feeling fatigued when he started to drive for this trip home from a friend's house. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason for the critical event is not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Alcohol, Decision, Driver Fatigue, Roadway, Speed/Distance, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Driver Fatigue, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

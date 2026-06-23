@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lane of a two-way, two-lane, rural roadway. The roadway had a posted speed of 72 kmph (45 mph) and a level grade. The westbound direction of the roadway curved left with a +5% superelevation. Conditions were daylight and dry with clear skies. The setting was early afternoon hours on a weekday. Vehicle one was a 1995 Honda Accord sedan traveling westbound while negotiating the left curve. Vehicle one traveled partially off the right side of the roadway. The driver then steered left, causing the vehicle to lose control. V1 crossed the center line and began a 90 degree clockwise rotation. V1 traveled off the right side of the roadway, impacting a patch of small trees with its left plane. V1 came to rest on the north roadside at the point of impact. V1 was driven by a 77-year old female who was transported to a local trauma center with non-incapacitating injuries. She stated that the car drifted off the right side of the road and she forgot all of the good advice her late husband had given her in regards to gently easing back onto the road. She steered abruptly and lost control. She estimated her travel and impact speeds to be 72 kmph (45 mph). V1 was towed due to damage. The Critical Precrash Event for V1 was this vehicle traveling off the edge of the road on the right side. The Critical Reason was a performance error of poor directional control. An associate factor for this driver was her advanced age of 77 years.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

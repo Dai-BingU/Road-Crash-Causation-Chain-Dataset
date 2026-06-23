@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in a level intersection of a five-lane, two-way, asphalt, roadway, and a three lane, two-way, asphalt roadway. At the time of the crash the intersection was dry, clean and controlled by a flashing control signal. The signals flash at certain times of the day at the time of the crash the signals were flashing. The five-lane roadway was straight with two-lanes of traffic for both east and westbound, with a center lane for left turning traffic, and has a posted speed limit of 48 kmph (30mph). The three-lane roadway is also straight and has one lane for both north and southbound traffic and a left turning lane with a posted speed limit of 40 kmph (25mph). V1 a 2006 Chevrolet Express Cargo Van was traveling westbound approaching the intersection under a yellow blinking control, when V2 a 1989 Chevrolet Astrovan traveling south ran a flashing red blinking control. V2 contacted V1 in the right rear, causing the cargo inside V1 to shift and cause V1 to roll on to its left side and then onto its top. V1 came to rest on its roof, and V2 came to rest in the northwest corner of the intersection. The driver of V1 was a 50 year-old male who stated that he was on his way to a local factory where he was going to be working for the day from his home; he stated that he had been traveling for less than an hour and was very comfortable on the road. He stated that he saw V2 approaching and tried to steer the van away, but was unable to avoid the collision. The Critical Pre-crash Event was coded “other vehicle encroachment from crossing street, across path”. No Critical reason was coded to this vehicle. The driver of V2 was a 40 year-old male who was apparently heading to work from a friends home, where he had stayed the night before. His wife said that he told her that he tried to hit the brakes and complete a stop at the intersection, but the brakes failed to work. The driver's wife said that she didn't know how much sleep he had gotten the night before, but knew that he had been having some problems sleeping recently. The drivers wife explained that they were going though some financial difficulties at the time and that the driver was putting in as many hours at work as possible recently. She also stated that the driver had a digestive system disease, she couldn't name it exactly, and stated that he had to watch what he ate or the condition would flare up, she said that he was not taking the medication for the disease because they couldn't afford the prescription. The police at the scene took drug and alcohol test from the driver, the medical report showed .36 blood alcohol level. The Critical Pre-crash Event is “this vehicle crossing over passing through the intersection”. The Critical Reason for the Critical Pre-crash Event is an “unknown recognition error”. Possible associated factors for this crash are the driver's possible fatigue, thinking about financial problems at home, and a medical condition, although these were not reported by the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+Vehicle 2:  Alcohol, Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Unknown recognition error

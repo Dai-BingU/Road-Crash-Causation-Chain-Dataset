@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred in the early evening (dusk) of a weekday in the intersection of the northbound lanes of a suburban primary arterial roadway and a secondary side road that is an access road to a shopping center. The bituminous arterial roadway featured two northbound lanes with paved shoulders and a posted speed limit of 80kmph (50 mph). The level roadway contained a slight curve right (east) with the radius taken about 60meters south of impact measuring 450meters. The east/west bituminous side road was straight and level with a posted speed limit of 56kmph (30mph) and stop signs controlling both east and westbound traffic at the intersection. There were no adverse atmospheric conditions as it dry at the time of the crash. V1, a 1993 Acura Vigor, had just pulled onto the arterial roadway traveling north as it accelerated in lane one. V2, a 2001 Toyota Tacoma, was stopped at the stop sign heading eastbound intending to cross over the intersection. V3, a 1986 Ford F-150 pickup, was stopped at the stop sign westbound intending to cross over the intersection. As V2 was crossing over the intersection it was struck on its right side by V1's front. The impact caused V2 to yaw to its left striking V3's front with its left. V2 then rolled to its left over the front of V3 before coming to final rest upside down on the bed of V3. V1 came to final rest on the north side of the side road facing northeast adjacent to V3, which never left its stopped position. All three vehicles were towed from the scene. V1 was driven by a belted 17 year-old male who along with the passenger in the right front seat was the beneficiary of deployed airbags. He was on his way home after leaving a nearby restaurant. He was wearing his prescription lenses that corrected a myopic (near-sighted) condition. Neither occupant was injured in the crash. The Critical Precrash Event for V1 was coded other vehicle encroachment, from a crossing street across path. The Critical Reason was not coded to this vehicle. The driver of V1 was coded as conversing with his passenger. He also assumed the other driver (V2) would yield the right of way. He was an inexperienced driver and was operating a vehicle that had very little (2mm) tread on the front tires. V2 was driven by a belted 26 year-old male whose traveling to his office on a work related trip. He stated to be in good health despite suffering from seasonal allergies for which he was taking an over the counter medication. He was wearing his prescription lenses that corrected a myopic (near-sighted) condition. Both the driver and his right front occupant were uninjured in the crash. The Critical Precrash Event for V2 was coded this vehicle traveling, passing through an intersection. The Critical Reason was coded as a driver related factor, a misjudgment of the other vehicles (V1) speed. The driver said in his interview that V1 did not look like it was coming all that fast. The driver of V2 did not have the right of way. The driver was coded as having proceeded with insufficient clearance. V3 was driven by a belted 31 year-old female who was on her way home after running an errand. She stated there was nothing she could do to avoid the crash as she was already stopped in the lane. The right front passenger was transported from the scene to a local hospital for treatment of possible injuries. V3 was not involved in the first harmful event and the Critical Reason was not assigned to this vehicle. There are no known associated factors and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Vehicle present problem 
+Vehicle 2:  Decision, Drugs present problem 
+Vehicle 3:  Distraction, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

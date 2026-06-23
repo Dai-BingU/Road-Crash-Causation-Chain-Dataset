@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a straight, level, dirt roadway that was full of potholes and was ice-covered. The posted speed limit was 89 kmph (55 mph). The crash occurred on a weekend during the mid-morning hours on a cloudy day. Vehicle 1 was a 1998 Chevrolet C1500 pickup that was driven by a 21-year old male. V1 was traveling south on the roadway when it struck a pothole or washboard area and the rear of the vehicle rotated counterclockwise. The driver compensated for the rotation by steering to the right and the vehicle then began to rotate clockwise. The vehicle skidded off the road to the right and the left side of the pickup struck a large tree where it came to final rest. The driver was found unconscious at the scene by a witness. The driver insisted that he was OK and later stated he was never knocked out. The driver refused to be transported to a local trauma unit. He was looked at on scene and released. The vehicle was towed from the scene due to damage. The driver of V1 reported that he was in very good health and was not taking any medications. He does not wear corrective lenses. He stated that he had just left his fiancé's home to go home to pick up his swimsuit. They were going to visit relatives at a local hotel. He reported that he had only driven a short distance when he drove over a washboard area and the rear of his vehicle started to rotate counterclockwise. He overcompensated and lost control of the vehicle. He also reported that he never applied the brakes but did accelerate immediately before impact so he would not strike the tree at the driver's door. The vehicle struck the tree at the front part of the pickup box. The Critical Pre-crash Event was coded as this vehicle control loss due to poor road conditions (puddle, pothole, ice, etc. The Critical Reason for the Critical Event was coded as too fast for conditions - ice-covered road with potholes. One associated factor coded was the condition of the roadway (dirt road with potholes and ice).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :

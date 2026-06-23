@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred at an unknown time early in the morning, sometime after midnight. The driver was unable to give a time, and the time the crash was reported was the time a passerby saw the vehicle in the light of dawn. Vehicle one (V1) was a 1984 white 4 door Oldsmobile Cutlass that struck the side of a building at a high rate of speed. V1 came from a one-lane roadway inside of a trailer court. This vehicle crossed a 2 lane bituminous roadway before entering a parking lot and crashing into the side of a building. The vehicle was towed and the driver was transported and admitted for a dislocated right hip. The driver is a 53-year-old male. Medical records states the driver admitted to smoking methamphetamine's as well as drinking alcohol earlier. Tests were positive for amphetamines and negative for alcohol. The driver stated he got into his vehicle to go see his brother about some problem. The driver had known about an accelerator problem before the crash. The vehicle would not remain running unless the driver held their foot on the gas and then putting the vehicle into gear. At the time of the crash the driver did just this, but according to the driver the accelerator stuck at full throttle. The driver, due to his altered conscious state, failed to control the vehicle as it sped down the street into the side of the building. The critical pre-crash event for V1 was coded: this vehicle loss of control due to - non-disabling vehicle problem. The critical reason was coded as a vehicle related factor: other vehicle failure (specified as: accelerator stuck).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Performance, Driver Stress/Emotion, Drugs, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Non-disabling vehicle problem (e.g., hood flew up) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Other vehicle failure (specify) :

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on an urban one-lane interstate exit ramp. The ramp intersects a four-lane east/west median divided road. The intersection is controlled by a traffic signal. The ramp makes a slight curve to the left as it exits the interstate but is straight for the last 85m prior to the intersection with a 2.8% downgrade at pre-crash. The speed limit is 89kph (55mph) with a ramp advisory speed of 72kph (45mph). Conditions were daylight and wet with light rain falling on a weekday morning. Vehicle #1 was a 2000 Saturn SW2 station wagon traveling south on the exit ramp. Vehicle #2, a 2005 GMC 3500 series flatbed pickup hauling 4½ tons of rocks on pallets, was stopped third in line at the traffic signal. Vehicle #1 was unable to stop in time and rear-ended Vehicle #2. Both vehicles came to rest at impact. The Saturn (V1) was towed due to damage, the GMC pickup (V2) was driven from the scene. Vehicle #1 was driven by a 48-year old female that was unrestrained with deployed frontal airbags. She sustained no injuries in the crash. The driver stated she was taking several medications (Coupril?, Buspar, and Paxil) and knew she shouldn't be operating a vehicle while under the influence of the drugs. She indicated the medications were for seizures, alcoholism and depression. The driver also had brain surgery three weeks prior to the crash due to bleeding on the brain from a fall injury. She was familiar with the roadway and the vehicle. The EDR data was retrieved from the vehicle. It indicated a maximum velocity change of 25.4kph (15.82mph). The pre crash graph revealed the brake switch status was on for the entire 5 seconds prior to algorithm enable. The vehicles speed dropped from 71kph (44mph) at 5 seconds prior to 26kph (16mph) at 1 second prior to AE. The Critical Pre Crash Event for Vehicle #1 was other vehicle in lane stopped. The Critical Reason for the Critical Event was coded as a performance error-poor directional control. Associated factors included drugs, inadequate evasive actions-insufficient braking inputs, other emotional factors, and rain. Vehicle #2 was driven by a 35-year old male that was belted with no airbags deployed and no injuries. He stated he had been stopped at the intersection for several seconds prior to the collision. The Critical Pre Crash Event for Vehicle #2 was other vehicle in lane traveling in same lane at higher speed. The Critical Reason for the Critical Event was not associated with this vehicle. The only associated factor coded to this vehicle that contributed to the crash was rain.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Performance, Driver Physical, Driver Stress/Emotion, Drugs, Weather/Environment present problem 
+Vehicle 2:  Distraction, Driver Physical, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

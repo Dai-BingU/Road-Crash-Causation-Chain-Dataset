@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash took place on a clear, early morning weekday on a 2-lane undivided east/west roadway with a posted speed limit of 48 kmph (30 mph). The roadway was dry, straight, and level and had a shoulder lane on either side of this road. The crash took place in the eastbound travel lane. Vehicle 1 (V1), a 2003 Dodge Durango driven by a 44-year old male, was traveling behind V2, a 2003 Dodge Stratus. The driver of V1 was not present at the crash scene and later attempts to contact him were made. When contacted, this driver stated that he was unwilling to participate in this study based on the advice given to him by his insurance company. He stated that he would not have participated even if his insurance company advised him differently. V2 was driven by a 29-year old male who was traveling from his residence to a job interview. This driver stated that as he was driving along in lane number 1 eastbound, a school bus traveling in the westbound lane came to a controlled stop. He explained that he first saw the yellow lights on the school bus begin to flash and almost instantly a metal, electronically controlled "swing arm" was deployed from the front left side of the bus, indicating that all traffic should come to a complete stop. (This "swing arm" actually had a traditional stop sign on its end, and it had a red light on it as well.) The driver did not remember seeing any child or children at the curb waiting for this school bus, but he explained that he was not going to pass this bus. He applied his brakes and he came to a complete and fully controlled stop. He further explained that just as he had come to his stop he heard tires screeching behind him, and then his vehicle was struck in its rear by V1. When asked if he noticed V1 traveling behind him, the driver of V2 said that he had not been aware of V1's presence. The Critical Pre-Crash Event coded to V1 was: Other motor vehicle stopped in lane. The Critical Reason for Critical Pre-Crash Event was coded as an unknown recognition error. Without an interview, no associated factors could be coded to this driver. The Critical Pre-Crash Event coded to V2 was: Other motor vehicle in lane - traveling in same direction with higher speed. The Critical Reason was not coded to this driver. Although the driver of V2 stated that he was unaware of V1's presence behind him, this did not warrant the coding of any inadequate surveillance factors. An external factor was coded as an associated factor because the driver of V2 was watching the school bus immediately before the crash occurred. Emergency medical services were dispatched to the scene and although the PAR indicates that only the driver of V1 was transported by medics to a hospital, the driver of V2 was also transported.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic present problem 
+Vehicle 2:  Distraction, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

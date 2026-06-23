@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred southbound lanes of a four-leg intersection with raised concrete medians. The intersection was signal-controlled with pedestrian crosswalks and lights. The roadway had a posted speed limit of 56 kmph (35 mph). The southbound approach was on a 2% downhill grade and curved left. The westbound approach was on level grade. Conditions were daylight and dry with cloudy skies. The setting was late morning hours on a weekday. Vehicle one was a 2001 Mazda Tribute compact utility traveling southbound in lane two, a through lane. Vehicle two was a 2000 GMC heavy truck used for collecting residential waste. V2 was traveling westbound in lane one which was also a through lane. Both vehicles proceeded through the intersection. The front of v1 impacted the right side of v2. V1 then rotated clockwise 90 degrees and struck the right rear wheels of v2 with its left plane. V1 came to rest in the northwest corner of the intersection. V2 came to rest in the roadway off the west leg of the intersection. The Mazda Tribute (v1) was driven by a 16-year old female who was transported with her right front passenger to a local trauma center with possible injuries. She was unable to be located for an interview. The investigating officer estimated her travel and impact speeds to be 56 kmph (35 mph). The Mazda compact utility was towed due to damage. The Critical Precrash Event for v1 was this vehicle traveling crossing over (passing through) the intersection. The Critical Reason was a driver related factor of an unknown recognition error. The right front tire of v1 had inadequate tread depth. This was an inexperienced driver. The GMC waste hauler (v2) was driven by a 50-year old male who was uninjured, as was his right front passenger. He stated that he was working his weekly trash collection route when apparently v1 ran the light and impacted the side of the truck. He didn't have a chance to react in avoidance. He estimated his travel and impact speeds to be 40 kmph (25 mph). The GMC waste hauler continued in service after the crash. The Critical Precrash Event for v2 was other vehicle encroachment from crossing street across path. No Critical Reason was coded to this driver. He drives this road weekly as part of his work route.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

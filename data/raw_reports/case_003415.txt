@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a straight, level, five-lane, east/west urban roadway. There were two travel lanes in each direction with a center turn lane and no shoulders. Conditions were daylight and wet during a weekday morning rush hour. It had been raining intermittently all morning, but at the time of the crash the rain had subsided. The posted speed limit in the area was 72kph (45mph). Vehicle #1 was a 1996 Jeep Cherokee traveling east in the right lane. Vehicle #2, a 1993 Toyota Pickup, was eastbound in front of Vehicle #1. The Toyota Pickup (V2) began to decelerate in preparation to make a right turn several meters ahead and the Cherokee (V1) rear-ended it. Both vehicles came to rest near impact facing east in the right lane. Vehicle #1 was driven by a 16-year-old female that was belted and not injured in the crash. She stated that she was on her way to school and looked away momentarily, she's unsure at what, and when she looked forward again she braked but was unable to avoid striking the slower moving vehicle. She estimated her speed before the crash at 80kph (50mph). The crash occurred roughly fifteen minutes prior to the beginning of classes and she was less that one mile from her school so there are no indications that she was in a hurry or late. The Cherokee was driven from the scene. The Critical Pre-crash Event for Vehicle #1 was other vehicle in lane traveling in same direction while decelerating. The Critical Reason for the Critical Event was coded as Internal Distraction. In the interview she said that she was unsure at what she looked away at but stated that “when I looked back up and the other car was there”, giving the indication that she took her eyes off the road to look at something inside the vehicle. Associated factors coded that contributed to the crash included: Inadequate surveillance-failed to look far enough ahead; false assumption of other road user's actions-assumed other driver would continue to proceed; following too closely to be able to respond to other road users actions; and general driver inexperience (she'd had her license two months). The vehicle also had low pressure in the right rear, which could have decreased stopping distance. The roadways were wet and it was drizzling outside. Vehicle #2 was driven by a 46-year-old female. She along with her 13-year-old son that was a passenger were both belted and taken to an area hospital where they were treated and released. The Toyota pickup driver stated she was traveling about 72kph (45mph) and had just let off the accelerator to begin to slow down in order to make a right turn into her son's school which was 200m ahead. She estimated her speed at the time of the collision at 68kph (42mph) and said she hadn't touched the brakes yet. Vehicle #2 was towed away from the crash with minor damage. The Critical Pre-crash Event for Vehicle #2 was this vehicle decelerating. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors that contributed to the crash for the Toyota pickup.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

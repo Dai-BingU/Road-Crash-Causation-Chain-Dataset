@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary A two vehicle rear-end type collision occurred at 1905 hours on a Wednesday. The collision occurred at a four-leg intersection comprised by an east/west roadway and a north/south roadway. The east/west roadway is undivided, dry, level, asphalt, and consists of seven lanes including a left turn pocket. The north/south roadway is undivided, dry, level, and made of asphalt. The south section of the north/south roadway consists of five lanes. Traffic in the northbound number two lane can either turn left or proceed straight. The northbound number three lane is a left-turn only lane. The northbound number one lane is a right-turn only lane. The north section of the north/south roadway consists of two lanes that lead to and from a local university entrance. The roadways are designated 35 mph (56 kph) zones. The intersection is controlled by a tri-light that was working at the time of the collision. Vehicle two is a 1996 Toyota Celica two-door coupe traveling eastbound in the number two lane. The vehicle stopped for the red traffic control signal behind 3-4 other vehicles. Vehicle one is a 2004 Lexus ES330 four-door sedan traveling eastbound in the number two lane approaching the collision intersection. The driver of vehicle one attempted to change lanes to the right as the front left of the vehicle struck the rear right corner of vehicle two. Vehicle one came to rest in lane one. Vehicle two came to rest at the impact point. Both vehicles were towed and the two occupants in vehicle two were transported. The driver of vehicle one was a 47 year-old female who was driving under the influence of alcohol with a BAC of 0.34. She attempted to flee the scene on foot but was returned by witnesses and the passenger in vehicle two. The driver was not available for interview. The pre-event movement for vehicle one was coded "going straight." The critical pre-crash event was coded "other motor vehicle in lane-other in vehicle stopped." The critical reason was coded "type of driver error unknown." Other than this driver being under the influence, little information is known about the driver. The driver of vehicle two is a 24 year-old male. The vehicle was stopped when struck in the rear by vehicle one. The pre-event movement was coded "stopped in traffic lane." The critical pre-crash event was coded "other motor vehicle in lane-traveling in same direction with higher speed." The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This crash involving three vehicles occurred late in the morning during daylight hours at an intersection with traffic lights. The speed limit for the roadway is 56 kmph (35 mph). The road is divided with no positive barrier. In the northbound direction it is a 4-lane uphill roadway that curves to the right as it approaches the intersecting roadway. For southbound travel it is a 3-lane downhill roadway that curves to the left. The east leg of the "T" intersection is comprised of three lanes and curves left upon the west bound approach to the intersection . All road surfaces were concrete and dry and there were no detrimental atmospheric conditions at the time of the crash. Vehicle one (V1) was a 1995 Chevrolet Tahoe driven by a 25 year-old male. He was traveling north in the number four left turn lane to turn left at the intersection. Vehicle two (V2) was a 1997 Chevrolet Venture minivan driven by a 32 year-old female with four passengers. They were traveling south in lane two of the southbound lanes, attempting to pass straight through the intersection. Vehicle three (V3) was a 1991 Acura Legend sedan driven by a 42 year-old male. V3 was stopped at the stop light in the west bound lane of the east leg of the intersection, waiting for the light to change to make a left turn into the southbound lanes. As V1 turned left in the intersection, the front of V2 impacted with the right front of V1. Both vehicles started to rotate and the left side of V2 impacted the right side of V1 in a side slap. V2 moved east and until the it's front impacted with the front of V3. Both vehicles came to rest at this point of impact. V1 continued to move eastward, crossing over a traffic island and a westbound left turn lane. V1 came to rest partially on the north curb of the left turn lane and partially on the roadway. All three vehicles were towed from scene. The critical precrash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded as a driver related decision factor: misjudgment of gap or other's speed. The driver of V1 observed V2 coming and proceeded. V1 did not have a protective green left turn arrow. The critical precrash event for V2 was coded: other vehicle encroachment, from opposite direction- over left lane line. The critical reason not coded to this vehicle. V3 was not involved in first harmful event. The critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

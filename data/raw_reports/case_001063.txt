@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred during a weekday afternoon rush hour in the middle of an urban “T” intersection. The intersection was composed of a north/south three-lane roadway (controlled by a stop sign) and an east/west four-lane roadway divided by a two-way center turning lane. The north/south roadway was bituminous, straight and level (note that when the scene pictures were done the street was under construction). The east/west road was bituminous, level, slightly curved to the left and featured a posted speed of 56kmph (35 mph). The traffic flow was slow due to heavy volume and the roads were wet as it was raining heavily at the time of the crash. V1, a 1993 Nissan Sentra, was stopped facing north preparing to make a left turn at the intersection. V2, a 2004 Nissan Sentra, was eastbound in lane two of the roadway approaching the intersection where it intended to go straight. The traffic was backed up in lane one of the eastbound portion of the roadway. A vehicle stopped in lane one waived V1 into the intersection, as V1 crossed into lane two it was struck on the left side by the front of V2. Both vehicles came to final rest in the middle of the intersection near the point of impact. Both vehicles were towed due to damage. The driver of V1, a 23 year-old male, refused any treatment from EMS on scene. He stated in the interview that the vehicles that were stopped in lane one waived him on to make the turn. He figured it was safe to complete the left turn. As he proceeded he was contacted by V2. He claimed that he could not see the other vehicle as it was raining very hard and the traffic stopped in lane one was blocking a clear view of lane two. The Critical Precrash Event for V1 was coded this vehicle traveling turning left the intersection. The Critical Reason was coded as a false assumption, as he figured the traffic in other lanes would yield as he was waived out. Associated factors include the fact that the problem was masked by the traffic pattern as well as the rain, wet roads and rush hour traffic pattern. The driver of V2, a 40-year-old male, had just picked his wife up from work and was on their way home. He stated in the interview that he was just driving down the roadway and the other vehicle just pulled across his lane. He tried to steer left and brake but there was on-coming traffic in lane three (the turning lane) and he was unable to stop in time. Neither the driver nor his passenger were injured in the crash. The Critical Precrash Event for V2 was coded other vehicle encroachment from crossing street, turning in opposite direction. The Critical Reason was not coded to this vehicle. Associated factors for this crash include the rain, wet roads, and rush hour traffic pattern.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Decision, Roadway, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

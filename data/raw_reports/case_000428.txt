@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary Case 2007-067 The crash occurred in the intersection of a north-south bound three-lane roadway with an east-west bound business driveway. The roadway had two northbound lanes (lane one was marked as right turn only) and one southbound lane. Both the roadway and the driveway were straight, dry, level, asphalt. The crash occurred early on a weekday afternoon under clear skies while traffic was moderate. V1, a 1996 Buick Century four-door with one occupant was traveling west on the driveway. V2, a 2006 Ford Taurus four-door with one occupant was northbound in lane two. After stopping, V1 started to turn left toward the southbound lane one. It traveled across the path of V2, which was going straight. Neither vehicle took any avoidance measures. The front right of V2 struck the left front of V1 causing it to rotate counter-clockwise. V1 came to rest facing west about two meters north of the impact point. V2 continued traveling north about three meters and came to rest facing north. Both vehicles were towed from the scene due to damage. V1, the Buick Century, was driven by an 89-year old female who was not injured. The driver had just left a nearby salon and was returning home at an unknown speed. She reported that she stopped at the intersection and looked both directions. She added that after not seeing any vehicles approaching she accelerated and started to turn left. She advised that she never saw V2 and took no avoidance actions before the collision. The Critical Pre-crash Event for V1 was this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was coded driver related inadequate surveillance, looked but did not see. The driver stopped and looked but did not see V2 approaching. Associated factors were assigned to V1 for driver physical condition (the driver said she had heart and lung problems and admitted taking medications which she declined to name); also, for the driver behavior, recognition factor, looked but did not see. V2, the Ford Taurus, was driven by a 37-year old female who received possible injuries and was transported to a hospital. The driver reported that she was traveling 56kph/35mph while traveling from home to pick up some children. The driver said that she was going straight and never saw V1 and took no evasive action before impact. The Critical Pre-crash Event for V2 was other vehicle encroachment, from crossing street turning into opposite direction. The Critical Reason for the Critical Event was not coded for this vehicle. An associated factor was assigned to V2 for driver physical condition because the driver was pregnant. Another factor was assigned for driver behavior, recognition, inadequate surveillance, failure to look either side ahead (since she did not see V1).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+Vehicle 2:  Driver Physical, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

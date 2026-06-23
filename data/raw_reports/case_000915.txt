@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary Case # 2005-45-157 The crash occurred on an east/west four-lane urban roadway with center left turn lane. There was a signal-controlled intersection 100 meters west of the crash location. The road was straight with a 5.5% grade as it traveled east to west. Conditions were wet with a light rain falling on a weekday evening and streetlights were illuminating. The posted speed limit was 72kmph (45mph) and traffic was heavy. V1 was a 2000 Mazda Protégé traveling westbound in the left lane. V2, a 2002 Oldsmobile Alero, was eastbound in the left lane. V1 attempted to slow for traffic coming to a stop at the intersection ahead, but was unable to and slid into the eastbound lanes striking V2 head on. V2 came to rest near impact facing east. The impact pushed the V1 backwards and it came to rest facing south in the westbound lanes. Both vehicles were towed due to severe damage. V1 was driven by a 25-year old male that was belted with deployed airbags. He was uninjured in the collision. He stated that when traffic came to an abrupt stop ahead his brakes locked up on the wet downgrade and he slid into the oncoming lane. Police charged him with driving faster than conditions allowed and failure to drive within lane lines. The Critical Precrash Event for V1 was this vehicle traveling over lane line on left side of travel lane. The Critical Reason for the Critical Event was traveling too fast for conditions (wet roads). Associated factors included failure to look far enough ahead and chose inappropriate/unsuccessful evasive action. The rain and wet road also contributed. V2 was operated by a 30-year old male that was belted with deployed frontal airbags. He was transported to an area hospital with non-incapacitating injuries along with an 18-year old female passenger that was belted. EDR data extracted from the vehicle indicated it was traveling 53kmph (33mph) before braking one second prior to algorithm enable. The driver also mistakenly hit the throttle when he braked. Maximum frontal velocity change was 39kmph (24mph). The Critical Precrash Event for V2 was other vehicle encroaching from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. This vehicle also had the associated factors of wet roads and rain.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Speed/Distance, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred during very early morning dark hours. The roadway was a level, concrete, five lane, divided Interstate with paved shoulders on both side and no rumble stripes. It was dark without street lights, the weather was clear and traffic was light. The roadway curved to the right slightly in the southbound direction of travel. The posted speed limit is 97 kmph (60 MPH). Vehicle one (V1), a 1994 Chevrolet S-10 Blazer driven by a 31 year-old male, was traveling southbound in lane one. V1 departed the roadway to the right shoulder and struck the rear of a disabled/abandon Vehicle two (V2) was a 1995 Plymouth Voyager van that was legally parked on th right shoulder. On impact V1 pushed the abandon vehicle (V2) forward causing it to rotate clockwise and come to rest in lane one facing west. V1 continued southbound, departed the shoulder into a grass ditch, and then returned back onto the shoulder. V1 came to rest on the shoulder facing southeast just south of the V2's final rest location. There were no pre crash tire marks and no witnesses. Both vehicles were towed due to damage. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical event was coded to V1 as a driver related factor: poor directional control (failing to control vehicle with skill ordinarily expected). The driver was also under the influence of alcohol per the investigating officer.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred on a straight, four-lane trafficway that is divided by a dirt median. The posted speed is 105 kmph (65 mph) with no obvious defects and no adverse weather. At the time of the crash, it was dark and the roadway was not illuminated by street lights. This roadway has a 2.5 meter wide (8.2 feet) improved shoulder on the right side with dirt pullouts in places. Vehicle one (V1), a 1997 Hyundai Tiburon, was southbound in lane one. V1 traveled off the right road edge and the right side struck a rock out-cropping. V1 then rolled over to the left two quarter-turns. V1 slid on its roof down the roadway before coming to rest off the west road edge on its roof facing generally east. The driver, a nineteen-year-old male, stated that he was on his cell phone arguing with his girlfriend when he reached over to the passenger floor area to retrieve a cigarette. When he looked up at the roadway he was off the right edge. He further stated that he is unemployed and had been drinking for most of the afternoon with some friends. He sleeps well and gets on average 9 hours of sleep per night. Medical records indicated a BAC test result of 0.125 for this driver. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical event was coded as a driver related factor: internal distraction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Alcohol, Cell Phone Use, Distraction, Driver Performance, Speed/Distance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

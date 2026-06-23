@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a nine-lane roadway divided by a concrete median. There were six eastbound lanes and three westbound lanes. The roadway was straight, with a 4 percent downhill slope to the east, dry and asphalt. The posted speed limit was 64kmph (40mph). Traffic was controlled by on-colors signals with pedestrian signal. Traffic was very congested when the crash occurred in the early afternoon on a weekday under clear skies. V1, a 1996 Saturn SL1 four door with one occupant, was traveling eastbound in lane two. V2, a 2007Jaguar XKR two door with one occupant, was stopped behind traffic in lane two and in front of V1. V1 braked hard, skidding, in an unsuccessful attempt to avoid a collision. V1's front end struck the rear end of V2, pushing it forward about two meters. Both vehicles came to rest still facing east in lane two. Both vehicles were towed from the scene. V1, the Saturn SL1, was driven by a 58-year old female who was not injured. The driver reported that she was traveling from home to work at an unknown speed. She said she needed to change from lane two to lane one, which was a right turn only lane, so she glanced into her rear view mirror to see if anyone was there. When the driver looked back forward she said she saw V2 stopped about two car lengths ahead of her. She reported that she applied her brakes but was unable to stop before she struck V2. The Critical Pre-crash Event for V1 was other motor vehicle in the lane stopped. The Critical Reason for the Critical Event was coded driver related inadequate surveillance. The driver claimed that she did not see V2 until after she looked back forward after glancing into her rear view mirror. Associated factors were assigned to V1 for the driver's physical condition due to her diabetes and medications; for driver recognition, failure to look far enough ahead and an exterior distraction for looking in her rear view mirror; and for highway due to the traffic congestion. V2, the Jaguar XKR, was driven by a 38-year old female who received possible injuries and was transported to a hospital. The driver reported that she was stopped behind other cars in a line of traffic stopped for the red light. She advised that she had been stopped over 10 seconds and glanced into her rear view mirror and noticed V2 approaching her from behind. She added that she could do nothing to avoid being hit from behind by V1. The Critical Pre-crash Event for V2 was other motor vehicle in lane traveling in same direction with a higher speed. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors were assigned to V2 for driver physical condition due to the presence of several medications on the medical report; for emotional due to work related stress, and for highway due to the traffic congestion.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs, Surveillance, Traffic present problem 
+Vehicle 2:  Driver Physical, Driver Stress/Emotion, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

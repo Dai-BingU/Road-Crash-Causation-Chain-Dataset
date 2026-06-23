@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-lane undivided roadway. The roadway approached a four-leg intersection with the side roads controlled by stop signs. The roadway had a posted speed limit of 89 KPH (55 MPH). The roadway was level for Vehicle 1 and 3% grade and hillcrest for Vehicle 2. Both vehicles had a black on yellow intersection warning sign prior to the intersection. The weather was clear, the roadway dry and it was daylight at the time of the crash. Vehicle 1, a 1998 Toyota Camry, was traveling west on the two-lane roadway approaching the intersection. Vehicle 2, a 1984 BMW 633 CSi, was traveling east on the same roadway approaching the intersection. Vehicle 1 turned left across the path of Vehicle 2 and was struck in the right side by the front of Vehicle 2. Vehicle 1 was rotated counterclockwise off the left side of the roadway and came to rest facing in an easterly direction. Vehicle 2 continued across the westbound lane, off the left side of the roadway and came to rest facing east. Both vehicles were towed due to damage. The Toyota Camry (Vehicle 1) was driven by a belted 22-year-old male who was transported, treated and released for a complaint of pain. He advised that he had driven about 20 minutes prior to the crash and was not in a hurry. He was familiar with the intersection and indicated that there was a hill(crest) from where the other vehicle came. He stated that he had slowed to make the left, started his turn and never saw the other vehicle. He also indicated that the sun was very bright at the time of the crash. He was in good health, took no medications and wore glasses for reading only. The Critical Precrash Event for Vehicle 1 was that this vehicle was traveling, turning left at intersection. The Critical Reason for the Critical Event was sun glare, a weather/environmental factor. This was chosen because this condition existed at the time of the crash. Driver indicated that the sun was very bright and he did not see the other vehicle. Additional factors coded to this driver were inadequate surveillance, looked but did not see and possible view obstructed by roadway design (hillcrest). The BMW 633 CSi (Vehicle 2) was driven by a belted 59-year-old male who complained of pain, but refused medical treatment. The belted 50-year-old female right front seat passenger also complained of pain and refused treatment. The passenger advised that they had been up in the country for the day, were heading back home to the city and not in a hurry. They had just stopped for apples at a local orchard less than a mile from the crash. She advised that her fiancé drove the road rarely. She stated that the other vehicle just turned in front of them and she saw no blinker. She was unsure if there were any avoidance maneuvers. She stated that she and her fiancé were tri-athletes. He was in good health, took vitamins and wore glasses for reading only. The Critical Precrash Event for Vehicle 2 was other vehicle encroachment from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. No additional associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Driver Inexperience, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Glare
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

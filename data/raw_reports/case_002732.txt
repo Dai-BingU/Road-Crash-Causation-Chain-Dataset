@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a two-way roadway with two-lanes in each direction. The roadway had a speed limit of 48kmph (30mph) and was straight and level. The conditions were raining and wet. The crash happened in the early morning hours of a weekday. Vehicle # 1 was a 1990 Honda Accord, which rear-ended Vehicle # 2, which was a Toyota Camry. Vehicle # 2 then rear-ended Vehicle # 3, a 2001 Toyota Rav-4. All crash events happened in the right lane of the roadway. The Honda Accord (Vehicle # 1) was driven by a 25-year old male who sustained no injuries and was not transported. He stated that he was looking to the left at an unknown exterior distraction prior to recognizing that the crash was imminent. Due to weather conditions, the driver also locked up his wheels in an attempt to stop. The Critical Pre-crash Event for Vehicle # 1 was coded Other Motor Vehicle in lane, other vehicle stopped. The Critical Reason was coded as Recognition Error, External Distraction. Two Associated factors coded to the driver were Driver Decision Factor, Did not realize that caution was required and use of prescription drugs, pain-killers due to his employment in the construction business. The driver of Vehicle # 2 was a 55-year old male who sustained no injuries and was not transported. No interview was obtained but stated that he was stopped at the traffic control signal at the intersection. Vehicle # 2 was driven from the scene. The Pre-crash Event was coded as other Motor Vehicle in lane, Traveling in the same direction with higher speed. No Critical Reason was coded to the driver of Vehicle # 2 because he was also stopped. The driver of Vehicle # 3 was a 34-year old female, who sustained no injuries at time of crash. The driver and occupant of Vehicle # 3 complained of neck, back and knee pains sometime later. She stated that she was stopped at the traffic control signal, where she was rear-ended. No interview was obtained for the driver. Vehicle # 3 was also driven from the scene. No Critical Pre-crash Event or Critical Reason were coded to the driver of Vehicle # 3 because she was not involved in the first harmful event. Vehicle # 3 was in front of Vehicle # 2 when the crash occurred.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+Vehicle 3:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

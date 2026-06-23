@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a four-lane, two-way, dry, level, asphalt roadway on a weekday afternoon. The posted speed was 56 kmph (35 mph). V2, a 1991 Buick Park Avenue, was eastbound as it slowed to a stop intending to left turn onto anther roadway. V1, a 1996 Pontiac Grand Prix, was also eastbound and had just changed lanes when the driver realized V2 was stopped. V1 applied his brakes but contacted the rear of V2. V1 came to final rest at the point of impact. V2 rolled down the roadway crossing the double yellow line and climbed the curb before coming to final rest over the sidewalk on the north side of the roadway nearly 49 meters from the point of impact. V1 was driven by a 20 year-old male in good health drove vehicle. He had just left the Secretary of States office where he had just taken his CDL test and was on his way to apply for a driver's job with the Salvation Army. This driver states that he did not see a turn signal or brake lights, he also claimed that when he applied his brakes they felt soft and his foot went to the floor. He does not remember hearing his tires locking-up. The Critical Pre-crash Event for V#1 was coded: other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Event was coded recognition error, inattention because he was thinking about the driver's test he had just taken and that he was going to apply for a driver's job that he wanted. The associated factor was a vehicle related problem of brake failure. While doing my vehicle inspection I applied the brakes and did not find a problem; however the driver stated that his father and Uncle had just replaced them the night before the crash. He thought there might have been an air bubble in the line. V2 was driven by a 75 year-old man. He did not speak very good English so his daughter, an occupant of the vehicle, gave the interview. She stated that the driver is in good health but does have diabetes and a pre-existing heart condition. This driver does wear glasses for a hyperopic (far-sightedness) condition. They stated that they were on there way home from the dentist office so she could get ready for work. The Critical Pre-crash Event for V2 was coded other vehicle in lane traveling with higher speed. The critical reason for the critical event was not coded to this vehicle. Associating factors to this driver may have been that he was conversing with his daughter and that she needed to get home so she could get ready for work.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Vehicle present problem 
+Vehicle 2:  Distraction, Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

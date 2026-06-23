@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle collision occurred mid-afternoon during daylight hours. The collision occurred at an intersection comprised by an east/west roadway, a north/south roadway and a north/west on-ramp. Both roadways are two-way, two lane. The north/south roadway is concrete with no grade. The east/west roadway is level, curves to the left and controlled by a stop sign. Both roadways are designated as 40 kmph (25 mph). Vehicle one (V1), a 1997 Toyota Camry sedan driven by a 84 year-old male with one passenger, was traveling northbound. Vehicle two (V2), a 2000 Toyota Tacoma X-tend cab pickup driven by a 69 year-old male, was traveling eastbound. Vehicle three (V3), a 1998 Buick Regal sedan driven by a 78 year-old female, was traveling westbound. As the vehicles entered the intersection the front of V1 struck V2 on the right, causing V2's rear wheels to run over the front of V1's hood. V2 then lost control, counter steering left on two wheels. All 4 wheels touched the ground and then V2 started to roll to the right and hit the front of V3. As V2 rolled he rolled up and over V3 landing on his roof facing northwest. All three vehicles were towed to do damage. Both drivers in V2 and V3 were transported. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical pre-crash event was coded to V1 as a driver related factor: inadequate surveillance. During the interview with the driver of V1, he continually asked the NASS researcher what happened; repeating it was clear then all of the sudden he looked in the rearview mirror and the truck was rolling. He thought he hit something but was unsure. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason for the critical pre-crash event not coded to this vehicle. V3 was not involved in first harmful event. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+Vehicle 3:  Driver Physical, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

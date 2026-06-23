@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash took place on a wet, bituminous, two-lane, undivided roadway just after noon on a weekday. The roadway had a posted speed limit of 40kmph (25mph). V1, a 2000 Chevrolet 1500 pick up, was traveling south in lane one. Just ahead of him V2 a 2005 Chrysler Town and Country, also traveling south began to decelerate as it approached a signal-controlled intersection. V1 did not decelerate and struck V2 in the back plane before both vehicles came to final rest in the roadway. V1 was driven by an 18 year-old male in good health, who was traveling back to his place of work from his lunch break. He stated that just prior to contact, he was reaching and looking down inside the vehicle to recover a soft drink from the center console area. When he returned his attention to V2 it was too late. He was uninjured and V1 was towed due to damage. The Critical Precrash Event for this vehicle was coded other vehicle in lane, traveling in same direction while decelerating. The Critical Reason was coded as a recognition error, internal distraction as the driver was reaching for his drink. An associated factor included inadequate surveillance as the driver took his eyes off the road and failed to look far enough ahead. V2 was driven by a 41 year-old female who claimed to be in fair health and suffering from a headache for which she had taken medication for) at the time of the crash. She was en route to her husbands' place of work with her 3 year-old daughter. She stated that there were approximately three to four non-contact vehicles between her and the intersection and she began to slow down when they did. Neither occupant was injured and V2 was towed due to damage. The Critical Precrash Event was coded as other vehicle in lane, traveling in same direction with higher speed. No critical reason was coded to this vehicle. Associated factors include her inattention as she was conversing with daughter at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Distraction, Driver Physical, Drugs, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

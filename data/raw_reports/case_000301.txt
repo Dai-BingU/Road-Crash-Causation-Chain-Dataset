@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a weekday afternoon in an urban area at an interchange/ intersection. The main roadway runs north and south with highway exit and entrance ramps on the east and west of the intersection. The conditions were cloudy and wet with little rain fall. Vehicle 1, a 1999 tractor-trailer with two occupants, was traveling east on an exit ramp entering the intersection. Vehicle 2, a 2001 Oldsmobile Alero with one occupant, was traveling north entering the intersection. Both vehicles entered the intersection at the same time causing the front of V2 to strike the right side of V1's trailer. The traffic signals for both vehicles were green, however, V1 made an illegal turn when it entered V2's path. The driver of V1 was a 60-year-old male that was on his way to make a delivery this morning when he took the wrong exit and tried to make an illegal turn to get on the right path. He exited the highway and approached a right-turn only (south) intersection knowing he had to go north toward downtown. His traffic signal was green and he decided to make a left turn, not knowing that turning left (north) from that lane was prohibited. He said he looked left and right before turning and reports that he saw northbound traffic approaching the intersection. He assumed that the northbound traffic had a red light and would stop. Once he entered the northbound lanes, he heard a noise and looked in his mirror to see what is was. It was at that point he realized a car had struck the right side of his trailer. He immediately drove to the shoulder to check on the condition of the other driver and figure out what happened. Neither he nor his passenger was injured in the crash. The Critical Pre Crash for V1 was coded: (25) this vehicle turning left at intersection and the Critical Reason for the Precrash was coded: (127) illegal maneuver. The driver of V2 was a 23-year-old male. After class, he began to drive home so he could prepare for his job that started within an hour. His home was close to campus and he had plenty of time to change clothes and make it to work. As he drove north toward the interchange/intersection, a semi-tractor trailer entered the intersection from the west and across his path. This driver applied the brakes and slid on the wet pavement toward the trailer's right side. The front of this driver's car struck the right side of the trailer and came final rest in the northeast intersection. The vehicle was towed due to damage but the driver was not injured. The Critical Pre Crash for V2 was coded: (65) other vehicle encroaching from crossing street, turning into same direction and the Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Drugs, Weather/Environment present problem 
+Vehicle 2:  Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

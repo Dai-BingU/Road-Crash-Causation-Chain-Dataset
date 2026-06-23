@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at a T-intersection of an east/west two lane arterial road and a two lane residential road that intersected from the south. The arterial road was straight with a 4% downgrade and had shoulders. Traffic counts indicate that it carries 17,888 vehicles per day. The residential road was straight with a 3% upgrade and was controlled by a stop sign. The posted speed for the arterial was 56kmph (35mph); the residential road's speed limit was 48kmph (30mph). Conditions were daylight and dry on a weekday morning. Vehicle #1 was a 1998 Ford Taurus traveling north on the two lane residential road. Vehicle #2, a 2002 Honda Odyssey, was eastbound on the two lane arterial. Vehicle #1 stopped at the intersection and attempted to turn left to go west on the two-lane arterial when its left side was struck by the front of Vehicle #2. Both vehicles came to rest near impact in the intersection. The Taurus (V1) was towed due to damage; the Odyssey (V1) was driven from the scene. No one was treated for injuries in the collision. Vehicle #1 was driven by a 21-year-old female. She, along with her 16-year-old passenger, were belted with no deployed airbags. In her interview she reported that the minivan (V2) had its right turn signal on, however there was no evidence of this and her statement was not deemed credible. Police charged her with failure to yield. The Critical Precrash Event for Vehicle #1 was this vehicle turning left at intersection. The Critical Reason for the Critical Event was a decision error, misjudgment of gap or other's speed. Associated factors included misjudgment of gap distance and rush hour congestion. being in a hurry was also coded, because she was late dropping off the passenger at the school bus stop. The driver was wearing glasses to correct a nearsighted condition. Vehicle #2 was operated by a 46-year-old female that was belted with no deployed airbags. She stated that another non-contact vehicle turned left at the intersection and Vehicle #1 followed the other vehicle into the intersection, leaving her virtually no time to avoid a crash. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from crossing street turning into opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. The only contributing associated factor was rush hour congestion. Physically, the driver wears glasses for both a near and farsighted condition and takes a daily allergy medication. She is also being treated for sleep apnea but reported no problems in the days leading up to the collision.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Stress/Emotion, Traffic present problem 
+Vehicle 2:  Driver Physical, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekday afternoon in a four-way intersection of two five-lane roads. The traffic flow was normal and all roads were dry, straight, level and controlled by traffic lights with a posted speed limit of 48kmph (30mph). The Traffic light controlling the northbound traffic was a temporary replacement due to the hurricane; it is documented in the on-scene images that it is visibly hard to see which color is indicted making it difficult for northbound vehicles to determine the right-of-way. V1, a 1993 Toyota Corolla, was traveling northbound in lane two going approximately 56kmph through the intersection, although he had a red light, he was unable to see it at the time. His vehicle was impacted on the left side by V2, a 2006 Honda ridgeline truck, who was traveling eastbound in lane two, going approximant 24kmph (15mph) through the intersection as his light had just turned green. V1 was driven by an 18 year-old male in good health who was wearing his prescription lenses that correct a Myopic (near-sighted) condition. He stated that he thought the light was green although couldn't be sure, but proceeded into the intersection anyways. The driver was not injured but his car was towed due to damages. The Critical Precrash Event for V1 was coded this vehicle traveling, passing through (crossing over) the intersection. The Critical Reason was an environment related factor, sign/signal inadequate, as the traffic signal was difficult to view. The associative factors include a decision error as the driver entered the intersection unable to determine the right-of-way. The driver was 18 and inexperienced plus he rarely travels this roadway. V2 was driven by a 38 year-old male in good health who was wearing his prescription lenses that correct a Myopic (near-sighted) condition. He stated that he proceeded into the intersection when his light turned green and could not avoid hitting V1. He was uninjured and V2 was driven from the scene. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street, across path. The Critical Reason was not coded to this vehicle. There are no associated factors coded to V2, as he was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Signs/signals inadequate
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

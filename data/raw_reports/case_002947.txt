@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred in the southbound lanes of a divided interstate roadway. The six southbound lanes were bituminous and straight, with an uphill slope of more than two percent. The posted speed was 105 kmph (65 mph). Conditions were dark but lighted, on a weekday evening. The roadway was wet, with light intermittent rainfall. Traffic flow was normal. V1, a 2006 Ford Mustang convertible, was traveling in the exit lane (lane one). V2, a 1993 Geo Prizm, was traveling in front of V1. V3, a 1997 Chevy Malibu, was traveling ahead of V2. Traffic in that lane started to back up. V3 slowed down to almost a stop. V2 slowed down behind V3. V1 failed to stop in time. The front of V1 made contact with the back of V2. Consequently, the front of V2 made contact with the back of V3. V1 was towed due to damage. There were no injuries. V1 was driven by a 38-year old male. He stated that he was on his way with his daughter to a football game. He was getting off at the exit to check into his hotel first before heading to the game. He said that V2 moved from an adjacent lane between him and V3, and then slowed suddenly due to traffic ahead. The driver indicated that he applied his brakes, but could not stop in time. The reason, he commented, was partially due to the gap distance and partially due to the wet pavement. The Critical Precrash Event for V1 was coded other motor vehicle in lane, traveling in same direction while decelerating. The Critical Reason for the Critical Event was a decision error, following too closely to respond to unexpected actions. One associated factor was roadway related. The pavement was wet from intermittent rainfall. Another associated factor for this driver was experience related. It was the driver's first time on that interstate, and he was not familiar with the roadway. In addition, it was the driver's first trip in a brand new rental vehicle. He was only somewhat comfortable with the car. A potential associated factor for the driver may have been an internal distraction, if the conversation diverted the driver's attention away from the driving task. V2 was driven by a 34-year old pregnant female. She said that she was on her way home from work. She stated that she did not change lanes just prior to the crash, and that she had been traveling in that lane for at least five minutes. She indicated that the ground was wet, but that it was not actually raining at the time of the crash. The car in front of her suddenly braked. As she came to a complete stop, she was hit by V1. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. As with V1, there was the presence of a wet roadway. V3 was driven by an 83-year old male. He stated that he and two passengers were on their way to the theatre. He said that he was about to exit, when he saw a series of brake lights in front of him. He slowed down, but within seconds felt a bump as he was impacted by V2. There is no Critical Precrash Event for V3, as it was not involved in the first harmful event. The Critical Reason for the Critical Event was not coded to this vehicle. As with V2, there was the presence of a wet roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Roadway, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+Vehicle 3:  Distraction, Drugs, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

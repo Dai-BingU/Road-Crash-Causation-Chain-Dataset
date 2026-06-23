@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash happened just before noon involving two light vehicles. The location was a three lane divided (no positive barrier, six lanes overall) straight roadway. Road surface concrete the weather was clear and the roads dry. Speed limit 64 kmph (40 mph). Vehicle one (V), a 1995 Chevrolet Blazer was stopped in lane 3, facing south. The vehicle ran out of gas and the driver was out of the vehicle. At the time of the impact the driver had walked away from the vehicle for a short distance to obtain gas. Occupants were seated in the right front and left rear passenger seats. Vehicle two (V2), a 1993 Ford E-350 cargo van driven by a 40 year-old male, was traveling south in lane three. An unidentified vehicle was traveling in front of V2 and swerved to avoid V1 The driver of V2 realized V1 was stopped and tried to change lanes to avoid a the collision, the left front of V2 impacted the rear of V1. V2 pushed V1 forward 24 meters (79 feet) south of its original position still facing straight south. V2 did not initially stop but kept on driving further south until the driver drove onto a business parking lot at the next intersection to check on his vehicle. He then turned around and parked the vehicle on a business parking lot located on the east side of the roadway. V1 was towed from the scene, V2 was driven from the scene. No injuries were reported. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction with higher speed . No critical reason for the critical event was coded to this vehicle. The critical pre-crash event for V2 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded driver related factor: too fast to be able to respond to unexpected actions of others (specified as: Intervening ((non-contact)) vehicle blocked this driver's view of V1 disabled in traffic lane.). The driver was otherwise paying attention to the driving task but realized too late V1 was not moving. The post crash movement of V1 and the missing skid marks indicate V2 did not brake and steered right to avoid the impact by changing lanes. The driver said the view was not obscured by sun glare at this time. Sun glare was definitely present as an associative factor. This fact and V2 's slightly dirty windshield were considered factors in this crash. The driver of V2 could not say if V1 was occupied with a driver and was not sure if the vehicle had its emergency light flashing.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Cargo Shift, Distraction, Speed/Distance, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：No driver present
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :

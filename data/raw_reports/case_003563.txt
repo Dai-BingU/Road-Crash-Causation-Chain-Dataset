@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at a four-leg intersection. The roadway leading eastbound into the intersection was a two-way, five-lane, undivided roadway. The roadway leading northbound into the intersection was also a two-way, five-lane, undivided roadway. These were straight, level, bituminous roads. Conditions were daylight on a weekday afternoon with dry roads and clear skies. Traffic flow was normal. V1, a 1995 Mitsubishi Mirage with one occupant, was traveling northbound in the left turn lane. V2, a 2004 Mitsubishi Outlander with one occupant, was traveling eastbound in the left through lane. Both vehicles were approaching the same intersection. As the vehicles entered the intersection, the front of V1 made contact with the right side of V2. Both vehicles were towed due to damage. V1, the Mitsubishi Mirage, was driven by a 28-year old male who was not injured. He said that he was on his way home from a friend's house. He was in the left turn lane, about to turn. He advised that he was having an argument on a cell phone with his girlfriend, whom he had been having relationship problems with. He thought at the time his light was green, but was admittedly distracted by the conversation. He said that he looked left, and saw a vehicle slowing down to turn right, but did not see V2. At the last second he applied the brakes, but it was too late. The Critical Precrash Event for V1 was this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was a recognition error, internal distraction. The driver did not recognize that his light was red because he was on a cell phone. There were some associated factors as well, which were also recognition related. The nature of the cell phone conversation was a heated argument with a girlfriend, which further distracted the driver from the driving task because he was upset. Another associated factor for this driver was an illegal maneuver. The driver failed to stop at the traffic control device. V2, the Mitsubishi Outlander, was driven by a 49-year old male, who was not injured. He stated that he left a little early from work to go to a doctor's appointment. He said he was not sure which lane he was in, but was intending to go straight through the intersection. The driver indicated that the other vehicle turned into his vehicle, and that he only had time to steer left, at the last second. The Critical Precrash Event for V2 was other vehicle encroachment, from crossing street, turning into opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Decision, Distraction, Driver Stress/Emotion present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle rear end crash occurred in early afternoon on a clear day. The crash occurred on a dry, level, bituminous, eight-lane roadway with three eastbound lanes. This roadway supports east to west traffic. The posted speed limit for this roadway was 72 kph (45 mph). There were no traffic control devices present at the location of the crash. Vehicle one (V1), a 2002 Dodge Durango with one occupant, was traveling east in lane two. Vehicle two (V2), a 2005 Ford Freestyle with four occupants, was traveling eastbound in lane three. Traffic was stopped in lane two to allow a tractor-semi-trailer to merge into lane two and then into lane 3. A large box van stopped in lane two to allow the vehicle to merge. V2, traveling in lane three, stopped due to congestion ahead. V1, approaching the box van, switched lanes to the left and the front of V1 struck the rear of V2. Both vehicles came to rest at impact. V1 was towed from the scene. The driver of V1, a 34 year-old male, stated he changed lanes to get around the merging non-contact vehicle and struck V2 in the rear. He also stated that a large yellow box van obstructed his view of V1. He drives the route weekly and is familiar with the vehicle. He did not realize caution was required due to the traffic congestion. The critical pre-crash event for V1 was coded "other motor vehicle in lane-other motor vehicle stopped." The critical reason was coded "other recognition error-impending problem masked by traffic flow problem." The driver of V2, a 29 year-old female, was traveling to a mall from her residence. She drives the route daily and is familiar with the vehicle. She came to a stop in lane three and her vehicle was immediately struck in the rear. She did not see V1 prior to impact. The critical pre-crash event for V2 was coded "other vehicle in lane, traveling in same direction at higher speed." A critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Speed/Distance, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other recognition error (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

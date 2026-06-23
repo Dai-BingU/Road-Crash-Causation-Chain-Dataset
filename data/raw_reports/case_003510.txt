@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a five-lane undivided roadway just east of an intersection with a two-lane roadway. There were two lanes in each direction with a left turn-only lane. The intersection was controlled by an overhanging traffic control signal without a pedestrian signal that was working properly. The roadway was straight, level, dry and asphalt. The posted speed limit was 64 kmph (40 mph). It was afternoon on a weekday. The weather was sunny, clear and dry. Traffic flow was heavy. V1, a 1996 Chevrolet C1500 pickup, was eastbound in lane two with one occupant. V2, a 1994 Ford Mustang two-door coupe, was also eastbound in lane two, behind V1, with one occupant. Traffic ahead of V1 slowed and then stopped due to congestion. V1 also slowed down. V2 ran into the back of V1 after skidding longitudinally approximately 10m. V1 was pushed forward about 1m to its final resting place. Both vehicles remained in their original lanes. V1, the Chevy pickup, was driven by a 47-year old female who refused EMS treatment for possible injuries. She was transported later to a hospital by her husband. The driver of V1 said she had been shopping and was headed to a nearby mall and that she was not in a hurry. She said she had just passed through the intersection when she noticed that traffic ahead of her was slowing and stopping. She slowed down due to the traffic ahead. She did not recall if she had stopped or was still moving when V2 ran into the rear of her vehicle, knocking hers forward. She said that after impact, she was able to stop without hitting the vehicle in front of her. The Critical Pre-crash Event for V1 was other vehicle in traffic lane traveling in the same direction with a higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. An associated factor coded to this driver was the medical conditions of diabetes and hypertension, for which she takes prescription medications. An associated factor for both vehicles was a traffic flow interruption in the form of congestion with a stop and go pattern. V2, the Ford Mustang, was driven by a 19-year old female who was not injured. She stated that she was on her way home from work in lane two behind V1 when traffic ahead slowed down and she ran into the back of V1. She said she did not know her speed prior to impact or if she applied her brakes. She said had been menstruating for two months, causing her discomfort, but was not taking any medication for the problem. The Critical Pre-crash Event for V2 was other vehicle in traffic lane traveling in the same direction, stopped. The Critical Reason for the Critical Event was inadequate surveillance - failed to look, looked but did not see. Evidence at the scene indicated that driver did in fact apply her brakes with lock-up. Associated factors coded to the driver of V2 include her physical condition, driver inexperience, and the traffic flow interruption due to a stop and go pattern.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Traffic present problem 
+Vehicle 2:  Driver Inexperience, Driver Physical, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

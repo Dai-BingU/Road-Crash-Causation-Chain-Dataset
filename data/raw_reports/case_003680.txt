@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, three-lane, straight and level road at an intersection controlled by an on-colors traffic signal, without a left turn green arrow. Conditions at the time of the dawn crash were clear and dry on the road, which had an unposted speed limit of 89kmh (59mph). Traffic was heavy in all directions. V1, a 2000 Ford F150 XLT pick-up truck, driven by a 37 year-old male, was southbound in the left turn lane, stopped, waiting to turn eastbound. When the light changed from green to yellow, v1 began to turn left, assuming the oncoming northbound traffic would stop for the red signal. V2, a 2003 Honda Pilot, driven by a 40 year-old male, was northbound in lane one in a line of traffic, some of which were turning right. As v2 approached the intersection, the light changed to yellow. V2, traveling at a reported 45 mph, decided to continue through the intersection, assuming v1 would not complete his turn. As v2 headed straight for v1, both drivers braked and steered to the west, and the front right of v2 struck the front right of v1 in the intersection. Both vehicles were towed from the scene due to damage. Both fully restrained drivers denied injuries, as well as the two children in child safety seats in the second row of v2. The Critical Precrash event coded to v1 was 'this vehicle traveling turning left at intersection.' The Critical Reason for the Critical Event coded was 'Driver related decision error-false assumption of other road users actions.' There were no contributing or associated factors coded to v1. The Critical Precrash Event coded to v2 was ' other vehicle encroachment from opposite direction-over left lane line.' The Critical Reason was not coded to this vehicle. A Contributing Factor coded to the driver of v2 was 'false assumption of other road users actions.'
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision, Distraction, Driver Fatigue, Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Starting in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

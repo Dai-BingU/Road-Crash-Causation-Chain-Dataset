@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound third lane of a 6-lane highway divided into 3-lanes on each side by a grassy median. On the westbound side of the highway there were three lanes. Lane one was a right turn lane, and lanes two and three were through lanes. The road was a -2% grade and the posted speed limit was 72kph(45mph). Conditions were rainy and wet in the morning rush hour on a weekday. Vehicle #1 was a 1999 Ford 250 series cargo van with approximately 227kg (500lbs) of tools and equipment aboard (located in an equipment cage) traveling in the third lane westbound. Vehicle #2, a 1999 Chevrolet Malibu, was also in the third lane westbound stopped at a traffic signal. While Vehicle #2 was still stopped at the red light Vehicle #1 struck Vehicle #2 in the rear with its front bumper. Vehicle #1 came to rest in the same spot that Vehicle #2 had occupied a moment before, facing west. Vehicle #2 was knocked through the intersection and came to rest 78 meters west of the point of impact still facing west in a left turn lane. The Ford Van (Vehicle #1) was driven by a 27-year old male who was belted and uninjured in the crash. The airbag did not deploy. The driver of Vehicle #1 was on his way to work and stated that when he topped the hill he saw the Malibu (V2) already stopped at the light and that he began to brake about 30m (100 feet) before point of impact. He then further stated that he also steered right to try and avoid the crash but the van just kept traveling straight into impact. The driver drives that road on a daily basis and is comfortable with his vehicle. Vehicle #1 was driven from the scene. The Critical Precrash Event for Vehicle #1 was other motor vehicle in lane stopped. The Critical Reason for the Critical Precrash Event was a decision error: too fast for conditions . Rain and the wet roadway are considered contributing associated factors. Also the previously mentioned 227kg (500lbs) of cargo, tools and equipment on a downhill grade that was wet would account for some control loss. The Malibu (Vehicle #2) was driven by a belted 24-year old female that was transported via ambulance to a local hospital with possible injuries. No airbags deployed in this vehicle and the two children located in the 2nd row were in child seats and uninjured. The driver of Vehicle #2 stated that as she was bringing the children to daycare and while waiting for the light to change she heard the brakes of Vehicle #1, looked in her rearview mirror and then was struck from behind. Vehicle #2 was towed due to damage. The Critical Precrash Event for Vehicle #2 was other motor vehicle in lane traveling in same direction with higher speed. The Critical Reason for The Critical Precrash Event was not coded to this vehicle. The only contributing associated factor coded to this vehicle was rain.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

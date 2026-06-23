@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the afternoon of a weekday in the middle of a four-way urban intersection. The intersection consisted of a two-lane north/south roadway (there were parking lanes on either side of the street as well as a designated bicycle lane situated between the parking lanes and the travel lanes) intersected by a two-lane east/west roadway and controlled by a properly functioning traffic control signal. The bituminous roadways were dry, straight, and level with a posted speed limit of 48 kmph (30 mph). The traffic flow was normal and there were adverse atmospheric conditions at the time of the crash. V1, a 2002 Lincoln Town Car with one occupant that was serving as a taxi, was northbound in lane one approaching the intersection where it intended to turn left. V2, a 1993 Buick LeSabre with one occupant, was southbound approaching the same intersection from the opposite side as V1. V1 began its left turn at the same time V2 entered the intersection. The front of V1 impacted the left side front and middle of V2. The impact caused V1 to rotate counter-clockwise in a southwardly direction until it came to its final rest in the crosswalk of the southbound travel lane. V2 rotated approximately 90 degrees in a clockwise motion and came to its final rest to the right of V1. At final rest both vehicles were facing west. V1 and V2 were towed from the scene due to damage. The driver of V1, a 37-year-old male, was on his way to pick up a passenger. He explained that as he neared the intersection he saw V2 traveling south on the other side of the intersection but thought he had enough time to make my turn and did not realize how fast V2 was going. V1 driver acknowledged at the time of the interview (several weeks after the crash) that, in hindsight, he was driving as if he were in a rush and should have yielded to any southbound traffic that had been approaching the intersection. He was not late for his scheduled pick-up, but stated that he often drives a bit rushed and somewhat aggressive. He suffered non-incapacitating injuries as a result of the crash and was transported for treatment. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was a driver related error a misjudgment of gap or other's speed. Associated driver related factors were failure to yield to oncoming traffic, turning without signaling, and traveling too fast for conditions. The driver of V2, a 22-year-old male, had just left his residence and was on his way to pick up his girlfriend. According to the driver he saw V1 on the other side of the intersection and stated that V1 did not have a turn signal on and therefore had no reason to believe that V1 would make a left turn in the intersection. He said that as soon as he saw V1 turning, he applied his brakes and steered to the right. He was uninjured as a result of the crash. The Critical Precrash Event for V2 was coded other motor vehicle encroachment, from opposite direction, over left lane line. The Critical Reason for the Critical Event was not coded to V2. The only associated factors coded to V2 were traveling too fast for conditions as a possible internal distraction as the driver was listening to the radio.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance present problem 
+Vehicle 2:  Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

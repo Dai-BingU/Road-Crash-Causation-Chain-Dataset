@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred just after noon in daylight hours on a two-way, north/south undivided roadway. The southbound section is comprised of one lane and the northbound section is comprised of two through lanes. These two northbound lanes are divided by a narrow painted median. Prior to the crash location, the southbound area is comprised of two right curving lanes. These lanes then merge into one straight lane that descends to a +2% downward slope. The speed limit on the road was 48 kmph (30 mph). There were no traffic controls in the area. Vehicle one, a 1996 Chevrolet Cavalier carrying one occupant, was traveling southbound in the second southbound lane. Vehicle two, a 2000 Chevrolet Blazer carrying one occupant who was five-months pregnant, was traveling southbound in the first lane ahead of V1. At the point where the two southbound lanes merge into one lane, traffic began to slow. The driver of V2 stated that V1 quickly changed lanes and cut in front of the vehicle just behind V2. The driver of the cut-off vehicle honked their horn in protest. V2 came to a stop for traffic ahead and the front of V1 contacted the rear of V2. V1 was towed due to damage and the driver was not injured or transported to the hospital. V2 was not towed and the driver was not injured or transported to the hospital. The driver of V1 was a 26-year old female that had been driving for approximately ten years. She was on her way from a doctor appointment to her workplace. She was familiar with both the vehicle and the roadway. She was on her way from work to eat lunch at home. She stated that she was aware of the traffic congestion and admitted that she may not have been paying full attention. The driver of V2 was a 27-year old female that had been driving for ten years. She was familiar with the vehicle and drove the area often. She was on her way to work after a doctor's appointment. She was 5 months pregnant and taking pregnancy vitamins and the medication Synthroid. The driver of V2 stated that just before the impact she heard a car behind her honking its horn. She looked in her rearview mirror and observed V1 approaching after it had just passed the vehicle that was honking its horn. She stated the driver of V1 had her head down and was not watching where she was driving. The Critical Pre-crash Event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Pre-crash Event for V1 was coded as a driver recognition factor: interior distraction. She was looking down in her vehicle prior to impact according to the observations by the driver of V2. Due to the interior distraction, the driver of V1 was not paying full attention to the driving task. By doing this she misjudged the gap and speed of forward traffic. The driver was also driving in an aggressive manner prior to the crash. The Critical Pre-crash Event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Pre-crash Event was not coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Distraction, Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

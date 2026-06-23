@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at an intersection on a four-lane undivided (2 lanes in each direction) level, dry asphalt roadway. This crash happened in the late morning hours on a clear weekday. The posted speed was 72 kmph (45 mph). The driver of V#1 was driving southbound in lane #1. He stated that he had a clear view of the roadway and noted that the road where he wanted to make a left turn was just ahead. The driver of V#1 then changed lanes to the left and decelerated to a stop. V#2 was traveling southbound in lane #2 on the same roadway and its driver stated that V#1 changed lanes in front of him and suddenly stopped. He said that even though he braked hard and steered to the right, there was not enough space for V#2 to stop. V#2 then contacted V#1 in the rear, pushing V#1 through the intersection and rotating V#1 counterclockwise to come to final rest in the second northbound lane of the roadway. V#2 traveled another 40 ft. before coming to final rest in its original lane of travel (lane #2). Vehicle#1, a 1997 Pontiac Montana minivan, was driven by a 77-year old male who reported he was traveling at a speed of 56-64 kmph (35-40 mph) as he was not familiar with the area. He also stated he had just left paying respect to a friend in a nearby town and was traveling to a rotary luncheon when the crash occurred. This driver also stated that he was in good health despite being on medication for arthritis and acid reflux. He also reported that he wears glasses for a myopic (nearsighted) condition and wears hearing aids due to a 75 percent hearing loss. Vehicle#2, a 2000 Dodge Ram 3500 dump truck, was driven by a 22-year old male who reported he was traveling south at a speed of 64 kmph (40 mph). He reported that he has no health conditions and was well rested. He stated he was running an errand to pick up parts for a truck at home. The Critical Precrash Event for V#1 was coded as "Other motor vehicle in lane, traveling in same direction at higher speed." The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors coded to this driver include: inattention, distraction by an exterior factor (looking for street signs), a misjudgment of the velocity of V#2, and unfamiliarity with the roadway. Physical factors included myopia, hearing impairment, and taking prescription medications. The Critical Precrash Event for V#2 was coded as "Other motor vehicle in lane - other vehicle stopped." The Critical Reason for the Critical Event was coded as "Too fast for conditions to be able to respond to unexpected actions of other road users," a decision error. Associated factors coded to this driver (in addition to driving too fast) include inadequate evasive action and a hyperopic (farsighted) condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Physical, Drugs present problem 
+Vehicle 2:  Decision, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :

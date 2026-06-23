@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a two-way roadway with one lane in each direction. The roadway was straight and level and had a speed limit of 48kmph (30mph). It was daylight and clear with no adverse conditions. Vehicle # 1 was a 1994 Acura Vigor that was traveling eastbound. Vehicle # 2 was a Lincoln Town Car that attempted to make a left turn into a gas station. The front of Vehicle # 1 contacted the front of Vehicle # 2. The front of Vehicle # 1 then impacted the right side of Vehicle # 2 before coming to a final rest. The Acura Vigor (Vehicle # 1), was driven by a 47-year old male who did not sustain any injuries. The driver stated that he was going straight when Vehicle # 2 attempted to turn in front of him. The Acura Vigor was towed due to damage. The Critical Pre-crash Event for Vehicle # 1 was coded as: Other vehicle encroaching into lane, from opposite direction over left lane line. The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. No associated factors were coded to the driver. The driver of the Acura Vigor was not thought to have contributed to the crash. The 1993 Lincoln Town Car (Vehicle # 2), was driven by a 50-year old female who did not sustain any injuries. The 49-year old male passenger in the front-right seat position did not sustain any injuries but was transported to a local medical facility. The Critical Pre-crash Event for Vehicle # 2 was coded as: This vehicle traveling,turning left at intersection The Critical Reason for the Critical Pre-crash Event was coded as a Driver decision error, misjudgment of gap and others' speed. The associated factors were coded as a driver inattention factor due to pending future event, and the driver being in a hurry to the hospital. The driver was also conversing with the passenger.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Distraction, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Misjudgment of gap or other's speed

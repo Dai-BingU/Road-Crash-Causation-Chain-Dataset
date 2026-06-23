@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during early evening hours on a six-lane, straight, downhill, median divided, bituminous, fully controlled, interstate roadway that has a cement wall for a barrier. The speed limit on this roadway was 113 kmph (70 mph). This roadway runs north to south and there were no adverse atmospheric conditions at the time of the crash. Vehicle one, a 1993 Ford Probe was traveling northbound in lane three at approximately 137 kmph (75 mph). Traffic was dense at the time of the crash. Vehicle one steered sharply to the right to avoid a collision with the vehicle in front of it. Vehicle two (V2), an unknown Heavy/Medium truck was traveling northbound in lane one. During vehicle one's attempt to avoid the collision with the non-contact vehicle, vehicle one departed lanes three and two and made contact with vehicle two in lane one. Vehicle one then crossed lanes two and three and departed the roadway making contact with the cement barrier wall. Vehicle one came to rest facing north on the west shoulder of the roadway. The driver of vehicle one stated that he was running late for work. At the time of the crash he was on his cell phone explaining that he would be late. The crash occurred approximately 35 miles from his place of employment. Vehicle two never stopped for the crash and there is no known information about vehicle two. The critical pre-crash event for vehicle one was coded as "this vehicle traveling: over the lane line on right side of the travel lane". The critical reason for the critical pre-crash event was attributed to vehicle one and was coded as "driver related error, internal distraction". The critical pre-crash event for vehicle two was coded as "other vehicle encroachment: from adjacent lane (same direction)- over left lane line". The critical reason for the critical pre-crash event for vehicle two was coded as "not coded to this vehicle".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Cell Phone Use, Distraction, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

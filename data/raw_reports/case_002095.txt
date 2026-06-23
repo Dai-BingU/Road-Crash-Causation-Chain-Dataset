@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekday on the southern (left) roadside of a two-lane undivided roadway. The east/west roadway consisted of one lane in each direction with a posted speed limit of 64kmph (40 mph). The bituminous roadway was dry, level, curved to the left as one traveled westbound. The traffic flow was normal and there were no adverse atmospheric conditions. V1, a 2000 Chevy Monte Carlo with one occupant, and was westbound negotiating the curve at a constant velocity. As V1 continued west unidentified vehicle pulled out of a parking lot without yielding to oncoming traffic, turning in front of V1. To avoid collision, V1 then swerved to the left, skidded about 24.7 meters, jumped the curb, and struck a light post before coming to final rest on the lawn of a nearby business. The driver of V1, a 22-year-old male, reported no injuries, but was a little shaken up. He stated that he was attempting to retrieve his cell phone that he dropped on the floor when a van pulled out of the parking lot and did not yield. He braked and steered left to avoid the non-contact but struck the curb and light post on the southern roadside. The Critical Precrash event for V1 was coded this vehicle traveling, off the edge of the road on the left side. The Critical Reason for the Critical Precrash Event was coded as a driver related factor, an internal distraction (reaching for the dropped cell phone). In addition to the internal distraction an incorrect avoidance maneuver was coded as an associated factor.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

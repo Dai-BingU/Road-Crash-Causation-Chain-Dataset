@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the middle of a four-way residential intersection. The intersection consisted of an east/west 2-lane roadway and a north/south two lane roadway (with a third lane designated as a left turn lane) controlled by a properly functioning traffic signal. The east/west roadway was bituminous, dry, straight, and level. The north/south roadway was bituminous, dry, and level with a sharp curve to the left. The posted speed limit for both roadways was 56 kmph (35 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. Vehicle one (V1), a 2003 Honda Civic, was westbound in lane one of the roadway approaching the intersection where it intended to continue straight. Vehicle two (V2), a 1993 Geo Prism, was southbound in lane two negotiating a curve while approaching the same intersection where it intended to turn left. As V2 entered the intersection and began its turn, V1 failed to stop for the red light and its right front corner was struck by the front of V2. After impact, V1 rotated counter clockwise approximately 45 degrees, while V2 rotated clockwise approximately 25 degrees. Both vehicles came to final rest in the eastbound lane of travel. Both vehicles were removed from the scene due to damage. The driver of V1, a 60 year-old female, was not injured as a result of the crash and did not require medical attention. There were no other occupants in the vehicle when the crash occurred. A partial interview was obtained from this driver while on-scene. She related that she was not familiar with the area and that this was her first time on this particular roadway. She clearly stated that she traveled through the red light and struck the other vehicle, which was attempting to make a left turn. She also relayed that she was not tired and no health issues hindered her driving abilities. The Critical Precrash Event for V1 was coded this vehicle traveling, crossing (passing through) intersection. The Critical Reason was coded as a driver related factor inadequate surveillance (looked but did not see). The two associated factors that were coded to this driver were inexperience (first time on roadway, unfamiliar with area), and a failure to stop for a traffic control device. The driver of V2, a 21 year-old female, was not injured as a result of the crash. There were three other occupants present in the vehicle, none of whom were injured. Numerous attempts to contact the driver could not produce an interview or further information regarding this crash. The Critical Precrash Event for V2 was coded other motor vehicle encroachment, from crossing street, across path. The Critical Reason was not coded to this vehicle. There were no known associated factors that could be coded for this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

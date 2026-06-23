@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a six-lane roadway divided by a left turn only turn lane. There were two lanes westbound and three lanes eastbound. The roadway was straight, level, dry, asphalt with a posted speed limit of 80kph (50mph). The crash occurred on a weekday morning, during the rush hour, under heavy fog conditions. Traffic flow was congested. V1, a 2003 Mazda MPV minivan with one occupant was traveling westbound in lane two. V2, a 1998 Ford Expedition SUV with one occupant was stopped westbound in lane two ahead of V1 in a line of traffic. V1 skidded with no skidmarks visible in an unsuccessful attempt to avoid striking V2. The front of V1 struck the rear of V2 pushing it forward about a meter. Both vehicles came to rest within a meter of impact facing west in lane two. V1 was towed due to damage. V2 left the scene prior to researcher arrival. V1, the Mazda MPV, was driven by a 37-year old female who was coded for incapacitating injury and transported to a hospital. The driver later reported that she was traveling about 40kph/25mph while commuting from home to work. She said she saw a dog running across the roadway from south to north across her path and was watching out for it. She added that when she looked back forward she realized she was about to strike the rear of V2. She said she applied her brakes with lockup but was unable to avoid striking V2 from behind. The Critical Precrash Event for V1 was coded other motor vehicle in the lane stopped. The Critical Reason for the Critical Event was coded external distraction due to the driver being focused on the animal in the roadway. Associated factors were assigned to V1 for the rush hour congestion, and foggy weather conditions; for driver physical condition due to medications she was taking for diabetes and depression; for inadequate surveillance (failure to look far enough ahead; and for an exterior factor, forward, the animal in the roadway. V2, the Ford Expedition, was driven by a 54-year old male who was not injured. The driver reported that he had been stopped over 10 seconds behind a line of rush hour traffic while commuting from home to work. He advised that he glanced into his rear view mirror and saw V1 approaching from behind and realized that it was not going to stop so he placed his foot on the brakes, braced for impact and was struck from behind by V1. The Critical Precrash Event for V3 was other motor vehicle traveling in the same lane with a higher speed. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors were assigned to this vehicle due to the rush hour congestion and the foggy weather conditions.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Driver Stress/Emotion, Drugs, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

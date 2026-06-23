@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle collision occurred on a three-lane, two-way street with a continuous left turn lane. The pre-crash roadway is slightly uphill with a grade of +3%. The crash occurred at the end of a left curve in the road. The roadway has a posted speed limit of 48 kmph (30 mph). It was dark, but lighted and raining at the time of this crash. Vehicle one, a 1966 Cadillac Deville, was traveling south. Near the apex of the curve in the road, the Cadillac continued straight, traveling into the parking lane. Vehicle two, a 1982 Oldsmobile Cutlass, was parked on the right side of the road against the curb. The front of vehicle one struck the back of vehicle two. Vehicle two was pushed along the curb and struck another parked vehicle. Vehicle one was towed due to damage. The driver of vehicle one, a sixty-nine-year-old male, refused to be interviewed. He was arrested at the scene for driving under the influence. The police report indicated that he had been drinking and was impaired. The critical pre-crash event was coded “this vehicle traveling over the lane line on the right side of travel lane.” The critical reason for the critical event assigned to this driver is “unknown critical non-performance.”
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Performance, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown critical non-performance

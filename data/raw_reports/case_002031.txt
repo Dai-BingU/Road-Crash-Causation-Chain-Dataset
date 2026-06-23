@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during daylight hours in a four-leg intersection. The north/south roadway is undivided, level, straight and has three lanes. The intersecting roadway is divided, straight and level. The westbound lanes approaching the intersection consist of two through lanes, a left turn lane and a right turn lane. The speed limit on these roadways is 89 kmph (55 mph). There were no adverse atmospheric conditions at the time of the crash. Vehicle one (V1), a 1991 Ford Explorer, was stopped southbound, waiting to turn left (east). Vehicle two (V2), a 1999 Volvo S70, was westbound in lane three. The driver of a non-contact vehicle in westbound lane one indicated that it was clear for V1 to enter the intersection to make the left turn. In the intersection, the front of V1 struck the front of V2. Both vehicles were towed due to damage. The driver of V1, an eighteen-year-old female, was traveling from a store to her home. She was well rested and healthy at the time of the crash. This driver drives on this roadway weekly. She rarely drives this vehicle and was not comfortable with it. This driver stated that she did not see V2 prior to the impact due to a vehicle in lanes one of the westbound lanes. The driver of V2, a twenty-eight-year-old male, was traveling with his wife and three young children, from a restaurant to their home. He was healthy, well rested and very familiar with his vehicle. This driver travels this route daily. This driver stated that he did not see V1 prior to the crash. The critical pre-crash event for V1 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; turned with obstructed view." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from crossing street; turning into opposite direction." The critical reason for the critical pre-crash event not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway, Surveillance present problem 
+Vehicle 2:  Distraction, Drugs, Roadway, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

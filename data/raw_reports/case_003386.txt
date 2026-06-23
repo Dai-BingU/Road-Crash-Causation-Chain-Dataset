@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred on an undivided, two-lane, level roadway. In the southbound direction, this roadway curves to the right (the radius of curvature is 266 meters and the superelevation is three percent). There is an uphill embankment off the left side of this roadway. The speed limit on this roadway is 72 kmph (45 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1997 Chevrolet Lumina, was southbound in lane one. V1 traveled off the left side of the roadway and struck three trees at the top of the embankment. V1 then rolled over four quarter-turns. V1 was towed due to damage. The driver of V1, a twenty-five-year-old female, was traveling from her home to her mother's house. She was well rested and familiar with her vehicle and the roadway. This driver stated that she did not remember the crash. Medical records for this driver indicate that she has a seizure disorder and has not been taking her medication. This driver had opiates in her system according to the medical record. The critical pre-crash event for V1 was coded as "this vehicle traveling; off the edge of the road on the left side." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; heart attack or other physical impairment of the ability to act."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

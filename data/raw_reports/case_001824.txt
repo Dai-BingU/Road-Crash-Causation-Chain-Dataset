@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lane of a four-lane roadway. There were two southbound lanes and two northbound lanes. This was a straight, level, bituminous roadway, with a posted speed of 56 kmph (35 mph). It was early evening on a weekday and the road was dry and the sky was clear. V1, a 2001 Audi TT two door with one occupant, was traveling northbound in lane two. V2, an unknown year Chevrolet pick-up was also traveling northbound in lane one. V1 changed lanes to the right and attempted to make a right turn into a gas station. V1 did not see V2 in lane one. The front of V2 contacted the right side of V1 before V1 came to final rest in the driveway of the gas station. V2 did not stop for the crash. V1, the Audi TT was driven by a 30-year old male who reported no injuries. He advised that he was on his way home from work. He was in the middle lane and was going to get over into the right lane so he could turn into the gas station. He looked to the right and there was no on behind him so he got over. He started to make his turn into the gas station and a truck hit him on the right side. The truck kept going he was probably drunk. He advised that he was traveling 18-32 kmph (11-20 mph). The Critical Precrash Event for the driver of V1 was “this vehicle traveling: turning right at intersection”. The Critical Reason for the Critical Precrash Event was a driver related factor: “inadequate surveillance (failed to look, looked but did not see)”. The damage to the left front of this car is from a previous crash that happened the week before. V2 was a hit and run Chevy truck. The Critical Precrash Event for V2 was “other vehicle encroachment from adjacent lane - over left lane line”. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

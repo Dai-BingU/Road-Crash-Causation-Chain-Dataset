@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a four-leg intersection. Both roadways are two-lane, undivided and straight. The east/west roadway has a speed limit of 40 kmph (25 mph) and is controlled by a stop sign for the westbound traffic approaching the intersection. The north/south roadway has a speed limit of 48 kmph (30 mph). It was dark with streetlights on at the time of the crash and there were no adverse atmospheric conditions. Vehicle one (V1), a 1997 Dodge Intrepid, was westbound, approaching the intersection, being pursued by the police. V2, a 1998 Ford Escort, was northbound, traveling straight through the intersection. V1 failed to stop for the stop sign. In the intersection, the left side of V1 was struck by the front of V2. V2 rotated counterclockwise and came to rest against the west curb north of the intersection. V1 rotated counterclockwise and traveled off the roadway in the northwest corner of the intersection. The back right side of V1 struck a concrete fence pillar. V1 rotated clockwise and the front struck a metal utility pole. The pole was pulled out of the ground and struck the top of V1. V1 then rotated counterclockwise, rolled onto its right side and the back struck another fence pillar. V1 rolled back over onto its wheels and the front left side struck another fence pillar. V1 came to rest facing northwest. Both vehicles were towed due to damage. The driver of V1, a twenty-three-year-old male, was traveling with a twenty-five-year-old male. No interview was done with either of these individuals. No information is known about this driver other than that the police were pursuing him at the time of the crash. The driver of V2, a twenty-two-year-old male, was traveling from a store to his home. He was well rested, healthy and familiar with his vehicle. He drives this route daily. As he was traveling northbound, he passed a church on the right side of the road, prior to the intersection. He looked over at the church and made a sign of the cross. He then looked forward again and saw V1 entering the intersection. This driver did not have time to make any avoidance maneuvers. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: illegal maneuver. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason for the critical pre-crash event for V2 was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Stress/Emotion, Speed/Distance present problem 
+Vehicle 2:  Distraction, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

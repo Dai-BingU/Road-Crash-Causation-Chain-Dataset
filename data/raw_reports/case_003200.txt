@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This crash occurred on a clear weekday afternoon on an undivided 4-lane north/south roadway. The center lanes were asphalt and the outside north/south lanes were concrete. The roadway was level and dry and the posted speed was 72 kmph (45 mph). The crash happened on a long straight section of the roadway with no traffic controls. V1, a 2000 Chevrolet G-series van, was traveling southbound in lane 2. As it traveled down the roadway, the driver drifted across the double yellow centerlines and sideswiped the left side of V2, a 1999 Chevrolet G-series van that was traveling north in lane 2. The driver of V2 saw that V1 was coming across the lines and steered to the right to avoid being struck head-on. V1 continued traveling south in the second northbound lane and struck V3, a 2000 Pontiac Grand Am, head-on. V3 bounced back in its original travel lane and was contacted in the rear by V4, a 1995 Pontiac Grand Am. V4's final rest was at its contact point. V3 slid back up to the right side doors of V1. V1's final rest was at an angle across Lanes 1 and 2 on the northbound side of the roadway. V2 drove to the next driveway and turned around and came back to the scene. V1 was driven by a 66-year old female that had apparently suffered a heart attack while driving south on the roadway. Her husband stated that they where on their way home from the doctor's office when the crash occurred. He also stated that the week before the crash the driver had been complaining that her arms were sore and tingly. That was the reason for the visit to the doctor. He reported that before the crash she had been taking no medications at all. He also stated that she was the one who took care of their wheelchair-bound son, lifting him in and out of bed, the tub, etc. V2 was driven by a 32-year old male who stated he was in good health and does not wear glasses or take any medications. The driver stated that he was traveling north on the roadway going to a job site when he noted the southbound vehicle (V1) crossing the centerline. He then steered right so as not to be contacted, but the left rear side of his vehicle was sideswiped by V1. He then turned around in a nearby driveway and returned to the scene of the crash. V3 was driven by a 44-year old female who stated that she was in good health but took a medication for thyroid problems. She stated that she had gotten out of work early and was on her way home. The Critical Pre-crash Event for V1 was: this vehicle traveling over the lane line on the left side of travel lane. The Critical Reason for the Critical Event was coded as a critical non-performance error: heart attack or other physical impairment of the ability to act. It was the driver's husband's belief that the driver of V1 had passed away in the moments before the crash occurred. The Critical Pre-crash Event for V2 was coded: other vehicle encroachment from opposite direction over left lane line. The Critical Reason was not coded to the driver of V2 and no associated factors were coded to him. No Critical Pre-crash Event and no Critical Reason were coded to the driver of V3 because she was not involved in the first harmful event. Associated factors coded to this driver include fatigue, following too closely, and the use of a prescription thyroid-replacement medication.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical present problem 
+Vehicle 3:  Decision, Driver Fatigue, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

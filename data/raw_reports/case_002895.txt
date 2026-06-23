@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a four-lane, divided, interstate highway with a guardrail-protected median. The highway had a posted speed limit of 105 kmph (65 mph) and the westbound lanes had a 3% uphill grade. Conditions were dusk and dry with cloudy skies. The crash occurred on a weekday. Vehicle one was a 2000 Ford F650 medium truck hauling a tandem-axle trailer loaded with a small bulldozer. Vehicle two was a 2005 Toyota Highlander sport utility traveling west just ahead of v1 in lane one. Vehicle three was a 2004 Toyota Scion XA 5-door hatchback traveling ahead of V2. Vehicle four was a 1995 GMC Suburban sport utility traveling ahead of V3. Ahead of the crash-involved vehicles was a non-contact vehicle which had just experienced a tire blowout. This non-contact vehicle was traveling at a very low rate of speed in lane one. V2, V3, and V4 began slowing down for the non-contact vehicle. V1 proceeded at highway speed, and struck V2 in the rear with its front. V2 came to rest in lane two. V1 then struck V3 in the rear with its front. V3 came to rest on the left shoulder. V1 then struck V4 in the rear with its front. V1 and v4 came to rest in lane one. V4 then caught fire. V1 was driven by a 27-year old male who was uninjured. He refused to be interviewed. The investigating officer estimated his travel and impact speeds to be 108 kmph (67 mph). V1 was towed due to damage. The Critical Precrash Event for v1 was other vehicle in lane, traveling in same direction while decelerating. The Critical Reason was an unknown recognition error. An associated factor for this driver was driving without the proper CDL license for a medium truck hauling a tandem axle trailer. V2 was driven by a 44-year old male who was uninjured. He stated that he noticed v1 approaching in his rearview mirror and steered left in an attempt to avoid a collision. This driver notes that he was only clipped by v1 thanks to his quick avoidance reaction. He estimated his travel and impact speeds to be 72 kmph (45 mph). V2 continued in service. The Critical Precrash Event for V2 was other motor vehicle in lane traveling in same direction with higher speed. No Critical Reason was coded to this driver. This driver only obtained four hours of sleep the night before the crash. This trip was the first time the driver had driven this roadway in 10 years. The driver was operating a rental car and it was the first time with this vehicle. V3 was driven by a 36-year old male who suffered possible injuries but was not transported from the scene. He stated that traffic had slowed ahead and he observed an approaching truck in his rear view mirror, though his view was partially obscured by V2. He did not have a chance for an avoidance maneuver, and after being struck was pushed left across three lanes of traffic to the left shoulder. He estimated his travel and impact speeds to be 24 kmph (15 mph). V3 was towed due to damage. The Critical Precrash Event and Reason were not coded for V3 because it was not involved in the first harmful event. No associated factors were present for this driver. V4 was coded for this case because it was not immediately clear which vehicles were the first three involved in the crash. V4 was driven by a 37-year old female who suffered possible injuries. She was not transported, but three of her four passengers were transported to a local hospital with possible injuries. She stated that she was paying attention to the vehicle ahead of her driving with a flat tire. She was struck from behind without warning. After coming to final rest, her vehicle caught fire in the rear fuel tank area. She estimated her travel and impact speeds to be 8 kmph (5 mph). V4 was not towed due to police-reported damage. The Critical Precrash Event and Reason were not coded for V4 because it was not involved in the first harmful event. The driver of V4 was not employed at the time of the crash. No other factors were present for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance, Traffic present problem 
+Vehicle 2:  Driver Inexperience, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

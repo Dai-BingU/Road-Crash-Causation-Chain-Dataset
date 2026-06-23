@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred mid-afternoon at the intersection a 5 lane concrete level dry divided roadway, and a two-lane two-way driveway to a private business. There were no traffic controls for either vehicle at this intersection; however the persons entering the primary roadway from the driveway were required to yield the right of way. The posted speed limit for the primary north/south roadway was 56 kmph (35 mph). The crash occurred late in the afternoon during daylight hours with no adverse weather conditions. Involved were two passenger vehicles. Vehicle one (V1), a 1992 red Honda Civic 2-door hatchback driven by a 18 year-old male with one passenger, was stopped facing east at a driveway waiting to turn north. The driver had been waiting there a few minutes due to the traffic. The driver saw the approaching vehicle, and according to the driver the approaching vehicle had on the right turn signal. V1 pulled out from the driveway and was struck on the left side by the front of vehicle two (V2). Vehicle two (V2), a 2005 silver Chevrolet Malibu 4-door driven by a 26 year-old female, stated that she was just going for a drive to get out of the house. As V2 was heading south in the lane 1 of a 5 lane divided roadway approaching a driveway, the driver noticed V1. The driver of V2 stated that V1 came up to the roadway edge, stopped then rolled backwards and then came to the edge again. V2 then turned on the turn signal to change lanes to the left. V1 then pulled out into the roadway and V2 impacted with the left side of V1. Both vehicles had to be towed from the scene due to mechanical problems sustained during the crash. The passenger of V1 was treated at the scene by paramedics. The driver of V1 was in a hurry to get to a local fast food restaurant and the driver was talking to his passenger. Even though the driver has driven this vehicle before, it was not his and he was not to familiar with it's lack of power being a manual transmission. Also the driver showed signs of impatience during the interview. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: false assumption of other's actions. The driver of V2 was in a rental car that she had obtained just a few days previous, so she had little or no experience with this vehicle. When questioned, the driver said she did turn on her turn signal but she did not know if was the left or right. The driver of V2 was involved in a crash 3 days earlier which totaled her other vehicle, The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience present problem 
+Vehicle 2:  Decision, Distraction, Driver Fatigue, Driver Inexperience, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

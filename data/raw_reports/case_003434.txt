@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 2001 Ford Mustang, was traveling westbound on a three-lane undivided dry asphalt roadway in daylight conditions. V2, a 2003 Dodge Stratus, was traveling eastbound on the same roadway. The posted speed limit was 80 kmph (50 mph). Both vehicles were approaching a 4-way signalized intersection. V1 was traveling in lane two intending to make a left-hand turn at the intersection. V2 was traveling in lane two, intending to go straight through the intersection. The light was yellow for both drivers and the driver of V1 stated that he thought V2 would stop. The front of V2 contacted the front right of V1. V1 spun around counterclockwise and came to final rest in the roadway. V2 departed the roadway on the right side and its front contacted a sign and then a guardrail before coming to final rest against it. The driver of V1 was a 21-year old male who reported that he had been traveling between 2-16kmph (1-10mph) prior to the crash. He had no health-related problems and had taken no medication prior to the crash. He was rested and traveling to the video store. He was wearing his prescribed lenses that corrected astigmatism. He was uninjured and refused treatment. The Critical Pre-crash Event for the driver of V1 was this vehicle turning left at intersection. The Critical Reason for the Critical Pre-crash Event was a decision error, false assumption of other's actions. No additional associated factors were coded to this driver. The driver of V2 was a 56-year old female who reported that she had been traveling between 67-80kmph (41-50mph) prior to the crash. She had a history of heart problems and had taken an unknown medication for it. She was rested and traveling home. She was wearing her prescribed lenses that corrected a hyperopic (far-sighted) condition. She sustained some injuries and was treated on scene, but refused to be transported to a local trauma facility. The Critical Pre-crash Event for the driver of V2 was other vehicle encroachment from opposite direction over left lane line. The Critical Reason for the Critical Pre-crash Event was not coded to the driver of V2 and she was not thought to have contributed to the crash. She took appropriate avoidance action.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

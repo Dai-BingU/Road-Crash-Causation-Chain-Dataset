@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at a four-leg intersection in the southbound lane. The east leg of the intersection was an apartment and office entrance. There were three northbound lanes: a left turn-only, a right turn-only, and a through lane. There were two southbound lanes: a straight/right lane and a left turn-only lane. The intersection was signal controlled and at a hillcrest. The roadway had a posted speed limit of 56 kmph (35 mph) and the northbound lanes had an uphill grade of 4 percent. The southbound lanes had an uphill grade of 5 percent. Conditions were daylight and dry with clear skies. The setting was mid-afternoon hours on a weekend. Vehicle one was a 2002 Mercedes-Benz C320 station wagon. It was traveling north in lane three preparing to turn left at the intersection. Vehicle two was a 1997 Nissan Altima sedan traveling south in lane one preparing to travel straight through the intersection. Both vehicles proceeded into the intersection at the same time. The front of V1 impacted the front left of V2. Both vehicles traveled a short distance and came to rest southwest of the point of impact. The Mercedes-Benz C320 (V1) was driven by a 78-year old female who was treated on scene for possible injuries. She stated that she was heading home from lunch when another vehicle hit her while she turned left. She said he was going fast and she didn't have a chance to react. She estimated her travel and impact speeds to be 8 kmph (5 mph). Her Mercedes-Benz station wagon was towed due to damage. The Critical Pre-crash Event for V1 was this vehicle traveling, turning left at an intersection. The Critical Reason was a driver related factor of inadequate surveillance. The intersection where the crash occurred had limited sight distance due to its location at the top of a hillcrest. This driver has high blood pressure and COPD, for which she is taking medications. She wears corrective lenses for a nearsighted condition. She is retired. She has not had any formal driver's education. The Nissan Altima (V2) was driven by a 23-year old male who was transported to a local hospital with possible injuries. He was unwilling to be interviewed the one time he was reached by telephone. The investigating officer estimated his travel and impact speeds to be 56 kmph (35 mph) and 48 kmph (30 mph), respectively. The Nissan sedan was towed due to damage. The Critical Pre-crash Event for V2 was other vehicle encroachment from opposite direction over the left lane line. No Critical Reason was coded to this driver. This driver has a seizure disorder, but reported to medical personnel that he does not take any medications. The tire pressure was low on his left rear tire, and the tire brands were mismatched. This driver was carrying a revoked license.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Physical, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

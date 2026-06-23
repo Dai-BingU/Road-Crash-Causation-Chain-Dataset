@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-lane east/west urban roadway. The road is normally a four-lane road but utility construction had it narrowed to two lanes. Barrels and a painted line were on the south side of the road separating the area undergoing construction. The section of road where the crash occurred is straight, but there is a sharp 30-degree curve 103m east of impact. Precrash road grades are -3.6% westbound and +3% eastbound. The speed limit was 48 kmph (30 mph) due to construction; curve advisory signs are also in place. Conditions at the time of the crash were dry on a weekend morning just after dawn with light traffic. Vehicle #1 was a 1993 Eagle Talon traveling westbound. Vehicle #2, a 1996 Nissan Sentra, was eastbound. Vehicle #1 crossed over into the eastbound lane and struck Vehicle #2 head on. After impact the Talon (V1) continued west and came to rest in its original lane 50m west of impact. The Sentra (V2) rotated clockwise and came to rest just off the north edge of the road on the sidewalk facing south 7m northwest of impact. Both vehicles were towed due to damage. Vehicle #1 was driven by a 21-year-old male. He and his front right passenger were belted and transported to an area trauma center. Police charged the driver with DUI, open container, a roadway lane violation, and no proof of insurance. He was arrested after release from the hospital. The passenger reported that they were arguing and that the driver was upset and had been driving erratically. The Critical Precrash Event for Vehicle #1 was this vehicle traveling over lane line on left side of travel lane. The Critical Reason for the Critical Event was a recognition error, internal distraction. The driver and passenger were arguing at the time of the crash and it's believed he may have been looking at the other occupant in the seconds leading up to the critical event. Associated factors included fatigue - the driver hadn't been to sleep because he'd been at a bar and at acquaintances' houses all night. Medical records indicated that the driver of Vehicle #1 had a BAC of .18 one hour and twenty minutes after the crash. He also tested positive for cocaine and cannabinoids. Other contributing factors were inadequate surveillance and a traffic flow interruption due to the construction. Other possible factors are unknown; the driver was never located for a follow-up interview. Vehicle #2 was operated by a 50-year-old female that was belted with deployed frontal airbags and not injured in the collision. The Critical Precrash event for Vehicle #2 was other vehicle encroaching from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors coded to this driver include the use of an antihistamine the driver was taking for allergies, the traffic flow interruption due to the construction zone, and the driver's statement that she was uncomfortable with the construction area. She reported that she generally avoided the area altogether since construction began due to the frequent changes to traffic flow. None of the associated factors were thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Distraction, Driver Fatigue, Driver Stress/Emotion, Drugs, Surveillance, Traffic present problem 
+Vehicle 2:  Driver Inexperience, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

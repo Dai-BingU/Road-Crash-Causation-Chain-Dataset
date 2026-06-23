@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the late afternoon hours of a weekday in the middle of a T-intersection. The bituminous two-lane north/south roadway was straight with an uphill grade greater than 2% and featured a speed limit of 56kph (35mph). This roadway was controlled by a stop sign as it intersected with the other roadway. The bituminous east/west consisted of three lanes, including a middle common turning lane. This roadway was straight and level and featured a posted speed limit of 72kph (45mph). The road was wet at the time of the incident due to steady rainfall. V1, a 2005 Acura TL, was facing north stopped at the T-intersection intending to turn left. V2, a 1992 Ford Ranger, was traveling east approaching the intersection intending to continue straight. As V1 attempted the left turn and entered the intersection its left side was struck by the front of V2. The impact caused V1 to spin clockwise, approximately 90 degrees before coming to rest in the eastbound lanes. V2 also spun approximately 90 degrees, but in a counter clockwise motion before coming to final rest. Both vehicles had to be removed from the scene due to damage. The driver of V1, a 42 year-old female, suffered unknown injuries and had to be extricated from the vehicle. She was then taken to the hospital for treatment. No other occupants were present in the vehicle when the collision occurred. No interview could be obtained from this driver after several attempts to contact her were made. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Precrash Event was coded as an unknown type of driver error. Associated factors for this vehicle include the wet, slick road conditions and the constant rainfall. The driver of V2, a 47 year-old male, had minor injuries and was taken to the hospital for observation. There was another occupant present in vehicle two, and was also taken to the hospital for minor injuries after striking the windshield. No interview was obtained from this driver after numerous attempts as well. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street across path. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. Associated factors for this vehicle include the wet roads and constant rainfall. RESEARCHER'S NOTE: This researcher observed numerous passing vehicles spinning their tires while leaving from a stopped position at the intersection, due to the wet roads as well as the slight incline. This may have been experienced by vehicle one as well, thus causing increased time in clearing the intersection.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

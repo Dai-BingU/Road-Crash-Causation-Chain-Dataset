@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary Vehicle one, a 1996 Nissan Maxima 4 door sedan (V1), was traveling southbound on the canal road and was engaged in a contest of speed with Vehicle two (V2), an unidentified light vehicle model Toyota that was following closely. V1's back was contacted by the front of V2 and V1 entered a clockwise rotation, crossed the dirt berm that separated the 2 roadways, then tripped over as it went up the embankment and over the dirt berm. V1 rolled left 2 quarter turns, and slid on it's top plane before coming to final rest on the roof facing generally south. A construction worker witnessed the crash events and also noticed the V1 driver exit his vehicle, and get into the passenger side of V2, who had stopped next to V1's point of final rest. The V2 driver told a witness at the scene that he was taking the V1 driver to a doctor for medical treatment. Neither driver could be located for interview. The witness was able to identify the make and color of V2, but no other information has been identified. The owner of V1, who claimed to be the V1 driver's girlfriend, came to the crash scene and consented to be interviewed. She stated that the V1 driver had come to her house from the crash and had left her residence on foot. She had noticed that the V1 driver had an apparent leg injury. V1 was towed due to damage. The driver of V1 was a 21-year-old male who could not be located for an interview. His girlfriend, who was the owner of the vehicle, reported he had 7 hours of sleep the previous night and left for work in her vehicle during the morning dawn hours. The crash time was reported to be 15 minutes later. The girlfriend reported the driver had driven the vehicle less than two times in the past three months. No further information is known about the driver. The critical pre-crash event was coded as: other motor vehicle in lane/ traveling in same direction with higher speed. This vehicle was rear-ended as its driver was traveling too fast for conditions and driving in an aggressive fashion racing with V2. The critical reason for the critical event was attributed to the driver of V2 and was not coded to this vehicle. The driver of V2 was a male of an unknown age. This driver fled the scene in his vehicle and there was no interview or vehicle inspection obtained due to insufficient information available to make contact attempts. The driver was engaged in a contest of speed with V1 and was also traveling too fast for the dirt road conditions. He failed to maintain a safe following distance and was reported by the witness as tailgating V1 prior to impact. This driver exhibited poor directional control when he allowed his vehicle to rear-end V1 initiating the crash events. The critical pre-crash event was coded as: other motor vehicle in lane/ traveling in same direction with lower steady speed. The critical reason for the critical event was coded to V2 as a driver error: Aggressive driving behavior.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Roadway, Speed/Distance present problem 
+Vehicle 2:  Aggressive Behavior, Decision, Driver Performance, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Aggressive driving behavior

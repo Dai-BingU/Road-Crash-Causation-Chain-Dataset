@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This four-vehicle crash occurred on an undivided, level, two-lane roadway near a driveway. The eastbound approach lane is straight and the westbound approach lane curves to the left. The speed limit for this roadway is 89 kmph (55 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2001 Chevrolet Silverado pickup, was eastbound in lane one. Vehicle two (V2), a 1998 Saturn SC, was eastbound in front of V1 and vehicle three (V3), a 2000 Dodge Stratus was eastbound in front of V2. Vehicle four (V4), a 2007 Honda Odyssey, was westbound in lane one. V3 stopped to turn left into the driveway. V2 stopped behind V3. The front of V1 struck the back of V2. V2 moved forward and the front struck the back of V3. The front of V4 struck debris flying from the first event. V1 and V2 were towed due to damage. The driver of V1, a twenty-year-old female, was on her way home from work. She was healthy, well rested and familiar with her vehicle. She travels this route daily. This driver stated that she was adjusting the radio and did not realize that V2 and V3 were stopping. The driver of V2, a thirty-five-year-old female, was on her way home from another city. She was well rested, healthy and familiar with her vehicle. She travels this route daily. This driver stated that she did not see V1 prior to the crash. The driver of V3, a seventeen-year-old male, was on his way from school to work. He was healthy, well rested and familiar with his vehicle. He travels this route daily. This driver stated that he accelerated when he noticed that V1 was not stopping. The driver of V4, a thirty-year-old female, was traveling with four passengers. The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; internal distraction." The critical pre-crash event for V2 was coded as " other motor vehicle in lane; traveling in same direction with higher speed." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle." The critical pre-crash event for V3 was coded as "not involved first harmful event." The critical reason for the critical pre-crash event for V3 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

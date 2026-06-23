@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash involved two vehicles, occurred after rush hour early in the evening on a two-lane exit ramp from a six lane, divided freeway with a positive barrier. Both roads were dry, traveled asphalt. The exit ramp had a positive grade. The posted speed limit is 80 kmph (50 mph). Traffic was light at the time of the collision and there were no adverse weather conditions, it was dark but lighted, Vehicle one (V 1) was a 1986 Cadillac Sedan DeVille driven by a 29 year-old male. It was southbound in the second travel lane. Vehicle two (V 2) was a 1997 Ford F-150 pick-up truck driven by a 43 year-old female with one passenger was southbound in the first travel lane. As V 1 was taking the exit ramp, it departed the roadway on the left side. The left side of the vehicle struck a guardrail. V 1 returned to the original travel lane, then crossed the number two and number one travel lanes on the exit ramp. It was struck on the right side by the front of V 2. V 1 rotated counterclockwise and was struck on the right side by the left side of V 2. V 1 then veered off to the left and the front struck the concrete traffic barrier on the left shoulder of the exit ramp. The driver of V 1 attempted to flee the scene, but the vehicle was only able to move a few meters before stopping. After V 2 was struck on the left side by the right side of V 1, it then departed the roadway on the right and struck the concrete traffic barrier. V 2 came to rest facing north on the right side shoulder. Both vehicles were towed from the scene, the driver of V 2 was transported to a local medical facility, the driver of V 1 refused medical attention. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the left side. The Critical reason was coded to V1 as a driver related decision factor: too fast for curve/turn. The driver was unable to control the vehicle as it was exiting the freeway. The critical par-crash event for V2 was coded: not involved in first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Performance, Speed/Distance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

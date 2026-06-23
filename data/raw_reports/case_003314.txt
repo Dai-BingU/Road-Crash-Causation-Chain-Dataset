@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle daytime collision occurred during daylight mid-afternoon hours. The collision occurred at the intersection of a north-south roadway and an east-west roadway. The pre-crash north/south roadway is straight, dry and worn concrete paving with a grade of -8% and a stop sign at the intersection. The pre-crash east/west roadway is straight and level worn concrete paving. Both roadways are non-divided two-lane roads and have posted speed limits of 48 kmph (30 mph). Vehicle one (V1), a 2004 Volvo V70 station wagon, driven by a 77 year-old female was stopped at the intersection. Vehicle two (V2), a 1983 Porsche 944 coupe, driven by a 16 year-old male with one passenger was traveling eastbound on the roadway. V1 was waved into the intersection by an uninvolved vehicle stopped across the intersection at the corresponding stop sign. V1 pulled into the intersection into the path of V2, who was traveling at a high rate of speed. V2 slammed on the brakes and skidded for 25 meters (82 feet), striking the left rear of V1. After impact V1 traveled an additional 12.45 meters (40.9 feet) to final rest for a total distance of 37.45-meters (122.87 feet). V1 was not disabled, and was driven from the scene. V2 was disabled, and was towed later in the day. None of the occupants were injured. The driver of V2 stated that he was driving the speed limit, but the rough calculation of his speed derived from the skid marks was 71 to 79 kmph (44 to 49 mph). The driver of V 2 stated that he had just shifted into 3rd gear, which is consistent with the speed mentioned and hard acceleration. When the driver of the Volvo pulled away from the stop sign, the distance to V2 would have been sufficient had V2 been traveling the speed limit. Furthermore, if V2 had not locked the brakes into a long skid, but had modulated the brakes better, the collision could have been avoided despite the speed and distance to the intersection. Inexperience and aggressive driving were factors for this driver. The driver and passenger were also having a social conversation before the crash. An additional environmental factor for both driver's for this crash was a view obstruction caused by parked vehicle's parked along the southwest corner of the intersection. The critical pre-crash event for V2 was coded: other vehicle encroachment, from crossing street- turning into opposite direction. The critical reason for the critical event not assigned to this driver. This driver was traveling too fast to be able to respond to unexpected actions of others, and driving in an aggressive manner. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event coded to the driver of V1 as a driver related decision factor: turned with obstructed view.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Aggressive Behavior, Distraction, Driver Inexperience, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :

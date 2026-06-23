@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary his two-vehicle crash occurred during the early afternoon hours on a clear day. The crash occurred on a six-lane divided roadway without a positive barrier. The four westbound lanes of the six-lane roadway is intersected by a two-lane roadway that is controlled with a stop sign. Roadway surface dry, asphalt with a posted speed limit 72 kmph (45 mph). Vehicle one (V 1), a 1998 Buick Regal sedan, driven by a 32 year-old female with two passengers was southbound stopped at a stop sign waiting for traffic to clear to attempt to cross over the westbound lanes and turn left and head east. The westbound traffic was stopped and waved V1 across. V1 moved across and into lane three and was struck in the left side by vehicle two (V2), a 1999 Pontiac Grand Prix sedan. The driver of V1 stated she never saw V 2. V2 was driven by a 32 year-old male who was westbound in lane three. V1 was towed from the scene. The driver and front seat passenger of V1 were transported to a local trauma center. V 2 was driven from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: turned with obstructed view. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason was not coded to this vehicle. Additional factors were rush hour congestion and view obstruction from stopped vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Roadway, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

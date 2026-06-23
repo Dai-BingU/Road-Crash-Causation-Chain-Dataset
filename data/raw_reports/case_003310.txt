@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred mid-afternoon at the intersection of a two-way, two-lane, undivided roadway with a left curve in the westbound direction of travel and a two-way, divided north/south roadway without a positive barrier . Both roads were dry, traveled asphalt. The east/west has a +3.28% grade, and the north/south roadway was level. The posted speed limit is 48 kmph (30 mph) for east/west roadway and 64 kmph (40 mph) for north/south roadway. Traffic was light at the time of the collision and there were no adverse weather conditions. There were no sight line restrictions at this intersection. Vehicle one (V1) was a 1997 Volvo 850 driven by a 16 year-old male. It was stopped westbound in the second travel lane. Vehicle two (V2) was a 1999 Volkswagen Jetta driven by a 31 year-old female was southbound in the third travel lane. V1 entered the intersection across the path of V2. The front of V2 impacted with the right side of V1. V2 rotated clockwise coming to final rest in the intersection. V2 rotated clockwise and came to rest facing southwest in the intersection. The critical precrash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for V1 was coded as a driver related decision factor: misjudgment of gap or others speed. The driver thought their was enough time to pass through the intersection. At the time of the crash the driver was on an errand driving to a craft store and was thinking about a future event. He had six months of driving experience. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street across path. The critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience present problem 
+Vehicle 2:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

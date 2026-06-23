@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a three-lane one-way roadway. This was a straight, level, concrete roadway with a posted speed of 64 kmph (40 mph). It was late afternoon on a weekend and the road was dry and the sky was clear. Traffic flow was moderate. Vehicle one (V1), a 2002 Dodge Durango four door with one occupant, was stopped at the intersection southbound in lane two. Vehicle two (V2), a 2001 Ford F-250 four door with one occupant, was traveling southbound in lane three approaching the same intersection. When the light turned green, V1 attempted to turn left across the path of V2. The front left of V1 contacted the right side of V2. In an attempt to avoid the collision, the driver of V2 applied the brakes and steered to the left. The evasive maneuver and the impact with V1 directed V2 onto a median of the cross street where it's front struck a bridge support pole. V2 came to rest at the point of impact with the support pole. V1 steered back to the right and came to rest in the third southbound lane. A 59-year old female who reported no injuries drove V1, the Dodge Durango. The Critical Pre-crash Event for V1 was "this vehicle traveling, turning left at intersection." The Critical Reason for the Critical Event was a driver error - illegal maneuver. The travel lane he was attempting the left turn from was not designated as a turn lane and he did not yield the right of way to V2. The driver of V1 refused to be interviewed. A 17-year old male who reported a possible injury drove V2, the 2001 Ford F-150. He stated that he was in the third lane with no traffic in the lane ahead of him. He was traveling between 48-64 kmph (30-40 mph). The signal was red as the driver approached, then turned green and the driver began to accelerate back to the speed limit. When he entered the intersection, V1 began to initiate a left turn. The driver of V2 applied the brakes and steered to the left to avoid the collision. The Critical Pre-crash Event for V2 was "other vehicle encroachment, from adjacent lane over the right lane line." The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+Vehicle 2:  Decision, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

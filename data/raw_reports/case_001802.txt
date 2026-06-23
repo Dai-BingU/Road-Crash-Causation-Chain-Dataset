@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a north/south two lane rural residential roadway. The road had a slight downgrade (2 percent) as it traveled southward approaching a sharp curve to the left (east). The curve had a radius of 48 meters and super elevation of 6 percent. The approach to the curve traveling northwest was level. Conditions were daylight and wet with moderate to heavy rain falling on a weekday afternoon. The posted speed limit was 48kph (30mph). Vehicle #1 was a 1993 International school bus traveling south. Vehicle #2, a 1987 Chevrolet Cavalier was traveling northwest. Near the apex of the curve the school bus (V1) crossed over into the oncoming lane and its left side and left rear wheel struck the front left corner of Vehicle #2. After impact Vehicle #1 came to rest 24m southeast of impact facing southeast just across the center lane line. The Cavalier (V2) came to rest facing west in its original lane. The bus (V1) sustained only minor damage and was driven away; Vehicle #2 was towed. Vehicle #1 was operated by a 59-year old male that was uninjured. There were three other occupants on the bus, none of which received injuries. The driver was on his normal route and stated during the interview that he was not sure what happened. Police charged him with failure to maintain lane. The Critical Precrash Event for Vehicle #1 was this vehicle traveling over lane line on left side of travel lane. The Critical Reason for the Critical Event was poor directional control. Associated factors included inexperience; the driver had only been driving buses for one year. Rain and roadway geometry (curve) were also included as factors. Vehicle #2 was operated by a 27-year old female who was belted. She received minor injuries but refused EMS transport. Although the driver was deaf, she was able to convey that as she negotiated the curve the bus came over into her lane resulting in the collision. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors included rain and roadway geometry (curve).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Roadway, Weather/Environment present problem 
+Vehicle 2:  Driver Physical, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred mid afternoon on a clear afternoon in a rural, 4-way intersection which is offset for north and southbound traffic and controlled by stop signs. The north/south roadway is two-way, undivided, and consists of one travel lane in each direction. The east/west roadway is two-way, undivided, two way, and consists of one travel lane in each direction with a 2 way turn lane separating the through lanes. Both roadways are bituminous and were dry at the time of the crash. The posted speed limit for the north/south roadway is 40 kmph (25 mph) and for the east/west roadway, it is 56 kmph (35 mph). There is a slight uphill grade for northbound traffic and a negative grade for eastbound traffic. At the time of the crash, traffic was light, and there were no adverse weather conditions or road defects, but there was a group of large dense trees bordering the south and west of the intersection that pose a sight restriction for eastbound and northbound traffic. Vehicle one (V1), a black 1998 Ford Contour 4 door sedan driven by a 18 year-old male, was traveling northbound. V1 stopped at the stop sign, then entered the intersection and initiated a left turn. As V1 crossed the eastbound lane it was struck in the driver's side by the front of vehicle two (V2), then entered a counterclockwise rotation and departed the impact on a northeast trajectory. V 1 came to rest on the north shoulder at the crosswalk facing generally northeast. V1 was towed due to damage. V2, a white 1995 Ford Econoline cargo van driven by a 65 year-old male, was traveling eastbound in the number one lane approaching the intersection intending to go straight. V2 was able to make an evasive maneuver. After impact with V1, V2 entered a counterclockwise rotation and departed on a northeast trajectory, then tripped over and rolled right one quarter-turn and slid several meters before contacting vehicle three (V3) with its top plane and coming to rest on its right side adjacent to a stone wall on the north road edge. V2 was carrying approximately 187 kilograms (500 lbs) of unsecured cargo and also had roof racks so cargo shift and a high center of gravity may have contributed to V2's rollover event. V2 was towed due to damage. V3, a white 1994 Ford Aerostar minivan driven by a 53 year-old male, was traveling westbound approaching the intersection. The driver observed the impact between V 1 and V2, braked, and came to a stop just prior to being struck in the front by V2. V3 was driven from the crash scene. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance. The critical pre-crash event for V2 was coded: other vehicle encroachment, from crossing street - turning into opposite direction. The critical reason was not coded to this vehicle. V3 was not involved in first harmful event. The critical reason was not coded to this vehicle. Associative Factors are: 1) The group of large trees that maybe a sight restriction for both V1 and V2; 2) V2 was traveling in excess of the posted speed limit.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Aggressive Behavior, Driver Inexperience, Drugs, Roadway, Speed/Distance present problem 
+Vehicle 3:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

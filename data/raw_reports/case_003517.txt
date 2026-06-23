@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the right northbound lane of a four lane urban highway with a grass median. There were 2 northbound lanes with a 4 meter wide paved right shoulder. There were no traffic controls. The roadway was straight with an uphill grade measuring +7.3%. The posted speed was 50mph (80kph). There was also an intersecting 2-way, 2-lane road on the right with an uphill + 17.7% grade. It was dark, not lit on a weeknight with no adverse weather conditions. Vehicle #2 was a 1998 GMC 3500 pickup truck with a crew cab carrying 4 occupants other than the driver. Vehicle #2 was northbound in the right lane and had slowed considerably (>5mph) to turn right onto a side road with a very steep grade. Vehicle #1 was a 1998 Ford Contour also traveling northbound in the right lane. Vehicle#1 ran into the back of Vehicle #2 coming to final rest at POI. Vehicle#1 was towed from the scene with both airbags deployed. Vehicle#2 was driven from the scene with minor damage and no airbag deployment. The 47-year old female driver of Vehicle #1 was belted and uninjured. She stated that “he (V2) was stopped in the road or going really slow to turn there and I didn't have time to stop”. There was no other traffic around at the time of the crash. The Critical Pre-crash Event for V1 was Other Motor Vehicle In Lane Traveling in Same Direction While Decelerating. The Critical Reason for the Critical Pre-crash Event was a Recognition Error - Inattention. An Associated Factor is Fatigue. Although the driver claimed to be well rested, it had been 14 hours since her last sleep and was overheard by the researcher to say that she was “dead tired and just needed a bed” to a friend. The driver of V1 does wear corrective lenses that correct her vision to 20/20 and is on two blood pressure medications and suffers from diabetes, which she treats through her diet. A contributory factor is that V1 was traveling too closely to avoid V2. The 25-year old male driver of Vehicle#2 was belted and uninjured. He said that he slowed down considerably because of the steep grade of the intersecting road that he was preparing to turn onto combined with the fact that this was the first day that he owned the truck and did not wish to “bottom out” by going too fast. The Critical Pre-crash Event for this vehicle was Other Motor Vehicle In Lane, Traveling In Same Direction With Higher Speed. The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. An Associated Factor was that the driver was not yet experienced enough with his vehicle to make the turn onto the side road with the skill to avoid bottoming out. The roadway also contributed to the crash in that the vehicle was traveling up an inclined 8% roadway and attempting to turn right onto another inclined roadway that was 18%.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Inexperience, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

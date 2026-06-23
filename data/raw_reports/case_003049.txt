@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred on an eight-lane roadway. This road is divided by a concrete barrier and has four lanes in either direction. This road is straight with a downhill slope. This crash occurred during daylight with no adverse atmospheric conditions. Vehicle one, a 1995 Nissan Altima was eastbound in the second lane of traffic. Vehicle two, a 2001 Honda Accord and vehicle three, a 2001 Ford Windstar were eastbound in the second lane ahead of vehicle one. Vehicle two and three came to a stop due to traffic conditions. The front of vehicle one impacted the back of vehicle two. The front of vehicle two impacted the rear of vehicle three. All three vehicles came to rest in the second lane. All three vehicles were towed due to damage. The driver of vehicle one, a forty-seven year old male was not interviewed. The PAR indicates that this driver told him that he was looking in his rearview mirror and when he looked forward, traffic had stopped. The driver of vehicle two, a twenty-five year old female was not interviewed and there is no known pre-crash information for this driver. The driver of vehicle three, a forty-one year old female was heading from work to home at the time of the crash. This driver had been driving for about twenty minutes at the time of the crash. This driver has no pre-existing health conditions. This driver stated that she and vehicle two had come to a stop before the crash. This driver drives this vehicle daily and over this route on a daily basis. The critical pre-crash event for vehicle one was coded as “other motor vehicle in lane: other vehicle stopped”. The critical reason for the critical pre-crash event for vehicle one was coded as "driver related factor: external distraction". The critical pre-crash event for vehicle two was coded “other motor vehicle in lane: traveling in same direction with higher speed”. The critical reason for the critical pre-crash event for vehicle two was coded as “not coded to this vehicle”. The critical pre-crash event for vehicle three was coded as “not involved in first harmful event” and the critical reason for the critical pre-crash event for vehicle three was coded as “not coded to this vehicle”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

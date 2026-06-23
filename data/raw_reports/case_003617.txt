@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred at the intersection of a four-lane divided roadway and a two-lane undivided roadway. For eastbound traffic there is four travel lanes separated by the westbound lanes by a concrete curbed median. . For northbound traffic there is two travel lanes. The eastbound road was dry, traveled, level asphalt. The northbound road was dry, traveled, level concrete. The posted speed limit is 64 kph (40 mph) for the eastbound lanes and 48 kph (30 mph) for the northbound lanes. Traffic was light at the time of the accident. This crash occurred during daylight hours with clear skies. Traffic signals control movement of vehicles through the intersection. Vehicle one (V1), a 2000 Dodge Stratus with one occupant, was eastbound in the second travel lane. Vehicle two (V2), a 2005 Pontiac Grand Prix with two occupants, was northbound in the first travel lane. V1 entered the intersection and the front of V1 impacted the left of V2. V1 was redirected slightly to left and came to rest facing east in the third travel lane. V2 rotated clockwise and came to rest facing east in the second travel lane. Both vehicles were towed due to damage. The two occupants in V2 were transported. The driver of V1, a twenty-six year old male, was heading home from a nearby store at the time of the crash. This driver had been driving for about two minutes at the time of the crash. This drive stated that he did not see V2 in time to take any evasive action. This driver drives this vehicle daily and over this road on a monthly basis. This driver failed to detect the red traffic light for his direction of travel and failed to detect V2 approaching from his right. The driver of V2 was heading to sisters-in-law from home at the time of the crash. This driver had been driving for about one minute at the time of the crash. This driver stated that she did not see V1 in time to take any evasive action. This driver drives this vehicle daily and over this road on a daily basis. The driver of V2 had stopped for the red light prior to entering the intersection. When the light turned green, she proceeded across the intersection without checking for cross traffic. Data shows she applied the brakes just prior to impact. The critical pre-crash event for V1 was coded as "this vehicle traveling: passing through intersection". The critical reason for the critical pre-crash event was attributed to V1 and was coded as "driver related factor: inadequate surveillance". The critical pre-crash event for V2 was coded as "other vehicle encroachment: from crossing street across path". The critical reason for the critical pre-crash event for V2 was coded as "not coded to this vehicle"
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+Vehicle 2:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

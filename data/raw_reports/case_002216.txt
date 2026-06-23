@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the southbound lane of a north/south undivided two-lane roadway. There was one northbound lane and one southbound lane. This was a straight, bituminous roadway, with a slight downhill grade in the southbound direction (3 percent) and a posted speed limit of 64 kmph (40 mph). It was late afternoon on a weekday, it had recently stopped raining and the roadway was still wet. V1 was a 1992 Toyota 4-Runner sport utility vehicle driven by a 16-year-old male. The vehicle had 3 passengers. V2 was a 2005 Chevrolet Colorado pickup driven by a 71-year-old male. V2 was stopped in the southbound lane of the roadway waiting to turn left onto an intersecting roadway. V1 was traveling in the same lane when it collided into the back of V1. V1 went off of the roadway to the right after the collision and V2 was pushed forward and to the right, remaining on the roadway. The driver of V1 was traveling to a friend's house. He and the other passengers were returning from the funeral of one of their friends. The driver advised that he was emotionally upset and distracted. Immediately prior to the crash he had been looking to the left at a field. One of the passengers warned of the stopped vehicle in the lane and he hit the brakes and steered to the right. The car skidded on the wet road and hit the back of V2. It is likely that V1 would still have contacted V2 even if the roadway had been dry. The Critical Pre-crash Event for V1 was "other motor vehicle in lane, other vehicle stopped." The Critical Reason for the Critical Pre-crash Event was "driver related factor, external distraction." The driver of V1 was upset/distracted by thoughts of his friend and the conversation of the others in the vehicle. It should also be noted that the driver had been diagnosed with Attention Deficit Hyperactivity Disorder, but had not been taking his medication. Additional associated factors coded to the driver of V1 were unfamiliarity with the vehicle, driver inexperience, and wet roads. The Critical Pre-crash Event for V2 was "other motor vehicle in lane, traveling in same direction with higher speed." The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. The only associated factor that was coded to V2 was the wet roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Physical, Driver Stress/Emotion, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

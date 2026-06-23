@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a three-lane undivided city street. The roadway was level and straight with a posted speed of 40 kmph (25 mph). The crash occurred just around dusk at mid-week. There were no adverse weather conditions. The crash occurred near an intersection. Vehicle 1, a 1994 G-series van, was driven by a 73-year old male. He was traveling west, approaching the intersection, intending to enter the left turn lane to turn left at the intersection. The driver of V1 claimed that a non-contact vehicle had slowed quickly in front of him and the driver had to apply his brakes. The driver stated that the brakes did not slow his vehicle so he steered to the left and went off the side of the roadway and contacted a utility pole with the front of his vehicle. The driver was transported to a local emergency room and his vehicle was towed due to damage. The driver of V1 reported that he was in good health and was not taking any medications prior to the crash. He also stated that he only wears corrective lenses for reading. He stated that he had dropped off his niece and a friend at a bingo hall a few miles away and he was on his way to a nearby town to help his wife watch the grandchildren. This driver also stated that he had stopped to have one beer (this may account for the gap between the time he dropped off the niece and the time of the crash). The police inspected V1 and could find nothing wrong with its brakes. The Critical Pre-crash Event was coded: this vehicle traveling off the edge of the road on left side. The Critical Reason for the Critical Pre-crash Event was coded as too fast to be able to respond to unexpected actions of others. Associated factors coded to this driver were alcohol - a BAC test conducted two hours after the crash revealed a BAC of .203, inattention, and being in a hurry to get to his wife. The driver of V1 also reported that he was uncomfortable with the brakes on his vehicle and had only had the vehicle for two months.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Distraction, Driver Inexperience, Driver Stress/Emotion, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :

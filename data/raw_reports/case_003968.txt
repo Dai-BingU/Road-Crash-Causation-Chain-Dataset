@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at an urban intersection and involved a 1990 Toyota Corolla 4 door (V-1) and a 1995 Toyota Tacoma pickup (V-2). The crash occurred at a four-way intersection. The through street is a five-lane roadway that has two southbound and two northbound and continuous left turn lane. The roadway is constructed of asphalt and the roadway was dry and the weather was clear at the time of the crash. The posted speed limit on the through street is 35 MPH/ 56KPH. The intersection is also constructed of a two-lane roadway that is used to access neighborhoods in the area. There are no centerline stripes on the roadway to separate the lanes. The roadway is constructed of dry asphalt. Traffic traveling westbound and eastbound on this roadway is required to stop for the posted stop signs. The stop signs were visible at the time of the crash. V-1, a 1990 Toyota Corolla 4 door, was traveling westbound approaching the intersection. The driver stopped for the stop sign and was intending to turn left onto the through street. The driver was stopped for approximately 15 seconds before a non-contact vehicle made a right turn from the through street from the number one lane. The driver then proceeded into the intersection and was struck on the left side by V-2. The impact caused V-1 counterclockwise. The vehicle then came to rest in the intersection facing in an easterly direction. The driver and the right front passenger occupied V-1. The occupants of V-1 reported no injuries. V-1 was towed from the scene due to damage. V-2, a 1995 Toyota Tacoma pickup, was traveling northbound on the through street in the number two lane at approximately 38MPH / 61KPH. The driver stated that there was another vehicle to the front of her vehicle in the number one lane. The driver stated that the vehicle then was making a right turn when V-1 turned in front of her vehicle. The driver stated that she tried to avoid the crash by applying the brakes and then steering to the right. The impact caused V-2 to rotate counterclockwise and coming to rest facing in a northwesterly direction. V-2 was towed from the scene due to damage. The pre-event movement for V-1 was coded "stopped in traffic lane". The critical pre-crash event was coded "This vehicle traveling-turning left at an intersection". The critical reason for the pre-crash event was coded "Driver related factor-Inadequate surveillance (e.g. failed to looked, looked but did see). The driver looked prior to entering the intersection and did not see V-2 approaching. The pre-event movement for V-2 was coded "going straight". The critical pre-crash event was coded "other vehicle encroachment-from crossing street, turning into opposite direction". The critical reason for the pre-crash event was no coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Roadway, Surveillance present problem 
+Vehicle 2:  Decision, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

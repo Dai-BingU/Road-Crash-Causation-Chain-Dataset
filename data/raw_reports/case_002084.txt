@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a concrete, level, and straight section of a two-way north/south divided roadway. The northbound lanes are comprised of a single right merge lane with left curvature that is alongside two additional northbound lanes and the single lane merges into the two northbound lanes. The single lane is controlled by a yield sign and divided from the northbound lanes by a raised curb divider that changes to solid white lines in the merge area. No adverse weather conditions, crash occurred mid-afternoon during daylight hours. The posted speed limit 56 kmph (35 mph). Vehicle one (V1), a 2000 Dodge Intrepid sedan, was traveling north in the third lane. The driver, a 32 year old female, stated that she observed the other vehicle traveling to the right of her vehicle. Suddenly the other vehicle turned in front of V1. V1's right front corner was contacted by vehicle two's (V2's) left center side. V1 came to rest in original travel lane approximately 5 meters (16 feet) from impact location. Vehicle two (V2) was a 1998 Buick Regal driven by a 54 year old female. V2 was initially traveling west on another roadway and exited onto the northbound ramp merge lane. After completing the exit, V2's driver started to change lanes into the northbound lanes in order to pull off to the side of the road due to feeling ill. While changing lanes, V2 driver was feeling hot, nauseated, and sweaty. Driver does not recall what travel lane she was in when the collision occurred. After the collision, V2 came to final rest approximately 20 meters (66 feet) from the impact location, facing northwest. Both vehicles were towed from the scene. The critical pre-crash event for V1 was coded: other vehicle encroachment; from adjacent lane (same direction) - over right lane line. The critical reason was not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling; over the lane line on left side of travel. The critical reason for the critical event was coded to V2 as a driver related factor: heart attack or other physical impairment of the ability to act. The driver of V2 was experiencing a menopause related episode. In addition, nausea, brought on by lack of nutrition,
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Distraction, Driver Fatigue, Driver Physical, Driver Stress/Emotion, Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Changing lanes
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a 3 lane straight roadway with a positive barrier. The posted speed limit is (89KMPH) (55MPH). This crash occurred on a weekday afternoon. Vehicle #1, a 1991 Dodge Caravan minivan, was traveling west on the on-ramp when it failed to yield right of way to on coming traffic, continued off the end of the on-ramp and rode the top of the guardrail before coming to rest facing west. The Dodge Caravan (Vehicle #1) was driven by a belted 52 year old male who refused treatment stating he was not injured. The driver of the vehicle was watching on coming traffic while eating a cheeseburger. He stated that a driver of an uninvolved vehicle refused to let him into its lane. It should be noted here that the driver has an asthmatic condition and required his medication immediately after the crash. He also requested his cigarettes be taken out of the vehicle. He stated he was thinking about health concerns as he had taken medication, to counteract side effects of an antibiotic he was taking, on an empty stomach. The Critical Precrash Event coded to Vehicle #1 was: This Vehicle Traveling, End Departure. The Critical Reason for the Critical Precrash Event was coded as: Driver Related Factor, Aggressive Driving Behavior. The police did not consider illegal drugs or alcohol to be involved and ordered no tests.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Distraction, Driver Performance, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Merging
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- End departure
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on an urban north/south residential two-lane road. The road was straight and level. The posted speed limit was 48kmph (30mph). Conditions were daylight, cloudy and dry on a weekday morning. V1, a 2000 Pontiac Grand Prix, was southbound on the two-lane road. The vehicle departed the left (east) side of the road and continued 15 meters southward before contacting a fire hydrant that was 1 meter off the edge of the road with its left side. V1 then began to rotate counterclockwise and struck a utility pole 29 meters further south with its right front. The vehicle continued rotating counterclockwise and also struck a stone landscaping wall with its right rear before coming to rest facing west partially off the east side of the road. It was towed due to damage. V1 was operated by a 26-year old male that was belted with deployed frontal airbags. He was not injured in the crash. He initially stated that an oncoming vehicle was approaching in his lane causing him to make evasive maneuvers and depart the road. However, later he also mentioned adjusting audio controls and “looking up” to see the other car in his lane. Researcher and police do not believe any other vehicles were present at the time of the crash. EDR data was extracted from the vehicle and indicated a maximum longitudinal velocity change of 25kmph (15.5mph). Unfortunately, precrash data was not available on this particular model vehicle. Police charged the driver with no license and no insurance. The driver's license had been suspended. The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road on the left side. The Critical Reason for the Critical Event was an internal distraction. The only associated factor was the non-driving activity of adjusting radio controls.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

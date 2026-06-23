@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a three-legged intersection. The east/west roadway is divided by a grass median. The speed limit for this roadway is 105 kmph (65 mph). The westbound lanes are straight, level and consist of two through lanes and a left turn lane. The left-turning traffic is controlled by a stop sign in the median. The eastbound lanes are level, curve to the left in the precrash area and consist of two through lanes. The intersecting roadway is on the south side of the east/west roadway and is undivided, two-lane, level and straight. This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1968 Chevrolet C20 pickup towing a passenger car, was westbound in lane three. Vehicle two (V2), a 2004 Ford Crown Victoria police vehicle, was eastbound in lane one, with all emergency lights on, in pursuit of a speeding vehicle. V1 turned left in the intersection and the right side was struck by the front of V2. V1 rotated clockwise and rolled over onto its left side. V2 continued to the southwest and the front struck a small post. Both vehicles were towed due to damage. The driver of V1, a seventy-four-year-old male, was on his way from a nearby city to another nearby city. He was well rested, in fair health and comfortable with his vehicle and cargo. He travels this route daily. This driver stated that he looked to the right before attempting his turn and did not see V2 prior to the crash. The driver of V2, a forty-four-year-old male, was not interviewed. According to the physical evidence, this driver applied the brakes and steered to the right in an attempt to avoid the crash. The critical pre-crash event for V1 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from opposite direction - over left lane line." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+Vehicle 2:  Aggressive Behavior, Driver Stress/Emotion, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

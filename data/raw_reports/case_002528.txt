@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lane of a two-lane, undivided rural roadway. The eastbound approach was a right curve with a 4 percent downhill grade. The westbound approach was straight with a 3 percent uphill grade. The roadway had a posted speed limit of 72 kmph (45 mph). Conditions were daylight and dry with clear skies. The setting was late afternoon hours on a holiday weekend. Vehicle one was a 2001 Honda Accord 4-door sedan negotiating a right curve traveling eastbound in lane one. Vehicle two was a 2003 Lincoln LS 4-door sedan traveling westbound in lane one. V1 completed negotiating the curve and began decelerating to enter a private driveway on the north side of the roadway. V1 proceeded to turn left across the westbound lane. The front of V1 impacted the left front plane of V2. V1 came to rest in the roadway and later moved out of the roadway into the private driveway. V2 continued off the right side of the road, across a ditch, and into a medium sized tree with its front plane. V2 came to rest against the tree. The Honda Accord (V1) was driven by a 19-year old female who was uninjured. She stated that she was heading to a friend's house from a local restaurant. She decelerated to turn left and then remembers being struck. She estimated her travel and impact speeds to be 16 kmph (10 mph). Her Honda sedan continued in service after the crash. The Critical Pre-crash Event for V1 was this vehicle traveling - turning left at intersection. The Critical Reason for the Critical Pre-crash Event was a driver related factor of misjudgment of gap or other's speed. The driver was wearing sunglasses at the time. No additional factors were coded to this driver. The Lincoln LS (V2) was driven by a 52-year old male who was uninjured. He stated that was heading to a gas station from home when another vehicle (V1) turned into his vehicle. He attempted to steer right in avoidance but did not have enough time. He estimated his travel and impact speeds to be 72 kmph (45 mph). The Lincoln LS suffered extensive damage to the front end from the tree impact, including a flat restricted right front tire and a broken axle. It was towed from the scene. The Critical Pre-crash Event for V2 was other vehicle encroachment from opposite direction over the left lane line. No Critical Reason was coded to this vehicle. This driver was interviewed, but there were no associated factors coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

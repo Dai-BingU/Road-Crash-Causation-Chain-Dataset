@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a one-way, three-lane road that runs westbound only and intersected a north/south road and two entrance ramps on to fully controlled highways. The one-way road was straight with a left turn only lane, a left/ straight lane and a right/ straight lane. At over 100 meters pre crash it had a negative grade of four percent. There was a painted gore separating the straight/ right lane from the straight/ left lane. The north/ south road had four lanes where it intersected from the north side and three where it intersected from the south. The first ramp was situated on the southwest side of the intersection and provided access to an interstate highway. The straight/ left turn lane for the one-way road was the only proper access to this ramp. The second ramp was on the northwest side of the intersection and provided access to a US Highway. The intersection was level and controlled by traffic lights with pedestrian signals. The posted speed limit on the one-way road was 48kph (30mph). The crash occurred in the morning on a weekday after rush hour under clear weather conditions. Vehicle #1 was a 1989 Chevrolet dually pickup with four-wheel drive that was in the straight/ right lane (lane 1) on the one-way road. It attempted to change lanes to the left to enter the straight/ left lane and get on to the interstate ramp. When Vehicle #1 moved to its left it crossed the painted gore and struck Vehicle #2, a 1993 Isuzu Rodeo that was traveling in the straight/ left lane, with its (V1's) left front corner. Vehicle #1 struck Vehicle #2 in the right rear corner causing Vehicle #2 to yaw clockwise and roll four quarter turns and land upright in it's original lane facing northeast on the west side of the intersection. The driver of Vehicle #1 regained control of his vehicle and drove it to the left shoulder of the interstate on ramp. Vehicle #2 was towed due to damage and Vehicle #1 was driven from the scene. Vehicle #1 was driven by a 57-year old male who was belted and uninjured in the crash, as was his passenger. Vehicle #1's critical pre-crash event was this vehicle traveling over the lane line on the left side of the travel lane. The critical reason for the critical event was inadequate surveillance. Associated factors included that the driver was unfamiliar with the area and he was talking to his passenger about how best to get where they needed to go when the crash occurred (hence the impromptu lane change which was coded as a decision error). Vehicle #2 was driven by a belted 35-year old male who was transported from the scene by EMS to a local trauma center for treatment of injuries. Vehicle #2's critical pre-crash event was coded as other vehicle encroachment over the right lane line. The critical reason was not coded to this vehicle. The only associated factor coded to this driver was an experience factor as he has only been driving for 5 years and only driving in the U.S. for about 2 or 3 years (according to his translator).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

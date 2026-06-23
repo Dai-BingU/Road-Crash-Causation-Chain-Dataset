@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred on a three-lane expressway. The expressway at the time of the crash was reduced to two lanes; with lane one blocked off due to construction. The construction only occurs during the night and early morning, and is not present during daylight times. The speed limit on the expressway is 88 kph (55 mph). This crash occurred during nighttime hours with no adverse atmospheric conditions. Vehicle one, a 1999 Dodge Neon was traveling in the first lane behind vehicle two. Vehicle two, a 1994 Toyota Camry was traveling in the first lane ahead of vehicle one and behind vehicle three. Vehicle three, a 1995 Mercury Villager was traveling in the first lane ahead of vehicle two. Vehicles two and three had completely stopped due to the construction work, when the front of vehicle one hit the back of vehicle two. Then the front of vehicle two hit the back of vehicle three. Vehicle one was towed due to damage. Vehicle two and three were not towed due to damage. The driver of vehicle one, a forty-four year old male was not interviewed. There is no known pre-crash information on this driver. The driver of vehicle two, a thirty-one year old female was heading home from church at the time of the crash. This driver had been driving for about fifteen minutes at the time of the crash. This driver stated that she had been stopped for about three or four second when she got hit. This driver indicated that as she stopped she looked in her rearview mirror to watch traffic approaching her from behind. This driver drives this vehicle daily and over this road on a daily basis. The driver of vehicle three, a forty-seven year old male was interviewed through a surrogate. The interview indicated that this driver had been stopped for about ten seconds at the time of the crash. The driver's familiarity with the road and vehicle is unknown. The critical pre-crash event for vehicle one was coded as “other motor vehicle traveling in lane: other vehicle stopped”. The critical reason for the critical pre-crash event for vehicle one was as “driver related factor: type of driver error unknown”. The critical pre-crash event for vehicle two was coded as “other motor vehicle traveling in lane: traveling in same direction with higher speed”. The critical reason for the critical pre-crash event for vehicle two was coded as “not coded to this vehicle”. The critical pre-crash event for vehicle three was coded as ”not involved first harmful event”. The critical reason for the critical pre-crash event for vehicle three was coded as “not coded to this vehicle”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic present problem 
+Vehicle 2:  Distraction, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

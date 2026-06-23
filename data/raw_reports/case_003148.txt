@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary A three vehicle crash occurred just past noon during daylight hours in the intersection of a five-lane, undivided, level, asphalt roadway with two-way left turn lanes in all directions. This intersection is controlled by a tri-light signal, however at the time of the crash there was a power outage and the light was in flashing red mode. The speed limit for both north/south and east/west traffic is 56 kmph (35 mph). Vehicle one (V1) was a 1975 Chevy Nova coupe driven by a 19 year-old male. Vehicle two (V2) was a 1999 BMW 328i. sedan driven by a 24 year-old male. Vehicle three (V3) was a 2004 Isuzu NPR TB medium/heavy straight truck driven by a 44 year-old male. V1 was traveling south in the number two lane approaching the intersection. V2 was entering the intersection heading east in the number one lane with an unknown vehicle on its left. V3 is stopped waiting to turn left from the northbound number three lane. As V2 entered the intersection the unknown vehicle on its left stopped to avoid V1, which was entering the intersection at the same time. The driver of V2 then looked left and saw V1 at the last second. V2 then accelerated to avoid the collision but it was too late. The front of V1 impacted the left side of V2. V2 then continued in a southeasterly direction to impact the front of V3 with its front. V1 parked in the southeast corner after the collision. V2 came to rest at impact with V3. Vehicle three left the scene before officials arrived. V!,V2 were towed from the scene due to damage. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as a driver related factor: illegal maneuver, for disregard of traffic signal. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle. V3 was not involved in first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision present problem 
+Vehicle 2:  Distraction present problem 
+Vehicle 3:  Cell Phone Use, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

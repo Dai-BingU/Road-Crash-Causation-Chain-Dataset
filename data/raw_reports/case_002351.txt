@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred mid-afternoon during daylight hours, in the westbound lanes of a two-way five lane undivided highway. The roadway is a straight, level, and bituminous. The weather was clear, and dry. The temperature was around 18 degrees Celsius (65 degrees Fahrenheit). The roadway was extremely slick as de-icer was applied approximately 51 minutes prior to the collision time. The de-icer is to be used in temperatures below 3 degrees Celsius (38 degrees Fahrenheit). The speed limit is 80 kmph (50 mph). Vehicle one (V1) was a 1989 Toyota MR2 coupe,driven by a 30 year-old male with one passenger. V1 was traveling eastbound in lane one, when it changed lanes to the left, and as the vehicle moved into lane two it began to rotate counter clockwise. The vehicle continued to rotate and move in a northeast direction across all lanes. V1 was impacted in the right rear, in lane one of the westbound traffic, by the front right of vehicle two (V2). V1 then rotated 180 degrees and came to rest against the north barrier wall facing southbound. V1 was towed due to damage. V1 was a 2003 Ford Ranger pickup driven by a 27 year-old male. V2 was traveling westbound in lane one, when V1 came into the path of V2. The driver of V2 saw this happen, and at the last moment prior to impact tried to steer to the left to miss vehicle one. The front right corner of V2 impacted the right rear quarter panel of V1. V2 came to rest facing northwest, partially on the right shoulder, and in lane one. V1 was towed from the scene. The critical pre-crash event for V1 was coded: this vehicle control loss due to - poor road conditions (specified as: slick due to de-icer). The critical reason for the critical event was coded to V1 as an environment related factor: slick roads (low friction surface due to ice, loose debris, any other cause).. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction-over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Roadway present problem 
+Vehicle 2:  Cell Phone Use, Distraction, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

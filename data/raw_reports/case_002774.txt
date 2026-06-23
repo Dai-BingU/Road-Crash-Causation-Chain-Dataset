@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash took place during the early afternoon of a weekday at an intersection of two roads and a driveway controlled by a traffic signal. The bituminous, dry north/south roadway was two-way, undivided and had four lanes with a posted speed of 56kmph (35 mph). The west roadway was two-way undivided with three lanes. V1, a 2005 Dodge Caravan, was stopped for the red signal preparing to turn right from the driveway exit. V2, a 2000 Ford Expedition, was traveling north in lane two, approaching the intersection while negotiating a slight curve left. V3, a 2000 Saturn SL2, was traveling south in lane two approaching the same intersection. V4, a 1997 GMC C-series truck, was traveling south in lane one. As V1 turned right on the red signal and attempted to enter lane two it was struck by V2. V2 rotated approximately 30 degrees counterclockwise, crossing the centerline contacting V3. V3 was than pushed into lane one where it was struck in the back plane by V4. V1 was driven by a 59 year-old female who claimed to be in fair health and was wearing her glasses that corrected a hyperopic (far-sighted) condition. She stated that she was conversing with an occupant about recent financial problems just prior to initiating the turn right. She also stated that she saw V2 but thought that she had time to pull out and complete the turn. Both occupants suffered possible injuries and were transported for treatment. V1 was towed from the scene. The Critical Precrash Event for this vehicle was coded as this vehicle traveling, turning right at intersection. The Critical Reason was coded as a decision error: misjudgment of gap or other's speed. Associated factors include driver inattention as she was conversing with the passenger in her vehicle as well as the financial problem on her mind. V2 was driven by a 44 year-old male in good health but fatigued as he was heading home. He stated that he was driving a little fast but saw V1 and did not think that the vehicle would attempt the turn until he passed. His vehicle collided with V1 as he traveled through the intersection. The driver was uninjured but V2 was towed due to damage. The Critical Precrash Event for this vehicle was coded as other vehicle encroachment (from driveway, turning into the same direction). A critical reason was not coded to this vehicle. Associated factors for this crash were the driver's fatigue as well as traveling too fast for conditions as the driver stated he was in a hurry to just get home. V3 was driven by a 22 year-old female who sustained fatal injuries on scene. The Critical Precrash Event was coded as other (not involved in first harmful event) and a critical reason was not coded to this vehicle. This vehicle was towed due to damage. V4 was driven by a 43 year-old male who refused to be interviewed. This vehicle was not involved in first harmful event and not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Stress/Emotion present problem 
+Vehicle 2:  Aggressive Behavior, Decision, Driver Fatigue, Speed/Distance present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+ 3 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into same direction
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

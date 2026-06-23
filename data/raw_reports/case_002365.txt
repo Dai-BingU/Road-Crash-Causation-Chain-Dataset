@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a two-way roadway with one lane in each direction. The roadway was wet, asphalt, straight and level. It was daylight and raining and the speed limit was 48kmph (30mph). The crash occurred in the morning hours of a weekend, and the traffic flow was normal. V1, a 1999 Lexus ES300 four door with three occupants, was traveling eastbound in lane one. V2, a 1992 Honda Accord was traveling eastbound in the parking lane and attempting to make a U-turn to go westbound, when the front of V1 contacted the left side of V2. Then V2 impacted a non-breakaway pole located seven meters north/east of the point of impact. V1 came to a final rest shortly after impact, and V2 came to a final rest at the pole. V1, the Lexus ES300 was driven by a 34 year-old female who reported minor injuries but refused treatment. The 34 year-old female occupant also reported minor injuries, but refused treatment. The 32 year-old male occupant reported no injuries. The driver advised that she was traveling straight in lane one when V2 was making a U-turn from the parking lane. She tried to stop and steer away to the left, but there was no place to go except hitting the left side of his vehicle. The Critical Pre-crash event for V1 was "other vehicle encroachment, from adjacent lane (same direction) - over right lane line". The Critical Reason for the Critical Event was not coded to the driver. The rain was coded as a weather related factor. No other associated factors were coded to the driver. V2, the Honda Accord was driven by a 66 year-old male who reported minor injuries and was transported to a medical facility. The 63 year-old female occupant also reported minor injuries and was also transported to a medical facility. The driver declined to participate in the study. The Critical Pre-crash event for V2 was "other - making a U-turn". The Critical Reason for the Critical Event was coded as a Driver Related factor, “illegal maneuver”. An associated factor coded to the driver was the rain. The other possible associated factors were coded unknown because no interview was obtained.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Weather/Environment present problem 
+Vehicle 2:  Decision, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Other (specify) :
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 2 ：Other- Other (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

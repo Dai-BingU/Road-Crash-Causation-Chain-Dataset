@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at the stop sign controlled intersection of an east/west two lane, two-way roadway with a two lane two-way north/south thru roadway. The crash occurred during daylight hours, the weather was clear; the roadways were straight, level, and dry. Vehicle one (V1), a 2005 Ford Explorer, occupied by the driver only, was westbound on the two lane, two way roadway approaching the stop sign controlled intersection. Vehicle two (V2), a 2002 Cadillac Seville occupied by the driver only, was northbound in the first lane approaching the intersection. Per witnesses, V1 failed to stop for the stop sign and entered the intersection. The front of V1 struck the right side of V2. V2 was deflected to the west where the vehicle ran off the west road edge and struck a tree where it came to rest. Per the medical report EMS commentary, V1 then fled the scene and proceeded north, where police apprehended the driver a few blocks away. The driver of V2 was transported to a local trauma center for treatment. V2 was towed from the scene; V1 was towed from where it was apprehended. The driver of V1 was a 36 year-old female who was not available for an interview. The report completed by the investigating officer stated the driver was legally intoxicated. Two witnesses following behind V2 also stated to the investigating officer that V1 did not stop for the traffic control device before it entered the intersection. The pre-event movement for V1 was coded "going straight." The critical pre-crash event was coded "this vehicle traveling-crossing over (passing through) intersection." The critical reason was coded "decision error-illegal maneuver." The driver of V2 was a 78-year-old female who was not available for an interview. The pre-event movement for V2 was coded "going straight." The critical pre-crash movement was coded "other vehicle encroachment-from crossing street, across path." The critical reason was not assigned to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

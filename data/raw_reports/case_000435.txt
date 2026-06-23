@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred just after noon of a weekday in the middle of a two-way suburban intersection. The intersection consisted of a southbound one-way, four-lane roadway and an eastbound one-way, three-lane roadway (which served as a highway exit ramp) controlled by a properly functioning traffic signal with pedestrian crossing lights. Both roadways were bituminous, dry, and straight with posted speed limits of 48kmph (35 mph). The southbound lanes were level while the eastbound lanes featured a positive slope greater than 2% (+6/122). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1983 Chevrolet S-10 pick-up, was southbound in lane one approaching the intersection where it intended to go straight. V2, a 2006 Cadillac Escalade was eastbound approaching the same intersection where it also intended to go straight. As V2 approached the intersection from the interstate the driver decelerated and checked traffic. The light had turned green for the eastbound traffic and as V2 entered the intersection it was struck on the left side by the front of V1. Both vehicles traveled rolled southeast before coming to final rest near the point of impact. V1 was towed due to damage while V2 was driven from the scene. V1 was driven by a 41-year-old male that stated that he was involved in a car crash one year ago in which he sustained a closed head injury and was in a coma for one mouth. He continues taking medications (prescription pain killers) to help manage the pain from that crash. He also stated he is driving on a restricted license. He stated he does not remember exactly why he was at this intersection but believed he was on his way to his attorney's office (several blocks back on the roadway). The Critical Precrash Event for V1 was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Event was coded as a driver related factor, aggressive driving behavior. The associated factors to this driver include the various pain medications he was on as well as his speed and current emotional state. V2 was driven by a 41-year-old female who had just had lunch with her husband and was on her way back home when the crash occurred. She stated she saw the southbound vehicle but thought it would stop for the light. She stated at the last minute she realized that it was not going to stop and she put on the brake and steered right trying to avoid the crash. The Critical Precrash Event for V2 was coded other vehicle encroachment from cross street across path. The Critical Reason for the critical event was not coded to this vehicle. There were no associated factors coded to V2 and the driver was not thought to have contributed to this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Distraction, Driver Physical, Driver Stress/Emotion, Drugs, Speed/Distance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

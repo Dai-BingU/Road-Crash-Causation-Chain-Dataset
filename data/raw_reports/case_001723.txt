@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, two-lane, straight, level, bituminous roadway with a posted speed limit of 80 kmph (50 mph). The crash occurred at an intersection with a two-way, two-lane road controlled by stop signs in the north/south direction. Conditions at the time of the weekend, afternoon crash were daylight, clear, and dry. V1, a 1998 Toyota Corolla VE 4 door sedan, was westbound traveling 64 kmph (40 mph) approaching the intersection where it intended to go straight. V2, a 2003 Ford Taurus SES 4-door, was stopped at the intersection, preparing to turn left. V1 accelerated and than braked hard behind V2 skidding longitudinally. The front of V1 struck the back of V2. V1 rotated clockwise and came to rest partially on the right shoulder facing west/northwest. V2 was pushed after impact to the right and came to rest partially on the right shoulder facing west. Both vehicles were towed from the scene due to damage. The driver of V1, a 20 year-old female, was on her way home from church at the time of the crash. She stated that the vehicle had been stalling throughout the day, and she had to step on the gas each time to keep the engine running. As she approached the intersection she took her foot off of the accelerator to stop. The vehicle began to stall and the driver gave it gas and then stepped on the brake. She braked hard and steered right but could not avoid V2. The fully restrained driver and 14 year-old male front right passenger, denied injuries. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason was coded as a vehicle related factor, continued stalling. Associated factors coded to V1 include a performance error (accelerating initially instead of braking) as well as the driver's inexperience, as the driver had only been driving for 18 months and did not have formal driver's education. The driver of V2, a 38 year-old female, was on her way home from the store. She stated that she had been stopped for five seconds waiting to turn left onto another roadway. She was watching eastbound traffic, looked in her rearview mirror and saw V1 approaching too fast to stop in time to avoid the crash. V2 had no time for avoidance maneuvers. The fully restrained driver denied injuries. The Critical Precrash Event coded to the driver of v2 was 'other motor vehicle in lane-other vehicle traveling in same direction with higher speed.' The Critical Reason was not coded to this vehicle. There were no associated factors coded to V2 and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Other vehicle failure (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

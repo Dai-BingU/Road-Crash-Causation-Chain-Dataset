@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of a two-way roadway with one lane in each direction and a one-way roadway with one lane of travel. The roadway was straight and level, and had a posted speed limit of 30mph (48kmph). The east/west roadway had no traffic control device; the southbound roadway was controlled by a stop sign. It was dark but lighted, and clear with no adverse conditions. Vehicle #1 was a 2002 Lexus SC430 traveling eastbound on the two-way roadway and Vehicle #2 was a 1993 Lexus LS400 traveling south on the one-way roadway. At the intersection, the front of Vehicle #1 impacted the right side of Vehicle #2. The front of Vehicle #1 then impacted a light-pole on the southeast corner of the intersection. The Lexus SC430 (Vehicle #1) was driven by a 45-year old male who did not sustain any injuries. He stated that he was going straight through the intersection when Vehicle #2 ran the stop sign and caused him to impact Vehicle #2 and then into the light-pole. He stated that he did not perform any avoidance maneuvers. The Lexus SC430 was towed due to damage. The Critical Pre-Crash Event for Vehicle #1 was when the other vehicle encroached from a crossing street, across path. The Critical Reason for the Critical Event was not coded to this vehicle. The driver of the Lexus SC430 was not thought to have contributed to the crash. The Lexus LS400 (Vehicle #2) was driven by a 76-year old male who did not sustain any injuries. The 38-year old female seated in the front-right position sustained minor injuries and was treated on-scene and a 32-year old female seated in the second-row right position did not sustain any injuries. The driver stated that he stopped for the stop sign for approximately five seconds and looked both directions before proceeding through the intersection. The Lexus LS400 was towed due to damage. The Critical Pre-Crash Event for Vehicle #2 was when it began to pass through the intersection. The Critical Reason for the Critical Event was coded as inadequate surveillance (looked but did not see). An associated factor coded to the driver was that he was taking an unidentified prescription medication for high blood pressure. The driver wore prescription eyeglasses that corrected a myopic (near-sighted) condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

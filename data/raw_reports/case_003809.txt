@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred at a on-colors controlled intersection during morning commute traffic. No adverse weather conditions at the time of crash. Concrete roadway was dry and no adverse weather conditions. Posted speed limit for both vehicles is 64 kmph (40 mph). Vehicle one (V1), a 2004 4-door Pontiac Grand Am driven by a 28 year-old female, was traveling east in the curb lane. Vehicle two (V2), a 4-door 1997 Mercury Mountaineer SUV driven by a 65 year-old female, had been stopped at the intersection waiting to travel south in lane two. V2 proceeded on a green light across intersection when the front of V1 struck it on the center right side. The impact forced V2 into a clockwise rotation striking the median causing V1 to roll 4-quarter turns, coming to rest on its wheels, facing northwesterly in southbound lanes. V2 came to rest in the intersection, in eastbound lane 1, facing southeasterly. Both vehicles were towed from the scene. The driver of V1 was commuting to work from a child day care center. She was concerned about her son, who has an ear infection and had tubes installed the day before to alleviate the infection. Because of this concern, she was preoccupied, inattentive to the driving task, and ran the red light as she entered the intersection. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was attributed to V1 as a driver related factor: inattention (i.e., daydreaming). The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Driver Stress/Emotion, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

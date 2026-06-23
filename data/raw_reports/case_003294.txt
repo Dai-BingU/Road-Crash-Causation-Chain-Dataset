@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary Two passenger cars collided in a signal-controlled four-leg intersection in the early afternoon during daylight. No adverse weather conditions at the time of the crash. The bituminous roadways were dry. The roadway for westbound travel is a level undivided two-way, two lane, roadway and for southbound travel the roadway is a negative sloping undivided four lane roadway. The speed limit for both roadways is 56 kmph, or 35 mph. Vehicle one (V1), a 2004 Volkswagen Passat 4-door sedan with one occupant, was traveling west in lane one. As V1 approached the intersection, the light turned green and the vehicle entered the intersection with the intention of making a left turn. The driver was traveling at a constant speed, did not stop or slow down prior to entering the intersection and did not attempt any evasive maneuvers. Vehicle two (V2), a 1988 Oldsmobile Delta 88 4-door sedan with four occupants, was traveling south in lane 2 approaching the same intersection. As V1 was turning left, the front of V2 contacted the left front of V1. V1 was pushed laterally at impact and came to final rest facing west in the middle of the intersection. Only V1 was towed due to damage. V2 was driven away by the driver to a hospital for treatment. V1 was being driven by a 29 year old female who was the only occupant in the vehicle. She was a realtor traveling from showing one house to do another showing of a different house. She works 75 hours per week and normally feels drowsy. She was well rested and had 9 hours of sleep the previous night. The driver indicated her sightline of V2 was blocked by an intervening vehicle parallel with V2's travel lane. The critical pre-crash event for V1 was coded: other vehicle encroachment; from crossing street across path. The critical reason was not coded to this vehicle. V2 was being driven by a 25 year old male who was traveling with three female passengers of unknown ages. He takes the medications Glucophage and Lipitor. They had left the court house and were on their way to get something to eat. He stated they were not conversing. He too indicated his sightline of V1 was blocked by an intervening vehicle. He had 5.5 hours of sleep the previous night and was feeling tired and hungry when he started driving on this trip. This driver is diabetic, which may have factored into his hunger and drowsiness. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason was coded as a driver related factor: illegal maneuver. As this vehicle approached the intersection, the driver observed the light change and accelerated into the intersection.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Physical, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Aggressive Behavior, Decision, Driver Fatigue, Driver Physical, Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

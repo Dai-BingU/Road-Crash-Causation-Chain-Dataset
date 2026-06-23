@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a three-lane, level, bituminous, straight, dry roadway that supports two-way traffic. The speed limit for this roadway is 72 kmph (45 mph). This roadway intersects with a one-lane interstate exit ramp. The intersection is controlled by a stop sign. There were no adverse atmospheric conditions present at the time of this daylight crash. Vehicle one (V1), a 2003 Honda Accord driven by a 18 year-old male was traveling eastbound in lane one of the interstate exit ramp. Vehicle two (V2), a 1996 Chevrolet Cavalier driven by a 24 year-old male with one passenger, was traveling southbound in lane one. V1 was attempting to make a left turn to travel north. As V1 entered the intersection, the front of V1 contacted the right side of V2. Both vehicles deflected to the left and came to rest facing east. Both vehicles were towed from the scene and the passenger in V2 was transported to a local medical facility. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver stated he looked both ways and didn't see the other vehicle. He also has 80% hearing loss and was not wearing his hearing aid. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Physical, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

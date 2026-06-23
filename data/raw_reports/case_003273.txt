@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a dry, divided, 113 Kph (70Mph), four-lane highway. The conditions at the time of the crash were clear skies during daylight hours. A median wall separated the north and southbound lanes. The driver of V1, a 2005 Buick Lesabre, stated that she was attempting to merge into the left lane from the right lane, but that the left lane was already occupied. She overcorrected and exited the right side of the roadway, then overcorrected again, lost control, reentered the roadway and traveled across the roadway and off the left side. V1 began to rotate clockwise and the right rear of the vehicle contacted the concrete median. After the initial impact, the vehicle then traveled back across the roadway and departed the right side before contacting a bridge support with its front end. The vehicle was towed due to damage, but the driver was uninjured. The Critical Pre-Crash Event for this vehicle is coded as this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Pre-crash Event was a performance error: overcompensation. The 79-year-old female driver stated that the vehicle in the left lane was "close" as she tried to enter the left lane. She steered right and lost control of the vehicle. An associated factor coded for this crash is driver unfamiliarity with the vehicle; she stated that she and her husband had just purchased the vehicle two months ago. Contributory factors for this crash are inadequate surveillance - failed to look to the left side, medications being present, and prescription glasses being worn.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

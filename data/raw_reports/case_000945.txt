@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary Case 2007-091 The crash occurred in the intersection of a two lane east/westbound roadway with a two lane north/southbound roadway. There was one lane in each direction of each roadway. The east/westbound road was straight, dry, level, asphalt with a posted speed limit of 48kph/30mph. There was a stop sign posted for eastbound traffic. The north/southbound road was dry, level, asphalt with a curve to the left (radius of curvature of 704m and a 2% super-elevation) and a posted speed limit of 72kph/45mph. The crash occurred on a weekday afternoon during the early rush hour while traffic flow was heavy. V1, a 1996 Nissan Maxima four door with one occupant was eastbound. V2, a 1998 Ford F150 pickup truck with one occupant was negotiating the curve in the southbound lane. V1 stopped at the stop sign and turned left to the northbound lane across the path of V2. V2 braked with lockup in an unsuccessful attempt to avoid impact. The front right corner of V2 struck the front left of V1 causing V1 to yaw and rotate to the right. After impact the vehicle veered across the northbound lane and off the east side of the road onto a grass yard the vehicle traveled approximately 20m to the southeast where they came to rest facing southeast with V2 slightly to the left of V1. Both vehicles were towed due to damage. V1, the Nissan Maxima, was driven by a 17-year old female who was not injured. The driver reported that she was traveling from a job to her home. She said she stopped for an unknown length of time at the eastbound stop sign, looked both directions, saw no one coming and started to turn left to the northbound lane. She added that she never saw V2, and thus, took no evasive actions. She said her view prior to turning was not obstructed. The Critical Precrash Event for V1 was this vehicle traveling turning left at intersection. The Critical Reason for the Critical Event was driver related inadequate surveillance, failed to look, looked but did not see. Associated factors were assigned to V1 for driver recognition, inadequate surveillance, looked but did not see; for a driver decision error, turned with an obstructed view (the turning truck); driver behavior performance, inexperienced driver; for other, highway, sightline restriction (the turning truck); and for driver reported fatigue. V2, the Ford F150, was driven by a 70-year old male who was not injured. The driver reported that traffic was heavy and he was traveling 48k[h/30mph from his shop to a job site. He advised that there was a large truck ahead of him that was signaling and turning right to the westbound lane. He added that after the truck turned he continued southbound and saw V1 turning left across his path from the eastbound lane only about two seconds before impact. He added that although he applied his brakes he was unable to avoid a collision with V1 The Critical Precrash Event for V2 was other vehicle encroachment from crossing street turning into opposite direction. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors were assigned to this vehicle for driver physical condition due to presence, the driver was taking medication for high blood pressure; and for the highway sightline restriction (the turning truck).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Inexperience, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

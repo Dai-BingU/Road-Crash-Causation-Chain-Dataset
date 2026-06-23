@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lane of a two-lane roadway. Conditions were daylight and dry in the morning on a weekday. The posted speed limit was 64 kmph (40 mph). V1 was a 2000 Plymouth Voyager minivan traveling northbound in the 1st travel lane intending on going straight. V2 was a 2003 Kia Sedona minivan stopped in traffic directly in front of V1. V3 was a 2004 Toyota Avalon also stopped in traffic directly in front of V2. The front of V1 struck the back of V2 in the 1st travel lane. The front of V2 then struck the rear of V3. All vehicles came to final rest facing northbound. V1 was driven by a 32-year-old male who was not injured. He stated that he was traveling northbound in the 1st travel lane, looked back to check on his ill child and that is when the crash occurred. The front of V1 struck the back of V2. The front of V2 then rolled forward and struck the back of V3. V1 was towed due to damage. The Critical Precrash Event for V1 was the other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Precrash Event was a driver related factor, internal distraction. Associated factors coded to this driver were driver inattention (the driver was conversing with his child), inadequate surveillance (failed to look far enough ahead), following too closely (rush hour congestion, heavy traffic), false assumption of other road user's actions (assumed that other driver would continue to proceed), and a highway related factor (rush hour congestion).. V2 was driven by a 37-year-old female who sustained moderate injuries and was transported to a local hospital. She stated that she was stopped in traffic when the vehicle behind her struck her vehicle. The driver of V2 did not take any avoidance actions and was stopped at the time of impact. V2 was towed due to damage. The Critical Precrash Event for V2 was the other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. V3 was driven by a 52-year-old female who sustained moderate injuries and was transported to a local hospital. She stated that she was stopped in traffic when she was struck in the back by V2. The driver of V3 did not take any avoidance actions. V3 was towed due to damage. The Critical Precrash Event and Critical Reason were not coded for V3 because it was not part of the first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance, Traffic present problem 
+Vehicle 2:  Decision, Traffic present problem 
+Vehicle 3:  Decision, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

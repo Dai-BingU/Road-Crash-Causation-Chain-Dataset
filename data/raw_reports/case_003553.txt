@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred after the morning rush hour during daylight. There were no weather or road condition factors. The roadway was a five lane, two way, undivided, level, bituminous roadway. This section of roadway is heavily traveled and is located between two on/off ramps. The speed limit for all traffic is 56 kmph (35 mph). Vehicle one (V1), a 1995 Land Rover Discovery class E utility vehicle, was traveling northbound. V1 exited to the right into a U-shaped turn around with the intention of traveling southbound. V1 then re-entered the roadway and traveled across all northbound lanes, crossed the double yellow center road divider and struck the left side of vehicle two (V2). V1 came to a controlled stop in the inside southbound lane. V1 was not disabled and was driven away from the scene. V2, a 1996 Acura 3.3 TL four door sedan, was traveling southbound in the inside lane. As V2 approached the area where the left turn only lane begins, V2 started to move into the center left turn lane. V1 came from the left and struck the left side of V2 with its front. The driver of V2 tried to brake at the last second before impact, but was unable to avoid the crash. V2 was moved off the roadway and then towed due to damage. The driver of vehicle one is a 23-year-old female. She is familiar with the vehicle but this was the first time on the roadway. She was going for a job interview, was late, was lost and was on the phone trying to get directions. She had been going northbound, took a turnaround with the intention of heading southbound. She claimed she looked both ways and did not see any vehicles. She is a full time student. She had been lost for approximately 20 minutes. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver of vehicle two was on her way to the day care center to drop off her two year old daughter, who was seated in the right rear and then continue on to her place of work. She is familiar with the vehicle and the route traveled. She was attentive to the driving task and saw vehicle one prior to impact. She braked in an attempt to avoid the collision. The critical pre-crash event for V2 was coded: other vehicle encroachment; from driveway, turning into same direction. The critical reason was not assigned to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Distraction, Driver Inexperience, Driver Stress/Emotion, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

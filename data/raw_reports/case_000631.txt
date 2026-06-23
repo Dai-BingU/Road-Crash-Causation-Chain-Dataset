@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on an undivided five-lane roadway. This road consists of two westbound lanes, and three eastbound lanes including a left turn lane. This road is straight and level with no defects. The speed limit is 48 kmph (30 mph). This crash occurred during mid-afternoon daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2003 Ford Crown Victoria was traveling westbound in the first lane behind vehicle two. Vehicle two (V2), a 1996 Blue Bird School Bus was traveling westbound in the first lane ahead of V1. V2 was stopped in the lane with the intention of picking up passengers, when the front of V1 impacted with the back of V2. V1 was towed due to damage. V2 was not towed due to damage. The driver of V1, a forty-year old male was driving to pick up a fare. This driver had been for about twenty minutes at the time of crash. This driver stated that he had just followed the bus through the light and then the bus stopped short. The bus did have its lights and sign out at the time of the crash. This driver states that he always drives close behind vehicles and is always driving in a hurry. This driver drives this vehicle daily and over this road on a daily basis. The driver of V2, a fifty-three year old male had just stopped the bus to pick up passengers. This driver had been driving for about twenty-five minutes at the time of the crash. This driver stated that he was stopped for three to four seconds at the time of the crash. This driver drives this vehicle daily and over this road on a daily basis. The critical pre-crash event for V1 is coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical pre-crash event is coded to V1 and was coded as a driver related factor: too fast for conditions to be able to respond to unexpected actions of other road users. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

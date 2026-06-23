@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at a four-leg intersection on a residential street. The northbound approach to the intersection had a posted speed limit of 56 kmph (35 mph) and a 2 percent downhill grade. It was controlled by a stop sign. The westbound approach had the same posted speed limit and a 5 percent downhill grade. This roadway had no traffic control device. Conditions were dark but lighted with clear skies. The roadway was dry and the setting was morning hours on a weekday. Vehicle one was a 1991 Honda Accord sedan traveling northbound in lane one. Vehicle two was a 1993 Honda Accord sedan traveling westbound in lane one. Both vehicles proceeded into the intersection. The front plane of V2 struck the right plane of V1. The two vehicles then came together in a side-slap with the right plane of V1 being struck by the left plane of V2. V1 then traveled off the northwest corner of the intersection into a telephone pole. V2 came to rest in the intersection northwest of the point of impact. The 1991 Honda Accord (V1) was driven by a 25-year old male. He suffered non-incapacitating injuries but was not transported. He refused to be interviewed for this study. The investigating officer estimated his travel and impact speeds to be 56 kmph (35 mph), indicating that the officer believed he did not stop for the stop sign. The Honda sedan was towed due to damage. The Critical Pre-crash Event for V1 was this vehicle traveling - crossing over (passing through) an intersection. The Critical Reason was a driver related factor of inadequate surveillance. This vehicle was operating on a temporary spare as well as a bald tire. An illegal maneuver was coded as an associated factor for failing to stop for a stop sign. No additional factors could be coded without an interview. The 1993 Honda Accord (V2) was driven by a 31-year old male who was transported to a local trauma center with non-incapacitating injuries. He stated that he was heading to work from out of town when the other vehicle pulled in front of him. He didn't have a chance to react in avoidance. He estimated his travel and impact speeds to be 32 kmph (20 mph). The Honda sedan was towed due to damage. The Critical Pre-crash Event for V2 was other vehicle encroachment from crossing street across path. No Critical Reason was coded to this vehicle. The driver has a 40-mile commute to work. No associated factors were coded.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

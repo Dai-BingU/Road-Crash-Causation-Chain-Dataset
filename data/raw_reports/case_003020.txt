@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in the morning on a clear day during daylight hours. The roadway is a five-lane, bituminous, straight, and level divided highway without a positive barrier. The speed limit is 89 kmph (55 mph). The crash occurred during heavy traffic and was several hundred meters from a traffic control device on colors. Vehicle one (V1) a 2000 Honda Civic driven by a 18 year-old female was southbound in lane one. Vehicle two (V2) a 1999 Ford Explorer driven by a 20 year-old female was southbound in lane one. Vehicle three (V3) a 2004 Hyundai Santa Fe driven by a 65 year-old female was southbound in lane one. with one occupant. V2 was traveling at a police reported speed of 32 kmph (20 mph) and had to stop suddenly to avoid a collision. V1 was traveling at a police reported speed of 72 kmph (45 mph). V1 could not stop and struck V2 in the rear. V1 was then struck in the rear by V3's front. V3 was traveling at a police reported speed of 72 kmph (45 mph) and locked the brake but could not avoid V1. V1 and V3 were towed due to disabling damage. V2 was driven from the scene. No injuries were reported. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason was coded to V1 as a driver related factor: too fast to be able to respond to unexpected actions of others (specified as: expected V2 to continue to proceed forward & was unable to react in time after she realized V2 had stopped in traffic lane). The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. V3 was not involved in first harmful event, and the critical reason was not coded to this vehicle. Rush hour congestion was a contributing factor in this crash for all vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Decision, Drugs, Speed/Distance, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

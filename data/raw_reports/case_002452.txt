@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a four-lane undivided residential roadway at an intersection with a two-lane roadway to the north with one lane in each direction. There were two lanes in each direction of the main roadway. The roadway was straight dry asphalt with a +4 percent slope to the east. The posted speed limit was 64 kmph (40 mph). The crash occurred during rush hour on a weekday morning when the weather was clear and dry. Traffic flow was very heavy, with stop and go activity. V1, a 1999 Ford Mustang two-door, had one occupant and prior to the crash was moving from lane one to lane two. V2, a 1995 Ford Explorer sport utility vehicle, had two occupants. V2 was stopped in lane two at the intersection waiting to turn left onto the northbound cross street. V1 changed lanes to lane two and struck the rear of V2 with its front end, knocking it about 10 meters to its final resting point facing east. V2 stopped also facing east about one meter behind V2. V1, the Ford Mustang, was driven by a 19-year old female who was not injured. She advised that she had been on her way from home to school and that she was traveling about 72 kmph (45 mph) in lane one. She said she was not in a hurry. She said she briefly looked over and reached to her radio to tune a different channel while she was changing lanes from lane one to lane two. When she looked up, V1 was stopped in front of her. She said she had no time to respond or brake and ran into the back of V2. The Critical Pre-crash Event for V1 was other vehicle stopped in lane. The Critical Reason for the Critical Event was driver related internal distraction. The driver was looking away and tuning the radio. Associated factors were a recognition error in that she failed to look far enough ahead, a traffic flow interruption in the form of stop and go traffic due to rush hour, and driver inexperience. The driver said she uses this roadway daily; therefore, she should have been aware of the traffic conditions and been more cautious. V2, the Ford Explorer, was driven by a 16-year old male. Neither the driver nor the passenger was injured. The driver of V2 was also on his way from home to school and was not in a hurry. He advised that he was completely stopped with his foot on the brake yielding to oncoming traffic while waiting to turn left onto the crossing street. He said he did not hear or see V1 approaching and was not aware that a crash was imminent. The driver of V2 felt the jolt of V2's front impacting with the rear of V2 and after impact he was able to stop his vehicle safely. The Critical Pre-crash Event for V2 was other vehicle traveling in the same direction with a higher rate of speed. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors coded to the driver of V2 include fatigue due to football practice and other school related activities, driver inexperience, and the traffic flow interruption in the form of rush hour traffic.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Surveillance, Traffic present problem 
+Vehicle 2:  Driver Fatigue, Driver Inexperience, Driver Physical, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

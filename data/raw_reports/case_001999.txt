@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred late in the evening, at an intersection controlled by tri-color traffic signal. The roadway is concrete, lighted, dry and free of defects. There were no adverse atmospheric conditions at that time. The posted speed limit is 64 kmph (40 mph). Vehicle one (V1), a 1997 Chevrolet S-10 pick-up driven by a 27 year-old male was traveling southeast in the left lane of a three-lane, two-way, divided without positive barrier roadway. Vehicle two (V2), a 2000 Dodge Intrepid sedan driven by a 39 year-old female was traveling westbound in the second lane of a three-lane, two-way, divided without positive barrier roadway. V1 was attempting to pass through the intersection against the red light to turn left. When V1 entered the intersection, it struck the right side of V2. V1 fled the scene and had no final rest position. V2 rotated clockwise and came to rest facing northward with its front end off the roadway. V1 and V2 were towed from the scene due to damage sustained in the collision. The driver of V1 was unwilling to speak to the researcher regarding the collision. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. Critical reason for critical event coded to this vehicle as driver related factor: type of driver error unknown. V1 was assigned an associative factor of an illegal maneuver, for disregard of traffic control signal. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

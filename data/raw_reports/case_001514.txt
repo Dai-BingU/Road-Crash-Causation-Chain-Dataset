@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a two-way, ten-lane interstate highway, divided by a concrete barrier wall. There were five northbound lanes and five southbound lanes. This was a straight, level, bituminous roadway with a posted speed of 105 kmph (65 mph). Conditions were early afternoon with clear skies and dry roads. Traffic flow was normal. V1, a 2001 Kia Rio, was traveling in lane one. V2, a 1995 Dodge Neon, was also traveling in lane one, ahead of V1. V1 was traveling at a higher rate of speed than V2, and for unknown reasons made contact with the back of V2. V1 then veered to the right. The front right corner of V1 made contact with a guardrail on the shoulder, rotating clockwise along the guardrail. V2 came to final rest facing southeast on the road shoulder. V2 left the scene, returning approximately thirty minutes later. V1 was towed due to damage. The driver of V1 was transported with injuries. Occupant number two of V2 was also transported due to injuries. V1 was driven by a 55-year old female who was transported with non-incapacitating injuries. She stated that she was on her way to work, and was traveling at about 112 kmph (70 mph) in the far right lane, when V1 cut her off by changing lanes in front of her. She said that before she could react, she rear-ended V2. In order to keep her vehicle from going into traffic after the impact, the driver steered right. This caused her to hit the guardrail on the shoulder of the interstate. The Critical Precrash Event for V1 was other motor vehicle in lane, traveling in same direction with lower steady speed. The Critical Reason for the Critical Event was a recognition error, inattention. The driver lost her sister in a car accident three weeks prior to the crash. The loss was still fresh in her mind, and was thinking about these family concerns at the time of this crash. Associated factors were inadequate surveillance as she failed to see the vehicle in front of her and she was following too closely as she did not realize she was too close to forward vehicle. V2 was driven by a 59-year old male who reported no injuries. He stated that he was dropping his daughter off at home from school, and was traveling at around 88 kmph (55 mph), when V1 approached from his rear at a higher rate of speed. He said that the driver of V1 failed to reduce her speed, causing the contact between the two vehicles. The driver commented that he initially left the scene to seek medical treatment for his daughter, but then thought he should return to the crash scene. The Critical Precrash Event for V2 was other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. This driver had no associated factors coded for this accident, and was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance present problem 
+Vehicle 2:  Driver Physical, Vision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

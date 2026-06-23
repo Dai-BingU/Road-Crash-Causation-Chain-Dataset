@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle intersection crash occurred during the afternoon hours on an east/west roadway intersected by highway entrance/exit ramps. Traffic at the intersection is controlled by traffic signals. The east/west roadway consists of two lanes in each direction. The west leg of the intersection runs under a bridge and is divided by concrete support pillars. In addition to the two lanes in each direction, the east leg of the intersection has a bike lane on the westbound side of the road. The north leg of the intersection is a highway exit ramp that has two lanes. The south leg is a one-lane one-way highway entrance ramp. The posted speed limit for the east/west roadway is 48 kmph (30 mph); the entrance/exit ramp speed limit is unknown. The weather conditions were clear and there were no roadway deficiencies at the time of the crash. Vehicle one (V1), 2000 Chevrolet Silverado pickup truck with one occupant, was traveling southbound in lane one coming off the highway exit ramp and proceeding straight onto the highway entrance ramp. Vehicle two (V2), a 1992 Subaru SVX with two occupants, was traveling eastbound in the second lane. As both vehicles entered the intersection, the front of V1 struck the left front of V2. Both vehicles came to rest adjacent to the impact point. The driver of V1 was transported with unknown injuries, neither occupant in V2 were transported. Both vehicles were towed from the scene. A report of the crash was not available from the investigating agency. The driver of V1 was not available for interview and no information is available. The critical pre-crash event was coded: this vehicle traveling-crossing over (passing through) intersection. The critical reason was coded: illegal maneuver. The driver ran the red light at the intersection. The driver of V2 was a male of unknown age. He was going from his residence to a shopping center. He is familiar with the vehicle and traveling the route weekly. The traffic signal turned green as he approached the intersection. He was listening to the radio at the time. He failed to look to his left and detect V1 when he entered the intersection. The critical pre-crash event for V2 was coded: other vehicle encroachment-from crossing street, across path. The critical reason was not assigned to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred just south of the intersection of a seven-lane north/southbound road divided by a median without a positive barrier with an undivided east/westbound roadway. There were three northbound lanes and four southbound lanes. East of the intersection there were two westbound lanes and one eastbound lane. West of the intersection there was one lane in each direction. The asphalt roadways were dry, straight and level. Traffic was controlled in each direction by stop and go lights with pedestrian controls. The posted speed limit was 72kmph/45mph. The crash occurred on a weekend afternoon under sunny skies with moderate traffic flow. V1, a 2000 Plymouth Voyager minivan with one occupant, was northbound in lane three. V2, a 1998 Jeep Cherokee utility vehicle with two occupants, was northbound in lane three ahead of V1. There was a non-contact ambulance, on an emergency call with light and sirens operational, making a left turn from the eastbound lane to the northbound lanes. It paused until V2 stopped to yield the right of way. V1 braked but was unable to stop before its front end struck the rear of V2 (Event 1). V1's engine caught fire (Event 2) and stopped at impact facing north in lane three. V2 pulled forward to avoid the fire and came to rest about 30m north of impact in lane four north of the intersection. V1, the Plymouth Voyager, was driven by an 18-year old female who was not injured. The driver reported that she had been traveling from home to her boyfriend's home under the speed limit about 6m behind V2. She said she looked ahead and saw that they had a green light. She added that although she saw the ambulance she did not anticipate that V2 would stop. She said when V2 stopped she applied her brakes in an unsuccessful attempt to avoid impact. The Critical Pre-crash Event for V1 was other vehicle in lane stopped. The Critical Reason for the Critical Event was driver related, false assumption of other road user's actions. The driver assumed that V1 would continue to proceed. Associated factors were assigned to V1 for driver physical health due to the presence of a bad heart and shoulders along with severe cold/flu symptoms; following too closely to response to unexpected actions of others, and a traffic flow interruption due to the approaching emergency vehicle. V2, the Jeep Cherokee, was driven by a 28-year old female. Neither she nor her passenger was injured. The driver reported that while she was traveling from home to pick up a child she saw the ambulance as she approached the intersection. She said its emergency lights were on but she claimed its sirens were not on. She said she was able to safely stop to yield to the ambulance. Seconds later she was struck from behind by V1. She took no evasive actions. The Critical Pre-crash Event for V2 was other vehicle in lane traveling in the same direction at a higher rate of speed. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors were assigned to V2 for driver physical health due to the presence of a bad hip, an exterior factor due to the ambulance approaching from the left, and a traffic flow interruption due to the approaching emergency vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Traffic present problem 
+Vehicle 2:  Distraction, Driver Physical, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

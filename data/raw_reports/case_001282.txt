@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This incident occurred on a two-way four-lane highway. The roadway was wet and the weather conditions were raining at the time of this crash. The speed limit for this portion of roadway is 89 kmph. The crash occurred in the late part of the afternoon on Christmas Day. Vehicle one, unknown year Ford Taurus driven by a female, lost control due to: traveling to fast for conditions. The vehicle was towed due to disabling damage. No PAR has been generated for this incident thus far. Vehicle 1 was traveling in Lane 3 and hit the barrier on the left side of the road. The pre-crash event for this vehicle is: This vehicle Control loss due to: Traveling to fast for conditions The critical reason is: Too fast for conditions - Rain
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Driver Performance, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :

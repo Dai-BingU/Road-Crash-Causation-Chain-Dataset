@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the evening of a weekend on an urban six-lane divided roadway divided. The roadway consisted of three lanes in each direction divided by a raised concrete median. The bituminous roadway was dry, straight, and level, with a posted speed limit of 72 kmph (45 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1998 Lexus LS400 with two occupants, was westbound, exiting a parking lot. V2, a 2004 Ford Mustang with two occupants, was northbound in lane two just south of the parking lot exit. V3, a 2006 Chrysler PT Cruiser with two occupants, was traveling southbound in lane three. As V1 exited the parking lot, the front of V1 made contact with the right side of V2. The force of the impact caused V1 to rotate clockwise and the back left corner of V1 struck the rear of V1. V1 continued in a northwesterly direction, jumped the center median (which caused it to begin rotating clockwise), and entered the southbound traffic lanes. The front of V3 struck the left front corner of V2. All three vehicles were towed due to damage. The driver of V1, a 46-year old female, was transported due to injury. She declined to be interviewed pending litigation. However, in the driver's statement to police, she indicated that as she approached the exit to the parking lot, she mistakenly hit the accelerator instead of the brake. She believed that to be the reason she shot out into traffic at a high rate of speed. The Critical Precrash Event for V1 was coded this vehicle traveling, turning right at intersection. The Critical Reason for the Critical Event was a performance error, poor directional control. As the driver approached the parking lot exit, she failed to control her vehicle with skill ordinarily expected of a good driver. No other associated factors could be determined due to the lack of interview information. The driver of V2, a 35-year old female, was transported due to injury. She stated that the other vehicle came flying out of the parking lot at over 48 kmph (30 mph) without any signs of slowing. The driver said she tried at the last second to step on the brake, but V1 smashed into her right side. She tried to keep the wheel straight, as her vehicle went across the center median into the southbound lanes, where her vehicle was struck by V3. She said she heard the other driver's story about pushing on the gas instead of the brake, but did not believe that was what happened. Instead, she believed that the driver of V1 was trying to crossover into the southbound lanes, not realizing that there was a curbed median separation. The Critical Precrash Event for V2 was coded other vehicle encroachment from driveway, turning into same direction. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors for this driver include an internal distraction as the driver was conversing with her passenger as well as a tire deficiency as the tread depth was dangerously low. The driver of V3, a 54-year old male, was transported due to injury. He stated that he and his wife were driving back to their hotel from a friend's house. They were in the states on vacation, and had spent the day with friends. The trip back to the hotel was described as a leisurely drive. The driver was looking straight ahead when his wife shouted out for the driver to take notice of V2, which was coming across into the southbound lanes. The driver attempted to swerve left and hit the brakes, minimizing the impact. According to the driver, the evasive action was successful in avoiding a head-on collision. The Critical Precrash Event for V3 was coded not involved in the first harmful event. The Critical Reason for the Critical Event was not coded to this vehicle. One associated factor was the driver's inexperience with the vehicle and the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Driver Physical, Drugs present problem 
+Vehicle 2:  Distraction, Vehicle present problem 
+Vehicle 3:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into same direction
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

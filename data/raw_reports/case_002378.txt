@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at a three-legged intersection in the eastbound lanes of a divided, urban roadway with a grass median. There were two westbound lanes and a left turn-only lane in the westbound direction. There were two eastbound lanes, a right turn-only lane, and a left turn-only lane in the eastbound direction. The roadway had a posted speed limit of 72 kmph (45 mph) and a 4 percent downhill grade in both directions. Conditions were daylight, wet, and raining with cloudy skies. The setting was mid-afternoon hours on a weekday. Vehicle one was a 1986 Lincoln Town Car 4-door sedan traveling west in lane three, the left turn lane. Vehicle two was a 2001 Oldsmobile Intrigue 4-door sedan traveling east in lane two. V1 proceeded to turn left as V2 continued straight through the intersection. The front of V1 impacted the left plane of V2. Both vehicles came to rest east of impact in the intersection. The Lincoln Town Car (V1) was driven by a 28-year old male who was transported to a local trauma center with possible injuries. He was unable to be located for an interview. This vehicle may have been facing a flashing yellow turn arrow just prior to the crash. A flashing yellow turn indicates for the corresponding traffic to yield the right of way when turning. The investigating officer estimated his travel and impact speeds to be 56 kmph (35 mph). The Lincoln sedan was towed due to damage. The Critical Pre-crash Event for V1 was this vehicle traveling, turning left at an intersection. The Critical Reason was an unknown recognition error, due to the lack of interview. The flashing yellow turn signal is not common in this area and may have been misinterpreted by this driver. Associated factors coded to V1 include the weather (rain) and the wet roadway. The Oldsmobile Intrigue (V2) was driven by a 59-year old male who was uninjured. He stated that he was heading from work to the veterinarian. He was traveling through the intersection when an oncoming car turned in front of him. He braked and steered right but was unable to avoid the collision. He estimated his travel and impact speeds to be 56 kmph (35 mph) and 48 kmph (30 mph), respectively. The Oldsmobile sedan was towed from the scene. The Critical Pre-crash Event for V2 was other motor vehicle encroachment from opposite direction over left lane line. No Critical Reason was coded to this vehicle. The driver wore glasses for a nearsighted condition. Associated factors coded to V1 include the weather (rain) and the wet roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

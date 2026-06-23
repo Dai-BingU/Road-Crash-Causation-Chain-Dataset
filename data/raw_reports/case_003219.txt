@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at a four-legged intersection in the northbound lanes of a five-lane, divided roadway with a raised concrete median. Both north and southbound approaches had a left turn lane, and two through lanes at this signal-controlled intersection. The roadway had a posted speed of 56 kmph (35 mph) and the southbound lanes had a 2% downhill grade. Conditions were daylight and dry with cloudy skies. The crash occurred in the mid-afternoon hours of a weekday. Vehicle one was a 2000 Nissan Xterra sport utility traveling south in the left turn lane. Vehicle two was a 2000 Dodge Intrepid sedan traveling north in the second lane. V1 proceeded to turn left at the intersection. The right side of V1 was struck by the front of V2. V1 then rolled one quarter turn onto its left side. Both vehicles came to rest in the intersection. V1 was driven by a 29-year old male who was transported to a local trauma center with possible injuries. The driver gave a partial interview before refusing to answer more questions. He stated that he was turning left at the intersection and never saw the other car. He did not execute any avoidance actions. The investigating officer estimated his impact and travel speeds to be 56 and 48 kmph (35 and 30 mph), respectively. V1 was towed due to damage. The Critical Precrash Event for V1 was this vehicle traveling turning left an intersection. The Critical Reason was inadequate surveillance (looked but did not see). No associated factors could be coded due to the interviewee giving a partial interview. V2 was driven by a 46-year old female who was reported to have possible injuries. She stated that she was running an errand after work and was going straight through an intersection. Another vehicle turned in front of her. She braked but could not avoid the impact. She estimated her travel and impact speeds to be 56 and 40 kmph (35 and 25 mph), respectively. V2 was towed due to damage. The Critical Precrash Event for V2 was another vehicle encroaching into the lane from the opposite direction over the left lane line. No Critical Reason was coded to this driver. Associate factors included the use of corrective lenses and the absence of formal driver education. The driver was taught by her father at home.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a weekday during early morning rush hour. This northbound/southbound interstate had a posted speed limit of 89 kmph (55 mph) and varied in both its road surface type (concrete and asphalt), as well as its number of travel lanes. Both V1 and V2 were traveling northbound on a portion of this interstate that had 4 lanes, was level and straight, and had an asphalt surface. Conditions were dry and clear and though traffic flow in general was able to maintain (and exceed) the posted speed limit, sun glare and congestion made for very unsafe driving conditions. A complete interview was obtained from the driver of V2. An interview from the driver of V2 was not obtained. Given that there wasn't any conflicting information between the PAR, the physical evidence, and the information learned from the driver of V2, it was concluded that the account described in the police narrative was an accurate description of the crash events. V1, a 2003 Toyota Corolla driven by a 47-year old female, was traveling northbound in lane 3 when an unknown vehicle traveling in lane 4 "cut her off." No contact was made with this vehicle. The driver of V1 jerked her wheel to the right and then left, and the right rear of V1 struck the driver's door and part of the left/front quarter panel of V2, which was traveling in lane 2. Upon V1 striking V2, V1 then skidded to the left and crossed lanes 3 and 4, and struck a guardrail with its front. V1 continued rotating in a counterclockwise direction and its right rear impacted the guardrail. V1 came to final rest on the left side of the roadway. V2, a 1998 Nissan Altima driven by a 52-year old female, was driving northbound in lane 2. She reported that she was very familiar with this roadway. She acknowledged that the rush hour traffic and sun glare were very bad but pointed out that drivers were managing and that traffic was moving. Concerning the events that occurred in this crash, this driver was unaware of V1's sudden vertical movement into lane 2 and knows only that she felt her vehicle being struck from the left. She stated that her vehicle was immediately forced into (and across) lane one. She feared that she would be struck on her right side as she entered lane 1, but traffic in lane 1 managed to stop without hitting her vehicle and she was able to bring her vehicle to a controlled stop on the right shoulder. The Critical Pre-Crash Event coded to V1 was "This Vehicle Traveling/Over the Lane Line on the Right Side of Travel Lane." The Critical Reason for Critical Pre-Crash Event was coded as "Incorrect evasive action." The rush hour traffic and sun glare were coded as associated factors. The Critical Pre-Crash Event coded to V2 was "Other Vehicle Encroachment/From Adjacent Lane (same direction) - over left lane line." The Critical Reason was not coded to V2. Associated factors coded to this driver were rush hour traffic and sun glare. A medical unit was dispatched and later recalled as both drivers reported that they were not injured. V1 was towed due to disabling vehicle damage and V2 was fully functional.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Traffic, Weather/Environment present problem 
+Vehicle 2:  Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

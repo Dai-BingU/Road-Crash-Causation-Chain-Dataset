@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred mid-morning during daylight hours in a intersection with no traffic controls for north/south traffic. The roadway is divided with three northbound traffic lanes and four southbound traffic lanes at an intersection with access to a major shopping mall on the west. The roadway is straight, level, bituminous and a posted speed limit of 64 kmph (40 mph) . Vehicle one (V1) a 1992 Mercury Sable 4 door sedan. driven by a 83 year-old male was traveling northbound in a designated left turn lane attempting to make a left turn into a shopping mall. Vehicle two (V2) a 2000 Ford Ranger XLT 4x2 pickup with a covered cargo area driven by a 77 year-old female with one passenger was traveling southbound and crossing through the intersection. V1 turned left in front of V2. The driver of V2 attempted to avoid a crash by steering right and braking with lock-up. The front of V1 struck the left front corner of V2. V1 spun counterclockwise and came to final rest facing generally northeast in the intersection. V2 came to a final rest facing generally southwest. V1 and V2 were towed due to damages. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was attributed to V1 as a driver related factor: Inadequate surveillance (e.g., failed to look, looked but did not see). The driver was looking in his intended turn direction and did not see V2 prior to the impact. He did not stop at the intersection prior to making his turn. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

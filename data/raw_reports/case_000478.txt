@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred during the morning daylight hours at the intersection of a two-way, four lane (six overall), divided roadway without a positive barrier for eastbound travel which curved left. Northbound travel was a straight two-way, five lane (nine overall), divided roadway without a positive barrier. Both roads were dry, traveled, level concrete. The posted speed limit is 48 kmph (30 mph) for eastbound travel and 56 kmph (35 mph) for northbound travel. Traffic was light at the time of the collision. There were no adverse weather conditions. Vehicle one (V1) is a 1999 Toyota Camry driven by a 18 year-old female with one passenger was traveling eastbound in the second travel lane. Vehicle two (V2) is a 2003 Chevrolet Express van driven by a 46 year-old male was traveling northbound in the fourth travel lane. V1 entered the intersection without the right of way and was struck on the right side by the front of V2. V1 rotated counterclockwise and was struck on the right side by the left side of V2. V1 came to rest facing northwest in the south bound lanes north of the intersection. V2 rotated clockwise and was struck on the left side by the right side of V1. V2 came to rest facing north in the northbound lanes north of the intersection. Both vehicles were towed from the scene all parties refused medical treatment. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inattention, due to talking with passenger. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle..
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

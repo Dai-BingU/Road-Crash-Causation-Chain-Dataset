@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a two-lane roadway. There was one westbound and one eastbound lane. This was a straight, asphalt road with a grade of 4/122 and a posted speed limit of 72 kmph (45 mph). It was early afternoon on a weekend and the road was dry and the sky was clear. V1, a 1995 Chevrolet Astro van three door with one occupant, was traveling westbound in lane one. V2, a 1996 GMC Jimmy four door with one occupant, was traveling eastbound in lane one. V3, a 2004 Buick Lesabre four door with three occupants was traveling eastbound in lane one approximately 135 meters behind V2. The driver of V1 had a history of Diabetes and had fallen into a diabetic coma. He crossed the middle line into oncoming traffic. The driver of V2 saw him coming at her head-on. She applied the brakes and steered right trying to avoid him. V1 contacted its front to the left of V2. V1 traveled down the road for a while and came upon V3, V3 also saw him coming so she slowed down and tried to pull off the road to the right to avoid him. V1 then went on to contact it's front to V3. This sent V3's right side into a two mailboxes before she came to final rest with her front against a third mailbox. V1 came to final rest in the roadway. The driver of V1 was a 29-year old male who reported minor injuries and was transported to a trauma facility. He advised that he was on his way home from church when he fell into a diabetic coma. He was unsure of how fast he was going at the time of impact. The Critical Precrash Event for the driver of V1 was this vehicle traveling: over the lane line on the left side of travel lane. The Critical Reason for the Critical Precrash Event is a driver related factor: Heart attack or other physical impairment of the ability to act, because he was in a diabetic coma. Some associated factors for V1was that the driver rarely drove that road and the vehicle had a tire deficiency. The driver of V2 was a 45-year old female who reported no injuries. She advised that she had just left church and was on her way to her nephew's house. She saw the van coming straight at her going to hit her head on. She blew her horn and steered to the right. He hit her mirror and the back of the truck and then kept on going. She reported that she was traveling between 67-80 kmph (41-50 mph) prior to the crash. The Critical Precrash Event for the driver of V2 was other motor vehicle in lane: traveling in opposite direction. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2 and was not thought to have contributed to the crash. An associated factor for V2 was that she was on her cell phone just prior to the crash. The driver of V3 was a 64-year old female who reported minor injuries, and was transported to a trauma facility. She advised that she had just left church and was on her way to drop off an occupant at her house. She saw the police were chasing the van ahead of her. The van started coming towards her, she tried to pulled off the road as far as she could but he still hit her. She advised that she had slowed down to 2-16 kmph (1-10 mph) when she was hit. V3 was not involved in the first harmful event. Therefore, no Critical Precrash Event or Critical Reason was coded to the driver of V3.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Physical, Drugs, Vehicle present problem 
+Vehicle 2:  Cell Phone Use, Distraction, Driver Physical, Drugs present problem 
+Vehicle 3:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Motor Vehicle in Lane- Traveling in opposite direction
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

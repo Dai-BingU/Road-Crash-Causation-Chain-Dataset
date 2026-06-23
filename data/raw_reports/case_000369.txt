@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west five-lane undivided urban business roadway with two way left turn lane and shoulders. There were private drives periodically located on both sides of the road. The roadway curved slightly to the north with a radius of curvature of 865m, impact took place near the apex. Conditions were dry and dark with streetlights present on a weekday night. Vehicle #1 was a 1997 Honda Civic traveling west. Vehicle #2, a 1990 Ford Bronco II, travelling eastbound in the right lane. Vehicle #1 entered the center left turn lane and attempted to turn left into a private drive located on the south side of the road. The right side of the Honda (V1) was struck by the front of the Bronco (V2). After impact, Vehicle #1 rotated clockwise and came to rest facing east in a landscaped area that separated private drives. Vehicle #2 came to rest facing south on the south shoulder. Both vehicles were towed due to damage. Vehicle #1 was driven by a 32-year old male that was belted with no deployed airbags. He was not injured in the crash. He stated that this other car was following him right on his tail. He guessed he was paying too much attention to it. He moved over into the turn lane. He stated that he didn't see the other vehicle until he had already committed to making the turn, however his statement was not deemed credible. The driver accelerated in an attempt to avoid a collision but failed to make it across the eastbound lanes. A witness told police that Vehicle #1 had been weaving in and out of traffic and speeding prior to the crash. Police charged the driver with failure to yield. The Critical Precrash Event for Vehicle #1 was this vehicle turning left at intersection. The Critical Reason for the Critical Event was a decision error, misjudgment of gap or other's speed. Researcher believes he misjudged the velocity and gap distance of the other vehicle. Associated factors included an exterior factor, looking at other traffic. He said he was paying close attention to a car behind him in his rear view mirror. In a hurry was coded based on the witness statement. Vehicle #2 was operated by an 18-year old male that was belted and not injured. He left 13m of pre impact skids in an attempt to avoid the crash. He stated that he was in the right lane. The other vehicle pulled across in fron of him and he slammed on the brakes, but could not miss him. It was like he was trying to beat me across. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors coded to Vehicle #2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Driver Inexperience, Driver Stress/Emotion, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

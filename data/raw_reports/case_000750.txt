@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a primary arterial road that ran north/south, had three northbound lanes (lane 3 was a left turn only lane) and two south bound lanes separated by a grass median. A residential street that ran east/west had two undivided lanes and was straight and level intersected the road. The east/west road was controlled by passive stop signs and the arterial was uncontrolled. The northbound approach to the intersection had a curve left with the radius measuring 670.83 meters and was super-elevated at 3.1%. Conditions at the time of the crash were dark, unlit and dry (the crash occurred in the pre rush hour morning hours on a weekday). The speed limit on the arterial was 80kph (50mph) and on the side street was 56kph (35mph). V1 was a 1990 Lincoln Towncar that had stopped at the westbound approach to the intersection then proceeded to cross in an attempt to turn left/south on the arterial. It was struck on the left side (from the LF wheel forward) by the front of V2, a 2006 Chevrolet Cobalt SS that was traveling north in lane 2 of the arterial. V1 then rotated clockwise and came to rest with its front tires resting against the northeast curb return of the intersection. V2 traveled approximately 60 meters northwest (across southbound travel lanes) and came to rest in a private lot facing north on the west side of the arterial. There were no pre-impact skids and The EDR for V2 indicated no braking before impact. Both vehicles were towed from the scene. V1 was driven by a fifty-eight-year-old-belted female who was transported from the scene to an area hospital with possible injuries. She was on a paper route that morning and had 370 newspapers in the car with her at the time of the crash. She (D1) indicated that she did not see V2 before pulling out, then saw V2 about 3 seconds before. The Critical Precrash Event for V1 was "this vehicle traveling, turning left at intersection". The Critical Reason was coded as "panic/FREEZING". The driver was coded as fatigued due to her sleep schedule. The driver was taking a few medications and also claims to suffer from diagnosed but untreated sleep apnea. Inadequate surveillance, looked but did not see was coded due to D1 not seeing V2 before proceeding into the intersection. She was on a tight delivery schedule, which admittedly caused her to be in a slight hurry also. V2 was driven by a twenty-year-old-belted-female whose airbag did deploy in the crash and was transported to an area hospital for treatment of possible injuries. She was on her way to work at the time of the crash. She said she saw V1 about 2 seconds before impact but had no time to react. The Critical Precrash Event for V2 was "other vehicle encroachment from crossing street turning into opposite direction ". The Critical Reason was not coded to this vehicle. The only contributing factor coded to V1 was traveling too fast to be able to respond to the unexpected actions of others.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Performance, Driver Physical, Driver Stress/Emotion, Drugs, Surveillance present problem 
+Vehicle 2:  Decision, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Panic/freezing
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west barrier divided urban interstate inside a construction zone. Eastbound there were three travel lanes with a one-lane entrance ramp merging from the south. A barrier divided them from three westbound lanes. There are no shoulders or lighting due to the construction. The interstate was straight with a 1.4% downgrade for eastbound travelers. Traffic counts from 2003 indicate the six interstate lanes carry 142,840 vehicles per day. The posted speed was 72kph (45mph). Conditions were dark and dry on a weekend night. Vehicle #1 was a 1995 Toyota Corolla traveling east in the right lane. Vehicle #2, a 2004 GMC Envoy SUV, was eastbound in the right lane in front of Vehicle #1. Traffic came to a sudden stop due to vehicles merging from the entrance ramp. The Corolla (V1) was unable to stop in time and rear-ended the Envoy (V2). Vehicle #1 came to rest near impact and was towed due to damage. Vehicle #2 came to rest approximately 40m east of impact and was driven away. Vehicle #1 was driven by a 28-year old male that was belted and not injured. A belted 24-year old female passenger that was nine months pregnant and a 3-year old female restrained in a child seat in the second row were transported to an area hospital with minor injuries. The frontal airbags didn't deploy in the crash. Vehicle #1 left approximately 12m of skid marks prior to impact. Police charged the driver with following too closely. The Critical Precrash Event for Vehicle #1 was other vehicle in lane traveling in same direction while decelerating. The Critical Reason for the Critical Event was a decision error, too fast to be able to respond to unexpected actions of others. Associated factors included that the driver and passenger were conversing at the time of the collision. Failed to look far enough ahead and the false assumption that the other driver would continue to proceed were also coded. Construction work zone was included as a traffic interruption factor. Vehicle #2 was operated by a 56-year old male that was belted and not injured. A 55-year old female was in the front passenger seat and was also belted and not injured. No airbags deployed in the vehicle. The driver reported that traffic came to a sudden stop and he stopped for about two seconds and had just began to accelerate again when the collision occurred. The Critical Precrash Event for Vehicle #2 was other vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. The only associated factor was a traffic interruption factor, construction work zone.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

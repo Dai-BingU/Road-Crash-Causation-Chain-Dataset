@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred shortly before noon on a five-lane northbound/southbound roadway intersecting with a westbound roadway. The conditions at the time of the crash were wet roadways with light rain. The northbound roadway consists of three lanes including a left turn lane at the intersecting road while the southbound roadway consists of two lanes before and after the intersection. The speed limit for this roadway is 48 kmph (30 mph). The westbound roadway is a one-way two-lane roadway, with a painted median separating the turn entrances for northbound and southbound vehicles. The northbound roadway curves to the left as it approaches the intersection. The southbound roadway curves to the right & then left near the intersection. The super elevation in the curves is unknown. Both are level and made of bituminous asphalt. Vehicle one (V1), a 2002 Chrysler PT Cruiser carrying two occupants, was traveling southbound in an unknown lane at an unknown rate of speed. No pre-crash information was obtained directly from the driver after numerous failed attempts to get an interview. Vehicle two (V2), a 1985 Mercedes-Benz 190E carrying one occupant, was traveling northbound in lane three of the roadway, which is the left turn lane. The driver of V2 conveyed that she was clear to turn after noticing an oncoming bus making a stop to pick up passengers. She proceeded to make the left turn when the front of V1 struck the right side of V2. Both vehicles came to rest in the intersection. Both vehicles were towed from the scene. The driver of V2 and the passenger in V1 were transported to a local trauma center. The 45 year-old male driver of V1 refused to be interviewed. His pre-crash travel lane is unknown. The critical pre-crash event was coded "other vehicle encroachment-from opposite direction-over left lane line". A critical reason was not coded to this vehicle. The driver of V2 was a 25 year-old female. She claimed to be attentive to the driving task. She is familiar with the vehicle and drives the route daily. She stated she saw the oncoming bus slow down for the bus stop and attempted the left turn. She did not detect V1 until impact and attempted no evasive maneuvers. The critical pre-crash event for V2 was coded "this vehicle traveling-turning left at intersection". The critical reason was coded "inadequate surveillance (e.g., failed to look, looked but did not see)". The bus was an exterior distraction for the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Weather/Environment present problem 
+Vehicle 2:  Distraction, Roadway, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

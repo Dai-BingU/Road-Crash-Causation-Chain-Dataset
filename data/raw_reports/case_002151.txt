@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash during daylight hours on a dry, divided, right-curve, downhill, roadway. The roadway runs east and west at the location of the crash and has three through lanes in each direction. The location of the crash was at an interchange with a dirt road that runs north and south and is below the east/west roadway. The speed limit on the east/west roadway is 105 kmph (65 mph) and there were no adverse weather conditions at the time. Vehicle one (V1), a 1998 Toyota Tacoma, was eastbound in lane three. The vehicle traveled off the left side of the road into the grassy median for approximately 350 meters. The front of the vehicle struck two delineator posts. The vehicle traveled down a steep embankment and the front of the vehicle struck the north/south road. The vehicle then rolled end-over-end and came to rest on the top on the opposite embankment. The vehicle was towed due to damage. The driver of V1, a forty-seven-year-old male, refused to be interviewed. According to the passenger in the vehicle, the driver and passenger were gambling at an unknown location that day and were traveling back home. The passenger, a twenty-four-year-old female, stated that the driver was very tired from working a lot of overtime that week and that she had asked him a couple times if he wanted her to drive because he was tired but he said no. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the left side. The critical reason for critical pre-crash event for V1 was coded as a driver related factor: sleeping, that is, actually asleep.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

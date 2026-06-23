@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This daytime collision between three vehicles occurred at a four-way intersection controlled by traffic control signals in all directions. Both roadways are dry, straight, and bituminous. North to south roadway is level, two-way, five-lane, undivided, and has a posted speed limit of 56 KPH (35 mph). East to west roadway is undivided, two-way, three-lane, has a +8% grade on east side and a -7% grade on west side, and has a posted speed limit of 48 KPH (30 mph). No adverse weather present at the time of collision. V1, a 1999 Chevrolet Venture minivan driven by a 36-year-old male, is traveling west in lane one with the intention of going straight. V2, a 1997 Dodge Intrepid sedan driven by a 23-year-old male, is traveling south in lane two with the intention of going straight. V3, a 1991 Honda Accord sedan driven by a 34-year-old male, is traveling east in lane one with the intention of going straight. Collision occurred when V2 driver entered the intersection and the front struck the right front side of V1. V2 and V1 then side-slapped; V2 left side to V1 right side. After the side-slap impact, V2 traveled into the southwest corner of the intersection and came to final rest on a +41% grade grassy hill. As a result of this contact, V1's direction of travel was deflected into V3's path of travel. V1 left front bumper contacted the left side of V3. V1 came to rest in lane two of southbound traffic lanes on the south side of the intersection. V3 rotated counterclockwise into the southeast corner of the intersection after impact with V1 and struck a traffic signal pole with the left side before coming to final rest across intersection in lane one of eastbound traffic lanes, facing southwest. All three vehicles were towed due to damage. The driver of V1 was going home after eating lunch and had been driving about 13 minutes. The critical pre-crash event for V1 was coded "other vehicle encroachment-from crossing street, across path". The critical reason was not assigned to this vehicle. The driver of V2 had left home at 1200 and was headed to a job interview appointment at 1300. The critical pre-crash event for V2 was coded " this vehicle traveling-crossing over (passing through) intersection". The critical reason was assigned to V2 and was coded "illegal maneuver". The driver of V3 was running an errand after having left home 8 minutes prior to the collision. The driver of V3 was not involved in the first harmful event and a critical reason was not assigned.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Driver Stress/Emotion, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

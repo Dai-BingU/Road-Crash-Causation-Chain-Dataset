@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The motor vehicle accident occurred on a north/south roadway that had five travel lanes, three northbound, two southbound. This roadway does not have a physical divider. The surface was level, asphalt, and there were no traffic control devices at the scene. V1, a 2003 Ford Taurus driven by a 45-year old female, was traveling northbound on the roadway when the driver missed its turn off. The driver made a U-turn and started to travel southbound on the roadway. The driver intended to make a left hand turn into a parking lot, then cross through the lot to enter the roadway for which she missed the turn-off. The driver waited in the southbound travel lane (in lane 2) for northbound traffic to allow her to enter the lot. A motorist in the second northbound lane and one in the third northbound lane stopped and waived the driver on. The driver proceeded to cross the double yellow lines and cross over the northbound travel lanes to enter the lot. After crossing over the first two lanes, the driver reported that a vehicle in the first lane of northbound traffic was traveling at a high rate of speed and crossed into the driver's path. The driver also states that she had no way to avoid striking the vehicle (V2). V2, a 2001 Acura 3.2 CL coupe driven by a 26-year old male, was traveling north in the first lane of travel. He stated that he had begun to slow down because traffic ahead of him had slowed for a red light further up the road. The driver of V2 stated that as he was approaching the stopped traffic, V1 came out of nowhere and hit the left side of his vehicle. He accelerated and steered to the right, but the front of V1 then hit the rear of his vehicle. The Critical Pre-Crash Event for the driver of V1 was coded as This vehicle traveling - turning left at intersection. The Critical Reason for the Critical Event was an othe decision error - turned with obstructed view. Associated factors coded to this driver include a sight restriction caused by the non-contact vehicles whose drivers waived V1 on, and a false assumption - the driver of V1 assumed that because the two non-contact drivers were waiving her on, that the way must be clear. The Critical Pre-crash Event for the driver of V2 was when another vehicle encroached into his lane from the opposite direction - over the left lane line. The Critical Reason was not coded to the driver of V2. One associated factor coded to him was the sight restriction due to the stopped (no-contact) vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway present problem 
+Vehicle 2:  Driver Physical, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

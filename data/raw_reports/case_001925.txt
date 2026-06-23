@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes at an intersection of a four-lane suburban roadway with a grass median. There were four westbound lanes and two eastbound lanes. The roadway had a posted speed of 89 kmph (55 mph) and the westbound lanes had a downhill grade of 6% approaching the intersection. The grade was 4% uphill at the intersection. Conditions were daylight and dry with cloudy skies. The crash occurred in the mid-afternoon hours of a weekday. Vehicle one was a 2005 Chevrolet Suburban sport utility. Vehicle two was a 1998 Acura SLX sport utility. V2 was stopped facing west in lane three at the traffic light. V1 was traveling west in lane three approaching the intersection. The driver of V1 was distracted by a broken-down vehicle receiving police assistance on the right roadside. The front of V1 struck the back of V2. V1 swerved left across the median, striking a road sign with its front. V1 then continued into the left roadside, striking a large tree with its front and coming to rest. V2 was pushed across the intersection, coming to rest on the right roadside. V1 was driven by a 37-year old female who was reported to have possible injuries and was treated on scene. She stated that she was paying attention to the police helping the broken-down motorist on the right roadside, and did not notice the stopped traffic ahead of her. She could not estimate her travel and impact speeds. V1 was towed due to damage. The Critical Precrash Event for V1 was another motor vehicle in the lane stopped. The Critical Reason was a recognition error created by an external distraction. An associated factor was that this driver was thinking about upsetting family events which had occurred in the previous 24 hours. The driver was also taking a prescribed antidepressant. In addition, she had only been driving the vehicle for two weeks, and was not completely comfortable with it at the time of the crash. V2 was driven by a 49-year old female who was uninjured. She stated that she had been stopped for half a minute when she was struck from behind without warning. V2 was not towed due to damage. The Critical Precrash Event for V2 was another motor vehicle in the lane traveling in the same direction with a higher speed. No Critical Reason was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

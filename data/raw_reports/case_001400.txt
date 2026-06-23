@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary A two-vehicle crash occurred evening dark hours on a two-lane two-way roadway. This two lane undivided roadway was dark but lighted. This section of the roadway runs east/west and is bituminous asphalt with a speed limit of 48 kmph (30 mph). The eastbound lane has a negative 7 % grade. The weather was slight rain and the roadway was slightly wet. The north side of this roadway has private driveways. Vehicle one (V1) a 1998 Dodge Durango 4x4 sport utility vehicle driven by a 46 year-old male was traveling east. Vehicle two (V2) a 1997 Nissan Sentra sedan driven by a 19 year-old male with one passenger was traveling east in lane one. V 2 was approaching a private driveway. Vehicle two slowed down and had its left turn signal illuminated. V1 was traveling eastbound behind vehicle two. As V1 approached V2, V1 changed lanes to the left in an attempt to go around V2. As V1 changed lanes V2 turned across the westbound lane. V1's front impacted V2's left side. After impact V1 pushed V2 to the bottom of the hill still connected to V2's left side. Both vehicles were towed due to damage. Driver and passenger of V2 were transported to a local medical facility. The critical pre-crash event for V1 was coded: this vehicle traveling; over the lane line on the right side of travel lane. The critical reason was coded as a driver related decision error: false assumption of other's actions. The critical pre-crash event for V2 was coded: other vehicle encroachment; from adjacent lane (same direction)- over left lane line. The critical reason not coded to this vehicle. Associate factors, driver of V1 stated during an interview that he thought V2 was parked on the side of the road. He attempted to go around V2. He had no recollection of seeing brake lights or a turn signal. There is no place to "park" on this roadway. Also driver of V1 was arrested for DUI while being interviewed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

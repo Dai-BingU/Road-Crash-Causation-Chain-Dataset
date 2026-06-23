@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred just past noon. The location was an urban area with curbs and sidewalks and retail businesses on both sides of the roadway. The roadway is a level, bituminous, five lane, undivided, two-way road, with two lanes in each direction and a center turn only lane. It was daylight, the road was dry and it was clear. The approach for both vehicles was a slight curve to the left just prior to the point of impact. Traffic was moderate and moving at the posted speed limit 56 kmph (35 mph). Vehicle one (V1) was a 1999 Ford Escort driven by a 30-year-old male that was traveling eastbound in the curb lane. Vehicle two (V2) was a 1998 Chrysler Town & Country Caravan driven by a 80 year-old male was also traveling east in the number one lane. Traffic ahead of vehicle two stopped for a vehicle turning right into a parking lot. The driver of V1 locked the brakes, but failed to stop in time and struck the rear of V2, which was stopped in traffic lane. V1 came to final rest at the point of impact facing east. V2 moved to parking lot. V2 was driven from the scene. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: misjudgment of gap or other's speed. The critical pre-crash event for V2 was coded: other motor vehicle in lane traveling, in same direction with higher speed. The critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

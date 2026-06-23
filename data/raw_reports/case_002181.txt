@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on an urban section of interstate highway at mid-afternoon during daylight hours involving a truck that ran off the traffic lane onto the right shoulder and struck a legally parked passenger car that was unoccupied. For westbound traffic there are six through concrete traffic lanes that are straight and level with shoulders on each side. The speed limit is 105 kmph (65 mph). There were no adverse atmospheric conditions present at the time. There were no traffic controls present at the scene. Vehicle one, a 1991 Dodge Dakota pickup, was traveling westbound in lane one. Vehicle two, a 1986 Toyota Camry, was legally parked off to the right side of the roadway on a paved shoulder and was not in-transport. The driver of vehicle one fell asleep and the vehicle veered to the right onto the shoulder and the front of vehicle one struck the rear of vehicle two. Both vehicles moved together as they re-entered the roadway, coming to rest in lanes three and four, facing southwest. The critical pre-crash event for vehicle one was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical event was coded as a driver related critical non-performance factor: sleeping, this is actually asleep.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

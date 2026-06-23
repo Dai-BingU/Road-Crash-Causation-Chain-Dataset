@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the intersection of a five-lane, non-divided, wet asphalt roadway with a posted speed limit of 80Kmh (50Mph). The crash occurred during the hours of darkness, and there were no adverse conditions present at the time of the crash. V1 a 2001 Pontiac Montana was attempting to make a left hand turn form a two-lane road onto the five-lane roadway. V2 a 2002 Chrysler Sebring was traveling southbound in the second lane negotiating the curve to the left. V1's front bumper contacted V2 in the front right fender pushing V2 into the center turn lane. The driver of V1 a 66yr old male driver stated that he stopped at the stop sign and waited for traffic to clear. He then stated that he proceeded to pull out onto the road and did not see V2. The Critical Pre-Crash Event coded for V1 is “this vehicle traveling turning left at an intersection”. The Critical Reason for the Critical Event coded for V1 is “failed to look-looked but did not see”. The driver of V2 a 23yr old female stated that she and her boyfriend were heading to the grocery store when they were struck from the side by V1. She also stated when asked that they were not talking at the time of the crash. The Critical Pre-Crash Event coded for V2 is “other vehicle encroachment from crossing street turning into opposite direction”. V2 was not assigned a Critical Reason.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This late evening two-vehicle crash occurred in the middle of four-way intersection controlled by stop signs in all directions. The east/west and north/south roadways were each undivided 2-lane roadways that were level and dry. There were no adverse atmospheric conditions at the time of the crash. The posted speed limit on both roadways was 40 kmph (25 mph). Vehicle one (V1), a 2002 Chevrolet Cavalier, was traveling westbound approaching the intersection. Vehicle two (V2), a 1997 Honda Civic, was traveling south, also approaching the intersection. V1 entered the intersection without stopping for the stop sign and its front end contacted the left front side of V2. The impact caused V2 to rotate clockwise through the intersection in a westerly direction where it mounted the south sidewalk and contacted an iron fence. After impact, V1 rotated in a counterclockwise direction while traveling in a southwesterly direction and the right side of V1 impacted a paper box and a utility pole. V1 continued rotating until it came to final rest facing northwest in the westbound lane. V2 came to an uncontrolled final rest with the front end partially through the fence facing in a southwesterly direction with the back end blocking the sidewalk. Both vehicles were towed from the scene due to crash damage. The driver of V1, a 22-year-old male, sustained injuries that required hospitalization. There were no other occupants in the vehicle when this crash occurred. There was no interview obtained at the scene because the driver was removed from scene by ambulance and transported to a local hospital. The driver was interviewed at a later date by phone and he stated that he was still fuzzy about many details of the crash. Medical records indicated that less than two hours after the crash, the driver of V1 had a BAC of .178. The Critical Pre-Crash Event coded to this vehicle was other vehicle encroachment from crossing street, across path. The Critical Reason was not coded to this vehicle; however, several associated factors were coded to its driver. First, an illegal maneuver was coded because the driver failed to stop at the stop sign (according to the PAR). Alcohol use was another associated factor, as well as inadequate surveillance. Other associated factors coded to this driver were unfamiliarity with both the vehicle and the roadway - he reported that he rarely drove on the roadway and that this was the first time he had driven the vehicle. The driver of V2, a 20-year-old female, was also hospitalized. There were no other occupants in the vehicle when this crash occurred. There was no interview. The driver was removed from the scene by ambulance and transported to a staging location. Medivac later transported the driver to a trauma facility. The Critical Pre-Crash Event coded to this vehicle was: this vehicle crossing over (passing through) intersection. The Critical Reason was coded as “Type of driver error unknown” due to the lack of interview. No associated factors could be coded to this driver due to the lack of interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This accident occurred on a two-way, four-lane roadway. It is physically divided with a median strip, and has a traffic-control device at this intersection. The conditions were as follows: late evening, cloudy skies, the roadway was wet and was experiencing snowfall for the atmospheric conditions. The gradient for vehicle 1 was -2 percent and vehicle 2 was +2 percent. The posted speed limit for vehicle one (V1) and vehicle two (V2) was (72 kph) 45 mph, V1 was stopped in the left hand turn lane prior to the crash. V1 was a 1993 Black Ford Thunderbird, which had a green round light, and did not have a left turn arrow, in the traffic control device. V1 struck V2 in the left front, near the front door and down the side until it reached the left rear tire and started to push V2. The impact caused V2 to be pushed off the right side of the road, coming to final rest on the curb on the southbound side. V2 needed to be towed from the scene. V1 drove to a nearby parking lot and parked. The driver of V1 was not treated, because he did not suffer any injuries. After obtaining the interview from the driver of V1, he thought he had enough space to proceed. The Critical Precrash Event for V1 was coded as this vehicle turning left at the intersection. The Critical Reason for the Critical Precrash Event is decision error, misjudgment of gap or other's speed. The driver stated that he does not take any medications. Furthermore, his emotional and fatigue levels at the time of the crash, as well as the days preceding, were normal. V2 was a 2005 Black Subaru Legacy was traveling southbound and had a green light at the intersection. Upon realization of the impending crash, the driver of V2 attempted to avoid the collision by steering his vehicle to the right. With this maneuver, the driver unfortunately could not prevent this crash. This vehicle also needed to be towed from the scene. The Critical Precrash Event for V2 was coded as other vehicle encroachment from opposite direction-over left lane line. The Critical Reason was not coded to this vehicle. The driver of V2 did not need any medical attention. He was wearing glasses to correct his myopic (near-sighted) condition. He claimed to be in good health, but was taking a prescribed medication to lower blood pressure, on a constant basis. He has been diagnosed with sleep apnea but was currently under no treatment. Furthermore, his emotional and fatigue levels at the time of the crash, as well as the days preceding, were normal.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Weather/Environment present problem 
+Vehicle 2:  Decision, Driver Physical, Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

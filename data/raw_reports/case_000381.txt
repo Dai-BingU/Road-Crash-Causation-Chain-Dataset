@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of a city roadway, during the morning daylight hours, on a dry asphalt roadway. The road on which the vehicles were traveling was level, asphalt and had a speed limit of 40kmph (25mph). The intersection is controlled by a stoplight that was working at the time of the crash. V1 a 1992 Chevy Beretta was traveling west bound in the second lane attempting to make a left hand turn, when the driver turned in front of V2. V1 was towed from the scene with minor damage. The restrained driver received minor injuries and was not treated. The 20 year old female driver of V1 stated that she was not familiar with the roadway, that was the 1st time she had driven on it. She also stated that she thought she had enough room to turn, but after being hit she realizes that there was not enough room. The Critical Pre-crash Event coded for V1 is this vehicle traveling turning left at an intersection. The Critical Reason coded for this vehicle is misjudgment of gap or others speed. V2 a 1997 Dodge Stratus was traveling eastbound approaching the intersection when V1 turned in front of her. The driver and passenger were transported to the local hospital with minor injuries. The driver of V2 a 42 year old female driver stated that she did not have time to avoid the collision. The driver also stated that the other car did not have on their turn signal so she did not think V1 would turn. The Critical Pre-crash Event for V2 is other vehicle encroachment (from opposite direction over left lane line). The Critical Reason was not coded to this vehicle. The drive was taking 3 different medications, one for high blood pressure, one for high cholesterol, and one for menopause
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Starting in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

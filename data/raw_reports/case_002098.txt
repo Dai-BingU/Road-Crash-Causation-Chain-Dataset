@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during daytime hours on a weekday. The crash occurred at the four-leg intersection of a north-south roadway and an east-west roadway. The intersection was controlled by a tri-light traffic signal. At the time of the crash, there were no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 2005 Chevrolet Cobalt two-door, was traveling southbound in the third lane of a seven-lane, two-way, undivided, dry, level, bituminous roadway, approaching the intersection. Vehicle two (V2), a 1986 Mercedes-Benz 560SEL four-door sedan, was stopped at the intersection ahead of V1 in the same lane. The front of V1 impacted the back of V2. Both vehicles moved ahead a short distance and came to rest in their original travel lane. The 22-year-old female driver of V1 reported that she saw V2 ahead of her and was looking at it, but did not realize that it had stopped. At the time of the crash, she was rested and alert, and she reported no internal or external distraction. She did not report any inattention factors. She has been driving for two years, and has received no formal driver training. The critical precrash event for V1 was: Other vehicle in lane, other vehicle stopped. The critical reason for the event was attributed to V1, and is coded: Driver related recognition error, unknown recognition error. The 65-year-old driver of V2 reported that he was engaged in conversation with the passenger as he came to a stop, just as the tri-light changed to the red phase. Another vehicle abreast of his to the right proceeded through the red light. He was commenting on this to his wife when the impact occurred. The critical precrash event for V2 was: Other vehicle in lane, traveling in same direction with higher speed. The critical reason for the event was not attributed to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

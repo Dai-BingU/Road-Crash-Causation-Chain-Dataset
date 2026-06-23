@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the right lane of the northbound lanes of an undivided roadway with two lanes in each direction. The roadway was straight and level, and it was cloudy and raining. The roadway was wet and had a posted speed limit of 48 kmph (30 mph). The crash occurred at a 4-way signalized intersection. Vehicle #1 was a 1999 Toyota Camry that stopped for an emergency vehicle traveling westbound with the emergency lights on. Vehicle #2 was a 2000 Nissan Sentra that was behind Vehicle #1 and could not stop in time. Vehicle #2 rear-ended Vehicle #1. The emergency vehicle was crossing over the intersection. A seventy-four year old male who did not sustain any injuries drove the Toyota Camry. He stated that he saw the emergency vehicle trying to go through the intersection so he slowed down and came to a stop. As he stopped, he was rear-ended by Vehicle #2. The Critical Pre-crash event for Vehicle # 1 was coded as: other motor vehicle in lane, traveling in the same direction at a higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. One associated factor coded to this driver was the use of prescription medications. He stated that he was taking medication for pain in his chest, back and feet. The medication was both over the counter and prescribed, and he did not reveal the names of the medications. He was wearing prescription bifocal glasses for both hyperopic and myopic conditions. Two other associated factors that were coded (to both drivers) were the traffic flow interruption in the form of the approaching emergency vehicle and the weather (rain). Vehicle # 1 was driven away from the scene. A forty-seven year old male who did not sustain any injuries drove the Nissan Sentra. He stated that Vehicle #1 suddenly stopped and he could not stop due to the wet road. A thirty-seven year old female who also did not sustain any injuries was the passenger in the front-right position. The Critical Pre-crash Event was coded as: other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Event was coded as a decision error: Too fast to be able to respond to unexpected actions of others. Associated factors coded to this driver include traveling too fast, a false assumption in that the driver assumed that because his light was green, traffic in front of him would continue to proceed, the traffic flow interruption in the form of the approaching emergency vehicle, and the weather (rain). Other possible associated factors were unknown because the interview was not obtained. Vehicle # 2 was towed due to damage.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Roadway, Traffic, Weather/Environment present problem 
+Vehicle 2:  Decision, Roadway, Speed/Distance, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :

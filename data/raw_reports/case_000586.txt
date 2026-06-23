@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in a 4-way intersection. The north/south roadway was a 4-lane undivided roadway. This straight, bituminous roadway had a downhill grade of 3 percent in the northbound direction and a posted speed of 64 kmph (40 mph). The east/west roadway was 2-lane undivided roadway. This straight, bituminous roadway had a posted speed of 40 kmph (25 mph). The east/west roadway was controlled by a stop sign, while the north/south roadway had no traffic control device. It was early afternoon on a weekday and the road was dry and skies were clear. Traffic flow was congested with stop-and-go traffic activity. V1, a 2002 Dodge Caravan minivan, was traveling northbound in travel lane 2 intending to make a left at the intersection. V2, a 2000 Ford Windstar minivan, was traveling southbound in travel lane 1 intending on continuing going straight. When V1 reached the intersection, it stopped in lane 2, waiting for a clear path to make a left. V1 was stopped for longer than 10 seconds when a non-contact vehicle that was stopped in the second southbound lane signaled for V1 to turn. V1 turned and cleared lane 2 (where the non contact vehicle was located) but when it crossed over travel lane 1, it entered the direct path of V2. Neither driver had time to do anything to avoid the collision and the two vehicles collided. The front of V2 impacted the right rear of V1. V1, the 2002 Dodge Caravan, was driven by a 28-year old male who reported no injuries. The driver reported that a non-contact small bus had stopped in southbound lane 2 and gave V1 the right of way allowing him to make the left turn. When the V1 and V2 collided, V1 was traveling less than 16 kmph (10 mph). The driver of V1 never saw V2 coming and did not have enough time to avoid the accident. The Critical Pre-Crash Event for V1 was "This vehicle is traveling-turning left at intersection." The Critical Reason for the Critical Event was a recognition error-inadequate surveillance. The driver of V1 did have a clear path to make a left over travel lane 2 but did not look into travel lane 1 before continuing on with the turn. Associated factors coded to this driver include an "other" recognition error in that the impending problem was blocked by the traffic flow pattern and a sightline restriction caused by the non-contact vehicle. V2, the 2000 Ford Windstar, was driven by a 66-year old female who reported no injuries. The driver reported that she was traveling straight down the roadway talking to her grandson and when she approached the intersection, V1 turned across her direct path. She did not have any time to stop or attempt to avoid the accident. Later when the police questioned her about the non-contact vehicle that waved V1 on, she said that no such vehicle existed. The Critical Pre-crash Event for V2 was "Other vehicle encroachment from opposite direction, over left line." The Critical Reason was not coded for this vehicle. Associated factors coded for this driver include the driver talking to her grandson in the moments leading up to the crash and a sightline restriction caused by the non-contact vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Surveillance present problem 
+Vehicle 2:  Distraction, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

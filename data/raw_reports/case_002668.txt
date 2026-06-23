@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary Case #2006-41-024 The crash occurred in the westbound lane of a two-way, two-lane undivided roadway. This was a straight, level, asphalt roadway with a posted speed of 48 kmph (30 mph). Conditions were dark with streetlights, on a weekday evening. The skies were clear and roads were dry. Traffic flow was normal. V1, a 1994 Dodge Dakota pickup truck with one occupant, was traveling westbound in lane one. The driver drove off the left side of the roadway, striking a utility pole with the front of the vehicle. Bystanders or friends of the driver pulled him out of the vehicle, so that when paramedics and police arrived, they could not determine whether the injured occupant was the driver or a passenger. Therefore, the police report lists the accident as a hit-and-run. It was researcher-determined that the injured person was in fact the driver. The Dodge Dakota was driven by a 66-year old male, who was transported with incapacitating injuries. The driver declined to be interviewed, stating that he in fact, was not the driver. The Critical Precrash Event for V1 was "this vehicle traveling, off the edge of the road on the left side". The Critical Reason for the Critical Event was coded as poor directional control. Specifically, the driver's motor skills were seriously compromised as a result of alcohol ingestion (BAC reported as 0.23). An additional associated factor for this driver may have been sleep apnea since his medical record indicated that he used a C-PAP machine as treatment for this disorder.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Performance, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

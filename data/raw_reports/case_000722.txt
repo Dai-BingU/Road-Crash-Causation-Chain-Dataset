@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the late evening hours of a weeknight on the right hand shoulder of an unlighted two-lane roadway. The bituminous roadway had a downhill grade greater than 2% with sharp curve to the right and a posted speed limit of 40kmph (25mph). There were no adverse atmospheric conditions and the roadway was dry. V1, a 1991 Honda CRX, was negotiating a right hand curve at a high rate of speed, 80kmph (50 mph) when he crossed the yellow lines on the left. The driver than steered the vehicle to the right and the vehicle departed the road on the right side. He overcompensated the steering input to the left and when the vehicle reentered the roadway it tripped and rolled 2 quarter turns. The vehicle came to rest on its roof in the original travel lanes. V1 was driven by a 26 year-old male in good health who was commuting home. He stated he tried correcting his vehicle after it started skidding, but could not keep it from rolling over. The driver could not remember much as he suffered a concussion as a result of the crash. He was transported to a treatment facility with unknown severity of injuries and V1 was towed due to damage. The Critical Precrash Event was coded as this vehicle traveling, off the road on the right side. The Critical Reason of the Critical Event was overcompensation. Associated factors for this crash include traveling too fast for conditions as the driver was traveling at roughly twice the legal limit.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Performance, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

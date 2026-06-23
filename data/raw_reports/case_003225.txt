@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in an intersection of an east/west, two-way, 5 lane, straight, level bituminous roadway with a posted speed limit of 56kmh (35mph) and a driveway from a business on the north side of the road. The driveway was two-way, two lanes, divided with a small, curbed, grassy median, with a statutory speed limit of 40kmh (25mph), and was straight and level. Conditions at the time of the afternoon weekend crash were clear, day and dry. V1, a 2002 Ford Focus station wagon, driven by a 46 year-old male, was waiting in the driveway for traffic to clear to turn left onto the roadway. Traffic was backed up for the red light at an intersection located 20 meters west of the driveway controlled with an on-colors traffic signal. Vehicles were stopped in lanes one and two westbound, and both drivers waved to the driver of v1 to pull out of the driveway. V1 proceeded slowly out of the driveway across lanes one and two, and when v1 continued into lane three, the left turn lane, the left front of v1 was struck by the front of v2. V1 came to rest in the left turn lane facing southeast and was towed from the scene. The fully restrained driver denied any injuries. V2, a 2004 Honda CRV driven by a 33 year-old male, was traveling westbound in the left turn lane at approximately 20 mph, when v1 moved into his lane. The driver of v1 and the driver of v2 could not see each other due to the line of non-contact vehicles stopped in the westbound lanes. V2 came to rest in lane two of the eastbound lanes facing southwest. V2 was towed from the scene. The fully restrained driver and two passengers were transported to a local trauma center. The Critical Precrash Event coded for v1 was 'this vehicle traveling turning left at intersection.' The Critical Reason for the Critical Event coded was 'Driver Related Factor/Recognition Error-Inadequate surveillance'. An associated factor for this case was that the driver of v1 assumed that there was no moving traffic in the lanes beyond the stopped vehicles, and subsequently was struck by v2. The Critical Precrash Event coded for v2 was 'Other vehicle encroachment from driveway, turning into opposite direction.' The Critical Reason for the Critical Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Distraction, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lane of a 5-lane two-way level asphalt roadway. There were two northbound and two southbound lanes with a left turn lane in the middle. The roadway had a posted speed of 56kph (35mph). The crash occurred in the late morning hours on a weekday with daylight, and dry Conditions. V1, a 1990 Buick Park Avenue, was traveling northbound in the left hand turn lane. He was intending to make a left hand turn at the light. The driver thought that he had ample time to make the turn, but his engine stalled as he was in the second lane of oncoming traffic. V2, a 1986 SAAB 900 was traveling on the same roadway headed southbound. The driver of V2 said that she thought the car would continue to make the turn, but instead the car stopped right in her path of travel. The front of V2 contacted the right side of V1. Both V1 and V2 came to final rest on the roadway. The driver of V1 was a 47-year old male who stated that as he was beginning to turn left his car sputtered and slowed to a stop in the second lane of the southbound traffic. As he was checking out what happened to his car V2 hit his car in the right side. The driver was uninjured and his vehicle was towed due to damage. The Critical Precrash Event for the driver of V1 was this vehicle control loss due to stalled engine. The Critical Reason for the Critical Precrash Event was vehicle related factor, engine failure. He suffered from high blood pressure and asthma. He had taken an unknown blood pressure medication. He was rested and traveling to pick up his taxes. The driver of V2 was a 54-year old woman who reported that she had been traveling south when she noticed that the car turning left across her path of travel had stopped. She applied the brakes without lock-up but could not avoid the impact. She was not injured during the crash, her passenger received minor injuries and was transported to the hospital. The vehicle was towed due to damage. The Critical Precrash Event for the driver of V2 was other motor vehicle in lane, in crossover. The Critical Reason was not coded for this vehicle. Driver reported a history of tumors, high blood pressure, arthritis, and crushed vertebrae. She had taken two medications one for arthritis and the other is unknown. Both medications were thought not to contribute to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Vehicle present problem 
+Vehicle 2:  Decision, Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning right
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Stalled engine
+ 2 ：Other Motor Vehicle in Lane- In crossover
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Transmission/engine failure
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

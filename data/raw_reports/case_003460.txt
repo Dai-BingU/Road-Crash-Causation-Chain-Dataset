@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary A two vehicle daytime collision occurred during morning daylight hours on a Wednesday. The collision occurred in the northbound lanes of a four lane undivided two-way roadway where it intersects with a two-way side street. The pre-crash roadway for both vehicles is level bituminous paving. Both vehicles were traveling on the main roadway with a posted speed limit of 48 kmph (30 mph). Vehicle one (V 1), a 2000 Ford Mustang convertible driven by a 58 year-old female, was stopped at the green light facing southbound on the roadway in lane 2. Vehicle two (V 2), a 1991 Acura Integra coupe driven by a 37 year-old female, was traveling north in lane 2. V1 was waiting to make a left hand turn onto the side street, and proceeded to make the left turn without yielding to V2. The front of V2 impacted the right side of V1. Both vehicles were disabled. V1 was towed, and V2 was parked in a nearby parking lot. The driver of V1 stated that she was stopped at the green light, waiting to make her left hand turn. There was a northbound vehicle stopped at the light also, preparing to make the opposite left hand turn. The driver of V1 stated that she did not see V2 until she was well into her turn, and could not avoid the crash. V1's driver speculated that the other left turning vehicle obstructed her view of V2. The driver of V2 refused to be interviewed for this study. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was assigned to V1 as a driver related factor: turned with obstructed view. The driver stated she didn't see the other vehicle prior to starting her turn due to the non-contact vehicle. The pre-event movement for V 2 was coded going straight. The critical pre-crash event was coded this vehicle traveling crossing over intersection. The critical reason for the critical event is not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

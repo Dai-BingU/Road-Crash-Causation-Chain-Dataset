@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This three-vehicle collision occurred during daylight hours on a weekday. The crash occurred on a straight stretch of a three-lane, divided (six lanes overall, divided by a raised median), dry, level, bituminous roadway. This east-west roadway is designated a 56 kmph (35 mph) zone, and the first lane of each direction is bordered by a parking lane. At the time of the collision, there were no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 1995 Geo Metro two-door hatchback, was traveling westbound in the first lane. Vehicle two (V2), a 1988 Kenworth semi tractor-trailer, was legally parked along the north curb, ahead of V1. Vehicle three (V3), a 1996 Toyota Corolla four-door sedan, was traveling westbound, behind V1 in the same lane. V1 drifted into the parking lane, where the front of V1 impacted the back of V2's trailer. V1 rotated clockwise and re-entered the first lane, where the front of V3 impacted the back of V1. V1 and V3 came to rest in the first westbound lane. The male driver of V1 departed the scene, unidentified, without providing any information to anyone. The critical pre-crash event for V1 was: This vehicle traveling, off the edge of the road on the right side. The critical reason for the event was attributed to V1 and was coded: Driver related error, type of driver error unknown. The 23-year-old female driver of V3 stated that she watched V1 drift into the parking lane, and that she applied the brakes when she witnessed the first impact between V1 and the truck. An associative factor of following too closely is attributed to V3. The critical pre-crash event for V3 was: Other-not involved in first harmful event. The critical reason is not attributed to V3.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 3:  Aggressive Behavior, Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

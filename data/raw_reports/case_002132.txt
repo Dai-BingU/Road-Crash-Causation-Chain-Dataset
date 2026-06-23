@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle collision occurred shortly before midnight. The collision occurred in an intersection north/south, east/west it was dark with overhead lighting. The roadway consists of one lane each way with a -10% grade for the southbound lane before the intersection, level roadway for the northbound lane and in the intersection. Both roadways have a posted speed limit of 40 kmph (25 mph). Vehicle one (V1), a 1994 Ford Explorer suv driven by a 42 year-old male and Vehicle two (V2), a 1995 Saturn SC1 Coupe driven by a 36 year-old male were both stopped at a stop sign. V1 was waiting to turn left in the northbound lane and V2 was waiting to cross the intersection going southbound. Traffic in this intersection is always steady. There was a break in traffic; V1 assumed V2 would yield to him. The front of V1 collided with the left side of V2. Both vehicles came to final rest in the intersection. V1 was towed due to damage. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for critical event was coded to V1 as a driver related factor: false assumption of other's actions. The critical pre-crash event for V2 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason was not coded to this vehicle .
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+Vehicle 2:  Decision, Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

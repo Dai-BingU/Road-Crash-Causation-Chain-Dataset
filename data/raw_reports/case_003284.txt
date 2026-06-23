@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the middle of a four-way seven lane urban intersection. The crash occurred in the middle of the southbound lanes. The intersection was controlled by traffic lights. There were four lanes running northbound with lane four being a left turn only lane. There were four lanes running southbound with lane four being a left turn only lane. The conditions were dry and clear on a weekday afternoon. The posted speed was 72 KPH (45 MPH). Vehicle # 1 was a 2004 Honda Civic that was driven by a 27-year-old female who was waiting to make a u-turn in lane four in the northbound traffic lane. She stated after the crash that she was on her cell phone and had started to pull into the intersection to complete the u-turn. V2, a 2001 Toyota Corolla that was traveling southbound in lane two when he stated that V1 just pulled into the intersection and just stopped. He stated that he too saw her on her cell phone and it seemed like she just froze when she saw his car approaching the intersection. He tried to avoid her but it was to late. He made contact with her right side and caused her to make final rest off the roadway to the right. The driver of V2 continued and made final rest about 20 feet from the point of impact facing southbound. Vehicle 2 was towed due to damages and both drivers were transported to the local hospital with injuries. V1 was driven by a 27-year old female who was waiting in lane four to make a u-turn. She stated that she was on her cell phone and was waiting for traffic to clear so she could make the u-turn. She thought she had enough time to complete the turn but she guessed she misjudged how close V2 was and how fast it was going. She made the turn and got scared so she just stopped hoping V2 would steer around her but he didn't and just hit her. She thought V2 was far enough away that she could turn and continue but it all happened so fast and she just froze up. The Critical Pre-crash Event for V1 was "other - making a U-turn". The Critical Reason for the Critical Pre-crash Event was "panic/freezing". The associative factors related to the driver were she was on her cell phone, and misjudgment of speed. She was transported to the hospital with injures but, her vehicle was not towed. She was cited for the crash, failure to use due care. V2 was driven by a 48-year-old male who stated in the interview that he was only a block from his home and he was running some errands. He stated he saw V1 waiting in the left turn lane and as he entered in the intersection she decided to turn in front of him and just stop. He was unable to avoid the collision. He was transported to the hospital and his vehicle was towed due to damages. There were no associative factors related to this driver. The Critical Pre-crash Event for V2 was other vehicle, encroachment from opposite direction, over the left lane. The Critical Reason was not coded for this driver as he was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Decision, Distraction, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other- Other (specify) :
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Panic/freezing
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

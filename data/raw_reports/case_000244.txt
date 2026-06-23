@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lane of a level two lane undivided roadway with a posted speed limit of 40 MPH (64KPH). The weather was clear, the roadway dry and it was daylight at the time of this weekday afternoon crash. Vehicle #1, a 2002 Acura MDX, was parked off the right side of the roadway in an unimproved area used by a business for parking. Vehicle #2, a 1992 GMC Vandura designated as a school bus, was traveling north on the two lane undivided roadway. Vehicle #1 entered the roadway from the right into path of Vehicle #2 to execute an illegal U-turn. Vehicle #2 braked and steered left to avoid a collision. Vehicle #2 struck Vehicle #1 in left side with its front. Vehicle #2 came to rest facing in a northwesterly direction. Vehicle #1 was rotated slightly clockwise and came to rest facing in a northerly direction. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. The Acura MDX (Vehicle #1) was driven by a belted 51 year old male who was treated at the scene for a laceration to his arm. He stated that he had stopped to pick up lunch for his co-workers and was going to make a U-turn to return to work. He stated that he had glanced at the traffic light (behind him) and thought it was red. He also stated that he had looked, but didn't see the bus. He estimated that he was traveling less than 10 MPH at the time of impact and made no avoidance maneuvers. Vehicle #1 was towed due to damage. The Critical Precrash Event for Vehicle #1 was that this vehicle was traveling over the lane line on the left side of the travel lane. The Critical Reason for the Critical Event was inadequate surveillance, failed to look, looked but did not see, a recognition error. This was chosen because the driver stated that he had looked all around prior to the crash, but didn't look hard enough. An associated factor coded to this driver was the use of three prescription medications: (a) a blood pressure medication, (b) a stomach acid medication and (c) an unknown medication. He was wearing contact lenses and over the counter sunglasses at the time of the crash. The GMC Vandura school bus (Vehicle #2) was driven by a belted 41-year-old female who sustained no injuries. She stated that she had slowed as she approached the traffic light, but it turned green so she did not come to a complete stop and continued. It should be noted that the traffic light is 30+ meters prior to the crash. She was aware of the vehicles that park on the side of the road by the deli and used caution when passing by. She was traveling approximately 25-30 MPH. She observed Vehicle #1 as it entered the roadway and braked, steered right and honked her horn to avoid the collision. Vehicle #2 was towed due to damage. The Critical Precrash Event for Vehicle #2 was the encroachment of the other vehicle from a parking lane. The Critical Reason for the Critical Event was not coded to this vehicle. An associated factor coded to this driver was the use of a prescription medication. She was taking a heart medication for a previous heart attack in 2003. She was wearing her prescription eyeglasses for both near and far sightedness. The driver of the school bus was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Leaving a parking position
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From parking lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

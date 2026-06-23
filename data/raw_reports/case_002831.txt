@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This four-vehicle rear-end crash occurred during early morning hours on a dry, four-lane, physically divided, state highway approaching a on-colors controlled intersection. The highway runs north and south at the location of the crash and has two through lanes running in each direction. The center painted median had orange construction barrels lining it in both directions. The speed limit on the highway is 56 kmph (35 mph) and there were no adverse weather conditions at the time. Vehicle one (V1), a 1992 Dodge Dakota pick-up driven by a 19 year-old male, was traveling southbound in the second lane. Vehicle two (V2), a 2002 Ford F-150 pick-up driven by a 48 year-old female, was stopped in traffic in the second lane for a red light at an approaching intersection. Vehicle three (V3), a 1996 Chevrolet S-10 pick-up driven by a 46 year-old male, was also stopped in the second lane ahead of V2. Vehicle four (V4), a 1998 Toyota Camry sedan driven by a 49 year-old female was stopped in the second lane ahead of V3. The front of the V1 impacted the rear of the V2. The front of V2 then impacted the rear of V3. The front of V3 then impacted the rear of V4. All four vehicles came to final rest in lane two facing south. The driver of V1 had recently been transferred to a new job in the area and was looking east at the new building being built, thinking that may be where he needed to be. The driver of V1 then looked forward and saw the stopped traffic. He applied the brakes and went into a skid before impacting the rear of V2. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: external distraction, for looking away from roadway. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. V3 was not involved in the first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Drugs, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Drugs, Traffic present problem 
+Vehicle 3:  Driver Physical, Drugs, Traffic, Vision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

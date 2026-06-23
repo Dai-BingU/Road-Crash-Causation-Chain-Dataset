@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in a signalized intersection of two roadways. The east roadway has three lanes of travel on the west side of the intersection the far left lane being a left turn only lane, there are two lanes on the east side of the intersection. The north/south roadway has one lane in the north direction and two lanes going southbound. The roadway was straight and level, and had a speed limit was 48kmph (30mph). It was daylight and clear with no adverse conditions, and it was a weekend afternoon. V1, a 2004 Volkswagen Jetta four door was traveling southbound on lane two. V2, a 2002 Toyota Solara two door was traveling eastbound on lane two. At the intersection, the front of V2 impacted the right side of V1, then causing the left side of V2 to impact the front of V1. Both vehicles came to a final rest in the intersection. V1, the Volkswagen Jetta was driven by a 27 year-old female who sustained minor injuries and was treated on-scene. She stated that she had just started to go in the traffic lane when the traffic control device changed to green when she was struck by V1. The Jetta was towed due to damage. The Critical Pre-crash event for V1 was "other vehicle encroachment, from crossing street across path". The Critical Reason for the Critical Pre-cras Event was not coded to this driver. An associated factor coded to the driver was a roadway related factor, a view obstruction. A Highway support pillar located on the northwest corner of the intersection blocked her view of V2. An Experience factor was also coded, because it was the first time driving the vehicle, and even though she is familiar with the road, she drove on it rarely. V2, the Toyota Solara was driven by a 24 year-old male who did not sustain any injuries. He stated that the traffic control device changed from green to red as he approached the intersection. The Toyota was driven from the scene. The Critical Pre-crash event for V2 was "this vehicle traveling, crossing over, (passing through) intersection". The Critical Reason for the Critical event was coded as a Driver related factor, inattention. It was coded inattention because he did not notice the traffic control device change to yellow before changing to red. An associated factor that was coded was illegal maneuver because he failed to stop for the TCD (Traffic control device). The driver failed to look far enough ahead was coded as a Recognition factor. Another A roadway related factor was also coded as a view obstruction of V1, due to a highway support pillar.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Roadway present problem 
+Vehicle 2:  Decision, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

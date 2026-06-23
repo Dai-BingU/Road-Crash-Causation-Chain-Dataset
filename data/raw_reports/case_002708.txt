@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred just before mid-night on a on-color traffic controlled 4-way intersection. No adverse weather conditions present and traffic was light. Bituminous roadway was dry, level, and illuminated for all roads. Posted speed limit for all roads into intersection 64 kmph (40 mph). Vehicle one (V1), a 1993 Toyota Camry sedan driven by a 21 year-old female with one passenger, was traveling eastbound in lane four approaching the intersection. Vehicle two (V2), a 1993 Plymouth Grand Voyager minivan driven by a 16 year-old female, was traveling eastbound in lane three. Vehicle three (V3), a 1988 Ford Aerostar minivan driven by a 35 year-old female with four passenger, was stopped in the second southbound lane. V1 entered the intersection without stopping and began left turn to head north. V1's front was contacted by the front of V2. The driver of V2 noticed V1 turning and had steered right and applied brakes. After the first impact, V1's right side side slapped with V2"s left side. After this second impact, V1 rotated counterclockwise and continued forward until it's front struck V3's front. V1 came to final rest facing in a northwesterly direction. V2 deflected to the right after the second impact and came to rest in a northwesterly direction. V3's final rest was right at impact. V1 and V2 were towed from the scene. V3 was not towed from the scene. V1's driver was coming from a fast food restaurant and going to the home of the child she was babysitting that evening. This driver was talking with a child who was seated in the back seat. Nature of conversation with the child was about going home to eat. The driver of V1 had just 3 hours of sleep and stated she normally feels fatigued. She had been awake for about 15.5 hours when the crash occurred. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). Inattention due to conversation was an associative factor, as was fatigue. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason was not coded to this vehicle. V3 was not involved in first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

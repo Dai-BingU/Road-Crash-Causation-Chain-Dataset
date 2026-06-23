@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred just past noon during daylight hours on a dry, straight, level state highway at a on-colors controlled intersection. Southbound traffic lanes consist of a right turn lane, two through lanes, and a left turn lane that is separated by a painted median. The northbound traffic lanes consist of a right turn lane, two through lanes, and two left turn lanes. The posted speed limit 64 kmph (40 mph). Vehicle one (V1), a 2004 Chevrolet Malibu sedan driven by a 65 year-old female was traveling southbound in lane two. Vehicle two (V2), a 1989 Saab 900-S two door hatchback driven by a 17 year-old female was traveling northbound in lane five. Both vehicles entered the intersection, V1 intending to go straight and V2 intending to make a left turn. The front of V1 contacted the right side of V2. V1 rotated clockwise and came to rest in the intersection facing southwest. V2 rotated counterclockwise and came to rest in the intersection facing southwest. Both vehicles were towed from the scene.. The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason was not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V2 as a driver related factor: false assumption of other's actions. An additional factor was inadequate surveillance.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

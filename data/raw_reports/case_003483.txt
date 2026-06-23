@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred in the afternoon of a weekend in a three-way intersection of a single lane one-way eastbound roadway and a two-lane, two-way undivided north/south roadway. All of the roadways were bituminous, straight, and level with a posted speed limit of 40kmph (25 mph). Signalized traffic devices controlled the traffic through the intersection. The roadways were wet from the rain that was falling at the time of the crash. The roadway was free of any defects and traffic flow was normal for this roadway. The weather was cloudy with spotty rain. V1, a 1995 Plymouth Grand Voyager, was eastbound on the one-way roadway intending to travel straight through the intersection. V2, a 2006 International straight truck, was northbound approaching the same intersection also intending to travel straight through it. As V2 crossed over the intersection against the red light it was struck on its left side by the front of V1. After the initial contact V1 traveled several feet under V2 while rotating clockwise where it came to final rest facing northward. After the contact with V1, V2 continued traveling northbound where it came to a control stops a few feet from the initial impact area. V1 was towed due to damage. A witness standing on the corner said vehicle two was traveling approximately 72kmph (45 mph) before the impact and V1 speed was roughly 48kmph (30 mph). He also indicated that V2 drove through the signalized red light and prior to the crash he did not see either vehicles brake lights. The driver of V1, a 39 year-old male, was transported with minor injuries. He refused to be interviewed and participate in this study. The Critical Precrash Event for V1 was coded other motor vehicle encroachment, from crossing street, across path. The Critical Reason was not coded to this vehicle. The only known associated factors coded to V1 were the rain and wet roads, the rest are unknown as the driver refused to be interviewed. The driver of V2, a 37 year-old male, was transported from the scene with minor injuries. He stated that as he was traveling northbound on the slippery road approaching the intersection he noticed the signalized traffic device, but thought he had the green light. He said that his travel speed was approximately 48kmph (30 mph) and there were no view obstructions. It was his first time driving the vehicle and he rarely travels on this roadway. The Critical Precrash Event for V2 was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for V2 was coded as a driver related factor, an illegal maneuver (running the signalized traffic device). In addition to the rain and wet roads the associated factors revolve around the driver's inexperience as this was the driver's first time driving this vehicle and he rarely travels on this roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Weather/Environment present problem 
+Vehicle 2:  Decision, Driver Inexperience, Driver Physical, Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

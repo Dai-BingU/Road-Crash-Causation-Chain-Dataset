@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a 3 lane positively divided highway, the fifth lane being the off ramp leading to a service center. The off ramp curved to the right with a superelevation of 4%. The roadway was wet and it was raining heavily. This crash occurred on a weekend morning. Vehicle #1, a 1995 Nissan Altima, was traveling south on the highway and was exiting on the off ramp to go into the service center when the driver drove off the roadway to the left impacting with the curb, a roadway sign and a light pole. The vehicle came to rest facing west by the light pole. The light pole broke with the light fixture falling to the ground. The driver of Vehicle #1 was a 28 year old belted female who was transported to an area hospital, with a non-incapacitating injury, treated and released. The Police Officer at the scene cited the driver as stating she stepped on the gas when she thought she was stepping on the brake. The driver of the Nissan Altima (Vehicle #1) refused the interview. The Critical Precrash Event coded to Vehicle #1 was This Vehicle Traveling, Off the Edge of the Road on the Left Side. The Critical Reason for Critical Precrash Event was coded as Driver Related Factor, Performance Errors, Other Performance Error-Used Gas Pedal Instead of Brake Pedal The Police did not consider alcohol or illegal drugs to be a factor in this crash and ordered no tests for this driver. The Police Report indicated "unsafe speed"
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other performance error (specify):

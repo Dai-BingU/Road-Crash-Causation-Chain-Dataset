@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a five-lane, two-way roadway. There were three northbound lanes and two southbound lanes. This was a straight bituminous roadway with a downhill slope and a posted speed of 56 kmph (35 mph). It was early afternoon and the road was wet and it was raining. Traffic was flowing. V1, a 1984 Chevrolet Monte Carlo, two-door with two occupants was pulling out of a car lot attempting to turn left. V2, a 2006 Chevrolet Impala four-door with one occupant was traveling northbound in lane one. The driver of V1 stated that she had pulled up to the road edge and attempted to stop. She states that the vehicle started sliding. The driver of V2 stated that she was decelerating in her lane because traffic up ahead had stopped. She saw V1 but thought that she would stop. The front of V2 contacted the left of V1 before they both came to final rest in the roadway. V1, the Chevrolet Monte Carlo was driven by a 26-year old female who reported no injuries. She advised that she was just leaving a car lot and was on her way home. She advised that she was traveling 2-16 kmph (1-10 mph) prior to trying to stop. She stated that she tried to put the vehicle in neutral to help her stop but it did not work and she could not avoid contacting V2. The Critical Precrash Event for the driver of V1 was this vehicle traveling: “turning left at intersection”. The Critical Reason for the Critical Precrash Event was a decision error: “too fast for conditions (wet roads)”. Associated factors for the driver of V1 were rain, wet roads, traveling too fast, did not realize that caution was required and tire degradation, they had very little tread. V2, the Chevrolet Impala was driven by a 36-year old female who reported no injuries. She advised that she had just got her hair done and was on her way home. She stated that she was traveling between 34-48 kmph (21-30 mph) prior to V1 sliding out in front of her. She stated that she did not have time to react. The Critical Precrash Event for the driver of V2 was “other vehicle encroachment: from driveway, turning into opposite direction”. The Critical Reason was not coded to this vehicle. Associated factors for the driver of V2 were rain, wet roads and false assumption that V1 would yield the right-of-way.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Stress/Emotion, Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Decision, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

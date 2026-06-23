@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekend afternoon in the middle of an urban intersection. The intersection consisted of a north/south two-lane roadway and an east/westbound two-lane roadway controlled by a properly function traffic control signal. Both roadways were bituminous, dry, and straight with the north/south roadway having a slight downhill grade. The east/west roadway was level. Both roadways had speed limits of 40 kmph (25 mph) posted. A bridge wall on the northwest corner of the intersection restricted the views of both east and southbound traffic as they entered the intersection. Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1993 Chevrolet S-10 Blazer with three occupants, was southbound in lane one approaching the intersection where it intended to go straight. V2, a 1995 Chevrolet Corsica with two occupants, was eastbound in lane one approaching the same intersection where it also intended to go straight. As V2 entered the intersection V1 failed to stop for its red light and struck the left side of V1. The impact spun V2 counter-clockwise until to final rest in the southeast corner of the intersection. V1 continued through the intersection and came to a controlled stop in the southbound just past the intersection. V1 remained operational while V2 was towed due to damage. The driver of V1, a 24-year-old female informed this researcher that this was the first time that she had ever driven on this roadway. She had traveled roughly sixty miles on this trip as she was taking a friend to the airport. She acknowledged that they were lost and had been discussing directions with her passengers while glancing at the map and trying to keep an eye on the road. She stated that she saw that her traffic light was green and then looked at the map. When she looked back up she saw the light was red and that V2 was crossing her path. She applied the brakes but could not stop in time. There were no reported injuries. The Critical Precrash Event for V1 was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Event was a driver related factor, an internal distraction. Associated factors coded to V1 include failure to stop for a traffic control device, being on an unfamiliar roadway, having a restricted sightline to approaching traffic, being lost, conversing with passengers, and frequently looking at the map inside V1. The driver of V2, a 51-year-old female, was transported to an emergency room with an injury of unknown severity. V2 driver and occupant declined to participate in this survey upon advice of their attorney. V2 occupant reported no injuries. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street, across path. The Critical Reason was not coded to this vehicle. The only known associated factor coded to V2 driver was a sightline restriction due to the bridge wall on the northwest corner.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Stress/Emotion, Roadway present problem 
+Vehicle 2:  Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This is a two-vehicle crash occurred in a rural area at a "T" type intersection. The east and westbound 2-lane asphalt roadway is straight, level and is the through street. The north and southbound 2-lane asphalt roadway is straight, level and is controlled by a stop sign where it dead-ends at the through street. The speed limit for the through street is 72 kmph (45 mph). The crash occurred during daylight with no adverse weather or road conditions. Vehicle one (V1), a 2000 GMC Jimmy was southbound turning left (east) following a non-contact vehicle that had turned left at the intersection. Vehicle two (V2), a 2002 Oldsmobile Alero was westbound when its front bumper plane contacted the left side plane of V1. V1 rolled to rest on the dirt shoulder of the through street facing east. V2 rotated counter-clockwise and came to rest in the eastbound lane facing south. Both vehicles were towed due to damage. The driver of V1, a seventeen-year old female was heading from her aunts home back to her house. This driver was in a hurry as she needed to get home, get some clothes and go back to school for pictures. This driver had been driving for about fifteen minutes at the time of the crash. This driver stated that she was on an unknown medication for acne, but the medical records did not indicate any medications. This driver stated that she stopped behind a non-contact vehicle. This driver stated that she looked both ways but did not see V2. She was eating while driving and had been thinking about a future event. This driver drives this vehicle daily and over this road on a weekly basis. The driver of V2, a twenty-three year old female was heading from her home to a car wash at the time of the crash. This driver had been driving for about fifteen minutes at the time of the crash. This driver stated that vehicle one just came out into the intersection following the non-contact vehicle. This driver drives this vehicle daily and over this road only rarely. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical pre-crash event was coded as a driver related factor: inattention (i.e., daydreaming). The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason for the critical pre-crash event for V2 was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Stress/Emotion, Surveillance present problem 
+Vehicle 2:  Decision, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

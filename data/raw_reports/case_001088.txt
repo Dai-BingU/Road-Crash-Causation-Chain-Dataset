@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash took place in the eastbound lanes of a three lane divided roadway. Conditions were dark with streetlamps on, just prior to dawn on a weekday. The roadway was bituminous, dry, and level. The posted speed limit was 56 kmph (35 mph). V2 was traveling east in lane three. V1 was exiting a commercial parking lot adjacent to the roadway, turning right. V1 entered the roadway into eastbound lane one, then immediately entered lane two, and while attempting to enter lane three, was struck on the left side by the right front of V2. V1 was rotated clockwise approximately 40 degrees before coming to rest partially in lane two. V2 continued to travel in lane three for approximately 22 meters before coming to rest. V1, a 1987 Dodge Colt, was driven by a 46-year old female who stated that she did not see the other vehicle until it was too late, and that the other vehicle did not have its headlights on. The driver of V1 was transported with minor injuries. V1 was towed due to damage. The Critical Pre-crash event for this vehicle was this vehicle traveling over the lane line on left side of travel lane. The Critical Reason was coded as inadequate surveillance. Associated factors coded to this driver include fatigue and inattention - the driver admitted that she had been thinking about some concerns prior to the crash. V2, a 1998 Ford Contour, was driven by a 25-year old female who stated that she saw the other vehicle but didn't know what it was going to do. When she saw that V1 was changing lanes into her lane, she attempted to avoid the crash by braking. V2's driver was not injured and this vehicle was towed due to damage. The Critical Pre-crash Event for V2 was other vehicle encroachment from adjacent lane (same direction) over right lane line. The Critical Reason was not coded to this vehicle. Fatigue was coded as an associated factor for this driver because the driver stated that she felt tired at the start of her trip.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Surveillance, Vehicle present problem 
+Vehicle 2:  Driver Fatigue present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning right
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

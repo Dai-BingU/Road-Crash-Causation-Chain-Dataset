@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of a signalized one-way roadway and a two-way roadway. The roadway was straight and level, and it was clear with no adverse conditions. It was daylight and the roadway was dry and had a downhill grade of -2/61. Vehicle # 1 was a 1999 International M/H Truck that was traveling westbound on the middle lane of the roadway. Vehicle # 2 was a 2002 Saturn SL that was traveling westbound on the right lane. Vehicle # 1 was making a right turn at the intersection when he was impacted on the right side by the front of Vehicle # 1. The International truck (Vehicle # 1) was driven by a 29 year-old male who did not sustain any injuries. The passenger in the front right seating position also did not sustain any injuries. The International truck was not towed due to damage. The Critical Pre-crash Event for Vehicle # 1 was coded as this vehicle traveling, turning right at the intersection. The Critical Reason for the Critical Event was coded as a driver related factor, illegal maneuver because the middle lane of the roadway was marked for going straight only. The associated factors were all coded as unknown. The 2002 Saturn SL (Vehicle # 2) was driven by a 36 year-old female who did not sustain any injuries. The two passengers of the vehicle also sustained no injuries. The Saturn was towed due to damage. The Critical Pre-crash Event for Vehicle # 2 was coded as other motor vehicle encroaching into lane, from adjacent lane (same direction) over the left lane line. The Critical Reason for the Critical event was not coded to the driver. The associated factors were coded as unknown.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

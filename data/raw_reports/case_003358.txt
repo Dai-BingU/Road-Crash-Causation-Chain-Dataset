@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of two three-lane, two-way roads. Both were straight, level, bituminous roadways with a posted speed of 72 kmph (45mph). The intersection was a four-way stop. It was evening on a weekday and the road was wet and it was raining lightly. V1, a 2005 Ford Taurus four-door with one occupant, was traveling southbound in lane two. V2, a 2005 Hyundai Accent four-door with one occupant, was traveling westbound in lane two. The driver of V1 stated that she approached the intersection and stopped at the stop sign. She waited for two vehicles to cross and then she proceeded. She was in the middle of the intersection when she looked left and saw V2 coming at her. The driver of V2 also stated that she thought she had stopped at the stop sign. Witnesses later agreed that she did not. The front of V2 contacted the left of V1; V1 rotated counterclockwise and came to final rest by the southwest corner of the intersection. V2 continued forward and V2's front contacted V1's front. The driver of V1 was a 50-year old female who reported no injuries. She advised that she had left work and was on her way home. She advised that she had been stopped at the stop sign more than 10 seconds before proceeding, and that she was traveling between 2-16 kmph (1-10 mph) prior to being hit. She stated that she did not have time to attempt an avoidance action. The Critical Pre-crash Event for the driver of V1 was "this vehicle traveling-crossing over (passing through) intersection." The Critical Reason for the Critical Pre-crash Event was coded as "False assumption of other's actions," because she assumed that V2 would stop for its stop sign. Some associated factors coded to this driver include the wet road surface due to rain and the length of time on the road. The driver of V2 was a 40-year old female who was transported to a local trauma facility. She advised that she had left home and was on her way to the grocery store. She advised that she was traveling an unknown speed when she made the evasive action to avoid contacting V1. She could not stop in time. She stated that she did not remember that much about what had happened. The Critical Pre-crash Event for the driver of V2 was "other vehicle encroachment from crossing street, across path." The Critical Reason was not coded to V2. Associated factors coded to V2 include inadequate surveillance (failed to look, looked but did not see), inattention, an illegal maneuver because she did not stop at the stop sign, and wet road surface due to the rain.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Weather/Environment present problem 
+Vehicle 2:  Decision, Distraction, Roadway, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

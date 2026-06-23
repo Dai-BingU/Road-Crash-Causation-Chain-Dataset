@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a weekday morning on a rural two-lane undivided highway. The bituminous roadway is dry, straight, level, and runs east/west. At the location of this crash, the posted speed limit is 72kmph (45 mph) and there is a connecting southbound neighborhood street. There were no adverse atmospheric conditions at the time of the crash. V1, a 1995 Chevrolet Silverado C-1500, and V2, a 2004 Ford Taurus, were both traveling west on the roadway. As V2 began to slow preparing to turn left at the intersecting roadway, V1 attempted to pass V2 on the left. As V1 began to overtake V2, V2 turned left and the two vehicles collided. The front of V1 struck the left side of V2 causing V2 to depart the right side of the road and come to final rest in the southwest corner of the intersection. V1 was able to drive to a controlled stop on the right side of the side street. V1 was driven by a 47-year-old male who was driving to work this morning when he was involved in this crash. This driver states he woke up this morning at his normal time of 06:00 am and drove his children to school. After leaving school, he drove west about five miles behind V2 when suddenly V2 stopped in its lane. This driver reports he was looking forward the entire time and tried to avoid V2 by driving around the left side of it. He said he attempted to pass the Ford because he never saw a turn signal on the car and did not know why it was stopping. Once he changed lanes and began to pass the car on the left side, the car made an unexpected left turn and this driver drove into the left side of the car. This driver tried to avoid striking the car by steering left and braking hard, but it was too late to evade a crash. The Critical Precrash Event for V1 was coded this vehicle traveling, over the lane line on the left side of travel. The Critical Reason for Event was coded false assumption of other's action. In addition to the false assumption, an illegal maneuver was coded as an associated factor as V1 crossed a double yellow line in his attempt to pass V2. V2 was driven by a 46-year-old female that was returning home this morning after dropping off her child at school. She was driving east, approaching the street she lives on, when she made a left turn and was struck in the driver's door by V1, which tried to pass her on left side. She said she was slowing down while making a left turn but never came to stop. She admits she never the saw the truck behind her before the crash but also declines that she was being tailgated. After the pickup truck crashed into her car, her vehicle was forced off the roadway and onto a neighbor's yard. She was able to get out the car under her own power and only suffered minor soreness to her left arm and leg. The Critical Precrash Event for V2 was coded other vehicle encroachment, from adjacent lane over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. There were no known associated factors, as V2 was not considered to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

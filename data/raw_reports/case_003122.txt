@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle collision occurred during night hours on a weekday. The crash occurred on straight stretch of a north-south, five-lane, two-way, undivided, dry, level, bituminous roadway, approaching the T-intersection of an east-west road that intersects the west curb. A bicycle lane borders the first lanes in each direction. The speed limit was 64 kmph (40 mph), and the T-intersection was controlled by a tri-light traffic signal. At the time of the crash, there were no adverse atmospheric conditions and the roadway was free of defects. Vehicle one (V1), a 2001 Ford F-150 four-door crew cab, was traveling southbound in the second lane, approaching stopped traffic ahead. Vehicle two (V2), a 1997 BMW 528i four-door sedan, was stopped ahead of V1 in the same lane. Vehicle three (V3), a 2004 Jeep Grand Cherokee, was stopped ahead of V2 in the same lane. The front of V1 impacted the back of V2. V2 moved forward and impacted the back of V3. All three vehicles came to rest in their original lane. The 19-year-old female driver of V1 was traveling with friends and was conversing as she approached V2. She was approaching the intersection during the green phase of the tri-light, and did not recognize that traffic was stopped ahead of her. The critical pre-crash event for V1 was: other vehicle in lane, other vehicle stopped. The critical reason for the event was attributed to V1, and was coded as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The 24-year-old male driver of V2 was stopped behind V3, and was following V3 to a party. The father of V2's driver was driving V3. The drivers of V2 and V3 are also co-workers who maintain a continuous work schedule - neither has taken a day off work in two months. They both admitted to having a work-related argument in the last six hours, although both said that they were not thinking about the argument at the time of the collision. The critical pre-crash event for V2 was caded: other vehicle in lane, traveling in same direction with higher speed. The critical reason for the event was not attributed to V2. The 58-year-old male driver of V3 reported that he was stopped in traffic because a non-contact vehicle in front of him was making a U-turn in the intersection from southbound to northbound traffic. He was focused on the non-contact vehicle when the impact occurred. V3 was not involved in first harmful event. The critical reason for the event was not attributed to V3.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Physical, Surveillance, Vision present problem 
+Vehicle 2:  Driver Fatigue, Driver Physical, Driver Stress/Emotion, Vision present problem 
+Vehicle 3:  Distraction, Driver Fatigue, Driver Physical, Driver Stress/Emotion, Vision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

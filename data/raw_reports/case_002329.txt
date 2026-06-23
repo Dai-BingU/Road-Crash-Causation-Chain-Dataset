@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the intersection of two dry, straight, level, and bituminous five-lane urban roadways. Conditions were clear and dry during the weekday morning rush hour. Both roadways were controlled with traffic lights, which at the time were malfunctioning and not working properly at the time of the crash. It was determined that the traffic signal was stuck on green for north and southbound traffic and was stuck on red for east and westbound traffic. All traffic started treating the intersection as a four way stop. V1, a 2005 Toyota Corolla was in lane three traveling northbound approaching the intersection. V2, a 2004 Toyota Corolla was eastbound in lane two approaching the intersection. After the driver of V2 observed other vehicles treat the intersection as a four way stop she proceeded into the intersection, even though she had the red light and should have come to a complete stop and continued when clear. As she continued through the intersection she was in the direct path of V1, and was impacted on the right side. Both drivers were transported to a local hospital with non-incapacitating injuries and both vehicles were towed due to damages. V1 was driven by an 18 year-old female in good health and on her morning commute. She was wearing her prescriptions lenses, which corrected a myopic (near sighted condition). She stated she had no idea the signal was not working correctly and proceeded as if it were working properly. She also stated that she tried to use her brakes but it was too late as she crashed into V2. The Critical Precrash Event for V1 was coded as other vehicle encroachment from crossing street, across path. The Critical Reason was not coded to this vehicle. The associated factors include the driver's inexperience as she had only been driving for 5 months as well as the combination of Rush hour traffic and the malfunctioning traffic light. V2 was driven by a 20 year-old female who refused an interview on the advice of her attorney. The Critical Precrash Event for V2 was coded as this vehicle traveling passing through intersection. The Critical Reason was a decision error, false assumption of others action, as she thought V1 was going to stop at the intersection and treat it like a four way stop as the traffic signal had malfunctioned. As with V1 the associated factors for this crash was the combination of rush hour traffic and the malfunctioning traffic light.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Traffic present problem 
+Vehicle 2:  Decision, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

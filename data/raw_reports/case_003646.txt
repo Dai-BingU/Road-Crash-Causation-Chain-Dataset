@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary Summary 2005-091 V1, a 1995 Chevrolet Cavalier, was westbound in lane 3 (a left turn lane) of a bituminous, 5 lane, 2 way, urban roadway. V2, a 2003 Honda Civic, was eastbound in lane one of the same roadway. V1 attempted to turn left across v2's path into the driveway of an apartment complex. At the time of the crash it was daylight and cloudy, the roadway dry. V2, front, contacted v1, right. V1 was towed due to damage. The driver of v1 was injured and transported. A complete vehicle inspection was obtained for v1 but the driver refused to grant an interview. Through personal observation at the scene, the police UD 10 and the medical report the following information is known. The driver was intoxicated at the time of the crash and was believed to be returning to his home. His medical history did reveal his use of some prescribed meds. The pre-event movement of v1 is unknown; the Critical pre-crash event is v1 turning left at intersection and the Critical reason for the critical pre-crash event was an unknown type of driver error. It should be noted that a major factor in the cause of the crash was the impairment of v1's driver by alcohol. His vehicle did not have the right of way. A complete driver interview and vehicle inspection was obtained for v2. The driver was familiar with both the vehicle and the roadway. The driver stated that she was going the speed limit in lane 1 when v2 turned in front of her. The Pre-event movement of v2 was going straight, the Critical pre-crash event was other vehicle encroachment from the opposite direction -over left lane line and the Critical reason for critical pre-crash event was not coded to this vehicle. Even though the crash happened during daylight hours, it was very cloudy.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Drugs present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Unknown
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

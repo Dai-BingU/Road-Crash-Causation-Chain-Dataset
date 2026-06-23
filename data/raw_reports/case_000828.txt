@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of an urban east/west two-lane residential arterial road and a north/south residential two-lane side street. The side street was controlled by stop signs. Parking is permitted on the side of the street on the arterial, which had 5.5m wide lanes. Conditions were daylight and dry on a weekday afternoon. The posted speed limit on both roads was 48kmph (30mph). Vehicle #1 was a 1996 Ford Crown Victoria northbound on the side street. Vehicle #2, a 1998 Ford Escort, was eastbound on the arterial road. Vehicle #1 attempted to turn left and go west on the arterial and was struck in the front by the front of Vehicle #2. Both vehicles came to rest near impact and were towed due to damage. Vehicle #1 was driven by a 55-year-old female that lived nearby. She, along with a 14-year-old female passenger, were belted with deployed frontal airbags. The driver refused transport, but the passenger was taken to an area hospital with minor injuries. In the interview the driver stated she stopped and looked both ways twice before attempting to turn left. She believes her view was obstructed by two vehicles, one of which was a large van, that were parked facing eastbound on the south side of the street. Scene inspection revealed vehicles were parked 23m west of the intersection and they did appear to obstruct view. Police charged the Crown Victoria (V1) driver with failure to yield. The Critical Precrash Event for Vehicle #1 was this vehicle turning left at intersection. The Critical Reason for the Critical Event was a recognition error, inadequate surveillance. Associated factors included a decision factor, turned with obstructed view along with a sight line restriction, vehicle. The driver was also carrying on a conversation with the passenger at the time of the crash. She takes a medication for high blood pressure. Vehicle #2 was operated by a 28-year-old male that was not belted with deployed frontal airbags. He was transported to a local hospital with minor injuries from hitting his head on the windshield. The Escort (V2) driver stated that he slammed on his brakes and steered left partially into the oncoming lane in an attempt to avoid Vehicle #1 but was unsuccessful. The vehicle left 16m of skids before impact. He agreed that the vehicles parked on the side of the road limited sight distance. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from crossing street turning into opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. The only associated factor was a sight line restriction, vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

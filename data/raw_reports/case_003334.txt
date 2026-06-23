@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekday in the middle of a rural four-way intersection. The intersection consisted of an east/west two-lane gravel/slag roadway (controlled by a stop sign) north/south two-lane, undivided bituminous roadway (no controls). Both roadways were dry, straight and level. The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1995 Ford Crown Victoria, was stopped (at the stop sign) facing east at the intersection where it intended to go straight. V2, a 2006 Ford Fusion, was southbound approaching the same intersection where it also intended to go straight. As V1 entered the intersection it struck the right side of V2. The impact caused V2 to begin rotating clockwise until it tripped on its wheels and rolled left 2 quarter turns before striking a tree and coming to final rest on the roadside roughly 24m (79 ft.) from its trip point on its roof. V1 continued forward and came to final rest after striking a telephone junction box on the southeast corner of the intersection. Both vehicles were towed due to damage. V1 was driven by a belted 67-year-old female who suffered non-incapacitating injuries and was transported for treatment. She claimed to be in fair health despite suffering from a number of pre-existing conditions (which were treated with various medications). She stated to be fatigued at the time of the crash, as she had missed her normal afternoon nap. She told this researcher that she looked both ways before entering the intersection and did not see V2. The Critical Precrash Event for V1 was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Reason was coded as the driver related error of inadequate surveillance (looked but did not see). Associated factors for this driver include the pre-existing condition of sleep apnea combined with the fact that her sleep habit changed on the day of the crash (resulting in her fatigue). She was also thinking about a future event and felt uncomfortable about her view of crossing traffic at that intersection. She is also presently taking several medications for other pre-existing medical conditions. V2 was driven by a belted 57-year-old male who suffered non-incapacitating injuries and was transported for treatment. She stated she was driving down the roadway when V1 drove out from a side street. She had no time to react or attempt an avoidance maneuver. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street, across path. The Critical Reason was not coded to this vehicle. The only associated factors coded to the driver were the fact that she suffered from sleep apnea and was also talking on a cell phone (with a hands free device) at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Cell Phone Use, Distraction, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

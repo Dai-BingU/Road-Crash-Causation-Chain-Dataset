@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-car crash occurred on a weekend day at an intersection with traffic lights. The road is a six-lane undivided concrete roadway from south to north. It is a three lane (one-way traffic) concrete roadway from east to west. The speed limit for the roadways is 48 kmph (30 mph) for both roadways. The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. Vehicle one (V1), a 1997 Mercury Villager with four doors and seven occupants was traveling west in the second lane of traffic approaching the intersection of both roadways. Vehicle two (V2), a 2006 Cadillac DTS, was traveling north in the second lane. At the intersection of both roadways, the front of V1 impacted the right side of V2. V1 rotated clockwise and came to rest within the intersection, facing northwest. V2 rotated clockwise after the impact, and moved northwest into the southbound lanes of traffic. V2 kept rotating clockwise and departed the roadway entering the raised median of the roadway. The left rear wheel impacted with the curb of the median, causing the left rear wheel to separate from the rear axle. The vehicle came to rest partially on the median, partially in the southbound lanes of traffic, facing southwest. V2 was towed from the scene. V1 was able to drive from the scene. It had already been driven onto a nearby parking lot upon the researchers arrival. No injuries were reported. A 42-year old male drove V1, the 1997 Mercury Villager. He was on his yearly vacation with his family and was just heading back form a shopping mall located in the northeast corner of the intersection to his hotel. This was his first trip on this route. He stated he was looking straight ahead to the upper overhead traffic light for his direction. He did not look at the lower pole mounted light. The upper overhead light was defective and did not illuminate the red light, but the amber light instead. The lower pole mounted light worked normal. The driver thought he still had an amber light and proceeded into the intersection when in fact his light was red. Only when his wife screamed a warning did he realize he run a red light. The researcher documented the erroneous light on scene. Police immediately ordered a repair crew to repair the defective light. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as an environment related factor: signs/signals erroneous /defective. This vehicle unintentionally ran a red light. This driver was attentive to the driving task; he did not detect the second traffic control signal mounted on a pole that was functioning normal. V2, the 2006 Cadillac was driven by a 64-year old female, who reported no injuries. She stated he was in the second lane, traveling at a normal rate of speed and had a green light. She was heading back from her mother's assisted living place to her own residence. She saw V1 coming from her right but realized too late that V1 was running the red light. V2 was a rental car the driver rented 2 days earlier. Despite that she said she was very comfortable with the car because she had driven many Cadillac's, including very new ones. The critical pre crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. No critical reason for the critical event was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Roadway, Surveillance present problem 
+Vehicle 2:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Signs/signals erroneous/defective
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

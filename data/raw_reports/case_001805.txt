@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-lane east/west highway with shoulders. 2003 traffic counts indicate the highway carries 16,593 vehicles per day with a speed limit of 72kph (45mph). Conditions were daylight and dry in the late afternoon on a weekday. Vehicle #1 was a 1983 Mercedes 300SD traveling east on the highway approaching a slight right curve. Vehicle #2, a 1997 Nissan Altima, was westbound negotiating a minor curve to the left. Vehicle #1 crossed over into the oncoming lane and its front left corner struck the front left corner of Vehicle #2. After impact Vehicle #1 continued east and came to rest on the right shoulder 218m from impact. Vehicle #2 rotated counterclockwise after the collision and came to rest facing east in the middle of the road 47m west of impact. Both vehicles were towed due to damage. Vehicle #1 was driven by a 49-year-old male that was belted. He stated that his fuel light came on although his needle still read ½ a tank. He indicated he was looking down at the gauge and tapping the instrument panel with his left hand when the crash occurred. The driver admitted that he never saw the other vehicle. The Critical Pre-crash Event for Vehicle #1 was this vehicle traveling over the lane line on left side of travel lane. The Critical Reason for the Critical Event was internal distraction. An Associated factors include prescription drug use for blood pressure and seasonal depression and that the driver had a sore throat and felt run down prior to the crash. The driver of V1 also ran an 11-mile marathon three days prior to the incident. Vehicle #2 was driven by a 22-year-old female. She was belted with deployed airbags and transported to a local hospital for minor injuries. She stated that the Mercedes (V1) drifted over into her lane causing the impact. The Critical Pre-crash Event for Vehicle #2 was other vehicle encroaching from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. No associated factors were attributed to Vehicle #2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

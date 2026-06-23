@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on an exit ramp of a north/south interstate in the middle of the week at mid-morning. The exit ramp was curved to the left with a radius of curvature of 225.25 and a super elevation of 3 percent. The ramp was an uphill slope of 5 percent. The posted speed on the interstate was 105kmph (65mph) and 56kmph (35mph) on the exit ramp. The weather was clear. The roadway was dry concrete. Vehicle #1 was a 1999 Pontiac Grand Am driven by a 26-year old female. V1 had been traveling south on the interstate and the driver exited using the off-ramp. The driver negotiated the ramp but as the road began its curve to the left, the vehicle traveled off the roadway to the right and struck a cement wall with the right front of the vehicle. V1 rotated clockwise and the front left of the vehicle struck the wall. V1 continued rotating clockwise and skidded across the ramp to the opposite side where its right rear side struck a guardrail. V1 rotated again and its entire right side slid along the guardrail to final rest. The driver got out of the vehicle and a passerby stopped to see if the driver was OK. The driver asked the person to take her home, which was only a few blocks away. The driver was later taken to the local ER. The vehicle was towed due to damage. The driver of V1 reported that she was in good health and not taking any medications. She stated that she had never been in a crash before and did not know what to do. She also stated that she and a friend had been out of town for 10 days. They had just gotten back into town around midnight and went to sleep around 01:30. She stated that she had gotten up to take the friend home and was returning to her home when the crash occurred. This driver stated that as she exited the interstate the vehicle suddenly veered right and hit the wall. The Critical Pre-crash Event for this vehicle was coded: This vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Pre-crash Event was coded as too fast for curve/turn. One associated factor coded to this driver was fatigue. The driver had driven a long way to get home from relatives out of state, got home late, and then got up to take her friend home. It was believed that the driver was still fatigued from the drive. This driver had left the scene of the crash and waited almost 2 hours before calling police. She then waited anther 8 hours before going to the ER. After interviewing the driver and inspecting the vehicle, the driver was re-contacted and asked if the right front tire may have blown out. She again stated no - the vehicle just veered right. The right front tire, which was flat on inspection, was found to have less tread than all other tires.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Performance, Driver Physical, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during the dawn morning hours on a two-way eastbound and westbound dry, asphalt roadway; there were no roadway deficiencies and no sight line restrictions noted. There was a sight obscuration due to sun glare from the east at the time of the crash. The speed limit is 40 kmph (25 mph). There was light traffic and the weather was clear at the time of the crash. Vehicle one, a 1985 Toyota 4-Runner (V1), was traveling westbound on the roadway at a police reported speed of 76 kmph (47 mph); the driver noticed vehicle two (V2) turning left, applied the brakes, and V1 skidded for approximately 23 meters (75 feet) before colliding with V2 front to front. After the impact, V1 was deflected clockwise and then came to rest in the roadway facing generally northwest. V1 was towed due to damage. The V1 driver, a 55-year-old male, was not injured; he was cited for speed greater than reasonable and prudent and for failure to wear a seat belt. V1 was towed due to damage. Vehicle two (V2), a 1998 Hyundai Elantra 4-door (V2), was traveling eastbound and slowing down, looking to the left for an auto repair shop. The V2 driver, an 18-year-old female, located the shop and then initiated a left turn into a private drive. V1 and V2 collided front to front in the #1 westbound lane. After impact, V2 rotated counter-clockwise and then skidded laterally for approximately 3 meters (9.8 feet) before coming to rest in the roadway facing generally northwest. The V2 driver stated that the sun was in her eyes prior to making the left turn and that this was her first time on the roadway where the crash occurred. The driver of V2 was cited for an unsafe turn. The restrained V2 driver and V2 right front seat passenger were not injured. V2 was towed due to damage. The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction - over the left lane line. The critical reason was not coded to V1. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason was coded as an environmental related factor: glare. The V2 driver stated that the sun glare was in her eyes prior to making the left turn and was unable to see V1 approaching from the east. Additional factors are the V2 driver's was unfamiliarity with the road, and that she did not know the location of her destination and was looking for her destination as she approached the crash scene.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Speed/Distance present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience, Drugs, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Environment Related Factor- Glare

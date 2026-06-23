@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a two lane undivided roadway which curved to the left with a radius of 194 meters and a superelevation of 4.9%. The posted speed limit was 72KMPH (45MPH) with a recommended speed limit of 48(KMPH (30MPH) for this curve. The roadway was dry and the weather was cloudy. This crash occurred on a weekday afternoon. Vehicle #1, a 1997 Pontiac Grand Prix was traveling south negotiating the curve to the left when it went off the west side of the roadway partially onto the shoulder. The driver then overcorrected and departed the roadway on the east side, rolling over ¼ turn and coming to rest on its right side facing east. The Pontiac Grand Prix (Vehicle #1) was driven by a belted 16 year old female refused treatment for a non-incapacitating injury. The driver stated she 'hit black ice' and went off the roadway, however, no 'black ice' was found at the scene. It should be noted here that this driver is still enrolled in a driver's education course and is considered to be inexperienced. This driver has no medical conditions and takes no prescription medications. The Critical Precrash Event coded to this vehicle was: This Vehicle Traveling Off the Edge of the Road on the Right Side. The Critical Reason for the Critical Precrash Event was coded as: Driver Related Factor Poor Directional Control (failing to control vehicle with skill ordinarily expected). The Police did not consider alcohol or illegal drugs to be a factor and ordered no tests for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Performance, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

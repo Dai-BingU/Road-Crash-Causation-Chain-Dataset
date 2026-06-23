@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred mid-afternoon during daylight hours at an intersection. It involved a passenger car that turned left in front of an oncoming passenger car. The roadway is a four-lane, two-way, undivided asphalt roadway that runs East/West. There are no traffic control devices at the intersection in the direction the two vehicles were traveling. The cross street is a one way, one lane roadway. Traffic on this roadway leads away from the four lane roadway. The speed limit is 58 kmph (35 mph). There were no adverse weather conditions or roadway restrictions. Vehicle one, a 1991 Dodge Shadow carrying two occupants, was traveling eastbound in lane two. Vehicle two, a 1998 Ford Taurus SE carrying four occupants, was traveling westbound on the same roadway in lane two. Vehicle one turned left onto the cross street and was struck on the right front by the front of vehicle two. Both vehicles rotated and the right rear corner of vehicle one struck the left rear corner of vehicle two. After impact vehicle two ran off the north side of the roadway and the front struck a luminary where it came to rest. After initial impact, vehicle one continued to rotate 180 degrees as it ran off the north side backwards where it came to a stop. Both vehicles were towed from the scene. No interviews were obtained so very little is know about the drivers. The pre-event movement for Vehicle one was coded “decelerating in the travel lane.” The critical reason for the critical event was coded to vehicle one, as “this vehicle traveling-turning left at intersection.” The critical reason for the critical event was coded “type of driver error unknown.” The pre-event movement for vehicle two was coded “going straight.” The critical pre-crash event was coded “other vehicle encroachment-from opposite direction-over left lane line. The critical reason for the critical event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

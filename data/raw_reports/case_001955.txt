@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This is a two vehicle left turn intersection crash that occurred at a four-way intersection. The intersection has two northbound and two southbound lanes that are separated by a continuous left turn lane. There are also two westbound and two eastbound lanes that are also separated by continuous left turn lane. There area where the two roadways meet is controlled by a traffic light on colors with a pedestrian signal. The roadway is constructed of dry, bituminous asphalt that had no indication of deficiencies at the scene. The crash occurred shortly before noon during daylight hours. There were no sight line restrictions and no obstructions noted at the scene. The speed limit on both roadways is posted 56 kmph (35 mph). Vehicle one (V1), a 1987 Ford Crown Victoria 4 door sedan, was traveling northbound and entered the left turn lane to turn left. The vehicle was stopped for about 10 seconds before the traffic light turned yellow. The driver, an 81-year old male, then began to turn left assuming that vehicle two (V2) was going to stop for the light. The right side of V1 was struck by the front of V2. The impact caused V1 to rotate counterclockwise. The vehicle came to rest in the intersection facing in a southwesterly direction. The driver stated that he saw V-2 traveling southbound when the light turned yellow. The vehicle was towed due to damage. The driver stated that he received a citation within the last two years for making an illegal left turn. V2, a 2002 Chevrolet Impala LS 4 door sedan, was traveling southbound in the #2 lane at approximately 48 kmph (30 mph) approaching the intersection on a green light. The driver, a 56-year old male with two passengers, stated that the light turned yellow just prior to the intersection. The driver stated that he saw V1 stopped in the intersection waiting to turn left. The driver stated that the light turned yellow and V1 began to make the left turn across the path of his vehicle. The driver applied braking and slowed to about 32 kmph (20 mph) when the front of V2 struck the right side of V1. The impact caused V2 to rotate clockwise coming to rest in the intersection facing in a southwesterly direction. The vehicle was towed from the scene. The critical pre crash event for V1 was coded: this vehicle traveling, turning left at intersection . The critical reason was coded as a driver related factor: false assumption of other's actions. The driver assumed that V2 was going to stop when the light turned yellow. The critical pre crash event for V2 was coded: other vehicle encroachment; from opposite direction - over the left lane line . The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs present problem 
+Vehicle 2:  Decision, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

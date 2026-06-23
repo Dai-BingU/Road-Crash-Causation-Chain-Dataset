@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the center of a 4-way intersection. There was one lane each eastbound/westbound and one lane each northbound/southbound. The eastbound/westbound roadway was straight, level and bituminous with a posted speed of 40 kmph (25 mph). The northbound/southbound roadway was straight with a -3% grade, bituminous with a posted speed of 40 kmph (25 mph). Northbound/southbound traffic was controlled by stop signs. A large box truck was parked on the northwestern corner in front of the southbound stop sign. It was afternoon on a weekday. The road was dry and the sky was clear. Traffic flow was light. V1, a 1998 Buick LeSabre with one occupant, was traveling southbound in lane one when it passed through the intersection without stopping at the stop sign. V2, a 2006 Toyota Corolla with 3 occupants, was traveling in the westbound in lane one when it entered the intersection. V1 attempted to avoid the collision with V2 by turning right and applying the brakes. V2 struck V1 on the front left quarter panel and came to rest, V1 then continued forward until it impacted a brick fence corner post. V1 was driven by a 23-year-old male who reported no injuries. Driver states he was traveling at approximately 40 kmph (25 mph), when he attempted pass through the intersection. He claims not to have observed the stop sign because a delivery truck obstructed it. Driver one attempted to avoid the collision by steering right and braking. The Critical Precrash Event for V1 was “This Vehicle Traveling-Crossing over (passing through) intersection”. The Critical reason for the Critical Event was an “Environment Related Factor-View obstructed by other vehicles”. One associated factor was the recognition factor “Inadequate surveillance-Looked but did not see”. The driver did not see the stop sign even though 20 meters before is a “Stop Ahead” precautionary sign. Another associated factor was the decision error “Illegal Maneuver-Failed to stop for TCD”. The driver, a resident in the area familiar with the roadway, did not stop before proceeding through the intersection. The final associated factor coded to this driver was “Other decision Factors-Crossed with obstructed view”. The driver preceded trough the intersection without stopping even though the parked delivery truck obstructed his view. V2 was driven by a 70-year-old male who reported neck pain and was transported to the emergency room. Occupant one, a 66 year-old female, reported neck pain and was transported to the emergency room. Occupant two, a 78 year-old female, reported shoulder/upper arm pain and was transported to the emergency room. Driver states he was traveling at approximately 40 kmph (25 mph), when he attempted pass through the intersection when V2 passed through the intersection without stopping. V1 was unable to attempt any avoidance maneuver and struck V1. The Critical Precrash Event for V2 was “Other Vehicle Encroachment-From Crossing street, across path”. No Critical Reason was coded to this vehicle. No other associated factors were coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- View obstructed by other vehicles
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

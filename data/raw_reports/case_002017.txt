@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a two-lane undivided, straight, level, east/west roadway. The posted speed limit was 89 kmph (55 mph). The conditions at the time of the crash were sunny and dry in the late afternoon hours. Vehicle #1 and Vehicle #2 were both 1997 Chevrolet Suburbans. V1 was a red Suburban and V2 was a white Suburban. V2 was following V1, traveling westbound. V1 was slowing down to make a left turn into a driveway, and the driver of V2 thought that V1 was slowing to make a right turn onto a nearby intersecting roadway. V2 attempted to pass V1 on the left side at the same time that V1 was attempting to turn left into the driveway. The front right of V2 contacted the left side front of V1. The two vehicles then side-slapped, and V1 continued on in a southwesterly direction off the roadway into a ditch where it came to rest after contacting a tree. V1 was towed from the scene due to damage, but V2 was driveable. The driver of V1 was transported to a local medical facility for treatment, but the four occupants of V2 were uninjured. V1 was driven by a 19-year old male who reported that he was unfamiliar with the roadway - this was the first time he had driven on it. He stated that he was a traveling salesman and had only been on the job for four days. When questioned, he stated that he did not know whether or not he had activated his left turn signal, but reported that it was always his intention to turn left into that driveway as he continued on his route. He reported that he was focused on his left turn destination and was not aware of the presence of V2 until after impact. The driver of V1 reported that prior to the crash, he was thinking about some concerns that he had. These concerns involved his family, financial problems, and a future event. He also reported that he was experiencing some work stress as he tried to learn his new job. The Critical Pre-crash Event for the driver of V1 occurred when he began to turn left. The Critical Reason was not coded to the driver of V1, but several associated factors were coded to him. These include inattention, an exterior factor, work stress, and unfamiliarity with both the roadway and his vehicle. V2 was driven by a 40-year old female who drove the roadway on a daily basis. She reported that she saw V1 decelerating and assumed that it was going to turn right onto the upcoming intersecting roadway. Rather than wait for V1 to make its supposed right turn, she decided to pass V1 on the left. As she went to pass V1, V1 began to turn left. The front right of V2 struck the left side of V1. The Critical Pre-crash Event for the driver of V2 was when she traveled over the lane line on the left side in order to pass V1. The Critical Reason for the Critical Pre-crash Event was coded as a false assumption of other road user's actions. Had the driver of V2 waited to make sure that V1 was actually going to turn right, the crash would not have occurred. V1 would have made its intended left turn and V2 would have then continued on its way. An associated factor coded to the driver of V2 was a conversation she was having with her passenger.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Physical, Driver Stress/Emotion present problem 
+Vehicle 2:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

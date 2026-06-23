@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a four-lane roadway divided by a center concrete median barrier. There were two southbound and two northbound lanes. This was a straight, level, bituminous roadway with a posted speed of 105 kmph (65 mph). It was early evening on a weekday and the road was dry and the sky was clear. The traffic flow was in a rush hour mode, with stop-and-go activity. Vehicle one (V1), an unknown make and year passenger vehicle, with an unknown number of passengers, was traveling southbound in lane two. Vehicle two (V2), 1993 Toyota Camry 4-door with two occupants, was traveling in lane one. As V1 passed V2 and attempted to enter lane one, its right rear quarter panel struck the left front fender of V2. After impact, V1 continued southbound in lane one without stopping (V1 was a hit and run vehicle). The driver of V2 lost control after the impact with V1 and skidded to the left where it struck the center concrete median barrier with its left front. This impact redirected V2 to the right and it skidded across both lanes of travel and struck the guardrail with its right front corner area. V2 came to an uncontrolled final rest on the west shoulder facing south. V2 was towed from the scene due to damage. Because V1 was a hit and run vehicle, no interview could be obtained from the driver. Without the interview, it was uncertain whether any fatigue or health related factors contributed to this crash. The Critical Pre-crash Event for V1 was "this vehicle traveling over the lane line on the right side of travel lane." The Critical Reason for the Critical Event was an unknown driver error. An associated factor coded to this vehicle was the traffic flow interruption in the form of the rush hour traffic pattern. The driver of V2, a 25-year old male, did not suffer any injuries as a result of the crash. There was a right front seat passenger present in the vehicle when the crash occurred. A partial interview was obtained from this driver. He stated, "The car passed me, then was pulling in front of me. I guess they didn't give enough space and hit me." The Critical Pre-crash Event for V2 was "other vehicle encroachment from adjacent lane (same direction) over left lane line." The Critical Reason was not coded to this vehicle. Associated factors coded to this driver include conversation with the passenger and the rush hour traffic pattern. .
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic present problem 
+Vehicle 2:  Distraction, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

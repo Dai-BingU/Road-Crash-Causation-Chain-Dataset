@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred mid morning during daylight hours in an intersection that is intersected by an east-west road and a north-south road. The north-south road has two lanes going in each direction and a left turn lane for each direction. The east-west road has two lanes in each direction which are used for high rate of speed express travel. Left turn lanes in each direction are also included in the roadway. In each direction, separated by a raised median, is a wide third lane that is used for slower local traffic. All roads were flat and dry asphalt, Traffic flow controlled by on-colors traffic signal. Posted speed limit 48 kmph (30 mph). Vehicle one (V1), a 2001 Pontiac Grand Prix sedan with an unknown number of passengers, was traveling eastbound in the first lane of the express section. Vehicle two (V2), a 1984 Chevrolet Caprice Classic station wagon driven by a 47 year-old female with two passengers, was traveling southbound in the second lane. Vehicle three (V3), a 1994 Nissan Pathfinder driven by a 40 year-old female was stopped in the northbound left turn lane. According to the drivers of V2 and 3, V1 was headed east at a high rate of speed and crossed through the intersection against a red light. V2 was passing through the intersection with the green light and struck the left side of V1. This caused the right side of V1 to collide with the front of V3 who was stopped in the left turn lane and partially out in the intersection. In addition, the first event caused V2 to spin counter clockwise and its front hit the left side of V3. Both V2 and V3 came to a final rest at this point. V1 was going at such a high rate of speed that the vehicle loss control and continued northeast, striking the two medians in the oncoming traffic section. It was at this point that all passengers of vehicle one were ejected. The V1 came to final rest 1.3 meters north of the north curb of the east- west road, and 43.1 meters east of the east corner of the intersection. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as a driver related factor: illegal maneuver (disregard traffic signal). The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle. V3 was not involved in the first harmful event. The critical reason was not coded to this vehicle Note: Interviews from the drivers of V2 and V3 were both obtained. However, according to the police report, the driver of V1 and all of the occupants fled when they were being admitted to the hospital.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Speed/Distance present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Driver Stress/Emotion, Drugs present problem 
+Vehicle 3:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

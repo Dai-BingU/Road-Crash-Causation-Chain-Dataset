@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 2002 Dodge Stratus, was traveling westbound on a four-lane, two-way, dry, asphalt roadway with a level grade in daylight conditions. V1 was intending to go straight. V2, a 2004 Honda Accord, was traveling eastbound in the second lane of travel on the same roadway in similar conditions, also intending to go straight. The posted speed limit was 56 kmph (35 mph). The driver of V1 was experiencing low blood sugar and passed out at the wheel, relinquishing control of the car. V1 crossed the double yellow lines and the front of V1 contacted the front of V2. V2 came to final rest on the roadway facing west. V1 came to final rest off the south side of the roadway facing north. The driver of V1 was a 43-year old diabetic male who reported that he had blacked out due to low blood sugar. Medical records indicated that immediately after the crash, his blood sugar was 32, a dangerously low level. The driver of V1 sustained serious injuries during the crash and was transported to a local trauma facility. The driver of V1 told doctors that he had skipped a meal earlier in the day but had still taken his insulin. The Critical Pre-crash Event for the driver of V1 was when he traveled over the lane line on the left side of the travel lane. The Critical Reason for the Critical Pre-crash Event was a critical non-performance error due to the diabetic blackout. The driver of V1 was taking several medications for various health problems, including heart problems, high cholesterol, thyroid problems, and diabetes. The driver of V2 was a 44-year old female who had reported that she had been traveling between 50-64 kmph (31-40 mph) prior to the crash. She had no health related problems and was rested and traveling back to work. She was wearing her prescribed lenses that corrected a myopic (near-sighted) condition. She sustained minor injuries during the crash and was transported to a local trauma facility. The Critical Pre-crash Event for the driver of V2 was other motor vehicle encroachment, from opposite direction-over left lane line. The Critical Reason for the Critical Pre-crash Event was not coded to the driver of V2 and she was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

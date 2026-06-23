@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of two roadways. The north/south roadway was a two-way, three-lane undivided street, controlled by a stop sign. The east/west roadway was a two-way, three-lane undivided street, without a traffic control device. These were straight, level, asphalt roads, with an unknown posted speed. Conditions were daylight on a weekday afternoon with dry roads and clear skies. Traffic flow was normal. V1, a 2000 Ford Mustang with one occupant, was traveling southbound in lane one. V2, a 2006 Honda Pilot with one occupant, was traveling eastbound in lane two. Both vehicles were approaching the same intersection. As the two vehicles entered the intersection, the front of V1 made contact with the left side of V2. Both vehicles were towed due to damage. V1, the Ford Mustang, was driven by a 63-year old female, who was not injured. She stated that she just got off work. She normally takes a different route from work, one that she is more familiar with. She was headed south, as she approached the intersection, she didn't see a stop sign, so she thought it was an uncontrolled traffic way in her direction. The driver stated that she slightly reduced her speed, as she usually does when entering an intersection, but did not stop. She also stated that she was thinking about work, and a six-thirty appointment. The driver insisted that she looked for a traffic signal, but that the stop sign was completely covered by tree leaves and branches. The Critical Precrash Event for V1 was "this vehicle traveling, crossing over (passing through) intersection". The Critical Reason for the Critical Event was highway related, signs/signals erroneous/defective. Specifically, if the stop sign had been functioning properly, the driver would have had the information necessary to avoid the collision. As it were, the stop sign was completely covered by tree leaves and branches. One associated factor for this driver was inattention. The driver was thinking about work and a future appointment. V2, the Honda Pilot, was driven by a 74-year old female, who refused treatment. She could not be reached for an interview. The Critical Precrash Event for V2 was "other vehicle encroachment, from crossing street across path". The Critical Reason for the Critical Event was not coded to this vehicle. No associated factors could be determined for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Signs/signals erroneous/defective
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

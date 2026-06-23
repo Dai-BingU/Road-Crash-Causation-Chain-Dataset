@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred at a intersection controlled by warning signal and stop sign for south traffic. This four leg intersection road surface wet, level asphalt. With a posted sped limit of 97 kmph (60 mph) for the east/west roads and 89 kmph (55 mph) for the north/south. Vehicle one (V1), a 2002 Chevrolet Blazer driven by a 55 year-old female, was traveling west in lane 2. Vehicle two (V2), a 1998 Ford Ranger pickup driven by a 28 year-old male, was traveling south in the first lane. V2 was stopped waiting for traffic to clear so he could make a left turn as a non-contact vehicle passed V2 pulled into the intersection then observing V1 stopped and was struck on the left side by the front of V1. After impact V2 rotated counterclockwise and came to rest in the intersection, V1 continued in a northwesterly direction and coming to rest just past the corner in a service station. The driver of vehicle V1 was thinking about earlier crashes that have occurred at this intersection in the last few months, so the driver reduced her speed from 89 to 72 kmph (55 to 45 mph). The critical pre-crash event for V1 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason for the critical event was not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V2 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). Associative factors: the driver of V1 assumed that the driver of V2 would stay stopped at the stop sign and not try to enter the intersection. The driver of V2 is clinically depressed, and has been taking medication for this problem for a long time. At the time of the interview with this driver, it appeared to the interviewer that the driver's reactions and responses were slow. This could be from the medication he was taking at the time. The driver of V2 did not look to the left again before entering the intersection. When he did see V1 approaching he panicked and stopped,
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Drugs, Weather/Environment present problem 
+Vehicle 2:  Decision, Distraction, Driver Performance, Driver Stress/Emotion, Drugs, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

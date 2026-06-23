@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a two-lane roadway with an adjacent private driveway. Conditions were dusk and dry with cloudy skies at 4:38 pm on a weekday late afternoon. The roadway had a posted speed of 35 MPH and the eastbound lane had a negative 2% grade. The private driveway was dry and did not have a posted speed limit but had a negative 3% grade. Vehicle 1 was a 1995 Plymouth Neon Sedan decelerating for the vehicle in front of him, which was making a left turn into a plaza. Vehicle 2, a 1996 Kia Sephia, was exiting a private drive to the right of Vehicle 1. The front of V1 struck the right side of V2; V2 rotated 90 degrees right. V1 swerved right then left then both vehicles came to final rest in the right lane facing east. The 45-year-old driver of the Plymouth Neon (V1) stated that he was struck on the right side and swerved to final rest in the eastbound lane. The driver of V1 sustained a laceration to his forehead and was transported to the emergency room. V1 was towed due to damage. The driver of V1 has pre-existing health conditions such as high blood pressure and a mild case of sleep apnea. The driver also has engaged in strenuous activities however none of these factors were thought to have contributed to the crash. The Critical Pre-Crash Event for V1 was other vehicle encroachment - from driveway turning into opposite direction; no Critical Reason was coded to this vehicle. A 30-year-old female who did not sustain any injuries drove the Kia Sephia (V2). She stated she had come to a complete stop, looked both ways, and then entered the roadway intending on turning left. She stated she was traveling less than 5 MPH and the sun obscured her vision of V1. Her vehicle was towed due to damage. The Critical Pre-crash Event for V2 was turning left, exiting a parking lot; the Critical Reason for the Critical Pre-Crash Event was looked but did not see. An associative factor was sun glare.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs present problem 
+Vehicle 2:  Distraction, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

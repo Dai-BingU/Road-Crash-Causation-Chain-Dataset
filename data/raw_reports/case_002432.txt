@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a five-lane urban roadway with a posted speed limit of 80 kmph (50 mph). This roadway is level, with a slight right curve before straightening out prior to the intersection. Traffic at the scene was moderate, but was in no way congested, there was no construction, or any other type of restriction. The conditions at the time of the crash were clear, and dry. No weather or roadway conditions contributed to this crash. V1 a 2000 Chevy Silverado was approaching a controlled intersection after exiting a slight right turn. The vehicle continued through the intersection in lane one when it was struck in the front by V2. V2 was a 1995 Ford Ranger that was apparently exiting a restaurant driveway, when he crossed the traffic lanes and collided with V1. The two vehicles collided head-on, the air bags deployed in V2 but there was no deployment in V1. The three occupants of V1 were uninjured, but the six-month-old infant seated in the 2nd row was examined by EMS on-scene. The lone occupant of V2 a male driver sustained minor injuries, but didn't require any treatment. The driver of V1 a 40 year-old female stated that she was northbound when she noticed the vehicles in front of her start to swerve away from the roadway. She said that she then saw V2 exiting a driveway from the left, and begin to cross the roadway. The driver said that she thought he was trying to drive across the road and off the right side, she stated that she slammed on her brakes but was unable to stop and was contacted by V1. The Critical Pre-crash Event for V1 is coded other vehicle encroached from driveway turning into opposite direction, a Critical Reason is not coded for this vehicle. The driver of V2 a 54 year-old male stated that he must have fallen asleep before the crash. He said that he was southbound on the roadway, and must have fallen asleep, causing his truck to veer to the left. Even though witnesses stated that V2 was exiting the driveway, the driver of V2 stated he was not exiting the restaurant, and that he was southbound the entire time. When asked why he was so tired the driver of V2 stated that he had just had some family members move in with him, and they were causing him to not sleep well and, making his home really stressful. The Critical Pre-crash Event for V2 was this vehicle traveling over the left lane line of the travel lane. The Critical Reason for the Critical Pre-crash Event was this driver actually asleep, and unable to operate his vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Distraction, Driver Fatigue, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Unknown
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Sleeping, that is, actually asleep

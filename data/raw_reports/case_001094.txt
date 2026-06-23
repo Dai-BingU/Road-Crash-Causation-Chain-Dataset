@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash happened on a weekday in late afternoon in August. The location was a four-lane divided straight uphill concrete roadway. The weather was clear and the roads dry. Vehicle one (V1), 2000 Ford Expedition with four doors and one occupant was traveling north in the second lane of traffic. V1 was pulling an unloaded trailer. Vehicle two (V2), a 1995 Mercury Villager with four doors and one occupant was stalled in lane 3, ahead of V1. V1 changed lanes, entering lane 3. The driver of V1 observed the movement of his trailer, looking into his left side mirror. When he looked forward again, he realized V2 was not moving. The driver of V1 applied his brakes but was already too close to preventing his front impacting the rear of V2. V1 came to rest in lane three. V 2 was pushed forward and over into lane 4, a left turn lane, and moved forward until it came to rest within the intersection. V1 was towed from the scene. The driver of V2 was able to start his vehicle and drive it into a side street. A 40-year old male drove V1, the 2000 Ford Expedition. He said he saw V2 earlier, but did not realize V2 was not moving. He was looking into his side mirror to observe the trailer he was towing. At the time he looked into his direction of travel, he realized V1 was stalled in its lane. He immediately applied his brakes, but was already too close to V2. According to his estimate he was about 2-vehicle lengths away from V2 when he looked back into his direction of driving. A 68-year old male, who afterwards complained about some back pain, was the occupant of V2 at the moment of the crash. His grand daughter had driven the vehicle to the location where it stalled. She was out of the vehicle and away from the crash site when the crash happened. The occupant was about to leave the vehicle and was halfway out the driver's door, when he realized a crash was imminent. He got back inside the vehicle and crouched behind the steering wheel. He never found out why the vehicle stalled. He was able to start the vehicle after the crash and drive it to a parking position in a nearby side street. The critical pre crash event for V1 was coded: other motor vehicle in lane-other vehicle stopped. The critical reason for the critical event was coded as a driver related recognition error: external distraction. Because the driver was observing his trailer and did not look forward soon enough to realize V2 was disabled in the traffic lane. The critical pre crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. No critical reason for the critical event was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Speed/Distance, Surveillance, Traffic present problem 
+Vehicle 2:  Drugs, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Disabled or parked in travel lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

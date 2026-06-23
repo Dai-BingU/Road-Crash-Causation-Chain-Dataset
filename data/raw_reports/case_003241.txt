@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the middle of an intersection of a four-lane roadway controlled by a traffic control signal. Conditions were daylight and dry in the early evening on a weekday. The posted speed limit was 64 kmph (40 mph) for V1 and 72 kmph (45 mph) for V2. V1 was a 2003 Buick Century sedan traveling northbound in the 3rd travel lane approaching a green traffic control signal intending on turning left at the intersection. V2, a 2004 Toyota Corolla sedan, was traveling southbound in the second travel lane approaching the same green traffic control signal intending on continuing straight. V1 looked but did not see V2 approaching and proceeded to make a left turn at the intersection. The front right of V1 struck the front of V2 in the middle of the intersection. V1 then spun 45 degrees and both vehicles came to final rest facing southwest. A 74-year old male drove V1 and sustained minor injuries but refused any medical attention. He stated that he was traveling between 1 and 10 MPH when he approached the intersection, looked ahead, then turned left. The driver of V1 did not see V2 at all. The driver of V1 did not take any avoidance actions. V1 was towed due to damage. The critical precrash event for V1 was this vehicle turning left at the intersection. The critical reason for the critical precrash event was a driver related factor - inadequate surveillance (looked but did not see). The driver felt rested prior to the crash and was somewhat familiar with the roadway. He reported that he drove on it several times a month. The driver had two passengers in the vehicle. No additional associated factors were coded to this driver. A 22-year old female drove V2 and sustained moderate injuries and was transported to a local hospital. She stated that she was traveling southbound when the other vehicle turned in front of V2. She also stated that the traffic control was green. V2 was towed due to damage. The critical precrash event for V2 was other vehicle encroachment from opposite direction over left lane line. No reason for the critical precrash event was coded to this vehicle. No associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

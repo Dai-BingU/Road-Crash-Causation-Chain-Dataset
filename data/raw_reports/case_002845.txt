@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west barrier divided urban interstate in an interchange area. Westbound where the incident happened the interstate had four travel lanes, the right lane was an entrance lane that was beginning to narrow. On the north side of the interstate construction barrels are present because the interchange is undergoing a major redesign. The most recent traffic counts indicate the six interstate lanes carry 145,000 vehicles per day. The speed limit is 72 kmph (45 mph). Conditions were daylight and dry during morning rush hour on a weekday. Although construction is ongoing in the area all lanes were open and workers are not there during rush hours. Vehicle #3 was a 1999 Hyundai Tiburon traveling westbound in the far left lane that was forced to come to a stop due to traffic congestion. Vehicle #2, a 1999 Chevrolet Malibu, was also westbound in the left lane and came to a stop behind the Hyundai (V3). Vehicle #1, a 1999 Honda Accord that was behind the other vehicles, could not stop in time and rear-ended Vehicle #2. A chain reaction then occurred with the front of the Malibu (V2) contacting the rear of the Hyundai (V3), but no damage occurred. All three vehicles came to rest just west of impact. Vehicle #1 was driven by a 20-year old male that was belted and not injured. The frontal airbags did not deploy and the vehicle was driven from the scene. He stated that traffic stopped suddenly ahead of him and he was unable to stop in time to avoid the crash. Vehicle #1 left approximately 10m of pre-impact skids while steering left. Police charged the driver with following too closely. The Critical Precrash Event for Vehicle #1 was other vehicle in lane-stopped. The Critical Reason for the Critical Event was coded as inattention. Associated factors included inadequate surveillance-failure to look far enough ahead and traffic congestion. Vehicle #2 was operated by a 42-year old female. She was transported to an area hospital with minor injuries. EDR data was retrieved from the vehicle and indicated that she was unbelted in the non-deployment event. No precrash graph was available in the EDR information for this model. In her statement she estimated she had been stopped 3-4 seconds before being struck from behind. The Malibu was towed from the scene with moderate damage. The Critical Precrash Event for Vehicle #2 was other vehicle in lane- traveling in same direction with higher speed. No Critical Reason for the Critical Event was coded to this vehicle. Congestion was the only associated factor attributed to this vehicle that contributed to the crash. A 23-year old male drove Vehicle #3. He was belted, not injured and the vehicle was driven from the scene. Although his vehicle sustained no damage he was included on the police report. He indicated he came to a stop due to congestion ahead and was the third vehicle involved in the chain reaction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance, Traffic present problem 
+Vehicle 2:  Drugs, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

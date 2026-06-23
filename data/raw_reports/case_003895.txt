@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a four-lane, not physically divided wet asphalt roadway, featuring a two-way left turn lane with a posted speed limit of 56kmph (35mph). It was snowing at the time of the crash, causing to the roadway to wet and slushy, during the daylight hours. V1, a 2005 Toyota Corolla, was traveling northbound in the right curb lane, traveling about 16kmph (10mph). V2, a 2002 Dodge Caravan, was stopped for the red light in the northbound right curb lane. V1 was approaching the intersection when its front contacted the back of V2. V1 was driven by a 42 year-old female who reported she was in fair health with a history of depression for which she took an unknown medication. The driver of V1 stated that she did not see V1 stopped right away, and that she must have been daydreaming. The driver then stated that she steered to the right at the last second but could not avoid the crash. The driver was not injured but V1 was towed due to damage. V2 was driven by a 69 year-old female who claimed to be in good health despite a history of diabetes for which she took insulin. She was wearing her prescription lenses that corrected a hyperopic (far-sighted) condition. The driver of V2 stated that she had been stopped for a few seconds and than was contacted in the rear bumper by the front bumper of V1. The Critical Precrash Event coded for V1 is other motor vehicle in lane, other vehicle stopped. The Critical Reason was coded as a recognition error, inattention. An associated factor for this crash is driver inattention as she was focused on other concerns and not the driving task at hand. The Critical Precrash Event coded for V2 is other vehicle in lane, traveling in the same direction with higher speed. The Critical Reason was not coded to this vehicle. There were no associated factors coded to this vehicle, as it was not believed to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Driver Physical, Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

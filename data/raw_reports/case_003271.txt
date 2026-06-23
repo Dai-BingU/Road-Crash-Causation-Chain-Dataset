@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle intersection crash occurred during late daylight hours in an interchange area. The east/west roadway is a one-way, two-lane exit ramp from a freeway. The concrete roadway curves to the south with a 7.4 % down grade. The north/south roadway is a two way, two-lane asphalt roadway that is level and curves to the west. Traffic on this roadway is controlled by stop signs before entering the intersection. The speed limit for the east/west road is 64 kmph (40 mph). The speed limit for the north/south road is 56 kmph (35 mph). The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. It was early evening on a weekend and there was little to no traffic on the roadways. Vehicle one (V1), a 2003 Chevrolet Impala with four doors and one occupant was traveling north in the first lane of traffic approaching the intersection of both roadways. Vehicle two (V2), 1991 Volkswagen Golf with three occupants, was traveling east in the first lane. At the intersection, the front of V1 impacted the right side of V2. V1 rotated clockwise and came to rest within the intersection, facing northeast. V2 rotated counter clockwise after the impact, and moved northeast. It came to rest at the northeast corner of the intersection, facing east. V2 was towed from the scene. The driver of V2 was briefly treated at the scene. V1 left the scene unidentified. The driver's mother, the listed owner of the vehicle, returned to the scene later. She drove V1 back to the scene. A 19-year old male drove V1, the 2003 Chevrolet Impala. His mother, the registered owner, was interviewed at the scene. She told the researcher what her son had told her about the crash. According to this statement, the driver stopped at the stop sign. The driver was an unlicensed driver. He is in good health and does not take any medication. He was coming from a friends' residence located near the scene. His destination was not known. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason for the critical event was coded as a driver decision error to V1: illegal maneuver. This vehicle did not stop at the stop sign. The exact reason for this illegal maneuver is not known. A 24-year old female, who reported minor injuries, drove V2, the 1991 Volkswagen Golf. She stated she was in the first lane, traveling at a normal rate of speed saw V1 approaching the intersection and assumed it would stop for the stop sign. When V1 continued slowly into the intersection, she applied her brakes and steered to the left to avoid the collision. Skid marks leading to the front wheels of V1 were detected at the scene. These skid marks were no longer visible during scene inspection and could not be measured. The driver was heading home from shopping with her sister, rarely drives the route but is familiar with the vehicle. The critical pre-crash event for V2 was coded: other vehicle encroachment, from crossing street, across path. The critical reason was not assigned to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+Vehicle 2:  Decision, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

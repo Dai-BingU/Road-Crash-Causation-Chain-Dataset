@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two crash occurred during early morning daylight hours in the eastbound travel direction of a four-lane, two-way interstate divided by a wide median. There were two eastbound travel lanes that were straight, dry, and paved asphalt. Involving a pick-up truck and a tractor-trailer. There were no environmental conditions that were a factor in this crash. The posted speed limit on the roadway is 121 kmph (75 mph) Vehicle one (V1), a 2001 GMC Silverado pickup, driven by a 30 year-old male was traveling eastbound in the number one lane on the two-lane roadway with the cruise control set at 129 kmph (80 mph). The driver stated that he last remembers setting the cruise control at 129 kmph (80 mph). The next thing he remembers was waking up after he had struck the rear of Vehicle two (V2). V2 was a 1996 Freightliner tractor pulling one trailer, driven by a 43 year-old male who was traveling eastbound in the number one lane. After this first impact V1 began to rotate counterclockwise and continue across the two eastbound lanes of travel. V1 departed the left side of the roadway into the median. The vehicle traveled about 30 meters (98-feet) into the median and continued to rotate counterclockwise when the right side tires furrowed in the soft dirt causing the vehicle to trip and roll to it's right 2 quarter turns. From the trip point to final rest V1 traveled approximately 38-meters (125 feet) before coming to rest on it's right side facing in a northwesterly direction. The driver and sole occupant of V1 received minor injuries as a result of this crash. V1 was towed from the scene due to damage. V2 was driven to the right shoulder after the initial impact and subsequently from the scene. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction with lower steady speed. The critical reason for the critical pre-crash event was coded to V1 as a driver related critical non-performance factor: Sleeping, that is, actually asleep. The driver of V1 has not slept for 25.5 hours hours on the previous day and had been driving for more than 6 hours prior to this crash. The driver also worked a 10-hour day the day before the crash and has not slept since. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher steady speed. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

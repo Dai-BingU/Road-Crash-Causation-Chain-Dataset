@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This accident occurred on an undivided two-way, two-lane roadway at a 4-way intersection. The roadway was controlled by traffic signals. The conditions were as follows: early afternoon, sunlight, clear skies, the roadway was dry and level. The posted speed limit for V1 and V2 was 40 kmph (25 mph). Vehicle one (V1) was a 1997 Ford Ranger, traveling northbound. V1 was following V2, a 1987 Buick Park Avenue. The driver of V1, a 41-year old male, stated that northbound traffic had a green to yellow light at the intersection. When the light changed to yellow, the driver of V2 slammed on his brakes. V1 could not stop in time and the front of V1 struck the left rear of V2. The driver of V1 did not need treatment, because he did not suffer any injuries. The driver of V2, an 81-year old male, was taken to a local hospital via ambulance to be checked out. The Critical Pre-crash Event for V1 was coded as: other motor vehicle stopped in lane. The Critical Reason for the Critical Pre-crash Event was coded as: false assumption of other's actions. This was chosen because the driver of V1 assumed that the driver of V2 would continue on through the yellow light. An associated factor coded to the driver of V1 was following too closely - had V1 been farther back from V2, it is likely that the driver of V1 could have had more space in which to brake. The driver of V1 gave his interview via phone to the researcher. Due to the damage V1 sustained in the crash, this vehicle needed to be towed from the scene. The Critical Pre-crash Event for V2 was coded as: other motor vehicle in lane with higher speed. The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. The driver of V2 refused an interview with the researcher. The researcher used information given in the Police Report for some of the above information. It is the researcher's view that V2 stopped suddenly and V1 came up from behind and was not able to stop in time. While the researcher was on scene, he noticed that this roadway that V1 and V2 traveled are very busy, in comparison to the area.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

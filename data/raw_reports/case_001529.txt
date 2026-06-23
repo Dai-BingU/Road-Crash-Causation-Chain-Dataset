@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred during early morning daylight hours, at a on-colors controlled four leg intersection. Road surface dry asphalt, the two west lanes have a 15% uphill grade to the intersection. The north/south divided five lanes are level. The posted speed limit north/south 56 kmph (35 mph) and 40 kmph (25 mph) east/west. Vehicle one (V1) a 1998 white Ford E350 cutaway van with an ambulance package. driven by a 21 year-old male with one passenger was traveling south in the second lane. Vehicle two (V2) a 1993 Oldsmobile Achieva Coupe driven by a 39 year-old female was traveling west in the first lane. V 1 a private ambulance was heading to a local care facility to pick up and transport a client from the care facility to another hospital for a non-emergency transport. As V1 was traveling south, with lights and siren on, the driver noticed about 1 block from the intersection that the light was red. Vehicle 1 was traveling about 35 mph at the time. The driver of vehicle mentioned this to the passenger, who was looking at a clipboard. When vehicle 1 approached the intersection about 20 meters from the intersection the driver stated he cleared the intersection from the left and slowed to 30 mph. The passengers cleared the intersection from the right. The driver stated that he did not clear the intersection from the left again, and vehicle 2 crossed in front of him. V 1 steered to the right and braked to avoid the impact, but the front of V1 collided with the right side of V2. After impact V1 pushed V2 towards the southwest corner where both vehicles came to final rest. Both vehicles were towed from the scene. The pre-event movement for V1 coded going straight, category this vehicle traveling crossing over passing through intersection. Critical reason for the critical event coded driver related factor "Illegal maneuver" (disregard of traffic signal). The pre-event movement of V2 coded going straight, category other vehicle encroachment from crossing street across path. Critical reason not coded to this vehicle. Additional factors for V1,there is no reason for traveling with lights and sirens on a non-emergency pickup. The driver had been on the job only 8 months, and had no drivers training with emergency vehicles. improper surveillance, sun glare, and sight restrictions.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Distraction, Driver Fatigue, Driver Stress/Emotion, Drugs, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

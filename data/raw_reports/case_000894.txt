@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the southbound lane of a two-way, three-lane roadway. The southbound lanes were sloped 5% downhill and the westbound lanes were on a level grade. The posted speed limit was 56kmph (35 mph). Conditions were daylight and dry with clear skies. The setting was mid-afternoon hours on a weekday. Vehicle one was a 1992 Buick Skylark coupe, traveling west in lane three approaching the intersection intending to turn left. Vehicle two was a 1999 Dodge Durango sport utility traveling southbound in lane one. Both vehicles proceeded into the intersection. The front of V1 impacted the left plane of V2. Both vehicles came to rest in the southwest corner of the intersection. V1 was driven by a 25-year old female who was transported to a local hospital with possible injuries. She was unable to be located for an interview. The investigating officer estimated her speed at impact to be 40kmph (25 mph). Her vehicle was towed due to damage. The Critical Precrash Event for V1 was this vehicle traveling turning left at an intersection. The Critical Reason was coded as an illegal maneuver since V1 failed to stop for the traffic control device. There are no known associated factors coded to V1. V2 was driven by a 35-year old female who was listed with possible injuries but was not transported. She was wearing her prescription lenses to correct a myopic (near-sighted) condition. She stated that she was heading to a doctor's appointment and was going straight through the intersection when the other vehicle crashed into her. She estimated her travel and impact speeds to be 56kmph (35 mph). Her sport utility was towed due to damage. The Critical Precrash Event for V2 was other vehicle encroachment, from crossing street, turning into the same direction. The Critical Reason was not coded to this vehicle. At the time of the crash the driver was talking on a hands free cell phone to her husband regarding family matters, which could have caused inattention. This driver refused to identify the names of the prescription medications she was using.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+Vehicle 2:  Cell Phone Use, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on a northbound entrance ramp for a high volume, high occupancy interstate. The ramp was curved to the left and was level. The ramp consisted of one lane with a right side emergency paved shoulder. The skies were clear and it was early evening on a weekend night. The remains of a previous crash was located on right should of the road. V2, a 1989 Toyota Corolla, was disabled and left unattended in the middle of the entrance ramp. V1, a 2001 Jeep Cherokee, was just getting on the entrance ramp to the interstate when the turned to look at the previous crash on the right side shoulder. As she slowly refocused her attention back to the roadway she saw disabled vehicle and tried to avoid it by braking tried to hit the brakes, but skidded into the back of the disabled vehicle. V1 was driven by a 25 year-old male in good health who was wearing his glasses that corrected a myopic (near-sighted) condition. Neither the driver nor the passenger of V1 sustained any injuries and was towed due to damage. The Critical Precrash Event for V1 was coded as other motor vehicle in lane, other vehicle stopped. The Critical Reason was a driver recognition error, an external distraction (the nearby crash). The associated factors include inadequate surveillance, as the driver failed to look far enough ahead as well as a traffic flow interruption as there was a previous crash nearby. The Critical Precrash Event for V2 was coded as other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. The driver of V2 had left the vehicle after it broke down and could not move off to the side of the road. V2 was towed from the scene both for its disabling problem as well as the damage it sustained.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：No driver present
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：No Driver Present- No driver present

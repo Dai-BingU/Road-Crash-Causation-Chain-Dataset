@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash happened in the late morning on a beautiful weekday in a suburban part of town. The crash occurred at a T-intersection of an undivided north/south 3-lane roadway and an east/west 3-lane divided roadway that ended at the intersection. A stop sign controlled traffic for westbound traffic; there was no traffic control device for north/south traffic. The traffic level was minimal and there were no adverse weather conditions. The posted speed limit on the north/south roadway was 72 kmph (45 mph) and was 56 kmph (35 mph) on the east/west roadway. V1, a 2005 International tractor with an empty trailer, was driven by a 53-year old male. V1 was stopped at the stop sign intersection waiting to turn south. V2, a 2002 Toyota Camry, was driven by a 52-year old female. V2 was traveling north approaching the same intersection as V1. V2 veered off the right side of the road and crashed into the left side of the tractor. V1 and V2 were both towed from the scene and each driver was transported from the scene. Neither of the drivers was interviewed, but the researcher was able to discuss some of the pre-crash elements with a witness that was behind V1 and a witness behind V2. The witness behind V1 was the escort driver for the same truck company. He said they had just left a new housing development after delivering housing trusses. He reports that V1's driver was stopped for over 10 seconds when it was struck by V2. While speaking with this witness, the safety director for the company arrived on scene and interrupted the conversation. The other witness was driving behind V2 and reportedly saw V2 swerving before the crash. She said she had called the police before the crash to report a drunk driver. The medical report for V2's driver noted that this driver has a history of convulsions and seizures. The Critical Pre-crash Event for V1 was coded: other vehicle encroaching from crossing street, across path. The Critical Reason for the Critical Pre-crash Event was not coded to this driver. The Critical Pre-crash Event for V2 was coded: this vehicle traveling over the lane line on the right of travel lane. The Critical Reason for the Critical Pre-crash Event was coded as physical impairment of the ability to act. The medical report stated: "She is driving her car when all of a sudden she noticed multiple lights flashing sensation. The next thing she remembers was waking up in the back of an ambulance slightly confused and disoriented." Associated factors were the driver's past medical history of seizures and current medications taken for migraines and for osteoporosis.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

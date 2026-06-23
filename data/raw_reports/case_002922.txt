@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary V1, A 1995 Chevrolet Lumina Van was traveling southbound on a four lane, two way, dry asphalt roadway in daylight conditions. V2, a 1993 Chevrolet Silverado was also traveling southbound on the same roadway. V3, a 2001 Buick Lesabre was also traveling southbound on the same roadway. V3 had slowed down and V1 did not notice because he was looking at kids on the roadside. The front of V1 contacted the back of V3. V2 reported that she did not have time to stop. The front of V2 contacted the back of V1. V1 then rolled right three quarter turns before they all came to final rest in the roadway. The driver of V1 was a 52-year old male who reported that he had been driving between 82-97kmph (52-60mph) prior to the crash. He had no health related problems and had taken no medication prior to the crash. He was rested and traveling home. He was wearing his prescribed lenses that corrected a myopic (near-sighted) and hyperopic (far-sighted) condition. He sustained minor injuries and was transported to a local trauma facility. The Critical Precrash Event for the driver of V1 was other motor vehicle in lane: other vehicle in lane. The Critical Reason for the Critical Precrash Event was a Recognition Error: external distraction because he was looking at kids outside instead of at the road. Several associated factors were coded to this case including a decision error of following to closely (Did not realize he/she was too close) and surveillance error (failed to look far enough ahead). The driver of V2 was a 38-year old female who had reported that she had been traveling between 67-80kmph (41-50 mph) prior to the crash. She had no health related problems and had taken Amphex prior to the crash. She was rested and traveling to meet someone. She does not wear corrective lenses. She sustained minor injuries and refused treatment. No Critical Precrash Event and no Critical Reason were coded to the driver of V2 because she was not involved in the first harmful event. Although she did contribute to the crash by following too closely (did not realize he/she was too close). The driver of V3 was a 63-year old female who had reported that she had been stopped prior to the crash. She had no health related problems and had taken no medication prior to the crash. She was rested and traveling home. She was wearing her corrective lenses that corrected an unknown condition. She sustained minor injuries but refused treatment. The Critical Precrash Event for the driver of V3 was other motor vehicle: traveling in same direction with higher speed. The Critical Reason for the Critical Precrash Event was not coded to the driver of V3 and he\she was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other- Not involved first harmful event
+ 3 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

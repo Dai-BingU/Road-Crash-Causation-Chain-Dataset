@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash involving one vehicle happened late afternoon during daylight hours. The location was a three-lane, divided (positive barrier, six lanes overall), downhill concrete highway. The weather was clear but the roads were wet and the overpasses and bridges iced. The entire study area experienced a rainfall with freezing the entire weekend. The posted speed limit for the roadway was 97 kmph (60 mph). Vehicle one (V1), a 2001 Isuzu Rodeo driven by a 26 year-old female with three passengers, was traveling southbound in the third lane of the roadway. This lane was a designated HOV lane. It was separated from lane two by a rumble strip. While passing over an icy bridge, V1 lost control. It caused the vehicle to depart the road to its right. Its right side impacted the western wall of the bridge. V1 sideswiped along the bridge. At the end of the bridge, the driver over corrected in an attempt to steer the vehicle to the left. The vehicle rotated counter-clockwise before it rolled over onto its right side. V1 slid south bound while on its right side. It came to rest on its right side, 65 meters (213 feet) south of the end of the bridge facing east. V1 was partially in lane 1 and partially in lane 2. V1 was towed from the scene. The driver and the other three occupants, including two children restrained in child seats, were transported to local medical facility. The critical pre-crash event for V1 was coded: this vehicle control loss due to, poor road conditions (specified as: ice). The critical reason for the critical event was coded as an driver related factor: too fast for conditions (specified as: driver was traveling at 80 kmph/50 mph over an iced bridge). The driver stated she was going at 80 kmph (50 mph) when her vehicle started swerving to the left. She attempted to straighten the vehicle by steering to the right. The vehicle lost control on the iced bridge. Unlisted witnesses at the scene told police V1 was traveling in the HOV lane when the driver lost control. Overcompensation caused the vehicle to roll over after the first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :

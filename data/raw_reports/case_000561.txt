@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred in a rural area on a four-lane asphalt roadway with an extended grass median. The two southbound lanes curve right and have a downhill elevation of 6%. The speed limit for the area is 104 kmph (65 mph). The crash occurred during daylight with no adverse weather or road conditions. The officer in charge confirmed no wind was present while he investigated the crash. Vehicle one (V1), a 2004 Chevrolet Avalanche pickup towing a 4.9-meter long (16-feet) travel trailer, was southbound in the #2 lane. The driver indicated the trailer swung to the right, which the driver stated he was able to straighten out by steering towards the #1 lane, but then it swung to the left. This swing of the trailer caused the power unit to rotate in a clockwise direction. V1 departed the #1 lane in a yaw. V1's trailer began to rollover and its centrifugal forces caused the power unit if V1 to turnover. The power unit rolled left four quarter turns with the trailer remaining attached by the safety chains. V1 came to rest on the dirt shoulder on its wheels facing northwest. The trailer rolled onto its left side and came to rest on the dirt shoulder facing north. V1 was towed due to damage. The driver, a 59-year-old male, and his right front passenger, a 58-year-old female were transported due to injury. They were on their way home from a weekend camping trip and had spent the previous night in the trailer and were well rested. The driver indicated he had driven for about 80-kilometers (50-miles) when the crash occurred and he and the passenger were carrying on a conversation at this time. The driver takes Allegra & Adalat medications and wears corrective lenses. The critical precrash event for V1 was coded: this vehicle control loss due to, jackknife event. The critical reason for the critical precrash event was coded as a driver related performance factor: poor directional control (e.g., failing to control vehicle with skill ordinarily expected). As the driver was negotiating a curve, the trailer began to swing and the driver's correction of steering right with full brake application for the initial trailer swing caused the trailer to then swing in the opposite direction and eventually pulled the power unit over as the trailer rolled over.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Driver Stress/Emotion, Drugs, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Jacknife Event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

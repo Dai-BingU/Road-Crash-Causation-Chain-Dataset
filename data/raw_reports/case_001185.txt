@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a Monday in the early evening during daylight hours. It involved one passenger car at an intersection with traffic lights. The speed limit for the roadways is 64 kmph (40 mph). The road is a 4-lane divided (no positive barrier) blacktop roadway from west to east and a three lane (two way traffic) from south to north. The second lanes of the north-south roadways are left turn lanes only. A green arrow protects both left turns. The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. The only vehicle in this crash, a 1995 Ford Mustang, was traveling south in the second lane of the roadway. At the intersection the vehicle turned left into the eastbound lanes of traffic. As the vehicle completed the turn, the driver allowed the vehicle to mount the curbed median where it struck a non-breakaway pole. The vehicle came to rest adjacent to the pole on the raised median. The vehicle was equipped with front airbags that deployed at impact. The vehicle was towed from the scene. The driver was injured. He was treated at the scene but not transported. The right front occupant did not suffer any injuries. The driver was a 28 year old male traveling with a 20 year old female passenger. They were traveling from his residence to her residence. The critical per-crash event was coded: this vehicle traveling, off the edge of the road on the left side. He stated he had some concerns in his life but did not specify what they were. He was unattentive with an unknown thought focus. He said they were not conversing and he had no interior or exterior distractions while driving. The driver works 50 hours per week and had sufficient rest. He drives the route daily and said his vehicle was in good shape except for the tires and also the wheels were not properly alligned. The tires each had a tread depth of just 2 mm (3/32 of an inch) with mismatched tire pressure. The critical reason for the critical event was coded as a driver related factor: poor directional control (e.g., failing to control vehicle with skill ordinarily expected).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

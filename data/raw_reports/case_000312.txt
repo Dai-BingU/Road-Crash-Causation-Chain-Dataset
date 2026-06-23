@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a two-way, two-lane roadway. The roadway is not physically divided, and has a stop sign in the east and west directions of this intersection. The conditions were as follows: early afternoon, partly sunny, clear skies, the roadway was dry and there were no atmospheric conditions. The gradient for the two vehicles involved were all level. The posted speed limit for the two vehicles involved was 40 kmph (25 mph). Vehicle 1 (V1) was a 1994 Ford Explorer, traveling eastbound, and had a stop sign at the intersection. V1 reported to the Police that he stopped at the stop sign and looked for traffic, after looking and not seeing any he proceeded. Vehicle 2 (V2) a 1998 Toyota Sienna was traveling northbound and did not have a stop sign at the intersection. V2 struck V1 on the right front door and the right rear door. The driver of V1 was taken to a local Hospital via ambulance to be checked out. The driver of V2 did not need treatment, because she did not suffer any injuries. The Critical Precrash Event for V1 was coded as: this vehicle crossing over or passing through the intersection. The Critical Reason for the Critical Precrash Event was coded as inadequate surveillance (looked but did not see). Unfortunately, the driver of V1 would not return the researchers phone calls for a Driver Interview. This vehicle needed to be towed from the scene, due to its disabling damage. An associated factor is the large over growth of shrubs that were at the corner blocking the view of the cross street. He was on several medications for urinary track infection, pain, anticonvulsant, and muscle relaxant. The pain medication has possible side effects of light-headedness, dizziness and sleepiness. The anticonvulsant medication has possible side effects of drowsiness, fatigue, dizziness, tiredness, poor muscle control and double vision. The muscle relaxant medication has possible side effects of sleepiness, tiredness, drowsiness, dizziness, weakness and light-headedness. V2 was 1998 Toyota Sienna traveling northbound and did not have a stop sign at the intersection. This vehicle needed to be towed from the scene, due to its disabling damage. The Critical Precrash Event for V2 was coded as other vehicle encroachment from crossing street across path. The Critical Reason was not coded to this vehicle. The driver of V2, refused to give the researcher an interview. An associated factor is the large over growth of shrubs that were at the corner blocking the view of the cross street.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

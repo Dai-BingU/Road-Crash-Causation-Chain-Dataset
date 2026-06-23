@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at an intersection of a northbound interstate exit ramp and an east/west undivided roadway. The intersection was controlled by a traffic light with a pedestrian crossing. The northbound lanes were one-way both sides of the intersection. The east/west roadway was undivided with three lanes in each direction. The posted speed on this roadway was 56 kmph (35mph). The roadway was dry and level. The crash occurred on a weekday afternoon. Vehicle #1 was a 1990 Chevrolet C1500 pickup driven by a 52-year old male. V1 was traveling eastbound in the first lane of travel. As V1 approached the intersection with the northbound exit ramp, the traffic signal turned red. The driver of V1 applied the brakes and the pedal went down to the floor. The driver noted a semi truck in the third northbound lane, pulling away from the light. The driver did not want to collide with the truck, so he steered hard to the right, turning onto the one-way exit ramp. Vehicle #2, a 2004 Dodge Ram pickup, was traveling in the fourth northbound lane, intended to turn left. As V2 approached the intersection, V1 turned from the eastbound lane into his lane. The two vehicles collided head-on. They came to final rest within a few feet of the point of impact. The drivers and occupant of V1 were not injured. Both vehicles were towed from the scene due to damage. The driver of V1 reported that he was in fair health - he suffered from diabetes, high blood pressure, and back problems. He was taking medication for all three conditions. This driver reported that he was helping his nephew move to his new apartment and there was furniture in the back of the pickup. He stated that he was concerned with the furniture in the back of his vehicle so he was traveling below the speed limit. He stated that the traffic light turn red and when he applied the brakes they went to the floor. He stated that he saw the semi truck start to enter the intersection and he did not want to contact it so he steered hard right onto the one-way exit ramp. Immediately after making the turn, he contacted V2. The driver of V2 reported that he was in good health, except for having diabetes. He takes medication for this. He stated that he was on his way to buy supplies for his restaurant. He stated that as he exited the interstate, he was decelerating so he could make a left turn onto the westbound roadway. He stated that as he came close to the intersection, V1 made a right turn going the wrong way on the exit ramp and collided with his vehicle. He stated he had no time to brake or steer to avoid the crash. The Critical Pre-crash Event for V1 was coded: This vehicle traveling - turning right at intersection. The Critical Reason for the Critical Pre-crash Event was a vehicle related factor - brakes failed. The police checked V1 and verified that the brake pedal sank all the way to the floor. Associated factors coded to this driver include the medication the driver was taking, conversation with the passenger, an exterior factor (the semi), an illegal maneuver, and the fact that the vehicle was driven infrequently. The Critical Pre-crash Event for V2 was coded: Other motor vehicle in lane traveling in opposite direction. The Critical reason for the Critical Pre-crash Event was not coded to this vehicle. Other than the medication used to control his diabetes, there were no associated factors coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Drugs, Vehicle present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Motor Vehicle in Lane- Traveling in opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Brakes failed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

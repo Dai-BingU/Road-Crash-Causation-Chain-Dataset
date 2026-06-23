@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle rear-end type collision occurred on an interstate roadway that is level, slight curve to the right, concrete, and with five lanes of travel. The roadway runs east/west with improved asphalt shoulders on both sides. The speed limit is posted at 60 mph (97kmph). There were no environmental or roadway factors involved. Vehicle one (V1), a 1989 Toyota Corolla 2-door hatchback occupied only by the 20-year-old male driver, was driving very aggressively in lane 4, racing another vehicle. Vehicle two (V2), a 2002 Toyota Echo sedan occupied only by the 54-year-old female driver, was traveling in lane 3 at a slower rate of speed. There was a non-contact vehicle in lane 4 that was behind V2 in lane 3. The driver of V1 veered into lane 3 to miss the non-contact vehicle where the front left corner of V1 struck the rear right corner of V2. V1 initiated a clockwise high speed rotation as it crossed lanes 1 and 2, crossed the shoulder, left the roadway and entered the sod roadside sliding sideway, left side leading. The vehicle traveled approximately 70 meters before tripping and rolling 6 quarter turns During the roll over the right rear struck a shrub before coming to rest on its roof facing south. The vehicle traveled 30 meters from the trip point to final rest. V2 came to a controlled stop on the right shoulder. V1 was towed while V2 was driven from the scene. The driver of V1 sustained visible injuries but was not transported; the driver of V2 was not injured. The driver of V1 was a V1 was a 20-year-old male who was driving aggressively and racing another vehicle. As he came upon a slower moving vehicle in his lane of travel, the driver steered right and struck V2 where he lost control. The critical pre-crash event was coded "other motor vehicle in lane-traveling in same direction with lower steady speed". The critical reason was coded "aggressive driving behavior". The critical pre-crash event for V2 was coded "other motor vehicle in lane-traveling in same direction with higher speed". The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

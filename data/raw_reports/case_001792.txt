@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on a weekday afternoon on a fully controlled, four-lane highway, divided with a grassy median without a positive barrier. The level roadway was curved right in the southbound lanes, and left in the northbound lanes. The posted speed limit was 113 kmh (70mph). The conditions at the time of the crash were sunny, clear and dry. V1, a 2004 Ford Explorer driven by a 31 year-old female, was southbound on the road in the left travel lane. The driver had left home 42 minutes before and was on her way to a graduation ceremony. A non-contact vehicle in lane one swerved into v1's lane. V1 swerved to the left onto the shoulder, paved with a rumble strip. The driver of the Explorer steered back to the right and re-entered the roadway on the left. The driver steered back to the left again and v1 left the roadway on the left. When the left side tires got into the gravel V1 began to rotate counterclockwise and continued into the grassy median with the right front leading, down a >2% slope, and then up a >2% slope. V1 began to roll with the right side leading facing northeast into the northbound highway lanes. The front of v2 struck the left side of v1 in lane one as v1 was rolling. V1 came to rest facing southwest on its' wheels after rolling 8 quarter turns. V1 was towed from the scene due to damage, and the fully restrained driver was transported to a local trauma center. V2, a 2003 Harley-Davidson Sportster motorcycle, driven by a 19 year-old male, was northbound in lane two traveling about 65 mph, per a witness passed by v2, moments prior to the crash. V2 moved to lane one where it impacted v1. The driver and motorcycle came to rest on the right shoulder of the northbound lanes near v1. The state required helmet worn by the motorcycle driver was a 'peanut' style, without a full chin guard, which came off of the driver's head and landed off of the right side of the road. The driver of v2 sustained fatal injuries at the scene. The Critical Precrash Event coded to v1 was 'this vehicle traveling off the edge of the road on the left side.' The Critical Reason for the Critical Event coded was 'incorrect evasive action' from the previous critical event. An Associated Factor coded to this driver was for her prescribed medication for depression with possible side effects of dizziness, sleeplessness, drowsiness, tiredness and anxiety. The Critical Precrash Event coded to v2 was 'other motor vehicle encroachment from opposite direction over left lane line.' The Critical Reason for the Critical Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

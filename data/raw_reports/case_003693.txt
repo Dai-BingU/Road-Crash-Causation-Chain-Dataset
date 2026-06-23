@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-lane north/southbound undivided roadway with one lane in each direction. The roadway was straight, dry, asphalt with a 2 percent uphill slope in the northbound direction. There were no traffic control devices and the posted speed limit was 64 kmph (40 mph). The crash occurred during the morning rush hour on a weekday under clear skies. Traffic flow was moderate. V1, a 1993 Dodge Spirit four-door sedan with one occupant, was northbound in lane one. V1 traveled along the right edge of the roadway with its two right side tires for about 15 meters before completely departing the road on the right side. It then traveled approximately 11 meters along the gravel roadside before its front right struck a 30cm utility pole 2.3 meters east of the right edge of the road. The vehicle then rotated in a clockwise direction and came to rest facing southwest within two meters of the point of impact. V1 was driven by a 27-year old female who was trapped in the vehicle and received "B" injuries. She was transported to a hospital. The driver reported that she was traveling from home to work at about 72 kmph/45 mph. The driver said she saw a vehicle coming from the opposite direction, from an unknown distance. She added that the vehicle crossed the double yellow lane markers, so she moved to the right and when she did, she felt the right side tires catch the right edge of the roadway. She knew there was a ditch along the right side so she tried to steer to the left to keep her vehicle on the road. She did not go into the ditch. She reported that she could not regain control the vehicle. She said it went off the right side of the road and she applied her brakes with unknown lockup before her vehicle struck a utility pole. The Critical Pre-crash Event for V1 was this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was coded poor directional control. Associated factors coded to the driver include the use of prescription medication for depression and an exterior factor for looking at approaching traffic.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

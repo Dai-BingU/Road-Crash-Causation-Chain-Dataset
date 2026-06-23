@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of two straight side streets. One ran north/south and the other ran east/west. The east/west road was controlled by stop signs and the north/south road did not have any traffic controls. Both roads were unmarked (no painted lines). The northbound roadway had a downhill grade greater than two percent, while the east/west roadway was level. The speed limit for both roadways was 48kmph/30mph. The crash occurred in the late morning on a weekday under overcast but dry conditions. V1 was a 1999 Toyota Corolla 4-door sedan that was traveling eastbound. The driver of V1 came to a stop waiting to cross the intersection. As it entered the intersection, its front right struck the left front side of V2, a 1994 Cadillac Seville STS 4-door sedan that had been traveling north. After impact, V1 traveled forward and to its left where its right front struck a fire hydrant on the northeast corner of the intersection. V1 came to final rest at the hydrant. V2 came to rest facing northeast on the east/west road near V1. V1 was towed from the scene, and V2 was driven away. V1 was driven by a seventy-nine-year-old-belted-female who was not injured in the crash. She was on her way home from work at the time of the crash. The driver reported that she stopped at the stop sign and did not see anyone coming, so she proceeded into the intersection. She claimed that V2 must have been speeding. She also claimed that a willow tree on her right blocked her view of northbound traffic. The Critical Pre-crash Event for V1 was this vehicle traveling, crossing over (passing through) an intersection. The Critical Reason for the Critical Event was coded as inadequate surveillance, looked but did not see. There was a willow tree that partially blocked the driver's line of sight to the right. The driver of V1 had high blood pressure and was taking several medications at the time of the crash. V2 was driven by a thirty-two-year-old-belted-female who was uninjured in the crash. She was cited by police for driving on a suspended license. She also stated that she was running late for her next class coming from a friend's home. She appeared drowsy during her on-scene interview. The Critical Pre-crash Event for V2 was other vehicle encroachment from crossing street, across path. The Critical Reason was not coded to this vehicle. The driver was coded as fatigued due to lack of sleep and on scene demeanor. This driver also mentioned the willow tree as a sightline restriction. Other associated factors were the fact that this driver admitted being in a hurry and a vehicle related tire deficiency due to mismatched tires and low tread on the left front tire.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Fatigue, Driver Stress/Emotion, Roadway, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

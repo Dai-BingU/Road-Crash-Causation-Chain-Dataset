@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekday in the westbound lane of a two-lane undivided roadway. This roadway had an uphill grade of 6 percent and curved sharply to the left. The posted speed limit was 56 kmph (35 mph). It was early in the evening but still daylight, the road was dry, and conditions were clear. V1, a 2003 GMC Yukon utility vehicle, was driven by a 40-year old male. V1 had just exited a sharp right hand curve and was proceeding up the hill before entering a sharp left hand curve. V1 departed the roadway to the right before it entered the left hand curve. It continued around the curve on the shoulder/roadside where it struck a tree on the right side of the roadway. The vehicle continued through its arc to the left and contacted several mailboxes on the right side of the roadway. It then re-entered the roadway and crossed the entire roadway to the left, exiting the left side of the roadway. After leaving the roadway, it went through a split rail fence and came to final rest. The Critical Pre-crash Event for V1 was "this vehicle traveling off the edge of the road on the right side." The Critical Reason for the Critical Pre-crash Event was poor directional control. The driver claimed that he had swerved in an attempt to miss a deer. There is no evidence to support this statement, as there are no skid marks from an abrupt direction change, and the marks that were present did not appear to have come from an evasive maneuver. The vehicle's EDR revealed that two seconds before impact, the driver of V1 accelerated rather than braked. It appears as though he never used his brakes to slow his vehicle down or while attempting to return to the roadway. The driver was charged with DUI after he was administered a Breathalyzer test that showed a BAC of 0.22. He reported that he suffered from constant stress for which he was taking Lexapro, and he also reported having high blood pressure, for which he also takes medication. He was overweight at approximately 400 lbs, and also has astigmatism. Associated factors coded to this driver include alcohol intoxication, inattention, traveling too fast, being upset, and work stress. Another associated factor coded was a roadway-related factor in that the curve was posted at too high a speed to accommodate its sharp curve. Calculations indicated that the posted speed on the curve should have been no more than 20 mph.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Distraction, Driver Performance, Driver Physical, Driver Stress/Emotion, Drugs, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

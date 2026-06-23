@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a five-lane roadway. There were two lanes westbound and two lanes eastbound divided by a left turn only lane. The roadway was straight, level, dry, asphalt with a posted speed limit of 72kph (45mph). It was early afternoon on a weekday with clear sunny weather condition. Traffic flow was congested with stop-and-go activity. V1, a 2001 Ford Explorer two door with one occupant, was traveling westbound in lane one. V2, a 2003 Suzuki Aerio four door with one occupant was also westbound in lane ahead of V1. V3, a 2003 Lexus LS430 four door with two occupants was also stopped, due to heavy traffic ahead, westbound in lane one ahead of V2. V2 was stopped about 1.2m behind V3. V1 attempted to stop but ran into the rear of V2 knocking it into the rear of V3. All vehicles came to rest in the same lane facing west.. V1, the Ford Explorer was driven by a 20-year old male who was not injured. He reported that he was on the way home from work and was traveling 16-32kph (10-20mph). The driver said he saw traffic stopped ahead of him and applied his brakes. He added that when he did so an ice-scrapper that he had earlier placed on the floorboard under his seat slid out. It slid forward under the brake pedal and it prevented him from applying the brakes fully. As a result he was unable to stop and ran into the rear of V2 with the front of his vehicle. V1 was not towed. The Critical Pre-crash Event for V1 was “other motor vehicle in traffic lane stopped ahead”. The Critical Reason for the Critical Event was coded “inattention”. The driver had previously decided to place an unsecured ice scrapper under his seat. The driver's statement that the ice scraper prevented him from applying the brakes fully, though possible, was deemed less of a factor than his pre-crash speed and or attention to other traffic. Associated factors coded for this vehicle included driver emotional work related stress and the highway traffic flow - stop and go activity, driver inattention - thought focus unknown. V2, the Suzuki Aerio was driven by a 61-year old male who received possible injuries and was transported to a hospital. The driver said he was on his way to lunch after a workout at the gym. He added that he had been completely stopped for about 10 seconds with his foot on the brakes when he suddenly was struck from behind by V1. He said he did not know that the crash was imminent. The impact knocked his vehicle forward about 1.2m into the rear of V3 with the front of his vehicle. V2 received heavy rear end damage that required it to be towed. The Critical Pre-crash Event for V2 was other motor vehicle in lane traveling in the same direction while decelerating. The Critical Reason for the Critical Event was not coded for V2. This vehicle was coded for an associated factor of highway traffic flow - stop and go activity. The researcher noted that the driver of V2 refused to answer any questions relating to medication or his health so he could not determine if they were associated factors. V3, the Lexus LS430 was driven by a 38-year old female who was not injured. Her infant child secured in a child seat in the left rear of her vehicle was also not injured. This driver also said she had been stopped with her foot on the brake for about 10 seconds. She was not aware that a crash was imminent. The driver said she felt a slight jolt from the impact of V2 striking the rear of her vehicle. V3 was not towed. The Critical Pre-crash Event and the Critical Reason for the Critical Event were not coded for V3 since it was not involved in the first harmful event. This vehicle was coded for an associated factor of highway traffic flow - stop and go activity.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion, Traffic present problem 
+Vehicle 2:  Drugs, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

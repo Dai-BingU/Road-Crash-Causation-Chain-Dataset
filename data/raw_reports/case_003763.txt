@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at an intersection of a 3-lane one-way street and an undivided 4-lane roadway with 2 lanes in each direction. This intersection was controlled by traffic signals. The posted speed on both roadways was 40 KMPH (25 mph). The southbound one-way roadway had a downhill grade of 4 percent while the east/west roadway was level. The crash occurred in the early evening hours while still daylight. Vehicle 1 was a 2000 Chevrolet Venture minivan that was traveling south in the first lane of travel. Vehicle 2 was a 2006 Honda Accord coupe that was traveling west in the first lane of travel. Both vehicles were approaching the intersection at approximately the same time. V2 had the green light. V1 was driven by a 24-year old male who was driving his brother home. As he neared the intersection, he looked down and to his right to pick up a juice bottle that had fallen over. He heard his brother say, "Oh, no," and he first looked at his brother and then at the intersection. At the last second, he saw V2 crossing in front of him, from left to right. He had no time to react and the front of V1 struck the right side of V2. V2 was driven by a 28-year old female. As she approached the intersection, she noted V1 approaching from the north but thought it would stop. Upon entering the intersection, V2 was struck by V1. After impact, V2 rotated counterclockwise and skidded to the southeast curb of the southbound lanes. V1 came to rest in the second southbound lane. Both drivers and the occupant of V1 were checked out by the EMS unit on scene and released. Both vehicles were towed due to damage. The driver of V1 reported that he was in good health and was not taking any medication. He does not wear corrective lenses. He admitted that he was driving with a suspended license. He stated that he was going to drop off his brother at their mother's home before the crash occurred. He said that by the time he saw V2 it was too late to take any avoidance maneuvers. The driver of V2 reported that she was in good health and not taking any medications. She does not wear corrective lenses. She stated that she was on her way home from school. As she approached the intersection, she had noted the southbound vehicle and thought it would stop. She had no time to take any avoidance maneuvers. The Critical Pre-crash Event for V1 was coded: this vehicle crossing over (passing through) intersection. The Critical Reason for the Critical Pre-crash Event was coded: internal distraction. Associated factors coded to this driver include conversation with the passenger, inadequate surveillance for not looking at the traffic signal, an illegal maneuver, and excess speed. The EDR indicated that within 5 seconds of the crash, V1's travel speed was 37 mph in a 25 mph zone. The Critical Pre-crash Event for V2 was coded: other vehicle encroachment from crossing street, across path. The Critical Reason was not coded to this vehicle. One associated factor coded to this driver was a false assumption of other road user's actions, because the driver of V2 did see V1 approaching the intersection, but assumed that it would stop. The witness stated that he was walking north on the east sidewalk on the north side of the intersection. As he heard heavy braking he looked to his left to see V1 entering the intersection on a red light. He saw V1 strike the right side of V2. He said that he called 911 and then checked to see that everybody was alright.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

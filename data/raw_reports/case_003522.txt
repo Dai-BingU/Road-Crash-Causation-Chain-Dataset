@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at a four-legged intersection in the southbound lane of travel. All four approaches to the intersection were two-way, two-lane. The east and westbound approaches were controlled with stop signs and had a 40 kmph (25 mph) speed limit. The southbound approach came after a hillcrest and had an intersection ahead warning sign as well as a 56 kmph (35 mph) advisory limit. The posted speed for north and southbound travel was 72 kmph (45 mph). Westbound approach was on a 3% downhill grade while the southbound approach was on a 4% downhill grade. Conditions were dark with rain. The setting was late evening hours on a weekday holiday. Vehicle one was a 2001 Isuzu Rodeo compact utility stopped facing west in lane one at a stop sign. Vehicle two was a 2003 Ford Explorer sport utility traveling southbound in lane one. Both vehicles proceeded through the intersection. The right plane of V1 was impacted by the front plane of V2. V1 subsequently traveled off the south west corner of the intersection and rolled over into a ditch, coming to rest on its top. V2 also traveled off the southwest corner of the intersection into a ditch. The Isuzu Rodeo (V1) was driven by a 35-year old male who was transported to a local trauma center with possible injuries. He stated that he was just leaving a friend's party to go home. His wife was helping him use a GPS navigation system since this was their first time on the roadway. He claimed they looked both ways, but fog and rain prevented him from seeing V2. He estimated his travel and impact speeds to be 8 kmph (5 mph). The Isuzu compact utility was towed due to damage. The Critical Precrash Event for V1 was this vehicle traveling crossing over an intersection. The Critical Reason was a driver related factor of inadequate surveillance (looked but did not see). This driver was occupied with talking to his wife and using a GPS system. It was his first time driving on this roadway. The tread depth of his tires was inadequate. The Ford Explorer (V2) was driven by a 51-year old male who suffered possible injuries but was not transported. He stated that he was heading home with his family after visiting a relative when another vehicle crossed the road ahead of him without warning. He didn't have a chance to react. His estimated travel and impact speeds were 72 kmph (45 mph). The Ford sport utility was towed due to damage. The Critical Precrash Event for V2 was other vehicle encroachment from crossing street across path. The Critical Reason was not coded to this vehicle. This driver was talking to his passengers at the time about the holiday. The tread depth on this vehicle's tires were also low.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Roadway, Surveillance, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Distraction, Roadway, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

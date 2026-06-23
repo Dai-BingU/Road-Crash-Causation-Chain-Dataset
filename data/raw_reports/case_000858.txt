@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of a southbound one-way and a westbound one-way roadway. The roadway was straight and level, and it was clear with no adverse conditions. It was daylight and the roadway condition was dry. Vehicle # 1 was a 1998 Ford Windstar that was traveling southbound on the right turn lane making a right turn when the front of Vehicle # 1 impacted the right side of Vehicle # 2, a Ford E-Series Van that was traveling on the same roadway and attempting to make a right turn from the left lane. The Ford Windstar (Vehicle # 1) was driven by a 64 year-old male who did not sustain any injuries. The driver stated that he was making a right turn when the right side of Vehicle # 2 impacted the front of his vehicle. The Ford Windstar was towed due to damage. The Critical Pre-crash event for Vehicle # 1 was coded as: Other vehicle encroaching into lane, from adjacent lane (same direction) over the left lane line. The Critical Reason for the Critical event was not coded to the driver. He was wearing sunglasses and prescription contacts that corrected a hyperopic (far-sighted) condition. The driver of the Windstar was not thought to have contributed to the crash. The Ford E-Series Van (Vehicle # 2) was driven by a 35 year-old male who did not sustain any injuries. Vehicle # 2 was occupied by seven passengers who also did not sustain any injuries. The driver declined to participate in the study. The Critical Pre-crash event for Vehicle # 2 was coded as: This vehicle traveling, over the lane line on the right side of travel lane. The Critical Reason for the Critical Event was coded as an illegal maneuver. The associated factors were all coded as unknown.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 2 ：This Vehicle Traveling- Turning right at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

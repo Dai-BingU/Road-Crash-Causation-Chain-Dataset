@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single run off road crash occurred mid-afternoon during daylight hours. The location was a four-lane undivided (two-way traffic) straight asphalt level roadway. The weather was clear and the roads dry. The posted speed limit for the roadway was 48 kmph (30 mph). Vehicle one (V1) a 1995 Nissan Quest mini-van driven by a 46 year-old male drove off the road to the right. The front of V1 impacted a tree located south of the roadway. V1 slightly rotated counter clockwise around the tree where it came to rest, facing east. The vehicle was towed from the scene. The driver stated another vehicle encroached into his lane from the left and ran him off the road. The driver seemed fatigued and nervous at the scene. He admitted he had only 4 hours of sleep the previous night. He said he came from a nearby place where he loaded up some household goods someone gave away for free and was on his way to sell his vehicle at a private location. Although he said he was not fatigued and did not take any medication, it seemed rather likely he was. Skid marks found at the scene indicate he was able to apply the brakes prior to the impact with the tree. The police officer on scene saw the previous damage on the vehicle and suggested the driver had minor crashes with minor damage before. He too, questioned the driver for illness, possible earlier seizures or use of medication. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason was coded to V1 as a driver related factor: poor directional control (e.g. failing to control vehicle with skill ordinarily expected). Associated factors: fatigue or possibly even falling asleep.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Inexperience, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

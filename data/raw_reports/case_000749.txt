@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a two lane, two way, straight, bituminous, rural, roadway. At the time of the late afternoon, weekday crash, it was cloudy but the roadway was dry. The un-posted speed limit was 89kmph(55mph). V1, a 1994 Toyota Paseo 2 door solely occupied by the 19 year old female driver, was exiting, (turning left), from her own level, gravel/slag, residential driveway. V2, a 2002 Jeep Liberty driven by an 81-year-old male with an adult female passenger, was eastbound in lane one of the two-lane roadway traveling at approximately 72kmph(45mph). As v1 began to turn left v2 braked but was unable to avoid contacting v2 on the left front with it's front. V1 rotated clockwise and came to rest facing east- northeast on the south shoulder of the road. V2 came to rest facing east on the south side of the road. Both vehicles were towed. The driver of v1 and the passenger of v2 were injured and transported. The driver of v1 stated that she had pulled up close to the roadway so she could look both directions before pulling out to turn left. As she looked to the right her cell phone, which was sitting on the front passenger's seat, rang and she looked at it and reached to pick it up. Before she could answer it she realized that she had begun pulling out onto the road and before she could take any avoidance actions was struck by v2. She stated that she “surprised to see v2 coming at her” as she did not realize that she had entered the roadway. The Critical Precrash Event for v1 was “ this vehicle traveling, turning left at intersection” and the Critical Reason for the Critical Pre-crash Event was a Driver Related Factor of inadequate surveillance (e.g., failed to look, looked but did not see). Associated factors which may have contributed to the crash for v1 include the driver's poor directional control, the driver's focus distraction) on an internal object, the cell phone, and her inadequate surveillance (failure to look left). The driver of v2 stated that he was eastbound doing about 72kmph(45mph) on his way to go out to dinner with his passenger when he saw v1 come out to the end of the driveway, up ahead and on his right, and stop. Just before he got to the driveway v1 pulled out and began to turn left. The driver of v2 braked but did not swerve left as there was an oncoming car. The Critical Precrash Event for v2 was Other Vehicle Encroachment “from driveway, turning into opposite direction”. The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. Associated factors for this vehicle may have been the driver's age and his physical condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

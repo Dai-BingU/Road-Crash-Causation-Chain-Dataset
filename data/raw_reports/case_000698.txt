@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in southbound lanes of a one-way, two-lane, undivided interstate roadway. The roadway was an interchange area, and was an exit from one interstate to the entrance of another. This was a straight, level, asphalt roadway, with a posted speed of 105 kmph (65 mph). Conditions were daylight on a weekday afternoon with dry roads and clear skies. Traffic flow was normal. V1, a 2002 Honda Accord with one occupant was traveling southbound in lane one. V2, a 2002 Ford F150 with one occupant, was traveling southbound ahead of V1, also in lane one. V1 changed lanes to the left, to pass slower moving traffic. V1 continued to travel in lane two, approaching a van traveling in the same lane. The van suddenly slowed due to congested traffic. V1 quickly changed lanes to the right, to avoid the van. As a result, the front of V1 made contact with the left side of V2, causing the back end of V2 to lift off of the pavement. V2's driver was able to regain control of the vehicle. V1 started to rotate clockwise after impact. As the vehicle rotated, the left side of V1 made contact with a third, unknown vehicle that was not listed on the police report. V1 then traveled off the left side of the roadway into a vegetated separator (grass swale). V1 came to final rest on the separator, facing east, near a palm tree. V1 was towed due to damage. V1, the Honda Accord, was driven by an 18-year old male, who was not injured. He stated that he had just left his friend's house to do an errand for his brother, before going to class. The driver started out in lane one (right lane), but merged to the left lane to pass a slower moving vehicle. Within seconds, the driver caught up to traffic in lane two as well. He was about to make a lane change, when the van in front of him suddenly applied its brakes. The driver indicated that he made an abrupt lane change to avoid rear-ending the vehicle in front of him. The Critical Precrash Event for V1 was "this vehicle traveling, over the lane line on right side of travel lane". The Critical Reason for the Critical Event was a driver-related decision error, “too fast to be able to respond to unexpected actions of others”. Associated factors for this driver included aggressive driving, being in a hurry, and driver inexperience. It was also the driver's first time driving the vehicle. V2, the Ford F-150, was driven by a 63-year old male, who was not injured. He stated that he was going southbound in lane one. The driver indicated that he never saw the other driver coming. The driver believed that he was hit twice, because he felt his vehicle lift off the ground, and did not think that the side impact would have done that. However, there was no damage to the back of V2. He said he had to fight the wheel, but was somehow able to regain control of his vehicle. The Critical Precrash Event for V1 was "other vehicle encroachment, from adjacent lane, over the left lane line". The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Driver Inexperience, Driver Stress/Emotion, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 2001 Ford F150 crew cab pickup truck driven by a 59 year old male, was northbound on a straight, level, 2 lane, 2 way, bituminous, residential street stopped at a stop sign. V2, a 2004 Chevrolet Blazer 4 door driven by a 67-year-old male, was westbound in lane 1 of a 2 lane, 2 way, straight; level, through street with a speed limit of 40kmph/25mph not controlled by a stop sign or signal. At the time of the early afternoon crash, the roadway was dry and the weather was clear. V1 stopped at the stop sign, looked right, looked left and saw an approaching vehicle that he thought he could beat so he proceeded straight across the intersection. He never saw v2 approaching from his right. V1, front, contacted v2, left. V1 rotated 1/8 turn counterclockwise and came to rest facing west. V2 rotated counterclockwise while sliding to its right, struck a curb with its wheels, overturned 1-quarter turn to the right and struck a utility pole with its right rear. V2 came to rest lying on its right side facing southeast. Both vehicles were towed and the driver of v2 was injured and transported. A complete driver interview and vehicle inspection was obtained for v1. The Pre-event movement of v1 was stopped in traffic lane, the Critical pre-crash event was This vehicle traveling-crossing over (passing through) intersection and the Critical reason for the critical pre-crash event was the driver related factor of inadequate surveillance. Some factors leading to the cause of the crash on the part of the driver of v1 include his unfamiliarity with the intersection (he was taking a different route through town to avoid construction) and fatigue. He had gotten up at 04:20, gone to work, been sent home early due to lack of work (which he liked) and gone for a ride on his motorcycle. His motorcycle had broken down and he had had to deal with getting it towed home. He was on his way to a cycle shop in a nearby town for parts to repair it when this crash occurred. A complete driver interview and vehicle inspection was obtained for v2. The Pre-event movement of v2 was going straight, the Critical pre-crash event was Other vehicle encroachment from crossing street across path and the Critical reason for the critical pre-crash event was not coded to this vehicle. It was discovered that v2 was slightly exceeding the posted speed limit but not enough to be a factor in the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Inexperience, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

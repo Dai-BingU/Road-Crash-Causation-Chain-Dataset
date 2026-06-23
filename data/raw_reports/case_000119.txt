@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a two-way, two-lane residential roadway. The roadway had a posted speed limit of 56 kmph (35 mph) and an 8% uphill grade in the eastbound direction. Conditions were daylight and cloudy with a wet roadway surface from earlier precipitation. The setting was morning hours on a weekday. Vehicle one was a 1991 Honda Accord sedan traveling eastbound in lane one up the hill. There were several parked cars on both sides of the roadway along this residential street. V1 collided with a parked car on the right side of the road, impacting the parked car's left rear quarter panel with the right plane. V1's right front wheel impacted the parked car's left rear wheel in a ramp-like manner which caused v1 to roll left onto its left plane, coming to rest in the roadway. The Honda Accord was driven by a 24-year old female who was uninjured. She stated that she was on her way to work and was sorting through her purse with her right hand. She was not watching the road, and was suddenly jolted by the forces of the collision. She was not aware of the crash circumstances and was not able to implement an avoidance maneuver. Her sedan was towed due to damage. The Critical Precrash Event for v1 was another motor vehicle in the lane stopped. The Critical Reason was a recognition error caused by an internal distraction. One associated factor coded to this driver was inadequate surveillance, in that she failed to look far enough ahead down the street prior to rummaging through her purse.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This intersection-related crash occurred in the afternoon of a weekday in the eastbound lanes of a two-way, four-lane roadway, divided by a curbed median. The bituminous roadway was dry, straight, and level with a posted speed limit of 64 kmph (40 mph). There were no adverse atmospheric conditions but the traffic flow was congested, because a drawbridge that was up and road construction further up from the crash site. V1, a 1999 Mercedes-Benz ML320 with two occupants, was eastbound in lane two. V2, a 1991 Ford E350 cargo van with one occupant, was eastbound ahead of V1, also in lane two. V1 and V2 were stopped in traffic, waiting at a drawbridge that was up. When the drawbridge went down, traffic started to move. V2 began to accelerate behind V1. Before reaching the bridge, traffic came to a sudden stop. The front of V1 struck the back of V2. Both vehicles came to final rest near the point of impact. V1 was towed due to damage while V2 was driven from the scene. The driver of V1, a 39-year old female, was treated on-scene for minor injuries. She stated that she was on her way to pick up her son from school. She explained that her nanny usually picks up her son, but was out sick. The driver indicated that she was running late and was in a rush to get to the school on time. According to the driver of V1, the other driver was accelerating in an attempt to beat the drawbridge gates as they came down, and then stopped suddenly when he realized he was not going to make it. She did not have time to react, because the other driver slammed on his brakes. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Event was a driver-related decision error, traveling too fast to respond to unexpected actions of other (V2 suddenly stopping). One associated factor for this driver was the false assumption that the other driver would continue to proceed. Another associated factor was the driver being in a hurry because she was late picking up her son. The traffic flow congestion due to the road construction was also coded. The driver of V2, a 40-year old male, was not injured. He stated that traffic was stopped for a drawbridge. Traffic temporarily started to move again when the bridge went down. The driver said he managed to accelerate to about 40 kmph (25 mph) before traffic came to a sudden halt. He hit the brakes and quickly and came to a stop. He looked in his rearview mirror and knew right away he was going to get hit. In his words, it wasn't more than a blink of the eye from the time he came to a complete stop to the time he got hit. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. The only associated factor coded to V2 was the traffic flow congestion caused by the road construction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Stress/Emotion, Drugs, Speed/Distance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

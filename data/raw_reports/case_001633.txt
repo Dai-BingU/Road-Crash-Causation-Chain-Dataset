@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at a four-way intersection in the eastbound lanes of a six-lane, urban roadway. The roadway had a posted speed limit of 56 kmph (35 mph). Both the westbound and eastbound lanes had a 2% downhill grade approaching the intersection. Conditions were daylight and dry with clear skies. The crash occurred in the early afternoon hours on a weekday. Vehicle one was a 1999 Toyota Solara coupe traveling westbound in lane four, a left turn lane. Vehicle two was a 1996 Dodge Ram 1500 pickup traveling eastbound in lane three, a through lane. V1 proceeded to turn left while V2 was going straight through the intersection. The right side of V1 was struck by the front of V2. Both vehicles came to rest in the southeast corner of the intersection. V1 was driven by a 29-year old female who was transported to a local trauma center with non-incapacitating injuries. She was unable to be contacted for an interview. The investigating officer estimated her travel and impact speeds to be 15 mph. V1 was towed due to damage. The Critical Precrash Event for V1 was this vehicle turning left at an intersection. The Critical Reason was an unknown driver error. The medical report listed positive lab results for both cocaine and marijuana. V2 was driven by a 29-year old male. He said he was going straight through a green light when V1 turned in front of him. He estimated his travel and impact speed to be 45 mph. V2 was towed due to damage. The Critical Precrash Event for V2 was other vehicle encroaching from opposite direction over left lane line. The Critical Reason was not coded to this driver. Due to the fact that the driver of V2 admitted that he was traveling at 45 mph in a 35 mph zone, excess speed was coded as an associated factor.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+Vehicle 2:  Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lane of a two-lane, T-intersection roadway. Conditions were daylight and dry at 8:58 am on a Monday afternoon. The roadway had a posted speed of 40 MPH and was level. There was a road department truck in the center of the double-yellow line approximately 100-150 feet north from point of impact. V1 was a 1994 Dodge 350 Ram Van going straight in the northbound lane. V2 was a 1992 Toyota Camry sedan traveling south in the southbound lane. V2 made a left turn in front of V1 and the front of V2 struck the left side of V1 in the northbound lane. The impact rotated V2 180 degrees and came to final rest in the northbound lane. V1 came to final rest against the apex of the northeast curb. V1 was driven by a 55-year-old female who was transported to a local hospital with minor injuries. She had stated that she was going straight, about 40 MPH, and saw V2 turn into her direction. She immediately braked. V1 was towed due to damage and had a CDC of 10LYEW1. The critical pre-crash event for V1 was when V2 encroached into her lane from the opposite direction, over the left lane line. The critical reason for the critical event was not coded to this vehicle. The driver of V1 was not thought to have contributed to the crash. The van also had two other occupants, both refusing medical attention. V1 was driven by an 89-year-old male who was not injured. He had stated that he was going straight and saw the road department truck and was distracted by them. Soon after, he made a left turn and struck V1. He was traveling less than 5 MPH at the time of impact. V2 was towed due to damage and had a CDC of 12FDEW1. The critical precrash event for V2 was when V2 was turning left. The critical reason for the critical event was when V2 had inadequate surveillance (looked but did not see). The driver of V2 is currently taking four medications (Coamadin, Procardia, Rynotan & Phyllocontin) each day for high blood pressure and chest decongestion. He was wearing his prescription glasses that corrected a farsighted condition. He was also wearing his hearing aid in his right ear. The driver of V2 was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic present problem 
+Vehicle 2:  Distraction, Driver Physical, Drugs, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

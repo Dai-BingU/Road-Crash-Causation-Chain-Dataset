@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a two-way, undivided roadway. The roadway had a posted speed of 40 kmph (25 mph) and a level grade at the impact location. Conditions were daylight and dry with clear skies. The crash occurred in the early afternoon hours on a weekday. Vehicle one was a 1996 Chevrolet Blazer sport utility vehicle traveling eastbound. Vehicle two was a 1995 Mazda Millenia sedan traveling westbound negotiating a right curve. V2 was speeding and lost control exiting the curve. V2 began fishtailing and traveled into the eastbound lane. The front of V1 contacted the front of V2. Both vehicles came to rest in the roadway. Vehicle one was driven by an 18-year old male who was untreated but suffered possible injuries. He stated that the other vehicle came around the curve fishtailing and then collided head on. He estimated his speed to be 30 mph at impact. V1 was towed due to damage. The Critical Precrash Event for V1 was the other vehicle encroaching into his lane from the opposite direction over the left lane line. No Critical Reason was coded to this driver. One associated factor was coded to this driver - traveling too fast for conditions. When interviewed, he reported his speed to be 30 mph at impact. The posted speed limit was 25 mph, and police estimated his speed at impact to be 35 mph. Vehicle two was driven by a 14-year old male who was transported to a local trauma center with possible injuries. The driver could not be located for an interview, but the investigating officer estimated his speed at impact to be 45 mph. V2 was towed due to damage. The Critical Precrash Event was this Vehicle 1's control loss due to traveling too fast for conditions. The Critical Reason was aggressive driving behavior consisting of speeding. In addition to traveling too fast for the roadway and aggressive driving, an associated factor coded to this driver was inexperience, as he was 14 years old and driving without a license. No other factors could be coded since the driver could not be located for an interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance present problem 
+Vehicle 2:  Aggressive Behavior, Driver Inexperience, Driver Performance, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Aggressive driving behavior

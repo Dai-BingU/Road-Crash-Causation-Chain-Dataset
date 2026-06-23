@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred just after noon in the number two lane of six southbound travel lanes of an urban expressway. The right lane on the expressway is the start of an exit ramp, however it does not apply to the crash. The speed limit on the expressway was 88 kmph (55 mph), and there were no adverse weather conditions or roadway restrictions. Vehicle one (V1), a 2003 Mercedes Benz with one occupant, was traveling southbound in the second lane. Vehicle two (V2), a 1993 Honda Accord with one occupant, was in lane two and was braking & decelerating due to forward stopped traffic. Vehicle three (V3), a 2001 Lexus RX300 with one occupant was stopped in traffic, ahead of vehicle two. Event one occurred when the front of V1 impacted with V2's back. Event two occurred when V2 was pushed forward after event one, and its front plane impacted with the back of V3. The driver of V1 is a forty-year-old female who drives this road daily. The driver was evasive during the interview and could not recall her precrash travel speed, although she did indicate that she had no intentions to change lanes nor attempted to change lanes prior to the crash. She indicated that she attempted to apply her brakes. She stated she was not conversing, nor did she have any interior or exterior distractions and was looking straight ahead prior to the crash. She was a realtor who had just shown one house and was on her way to another work related appointment for which she had to be at a specific time. Due to unknown recognition reasons she did not apply the brakes until it was too late to avoid the crash. It was reasoned that since the driver was attentive, she misjudged the speed of the forward vehicle and did not look far enough ahead to realize that forward traffic was stopping. The Critical Pre-crash event for V1 was coded: other motor vehicle traveling in lane, traveling in same direction while decelerating. The Critical Reason for the Critical Pre-crash Event was coded to the driver of V1 as a decision error: misjudgment of gap or other's speed. The driver of V2 was a 21-year-old female student who drives the road daily and was on her way to school. She has asthma as a medical condition and uses an unspecified inhaler for this condition. When interviewed, the driver stated, “I was rolling to a stop due to traffic ahead”. This may indicate that she was not braking and with no brake lights on, the driver of V1 may have assumed V2 would continue to proceed. The Critical Pre-crash event for V2 was coded: other motor vehicle traveling in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Pre-crash Event was coded to V2 and V3 as: critical event not coded to this vehicle. The driver of V3 was a 60-year-old male who had stopped in the traffic lane due to forward congested traffic. He was on his way to lunch when the crash occurred and there were no notable factors for this driver other than being stopped in the congested traffic. V3 was not involved in the 1st crash event. The Critical Pre-crash event for V3 was coded: Other, not involved first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance, Surveillance, Traffic present problem 
+Vehicle 2:  Drugs, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

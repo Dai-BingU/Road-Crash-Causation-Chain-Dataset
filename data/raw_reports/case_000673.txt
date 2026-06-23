@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary Case #2005-45-139 The crash occurred at the intersection of an east/west urban arterial road and a four-lane side street. The intersection was controlled by traffic signals. The arterial had two lanes and a left turn lane in each direction divided by a raised curb median. The north/south side street had one through lane and turn lanes in each direction. The posted speed limit was 48kph (30mph) on the side street and 72kph (45mph) on the arterial road. Conditions were daylight and dry on a weekday afternoon. Vehicle #1 was a 1993 Chevrolet Cavalier traveling north on the side street. Vehicle #2, a 1995 Chrysler LHS, was westbound on the arterial. The Cavalier (V1) attempted to cross the intersection and was struck on the right side by the front of the Chrysler (V2). After impact Vehicle #1 rotated clockwise and came to rest facing south on the north side of the intersection. Vehicle #2 continued west coming to rest in the eastbound turn lane facing west. Both vehicles were towed due to damage. Vehicle #1 was operated by a 39-year old female that was belted and not injured in the crash. There were three other occupants in the car; an 80-year old female, a 45-year old female, and a 2-year old female restrained in a child seat in the back left. All were belted and not injured. Police charged the driver with disregarding a red light. The Critical Precrash Event for Vehicle #1 was this vehicle passing through intersection. The driver denied passing through the control, she said she had the green light. Although she answered all the questions she was generally uncooperative with police and NASS researcher and her statements were deemed unreliable. Inattention was coded as the critical reason for the critical event. The only associated factor that could be positively coded was illegal maneuver. Vehicle #2 was driven by a 21-year old female that was belted with deployed frontal airbags. She was transported to an area hospital with minor injuries. The Critical Reason for the Critical Event was other vehicle encroaching from crossing street across path. The Critical Reason for the Critical Event was not coded to this vehicle. No Associated factors could be coded, the driver refused interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

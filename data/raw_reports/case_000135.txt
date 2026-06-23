@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred on a six-lane asphalt roadway with a center two-way left turn lane. The roadway curved left for westbound traffic and was on a downhill grade. The crash occurred during daylight with no adverse weather or road conditions. The speed limit at the crash location is 72 kph (45 mph). Vehicle one, a 2001 Chevrolet Cavalier was westbound in the first lane when it departed the right road edge and impacted a guardrail with its front bumper plane. . Vehicle one then traveled under the guard railing, impacting both the roof and the trunk lid and with its right front end plane contacted a metal post support of a road sign. Vehicle one traveled forward and down a steep embankment contacting a tree with its right plane. Vehicle one was towed due to damage. The driver of vehicle one, an eighteen-year-old male driver stated his right front tire jerked to the right and he could not correct it by steering to the left. There was no scene evidence to indicate this and inspection of the vehicle revealed no obvious malfunction of the right tire. The police report confirms this as well. The driver could not give a clear time or amount of sleep he had the night before or that morning. During the interview he was confused as to the time of day and was very nervous and frightened. Police testing revealed he was under the influence of illegal drugs. There were two witnesses to the crash. Witness one was driving westbound in the second lane next to one. She stated it appeared the driver had fallen asleep. Witness two was also traveling westbound in the second lane behind witness one and stated that vehicle one just drove off the right road edge. The critical pre-crash event for vehicle one was coded "this vehicle traveling: off the edge of the road on the right side". The critical reason for the critical pre-crash event was coded "driver related factor: sleeping, that is, actually asleep".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

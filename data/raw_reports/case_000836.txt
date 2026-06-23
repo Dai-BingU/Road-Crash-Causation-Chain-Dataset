@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred during the late afternoon hours. The weather was clear and it was daylight. The roadway was an urban, bituminous, four lane divided interstate with paved shoulders on both sides and a guardrail on the inside median divider. There is a 2% negative grade for the approach and area of impact. The posted speed limit 97 kmph ( 60 mph). Vehicle one (V1), a 2000 Chevrolet Silverado LS extra cab pickup, driven by a 47 year-old male was traveling eastbound in lane two. The driver looked in his left side rearview mirror to prepare to make a lane change. When the driver looked back forward to the roadway vehicle two (V2), a 2004 Chevrolet 1500 Suburban driven by a 36 year-old female with two passengers, had move into the lane and was directly in front of V1. The driver was unable to stop and struck the rear of V2. V1 stopped on impact in it's original traffic lane. V2's driver pulled to the right shoulder and stopped. V1 was towed due to damage. V2 was driven from scene. Vehicle two (V2), a 2004 Chevrolet 1500 Suburban, was traveling eastbound in lane one just ahead of V1. V2 changed lanes into lane two and slowed for traffic ahead. V1 struck the rear of V2. On impact V2's driver pulled to the right shoulder and stopped. V2 was driven from the scene. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction while decelerating. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver was looking to left prior to the crash. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Changing lanes
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

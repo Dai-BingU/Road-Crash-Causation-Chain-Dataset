@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred on a dry, straight, downhill, seven lane, divided state highway near an intersection. The highway runs north and south at this location. Southbound traffic consists of a right turn lane, two through lanes, and a left turn lane. There is a traffic light without pedestrian crossings at the intersection and the speed limit on the highway is 72 kmph (45 mph). There were no adverse weather conditions present at the time of the crash. Vehicle one (V1), a 2001 Volkswagen Jetta was traveling south in lane three, the outside through lane. Vehicle two (V2), a 2002 Volvo S60 was stopped in the third lane. Vehicle three (V3), a 1996 Ford Explorer was stopped in the third lane ahead of V3. As V1 was exiting the highway and merging into traffic it entered the third lane and the front plane impacted the rear of V2. The front of V2 then impacted the rear of V3. V1 and V2 were towed due to damage. V3 was not towed due to damage. The driver of V1 was a seventeen-year-old male who was driving from a friend's house to the lake. This driver had been driving for about five minutes at the time of the crash. This driver stated that as he was exiting the highway he looked up and saw a red light, he let of the gas and was coasting and saw the light turn green. This driver thought that V2 was moving. This driver drives this vehicle daily and over this road on a weekly basis. This driver had two occupants in the vehicle with him, both teenagers. Driver inexperience is considered a factor for this driver as he only has thirty months of driving experience. The driver of V2 was a twenty-eight year old male who was driving from his house to the lake. This driver had been driving for about one hour at the time of the crash. This driver was stopped at the time of the crash. The driver indicated that he was adjusting the steering wheel mounted radio controls at the time of the crash. This driver drives this vehicle daily and over this road on a daily basis. The driver of V3 was a twenty-eight year old female who was stopped in traffic. This driver was driving from her sister's house to the lake. It is unknown how long this driver had been driving on this trip. This driver indicated that she has a thyroid conditions that makes her feel drowsy sometimes. This driver drives this vehicle daily and only rarely over this roadway. The critical pre-crash event for V1 is coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical pre-crash event was attributed to V1 and was coded as a driver related factor: false assumption of other's actions. The critical pre-crash event for V2 is coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical pre-crash event was not coded to this vehicle. V3 was not involved in the first harmful event. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Distraction, Drugs, Vehicle present problem 
+Vehicle 3:  Distraction, Driver Inexperience, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Merging
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

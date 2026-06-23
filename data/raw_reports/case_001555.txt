@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The two-vehicle rear end type crash occurred on a four-lane undivided roadway at the intersection of a three-lane undivided roadway. For northbound traffic there is two travel lanes. The road was dry, traveled concrete with a -3.3% grade in the direction of travel. The posted speed limit is 48 kmph (30 mph). Traffic was light at the time of the collision. This crash occurred during daylight hours with clear skies. There were no traffic controls at the intersection. Vehicle two (V2), a 1997 Chevrolet Blazer with one occupant, was stopped northbound in the second travel lane waiting for southbound traffic to clear to make a left turn. Vehicle one (V1), a 1996 Saturn SL2 with one occupant, was also northbound in the second travel lane a distance behind V2. The front of V1 impacted the back of V2. The driver of V1 steered right in an attempt to avoid the collision. V1 continued forward, departed the roadway on the right side and the front of the vehicle struck a retaining wall and came to rest facing north. V2 rotated counterclockwise and came to rest facing northwest in the intersection. V1 was towed due to damage. V2 did not sustain disabling damage. Both drivers were transported to a medical facility. The driver of V1, a twenty-one year old female, was not available for an interview. Tests at the medical facility showed a blood/alcohol concentration of 0.215. Drug test was positive for opiates and benzodiazepine. Upon arrival at the facility, the driver was hysterical and verbally abusive to hospital staff. Past medical history indicated the driver had overdosed on alcohol twice before. Medication consisted of birth control pills. She takes drugs socially including Xanax and crystal meth. The driver of V2, a thirty-eight year old male was heading to the store at the time of the crash. This driver had been driving for about four minutes at the time of the crash. This driver stated that he saw the other vehicle in his rearview mirror, but had no opportunity to avoid the collision. This driver drives this vehicle daily and over this road daily. The critical pre-crash event for V1 was coded as "other motor vehicle in lane: other vehicle stopped". The critical reason for the critical pre-crash event was attributed to vehicle one and was coded as "driver related factor: misjudgment of gap or other's speed. The driver did not realize V2 was stopped in time to complete avoidance maneuvers". Alcohol and drugs were associative factors. The critical pre-crash event for V2 was coded as "other motor vehicle in lane: traveling in the same direction with higher speed". The critical reason for the critical pre-crash event for vehicle two was coded as "not coded to this vehicle".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Driver Performance, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

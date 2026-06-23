@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of the intersection of a primary arterial road and a secondary arterial road. The secondary road was not involved in the crash. The primary road ran east/west and was divided by a raised concrete median on the east side of the intersection. There were four westbound travel lanes with two lanes continuing through the intersection and two left turn only lanes. There were two eastbound travel lanes on the east side of the intersection. The intersection was controlled by traffic signals with no pedestrian signal. The roadway was straight and level. Conditions at the time of the crash were cloudy with no adverse weather conditions at midmorning (the tail end of rush hour) on a weekday. The speed limit for the primary arterial road was 72kph/45mph. Vehicle #1 was a 1996 Ford Escort that was traveling west in the second lane of the primary road. Ahead of it was Vehicle #2, a 2003 Mazda Protégé that was slowing down for the traffic signal that had changed from green to yellow and would be red in a moment. Vehicle #1 then hit Vehicle #2 in the back bumper with its front, and as the two vehicles continued forward from the first impact Vehicle #1 hit Vehicle #2 again the same way. They both came to rest at the site of the second impact facing west in lane two but were out past the stop line and in the intersection. Vehicle #1 was towed from the scene and Vehicle #2 was driven away. Vehicle #1, was driven by a sixty five year old, belted female whose airbags did deploy in the crash. Both the driver and medical first responders believed she was unconscious at the time of the crash. The driver believed it was due to a pre-existing medical condition that her doctors had just changed her medicines for. The critical precrash event for Vehicle #1 was other motor vehicle in lane traveling in the same direction while decelerating. The critical reason was heart attack or other physical impairment of the ability to act. The researcher believes that the driver was unconscious prior to the crash events. The driver admitted in the interview to being on some medications at the time of the crash but when questioned as to which medicines she cut the interview short. No other contributing factors were coded to this vehicle. Vehicle #2, was driven by a twenty four year old, belted female whose airbags did not deploy in the crash. She was uninjured in the crash. The driver was commuting to work at that time. The critical precrash event for Vehicle #2 was other motor vehicle in lane traveling in same direction with a higher speed. The critical reason was not coded to this vehicle. This driver was not coded as having contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

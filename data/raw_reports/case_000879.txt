@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred late in the afternoon on a straight and level section of asphalt roadway. The roadway consisted of two northbound and two southbound travel lanes with a center two-way turning lane. The posted speed limit was 45 mph (72 kph). Vehicle 1 was a 1999 Nissan Altima with one occupant. Vehicle 2 was a 2003 Hyundai Santa Fe with one occupant. Vehicle 1 was traveling south in lane 2 and Vehicle 2 was traveling south in lane 1 ahead of Vehicle 1. A witness traveling behind Vehicle 1 told police that both vehicles appeared to be traveling at a speed less than the posted speed limit. Vehicle 2 initiated a left U-turn across the path of Vehicle 1. The front of Vehicle 1 contacted the left rear of Vehicle 2. Vehicle 1 came to rest in its original travel lane. Vehicle 2 came to rest heading north in the left northbound lane. The critical precrash event was vehicle 2 encroaching into the path of Vehicle 1 across the left lane line. The critical reason for the critical precrash event was inadequate surveillance by the driver of vehicle 2. The driver of Vehicle 2 refused to be interviewed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

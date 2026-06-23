@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection of two urban U.S. Highways both of which are arterial roads. The first ran north/south with four northbound lanes on the south side of the intersection; two being left turn only lanes. The second U.S. Highway was one way only for the portion discussed here (westbound only). Where the westbound highway intersects the north /south highway it is four lanes wide consisting of one right turn only lane, one straight through only lane, one straight or left turn only, and one left turn only lane. The intersection is controlled by traffic signals on colors with pedestrian signals. The northbound lanes on the south side of the intersection had a negative 4% grade at 50 meters pre-crash although the actual crash location was level. The posted speed limit for both highways was 56 KPH (35 MPH) and conditions were daylight and dry on a weekend early afternoon. The intersection is bordered at the southeast corner by a large commercial building with a wide sidewalk in front of it. Vehicle #1, a 1991 Ford Ranger, was northbound in the second lane on the north / south highway approaching the intersection when the light turned red. Vehicle #2, a 1998 Dodge Ram 1500 Pickup Truck, was westbound in the third lane on the westbound highway and had stopped briefly for its red light, which turned almost immediately green. Vehicle #1 passed into the intersection and struck Vehicle #2 on the left side with its front. Vehicle #1 left approximately 7 meters of skid marks before contact with Vehicle #2. Both vehicles came to rest very close to impact. Vehicle #1 was towed due to damage. Vehicle #2 was driven from the scene. Vehicle #1 was driven by a 34-year old belted male that was uninjured in the crash. He had just dropped off his girlfriend's son and was very unfamiliar with the area. He stated that he did not like to drive in big cities. The critical pre-crash event for vehicle #1 was this vehicle crossing over (passing through) intersection. The critical reason for the critical pre-crash event was a recognition error, inadequate surveillance. Associated factors included an exterior factor other; the driver was looking for intended turn destination (on left). The driver failed to look far enough ahead and notice his lights status change. Experience factors were coded since the driver was unfamiliar with the area and uncomfortable driving in cities. Vehicle #2 was driven by a 52-year old belted female whose airbags did not deploy in this crash. She was uninjured in the crash, although her right front passenger (her daughter) and her two grandchildren were all transported to a local trauma center for possible injury. The critical pre-crash event for Vehicle #2 was other vehicle encroachment from crossing street, across path. The critical reason for the critical pre-crash event was not coded to this vehicle. Associated factors included driver conversing with passengers about a family problem. This driver was also coded with a false assumption factor, assumed other driver would yield right of way. The driver is also on a medication for an undisclosed condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

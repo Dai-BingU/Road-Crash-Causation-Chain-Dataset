@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during the evening hours in a four-legged, traffic signal-controlled intersection on a straight, dry, divided, roadway. Eastbound travel lanes consist of a right turn lane, two through lanes and a left turn lane. Westbound travel lanes consist of two through lanes and two left turn lanes. The speed limit on this roadway is 72 kmph (45 mph), there were no adverse weather conditions at the time and the trafficway was lighted. Vehicle one (V1), a 2005 Chevrolet Impala, was eastbound in lane four, the left turn lane. Vehicle two (V2), a 1989 GMC Jimmy, was westbound in lane one proceeding straight. In the intersection, the front of V2 struck the front right side of V1. V1 came to rest facing northeast in lane one of westbound traffic. V2 rotated clockwise and came to rest facing northwest in lane one of westbound traffic. Both vehicles were towed due to damage. The driver of V1, a forty-two-year-old male, was driving from a restaurant to a hotel. He and his two passengers were visiting from out of State; the driver was driving this vehicle for the first time on a roadway that he had never traveled. He thought that the green traffic light indicated that he had the right-of-way. He assumed that V2 had a red light and would stop prior to entering the intersection. Additionally, this driver was fatigued due to a shorter-than-usual sleep the previous night; he slept only five and one-half hours rather than his usual eight hours. The driver of V2, a forty-year-old male, was driving from a friend's house to his home. He was well rested and driving a vehicle he was very familiar with on a well-known route. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason was attributed to V1 and coded as a driver related factor: false assumption of other's actions. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Inexperience, Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

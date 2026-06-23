@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash happened mid-afternoon. Involved two vehicles a passenger car and a pick-up truck. The location is a three lane divided (without positive barrier, six lanes overall) straight roadway. The weather was clear and the road is blacktop and dry. Speed limit 56 kmph (35 mph). Vehicle one (V1) a 2002 Chrysler PT Cruiser driven by a 33 year-old female with two passengers was traveling south in the third lane of traffic. Vehicle two (V2), a 2002 Ford F-150 Pick up truck driven by a 68 year-old male was traveling in the same lane, ahead of V1. Two unidentified light motor vehicles were traveling in front of V2 at an intersection and the southernmost vehicle slowed down and to made a u-turn. The vehicle in front of V2 slowed down as well. V2 slowed down without coming to a stop. V1 applied its brakes the front of V1 impacted the rear of V2. Both vehicles came to rest within their original lane of traffic. V1 was towed from the scene. The driver of V2 was taken to a local hospital. V2 was driven from the scene by a relative of the driver. The critical pre crash event for V1 was coded: other motor vehicle in lane, traveling in the same direction while decelerating. The critical reason for the critical event was coded to the driver of V1 as a driver related decision error: following too closely to respond to unexpected actions of other road users. The driver was following too close in order to react to the unexpected deceleration of the forward vehicle and made a false assumption the forward vehicle would continue to proceed without decelerating. This driver failed to leave enough gap distance in order to stop in time and avoid impact with the forward vehicle, V2. This driver also failed to reduce her speed for the school zone speed limit. The critical pre crash event for V2 was coded: other vehicle traveling, in same direction with higher speed. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

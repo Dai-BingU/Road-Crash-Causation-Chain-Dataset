@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the early afternoon of a weekday in the middle of a residential “T” intersection. The roadway consisted of a curved four-lane north/south roadway (2 lanes in each direction) intersected by a two-lane east/west roadway that was controlled by a stop sign. The bituminous southbound lanes curved slightly to the left with a positive grade greater than2% and a posted speed limit of 48 kmph (30 mph). The bituminous east/west roadway was straight but also had a positive grade greater than 2%. The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1995 Ford Escort with one occupant, was stopped facing east at the intersection in where it intended to turn left onto the four-lane roadway. V2, a 1998 Honda Civic with one occupant, was southbound in lane two approaching the intersection where intended to go straight. As V2 was approaching the intersection, a non-contact vehicle southbound in lane one slowed and began turning right onto the intersecting roadway. This vehicle obstructed the view of both drivers as they entered the intersection. As V1 turned left its front struck the right of V2. V1 rotated slightly clockwise and came to final rest facing northeast in lane 2 of the southbound lanes. V2 was knocked to the left and entered the northbound lanes before coming to rest facing southeast. Both vehicles were towed due to damage. The driver of V1, 29-year-old male, advised that he had just left work and was on his way home. He stopped at the stop sign for 1-2 seconds preparing to turn left. He saw the non-contact vehicle coming from his left with its right turn signal on to turn right into the street he was exiting. He pulled out to turn left and V2 was in lane two. He tried to brake but was unable to avoid V2. He stated he never saw V2 prior to entering the intersection. The Critical Precrash Event for V1 was coded this vehicle traveling turning left at intersection. The Critical Reason for the Critical Event was coded inadequate surveillance (looked but did not see). Associated factors coded to V1 include the impending problem masked by the traffic flow (the non-contact vehicle in lane 1) as well as the driver's decision to proceed with an obstructed view. The driver of V2, 71-year-old male, advised that he was running his regular route as a courier with plenty of time to complete his stops when V1 suddenly impacted his car's right side. He said he never saw V1. He saw the non-contact vehicle turning right. The driver was transported for treatment of minor injuries The Critical Precrash Event for V2 was coded other vehicle encroachment from crossing street, turning into opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors coded to V2 include the impending problem being masked by the traffic flow pattern.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

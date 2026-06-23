@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lane 2 of a high-speed, high-volume interstate highway separated with a concrete barrier wall. There were five southbound lanes and two emergency paved shoulders. It was daytime morning rush hour on a weekday. It had rained a few hours prior so the roads were still a little damp but the skies were clear. Vehicle 1, a 2002 Hyundai Accent was traveling southbound in lane 2 keeping up with the morning traffic. Vehicle 2, a 1997 Volkswagen Gulf was in front of V1. Vehicle 3, a 2003 Toyota Camry was in front of V2, which came to abrupt stop causing for slowing traffic. This caused V2 to also decelerate quickly which caused Vehicle 1 to impact the back of Vehicle 2; Vehicle 2's front bumper then contacted Vehicle 3's back bumper. A 59-year-old male who claimed to be keeping up with the traffic drove vehicle 1. V1 was towed due to damage but the driver was not injured. He was cited for failure to use due care, as he was unable to stop in time. He also could not produce proof of insurance. The Critical Pre-crash event for Vehicle 1 was other motor vehicle in lane - traveling in same direction while decelerating; the critical reason was following too closely to respond to unexpected actions. Associative factors include fatigue in that his work schedule as a security guard results in odd work schedule. He admitted to only getting 4 ½ hours sleep and he averages a work schedule of 60 hours weekly. The crash also occurred during morning rush-hour causing vehicles to travel very close together. A 29-year-old male who was keeping up with the traffic drove vehicle 2. When Vehicle 3 abruptly decelerated he followed suit and was then contacted by vehicle 1, thus pushing him into Vehicle 3. Vehicle 3 was not towed due to damage but the driver was transported to a local emergency room. The Critical Pre-crash Event for Vehicle 2 was another vehicle in his lane - traveling in same direction with higher speed; the critical reason was not coded to this vehicle. An associative factor could be the rush hour traffic. Vehicle 3 was driven by a 56-year-old female who was forced to brake quickly as a vehicle in front of her came to a stop. The critical pre-crash event was other motor vehicle in lane - traveling in same direction with higher speed; the critical reason was not coded for this vehicle. An associated factor is the fact the during rush hour traffic vehicles are forced to travel very close together. She was not injured and there was no damage to her vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Traffic, Weather/Environment present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

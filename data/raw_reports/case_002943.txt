@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle accident occurred on a two-way, two-lane roadway, which was not physically divided. There were no permanent traffic signals present at the scene of the incident, however, there were warnings signs as well as a flagman, indicating a construction zone in the area. The grades for both vehicle one (V1) and vehicle three (V3) were level, whereas the gradient for vehicle two (V2) was slightly negative. There were no adverse atmospheric conditions at the time of the crash. The posted speed limit for the roadway was 72 kmph (45 mph). Vehicle one, a 2000 Ford F-150, was traveling north at an undetermined rate of speed. Vehicle two, a 2003 Kenworth dump truck, was traveling south on the same roadway in the opposite direction, at an unknown rate of speed. Vehicle three, a 2002 Pontiac Grand Am, was stopped in the northbound lane ahead of V1, due to construction. For reasons that are unclear, V1 crossed over the center double yellow lines, and the front of the vehicle contacted the front of V2. After the initial impact, V1 continued forward and the left front of the vehicle made contact with the right rear of V3, where both vehicles came to final rest. The front axle of the heavy truck (V2) separated from the vehicle causing it to continue approximately 150 feet before coming to final rest. The driver of V1, a 24 year-old male, had a laceration to his arm and was taken to the hospital for observation. The driver could not be reached for an interview, so it is unclear whether or not any fatigue or health related issues contributed to this crash. The Police Accident Report (PAR) mentioned that the driver claimed that he swerved into oncoming traffic because he thought a car was pulling out from a parking lot into his lane of travel. Further, he did not realize that the traffic ahead was stopped due to ongoing construction. The Critical Precrash Event coded to this vehicle was that this vehicle traveled over the lane line on the left side of travel lane. The Critical Reason for the Critical Precrash Event was coded as too fast for conditions (i.e. construction). The driver of V2, a 44 year-old male, did not suffer any injuries as a result of the crash, and therefore did not require any medical attention. Numerous messages during various times of the day could not provide the researcher with an interview. Through information contained in the PAR and evidence at the scene, it seems there was nothing the driver could have done to avoid the collision. The Critical Precrash Event was coded to this vehicle was other vehicle encroachment from opposite direction, over left lane line. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. The driver of V3 was a 35 year-old male who complained of neck and back pain and was air lifted to a hospital for treatment. Information received via an interview did not reveal many Precrash facts, being as the driver was the victim of circumstances, which occurred as a result of the second event of the crash. There were no health or fatigue related issues that contributed to this crash for the driver of V3. The Critical Precrash Event was coded not involved in first harmful event. The Critical Reason for the Critical Precrash Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

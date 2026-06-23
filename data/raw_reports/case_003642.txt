@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary Case #2006-45-053 The crash occurred at the intersection of an east/west two-lane urban tertiary artery and a two-lane north/south side street. The arterial road was straight and level with no controls. The side street was straight and had a negative 8% grade as it approached the intersection from the south, but leveled at the intersection. The side street was controlled by stop signs. The posted speed limit on the arterial road was 64kph (40mph); the side streets speed limit was 48kph (30mph). Conditions were dark with streetlights illuminating and dry on a weekday evening. Vehicle #1 was a 1995 Dodge Intrepid traveling north on the side street. Vehicle #2, a 1999 Plymouth Voyager minivan, was westbound on the arterial road. The Intrepid (V1) failed to stop at the intersection and was struck in the right side by the front of the Voyager (V2). A secondary side-slap collision ensued with the right side of Vehicle #1 and the left side of Vehicle #2 contacting. Vehicle #1 came to rest facing west on the west side of the intersection. After impact Vehicle #2 departed the northwest corner of the intersection. It sideswiped a stop sign with its front right side before continuing down a steep lawn (-18% grade) and striking a tree with its front. Both vehicles were towed due to damage. Vehicle #1 was operated by a 48-year old female that was not belted. She was transported to an area hospital with minor injuries. The driver side frontal airbag did not deploy, however, the frontal passenger side airbag deployed. Police charged her with disregarding a stop sign, driving on a revoked license, and no insurance. The Critical Precrash Event for Vehicle #1 was this vehicle passing through intersection. The Critical Reason for the Critical Event was an unknown driver error. The only associated factor that could be positively coded was failed to stop for traffic control device. The driver could not be located for an interview. Vehicle #2 was operated by a 44-year old female that was belted. She was transported to a local hospital with minor injuries. The driver side frontal airbag did not deploy, however, the frontal passenger side airbag deployed. She stated the other vehicle ran the stop sign leaving her little time to react. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from crossing street across path. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors. The driver was taking a medication for high cholesterol.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

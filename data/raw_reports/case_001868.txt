@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred during early evening hours on a two lane roadway that was dry during the crash it was dark but lighted. There were no adverse atmospheric conditions at that time. Posted speed limit 48 kmph (30 mph) Vehicle one (V1) a 1993 Ford Escort two door coupe was traveling eastbound in the right lane of a two lane, undivided roadway. Vehicle two (V2) a 1999 Dodge Ram Pick-up was traveling westbound in the right lane of the same roadway. To the south of the roadway there were two additional lanes that were closed due to construction. V2 attempted to make a left-hand turn into a residential driveway. As V2 crossed the path of V1 it was struck on the right side by the front of V1. Both vehicles came to rest in the roadway. V1 was towed from the scene due to damage sustained in the collision. V2 was driven to the owner's residence. The driver of V1 was well rested and familiar with the area. During the interview he stated that he had a clear, unobstructed view of V2. As V2 began to turn, the driver of V1 applied his brakes and steered to the left in an effort to avoid the collision. V1 was unable to come to a stop. The driver of V2 was well rested and familiar with area. During the interview he stated that he did not see V1. He believed that V1 did not have its headlights on prior to the collision. The driver of V2 did not take any evasive action prior to impact. The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction-over left lane line. The critical reason was not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V2 as a driver related factor: External distraction. The driver of V2 was looking to his left for a parking space across street and not looking towards on-coming traffic.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic present problem 
+Vehicle 2:  Decision, Distraction, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- External distraction

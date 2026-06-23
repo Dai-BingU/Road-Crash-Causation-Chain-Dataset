@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary A three vehicle daytime collision occurred mid-afternoon on a Friday. The collision occurred heading south on a two-way, five-lane road with a center two-way turn lane. The pre-crash roadway for all vehicles is straight and concrete paving with a downhill grade of 4%. The roadway has a posted speed limit of 48 kmph (30 mph). Vehicle one (V1), a 1989 Ford Thunderbird, was traveling south in lane 1. Vehicle two (V2), a 2005 Jeep Liberty compact utility vehicle, was stopped in lane 1 due to forward traffic congestion at an intersection. Vehicle three (V3), a 1992 Mercury Sable sedan, was stopped in lane 2, just forward of V2 due to the congestion. V1 did not stop for traffic, and the front left of V1 collided with the right rear of V2. This impact pushed V2 forward and to the left, pushing the left front corner of V2 along the side of V3. The driver of V1 was transported to the hospital for possible injuries. The 78-year-old female driver of V1 could not recall what sequence of events precipitated the crash. Ten minutes prior to the collision this driver had left a hospital after receiving a regularly scheduled kidney dialysis treatment. She recalled that when driving down that road, she has to keep an eye on the lights to know when she can merge to the left by one lane in order to continue south on the roadway. The driver of V2 could not be located for an interview, and the driver of V3 was not paying attention to events behind him until his car was contacted. The critical pre-crash event for V1 was coded: other vehicle in lane, other vehicle stopped. The critical reason for the critical event was attributed to the driver of V1 as a driver related factor: external distraction. This was because she was looking above at the traffic signal and took her gaze from the forward traffic. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to the driver of V2. V3 was not involved in the first harmful event, and receives no coding related to the critical event or critical reason.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Drugs, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

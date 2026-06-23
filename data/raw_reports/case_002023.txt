@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekend on a two-lane undivided rural roadway. This north/south roadway consisted of one lane in each direction and had a posted speed limit of 89 kmph (55 mph). In the northbound direction, the roadway curved to the left and had a radius of curvature of 804m and a superelevation of 1 percent. The roadway was dry, it was daylight but cloudy, and traffic flow was normal at the time of the crash. V1, a 1997 Jeep Grand Cherokee, was northbound following three vehicles. The two vehicles immediately in front of V1 were non-contact vehicles. V2, a 2002 Chrysler PT Cruiser, was in front of the two non-contact vehicles. All vehicles were negotiating the curve to the left. V1 crossed into the southbound lane to pass the two non-contact vehicles in front of it. As V1 attempted to re-enter the northbound lane behind V2, it sideswiped V2's left side with its front. V1 lost control and began to rotate clockwise. V1 departed the roadway to the right, struck a w-beam guardrail with its front and rode up onto the guardrail. V1 continued along the guardrail, began to roll to the right and struck a 16 cm pole. It continued to roll over and struck the guardrail with its top. V1 then rolled off the guardrail, down an embankment and came to final rest on its right side facing west. V2 pulled off to the right side of the roadway and stopped facing north. V1 was towed due to damage. V1 was driven by a belted 20-year old male who was transported for a complaint of pain, but it was unknown if he was treated. The right front passenger, a belted 18-year old female, was transported for minor injuries. No further information was obtained, as the driver could not be located. A witness who was in one of the non-contact vehicles stated that V1 attempted to pass her and another vehicle and then re-enter the northbound lane behind V2. When V1 tried to squeeze back in, he hit the car in front of her, then spun out of control and rolled over. The witness stated that they all had been traveling between 55-60 MPH and that V1 passed them at approximately 61-70 MPH. The Critical Pre-crash Event for V1 was this vehicle traveling over the lane line on the right side of the travel lane. The Critical Reason for the Critical Pre-crash Event was an illegal maneuver, a decision error. This was chosen because the driver was passing Vehicle 2 in a no passing zone. Associated factors coded to this driver include traveling too fast for conditions and aggressive driving. V2 was driven by a belted 35-year-old female who was not injured. The 35-year old belted right front seat passenger was also not injured. An interview was not obtained, as the driver could not be located. The Critical Pre-crash Event for V2 was other vehicle encroachment from the adjacent lane (same direction) - over the left lane line. The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. There were no associated factors coded for V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

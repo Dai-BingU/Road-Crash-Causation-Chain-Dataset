@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary A four-leg intersection related crash occurred during the early afternoon daylight hours in an urban area. It involved two in-transport vehicles traveling through the intersection and one legally parked vehicle. The roadways were straight and dry at this time, and the posted speed limit for both vehicles was 56 kmph (35 mph). Vehicle one (V1), a 1997 black Honda Civic 4 door sedan occupied only by the 24-year-old female driver, was traveling east on a 2 lane one-way concrete roadway. The roadway had a negative grade of 5% and a stop sign posted for traffic controls at the intersection. The driver of V1 stated that she came up on the intersection, stopped at the stop sign for 2 seconds and then proceeded through the intersection. The driver of V1 also stated that a large construction dumpster parked on the west side of the roadway was blocking her view of the approach of any northbound traffic. As V1 traveled through the intersection the front of V1 impacted the left side of another vehicle. Vehicle two (V2), a white 2004 Chevrolet Malibu Maxx sedan hatchback occupied by a 45-year-old female driver, was traveling north in the second lane of a 3 lane one-way concrete roadway with a negative grade of 2%. As V2 passed through the intersection, it was struck on the left side by the front of V1. V2 rotated counterclockwise (almost completing 180 degrees) and its rear bumper impacted with the rear bumper of vehicle three (V3), which was legally parked on the east side of the roadway north of the intersection. V1 came to rest facing northeast in the intersection. V2 came to rest facing generally south and still in contact with unoccupied V3. The V1 driver complained of pain and was transported to a medical facility. Both V1 and V2 were towed due to damage. A witness stated that the driver of V1 was traveling east down the roadway at a higher rate of speed than normal traffic, and that V1 did not stop for the stop sign. There was large construction dumpster that was present just south of the southwest corner sitting in the parking lane area of the roadway. The dumpster and addition paked vehicles along that same side of the roadway limited both drivers view of the intersection for cross traffic. The driver of V1 did not stop at the stop sign and failed to adequately survey the intersection before crossing it. The driver of V2 did not observe cross traffic from the left before entering the intersection due to the view obstructions. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). an associated factor was an illegal maneuver for not stopping for the stop sign and an environmental factor of a sightline restriction created by the dumpster. This driver was also inattentive due to thinking about a future event. This driver takes the medication Zoloft, prescribed for depression. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Driver Stress/Emotion, Drugs, Roadway, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Fatigue, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Passing or overtaking another vehicle
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

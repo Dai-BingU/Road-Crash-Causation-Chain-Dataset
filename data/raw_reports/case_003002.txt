@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred on a straight two-lane asphalt roadway with a -3%grade. The speed limit was 45 mph (72kph). It was raining at the time. Vehicle 1 was a 2005 Chevrolet Venture, vehicle 2 was a 2000 Audi A6, and vehicle 3 was a 2005 Chrysler 300. All vehicles were heading south in the southbound lane. Vehicle 3 was stopped behind a vehicle that was waiting to turn left. Vehicle 2 was decelerating behind vehicle 3. Vehicle 1 was traveling behind vehicle 2. The driver of vehicle 1 stated that she glanced to the right for an unknown reason, when she looked forward she noticed traffic stopped in front of her and was unable to stop in time. The front of vehicle 1 contacted the back of vehicle 2. Vehicle 2 was pushed forward into vehicle 3. The driver of vehicle three stated that the vehicle in front of her turned left just as the crash occurred and was not contacted. The driver of vehicle 2 refused to be interviewed. A critical reason for the critical precrash event was attributed to vehicle 1 only. The critical reason for the critical precrash event for vehicle 1 was coded as an external distraction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+Vehicle 3:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

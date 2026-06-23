@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash involves two vehicles that collided on a two-way, dry, asphalt roadway. The crash occurred at a T-intersection. The through roadway has one northbound (downgrade) lane and one southbound lane (upgrade). That is divided by a painted centerline stripe. The cross street is a dry bituminous asphalt roadway that has one westbound and one eastbound lane. The intersection is controlled by a stop sign posted prior to entering onto the through street. The traffic control device was visible and was not damaged at the time of the crash. The speed limit on the both roadways is posted 72 kmph (45 mph). The weather at the time of the crash was clear and there were no roadway deficiencies noted. There were no sight line restrictions of obstructions at the scene. Vehicle one (V1), a 1991 GMC Jimmy, was traveling northbound on the through street at the posted speed limit prior to the crash. The driver of V1 saw vehicle two (V2) stopped at the stop and began to make a left turn to travel southbound. The driver of V1 saw V2 make the left turn and steered his vehicle to the left and locked up the brakes to his vehicle. V1 crossed over the centerline stripe and struck the front of V2. The impact caused V1 to rotate counterclockwise and then travel off the west edge of the roadway coming to rest facing in a northwesterly direction. The driver of V1 stated that V2 had completed the left turn prior to the crash. The right front passenger of V1, a 12-year-old male, was transported from the scene by ambulance and was later treated and released for a laceration to the let side of his head. The driver of V1 did not receive any injuries. The vehicle was towed due to damage. V2, a 1998 Chevrolet Camaro, was traveling westbound on the cross street and had stopped for the stop sign and was stopped for approximately 10 seconds. The driver then began to make a left turn to travel southbound and was struck by V1 during the left turn maneuver. The impact caused V2 to rotate counterclockwise and to travel backwards in a northerly direction. The vehicle came to rest at the south edge of the intersection facing in a southeasterly direction. The driver of V-2 stated that he saw V1 traveling northbound and misjudged the vehicle's speed. The right front passenger in V2, a 22-year-old female, sustained a contusion to her chest and was treated at the scene. The driver did not receive any injuries as a result of this crash. The vehicle was equipped with an EDR and the near deployment data was obtained from the vehicle. The vehicle was towed due to damage. The critical pre crash event for V1 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason for the critical event was not coded to this vehicle. The critical pre crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was attributed to V2 and coded as a driver related factor: misjudgment of gap or other's speed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience present problem 
+Vehicle 2:  Decision, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Misjudgment of gap or other's speed

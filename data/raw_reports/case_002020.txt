@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during early morning daylight hours . At a controlled intersection by on-color traffic signal. There are six divided lanes north/south and two one way lanes east/west the road surface is asphalt,dry and free of defects. There were no adverse atmospheric conditions at that time. The posted speed limit east/west 72 kmph (45 mph) and 56 kmph (35 mph) north/south. Vehicle one (V1), a 1992 Chevrolet Passenger Van driven by a 30 year-old female with three passengers was traveling northbound in the second lane of a three-lane, two-way, divided, asphalt roadway without a positive barrier. Vehicle two (V2), a 1996 Ford Ranger pick-up driven by a 55 year-old male was traveling westbound in the second lane of a three-lane, one-way roadway. The driver of V1 did not stop for the traffic signal and entered the intersection. As V1 entered the intersection, the front of V2 struck the right front of V1. V1 rotated counter clockwise and came to rest in the roadway northwest of the point of impact. V2 rotated clockwise and came to rest in the intersection facing north. V1 and V2 were towed from the scene due to damage sustained in the collision. Both drivers were transported to a local hospital for treatment. The driver of V1 was well rested and familiar with area. There was no indication of drug or alcohol use as a factor for this driver. She did not see V2 until after impact. She took no evasive action. The driver of V2 was well rested and familiar with area. There was no indication of drug or alcohol use as a factor for this driver. The driver stated that there was a black SUV in the third lane obstructing his view of northbound traffic. He did not see V1 until after impact. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was coded as a driver related factor: illegal maneuver. An additional factor for V1, internal distraction conversing with passenger. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+Vehicle 2:  Distraction, Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

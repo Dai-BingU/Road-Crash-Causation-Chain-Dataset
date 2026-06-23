@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a five-lane roadway. There were two northbound and two southbound lanes with a center left turn for both directions. This was a straight, bituminous roadway with a downhill grade of 3/122 and a posted speed of 56kmph (35mph). This was an early afternoon on a weekday. The road was dry and the sky was clear. Traffic was stopped at a stop light ahead. V1, a 2002 Buick Park Avenue four door with one occupant was traveling northbound in lane two. V2, a 1994 Chevrolet Corsica four door with one occupant was stopped in lane two in front of V1. V3, a 2002 Saturn SL four door with one occupant was also stopped in lane two in front of V2. The driver of V1 was attempting to change lanes to the right but saw a vehicle next to her. When she looked back she saw that traffic had stopped in front of her. She hit the brakes but could not avoid contacting her front to V2's back. The impact pushed V2 into the back of V3. V3 came to final rest in lane two. V2 came to rest in lane 3 and V3 pulled into a driveway on the west side of the roadway. V1, the Buick Park Avenue, was driven by a 71-year old female who reported that she had no injuries. She stated that she was on her way to a dentist appointment. She was changing lanes to lane one because she needed to make a right turn at the intersection. When she was unable to move over to lane one she looked straight ahead and saw the vehicles stopped in front of her and started to brake. She was unable to stop in time to avoid hitting V2. The Critical Precrash Event for the driver of V1 was "other motor vehicle in lane, other vehicle stopped." The Critical Reason for the Critical Precrash Event was an "exterior distraction". The driver was looking to the right to change lanes and was not looking ahead to see if traffic was stopping. V2, the Chevrolet Corsica, was driven by a 32-year old female who reported minor injuries, but refused treatment. She stated that she was coming from shopping and on her way home. She advised that she had been stopped in the traffic lane due to the red light. She did not make an avoidance maneuver. She could not avoid being pushed into V3. The Critical Precrash Event for the driver of V2 was "other motor vehicle in lane, traveling in same direction with higher speed." The Critical Reason for the Critical Precrash Event was not coded to this vehicle. An associated factor coded to this driver was she was eating at the time of the crash. V3, the 2002 Saturn SL, was driven by a 20-year old who reported minor injuries, but refused treatment. She stated that she was stopped for the red light, when she was hit from the back. V3 was not involved in the first harmful even. Therefore, no Critical Precrash Event was coded to the driver of the Saturn.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

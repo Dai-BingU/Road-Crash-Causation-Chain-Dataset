@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at the intersection of two three-lane roadways. Both roads are one-way roadways. The intersection is controlled by a traffic light. The northbound road has a speed limit of 40 kmph (25 mph). The eastbound road had a speed limit of 56 kmph (35 mph). Both roads are straight and level with no defects. This crash occurred during nighttime hours with no adverse atmospheric conditions. Vehicle one (V1), a 1995 Chevrolet Cavalier was northbound in the second lane. Vehicle two (V2), an Infiniti QX4 was eastbound in the second lane. The front of V1 impacted the right of V2. V2 then rolled two-quarter turns onto its roof. V1 came to rest facing northeast in the intersection. V2 came to rest in the second eastbound lane on its roof. Both vehicles were towed due to damage. The driver of V1, a twenty-three year old male was heading to a friends house to hang out. The driver took the wrong exit and was not sure where this exit led. Even though the driver was in an unfamiliar place, the driver continued at his exit speed. Right before the intersection the driver reached down in-between the seat to grab a soda. As the driver looked down, he took his eyes off the roadway and drove through a red traffic signal. This driver had been driving for about fifty minutes at the time of the crash. This driver drives this vehicle daily and over this road on a weekly basis. The driver of V2, a fifty-tow year old male was on his way home from work. This driver had been driving for about thirty minutes at the time of the crash. This driver drives this vehicle daily and over this road on a daily basis. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical pre-crash event was attributed to V1 and was coded as a driver related factor: internal distraction. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

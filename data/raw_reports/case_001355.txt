@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lane of a three-lane intersection. Conditions were daylight on a weekend. The westbound lane had a posted speed limit of 56 KMPH (35 MPH) and the northbound lane had a posted speed limit of 64 KMPH (40 MPH). V1 was a 2002 Honda CRV traveling westbound in the right lane approaching the intersection with a green traffic control signal. V2, a 2003 Dodge Durango, was traveling northbound in the left lane approaching the same intersection. V2 went thru the red traffic control and the front of V2 struck the left side of V1 in the westbound lane. V2 came to final rest facing northwest. V1 continued on and struck a curb then rolled ¼ turn onto its left side. V1 came to final rest on its left side facing north. V1 was driven by a 65-year-old male who sustained moderate injuries and was transported to a local hospital. The driver of V1 stated that he was on a “Sunday drive” with his wife, proceeded thru the intersection with a green traffic control signal, and was struck on the left side. No avoidance actions were taken and the driver of V1 was traveling between 66 and 80 KMPH (41 and 50 MPH) at the time of impact. V1 was towed due to damage. The Critical Precrash Event for V1 was the other vehicle encroaching into his lane from the crossing street, across path. No Critical Reason for the Critical Precrash Event was coded to this vehicle. The driver felt fatigued, wears glasses for reading and takes medication for high blood pressure but none of these factors was thought to have contributed to the crash. V2 was driven by a 31-year-old female who sustained moderate injuries and was transported to a local hospital. The driver of V2 stated that she looked down to reach for a lighter and when she looked back up it was too late and the collision occurred. No avoidance actions were taken. V2 was traveling between 50 and 64 KMPH (31 and 40 MPH) at the time of impact. V2 was towed due to damage. The Critical Precrash Event for V2 was this vehicle crossing over (passing through) the intersection. The Critical Reason for the Critical Precrash Event was a recognition error; internal distraction. Associated factors coded to this driver were driver inattention and emotional factors. The driver stated that she was very upset over family problems and was thinking about them when the crash occurred. The driver also takes medication for high blood pressure but this was thought not to have contributed to the crash. The driver also feels fatigued when she wakes up in the morning. The driver travels on this roadway daily and gets an average of 6 hours of sleep. The driver was wearing non-prescription sunglasses at the time of impact. After the impact the driver blacked out.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+Vehicle 2:  Decision, Distraction, Driver Fatigue, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Internal distraction

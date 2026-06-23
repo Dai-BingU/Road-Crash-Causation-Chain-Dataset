@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the early afternoon of a weekend on a two-way, undivided, north/south, roadway with parking lanes on each side. The bituminous roadway was straight with a grade of 5% in the northbound direction. The posted speed limit was 56kmph (35mph) and the traffic flow was normal. There were metal trolley tracks on both sides of the roadway. The roadway was wet as it was raining at the time of the crash. V1, a 2005 Chevrolet Malibu, was southbound cresting the hill. V2, a 1998 Honda Civic, was legally parked on the northbound side of the roadway preparing to enter the roadway. V2 traveled a few feet into the roadway it attempted to make a U-turn. As V2 was making its U-turn, its right side was struck by the front of V1. The impact caused V2 to rotate clockwise on the wet asphalt and come to final rest facing north. V1 came to final rest alongside the western curb facing south. Both vehicles were towed due to damages. The driver of V1, a 32-year old female, stated that she was northbound traveling approximately 48kmph (30mph) when she saw, at the last minute V2 crossing in front of her vehicle. She travels on the roadway weekly and is somewhat, she said, familiar with the roadway. She and her child were both transported to hospital with injuries. The Critical Precrash Event for V1 was coded as other motor vehicle encroachment, from opposite direction - over the left lane line. The Critical Reason was not coded for V1. An associated factor coded to this driver was looked but did not see. The driver of V2, a 30-year old female said was parked on the northbound side of the roadway when she merged into the travel lane drove a few feet and began to make a U-turn. She stated that as she began to turn she looked both ways, but mainly right towards the southbound oncoming traffic. She said she did not see any oncoming traffic, but the hill prevented her from seeing vehicle one's approach. When she saw V1, it was too late. She was not injured in the crash. The Critical Precrash Event for V2 was coded as other, making a U-turn. The Critical Reason was coded as a driver related factor, a decision error, illegal maneuver. This was chosen due to the fact that the driver decided to initiate an illegal U-turn despite being unable to see over the hillcrest. In addition to the illegal maneuver, inexperience was coded as an associated factor as this driver was unfamiliar with the roadway - this was the first time driving it.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Drugs, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Decision, Driver Fatigue, Driver Inexperience, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Leaving a parking position
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：Other- Other (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

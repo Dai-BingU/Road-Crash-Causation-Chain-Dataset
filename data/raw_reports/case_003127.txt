@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of a weekday in the eastbound lanes of a divided high-speed expressway. The east/west highway consisted three lanes in each direction divided by a concrete median and flanked by paved shoulders. The bituminous roadway was dry, straight, and level with a posted speed limit of 105 kmph (65 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. Vehicle one (V1), a 2004 Chevrolet Trailblazer with two occupants, was eastbound in lane two. Vehicle two (V2), a 2002 Buick Park Avenue with two occupants was eastbound in lane one slightly behind V1. Vehicle three (V3), a 2001 BMW 540i sedan with two occupants, was eastbound in lane two just ahead of V1. As V1 passed V2 it attempted to enter lane one, V1's right front corner struck the left rear corner of V2. V1 swerved left back into lane two, and struck V3 on the right rear side with it right front corner. The impact caused V3 to begin rotating clockwise. V3 departed the roadway on the right side and struck the guardrail with its right front corner. V1 came to final rest on the south shoulder facing eastbound. V2 came to final rest east of the crash scene in a rest area facing eastbound. V3 came to final rest on the south shoulder facing eastbound. V1 and V3 were towed from the scene due to damage while V2 was driven away. . The driver of V1, a 43 year-old female and her occupant, were uninjured in the crash. The driver was interviewed on-scene and stated that she went to make a lane change to the right and did not see the car that was there. She did not know if she hit the car or the car hit her. After the initial impact she steered left until she hit something (V3). The car came to a stop in center of the roadway, but she was able to drive it onto the shoulder. The Critical Precrash Event for V1 was coded this vehicle traveling, over the lane line on right side of the travel lane. The Critical Reason for the Critical Precrash Event was coded inadequate surveillance (failed to look to side). Associated factors include an internal distraction, the driver conversing with her front seat passenger, and a decision error, the driver did not signal when changing lanes. The driver of V2, a 63 year-old male and his occupant were uninjured. The driver told police that she was not on the roadway long, when an SUV (V1) in the center lane pulled into the right lane without signaling. After impact V2 drove onto the shoulder and the saw in the rearview mirror the V1 striking V3. V2 continued eastbound pulling into a wide area and the driver walked back to the area of the crash. The Critical Precrash Event for V2 was coded other vehicle encroachment, from adjacent lane (same direction), over right lane line. The Critical Reason for the Critical Event was not coded to this vehicle. There were no known associated factors coded to V2. The driver of vehicle three, a 26 year-old female, suffered non-incapacitating injuries and was transported for treatment. Her passenger in the right front seat suffered serious incapacitating injuries and was also transported for treatment. An interview could not be obtained from either the driver or the passenger. The Critical Precrash Event for V3 was coded other, not involved in first harmful event. The Critical Reason was not coded to this vehicle. There were no known associated factors coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

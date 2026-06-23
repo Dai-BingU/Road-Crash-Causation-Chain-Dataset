@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary A crash happened mid-afternoon. Involving one passenger car,The location is a three lane divided (no positive barrier, six lanes overall) downhill roadway. The roadway was curved to the right. The weather was clear but the road was iced. The posted speed limit 56 kmph (35 mph).The entire study area experienced a hard freeze the previous night. The roadways started to thaw around noon that day. This downhill roadway was running from west to east. There were tall pine trees located south of the south curb of the roadway. These pine trees covered the roadway with shadow at this time of the day. The ice on the roadway did not melt at this part. V 1 a 1993 Subaru Legacy driven by a 30 year-old male with three passengers was traveling east in the first lane of the roadway. The vehicle hit a patch of ice on the bottom of the hill. It caused the vehicle to depart the road to its right. Its right side impacted a tree located south of the roadway. The vehicle rotated clockwise before it came to rest between the tree and a utility pole located east of the tree. V 1 was towed from the scene, the three passengers were transported to a local medical facility. The pre-event movement coded negotiating a curve, category this vehicle traveling, off the edge of the road to the right side. The critical reason was coded environment related factor "slick roads low friction due to ice" Although the vehicle lost control on the iced roadway, it is undetermined if the driver was not driving in accordance within a reasonable standard of safe driving for the conditions present. The roadway was ice free prior to the begin of the downhill curvature and the tree line. Prior to the curvature the road has warning signs, indicating the upcoming curvature. (without interviewing driver road condition and weather was the basis for coding.)
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)

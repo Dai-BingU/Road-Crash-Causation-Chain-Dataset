@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred in the middle of a two-way intersection. Both roadways were one-way roads. The roadways for both vehicles were asphalt, dry, and level. The posted speed limit was 40 kmph (25 mph) for both directions. Vehicle two (V2) had a stop sign controlling its direction; there was no control device for Vehicle one (V1). The crash occurred in the early afternoon on a weekend. The traffic flow was light and the weather was clear. Vehicle one, a 2001 Oldsmobile Aurora, was traveling northbound through a two-way intersection when it contacted, with its front, the right side of vehicle two, a 1995 BMW 318TT, traveling eastbound through the same intersection. After the initial impact vehicle one (V1) continued traveling while rotating slightly clockwise and contacted a pole located on the northeast curb with its front where it came to final rest. Vehicle two, after the impact, traveled a few feet, rotated counter clockwise and came to final rest along side of (V1) facing northeast, where it came to final rest. Both vehicles were towed due to damages. The driver of V1, a 30-year old male, said he was traveling northbound through the intersection and looking straight suddenly caught site of vehicle two (V2) traveling eastbound and before he could react, he struck vehicle two. He said his travel speed was approximately 56 kmph (35 mph), ten miles over the speed limit. He rarely travels the roadway, and he wasn't sure of the speed limit. There was a posted speed limit, 40 kmph (35 mph), located and visible from his direction. He was transported to the hospital with minor injures. The Critical Pre-Crash Event for V1 was coded other vehicle encroachment from crossing street across path. The Critical Reason was not coded to this vehicle. Associated factor include driving over the speed limit. The driver of V2, a 40-year old male, was aware of the posted stop sign for his direction. He said before he accelerated into the intersection, he'd stopped and looked to his right. However, he didn't see vehicle one. Vehicle one must have been speeding, he said. He said his travel speed was also 56 kmph (35 mph). He was also traveling over the speed limit, and he wasn't sure of the posted speed limit. He travels the roadway weekly. He said he applied his brakes but it was too late. He was not injured. The Critical Pre-Crash Event for V2 was crossing over (passing through an intersection). The Critical Reason was coded as inadequate surveillance (looked but did not see). Associated factors coded to this driver include: driver did not realize that caution was required.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

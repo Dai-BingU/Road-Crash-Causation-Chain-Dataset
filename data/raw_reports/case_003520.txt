@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during daylight hours on a straight, level, eight-lane, undivided roadway. The road runs north and south at the location of the crash. Each direction consists of a right turn lane, two through lanes and one left turn lane. The speed limit on the road is 64 kmph (40 mph) and it was cloudy at the time. Vehicle one, a 1996 Saturn SC, was northbound in lane four, the left turn lane. Vehicle two, a 2004 Chevrolet Impala, was southbound in lane three, the inside through lane. Vehicle one turned left at an intersection and the right side was struck by the front of vehicle two. Vehicle one was pushed slightly clockwise and came to rest facing northwest in lane three of southbound traffic. Vehicle two rotated slightly clockwise and came to rest facing south. Vehicle two was towed due to damage. The driver of vehicle one, a thirty-five-year-old female, was returning to her office after going home for lunch. She was well rested and was familiar with the vehicle and the route. She could not see vehicle two due to a van obscuring her view. Additionally, she noted that the traffic signal at an intersection one block away was red and assumed that there was no traffic in the southbound lanes except the obscuring vehicle. The driver of vehicle two, a forty-six-year-old male, was traveling between estate/yard sales. He was comfortable with his vehicle and drives this route often. He is afflicted with multiple sclerosis, but it does not affect his driving. The critical pre-crash event for vehicle one was coded: this vehicle traveling, turning left at intersection. The critical reason was attributed to the driver of vehicle one and was coded as a driver related factor: inadequate surveillance. There was a non-contact vehicle obstructing her view of vehicle two's lane and she failed to look far enough before proceeding with her turn. The critical pre-crash event for vehicle two was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

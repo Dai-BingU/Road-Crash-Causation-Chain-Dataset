@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred during evening hours at a T-intersection with the east/west roadway controlled by a stop sign. The road surface dry,level concrete with overhead lighting. The posted speed limit 64 kmph (40 mph). Vehicle one (V1), a 1984 Buick Park Avenue sedan driven by a 31 year-old female with three passengers, was traveling northbound in lane one. Vehicle two (V2), a 1991 Jeep Cherokee driven by a 17 year-old male, was traveling south in lane 2 of a 4 lane undivided concrete roadway with a negative grade. The driver of V2 was traveling the speed limit until the driver decided to turn around and go back the other direction. The driver of V2 saw a street to turn into, slowed down and turned left. At this time V2 impacted the front of V 1 with it's front bumper. V2 rotated counter clockwise and struck the left side of V1 with it's right front tire. V2 came to final rest facing northwest in the middle of the intersection. V1 was traveling north in lane 1 of a 4 lane undivided concrete roadway with a positive grade. The driver of V1 was talking to the passengers in the vehicle at the time of the crash. The driver saw V2 approach the intersection and assumed that the vehicle would stop and wait until traffic had cleared before turning. After the initial impact V1 rotated counter clockwise and struck the right front tire of V2. V1 came to final rest facing northwest in the middle of the street. All occupants were transported to a local medical facility. Both vehicles were towed due to damage. The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason was not coded to this vehicle. After the crash, the driver of V2 stated he was concerned and wondering what his father would do because he was grounded and not supposed to be driving. The driver had pre-crash concerns related to his gounding by his father. He had an argument within the previous 12 hour period. The driver was focused to the left in his intended turn destination and failed to see V1 approaching. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason was attribute to V2 as a driver related factor: inadequate surveillance (e.g. failed to look, looked but did not see).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Drugs present problem 
+Vehicle 2:  Decision, Distraction, Driver Fatigue, Driver Inexperience, Driver Stress/Emotion, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

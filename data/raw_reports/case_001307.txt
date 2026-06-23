@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lane of a two-way roadway with one lane in each direction. The roadway was straight and level and had a speed limit of 48 kmph (30 mph). It was the mid-evening hours and it was dark out but the roadway was lighted. It was dry with no adverse weather conditions. Vehicle #2 was a 1995 Ford Taurus that was traveling eastbound and veered into the westbound lane. Vehicle #1 was a 2001 Ford F-150 pick-up truck traveling westbound on the same roadway. The front of Vehicle #2 contacted the front of Vehicle #1. A 39-year old male drove the Ford F-150 (Vehicle #1) and he did not sustain any injuries. The passenger seated in the front-right position sustained minor injuries and was transported to a medical facility. The driver stated that the driver of Vehicle #2 had an alcohol odor about him and that he was driving eastbound in the westbound lane. Vehicle #1 was towed due to damage. The driver of this vehicle declined to participate in the study. The Critical Pre-crash event for Vehicle # 1 was the other vehicle encroaching into lane, over the left-lane line. The Critical Reason for the Critical Event was not coded to this vehicle. The associated factors were coded as unknown. The driver of the Ford F-150 was not thought to have contributed to the crash. An unknown male drove the Ford Taurus (Vehicle #2) and left the scene on foot after the crash. No other information was given on the driver. Vehicle #2 was towed due to damage. The Critical Pre-crash event for Vehicle #1 was coded as this vehicle traveling over the left lane line. The Critical Reason for the Critical event was coded as an unknown driver error. It was believed that the driver was impaired by alcohol because he fled the scene to evade being incarcerated. The associated factors were coded as unknown.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

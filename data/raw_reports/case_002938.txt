@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the signalized intersection of a northbound one-way roadway with two lanes of travel, and an eastbound one-way roadway with two lanes of travel. The roadways were straight and level, and had a posted speed limit of 48 kmph (30 mph). It was daylight and clear with no adverse conditions. Vehicle #1 was a 2005 Honda Civic traveling on the northbound roadway and Vehicle #2 was a 1999 Mercury Grand Marquis traveling on the eastbound roadway attempting to make a left hand turn heading northbound. Vehicle #3, a Chevrolet Express G-Series cargo van was legally parked approximately 20 feet north of the intersection on the northbound roadway. At the intersection, the left front of Vehicle #1 impacted the right side of Vehicle #2. This caused Vehicle #1 to roll right - primarily about the longitudinal axis 3 quarter turns. The undercarriage of Vehicle #1 contacted the rear plane of Vehicle #3 and came to final rest on its left side plane. This event pushed Vehicle #3 approximately 20 feet north. The Honda Civic (Vehicle # 1) was driven by a 43-year old female who was transported to the hospital for minor injuries. The Honda Civic was towed due to damage. The Critical Pre-crash Event for Vehicle #1 was coded as: Other vehicle encroachment, from crossing street, turning into the same direction. The Critical Reason for the Critical event was not coded for this vehicle because a witness stated that she did have the green light. The associated factors were all coded unknown because no interview was obtained. The Mercury Grand Marquis (Vehicle #2) was driven by a 71-year old male who sustained minor injuries, and a 70-year old female in the front-right seating position also sustained minor injuries. Both were transported to a medical facility. The Mercury Grand Marquis was towed due to damage. The Critical Pre-crash event for Vehicle #2 was coded as: This vehicle traveling, turning left at the intersection. The Critical Reason for the Critical event was coded as an illegal maneuver. Because there was no interview, it was unclear if the driver of Vehicle #2 had intentionally disregarded the traffic control device or if he did not recognize that there was a control device present. The associated factors were all coded unknown because no interviews were obtained. The Chevrolet Express G-Series Van (Vehicle #3) was legally parked and occupied by an 18-year old male, who was in the front-right seat. He sustained minor injuries and was transported to a medical facility.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+Vehicle 2:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Unknown
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

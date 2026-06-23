@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred during night hours on a weekend. The collision occurred on a straight stretch of north-south roadway in a 56 kmph (35 mph) zone, and there were no adverse atmospheric conditions or roadway defects at the time of the crash. Vehicle one (V1), a 1988 Nissan 300ZX, was traveling northbound in the second lane of a five-lane, two-way, undivided, dry, level, bituminous roadway. Vehicle two (V2), a 1987 Nissan king cab pickup, was traveling northbound ahead of V1 in the same lane with lower speed. V1 changed lanes to the right and accelerated to pass V2. As V1 approached, V2 unexpectedly changed lanes to the right as well. The driver of V1 activated his brakes, but was unable to sufficiently slow the vehicle to avoid a collision. The front of V1 impacted the back of V2. V1 continued to skid forward and came to rest in the first northbound lane. V2 continued moving right after impact and departed the road to the right side, where the right front wheel of V2 impacted the raised curb. V2 continued forward and impacted a steel light pole with its front plane in a sideswipe pattern. V2 rotated slightly clockwise from impact and continued moving north off the road, and the front of V2 impacted a large tree, bringing V2 to rest. The 24-year-old male driver of V1 reported that he was on the way to a friend's house after having worked at a music festival. Also, he was fatigued from a combination of work and insufficient sleep. The critical precrash event for V1 was coded: other vehicle in lane, traveling in same direction with lower steady speed. The critical reason for the event is not attributed to V1. The 19-year-old female driver of V2 could not be interviewed. She reported to police that she was distracted from the driving task while searching for an address. It is unknown if her lane change to the right was intentional or the result of distraction. The critical precrash event for V2 was coded: other vehicle in lane, traveling in same direction with higher speed. The critical reason for the event was attributed to V2, and is coded: driver related recognition error, external distraction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Changing lanes
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- External distraction

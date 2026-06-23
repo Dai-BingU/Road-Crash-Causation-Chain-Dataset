@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a two-lane, one-way interstate highway with grass shoulders. The roadway had a posted speed limit of 105 kmph (65 mph) and a downhill grade of 2 percent. The road curved to the right and had a superelevation of 11 percent. Conditions were daylight and dry with clear skies. The crash occurred in the early afternoon hours of a weekday. Vehicle one was a 2000 Nissan Frontier pickup. Vehicle two was a mowing tractor trimming the roadside grass along this portion of interstate highway. V2 had completed cutting the right roadside and was attempting to cross the highway to the left roadside. The driver of V2 looked left and saw a vehicle approaching in lane one that gave him enough gap distance in which to cross. V2 proceeded to cross the highway. The driver of V2 did not see V1 traveling in lane two because his sightline was obstructed by the non-contact vehicle in lane one. The front of V1 struck the left side of V2. V2 rolled one-quarter turn onto its right side, coming to rest on the left shoulder. The driver of V2 was ejected from the tractor. V1 was driven by a 54-year old male who was transported to a local trauma center with non-incapacitating injuries. He stated that he was watching a vehicle ahead of him suddenly swerve left to make a highway exit when he realized a mowing tractor was crossing the road in front of him. He braked without lockup and struck the tractor. He estimated his travel and impact speeds to be 65 mph. V1 was towed due to damage. The Critical Precrash Event for the driver of V1 was the encroachment of the tractor into his lane from the side of the road, across his path. No Critical Reason was coded to this driver. Associated factors included an exterior factor (the non-contact vehicle that had been traveling in front of him that cut over to the left at the last moment), medications for asthma and acid reflux as well as infrequent travel of this roadway (every two weeks). V2 was driven by a 46-year old male who was transported to a local trauma center with incapacitating injuries. He stated that a vehicle obscured his view of V1 as he was crossing the roadway. He estimated his travel and impact speed to be 5 mph. The tractor was towed due to damage. The Critical Precrash Event for the driver of V2 was when he began crossing over the roadway. The Critical Reason was inadequate surveillance of the oncoming vehicles. Associated factors included the driver's view of V1 blocked by a non-contact vehicle, having family issues on his mind at the time of the crash, and unfamiliarity with the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Driver Physical, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other- Other (specify) :
+ 2 ：Other- Other (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a two-way, two-lane roadway. It was not physically divided, and had a traffic-control device, for a construction zone. The conditions were as follows: early afternoon, clear skies, the roadway was dry and there were no atmospheric conditions. The gradient for the two vehicles involved were both on a +6% roadway. The posted speed limit for vehicle one (V1) and vehicle two (V2) was 64 kph (40 mph). V2 was a 2005 Mercury Sable was traveling northbound and was stopped for a stop/slow sign for the construction zone. Upon realization of the impending crash, the driver of V2 stated that he could not do anything. V1 was a 2002 Dodge Neon, traveling northbound. V1 struck V2 in the center part of V2's rear bumper. The impact caused V1 to push V2 up the roadway. V1 and V2 came to final rest in the roadway. V1 was towed due to damage. V2 was able to be driven from the scene. I spoke to the construction worker on scene, which was holding the stop sign. He was only able to give a few words, due to the language barrier. He attested that V2 was waiting for the sign to change, so V2 could proceed. He further stated that V1 pushed V2 up the roadway some. The driver of V1 was a 78 year old female that stated she was coming over the hill breaking and she did not remember seeing the brake lights on the vehicle ahead of her. The Critical Precrash Event for V1 was coded as other motor vehicle in lane stopped. The Critical Reason for the Critical Precrash Event is looked but did not see the brake lights of V2. The driver of V2 was a 64 year old male that stated he was stopped at construction during that time a car came from behind and hit him. He saw the car in his rearview mirror half second before impact. The Critical Precrash Event for V2 was coded as other motor vehicle traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

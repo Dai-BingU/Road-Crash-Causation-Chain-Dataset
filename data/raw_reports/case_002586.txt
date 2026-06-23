@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle intersection related crash occurred on a clear weekend afternoon. The primary East/West road is straight and divided. It has three concrete eastbound lanes, the #3 lane being a left turn lane controlled by tri-lights, with a -1.6% downhill grade. There were two concrete westbound travel lanes controlled by tri-lights and a +2.4% uphill grade. The posted speed limit for East/West travel is 72-kmph, or 45-mph. The minor intersecting roadway is comprised of an interstate on-ramp travel lane for the south leg of the intersection; the north leg of the intersection was not a factor in this collision. Vehicle one (V1), a 2000 Dodge silver 4 door Intrepid with 2 occupants was heading east in the number-one right lane going straight through the intersection when it's front impacted with the right side of vehicle two. Vehicle two (V2), a 2003 Mitsubishi Galant silver 4 door with 4 occupants, was heading west in the number-three left turn lane. V2 was impacted on it's right side as it turned left at the intersection. After this first impact, V2 then struck a traffic signal on the southeast corner, before being struck again by the front of V1. Both vehicles were towed from the scene. A 42-year-old male was driving V1. As V1 was approaching the intersection the driver was engaged in a casual conversation with the passenger, and was not fully attentive to the task of driving. The driver glanced intermittently at the passenger during the conversation, and did not survey the intersection as he approached it. The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason was not coded to this vehicle. The driver of V2 was 35-year-old female who was engaged in conversation with her sister at the time of the crash. There were also had two small children in the vehicle who were excited about the destination for the trip. As V2 approached the intersection the driver of noticed that a vehicle in front of her heading east in the second lane had stopped at the intersection and turned on its left turn signal to turn left going the wrong way onto the exit ramp from the interstate. At that time other vehicles were honking their horns to alert the non-contact vehicle that they could not turn left. As V2 slowed to a stop at the intersection the ill-fated non-contact vehicle distracted both the driver and passenger. When V2 turned left neither the driver nor the passenger checked for oncoming traffic. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event is attributed to the driver of V2 as a driver related factor: exterior distraction. The ill-fated non-contact vehicle signaling to turn left would have ended up going the wrong way onto the interstate, and this led to the improper surveillance of the intersection by the driver of V2 which resulted in the failure to yield to V1 as she made her left turn. Also this vehicle caused a site line restriction between V1 and V2 as V1 approached the intersection.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Stress/Emotion, Roadway, Surveillance present problem 
+Vehicle 2:  Distraction, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- External distraction

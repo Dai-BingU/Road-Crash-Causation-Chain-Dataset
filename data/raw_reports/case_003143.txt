@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a residential roadway. There was an east/west roadway with parking lot accesses on the north and south sides of the road. The roadway had a posted speed limit of 56 kmph (35 mph). There was a 2% downhill grade in the eastbound direction, and a 5% uphill grade for the northbound approach out of the parking lot. Conditions were daylight and dry with clear skies. The setting was midday on a weekend. Vehicle one was a 2000 Chevrolet Camaro coupe traveling eastbound in lane two. Vehicle two was a 1995 Honda Accord sedan stopped facing northbound in lane two waiting to turn left. Vehicle three was a 2007 Toyota Camry sedan traveling westbound in lane one. Vehicle two turned left into the roadway. The front of V1 impacted the left side of V2. V1 came to rest northeast of the impact. V2 continued northeast and impacted the left front wheel of V3 with its front. V2 came to rest in the roadway at the second point of impact. V3 traveled a short distance west before coming to rest in the roadway. The Chevrolet Camaro (V1) was driven by a 24-year old male who was treated on scene for possible injuries. He stated that he was heading to his parent's house when a car pulled across the road from the parking lot to his right. He braked but could not avoid the crash. His estimated travel and impact speeds were 64 kmph (40 mph). The Chevrolet coupe was towed due to damage. The Critical Precrash Event for V1 was "other vehicle encroachment from a crossing street turning into the opposite direction". No Critical Reason was coded to this driver. No associated factors were present for this vehicle. The Honda Accord (V2) was driven by a 16-year old female who was uninjured. She stated that she was returning to school after picking some things up for her high school band at the grocery store. She was trying to turn left out of a parking lot when she was unexpectedly struck on the left side. She didn't have a chance to react. Her estimated travel and impact speeds were 16 kmph (10 mph). The Honda sedan was towed, but not due to police-reported damage. The Critical Precrash Event for V2 was "this vehicle traveling turning left at an intersection". The Critical Reason was "inadequate surveillance (looked but did not see)". This driver wore contacts for a nearsighted condition. She is a full time student. She has only been licensed to drive for three months, and has only been driving for 18 months. The Toyota Camry (V3) was driven by a 25-year old female who was uninjured. She stated that she was heading home from the store when a crash occurred ahead of her. She was unable to act in avoidance when V2 crossed the road and impacted her left front wheel. She estimated her travel and impact speeds to be 56 kmph (35 mph). Her Toyota sedan continued in service after the crash. No Critical Precrash Event or Reason were coded to V3 because it was not involved in the first harmful event. No associated factors were present for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

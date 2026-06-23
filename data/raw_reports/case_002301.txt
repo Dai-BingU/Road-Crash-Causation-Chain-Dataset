@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at an intersection controlled by traffic control signals. It occurred mid-morning when one of the vehicles attempted a left turn in front of an on-coming vehicle. An eight-lane traffic way is divided by a median strip without positive barrier. Each four-lane roadway surface was bituminous and damp from melting snow. No adverse weather conditions existed at the time of collision, yet probable sun glare to eastbound traffic existed. The speed limit is 56 kmph (35 mph). Vehicle one (V1), a 1984 Dodge Ram 150 pickup, with one occupant, was traveling west in lane 2. Vehicle two (V2), a 1992 Toyota Camry, with one occupant, was initially traveling east in lane 3. V2's driver maneuvered into lane 2 from lane 3 back to lane 3 and lastly into lane 4 (left turn lane) prior to final approach and entering the intersection. The lane changes were due to construction barrels and an electronic sign notifying eastbound traffic the closure of lane three upon approach to the intersection. Approximately 50-meters (164-feet) before the intersection, lane three was available for traffic as was lane four, the left turn lane. For eastbound traffic, the direction V2 was traveling, there is a protective left turn arrow and then a green light where the vehicle has to yield to oncoming traffic before proceeding to turn left. At the time of the crash, V2 had a green light and not the protective green arrow. As V1 preceded through the intersection and V2 turned left, the front left corner of V1 contacted the front plane of V2. V1 was deflected to the northwest corner of the intersection before coming to rest against a snow bank. V2 at impact rotated counterclockwise approximately 180 degrees coming to rest approximately 15-meters (4.6-feet) west of the impact. Both vehicles were towed from the scene. The driver of V2 was transported to a local hospital where she was treated and released. A witness was behind and following V2. The witness stated the sun was very bright and low and shining directly in their eyes. V2 pulled into the intersection did not stop or slow down. V2 was traveling about 16-kmph (10-mph) at the time. The critical pre crash event for V1 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason was not coded to this vehicle The critical pre crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was assigned to V2 and coded as a driver related factor: inadequate surveillance( e.g., failed to look, looked but did not see).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Distraction, Driver Stress/Emotion, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

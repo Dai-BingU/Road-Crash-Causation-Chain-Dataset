@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred late in the afternoon on a dry, level, bituminous roadway that runs east to west. This roadway intersects with another dry, level, bituminous roadway that runs north to south. The intersection was controlled with a traffic signal (with left turn arrows) that has pedestrian signals and crosswalks. The posted speed limit is 72 kmph (45 mph). It was dark at the time of the crash and there were no adverse atmospheric conditions present at the time of the crash. Vehicle one (V1), a 1994 Dodge Stealth driven by a 23 year-old female was traveling eastbound in lane one attempting to make a left turn at the intersection and travel north. Vehicle two (V 2) a 2000 Nissan Maxima driven by a 21 year-old male with one passenger was traveling westbound in lane three. As V1 entered the intersection the front of V2 struck the right side. V1 rotated counterclockwise and came to rest in lane three of the southbound roadway. V2 came to rest in lane one of the westbound side of the roadway. Both vehicles were towed from the scene, no reported injuries. The critical precrash event was for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: false assumption of others actions. The driver stated that she misjudged the flow of traffic in the westbound lanes. There was a non-contact vehicle that was stopped facing westbound in lane four. She reasoned that if this vehicle was not moving, then the westbound traffic must have had a red light and it was clear for here to proceed. The critical precrash event for V2 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

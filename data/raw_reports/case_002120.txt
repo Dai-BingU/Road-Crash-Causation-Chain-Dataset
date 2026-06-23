@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a traffic signal-controlled intersection. The north/south roadway is divided by a curbed median. The northbound approach lanes have a 4.1% uphill grade and consist of three through lanes and a left turn lane. The southbound approach lanes have a 4.1% downhill grade and consist of three through lanes and a left turn lane. The speed limit on this roadway is 48 kmph (30 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2005 Ford Taurus, was stopped southbound in lane four waiting to turn left. Vehicle two (V2), 2006 Scion TC, was northbound in lane one. There were stopped vehicles in northbound lanes two, three and four. V1 turned left and the right side was struck by the front of V2. V2 continued to the northeast and the front struck a tree and the left side struck the concrete base of a utility pole. Both vehicles were towed due to damage. The driver of V1, a fifty-four-year-old female, was traveling from her home to work. She was healthy, well rested and familiar with her vehicle. She drives this route daily. This driver stated that the northbound stopped vehicle drivers "waved me through." The driver of V2, a forty-seven-year-old female, was traveling from her friend's home to work. She was well rested, in good health and comfortable with her vehicle. This driver travels on this roadway several times per month. The pre-event movement for V1 was coded as "stopped in traffic lane." The critical pre-crash event for V1 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)." The pre-event movement for V2 was coded as "going straight." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from opposite direction - over left lane line." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Decision, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

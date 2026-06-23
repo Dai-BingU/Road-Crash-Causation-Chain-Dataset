@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a two-lane east/west roadway at a Y-intersection with another two-lane roadway. The bituminous roadway was dry and curved slightly to the right; it was sloped 4% uphill to the west. There were no traffic control devices. The posted speed limit was 72 kmph (45 mph). Traffic was moderate. The crash occurred early on a weekday afternoon under sunny skies. V1, a 1992 Toyota Camry four-door with one occupant was westbound in lane one. V2, a 1990 Oldsmobile Delta 88 Royale four-door with one occupant was stopped westbound in lane one ahead of V1. V1 front end struck the rear of V2 from behind pushing it forward. V1 came to rest about 2m west of the point of impact, V2 came to rest westbound about 38m west of impact. Both vehicles were towed from the scene. The driver of V1, a 17-year old male, was uninjured. He stated that he was on his way to a nearby bookstore traveling at 89 kmph (55mph). The driver said he glanced down to look at his speedometer and when he looked back up he noticed that he was about to strike V2. He was uncertain if V2 was stopped slowing or moving. The driver reported that he hit his brakes but was unable to avoid striking V2. The Critical Precrash Event for V1 was coded other motor vehicle in lane other vehicle stopped. The Critical Reason for the Critical Event was coded as a driver related factor, an internal distraction. Associated factors include driver fatigue (he admitted it), tire/wheel deficiency (no tread on either front tire and all four tires were extremely over-inflated) and driver inexperience. The driver admitted that this was his second crash in less than a year. The driver of V2, a 54-year old male, suffered minor injuries and was transported to a hospital. The driver would not respond to the researcher's calls to his home or workplace or to a letter hand delivered requesting the interview. The Critical Precrash Event for V2 was coded other vehicle in lane traveling in the same direction with a higher rate of speed. The Critical Reason for the Critical Event was not coded for this vehicle. There were no known associated factors coded to V2 and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Inexperience, Speed/Distance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

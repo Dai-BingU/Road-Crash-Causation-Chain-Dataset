@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at mid-afternoon hours on a clear day. The crash occurred at a controlled intersection with traffic signals without a pedestrian crossing. The roadway lies north to south and the south point of the intersection has five lanes and an uphill grade The north point has seven lanes and is level the speed limit is 56 kmph (35 mph). Vehicle one (V1), a 1995 Ford Explorer, driven by a 40 year-old female with one passenger was northbound in lane three attempting to make a left turn on a circular green signal. Vehicle two (V 2) a 1999 Chevrolet S-10, driven by a 68 year-old male was traveling south in lane three. As V1 initiated the left turn the front of V1 struck the front of V2. V1 and V2 were towed from the scene due to damage and both occupants of V1 were transported to a local trauma center with non-visible injuries. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason was coded as a driver related factor: false assumption of other's actions. The driver thought the other vehicle had to yield to his vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a six-lane US Highway that was divided by a grass median, at an intersection with a primary arterial road. The highway ran north/south, and the arterial road ran east/west. On the southbound side of the highway (north side of the intersection) there were four travel lanes, two being left turn-only lanes. On the south side of the intersection (northbound lanes) there were four travel lanes with only one being a left turn-only lane. There were also two through lanes and a right turn-only lane on the south side of the intersection. The intersection was controlled by traffic signals on colors with no pedestrian signal. The posted speed limit on the north/south roadway was 72 KMPH/45 MPH. The northbound travel lanes on the south side of the intersection had a negative 3 percent grade and the southbound lanes were level until actually in the intersection, which was then a negative 2 percent grade at point of impact. Conditions were rainy and dark with street lamps illuminated on a weekend evening. The highway was straight along the portion where the crash occurred. Vehicle #1, a 2000 Honda Civic, was traveling north in the third lane of travel (the left turn-only) on the U.S. Highway attempting to make a left turn onto the westbound roadway. Vehicle #2, a 1995 Ford E-250 cargo van, was traveling south on the U.S. Highway in the first lane of travel. Vehicle #2 struck the front of Vehicle #1 in the intersection. After impact Vehicle #1 spun 90 degrees counterclockwise and traveled approximately 25 meters south in the southbound lanes, coming to rest partially on the right shoulder and partially in the grass next to the shoulder facing southwest. Vehicle #2 came to rest on the right shoulder on the south side of the intersection thirty meters south of Vehicle #1. Both vehicles were towed due to damage. Vehicle #1 was driven by a 27-year old belted female whose airbags deployed. She was transported to a local trauma center for treatment of incapacitating injuries. She refused an interview via her husband. The critical pre-crash event for Vehicle #1 was this vehicle turning left at intersection. The critical reason for the critical pre-crash event was a decision error - illegal maneuver. The driver admitted running a red light to the police officer. The only other associated factor that could be positively coded to this vehicle was rain. Vehicle #2 was driven by a 48-year old belted male who was not injured in the collision. He was on his way home from work when the crash occurred. The critical pre-crash event for Vehicle #2 was other vehicle encroachment from opposite direction over left lane line. The critical reason for the critical pre-crash event was not coded to this vehicle. False assumption was coded to this driver because he assumed that the other vehicle would yield the right of way. Rain was also an associated factor for this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Weather/Environment present problem 
+Vehicle 2:  Decision, Driver Stress/Emotion, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

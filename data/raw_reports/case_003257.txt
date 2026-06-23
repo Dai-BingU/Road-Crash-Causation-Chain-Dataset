@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at a two-way two-lane intersection. There was a flashing control signal (red to the north and south and yellow to the east and west). The roadways were both posted at a speed of 72 kmph (45mph). The north side of the intersection has less than a 2% negative slope and the westbound roadway had a positive grade of 2.5%. It was daylight and the roadway was wet and a light snow had fallen. Vehicle 1 was a 1995 Ford Wind Star, which was traveling south decelerating to the stop. As the driver applied the brakes the wheels locked up on the slick roadway. Trying to avoid the crash, the driver steered right. This maneuver was not successful and Vehicle 1 was contacted in the left drivers side door by the right front of Vehicle 2. Vehicle 1 spun off in a clockwise rotation and came to final rest off road in the grass on the north side of the east, west roadway. Vehicle 2 came to final rest on the south shoulder of the east, west roadway. A 27-year-old female who drove Vehicle 1 was transported to a local trauma center with minor injuries. She stated that she was on her way to work one block away. She also stated the road seemed clear but must have had black ice. Her vehicle was towed due to damage. The Critical Precrash Event for V1 was coded as “This vehicle loss of control due to poor road conditions (puddle, pot hole, ice, etc.)”. The Critical Reason for the critical event was coded as “Slick road condition”. She was wearing glasses to correct a myopic (nearsighted) condition. Vehicle 2 was a 2004 Trail Blazer and was driven by a 30-year old female who was not injured, but her vehicle was towed due to damage. She stated that she was on her way home from taking her child to school when the crash had occurred. She also stated that she tried to stop when she saw the other vehicle, could not stop, and contacted the left side of Vehicle 1. The Critical Precrash Event for Vehicle 2 is other vehicle encroachment (from cross street, across path). The Critical Reason was not coded to the driver of Vehicle 2. At the time of the crash, driver 2 was driving into the intersection with the right of way.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Decision, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred on a divided roadway on an overpass. In the northbound direction, this roadway is level and curves to the left with a radius of curvature of 188 meters. There are two lanes in each direction. This roadway was dry at the time of the crash but had patches of sand that had been applied due to a recent ice condition. The speed limit on this roadway is 56 kmph (35 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2000 Ford F150 pickup, was northbound in lane one. V1 began to rotate counterclockwise and traveled to the west. The front right wheel struck the curbed median. V1 continued to rotate, traveling across the southbound lanes. The front of V1 struck the guardrail and V1 came to rest facing southeast. V1 was towed due to damage. The driver of V1, a fifty-three-year-old male, was traveling from a relative's home to his home. He was healthy, well rested and familiar with his vehicle. This driver travels this route daily. The pre-event movement for V1 was coded as "negotiating a curve." The critical pre-crash event for V1 was coded as "this vehicle control loss due to traveling too fast for conditions." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; too fast for conditions (overpass had previously been sanded for ice."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :

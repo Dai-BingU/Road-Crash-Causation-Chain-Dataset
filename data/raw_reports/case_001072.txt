@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a two-lane, two-way, undivided roadway. There were no vehicle traffic control signals present for this particular stretch of roadway. The road had a posted speed limit of 72 kmph (45 mph). It had just started to rain slightly but the road was still considered dry at the time of the incident. The gradient for this trafficway was measured to be level. Vehicle one (V1) and Vehicle two (V2) were both light vehicles. V1, a 2002 Honda Civic, was approaching V2, a 1980 Dodge Aspen, at approximately 34-48 kmph (21-30 mph), heading in the same direction. V2 was stopped on the roadway waiting to make a left turn into a private driveway. The left front of V1 made contact with the rear right of V2. The impact caused V2 to rotate counter-clockwise approximately 90 degrees before coming to final rest in the entranceway of a daycare center. V1 continued forward before coming to final rest in its original lane of travel. Both vehicles had to be towed from the scene due to damage. The driver of V1, a 69-year old female, did not suffer any injuries as a result of the impact. The interview with the driver of V1 did not yield much information. She was not really sure what the reason for this crash was. She claimed that there was another car directly in front of her vehicle and behind V2. She stated that the car in front of hers went around V2, which was waiting to make a left hand turn into a daycare center. As soon as she realized the impending danger she hit the brakes. This action was unfortunately not enough to prevent the crash from occurring. The driver of V1 claimed to be in good health; however, she was taking some prescription medication. One prescription was a hormone-replacement medication and the other medication was a thyroid-replacement medication. No deviance from the driver's normal sleep pattern was noted, and she claimed to be well rested at the time of the incident. Further, no emotional stresses were believed to be a factor in this crash. She was wearing her prescription lenses that corrected both hyperopic and myopic vision conditions. The Critical Precrash Event for this driver was when another motor vehicle was stopped in her lane. The Critical Reason was coded as an "other" recognition error - driver focused on extraneous vehicle. The driver kept watching the vehicle she had been following as it swerved around V2. The weather was also coded as an associated factor - it was drizzling at the time of the crash. The driver of V2, a 31-year old female, was not seriously hurt; however, she was taken to the hospital for evaluation. V2 was stopped in the traffic lane waiting to make a left turn into a daycare center. The interview could not be obtained from this person because no phone number was provided on the Police Accident Report. There was a phone number on the medical report but no one could be reached at that number. The Critical Precrash Event for this driver was when another motor vehicle was in her lane traveling in the same direction with higher speed. The Critical Reason was not coded to this vehicle. One associated factor coded to this vehicle was the weather, because it was drizzling out at the time of the crash. No other information about the driver of V2 was known because there was no interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other recognition error (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

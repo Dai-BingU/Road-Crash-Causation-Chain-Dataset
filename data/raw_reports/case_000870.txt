@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred during daylight hours with no adverse atmospheric conditions. The roadway was divided, straight and level. The eastbound lanes consist of three through lanes and a left turn lane. The speed limit on this roadway is 72 kmph (45 mph). Vehicle one (V1), a 1994 Ford F150 pickup, was eastbound in lane four (the left turn lane) approaching a four-leg intersection controlled by tri-lights. As V1 crossed through the intersection it traveled across the westbound lanes and departed the left side of the roadway. The right side of V1 struck a concrete retaining wall. V1 then traveled down a steep embankment and the front struck a tree. The driver of V1, a thirty-four-year-old male, was not interviewed. According to the police officers at the scene, this driver lost consciousness, which resulted in his inability to drive. Medical records could not be located for this driver. The critical pre-crash event for V1 was coded as "this vehicle traveling; off the edge of the road on the left side." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; heart attach or other physical impairment of the ability to act."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Unknown
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

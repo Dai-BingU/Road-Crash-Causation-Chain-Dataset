@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary A two-vehicle crash occurred during the morning daylight rush hour at an urban intersection. The north/south roadway is undivided and comprised of two through lanes and a left-turn lane in each direction. The east/west road is divided by a rumble strip median, and has two lanes in each direction, on the east leg of the intersection. The west leg is undivided and has one lane going westbound and two lanes and a left-turn lane on the eastbound side. Traffic control lights that were working properly at the time of the crash control the intersection, in all directions. The speed limit is 58 kmph (35 mph). Vehicle one (V1), a 2002 Dodge Durango with two passengers, was traveling northbound in the second lane through the crossover when it was struck on its right side by the front of vehicle two. Vehicle two (V2), a 1999 Chevrolet Caviler with one occupant, was traveling westbound in the second lane. Both vehicles were reported not towed on the police report, but the damage they received during the crash made both vehicles undrivable. None of the occupants were injured or transported due to injuries in the crash. The driver of V1 was a 25-year-old male. He only gave a very brief description of his perspective of what happened during the crash and then refused to answer the majority of the interview questions. The driver of V1 stated he had a green light as he entered the intersection and he had to swerve out of the way to avoid V2. After the impact of V1 and V2, a non-contact vehicle swerved, hitting another vehicle. This crash was a separate incident, it was not considered relevant to the primary crash. A witness was in one of these vehicles and observed the initial crash between V1 and V2. According to the witness, the driver of vehicle one ran the red light and drove into the path of vehicle two. The Critical Pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Pre-crash Event was coded to V1 as a driver decision error: illegal Maneuver. It is deduced that the driver of V1 purposely ran the red light, and did not look for crossing traffic. The police report narrative indicates the driver of V1 initially wanted to turn right at the intersection, but due to traffic being backed up in that direction, he decided to proceed straight through the intersection. He was cited on the police report for disregard of traffic controls as a contributing factor for the collision. The driver of V2 was a 26-year-old female. The driver had just dropped her daughter off at school and was driving home. V2 was traveling through the intersection with the green light, and the driver steered right and applied the brakes but was unable to avoid the impact with V1. The Critical Pre-crash event for V2 was coded: other vehicle encroachment, from crossing street across path. The Critical Reason for the Critical Pre-crash Event was not coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

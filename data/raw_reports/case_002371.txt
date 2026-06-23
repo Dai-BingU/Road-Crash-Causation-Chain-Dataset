@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on an eastbound exit ramp of a three-lane parkway. The pre-crash roadway had a posted speed limit of 80 kmph (50 mph), however no speed was posted for the exit ramp. There were warning signs posted along the exit ramp of the sharp curve ahead. The conditions were daylight and dry with sunny skies on a weekday morning. The exit ramp had an uphill grade of 3 percent and was curved to the right. The pre-crash roadway was straight and level. Vehicle #1 was a 1995 Chevrolet G-Series Van, which was traveling in the right lane exiting the parkway. The driver of Vehicle #1 took the curve too fast and skidded off the ramp into a guardrail, which Vehicle #1 then partially mounted. The driver of Vehicle #1 claimed that as he entered the exit ramp, an unknown vehicle came along the right side of his van and caused him to lose control and drive into the guardrail. The vehicle came to final rest with its front end partially over the guardrail. A 22-year old male drove Vehicle #1 and a 29-year old male was a passenger. Neither was injured or transported to the hospital. The driver stated that an unknown vehicle had driven up on his right side and cut him off on the exit lane, which caused to lose control and contact the right side guardrail. The driver received a citation for operating a commercial vehicle on a parkway. He stated in the interview that he travels on this roadway daily, which prohibits commercial vehicles. The van was towed due to damage. The Critical Pre-Crash Event for Vehicle # 1 was when it traveled off the edge of the road on the left side. The Critical Reason for the Critical Pre-Crash Event was a decision error - too fast for curve. The driver's statement that a non-contact vehicle on his right forced him off the road was not deemed credible due to the narrow width of the road and the lack of tire tracks on the grass to the right. An associated factor coded to the driver of Vehicle #1 was a distraction by a non-contact vehicle that may have caused him to fail to reduce his speed sufficiently in order to safely negotiate the curved ramp. The driver stated that he was in good health and was not fatigued at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred during daylight hours on a weekday. The crash occurred on a straight stretch of a four-lane, two-way, undivided, dry, level, bituminous roadway. The speed limit in the area of the crash was 56 kmph (35 mph). The first lanes in both directions are bordered by parking lanes. At the time of the crash, there were no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 2002 Honda Accord four-door sedan, was traveling eastbound in the second lane. Vehicle two (V2), a 1996 Mercedes-Benz SL600 two-door coupe, was parked along the south curb, ahead of V1. V2 entered traffic and executed a U-turn. As V2 entered the second lane, the front of V1 impacted the left side of V2. V2 rotated clockwise and came to rest in the first lane. V2 deflected left and came to rest in the second westbound lane. The 60-year-old male driver of V1 reported that he saw V2 stopped along the curb, but he did not anticipate that V2 would execute a U-turn. He also reported that there was a non-contact vehicle in the first eastbound lane, between V1 and V2, which may have obstructed V2's view of V1. As V2 entered traffic, the driver of V1 engaged the brakes, but was unable to stop in time. The critical pre-crash event for V1 was: Other vehicle encroachment, from parking lane. The critical reason for the event was not attributed to V1. The 33-year-old male driver of V2 reported that he had just dropped off his passenger at a residence. He did not observe the approach of V1 prior to the crash and was not aware of V1's presence. The driver was fatigued at the time of the crash, resulting from a combination of respiratory illness and sexual activity the previous night. A non-contact vehicle in the first eastbound lane may have obstructed his view of V1. The critical pre-crash event for V2 was: This vehicle traveling, over the lane line on the left side. The critical reason for the event was attributed to V2, and was coded: Driver related recognition error, inadequate surveillance (e.g., failed to look, looked but did not see).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs, Roadway, Vision present problem 
+Vehicle 2:  Decision, Driver Fatigue, Driver Physical, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Leaving a parking position
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From parking lane
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

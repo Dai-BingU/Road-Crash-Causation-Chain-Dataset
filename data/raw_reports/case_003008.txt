@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle rear end type crash occurred in the afternoon on a clear day. The crash occurred on an overpass bridge of a six-lane (3-lanes each direction), dry, level, divided concrete interstate roadway. The roadway has a positive barrier and the speed limit is 105 kmph (65 mph). There is a traffic signal controlled intersection several hundred meters ahead and there was a previous crash in lane three. Vehicle one (V1), a 1998 Ford F150 with one occupant, was traveling south in lane two. Vehicle two, (V2), a 1993 Jeep Cherokee with one occupant, was traveling south in lane two ahead of V1 stopped for traffic. Vehicle three (V3), a 1973 Ford F100 with one occupant, was stopped in traffic ahead of V2. The front of V1 struck the back of V2. V2 at impact moved forward where the front struck the back of V3. All vehicles came to final rest headed south in lane two. The driver of V1 was transported to a local trauma center with incapacitating injuries and V1 was towed due to disabling damage. V1 contained one occupant, a 21 year-old female. The driver stated she was looking left at a previous crash and when she looked back forward traffic had stopped and she struck V2. The driver is familiar with the vehicle and travels the route weekly. The critical pre-crash event for V1 was coded as: Other motor vehicle in lane, other vehicle stopped. The critical reason was coded as: Driver related factor recognition error, external distraction. V2 contained one occupant, a 21 year-old female. The driver advised she had just stopped for traffic when she was struck hard from behind. The impact pushes the vehicle forward and it stuck V3 in the rear. The critical pre-crash event for V2 was coded as: other motor vehicle in lane traveling in same direction with higher speed. A critical reason was not coded to this vehicle. V3 contained one occupant, a 58 year-old male. The driver stated he was stopped in traffic when he was bumped from behind by V2. The critical pre-crash event was coded: not involved in first harmful event. A critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Turning right
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

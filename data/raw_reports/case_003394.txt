@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the center of a four-way intersection composed of a 5-lane north/southbound roadway, a 3-lane east/westbound driveway and a 2-lane east/westbound driveway. All roadways were bituminous and level. The north/southbound roadway had a posted speed limit of 40 kmph (25 mph), while the driveways had no posted speed limits. The intersection was controlled by traffic lights with pedestrian signals on each corner. It was evening on a weekend. The roads were dry and the sky was clear. Traffic flow was light. V1, a 2006 Cadillac CTS with one occupant, was traveling north, in lane three, when it entered the intersection and stopped waiting to make a left turn. As the traffic light turned to amber V1 attempted the left turn assuming the oncoming V2 would stop. V1 crossed in front of V2 and was struck by V2 on the right side. V2, a 1992 Honda Accord with one occupant, was traveling south, in lane two, when the traffic light turned amber. V2 continued through the intersection, and as V2 did so it struck V1 on the right side. V1, driven by a 27-year-old male who reported a Complaint of pain to the head and was transported to the hospital, stated that he had stopped in the intersection in order to turn left when traffic cleared. When the traffic light turned amber he proceeded to turn, assuming the driver of V2 would stop. V1 made no avoidance maneuver. The Critical Precrash Event for V1 was "this vehicle traveling-turning left at intersection". The Critical reason for the Critical Event was "Driver Related Factor- False assumption of other's actions - Assumed that other driver would yield right-of-way". No associated factors were coded to this vehicle V2, driven by a 22-year-old female who reported a complaint of pain to the head and was transported to the hospital, stated that she was traveling at approximately 40 kmph (25 mph) as the traffic light changed to amber and she entered the intersection. V1 attempted to turn left in front of her and she struck it on the right side. V2 attempted no avoidance maneuver. The Critical Precrash Event for V2 was "other vehicle encroachment form opposite direction over left lane line". No Critical Reason was coded to this vehicle. No associated factors were coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

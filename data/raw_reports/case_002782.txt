@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound direction of a one-lane one-way entrance ramp to a highway. This was a right curved road that had an uphill grade, it was concrete with a posted speed limit of 113 kmph (70 mph). It was a week-night evening but still light out with clear skies. V1, a 1995 Chrysler LHS four door with one occupant was traveling eastbound on a one-way entrance ramp. The ramp had a positive grade and curved right. V2, a 1999 Ford E-series van with two occupants, was traveling westbound on a one-lane exit ramp. The ramp had a negative grade and curved left. V3 was an unknown vehicle that fled the scene. V3 was on the same ramp as V1 following behind him. V3 attempted to pass V1 on the right side and contacted its front to the right of V1. This sent V1 off the edge of the road on the left side. The front of V1 contacted the ground. V1 then entered the exit ramp and contacted its front to the left of V2. V1 came to final rest in the roadway-facing north. V2 contacted its front to a guardrail and then its right to a light pole. V2 rolled one quarter turn and slid down the guardrail and fell off the end. V2 slid approximately 10 meters before coming to final rest on its side in the roadway. V1, a , Chrysler LHS, was driven by a 19-year old male, who reported minor injuries. He stated that he had just come from KFC and was on his way home. He stated that he was traveling at about 56kmph (35mph) when another vehicle tried to pass him on the right side and shoved him off the road. The Critical Precrash Event for the driver of V1 was "other vehicle encroachment from adjacent lane (same direction) - over right lane line." The Critical Reason for the Critical Precrash Event was not coded to the driver of V1. V2, the 1999 Ford E-series van, was driven by a 58-year old male who reported minor injuries. He was just coming from picking up the occupant and was on his way to drop her off. He stated that he was just exiting the highway and was traveling 50-64kmph (31-40mph), when V1 came across and contacted him on the left side. This pushed him into the guardrail causing him to overturn. The Critical Precrash Event for the driver of V2 was "other, not involved in the first harmful event." The Critical Reason for the Critical Precrash Event was not coded to the driver of V2. V3 was an unknown vehicle with an unknown driver. The vehicle did not stop for the crash. The Critical Precrash Event for V3 was "this vehicle traveling over the lane lin on the left side of travel lane". The Critical Reason for the Critical Precrash Event was an "illegal maneuver" for Critical Event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance present problem 
+Vehicle 2:  Drugs present problem 
+Vehicle 3:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+ 3 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 2 ：Other- Not involved first harmful event
+ 3 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Driver Related Factor- Illegal maneuver

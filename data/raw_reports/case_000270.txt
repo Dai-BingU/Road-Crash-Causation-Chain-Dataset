@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a road that ran north/south and was divided by a raised grass median. There were two through lanes in each direction and a third left turn only lane in either direction also for a crossover that was cut through the median to allow traffic from an uninvolved residential side street access to the road. A sidewalk and several residences bordered the west edge of the road. The road was straight with a positive grade (if southbound) of 9%. The road surface was well-worn asphalt. Conditions at the time of the crash were heavy rain with overcast skies with daylight in the early evening on a weekday. The speed limit was 56kph/35mph. V1, was a 1998 Mitsubishi Montero that was accelerating while traveling south on the road. Its rear end lost traction and rotated clockwise and V1 departed the right roadside. It went down a short embankment into a residential yard and impacted a tree with its front, then impacted a second tree with its left side (near the back). V1 came to rest facing west in the yard. V1 was towed from the scene. V1 was driven by a restrained twenty-four year old belted male whose airbags did deploy. He was transported to an area hospital with possible injuries. He was on his way to a friends' house at the time of the crash. A flask containing alcohol was found in V1 and alcohol was listed as present on the police report but no test was ordered. The critical precrash event for V1 was this vehicle traveling off the edge of the road on the right side. The critical reason was coded as poor directional control. Aside from alcohol presence, a tire deficiency was also captured, as there was only 1mm of tread depth measured on each of the tires.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Performance, Roadway, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

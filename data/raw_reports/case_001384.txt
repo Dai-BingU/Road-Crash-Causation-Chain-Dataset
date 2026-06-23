@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred mid-afternoon on a rural, dry, straight, uphill, bituminous, divided state highway. The highway, which runs north to south, has 2 lanes in each direction that are divided by a varying spaced earth median and has a posted speed limit of 105 kmph (65 mph). The northbound road has a +6 percent grade with various curves with guardrails on either side. Vehicle one (V1), a 2000 Dodge Ram pickup, was traveling north in lane. V1 was being driven by a 69 year-old female. When the driver fell asleep V1 drifted left, departed the road, and impacted the end of a guard rail. After impact with the guardrail, V1 rotated counter-clockwise and came to rest in the median facing generally west. The driver and passenger (who was also asleep) were in use of the installed lap and shoulder belt and protected by deployed airbags were slightly injured. V1 was towed from the scene. Both occupants were transported to a local hospital where they were treated and released. The V1 driver claims to be in good health, but stated that she takes medication for high blood pressure and back pain. The V1 driver stated that she had been to a funeral and was on her way back home when the crash occurred. She had slept 7 hours the previous night and was under stress due to the funeral experience. The V1 driver had been on the road for approximately 2 hours and was about 4 hours from home. She could not remember much about the last portion of the trip; her last recollection was leaving her sister-in-law's home. The V1 driver stated that she was probably fatigued from all of the funeral preparation and participation she experienced. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the left side. The critical reason for the critical event was coded as a driver related factor: sleeping, that is, actually asleep.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Inexperience, Driver Performance, Driver Physical, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

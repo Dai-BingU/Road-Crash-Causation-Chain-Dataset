@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary A two-vehicle crash occurred on a clear day shortly before noon at a four-way intersection. Vehicle one (V1) was southbound on a two-way two-lane county road that intersected with a state highway and was controlled with a stop sign & red flashing warning light. Vehicle two (V2) was eastbound on the state highway and had a yellow flashing warning light as traffic controls at the intersection. The state highway was comprised of three eastbound lanes and V2 was traveling in the number two lane going straight through the intersection. As V1 attempted to cross through the intersection, the front of V2 impacted the right side of V1. After impact V2 departed the left side of the road and came to final rest north east of the intersection. After this first impact V1 traveled towards southeast portion of the intersection. The left side of V1's truck bed impacted with a telephone guy wire where V1 came to final rest. Both vehicles were towed due to damage. A retired 74 year-old male that was in good general health drove V1, 1999 Ford Ranger. He was transporting a prized hog that weighed 130-kilograms (350-pounds) to an auction. The hog was ejected from the bed of the pickup during the collision and landed south east of V1's final rest. The driver could not remember anything from earlier that morning and had no recollection of the crash. He had driven just ten miles prior to the collision and drives the route on a weekly basis. He reported the vehicle to be in good working order prior to the crash. According to medical records, the driver has a past 10-year history of type-2 diabetes and some history of anemia. His medications include: Lasix, Iron, Glyburide, Enalapril, Zocor (Simvastatin), and aspirin. Per the driver's statements and the medical records, there was no indication of any illness prior to the collision other than his treatment for diabetes. The outcome from the collision resulted in a mild concussion and memory loss about the collision. V1's critical pre-crash event was coded: this vehicle traveling/ crossing over (passing through) intersection. The critical reason was assigned to the driver of V1 as a driver factor and coded: type of driver error unknown. It could not be determined if the driver made a driver decision or recognition error. The driver of V2 was a 40 year-old male with a commercial driver's license. The drug and alcohol information for this driver is unknown because it is unknown if the driver's company tested this commercial driver for drugs/ alcohol. Police did not require test per PAR and indicated that neither drugs or alcohol were present. Only a partial interview with this driver was obtained. Sleep and work hours for this driver are unknown, so fatigue could not be determined. V2 was a 1992 Peterbilt Conventional 379 tractor with an empty semi end-dump trailer used for construction; however, the purpose of this trip is unknown. The driver was attempting to pass straight through the intersection and observed V1 stopped at the stop sign to his left. V2 was traveling at approximately 72 kmph (45 mph) when V1 pulled out and V2's front contacted vehicle one's right side. V2's driver had no time to take any avoidance maneuvers. V2's pre-crash critical event was coded: other vehicle encroachment/ from crossing street, across path. There was no critical reason coded for V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle daytime collision occurred during early morning hours. The collision occurred in a 4-way intersection with a 3-color control signal and pedestrian signals. The pre-crash roadway for both vehicles is straight and level paved with bituminous. There is a posted speed limit of 48 kmph (30 mph) for both vehicles. Vehicle one (V1), a 1986 Toyota pickup, driven by a 23 year-old male who was heading east in lane 2 on his morning commute from home to work. Vehicle two (V2), a 2000 Volkswagen Jetta sedan, driven by a 41 year-old male who was traveling north in lane 2 who was also on his morning commute from home to work. Both vehicles entered the intersection at approximately the same time, and the front of V2 collided with the right side of V1. V1 then spun to the northeast corner of the intersection, facing southwest. V2 deflected to the northwest corner of the intersection, still facing north. Both airbags in V2 deployed, and the driver of V2 was transported to the hospital. V2 was towed due to damage, and V1 was left parked at the scene. The police report indicates that V1 entered the intersection on a red light. Neither driver had a clear sightline to the other vehicle because the view was blocked by a large transit bus turning right at the northeast corner of the intersection. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as a driver related factor: other decision error (specified as: crossed with obstructed view. The driver's view of V2 was obstructed by in-transport vehicle- bus). The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason for the critical event is not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other decision error (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

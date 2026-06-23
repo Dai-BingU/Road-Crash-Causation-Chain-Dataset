@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a four-legged, traffic signal-controlled intersection. The southbound roadway is one-way, four-lane, straight and level. The speed limit on this roadway is 72 kmph (45 mph). The east/west roadway is undivided, straight, level and consists of one lane in each direction. The speed limit on this roadway is 40 kmph (25 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2003 GMC Yukon, was southbound in lane two. Vehicle two (V2), a 2002 Nissan Altima was westbound in lane one. In the intersection, the front of V2 struck the left side of V1. V2 was towed due to damage. The driver of V1, a thirty-seven-year-old female, was traveling with her four children from their home to run errands. She was well rested, healthy and comfortable with her vehicle and passengers. This driver was not sure what color her traffic signal was when she entered the intersection. She steered to the right when she saw V2 at the last minute in an attempt to avoid the crash. The driver of V2, a fifty-seven-year-old male, declined to complete an interview. He stated that he never saw V1 prior to the crash. The critical pre-crash event for V1 was coded as "this vehicle traveling; crossing over (passing through) intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; inattention (i.e., daydreaming)." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from crossing street, across path." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle." A stopped vehicle in lane three of the southbound roadway causing a sightline restriction that was an associated factor in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Distraction, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary V1, a 2004 Kia Rio 4dr sedan, was southbound in lane 4 (the inside lane of 2 left turn lanes) of a 6 lane, bituminous, urban roadway intersecting a 5 lane, urban roadway at a controlled intersection. V1 was making a left turn on a green arrow onto the 5 lane roadway to go eastbound. V2, a 2002 Ford Ranger Pick-up, was stopped in lane 3 (the left turn lane) of the 5 lane urban roadway facing west, the first car in that lane, waiting for his own green arrow to turn left. V2 saw the southbound traffic turning left toward him and, being experienced with that intersection, started to back up knowing that this traffic sometimes cuts the corner too sharply. V1 cut the corner too sharply and crossed into the lane occupied by V2. V1, front, contacted V2, front, in lane 3 of the east-west roadway. Both vehicles were towed from the scene. Neither driver was reported as injured. Complete Interviews and vehicle inspections were obtained for both vehicles. Alcohol or illegal drug use were not factors in this crash. The driver was found to be familiar with the roadway and the vehicle as well as being properly licensed for that vehicle. He was an experienced driver with the only restriction on his license being that the vehicle he is operating must be equipped with power steering (which it was). He was not late or in a hurry and speed did not seem a factor. There were no indications of fatigue or a medical condition contributing to his actions and he was not cited in the crash. The driver suffers from cerebral palsy and takes various prescribed drugs daily but they were not believed to be contributing factors to the crash. The vehicle inspection yielded no indications that the mechanical condition of the vehicle contributed to the cause of the crash. The pre-crash movement of V1 was turning left at the intersection, the critical pre-crash event was over the lane line on the left side of travel and the critical reason was poor directional control e.g., failing to control vehicle. He was turning left in the inside of 2 left turn lanes which had a lane line that was supposed to separate and guide them through the left turn. This dotted white line was found to be badly worn and hardly visible. A complete driver interview and vehicle inspection was obtained for V2. The driver was found to be both familiar with and properly licensed for his vehicle. He was also familiar with that roadway/intersection, traversing it daily. He was not late or in a hurry being only 1 mile from his destination. There were no indications of fatigue, medical or mental conditions as being contributors to the crash. The driver was not cited in the crash. The vehicle inspection yielded no indications of mechanical problems with the vehicle. The pre-crash movement was backing up (in left turn lane), the critical pre-crash event was other vehicle encroachment from crossing street turning in opposite direction and the critical reason was not coded to this vehicle. This vehicle had not encroached into the intersection before backing up but knew that turning traffic cut the corner of his lane many times while turning so tried to back up when he saw them coming. There were no indications of alcohol or illegal drug use on the part of either driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

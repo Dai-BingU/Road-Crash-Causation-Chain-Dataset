@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the left westbound lane on a straight section of interstate highway that ran east/west. There were two westbound lanes that were separated from the eastbound lanes by a concrete barrier wall that was ½ meter south of the left edge of the roadway. There was another barrier wall on the north side of the highway also ½ meter from that road edge. The westbound lanes had a negative four percent grade. Conditions at the time of the crash were daylight and dry on a weekday morning at the peak of rush hour with heavy congestion in a construction zone. The speed limit was 72kmph (45mph). V1 was a 2002 Nissan Altima traveling west in lane 2 behind V2, a 1998 GMC Sierra in the same lane who was in back of V3, a 2004 Chevrolet Silverado 2500 4x4. V3 came to a sudden stop for traffic ahead of him and V2 hit him in the rear end (trailer hitch) with his (V2's) front. Then V3 unable to stop in time rear-ended V2 causing only minor damage to V1 and almost no visible damage to V2's rear bumper. Although V2 was losing all of its radiator coolant in the road the driver was still made to move it about 240 meters from the crash area to get traffic moving. All three vehicles came to rest within a meter or so of impact according to all of the drivers. V2 was towed from the scene with both airbags deployed and a broken radiator/cooling system, and V1 along with V3 were driven away. V1 was driven by a belted thirty two year old female who was uninjured in the crash. She was on her way to work at the time. V1 was not involved in the first harmful event therefore the critical reason was not coded to this vehicle. The driver was coded as being inattentive with an unknown thought focus and failing to look far enough ahead. Following too closely in heavy rush hour traffic was also attributed to this vehicle. Construction zone with rush hour traffic as a highway related factor were also coded here. V2 was driven by a twenty eight year old belted male who was uninjured in the crash as were both of his restrained passengers who were asleep in the second row at the time of the crash. They were a family on a road trip as part of an extended vacation. The Critical Precrash Event for V2 was coded other vehicle in lane, other vehicle stopped. The Critical Reason was driver inattention. The driver was coded as being fatigued due to having been driving since the predawn hours (almost 3 hours) and his statements claiming not to be a "morning person". This driver was also coded as having failed to look far enough ahead to see traffic stopping. Following too closely due to heavy/rush hour traffic was also attributed to this vehicle along with the construction zone highway factor. The driver was also unfamiliar with the roadway. V3 was driven by a forty six year old belted male who was uninjured in the crash. He was on his way to a jobsite that morning coming from home. The Critical Precrash Event for V3 was coded other vehicle in lane traveling at a higher speed. The critical reason was not attributed to this vehicle. The driver of V3 was talking on the cell phone to one of his subordinates and had just stopped for traffic when he was struck from behind. The construction zone and heavy rush hour traffic were coded as highway conditions for this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance, Traffic present problem 
+Vehicle 2:  Decision, Distraction, Driver Fatigue, Driver Inexperience, Surveillance, Traffic present problem 
+Vehicle 3:  Cell Phone Use, Distraction, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other- Not involved first harmful event
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 3 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

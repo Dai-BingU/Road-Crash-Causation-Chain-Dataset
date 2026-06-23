@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at the intersection of a level, three-lane, dry, bituminous roadway that curves to the right for westbound traffic and a two-lane, downhill, bituminous roadway that runs north to south. The intersection was controlled by a traffic light and did not contain a pedestrian signal. It was dark but lit at the time of the crash and there were no adverse atmospheric conditions. Vehicle one (V1), a 1996 Pontiac Grand Prix was traveling westbound in lane two attempting to make a left turn onto the southbound roadway. Vehicle two (V2), a 1999 Toyota Camry was traveling eastbound in lane one. As V1 began its left turn the front of V1 struck the front of V2. Both vehicles came to rest in the eastbound lane (lane one). V1 was not towed from the scene. V2 was towed due to damage. The driver of V1, an eighteen-year-old female stated in her interview that she was on her way home from work. She indicated that she saw V2 but thought that it was turning, when it was passing straight through the intersection. This driver also indicated that she was eating and drinking some food while driving. This driver drove this road daily but had only been driving for two years. The driver of V2, a sixteen-year-old female was unable to provide and interview. It was later determined that this driver had only been driving for two months. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was attributed to this driver and was coded as a driver related factor: false assumption of other's actions. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

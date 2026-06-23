@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the afternoon of a weekday in the southbound lanes of a 4-lane divided highway. The roadway consisted of two southbound and two northbound lanes divided by a grass median and featured a posted speed limit of 89kmph (55 mph). The bituminous roadway was dry, straight, and level. The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1998 Toyota Corolla LE, was southbound in lane one. V2, a 1997 International tractor with an empty trailer, was also southbound in lane one directly ahead of V1. As V2 began slowing for the traffic ahead of it, V1 crashed into the back of it. V1 came to final rest at impact, in its original lane, and V2 was able to drive to the shoulder. V1 was driven by a 26 year-old male who recently starting his own business which has caused much stress and an irregular schedule. He admits he does not sleep very well and usually feels drowsy, but still feels he is in good health. The driver also wears prescription eyeglasses for a myopic (near-sighted) condition. He was headed to his daughter's kindergarten, driving south in lane one when he looked down at his portable CD player to change the track number. He cannot remember how long he was looking down and cannot remember if he ever looked up, but he drove into the back of V2 without ever slowing down. He immediately stopped in his lane at the point of impact but the fire department moved his car to the shoulder. He was treated and released from a local trauma center for a sore left leg and strained neck. V1 was towed due to damage. The Critical Precrash Event for V1 was coded other vehicle in lane, traveling in the same direction while decelerating. The Critical Reason for the Critical Event was coded as a driver related factor an internal distraction as he was adjusting the CD player. Associated factors coded to this driver include fatigue, as he had not been sleeping well and various work related stresses as he was just starting his own business. V2 was driven by a 37 year-old male that drives large trucks for a career. On the afternoon of the crash, he was returning to his company headquarters after making a delivery 20 minutes earlier. While he was traveling south in lane one of this highway, he was decelerating for the slowing traffic ahead of him. He reports he had his driver side window down, the radio off and was aware of the traffic around him. The next thing he knows, he feels a “slight bump” to the back of his trailer and he drove to the right side shoulder where he discovered a car had drove into the back of his empty trailer. He said he never heard tires braking before the impact. This driver was not injured in the crash and the damage to his trailer was minimal. The Critical Precrash Event for V2 was coded other vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors coded to this vehicle and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of a two-lane roadway controlled by a stop sign. Conditions were daylight and dry in the afternoon on a weekday. The posted speed limit for both roads was 25 MPH. V1 was a 2003 Saturn LW 300 station wagon traveling eastbound in the 1st travel lane approaching an intersection controlled by a stop sign intending on going straight. V2, a 2004 Ford Explorer SUV, was traveling northbound in the 1st travel lane approaching the same intersection intending on going straight. V1 drove thru the intersection and the front of V2 struck the right side of V1 in the intersection. V2 then struck a curb. V1 and V2 came to final rest facing northeast. V1 was driven by a 56-year-old female who sustained minor injuries but was not transported. She stated that she was not familiar with this roadway. As she approached the intersection she was distracted by an ambulance and did not see the stop sign. She failed to stop for the TCD and struck the front of V2 in the intersection. The driver of V1 did not take any avoidance actions and was traveling between 21-30 MPH at the time of impact. V1 was towed due to damage. The critical precrash event for V1 was this vehicle traveling, passing through the intersection. The critical reason for the critical precrash event was a driver recognition error, an external distraction. Associated factors coded to this driver were an exterior factor (ambulance), other recognition factor (driver focused on extraneous vehicle), illegal maneuver (failed to stop for TCD), and an experience factor as it was her first time on the roadway. V2 was driven by a 41-year-old female who was not injured. She stated that she was traveling northbound and entered the intersection when she saw V1 approach her on the left. The driver of V2 swerved right but could not avoid contact with V1. The front of V2 struck the right side of V1 in the intersection. V2 was towed due to damage. The critical precrash event for V2 was the other vehicle encroachment from the crossing street across the path of V2. No critical reason for the critical precrash event was coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Drugs, Surveillance, Traffic present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

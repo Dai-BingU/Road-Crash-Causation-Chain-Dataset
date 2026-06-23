@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the westbound lane of a two-way, non-divided roadway. A left turn lane began 5 meters east of the crash, and traveled to a controlled intersection. Conditions at the time of the accident were clear sky's, during daylight hours, with heavy traffic flow. The roadway had a posted speed limit of 64 kph (40 mph), and the crash occurred at the +2.5% grade, the eastbound traffic had a +6.6% maximum grade 91.44 m pre-impact. Vehicle 2 was turning left after exiting a gas station at the corner, but was stopped by heavy traffic backups due to the traffic light; V2 was allowed to cross the eastbound traffic lane by a waiting vehicle. Vehicle 1 was traveling in the eastbound lane, approaching traffic that was backed up, she intended to turn left at the intersection, so she pulled into the westbound lane in an attempt to reach the tuning lane, and bypass the traffic. Upon entering the westbound travel lane V2 was focused on the traffic approaching from the right and never saw V1. The front right corner of V1 contacted the front left corner of V2 just short of the turning lane. V1 a 2001 Toyota Echo, occupied by a 38 year-old female driver and young male occupant, the vehicle was towed due to damage. The female driver was transported to a local medical center where she was treated and released, the male occupant was uninjured. During the interview of the driver explained that she was dropping her son off for school, but was running late, and that she never even saw that there was a gap in the backed up traffic, and never expected a vehicle to be there. She stated that the sun was in her eyes and that she thought that is why she didn't see the other vehicle. She stated that she drove this particular stretch of road everyday, and was very familiar with the traffic conditions at this time of day. Driver stated during the interview that she always drove this route the same way every day and never expected this to happen. The Critical Pre-crash Event for this vehicle was other vehicle encroachment from driveway, turning into opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors to this vehicle are illegal maneuver, sun glare, and driver being in a hurry. She was wearing prescription sunglasses to correct her vision. She was taking medication for high blood pressure, anti-depression, and allergies that have possible side effects of dizziness, drowsiness and fatigue. She was also taking medication for GERD. The medications were thought not to contribute to the crash. V2 a 1997 Chevrolet Lumina, occupied by a 44 year-old male driver, the vehicle was not towed due to damage, and the driver was uninjured. The driver stated that he had stopped at the gas station on his way home from work to get a pack of cigarettes, and was headed home when the crash happened. He stated that he had worked his normal schedule, and was returning home to rest. He stated that when he was waved into traffic, he had proceeded until he could look towards the light to check for approaching traffic from the light. The Critical Pre-crash Event for this vehicle is turning left at intersection. The Critical Reason coded for this vehicle was turned with obstructed view. Associated factors for this vehicle are driver fatigue and smoking related activity.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Stress/Emotion, Drugs, Roadway, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Decision, Driver Fatigue, Roadway, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Leaving a parking position
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Turned with obstructed view

@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in the afternoon hours at the three-way intersection of a two-lane two-way east/west roadway and a two lane two way gently curving north/south roadway. The east/west roadway is controlled at the intersection by a stop sign; the north/south roadway has no controls and has right-of-way. The bituminous roadway was level and dry, the weather was clear and the crash was in the daylight hours. The speed limit on all the roadways involved was 56 kmph (35 mph). Vehicle one (V1), a 1996 Ford Ranger pickup truck occupied by the 23-year-old male driver only, was southbound in the first lane approaching the intersection. Vehicle two (V2), a 1998 Chevrolet Cavalier two door occupied by the 23-year-old female driver only, was northbound in the first lane approaching the intersection. Vehicle three (V3), a 2004 Ford 150 pickup occupied by a 35 year old male driver and three passengers, was eastbound in the first lane approaching the stop sign controlled intersection. V1 proceeded straight into the intersection. V2, intending to turn left at the intersection began to decelerate, intending to stop and allow V1 to clear the intersection first. V3 came to the intersection and stopped, waiting for the intersection to clear in order to make a left turn. The driver of V2 stated that she was decelerating and felt the need to sneeze, so she pressed down on the brake harder while closing her eyes to sneeze. Unfortunately she pressed on the gas pedal instead of the brake and turned into the path of V1. V1 struck the right side of V2 with its front end. V2 began a clockwise rotation from the impact and struck the front of V3 with its left side. After the impact V1 continued south coming to final rest west of the roadway and south of the intersection. V2 came to final rest at the southwest corner of the roadway, partially off road, facing northeast. V3 remained stationary at the stop sign. V1 and V2 were towed from the scene; V3 was driven from the scene. The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason was not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason was coded to V2 as a driver related factor: other performance error. The driver's foot slipped off of the brake pedal and struck the accelerator while sneezing. The sneezing was considered a non-driving activity. V3 was not involved in the first harmful even. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Distraction, Driver Performance, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Decelerating in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Other performance error (specify):
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

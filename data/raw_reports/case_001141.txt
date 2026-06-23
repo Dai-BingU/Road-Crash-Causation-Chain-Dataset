@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a 2 lane, -3% grade bituminous roadway controlled by a traffic signal and pedestrian walk way sign. Vehicle one (V1), a 1994 white Buick Skylark 4 door sedan occupied only by the 22-year-old male driver, was traveling east. The vehicle passed through the intersection before the vehicle crossed over the center line, left the north side of the roadway and struck a pole with it's front right bumper. Vehicle then rolled over to it's left; four quarter turns to land on its wheels facing southwest. The driver of V1 refused treatment at the scene and the vehicle was towed due to damage. The posted speed is 56 kmph (35 mph). The following factors led to the crash. The driver of V1 has experienced unknown caused seizures in the past, and had unknown medication for such seizures. At this time the driver had not been taking the medication for the seizures because it slowed him down. At the time of the crash, the driver had just left playing basketball with a friend and was heading to football practice. The cause of this crash was a result of the driver exertion by playing sports, which resulted in the seizure and the driver blacking out, causing the driver to exit the roadway and strike the pole and rollover. The pre-crash critical event was coded “this vehicle loess of control due to-other control loss-seizure.” The critical reason was coded “heart attack or other physical impairment of the ability to act.”
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Other cause of control loss (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two vehicle rear end type crash that occurred several hours before mid-night in the number one lane of a two lane, dry bituminous asphalt roadway, there were no roadway deficiencies and no sight line restrictions noted. There were no adverse weather conditions, the speed limit on the roadway where the crash occurred is posted 121 kmph (75 mph). The area where the crash occurred is a 4.6 % downhill slope. Vehicle one (V1), a 1989 Nissan Pulsar hatchback, was driven by a 51 year-old male who was traveling west in lane one. Vehicle two (V2) was a 1991 Ford Explorer SUV driven by a 33 year-old male with four passengers. V2 was traveling west in lane one when the front of V1 ran into its rear. Both vehicle after impact were moved to the right shoulder. V1 was towed from the scene due to damage, V2 was driven from the scene. The driver of V1 stated that he has a history of falling asleep while driving and when he does, the vehicle usually drifts off the roadway and the rumble strips wake him up. At the time of the crash the driver had been driving for over 3.5 hours and admitted to falling asleep prior to this crash. He had just one hour of sleep in the 24 hour period preceding the crash which ended about 14.5 hours before the crash. He was on his way home from a hospital. He has the following medical conditions: Hepatitis C, Liver Cirrhosis, Anxiety disorders, and Narcolepsy. He takes the following medications: Protonix, Tylenol, Ativan and Clondine. He also suffers from sleep apnea and is under no current treatment for that condition. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction with lower steady speed. The critical reason for the critical event was coded to V1 as a driver related factor: sleeping, that is, actually asleep. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Performance, Driver Physical, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

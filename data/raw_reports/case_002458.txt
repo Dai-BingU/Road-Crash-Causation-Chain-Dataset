@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred mid-morning during daylight hours, in the northbound lanes of divided six-lane highway. Both vehicles were traveling northbound in lane two, on a straight stretch of level bituminous roadway. The weather at the time of the crash was clear and the roadway was still wet from previous rain, it was daylight. The roadway was congested. The posted speed limit is 97 kmph (60 mph). Vehicle one (V1) was a 1993 Ford Escort Station wagon driven by a 48 year-old male with one passenger. V1 was traveling northbound in lane two, attempting to change lanes to the left to travel in lane three. Vehicle two (V2) was a 2003 Dodge Ram Pick-up driven by a 45 year-old male who was traveling north in lane two. As V1 was changing lanes, V2 slowed for traffic and the right side of V1 contacted the left rear bumper of V2. V1 continued across lane three into the Jersey wall with it's left side coming off the jersey wall and crossing all northbound lanes, it was hit the right side by V2. V1 continued over the curb on the east side of the roadway and struck a utility pole with it's front end and come to final rest facing southeast. V2 came to a controlled stop on the east shoulder. V1 was towed due to damage. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction while decelerating. The critical reason for the critical event was attributed to V1 as a driver related factor: following too closely to respond to unexpected actions. The critical pre-crash event for V2 was coded: other vehicle encroachment; from adjacent lane (same direction) - over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Performance, Speed/Distance, Traffic present problem 
+Vehicle 2:  Distraction, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

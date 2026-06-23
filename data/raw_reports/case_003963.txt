@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at the intersection of a north/south four-lane roadway with left turn lanes and a three-lane driveway that intersected from the west. The main road was straight and level with a posted speed limit of 64kph (40mph). The driveway, which served as a side exit from a shopping center, had a 7% downgrade and was controlled by stop sign. Conditions were dark with street lights illuminating and a light rain falling on a weekday evening dampening the streets. V1, a 2002 Lexus LS430, was traveling southbound in lane two on the main roadway. A non-contact vehicle was just ahead of the V1 southbound in lane one and was turning right into the driveway. V2, a 1997 Ford Expedition, was stopped eastbound in the driveway. V2 attempted to turn left on to the main roadway and was struck in the left side by the front of V1. After impact V2 rotated counterclockwise and came to rest facing north in the northbound lanes. V1 came to rest facing south in the center left turn lane. Both vehicles were towed due to damage. V1 was driven by a 64-year old female that was not belted but was the beneficiary of deployed frontal airbags. She was transported to an area hospital with minor injuries. A 64- year old female passenger was not injured. The driver reported that V2 turned left across in front of her, hesitating in the intersection. She applied the brakes with full ABS application but could not avoid the collision. The Critical Precrash Event for V1 was coded other vehicle encroaching from driveway, turning in opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. The only associated factors were rain and the wet roads. The driver was wearing glasses to correct a farsighted condition and takes a medication for high blood pressure. V2 was operated by a 59-year old male that was belted and not injured in the crash. No airbags deployed in the vehicle. There were three passengers in the SUV, all were belted and not injured. He stated that he had been stopped at the intersection for several seconds waiting for traffic to clear. He said he looked but did not see any vehicles so he commenced his turn. The Critical Precrash Event for V2 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was coded as a decision error, turned with obstructed view, as the driver could not see around the traffic into other oncoming lanes. Associated factors include turned with obstructed view and a vehicle sightline restriction. Also the impending problem was masked by the traffic flow pattern. The driver was also somewhat unfamiliar with the roadway. Rain and the wet road were also other associated factors. The driver was wearing glasses to correct an unknown condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Weather/Environment present problem 
+Vehicle 2:  Decision, Driver Inexperience, Roadway, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Turned with obstructed view

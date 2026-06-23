@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the late morning of weekday in the middle of an urban intersection. The intersection consisted of an eastbound four-lane one-way roadway and a northbound three-lane one-way exit ramp (speed limit 56kmph/35kmph) controlled by a properly functioning traffic signal. The bituminous eastbound roadway was dry, straight, and level with a posted speed limit of 48kmph (30 mph). The concrete northbound was also dry and straight but featured an uphill grade greater than 2% and had a posted speed limit of 56kmph (35 mph). The traffic flow was normal and the weather was cloudy at the time of the crash. V1, a 2006 Chevrolet Cobalt, was eastbound in lane two approaching the intersection where it intended to continue straight. V2, a 1998 GMC Sonoma was northbound in lane three approaching the same intersection where it also intended to continue straight. V1 continued east the driver failed to note the traffic signal turn red and entered the intersection. As V1 entered the intersection it was struck on the right side by the front of V2. The vehicles side-slapped as V2 was re-directed eastbound by the force of the impact. Both vehicles came to rest in the eastbound lanes just past the intersection. Both drivers were not injured from the crash and both vehicles were towed from the scene due to damage. The driver of V1, a 22-year-old male, claimed to be in good health and taking no medications at this time. He was wearing corrective lenses for a myopic (near-sighted) condition. He stated that his thoughts were not with his driving at the time of the crash. He stated he was thinking of his class he had just attended and about his job. He also stated that he glanced into his rear view mirror as he drove on the one-way roadway. When he looked back forward the light had turned red and he was to close to the intersection to stop. He was than struck by V2. The Critical Precrash Event for V1 was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the critical event was coded as driver related factor, inattention. The driver was thinking about the class he had just attended more so than his driving. The driver of V2, a 25-year-old male, claims to be in good health and taking no medications at this time. He was wearing corrective lenses for a hyperopic (far-sighted) condition. He stated that he was on his way to work and had exited the interstate. As he traveled toward the intersection he noted the traffic light had changed to green so he continued to travel into the intersection. At the last moment he noted the eastbound vehicle was not stopping and he struck it. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street, across path. The critical reason was not coded to this driver. There were no associated factors to this vehicle, as the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

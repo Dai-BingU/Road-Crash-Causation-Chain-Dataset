@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred during early afternoon daylight hours in a 4-way, traffic signal controlled intersection with pedestrian signals. The east/west roadway has an uphill grade for westbound traffic, a downhill grade for eastbound traffic and consists of three through lanes and one left turn lane in each direction which are divided by a raised concrete curbed landscaped median. The north/south roadway consists of one left turn lane, one through lane and one right turn lane for northbound traffic and 2 through lanes for southbound traffic. The speed limit for east and westbound traffic is 64 kmph (40 mph) and also for the northbound road, which has an uphill grade. At the time of the crash, the roadways were dry, and there were no adverse weather conditions, sight restrictions or road defects. Vehicle one (V1), a purple 1996 Ford Windstar, was westbound in the left turn lane approaching the intersection intending to turn left. V1 and vehicle two (V2) entered the intersection and collided front to front. After impact with V2, V1 entered a counterclockwise rotation and came to rest in the number one eastbound lane near the east edge of the intersection facing generally east. The restrained V1 driver, a restrained 77 year old female, was transported to a local trauma center with minor injuries. Vehicle two (V2), a light blue 1996 Dodge Stratus 4-door, was eastbound in lane one approaching the intersection intending to go straight. After V1 and V2 collided front to front in the intersection in the number one eastbound lane, V2 was redirected on a southeast trajectory and collided front to front with V3, stopped northbound in the number three left-turn lane. V2 came to rest near the point of impact with V3 facing generally southeast. The V2 driver, a restrained 66 year old female, was transported to a local hospital with minor injuries. V2 was towed due to damage. Vehicle three (V3), a maroon 1991 Honda Accord 4-door, was stopped northbound in the left turn lane. The front of V2 and front of V3 had a minor collision after V1 and V2 collided. The V3 driver, a restrained 22 year old female, was transported to a local trauma center with minor injuries. V3 was driven from the crash scene. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: misjudgment of gap or other's speed. Associative factors for V1 include the internal distraction of her spouse who urged her to turn; she noticed V2, but she did not originally intend to turn and made her decision to turn while simultaneously looking at oncoming traffic and weighing her own judgment against the verbal input that she was getting from her passenger. The V1 driver stated that her husband, a 92-year-old male seated in the right front seat, always gives her problems with the way she drives. At the time of the crash, he was telling her to get into the intersection and turn left. The V1 driver said that she generally tries to ignore him, but listened to him this time. The V1 driver has a sinus condition and also had been under stress for the past month trying to finish a wedding dress. The critical pre-crash event for V2 was coded as: other vehicle encroachment; from opposite direction - over left turn lane. The critical reason was not coded to V2. V3 was not involved in the first harmful event and was not assigned a critical reason.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Driver Stress/Emotion, Surveillance present problem 
+Vehicle 3:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

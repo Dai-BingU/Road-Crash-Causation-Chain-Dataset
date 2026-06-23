@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle morning crash occurred in the morning during daylight hours on a wet, bituminous, two lane undivided rural state route with paved shoulders and guardrail adjacent to the travel lanes on both sides of the road. At the time of the crash traffic was light, but it was raining. There were no other adverse weather conditions and no road defects or sight restrictions. The road has a posted speed limit of 72 kmph (45 mph). Vehicle one (V1), a dark green 1999 Acura Integra two door hatchback, was traveling northbound approaching a left curve with a slight down hill grade. As V1 entered the curve the V1 driver, a 21-year-old male, lost control and V1 entered a counterclockwise rotation, crossed the centerline and collided head-on with vehicle two (V2). After impact, V1 continued the counter clockwise rotation as it traveled approximately 21 meters (69 feet) north, departed the roadway to the west, and came to rest in a gravel area facing generally east. V1 was towed due to damage. V2, a dark gray 2003 Acura MDX SUV, was traveling southbound approaching the same curve. The V2 driver, a 57-year-old male, stated that he saw V1 cross the centerline and that it appeared to be going very fast. The V2 driver applied his brakes and attempted to steer right, but was unable to avoid the crash. After impact with V1, V2 rotated counterclockwise approximately 40 degrees and came to rest across both travel lanes facing generally southeast. V2 was towed due to damage. There were a total of 3 occupants in V1; all reported as restrained, and none reported as injured. None of the three occupants spoke English and no V1 pre-crash data was obtained. The V2 driver was also restrained and was transported from the scene to a local hospital for neck and back pain. The critical pre-crash event for V1 was coded: this vehicle traveling, Over the lane line on left side of travel lane." The Critical Reason was coded to the V1 driver as "Driver Related Factor - Speed too fast for conditions (curve, wet road, rain and a small right rear spare tire/wheel." The Pre-event Movement for V2 was coded as "Negotiating a curve." The V2 Critical Event was coded as "Other Vehicle Encroachment - From opposite direction - over left lane line." The Critical Reason was not coded to V2. Associative Factors: All four V1 tires were over-inflated to 40 psi and the right rear tire was a temporary spare of a size smaller than the other 3 tires. There were no associative factors pertaining to the V2 driver, who stated that he had just slept for 8.5 hours, was on his way to work, was returning to work after completing a vacation and felt well rested.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

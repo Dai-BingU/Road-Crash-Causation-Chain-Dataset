@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the middle of a four-way intersection. The roadways for both vehicles were asphalt, dry, and level. The posted speed limit was 56 kmph (35 mph) for both directions. Signalized traffic devices with pedestrian signals controlled all directions of the intersection. The crash occurred in the early evening on a weekend. Streetlights illuminated the dark roadway. The traffic flow was normal and the weather was clear. Vehicle one, a 2001 Ford Grand Marquis, was traveling eastbound through the intersection when vehicle two, a 1994 Pontiac Grand Prix, traveling westbound, 180 degrees oncoming, through the same intersection, turned across its path. V1 struck, with its front, the right side front of V2. After the impact V1 rotated slightly clockwise and faced northward at final rest. V2, after the impact rotated slightly counter-clockwise where it came to final rest facing southward. Both vehicles were towed due to damages. Police, however, recorded the crash on a non-reportable crash form. The driver of V1, a 76-year old Female, said was traveling eastbound in lane two of the four lane roadway when vehicle two cut in front of her vehicle and she struck it head-on. She said she saw V2 from a distance approaching from the opposing direction and thought he was going to yield to her right away. She was traveling approximately 64 kmph (40mph) before she came in contact with V1. She was intending to go straight across the busy intersection. She was transported directly to the hospital with minor injuries. The Critical Pre-Crash Event for V1 was also coded as crossing over (passing through an intersection). The Critical Reason was not coded to this vehicle. Associated factor include driving slightly over the speed limit. The driver of V2, a 20-year old male, said he was traveling westbound in lane four of the four-lane roadway passing through the intersection intending to make a left turn southbound when he saw vehicle one coming from his opposing direction, stopping and going and thought she was going to stop completely because of his advances. However, he said at the last minute he preceded and so did vehicle one and she struck his vehicle. The driver of V2 could not explain why he didn't wait for V1 to pass. He said that it was a sudden decision. He's been a license driver for four years and was coming from work. He was not injured. His approximate speed, he said, was 56 kmph (35 mph). The Critical Pre-Crash Event for V2 was this vehicle turning left at intersection. The Critical Reason was coded for this vehicle as a decision error: false assumption of other's actions. Associated factors coded to this driver include: misjudgment of velocity of other vehicle, misjudgment of other vehicle approaching from this driver's forward direction (180 deg opposed), false assumption of other road user's actions; assumed other vehicle would stop.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a 5-lane undivided roadway that runs north and south and intersects with side streets throughout its path. The road is flat, straight and has a posted speed limit of 56 kmph (35 mph.) The conditions this weekend afternoon were clear, dry, and daylight. V1, a 1996 Buick Century with two occupants, was traveling north in lane three and V2, a 1998 Toyota 4-Runner with occupant, was traveling south in lane two. At the location of this crash, two east and west side streets intersect with this main thoroughfare. V1 entered this intersection, turned left, and V2 struck the right of it {event #1.} Both vehicles traveled to the southwest corner of the intersection where they both came to final rest. As V2 traveled to its final rest, it rolled left one-quarter time {event #2} and came to rest in southbound lane one. V1 departed the southwest corner of the roadway and struck a utility pole with its front {event #3.} Both vehicles were towed from the scene and both drivers were transported to a trauma center for moderate injuries. V1 was driven by a 37-year-old male that was returning home from shopping at the flea market. He made the left turn without ever noticing V2 and could not recall any details about the crash. The Critical Pre Crash Event for V1 was coded: "this vehicle turning left at intersection" and the Critical Reason of the Critical Event was coded: "inadequate surveillance (looked but did not see.)" An associated factor coded to this driver was alcohol present. V2 was driven by a 40-year-old male that was not interviewed for this case. According to his medical report, he was driving 56 kmph (35 mph) when V1 turned in front of him. He was able to apply his brakes but he could not avoid colliding with V1. His vehicle rolled onto its side and he was able to climb out of the sunroof. The Critical Pre Crash Event for V2 was coded: "other vehicle encroaching from opposite direction - over left lane line" and the Critical Reason for the Critical Event was not coded this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Distraction, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

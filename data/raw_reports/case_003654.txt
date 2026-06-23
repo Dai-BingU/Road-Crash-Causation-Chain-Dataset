@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during daylight hours in a traffic signal-controlled intersection on a dry, divided, straight roadway. Northbound and southbound travel lanes consist of five lanes; one right turn lane, two through lanes and two left turn lanes. The speed limit on the roadway is 56 kmph (35 mph) and there were no adverse weather conditions at the time. Vehicle one (V1), a 2000 Dodge Durango, was stopped northbound in the outside through lane. Vehicle two (V2), a 2001 Toyota Tacoma, was stopped southbound in the outside left turn lane. A motorcycle patrol officer entered the right side of the northbound roadway with his lights on. The motorcycle pulled in behind V1 and crossed into the left turn lane. Driver one let his foot slip off the brake and vehicle one traveled into the intersection. At the same time, V2 had a green left turn arrow and was negotiating a left turn. In the intersection, the front of V1 impacted with the back right side of V2. V1 rotated slightly clockwise and came to rest in the intersection facing northeast. V2 rotated counterclockwise and came to rest facing southwest in the intersection. Both vehicles were towed due to damage. The driver of V1, a twenty-nine-year-old male, was driving from his son's school an unknown location for breakfast. He was comfortable with the route as well as his vehicle. He and his passenger were watching the police officer and discussing whether they were about to be pulled over. He denied any illness but had taken an over-the-counter nasal decongestant/cough suppressant/pain reliever the previous day, slept almost fifteen hours and had been awake for more than nine hours at the time of the crash. The driver of V2, a thirty-eight-year-old female, was traveling a familiar route and was comfortable with her vehicle. She was well rested and although she was cognizant of the motorcycle police office, she was attentive to the traffic signal and her intended turn. The critical pre-crash event for V1 was coded: other vehicle encroachment, from opposite direction-over left lane line. The critical reason was coded as a driver related factor: external distraction. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Stress/Emotion, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

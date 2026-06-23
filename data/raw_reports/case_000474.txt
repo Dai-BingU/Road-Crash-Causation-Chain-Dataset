@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a 6-lane interstate highway divided by a positive barrier at the end of a ramp from another highway. There were three lanes in each direction for the interstate and two lanes for the entrance ramp, which was not involved in the crash. The roadway was curved to the left pre-crash and straight at the point of impact. It was dry, level, asphalt with a posted speed limit of 89 kmph (55 mph). The crash occurred during the afternoon rush hour on a weekday while traffic was congested. It was a sunny, clear day. V1, a 1994 Chevy Crew Pickup (modified to be used as a vehicle hauler) with two occupants, was traveling eastbound in lane three. V2, a 2005 Sterling AT9 tractor truck towing a 1997 Great Dane trailer, had one occupant and was traveling eastbound in lane three ahead of V1. V2 was slowing down due to the congestion ahead of it. After V1 negotiated the curve to the left and entered the straight section of roadway, it braked with lockup in an unsuccessful attempt to avoid striking V2's cargo unit. After skidding approximately 16m, the front of V1 struck the rear of V2's cargo unit (event 1). V1 caught fire on impact. Both vehicles continued traveling eastbound and stopped still eastbound in lane three. V1 stopped approximately 37m east of impact and V2 stopped approximately 67m east of impact. V1 was towed from the scene. V1, the Chevy vehicle hauler, was driven by a 29-year old male. Neither he nor his female passenger was injured. He advised that he had been traveling from his place of business to the police impound lot at approximately 105 kmph/65 mph. He stated that when he came out of the curved section of roadway he saw V2 and the other traffic slowing down due to congestion. He said he applied his brakes with lockup but was unable to avoid striking V2's cargo unit. He said the engine caught fire upon impact. The Critical Pre-crash Event for V1 was other vehicle in lane traveling in the same direction while decelerating. The Critical Reason for the Critical Event was driver related: too fast to be able to respond to the unexpected actions of others. The driver did not expect traffic to be slowing ahead of him and was going too fast to be able to react in time. Associated factors assigned to V1 included driver inattention, inadequate surveillance for failing to look far enough ahead, other non-driving activities (he was holding his pet while driving), speeding, and for highway traffic congestion. V2, the Sterling tractor-trailer, was driven by a 69-year old male who was not injured. The driver advised that he was traveling from a previous delivery point back to his office at about 48-64 kmph/30-40 mph. He advised that traffic ahead of him was slowing down due to the congestion. He reported that he glanced into his rear view mirrors and realized that V1 was approaching him from behind at a much higher speed and that it was going to strike his vehicle. He said he could not avoid being struck. The Critical Pre-crash Event for V2 was other vehicle in the same lane traveling in the same direction at a higher rate of speed. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors coded to this driver include the driver's hearing impairment for which he wears a hearing aid and for the highway rush hour congestion.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Speed/Distance, Surveillance, Traffic present problem 
+Vehicle 2:  Driver Physical, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

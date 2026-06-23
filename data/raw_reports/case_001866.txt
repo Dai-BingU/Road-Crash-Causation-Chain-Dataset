@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash happened at 1544 hours, involving two passenger vehicles. The location was a three lane divided (no positive barrier, six lanes overall) straight roadway. The weather was clear and the roads dry. The traffic was stopped and backed up at a red light at an intersection. Road surface dry asphalt. The regular speed limit is 56 kmph (35 mph). At the time of the crash, a school zone speed limit of 32 kmph (20 mph) was in effect. V 1, a 1992 Chevrolet Achieva, driven by a 29 year-old female was traveling south in the first lane of traffic. V 2, a 2002 Honda Accord driven by a 24 year-old male was starting to move in lane 2. V 1 passed the slower moving traffic in lane 2 and changed into lane 2. The front of V 1 impacted the rear of V 2. V 2 moved forward, but the driver applied his brakes and prevented another collision with a vehicle in front. Both vehicles came to rest within lane # 2. V 1 was towed from the scene. V 2 drove from the scene. No injuries were reported. The critical event for V 1 was coded other motor vehicle in lane traveling in same direction with lower steady speed. The critical reason driver related factor "aggressive driving behavior" (speeding in school zone) The critical event for V 2 coded other motor vehicle in lane traveling in same direction with higher speed. Critical reason not coded to this vehicle. (The driver did not tell the researcher she was changing lanes. She advised she was going at 40 kph (25 mph) when the vehicle in front of her suddenly stopped. She also claimed the sun was blinding her and she looked to the side prior to the crash. She blamed these to factors as a distraction that lead to the collision. The investigating police officer told the researcher after the interview of driver # 1 he spoke with some witnesses (not listed on the PAR or pointed out at the scene) who saw V 1 going faster than the rest of the traffic and changing lanes at least once prior to the crash. The final rest of V 1 suggests V 1 attempted to change into lane # 4. This left turn at the intersection would make sense for V 1, because the driver was on her way home and could have intended to use that way. The driver claimed she was in no hurry, but was definitive going over the school zone speed limit in effect. V 1 was definitely passing the slower traffic on the right, speeding over the limit. The driver than changed lanes, cutting in front of another vehicle. The distance to V 2 in front of her was too short to safely change into lane # 4. The blinding sun was considered a contributing factor but not the cause. The speeding inside the school zone and sudden lane change was coded as aggressive behavior).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Speed/Distance, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

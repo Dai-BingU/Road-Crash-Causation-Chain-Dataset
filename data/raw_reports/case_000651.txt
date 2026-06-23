@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of a north/south four-lane urban business roadway and two-lane residential side street. The four lane arterial road had two lanes in each direction and center left turn lane. The side street intersected from the east. The intersection was controlled by traffic signals. The posted speed limit was 64kph (40mph). Conditions were dark with street lights illuminating and dry on a weekday night. Vehicle #1 was a 2002 Toyota Camry traveling north in the right lane on the four lane arterial road. Vehicle #2, a 1997 Ford Explorer, was stopped westbound at the traffic control on the side street. The signal changed and Vehicle #2 began to turn left to go south on the four-lane road. The Camry (V1) passed through the control and struck the front of the Explorer (V2) with its front right corner. Both vehicles came to rest facing north in the left northbound lane on the north side of the intersection and were towed due to damage. Vehicle #1 was driven by a 76-year old male that was belted and not injured. A 74-year old passenger was also belted and not injured. No airbags deployed in the Toyota. The driver stated that the signal changed as he went under it, saying it was orange when he went through the intersection. The Critical Precrash Event for Vehicle #1 was this vehicle passing through intersection. The Critical Reason for the Critical Event was illegal maneuver. Associated factors included failure to look far enough ahead, and failed to stop for traffic control. The driver was wearing glasses to correct an unknown condition and takes three medications for various conditions. Vehicle #2 was operated by a 43-year old female that was belted and not injured. The frontal airbags in the SUV deployed. The driver stated that she stopped at the traffic control and when it turned green she proceeded to turn left and was struck. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from crossing street across path. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors for this vehicle. However, the driver was wearing glasses for astigmatism and has diabetes.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

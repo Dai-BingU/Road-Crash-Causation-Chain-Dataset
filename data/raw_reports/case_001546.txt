@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the early evening of a weekday in the northeast corner of a T-intersection. The intersection was composed of an undivided four-lane east/west roadway intersected by a divided two-lane north/south roadway. The bituminous east/west roadway was a dry, straight, and level with a posted speed limit of 72kmph (45 mph). The traffic flow was light and there were no adverse atmospheric conditions at the time of the crash. V1, a 1998 Jeep Cherokee Limited with three occupants, was eastbound in lane two approaching the intersection where it intended to turn left. V1 did not slow down as it attempted its left hand turn, lost traction and started to yaw right. V1 rolled over two quarter-turns as it departed the roadway and struck a tree on the northeast corner of the intersection. V1 made one more quarter turn, for a total of three, before coming to rest on the passenger side. The driver of V1, an18-year-old male, reported bleeding of the elbow/lower arm/hand, and was transported to the emergency room. Passenger 1 was a 16-year-old female, seated in the 1st row left seat, she reported bleeding of the elbow/lower arm/hand, and was transported to the emergency room. Passenger 2 was a 15-year-old female, seated in the 2nd row left seat, she reported contusion/bruising/abrasions to the chest, and was transported to the emergency room. Driver states he was traveling at approximately 72kmph (45 mph), when he attempted a left hand turn. The vehicle then began to slide then rolled over, striking the tree. V1 was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle control loss due to traveling too fast for conditions. The Critical Reason for the Critical Event was coded as a decision error, too fast for turn. Associated factors include driver inattention as he was conversing with his passengers, poor directional control and driver inexperience as he had been driving for only 18 months. A tire/wheel deficiency was also coded as the tires on V1 had excessive tread wear.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Performance, Speed/Distance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

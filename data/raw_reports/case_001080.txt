@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the morning of a weekday in the northbound lanes of a four-lane, two-way undivided roadway. The bituminous roadway featured two lanes in each direction with a posted speed limit of 48kmph (30 mph). The roadway was straight with a slight negative grade (-1/61) in the northbound direction. It was daylight and clear with no adverse conditions at the time of the crash. V1, a 1993 Mercury Cougar, was northbound in lane two. V2, a 1991 Lexus LS400, was southbound in lane two. V2 attempted to go around a slower moving non-contact vehicle by passing it on the left. As V2 attempted its pass it crossed the double yellow line entering V1 lane of travel. The left side of V2 sideswiped the left side of V1. Both vehicles continued forward and came to final rest in the roadway. V1 was driven by a belted 68 year-old male who did not sustain any injuries. The driver stated that V2 crossed into his lane from the opposite direction. He also stated that he attempted to brake and steer right but he could not avoid the crash. V1 was driven from the scene. The Critical Pre-crash Event for V1 was coded other vehicle encroachment, from opposite direction, over left lane line. The Critical Reason for the Critical Event was not coded to the driver. No associated factors were coded to the driver and he was not thought to have contributed to the crash. V2 was driven by a belted 42 year-old male who did not sustain any injuries. The driver received a citation for being unable to provide proof of insurance and he was unlicensed. The driver declined to participate in the study and the Lexus was towed due to damage. The Critical Pre-crash Event for V2 was coded as this vehicle traveling, over the lane line on the left side of travel lane. The Critical Reason for the Critical Event was coded as a Driver related factor, a decision error, illegal maneuver. An associated factor coded to the driver was a decision factor, illegal maneuver, as the driver crossed the full barrier lines while passing. No other associated factors could be coded to V2 as the driver declined to participate in the study.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

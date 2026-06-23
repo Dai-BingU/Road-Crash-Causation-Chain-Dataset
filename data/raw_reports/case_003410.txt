@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in an intersection of an east/west and north/south roadway. The east/west roadway was a 3-lane roadway - one in each direction with a left turn lane. The north side of the north/south roadway was 2-lanes - one in each direction, and the south side of the north/south roadway was 3-lanes - one in each direction and a left turn lane. The posted speed was 56 kmph (35 mph) for the east/west roadway and 48 kmph (30 mph) for the north/south roadway. The intersection was controlled by a traffic signal, which was working properly at the time of the crash. It was early evening but it was still daylight. Vehicle #1 was traveling south when it ran the red light, contacting the right side of Vehicle #2 and rotating it counterclockwise. As it rotated, the right rear of V#2 impacted the left side of V#1. After the first impact, Vehicle #1 also rotated counterclockwise before coming to final rest facing north in the intersection. V#1, a 1996 Chrysler Concord, was driven by a 41-year old female who stated she is in good health and is on no medications at this time and does not wear glasses. She stated that earlier that day she had gotten some bad news and decided to get intoxicated. She does not remember anything about the crash. She does remember coming to in the EMS unit and being told she was in a crash. V#2, a 1995 Chevrolet Cavalier, was driven by a 40-year old female who stated that she is in good health, although hypoglycemic. She does not wear glasses. She stated that she was on her way home from picking up her daughter from work and had just left the grocery store parking lot when the crash occurred. The Critical Precrash Event for V#1 was coded "This vehicle traveling: crossing over (passing through) intersection." The Critical Reason for the Critical Event was coded as inadequate surveillance (e.g., failed to look, looked but did not see). An associated factor was that the driver was intoxicated (medical records indicated a BAC of .346) and was diagnosed with clinical depression a few years ago but not taking medication at this time. Other associated factors coded to this driver include inattention, an illegal maneuver, inadequate evasive action, and excess speed. As per a witness who had almost been struck by V1 at the previous intersection, the driver of V1 had crossed the centerline and was traveling at approximately 45 mph. Due to these actions, she was also coded as driving aggressively. The Critical Precrash Event for V#2 was coded "Other vehicle encroachment: from crossing street, across path." The Critical Reason for the Critical Event was not coded to this vehicle. An associated factor coded to this vehicle was that the driver was conversing with the passenger in the vehicle at the time of the crash. The driver of V2 was also taking a prescription medication to treat anxiety. While interviewing the driver of V#1, the researcher heard one of the driver's children (who were playing in the yard) comment that their mother had made them get out of her car just before the crash and had just missed hitting 3 or 4 other vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Alcohol, Decision, Distraction, Driver Stress/Emotion, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

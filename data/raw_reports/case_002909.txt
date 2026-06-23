@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a five-lane roadway divided by a painted gore. There were three eastbound and two westbound lanes. This was a straight, dry, level, asphalt roadway with a posted speed of 72kph (45mph). It was early afternoon on a weekend under sunny skies. Traffic flow was congested. There was a properly functioning, overhanging, on-colors traffic control about 90 meters east of the crash. V1, a 1991 Honda CRX two door with one occupant, was traveling eastbound in lane three. V2, a 2003 Chrysler PT Cruiser SUV with three occupants, was traveling eastbound in lane two ahead of V1. V3, a 2007 Honda Pilot SUV with three occupants, was traveling eastbound in lane two, directly in front of V2. V1 began to change lanes to the right to lane one. In order to avoid a collision, V1 braked with lock-up. V1 skidded approximately 25 meters (82 feet), straddling lanes two and three. V2 had been stopped behind V3, when the front right of V1 contacted with the back left of V2 (Event 1). The impact pushed V2 forward and the front of V2 just to the left of center struck the rear of V3 just to the right of center (Event 2) pushing V3 forward. After the first impact V1 rotated in a clockwise direction coming to rest facing south in lane three about two meters east of POI1. V2 and V3 both came to rest still facing east in lane two about three meters east of the points of impact. V1, the Honda CRX, was driven by a 22-year old male who was not injured. The driver was hesitant and evasive in his answers to the researcher's questions. He advised that he was traveling from home to a nearby driver's license office at an unknown speed. He said he was in lane two and tried to change lanes to lane one. V1's skidmarks indicate that V1 was in lane three when he made the unsuccessful evasive action of braking with lock-up to avoid rear-ending a V2, which had stopped ahead of him. He was unable to stop in time to avoid hitting V2. The Critical Pre-crash Event for V1 was other motor vehicle in lane, traveling in same direction stopped. The Critical Reason for the Critical Event was a driver related - traveling too fast for conditions to be able to respond to unexpected actions of other road users. Although the driver of V1 may not have been speeding, he was traveling too fast for the congested traffic flow. An associated factor coded to all three drivers was the traffic congestion. This vehicle was also assigned associated factors for driver behavior, inadequate surveillance - failure to look far enough ahead; decision - too fast (reason unknown); and for vehicle - tire/wheel deficiency. The vehicle had custom over-sized tires and wheels, two of which were under-inflated. The vehicle itself was highly customized interior and exterior. V2, the 2003 Chrysler PT Cruiser, was driven by a 43-year old female. None of the occupants of V2 were injured. The driver stated that she had been stopped at least five second in lane two behind V3. The driver advised that she took no evasive actions because she did not know she was about to be struck from behind. She said V1, hit her, pushing V2 into the rear of V3. The Critical Pre-crash Event for V2 was other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. An associated factor was coded to V2 for the traffic congestion. V3, the 2007 Honda Pilot, was driven by a 51-year old female. None of the occupants of V3 were injured. She stated that she was slowing but still moving for traffic stopped in front of her. She said she had not anticipated the crash so she took no evasive actions. She just felt V2 strike her from behind. V3 was not involved in the first harmful event, therefore, no Critical Pre-crash Event or Critical Reason was coded to this vehicle. The only associated factor coded to this vehicle was for the traffic congestion.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Speed/Distance, Surveillance, Traffic, Vehicle present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Driver Inexperience, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Stopped in traffic lane
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

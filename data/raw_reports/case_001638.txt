@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred early evening involving two passenger cars at a straight four lane roadway. The roadway was prior to an intersection with traffic lights. The speed limit for the roadway is 64 kmph (40 mph). The road surface blacktop wet but there were no detrimental atmospheric conditions at the time of the crash. The rain had stopped shortly before the time of the crash. Vehicle one (V1), and unidentified light vehicle, was traveling west in lane 2. Vehicle two (V2), a 1995 Nissan Altima was traveling west in the first lane driven by a 52 year-old female with two passengers in good health, well rested and not in a hurry. Both vehicle were approaching an illuminated intersection. V1 changed into the first lane of traffic and slowed down. The driver of V2 applied the brakes. The brakes locked up and V2 slid into the rear of V1. V1 did not stop and left the scene unidentified. V2 came to rest at the point of impact. V2 was towed from the scene. The driver of V2 was transported to a local hospital by a private vehicle. The critical pre crash event for V1 was coded: this vehicle traveling, over the lane line on the right side of the travel lane. The critical reason for the critical event was not coded to this vehicle. This vehicle made and sudden lane change and slowed down, leaving V2 insufficient space to come to a total stop under the circumstances. The critical pre crash event for V2 was coded: other vehicle encroachment, from adjacent lane (same direction) - over left lane line.. The critical reason for the critical event was coded to V2 as a driver related factor: too fast to be able to respond to unexpected actions of others (specified as: V1 driver unexpectedly cut in front of his vehicle).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway present problem 
+Vehicle 2:  Drugs, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :

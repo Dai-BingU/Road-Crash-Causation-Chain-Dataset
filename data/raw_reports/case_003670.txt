@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary Case #2005-45-113 The crash occurred on a four-lane rural east/west US Highway. The highway was straight with shoulders and a grass median. It had a +2.4 percent grade from west to east. The 9m wide median had a -15 percent grade on the south side and a -26 percent grade on the north leading to a drainage ditch in the center. Traffic counts of 2003 indicate the highway carries 36,626 vehicles per day in the area at a posted speed of 89kmph (55mph). Conditions were daylight and dry on a weekday morning. Vehicle #1 was a 2002 Toyota Avalon traveling east in the right lane. The driver looked away momentarily and when he focused again on the road he realized he was rapidly approaching a non-contact vehicle that was slowing ahead. To avoid a collision the driver steered the left into the left lane and lost control. He then steered right returning to the right lane, overcompensating, and crossed into the left lane again in a counterclockwise yaw before departing the left side of the road. The vehicle left 76m of yaw marks between initial right front yaw and road departure. Once in the median the vehicle rolled two quarter turns right coming to rest on its top facing south. The Toyota (V1) was towed due to damage. Vehicle #1 was driven by a 52-year-old male that was belted with no deployed airbags. He was not injured in the crash. He stated he was reaching for a CD in the sunvisor above prior to noticing the non-contact vehicle slowing ahead. Police issued him a citation for failure to maintain lane. The Critical Precrash Event for Vehicle #1 was this vehicle traveling off edge of the road on the left side. The Critical Reason for the Critical Event was a performance error, overcompensation. Associated factors included a non-driving activity, retrieving object. Inadequate surveillance- failure to look far enough ahead, and a recognition error- internal distraction were also coded. The driver was wearing glasses to correct a nearsighted condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

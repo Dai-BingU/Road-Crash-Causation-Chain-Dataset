@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on an access-controlled, divided roadway. The southbound lanes have a 3.3% downgrade, curve to the left and there is a jersey barrier on the left (median) side. The speed limit on this roadway is 97 kmph (60 mph). It was dark with street lights on at the time of the crash and there were no adverse atmospheric conditions. Vehicle one (V1), a 2003 Chevrolet Malibu, was southbound in lane three. Vehicle two (V2), a 1997 Honda Civic, was southbound in lane two. V2 attempted to change lanes to the left and the front of V2 struck the left side of V1. V1 was pushed to the left and the front struck the jersey barrier. V2 also traveled to the left and the front struck the jersey barrier. V1 then traveled up the jersey barrier and rolled over to the right side and came to rest in the original travel lane. V1 was towed due to damage. The driver of V1, a fifty-year-old female, was traveling from work to home. She works a job that involves heavy lifting and long hours, but was not fatigued. She has high blood pressure and asthma; she takes Claritin and an unspecified seasonal allergy medication. This driver was familiar with her vehicle and the roadway. The driver of V2, a nineteen-year-old female, was traveling, a twenty-two-year-old female, from her home to a friend's home. She was healthy, well rested and familiar with her vehicle. She drives this route weekly. This driver stated that she was licensed to drive in a foreign country but had only been driving for twelve months. The critical pre-crash event for V1 was coded: other vehicle encroachment; from adjacent lane (same direction) - over right lane line. The critical reason for the critical pre-crash event was not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling, over the lane line on left side of travel lane. The critical reason for the critical pre-crash event for V2 was coded as a driver related factor: inadequate surveillance (e.g. failed to look, looked but did not see). This driver's inexperience was an associated factor.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+Vehicle 2:  Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occured on a northbound two lane highway. The intersection is controlled by traffic signals. The speed limit was 56 kmph (35 mph). Conditions were daylight with clear skies but very cold. The crash occured in the late morning hours. Vehicle two was a 1988 Ford Thunderbird driven by a 53 year old male. Vehicle two was stopped at the stop light. The light had turned green and Vehicle two was attempting to proceed with the traffic. Vehicle 1 was a 1993 Cadillac Fleetwood driven by a 21 year old male. Vehicle 1 was traveling at a constant velocity. The driver of V1 failed to give full time and attention to V2 and struck it in the rear end. The driver of V2 was transported due to injury and the vehicle was also towed due to damage. Vehilce 1 was not towed and removed by a friend of the driver. The passenger in V1 stated that V2 had a slow start and assumed that he would proceed once the light was green. V2 didn't so V1 struck it. The Critical Precrash Event for Vehicle 1 was: Other Motor Vehicle in lane : Other Vehicle stopped. The Critical Reason for critical pre-crash event: Decision Errors: Misjudgement of gap or speed The Critical Precrash Event for V2 was Other veicle in lane: Traveling in same direction with higher speed
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

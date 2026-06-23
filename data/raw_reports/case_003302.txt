@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at a four-way intersection. The weather at the time was clear with no adverse conditions. One roadway travels North and South, while the intersecting roadway travels East/West. The East/West roadway is a two-way two-lane roadway. The North/South roadway is a two-way, two lane roadway, with a shoulder and a bike lane on each side. Neither lane is physically divided. Both lanes are leveled and have a posted speed limit of 40 kpmh (25 mph). Vehicle 1 was a 1996 Chevrolet Blazer. This vehicle was traveling eastbound, stopped, and was attempting to make a left-handed turn to go northbound at the intersection. When the vehicle proceeded to turn the front of V1 contacted the left side of V2 causing V2 to lose control and hit a light pole. V1 after impact pulled to the side of the North/South roadway. V1 suffered scrapes on the front bumper, grill, fender and headlight. Vehicle 2 was a 1994 Oldsmobile 88 Royale. This vehicle was traveling westbound crossing through the intersection when it was contacted on its' left side by V1. V2 then lost control, striking a light pole on the northwest corner of the intersection. It came to rest on the northwest corner of the intersection The driver of V1 states that while he was stopped at the intersection, there was a transit bus stopped in the opposite direction of travel. The driver then states that the operator of the transit bus waved him on to turn. Then as the driver was turning V2 came streaking by the right side of the transit bus, from the parking lane, into V1's path of travel. The driver states that there was no way they could stop in time and they had no choice but to brake and strike V2. Driver of V1 takes medication for Diabetes Type II, and blood pressure. The Critical Pre-Crash Event was coded to V1 as, this vehicle traveling turning left at intersection. The Critical Reason for Critical Pre-Crash Event was also coded to V1 as, turned with obstructed view. We were unable to get a full interview from the driver of V2 due to the fact that he sought legal counsel after the crash, and we could not get permission from the counsel to speak to the driver. The information we were able to get says that the driver of V2 was trying to make a right hand turn at the intersection to go northbound. When the driver attempted to turn they were struck on the left side by V1. The driver of V2 was transported to a local hospital with unknown injuries. V2 was towed due to damage on the left side, and left front of vehicle. The Critical Pre-Crash Event was this vehicle turning right at intersection. The Critical Reason was not coded to this vehicle. It is this researchers determination that V2 was not turning right at the intersection as the driver had stated, but instead was in fact coming around the bus as stated by driver of V1. Also in the conversation with driver of V1 states that the driver of V2 had alcoholic beverages in the vehicle, though none were found or evident at time of inspection.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway present problem 
+Vehicle 2:  Decision, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Passing or overtaking another vehicle
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：This Vehicle Traveling- Turning right at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

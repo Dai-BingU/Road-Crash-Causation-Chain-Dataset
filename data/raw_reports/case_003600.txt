@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the afternoon of a weekday in the southbound lanes of a four-lane roadway. The north/south roadway consisted of two lanes in each direction with a posted speed limit of 72kmph (45 mph). The bituminous roadway was dry and straight with an uphill grade greater than 2%. The traffic flow was normal and there were no adverse atmospheric conditions. V1, a 1992 Chevrolet S-10 pick-up was southbound in lane one. V2, a 1998 Freightliner Semi with one trailer, was stopped in lane one ahead of V1 preparing to turn right onto an intersecting roadway (there were two cars at the stop sign of that road and it could not make the turn with the telephone pole in the way). V1 failed to stop behind V2 and the front of V1 struck the back of V2. V1 rotated clockwise roughly 90 degrees and both vehicles came to final rest in the roadway at the point of impact. V1 was towed due to damage. The driver of V1, a 23-year old male, suffered non-incapacitating injuries and was transported to a local trauma facility. He advised that he had left work on his lunch break and was on his home. He stated that he did not remember all of what had happened, but thought that he must have looked down at something in his vehicle prior to the crash. When he looked back up the truck was stopped ahead of him and he barely had time to apply the brakes. He advised that he had been traveling between 67-80kmph (41-50mph) when he looked back up and saw the truck stopped in front of him. He could not avoid the contacting V2. The Critical Precrash Event for V1 was coded other motor vehicle in lane other vehicle stopped. The Critical Reason for the Critical Event was a driver related error an internal distraction, as he was looking inside of the vehicle instead of watching the road. Associated factors for this vehicle include a tire deficiency and a failure to look far enough ahead. The driver of V2, a 63-year old male, reported no injuries. He advised that he had left from picking up a load and was on his way back to his work. He advised that he had been stopped prior to the crash. He did not see V1 behind him before he contacted the back because V1 was in his blind spot. No avoidance actions were taken. The Critical Preccrash Event for V2 was coded other motor vehicle in lane, other vehicle traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. The only associated factor was that the driver was focused on where he was going to turn at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Surveillance, Vehicle present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

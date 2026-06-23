@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound left lane of a two-lane, east/west suburban roadway divided by a raised grassy median (4 lanes total). The roadway was mostly straight and was level with a very slight curve left after POI. Traffic counts indicate 24,644 cars use this road every day. The crash occurred in mid-afternoon on a weekend with no adverse weather conditions. There was a posted speed limit of 72 kmph (45 mph). Vehicle #3, a 1993 Plymouth Voyager, Vehicle #2, a 2000 Audi A4, and Vehicle #1, a 1994 Dodge 2500 4x4 pickup, were traveling in the left lane headed west in that order with V3 in front. There were two non-contact vehicles in front of Vehicle #3 that stopped suddenly due to debris in the road. Vehicle #3 also successfully stopped. There was a third non-contact vehicle between Vehicle #2 and Vehicle #3 that changed lanes to the right to avoid colliding with the rear of Vehicle #3. This gave Vehicle #2 enough room to stop successfully also. Vehicle #1 then ran into the rear end of Vehicle #2, pushing Vehicle #2 into the back of Vehicle #3. Vehicle #3 was driven from the scene with minimal damage. Vehicle #2 was towed from the scene due to damage. Vehicle #1 was also driven from the scene although it was leaking coolant and would be disabled shortly. Vehicle #1 was driven by a 62-year old man who was belted and his airbag did not deploy. During the interview he stated that he was not doing anything but driving; however, the researcher observed an open fast food bag and a drink in the cup holder. The driver does wear glasses for astigmatism and claims that he kept a following distance of one hundred feet, which the researcher was unable to substantiate with witnesses. The vehicle left no skid marks on the roadway. The driver of Vehicle #1 was on his way home from the hardware store with approximately 250 lbs of cargo in the bed of his pickup. The driver was on several medications for a heart condition and diabetes. The Critical Pre-Crash Event was Other Motor Vehicle in Lane: Other Vehicle Stopped. The Critical Reason for the Critical Pre-Crash Event was a recognition error -driver inattention. Associated factors include the non-driving activity of eating and drinking (non-alcoholic) while driving, and a traffic flow interruption in the form of debris in the roadway. Vehicle #2 was driven by a 25-year old belted male who was uninjured in the crash. The right front passenger in Vehicle #2 was transported to a local hospital to treat possible injuries. There were no air bags deployed in this vehicle. The Critical Pre-Crash Event for Vehicle #2 was Other Motor Vehicle in Lane, Traveling in Same Direction with Higher Speed. The Critical Reason for the Critical Pre-Crash Event was not coded to this vehicle. Associated factors coded to this driver were conversation between the driver and his passenger and the traffic flow interruption (the debris in the roadway), which caused vehicles in front of Vehicle #2 to stop abruptly, disrupting the flow of traffic. Vehicle #3 was driven by a 68-year old belted man who was uninjured and had no air bag deployment in his vehicle. As the driver of Vehicle #3 was one of the first to react to the debris in the roadway, he gave most of the information concerning the non-contact vehicles that first avoided the debris in the roadway. The Critical Pre-Crash Event was not coded to this vehicle, as it was not involved in the first harmful event. Therefore the Critical Reason for the Critical Pre-Crash Event was also not coded to this vehicle. Associated factors coded to the driver of Vehicle #3 included a prescription medication to treat arthritis, and the traffic flow interruption caused by the debris in the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs, Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Traffic present problem 
+Vehicle 3:  Driver Physical, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Avoidance maneuver to a previous critical event
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

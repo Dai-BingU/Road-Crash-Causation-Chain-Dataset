@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in lane one of a 4-lane interstate, adjacent to the off-ramp. The road was straight and level with four lanes in each direction, divided by a guardrail. The posted speed on the interstate was 89 kmph (55 mph). This was a bituminous, dry roadway and the sky was cloudy. It was late morning on a weekday. The traffic flow was heavy at this entrance/exit-ramp section of this busy well-traveled roadway. V1, a 2004 Dodge Neon four-door sedan, was driven by a 27-year old female. The driver of V1 stated that she was merging from the on-ramp into lane one at a speed of approximately 56 kmph (35 mph). Monitoring the on-coming traffic on her left using her side mirror, she merged into lane one and immediately applied her ABS brakes, unsuccessfully, when she realized the vehicles in lane one ahead of her were stopped. Due to the traffic on her right and left (the merge lane and lane two), V1 was unable to steer out of the path of V2, which was stopped in lane one. The driver of V1 was transported due to non-incapacitating injuries. V2, a 2004 Infinity G35X four-door sedan, was driven by a 36-year old male. He stated that he was traveling north in lane one when he noticed V3 stopping in lane one ahead of him. He also saw two vehicles that appeared to be "fighting" for the same position on the roadway, one vehicle attempting to exit the interstate and the other vehicle attempting to enter. The driver of V2 brought his vehicle to a stop 10 feet behind V3 until it was safe to proceed. The driver stated that he was traveling with his wife and three children to the movies. He was holding his cell phone, intending to make a phone call when V1 struck the rear portion of his vehicle with the front portion of V1, propelling V2 forward into V3, striking the rear portion of V3 with the front portion of V2. All five occupants traveling in V2 were transported due to non-incapacitating injuries. V3, a 2005 Honda Accord four-door sedan, was driven by a 30-year old female. She stated that she was traveling north in lane one, had run an errand with her two sons sitting in the back seat when she noticed one vehicle in front of her and another vehicle in the merge lane attempting to "jockey" for each other's position. The vehicle in lane one was attempting to exit the interstate and the vehicle in the merge lane was attempting to enter lane one. The two vehicles were blocking the path for V3 in lane one and the traffic in lane two prohibited a lane change. The driver stated that with all travel options cut off, she stopped her vehicle until it was safe to proceed. She had only been stopped for about one second when her vehicle was struck in the rear with the front of V2. No injuries occurred to the occupants of V3. There was little evidence of a collision between V2 & V3, only paint scrapings. The Pre-Crash Event for V1 was " Other motor vehicle in lane, stopped." The Critical Reason for the Critical Pre-Crash Event was "external distraction," because the driver of V1 had been watching approaching traffic on her left as she merged, and did not look straight ahead. Associated factors coded to the driver of V1 included inadequate surveillance and a traffic flow interruption caused by the two non-contact vehicles that were jockeying for position on the roadway. The Pre-Crash Event for V2 was "Other motor vehicle in lane traveling in same direction at higher speed." The Critical Reason was not coded to V2. The only associated factor coded to V2 was the traffic flow interruption. No Critical Pre-Crash Event and no Critical Reason were coded for V3 because V3 was not involved in first harmful event. Associated factors coded to the driver of V3 include unfamiliarity with the roadway and the traffic flow interruption.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Driver Inexperience, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Merging
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

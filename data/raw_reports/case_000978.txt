@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a weekday in mid-afternoon on a seven-lane, level, dry, bituminous, straight roadway that intersects with a level two-lane, dry, bituminous private drive. The seven-lane roadway runs north to south and has a posted speed limit of 72 kmph (45 mph). A traffic control device did not control the intersection. There were no adverse atmospheric conditions present at the time of the daytime crash. Vehicle one (V1), a 1999 Honda Accord was attempting to turn left from the private drive and travel south. Vehicle two (V2), a 1999 Mazda Protégé was traveling northbound in lane four. There was a large truck traveling northbound in lane three several car lengths in front of V2. Once this vehicle cleared the intersection, V1 proceeded to make its turn. As V1 entered the intersection, the front of V1 contacted the right side of V2. Post-impact V1 rotated clockwise and came to rest facing north and V2 rotated clockwise and came to rest facing east. Both vehicles were towed due to disabling damage. V1 contained four occupants none of whom were injured during the crash. The driver of V1 was a 56-year-old female. They were leaving a gas station and were going on a vacation. A partial surrogate interview with one of the passengers in V1 indicated that the large truck blocked the driver's view of V2 as they pulled out of the gas station to turn left. The surrogate indicated there was not a conversation prior to the crash nor were there any other distractions for the driver of V1. V2 contained one occupant, a 77-year-old female, who received a possible injury from the crash. This driver reported that she was going straight down the road and V1 suddenly appeared and impacted with her vehicle. She too reported that a large yellow box truck was in the adjacent #3 travel lane, which blocked her view of V1 prior to the collision. The critical pre-crash event for V1 was coded: this vehicle traveling/ turning left at intersection. The critical pre-crash event for V2 was coded: other vehicle encroachment/ from crossing street; turning into opposite direction. The critical reason for this crash was coded to V1 as a driver decision factor: other decision error (specified as: View blocked by intervening in-transport vehicle.). The large truck traveling between vehicles one and two was considered a view obstruction for both drivers; however, it was V1's decision to turn left and impose upon V2, which was traveling straight ahead and had the right of way. The critical reason was not assigned to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Distraction, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other decision error (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

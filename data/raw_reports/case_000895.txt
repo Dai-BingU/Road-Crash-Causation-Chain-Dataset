@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of an urban five-lane undivided arterial roadway that runs northeast/southwest and a two-lane undivided residential side street. The intersection was controlled by traffic signals. The arterial road had two lanes in each direction and left turn lanes, the shoulder was labeled as a bicycle lane. The posted speed limit was 56 kmph (35 mph). The two-lane residential side street had a posted speed limit of 48 kmph (30 mph). Conditions were daylight and dry in the mid-afternoon hours on a weekday. Vehicle #1 was a 1994 Ford Taurus traveling southwest in the second lane of the arterial road. Vehicle #2, a 1995 Chevrolet Lumina, was traveling southeast on the intersecting side street. Vehicle #1 passed through the traffic control and its front struck the left side of Vehicle #2. The Taurus (V1) came to rest facing southeast in the southeast corner of the intersection while the Lumina (V2) came to rest facing south in the middle of the intersection. Both vehicles were towed due to damage. Vehicle #1 was operated by a 60-year old female that was belted and not injured in the crash. The frontal airbags did not deploy in the collision. She stated that she was looking for an address on the left side of the street and took her eyes off the road. When she looked forward again the light had changed to red and she was in the middle of the intersection. Police charged her with failure to yield. The Critical Precrash Event for Vehicle #1 was this vehicle passing through intersection. The Critical Reason for the Critical Event was a recognition error - external distraction. She was looking left for a street address. Associated factors coded included an illegal maneuver: failure to stop for traffic control. She had also taken 0.5mg of a tranquilizer the prior evening to help her fall asleep. Vehicle #2 was driven by a 24-year old female that was belted with no deployed airbags. She was six months pregnant and she, along with her front right passenger, were transported to a local hospital with minor injuries. She stated that as she approached the intersection the light was green, so she continued and was struck in the left side. She reported seeing the other vehicle only a split second prior to impact. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from crossing street, across path. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors coded to the driver of V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

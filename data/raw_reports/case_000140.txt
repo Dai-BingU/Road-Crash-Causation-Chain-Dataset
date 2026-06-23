@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a weekday evening in the middle of a four-way residential intersection. Each leg of the intersection was a two-way, two-lane undivided roadway controlled by a stop sign. Both roadways were bituminous, dry, straight, and level with a posted speed limit of 40kmph (25 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1999 Dodge Intrepid with one occupant, was traveling westbound in lane one. V2, a 1998 GMC Safari Minivan with three occupants, was traveling northbound in lane one. Both vehicles were approaching the same intersection. As the two vehicles entered the intersection, the front of V1 made contact with the right side of V2. This impact was immediately followed by a side-slap between V1's left side and V2's right side. V1 and V2 continued to travel in a northwest direction. V1 left the roadway, coming to final rest on a grass area northwest of the intersection. V2 took a similar post-crash trajectory, making contact with a street sign before coming to final rest on a grass area northwest of the intersection. Both vehicles were towed due to damage. The driver of V1, a 19-year old male, was not injured. The driver could not be located for an interview. However, the driver indicated to police that he was traveling approximately 72kmph (45 mph), and that he did not stop for the stop sign. The Critical Precrash Event for V1 was coded other vehicle encroachment, from crossing street across path. The Critical Reason was not assigned to this vehicle. Associated factors include aggressive driving and an illegal maneuver as V1 was traveling much faster than the posted speed limit and failed to stop for the stop sign. According to witnesses, the driver may have also been racing other vehicles in the area. The driver of V2, a 46-year old female, was transported along with her other occupants for treatment of incapacitating injuries. She stated that she had just left her house, and was on her way to church with her children. She said that she stopped at the stop sign and saw the other vehicle coming. However, the driver was familiar with the area, and believed the other driver would stop because it was a four-way stop. She indicated that she pulled out into the intersection and the other driver did not stop, hitting her in the right front corner. The Critical Precrash Event for V2 was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Event was coded as a false assumption, as the driver believed the other motorist would yield the right-of-way. An associated factor was an internal distraction as the driver was singing with her children inside the vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Roadway present problem 
+Vehicle 2:  Decision, Distraction, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

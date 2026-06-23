@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a secondary arterial road that ran east/west, and had two lanes (one in each direction) and was divided by a double yellow stripe. The road was curved left (south) if westbound. The curve radius was 274m. The posted speed limit was 72kph/45mph. The road had a precrash grade of negative (if westbound) 4.3%. The curve was super elevated to 9.8%. There were no shoulders for the road, and the north side of the road was bordered by an embankment with a negative grade (sloped down and away from the road) that measured -39.8% at the run-off-road point. There was a culvert that ran under (north/south) the road about 38 meters west of the run-off-road point. Conditions at the time of the crash were daylight and dry mid-morning on a weekday. V1 was a 1994 Nissan Altima that was traveling west on the road and as it traveled through the curve left it ran off the right side of the road and continued parallel to the road where its undercarriage impacted the embankment (event#1), it then crossed the culvert with a second undercarriage impact on the west side of the culvert sending V1 partially airborne when the undercarriage hit the ground a third time (still parallel to the road) then struck a very small highway mile marker sign and came to rest facing west just a few meters north of the road. The total distance traveled off road was about 62meters. V1 was towed from the scene. V1 was driven by a thirty-nine year old belted male whose airbag deployed in the crash (at event #2). He was not injured in the crash. He was taken into police custody for driving on a revoked license. The driver was on his way home from work. The Critical Precrash Event for V1 was this vehicle was coded traveling off the edge of the road on the right side. The Critical Reason was a vehicle related factor, the steering failed. Apparently a mount on the power steering pump that also acts a tensioner broke causing a loss of driver steering control. The driver was still coded as fatigued as he had not slept in over 17 hours and is currently under treatment for insomnia. He takes several medications including some to treat some mental disorders and sleep issues. The driver was also coded as inattentive as he was mulling over a personal problem he would be confronting on arriving home and was smoking a cigarette at the time of the crash. Narrow shoulders was also coded because had there been more shoulder the driver may have been able to come to a safe stop before departing the road.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Physical, Driver Stress/Emotion, Drugs, Roadway, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Steering failed

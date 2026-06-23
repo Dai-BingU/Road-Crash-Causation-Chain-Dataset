@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This daytime collision between a light vehicle and a heavy truck (cement truck) occurred at a T-intersection of two level, straight, bituminous, and wet roadways. It was raining at the time of collision. Both roadways are two-lane, two-way and undivided. Posted speed limit for the north/south roadway is 48 kph (30 mph). Posted speed limit for the east/west roadway is 40 kph (25 mph). Vehicle one, a 1998 Plymouth Breeze, was northbound in lane one, intending to continue traveling straight through the intersection. Vehicle two, a 2000 Mack truck (cement mixer), was westbound in lane one, decelerating to stop for the stop sign at the intersection. At the intersection, the driver of vehicle one made an abrupt right turn to travel eastbound. Vehicle one slid over the center lane and the front struck the front of vehicle two. After the collision, vehicle one continued eastbound, came to rest facing east and was towed due to damage. The driver of vehicle one, an eighteen-year-old female, was traveling with an eighteen-year-old male friend who was giving her directions. They were enroute from the friend's grandmother's house to an elderly care center. This driver had only four months of driving experience and was not familiar with the roadway. At the last minute, her passenger told her to turn right at the intersection. She lost control due to the abrupt turning movement on the wet roadway. She was well rested, but her lack of experience contributed to her failure to proceed with appropriate caution. The driver of vehicle two, a thirty-five-year-old male, was traveling between job sites. He had three years of experience driving cement mixer trucks and was very familiar with his route and vehicle. He was well rested at the time of the crash. This driver noticed vehicle one suddenly turning and sliding. He braked and steered right in a futile attempt to avoid a crash. The critical pre-crash event for vehicle one was coded as "this vehicle traveling; turning right at intersection." The critical reason for the critical pre-crash event for vehicle one was coded as "driver related factor; too fast for curve/turn." The critical pre-crash event for vehicle two was coded as "other vehicle encroachment; from crossing street, turning into opposite direction." The critical reason for the critical pre-crash event for vehicle two was coded as "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Performance, Roadway, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

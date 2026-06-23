@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred during early morning hours on a two lane, dry, level asphalt roadway. There were no adverse weather conditions existing at the time of the crash. The posted speed limit 40 kmph (25 mph). Vehicle one (V1),a 2002 Ford F-150 Pick-up driven by a 63 year-old male. According to a witness V1 came east down the roadway and started to turn right, and stopped in the intersection. V 1 was stopped in the intersection for about 1-3 minutes. The witness came over to the vehicle to see if the driver needed any assistance. When the witness approached the vehicle the driver sat up and stepped on the gas accelerating forward. V1 drove southeast up a slight grassy embankment, and then veered to the left across a parking lot. V1 continued driving east across the lot until it struck a 6-foot wood fence on the east edge of the lot. V1 went through the fence and struck a telephone pole on the west edge of an alley behind the fence. The driver of V1 sat in the vehicle with the motor running and the rear tires spinning. The driver of V1 was removed from the vehicle by the witness and another passerby, and waited until the police arrived. V1 came to final rest at the utility pole, V1 was towed from the scene due to damage. After interviewing the witness and the first police officer at the scene, along with scene evidence and medical reports, it was concluded that the driver of V1 sustained a heart attack during his drive. The wife of the driver later called with information about the drivers medical history. The driver has diabetes and was just diagnosed with hypertension and was given unknown type of high blood pressure medication. Also, the driver was under severe stress from an IRS audit. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the left side. The critical reason for the critical event was coded as a driver related factor: heart attack or other physical impairment of the ability to act.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

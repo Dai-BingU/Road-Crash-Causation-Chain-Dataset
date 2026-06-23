@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a northbound, dry, level, straight, two-lane roadway near a shopping plaza. There was a heavy overcast but no adverse weather conditions. The shopping season had started that weekend and there was more traffic than usual. V1, a 2003 Chevy Impala, was northbound in lane 1 on his way to a hardware store. He was going straight when the vehicle in front of him stopped and did not move causing him to stop. He stated that the driver signaled him to go around. He then changed lanes into lane two in order to pass the stopped vehicle. He proceeded but did not notice V2, a 2004 Nissan Xtera, stopped in lane two at the intersection because of a stop sign. V1 front struck V2 in the rear before ending up on the embankment. V1 was driven by a 79 year-old male who claimed he was in good health despite a history of high blood pressure and asthma for which he took unknown medications. The driver of V1 stated that he usually walks to that shopping plaza but since there was a lot more traffic, he chose drive rather than walk. The occupant of vehicle one was taken to the hospital with a possible injury and V1 was towed from the scene. The Critical Precrash Event for V1 was coded as other motor vehicle in lane, other vehicle stopped. The Critical Reason was coded as a recognition error, inadequate surveillance (looked but did not see). Associated factors for this crash include a misjudgment of the other vehicle's velocity as well as an experience factor since the driver only rarely drove this road. V2 was driven by a 43 year-old female in good health, was rested and running an errand. She was stopped behind several other cars that were stopped at a stop sign. She was uninjured and V2 was driven from the scene. The Critical Precrash Event for V2 was coded as other motor vehicle in lane traveling at higher speed. The Critical Reason was not coded to this vehicle and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Drugs, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

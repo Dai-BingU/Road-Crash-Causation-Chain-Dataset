@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a straight stretch of a six-lane road. There were two northbound lanes, three southbound lanes with a two-way left turn lane in between. Northbound road was straight, level and bituminous. Curbs were present on both sides of the roadway. The authorized speed limit was 56 kph (35 mph). Conditions were daylight and dry with clear skies. Setting was early afternoon hours on a weekday. Vehicle One (VI), a 2004 Mazda 6, intermediate sedan with one occupant was traveling northbound in lane 1. Vehicle Two (V2), a 2002 Ford Taurus, intermediate sedan, with one occupant was traveling northbound in lane 1, directly in front of VI. V2 had come to a sudden stop due to heavy lunch hour traffic. V2 had been stopped for 3-4 seconds when the front of VI contacted the rear of V2. VI applied its brakes, but no skids marks were present. VI came to final rest at the point of impact. V2 was driveable and drove to an adjacent parking lot after police arrival. VI, the Mazda 6 was driven by a 25 year-old female who was not injured in the crash. She reports working 50 hours per week at a marketing firm. She was on her way home for lunch from her office and reported not being in a rush. She reported driving straight ahead at 48 kph (30 mph) in lane 1. She was looking to the right at some kids walking on the sidewalk of an elementary school. When her focus returned to the road, she saw red brake lights. She then applied her brakes, but couldn't avoid a collision. Her vehicle was towed from the scene with disabling front-end damage. The Critical Pre crash Event for VI was "other motor vehicle in lane, other vehicle stopped." The Critical Reason for the Critical Event was an "External Distraction- a driver error." This driver reported that her focus was to the right at kids walking down the sidewalk. This external distraction caused her to collide with the rear of V2. An associated factor was talking on her cell phone. She denied talking on her phone, but the driver of V2 later told me she saw the driver of VI in her rearview mirror, looking right and "talking on her cell phone." A vehicle factor was low tread depth. All four tires had less than 4 mm of tread depth on them. Rush hour congestion was an associated factor for VI and V2. V2, the Ford Taurus was driven by a 41 year-old female who was injured in the crash, but not transported for treatment. She reports working full-time at a nearby office. She was on her way to work from her residence when the crash occurred. She was talking to her friend/co-worker on her cell phone. As she was saying goodbye, she looked in her rear-view mirror and noticed V1 traveling toward her at a high rate of speed. She braced the wheel, held the brake and prepared for impact. She thinks she was stopped for 3-4 seconds prior to impact. When she looked in her rearview mirror, she saw the driver of VI on her cell phone and looking to the right, but withheld that information at first because she didn't want the driver of VI to get in trouble. Her vehicle was driveable and suffered only minor damage. The Critical Pre crash Event for VI was "other motor vehicle in lane, traveling the same direction at a higher steady speed." The Critical Reason was not coded to this vehicle. An associated factor was this driver talking on her cell phone. Another factor was high blood pressure, in which she takes prescription medication for. Rush hour congestion was a roadway related factor.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Traffic, Vehicle present problem 
+Vehicle 2:  Cell Phone Use, Distraction, Driver Physical, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

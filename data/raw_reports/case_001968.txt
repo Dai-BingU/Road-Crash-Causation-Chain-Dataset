@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a north/south median divided urban interstate. It had three lanes in each direction with a 3.9m right shoulder that had rumble strips. The interstate has a slight curve to the left with a positive 3% grade. Traffic counts from 2003 indicate the six interstate lanes carry 72,153 vehicles per day in the area. The posted speed limit was 89kph (55mph). Conditions were daylight, dry, and cloudy on a weekday afternoon. Vehicle #1 was a 1991 Acura Legend traveling north in the right lane. Apparently, the driver encountered a slower moving vehicle in the right lane and avoided it by steering right to the shoulder. Vehicle #1 lost control, going into a clockwise yaw and departed the right shoulder. The Acura struck a fence and two trees that were all 8.5m off the right (east) edge of the pavement. It came to rest facing east against the second tree contacted. Vehicle #1 was towed due to damage. Vehicle #1 was driven by a 34-year old male that was belted and not injured in the collision. A 52-year old male passenger was also belted and not injured. He stated that he encountered a slower moving vehicle that appeared to come to a stop in the right lane. Researcher believes the driver came upon a slower moving vehicle and over reacted to the situation, causing him to lose control and depart the road. The Critical Precrash Event for Vehicle #1 was this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was a performance error, overcompensation. Associated factors included fatigue, the driver works nights and had four hours sleep the morning before (usually averages seven) and appeared tired at the scene. Failed to look far enough ahead and overcompensation were also coded.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Performance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

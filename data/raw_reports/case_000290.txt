@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred during early evening hours at a T-intersection during dusk, rush hour traffic. There were no adverse weather conditions at the time of this crash. The bituminous roadway was dry. The south roadway level, undivided, two-way traffic way controlled by a stop sign. The west roadway has a positive 8% sloped, undivided, 5-lane traffic way, with no traffic controls. Posted speed limit 56 kmph (35 mph). Vehicle one (V1), a 2004, 4-door Chrysler Sebring driven by a 44 year-old female with one passenger was stopped at the stop sign for several minutes in the curb lane waiting to turn left across the westbound and center 2-way left turn lane. Vehicle two (V2), a 1996 4-door Dodge Intrepid driven by a 33 year-old male was approaching the T-intersection in lane 2 going straight. V1 proceeded its left turn across westbound lanes and its front collided with the front of V2. V1's left front corner contacted the right front corner of V2. The force of the impact caused V1 to rotate at least 90 degrees clockwise and it came to final rest in lanes one and two of the westbound travel lanes. After the first impact V2 traveled southwest across the center 2-way lane and two eastbound lanes. V2 came to final rest on top of the south curb edge and sidewalk of the traffic way. Both vehicles were towed due to damage. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event coded to V1 as a driver related factor: turned with obstructed view. A non-contact large truck in the number one eastbound travel lane obstructed the view of V2, which was in the number two adjacent eastbound lane, for the driver of V1. Associative factor driver of V1 may have been upset due to recent divorce, maybe fatigue due to spending most of the day shopping for household furniture brought on by a recent divorce. The driver had been frustrated waiting at the stop sign to turn left and proceeded to turn left when her passenger said traffic to the right was clear. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Inexperience, Driver Stress/Emotion, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Roadway, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

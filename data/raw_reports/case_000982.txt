@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a two-lane roadway with a curve right. Conditions were daylight and dry in the afternoon on a weekday. The posted speed limit was 80 kmph (50 mph). V1 was a 1999 Toyota Rav 4 SUV traveling westbound in the right lane negotiating a curve-right. V2, a 2000 Jeep Cherokee SUV, was traveling eastbound in the right lane negotiating the same curve. V1 drifted across the centerline and the front of V1 struck the front of V2 in the eastbound lane. Both vehicles came to final rest facing northbound. V1 was driven by a 50-year-old female who sustained moderate injuries and was transported to a local hospital. She stated that she was very upset due to recent news about her mother who was ill. The driver drank two beers and continued to drive when her vehicle drifted across the centerline and struck V2. V1 was traveling between 50 and 64 kmph (31 and 40 mph) at the time of impact. The driver of V1 did not take any avoidance actions. V1 was towed due to damage. The critical precrash event for V1 was when this vehicle drifted over the lane line on the left side of the travel lane. The critical reason for the critical precrash event was a recognition error; driver inattention. The driver stated that she wasn't thinking straight and was very upset over her mother's illness prior to the crash. (NOTE: In addition to this inattention factor, the driver had a BAC reading of 0.307. She was, therefore grossly intoxicated). There were no other associated factors coded to this driver, however, the driver does work close to 60 hours per week. The driver feels rested when she wakes up in the morning and does not have any pre-existing medical ailments. The driver is familiar with the area. V2 was driven by a 32-year-old male who sustained moderate injuries and was transported to a local hospital. He stated that he was traveling eastbound when he saw a white vehicle drift into his lane. The driver of V2 then braked and swerved right to try and avoid the vehicle but was unsuccessful. The driver of V2 was traveling between 66 and 80 kmph (41 and 50 mph) at the time of impact. V2 was towed due to damage. The critical precrash event for V2 was the other motor vehicle in his lane, traveling in opposite direction. The critical reason for the critical precrash event was not coded to this vehicle. The driver of V2 is on a rotating work schedule but this was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Distraction, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Motor Vehicle in Lane- Traveling in opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

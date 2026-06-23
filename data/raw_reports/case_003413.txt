@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred early morning hours during daylight. The location was a four-lane divided (with a positive barrier) right curved highway, road surface is asphalt the weather was clear and the roads dry. The posted speed limit for the roadway was 96 kmph (60 mph). Vehicle one (V 1) was a 1994 Mazda 929, sedan driven by a 56 year-old male. It was traveling south in the second lane of the roadway. The driver stated an unidentified van traveling in lane one changed into lane two. The driver of V1 tried to avoid a collision by steering to the left. V1 started to rotate counter clockwise and departed its lane. V1 crossed through lanes 3 and 4 and impacted the concrete traffic median with its front. V1 bounced off the median and kept rotating counter clockwise and moving south. V1 came to rest partially in lane 4 and partially in lane 3, facing southwest. The vehicle was towed from the scene. The driver was transported to a local medical facility. The critical per-crash event was coded: this vehicle traveling, off the edge of the road to the left. The critical reason was coded as a driver related performance factor: overcompensation.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

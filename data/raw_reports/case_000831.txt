@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the eastbound lanes of a six-lane, two-way, suburban roadway. The roadway had a posted speed of 72 kmph (45 mph). Eastbound lanes approached the intersection in a left curve with a downhill grade of 2%. Conditions were daylight and dry with clear skies. The crash occurred in the morning hours of a weekday. Vehicle one was a 2004 Honda Civic Hybrid sedan facing west in lane four, a left turn lane. Vehicle two was a 1999 Chevrolet Prizm sedan traveling east in lane three approaching the same intersection. V1 began turning left as V2 proceeded through the intersection. The right side of V1 was struck by the front of V2. V1 then rolled left one quarter-turn onto its left side. Both vehicles came to rest in the intersection. V1 was driven by a 36-year old female who was transported to a local hospital with non-incapacitating injuries. She stated that she was waiting to turn left at the intersection. She began inching out into the intersection, and when the light turned yellow, she said it appeared as if V2 was going to stop. She assumed that V2 would stop, and then proceeded to turn left. There was no avoidance maneuver. She estimated her travel and impact speeds to be 8 kmph (5 mph). V1 was towed due to damage. The Critical Precrash Event for V1 was this vehicle traveling turning left at an intersection. The Critical Reason was a false assumption of other's actions. The driver was taking several medications for depression at the time of the crash. She wore prescription sunglasses. V2 was driven by a 37-year old male who was uninjured. He stated he was heading to work when another vehicle turned left in front of him. He applied the brakes without lockup, and estimated his travel speed of 72 kmph (45 mph) had slowed to 64 kmph (40 mph) by impact. V2 was not towed due to police-reported damage. The Critical Precrash Event for V2 was other vehicle encroachment from the opposite direction over the left lane line. No Critical Reason was coded to this vehicle. The driver wore glasses for a nearsighted condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west, urban, business, six-lane roadway. The heavily traveled road was straight and level. Eastbound there were two lanes, westbound there were two through lanes with left and right turn lanes. The collision took place 130m west of an intersection that was controlled by a traffic signal. Eastbound traffic was heavy and coming to a stop for the signal. Conditions were daylight and dry during rush hour on a weekday morning. The posted speed limit was 72kmph (45mph). Vehicle #2 was a 1995 Nissan pickup truck traveling east in the right lane. Vehicle #1, a 2001 Kia Optima, was eastbound behind Vehicle #2. The Nissan (V2) began to slow due to traffic at the controlled intersection ahead. Vehicle #2 had slowed to under 5mph when it was rear-ended by Vehicle #1. The vehicles came to rest at impact, but were pulled over to the right to allow traffic to continue to flow. Vehicle #1 was towed; Vehicle #2 was driven from the scene. Neither driver required medical attention. Vehicle #1 was driven by a 16-year-old female that was belted with no deployed airbags. She was on her way to the first day of school when the crash happened. The driver's father refused to cooperate on scene so further information on causal factors are unknown. The Critical Precrash Event for Vehicle #1 was other vehicle in lane traveling in same direction while decelerating. The Critical Reason for the Critical Event was an unknown recognition error. The only associated factors that could be coded due to the lack of cooperation were an experience factor- inexperienced driver, and a traffic flow interruption factor- rush hour congestion. Vehicle #2 was operated by a 64-year old male that was belted with no deployed airbags. He was commuting and said he gradually slowed due to the traffic signal and was almost stopped when he was bumped from behind. The Critical Precrash Event for Vehicle #2 was other vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors coded included a traffic flow interruption factor-rush hour congestion. The driver takes several medications for emphysema, diabetes, and acute coronary syndrome. He also claimed to be under stress at work due to unrealistic production schedules. This driver was not thought to contribute to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Traffic present problem 
+Vehicle 2:  Driver Physical, Driver Stress/Emotion, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

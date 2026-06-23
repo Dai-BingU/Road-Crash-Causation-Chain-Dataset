@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle collision occurred in the early morning hours on a Saturday after sunrise. The collision occurred as the vehicle was heading east on a highway bridge with two lanes of travel in each direction. There are no shoulders and the pre-crash roadway is concrete paving with an approximate downhill grade of -6%. At the scene of the crash the road curves steadily to the right. Access to the roadway is fully controlled, with no junctions in the immediate area of the crash. The posted speed limit for the roadway is 56 Kmph (35 mph). There was an illuminated sign prior to the bridge warning motorist of icy conditions. Vehicle 1 (V1), a 2000 Ford Ranger pickup, was traveling east in lane one. The driver normally drives an AWD vehicle instead of the subject vehicle, which is a RWD. There was an icy patch on the roadway from factory steam that had frozen overnight. As the driver of the vehicle down shifted to 2nd gear the rear wheels lost traction on an icy patch and the vehicle initiated a clockwise rotation. The driver steered hard left as the vehicle exited the icy patch, the vehicle crossed lane two before the front of the vehicle struck the median barrier. The vehicle rotated clockwise as the right rear corner struck the median barrier before coming to rest. The driver was not injured and the vehicle was towed from the scene. The pre-event movement was coded "negotiating a curve." The critical pre-crash event was coded "this vehicle lost control due to: poor road conditions (specified as- ice patch on roadway)." The critical reason for the critical event was coded as a driver related factor of Poor Directional control. This coding was chosen over an environmental factor of the ice patch on the roadway because even though there was an initial control loss, the driver exhibited poor control of the vehicle due to his inexperience driving a RWD vehicle and over-corrected to the left.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Performance, Driver Stress/Emotion, Drugs, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

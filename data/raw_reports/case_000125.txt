@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This is a two vehicle, intersection crash that occurred during morning daylight hours at an intersection controlled by on-colors signal with a road surface of dry asphalt. The posted speed limit 72 kmph (45 mph). The weather was clear with bright sunlight. Vehicle one (V1), a 1994 Mercury Marquis 4 door sedan driven by a 74 year-old male with one passenger, was traveling northbound in the #3 lane and entered the intersection on a green traffic control signal. Vehicle two (V2), a 1994 Chrysler Le Baron 4 door sedan driven by a 52 year-old male, was traveling south in the left turn lane. The driver of V2 attempted to make a left turn across the path of V1. The driver of V1 applied hard braking with lockup and the front of V1 struck the right side of V2 behind the center of gravity, causing partial restriction of the right rear tire and wheel. V1 came to final rest in the intersection facing generally north. V2 continued forward in an attempt to flee the scene and traveled about a block and a half where it came to rest on a concrete canal. The driver of V2 was apprehended by police for driving under the influence and leaving the scene. V2 was towed from the scene. V1 left scene under own power. The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason was not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V2 as a driver related factor "other critical non-performance (specified as: driver could not recall driving or being involved in this crash). Due to the effects of fatigue, drugs and alcohol this driver had no knowledge that he was even driving a vehicle or involved in a crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Alcohol, Distraction, Driver Fatigue, Driver Inexperience, Driver Performance, Driver Physical, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Other critical non-performance (specify) :

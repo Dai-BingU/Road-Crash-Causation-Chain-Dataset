@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred just after noon in the intersection between a two way, two-lane secondary arterial roadway and a private driveway. The east/west roadway was dry, straight and level and intersected by a series of private driveways on its southern roadside. The roadway featured a posted speed limit of 48 kmph (30 mph). The driveway was dry and straight with a negative 24% grade and a line of trees on its west side. The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2005 Saturn Ion was turning left (west) from the driveway on to the roadway. V2, a 1995 Plymouth Voyager minivan, was eastbound on the roadway approaching the driveway. As V1 turned out of the driveway it's left front corner struck the front right corner of V2. V2 had swerved left partially into the westbound lane as an avoidance maneuver before contact was made. V1 came to rest facing southeast in lane two. V2 came to rest facing southeast also in lane two (westbound lane). V1 was towed back into the originating driveway while V2 was towed due to damage. The driver of V1, a 19-year-old unrestrained female, was running an errand to her mother's house with her 6-month-old infant when she was involved in the crash. She was transported to an area hospital with minor injuries. Her infant passenger was in a safety seat and uninjured in the crash. She claimed she looked left, but never saw any approaching vehicles. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at an intersection (from driveway). The Critical Reason was inadequate surveillance, looked but did not see. The driver said in the interview that she was on the phone with a friend at the time of the crash having a social conversation. She was coded as being an inexperienced driver as she had only been driving for a year. A tire deficiency was also coded as an associated factor as the tread was dangerously low. The driver of V2, a 48-year-old belted female, sustained minor injuries but was not transported. Her infant passenger was in a safety seat while watching a video on an aftermarket DVD player in row 2 and was uninjured. She stated that she saw V1 in the driveway, but assumed that it would stay there until after she passed. The Critical Precrash Event for V2 was coded other vehicle encroachment, from driveway turning into opposite direction. The Critical Reason was not coded to this vehicle. The only associated factors coded to V2 were a false assumption (she assumed V1 would yield the right of way) and inexperience as she rarely drove this road.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Distraction, Driver Inexperience, Roadway, Surveillance, Vehicle present problem 
+Vehicle 2:  Decision, Driver Inexperience, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Starting in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

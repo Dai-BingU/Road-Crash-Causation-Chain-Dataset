@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a straight, level, six-lane urban business roadway. There were two east/west travel lanes and right and left turn lanes in each direction. The primary arterial roadway was intersected by a six-lane road on the north and a four-lane road on the south. The intersection is controlled by traffic signals that include turn arrows with a speed limit of 72kph (45mph). Conditions were raining and wet on a weekday evening with streetlights illuminating. Vehicle #1 was a 1999 Chevrolet Silverado 1500 series pickup traveling west on the primary arterial road. Vehicle #2, a 1998 Jeep Wrangler, was eastbound in the left lane of the same road approaching the intersection. Vehicle #1 entered the left turn lane and attempted to turn left and go south at the intersection. The front of the Jeep (V2) struck the right side of the Chevrolet Pickup (V1). Vehicle #1 came to rest facing southeast in the southeast corner of the intersection. Vehicle #2 came to rest facing south in the southbound lane of the intersecting road on the south side of the intersection. Both vehicles suffered moderate damage and were towed from the scene due to damage. Vehicle #1 was driven by a 38-year old male. Although the driver was fairly candid in the interview his description of the crash was not deemed credible. Police charged the Chevrolet Pickup driver with failure to yield and DUI. He failed a field sobriety test and was taken to an area hospital with minor injuries and was arrested. Blood alcohol results were not obtained prior to case submission, but the driver said he had around six beers. Researcher observed the field sobriety test and the driver's estimation of how much he drank appeared reasonably accurate. EDR information was extracted and indicated the driver was unbuckled and the truck had a maximum forward velocity change of 1.76mph for the non-deployment side impact. Precrash data was not available in the EDR for this particular model. This vehicle was towed due to damage. Vehicle #1's Critical Precrash Event was turning left at intersection. The Critical Reason for the Critical Precrash Event was a decision error, misjudgment of gap distance and other vehicles speed. Associated factors included; alcohol presence, first time driving on road, and rain. Vehicle #2 was driven by a 45-year-old female that was belted with deployed airbag and not injured in the crash. She stated that her traffic signal was green and the pickup truck (V1) pulled across in front of her, giving only minimal time to brake before impact. She said it appeared as though Vehicle #1 swerved as it started to make the left turn as if the driver was indecisive about attempting the turn but opted to proceed anyway. Vehicle #2's Critical Precrash Event was other vehicle encroachment from opposite direction-over left lane line. No Critical Reason for the Critical Event or associated factors were coded for the Jeep (V2). She was taking an anti-inflammatory medication.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Driver Inexperience, Weather/Environment present problem 
+Vehicle 2:  Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

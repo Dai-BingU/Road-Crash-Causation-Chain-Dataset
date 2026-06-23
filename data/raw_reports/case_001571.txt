@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of five-lane urban roadway that was not physically divided. There were three lanes southbound - one was a right turn-only lane, and two northbound lanes. There were no traffic controls. It was evening on a weekend night and the roadway was dry and skies were clear. The traffic flow was normal. The roadway was level and straight. The posted speed was 56 kmph (35 mph). This was a one-car crash that involved Vehicle #1, a 2005 Nissan Sentra driven by a 54-year old-male. He was traveling in lane one going approximately 40 MPH when he suddenly lost control of the vehicle. He departed the roadway to the right, drove over a raised curb divider onto an adjoining roadway, and then over another curb before striking a tree with the front of his vehicle. During the interview it was obvious that the driver was trying to make up stories as to what caused him to suddenly lose control. He stated at one point that he was pulling into his hotel and missed the entrance, which was deemed false, as the only parking lot was that of the local newspaper. He then tried to adjust his story by saying that another vehicle cut him off. The police speculated that he was with a prostitute when he lost control of the vehicle. This was speculated because of the evidence that was found at the scene. There were condoms on the seat of the vehicle, the driver's pants were unbuttoned as well as unzipped, and his wallet was opened on the passenger seat with cash falling out of it. An unidentified witness stated that he saw someone exit the vehicle and leave the scene of the crash. The vehicle was towed due to damages but the driver was not reported injured. He was issued a ticket for failure to use due care. The critical pre-crash event for Vehicle #1 was this vehicle traveling off the edge off the roadway on the right side. The critical reason was an internal distraction, a recognition error. Although, the driver never admitted to being with a prostitute it was believed to be so due to the evidence found within the vehicle and the inconsistencies in his story. Associated factors coded to this driver include unfamiliarity with both the roadway and the vehicle (a rental).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

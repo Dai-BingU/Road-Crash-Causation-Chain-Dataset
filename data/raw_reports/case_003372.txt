@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred before noon during daylight hours in the middle of a four-way intersection. The east/west roadway is comprised of two through lanes and a left-turn lane in each direction. The north leg of the intersection runs in both directions; the two northbound lanes are separated by a triangular shaped median island with lane one heading straight and lane two on a slight angle that straightens further down the road, the southbound lanes run parallel with lane two of the northbound lanes and are comprised of two lanes with a additional left-turn lane. The south leg of the intersection has one southbound lane, and three travel lanes, including a left turn lane that run northbound. The posted speed limit is 48 kmph (30 mph). Vehicle one (V1), a 2000 Chevrolet Trailblazer with one occupant, was traveling westbound through the intersection in lane two. Vehicle two (V2), a 1992 Geo Tracker with two occupants was traveling east bound through the intersection in lane three (the left turn lane). V2 was stopped in the intersection, yielding to oncoming traffic, attempting to turn left. When the light turned yellow the driver of V2 waited for the traffic to stop to proceed out of the intersection. As V2 proceeded to turn, V1 was speeding to surpass the traffic control light. As both vehicles proceeded through the intersection V2 impacted the left side of V1 with its front. V1 then deflected off V2 and traveled off the right side of the road and with its front plane crashed into a light pole that was located on the northwest corner of the intersection. The driver of V1 was a female of an unknown age and no driver interview was obtained for this person. V1's driver had the right of way because V2 was turning left; however, the driver of V2 did not yield the right of way because the traffic light was either yellow or had just turned red and V2 was still in the middle of the intersection attempting to clear it. The driver of V2 falsely assumed the driver of V1 would grant him the right of way. Indications from data obtained during the vehicle inspection are that 5 seconds prior to the airbag deployment the vehicle was traveling at a speed of 87 kmph (54 mph), which is 23 kmph (14 mph) above the posted speed limit. The Critical Pre-crash event for V1 was coded: Other vehicle encroachment, from opposite direction- over the left lane line. Even though the driver of V1 was speeding, the Critical Reason for the Critical Pre-crash Event was not coded to V1, because V2 did not yield the right of way and made the situation critical by encroaching into the travel lane. The driver, a male of unknown age, and passenger in V2 were on their way home from church service and listening to the radio while driving. As previously mentioned the driver of V2 did not yield the right of way because the traffic light was either yellow or had just turned red and V2 was still in the middle of the intersection attempting to clear it. The driver of V2 falsely assumed the driver of V1 would grant him the right of way. The Critical Pre-crash event for V2 was coded: this vehicle traveling, turning left intersection. The Critical Reason for the Critical Pre-crash Event was coded for V2 as a driver decision error: false assumption of other's actions.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Speed/Distance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

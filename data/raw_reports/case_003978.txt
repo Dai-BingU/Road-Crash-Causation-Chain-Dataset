@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary It was dark at the time of this single-vehicle crash with no adverse atmospheric conditions. The roadway is undivided and consists of one lane in each direction. In the southbound direction, the travel lane has a downhill grade and is curved to the left (the radius of curvature is 42 meters and the superelevation is five percent). The speed limit for this roadway is 40 kmph (25 mph). Vehicle one (V1), a 2006 Honda Accord, was southbound in lane one. V1 traveled off the right side of the roadway, rotating counterclockwise. V1 rolled over two quarter-turns down an embankment. V1 was towed due to damage. The driver of V1, a sixteen-year-old male, was traveling with a sixteen-year-old female, from a friend's house to meet other friends. He was healthy, well rested and comfortable with his vehicle and passenger. This was the first time that he traveled on this road. This driver had been driving for one year at the time of the crash. The critical pre-crash event for V1 was coded as "this vehicle control loss due to traveling too fast for conditions." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; too fast for curve/turn." This driver's inexperience and the distraction of talking with his passenger were associated factors in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

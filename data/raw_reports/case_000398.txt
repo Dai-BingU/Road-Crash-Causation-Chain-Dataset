@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the middle of the afternoon on a clear day on an eastbound, two-lane expressway that transitioned into a three-lane expressway. The roadway was dry, is level, curves to the left, and is separated from the westbound section by a short concrete Jersey barrier and railroad tracks. Paved shoulders are adjacent to the travel lanes on both sides. Just prior to the crash area, two eastbound roadways, comprised of two lanes each, merged together to form this three-lane expressway. The westbound section and railroad tracks did not play a role in the crash. The speed limit on the expressway was 89 kmph (55 mph). There was moderate traffic congestion at the time of the crash, but there were no defects in the road or adverse weather conditions. Vehicle one (V1), a 1999 Oldsmobile Cutlass was traveling eastbound in the first lane. Vehicle two (V2), a 2003 Honda Accord was also traveling eastbound and was in the second lane. V1 was going straight when another eastbound vehicle from the other two-lane expressway started to merge into her lane at the transition point. The driver of V1 swerved to the left and her left side sideswiped the front end of V2. V1 continued to the left and contacted the concrete median wall with its front plane. After the wall impact, V1 re-entered the roadway, and came to rest in the middle of the expressway, facing southbound. The driver and her granddaughter received reported, but not evident injuries and were both transported. V1 was towed due to damage. After the sideswipe, the driver of V2, a twenty-seven year old male, came to a controlled stop in his original lane of travel. The two occupants of V2 were restrained and were not injured or transported. V2 was driven from the crash scene. The driver of V1, a fifty-nine year old female, stated that she was heading home from church and had been driving for about fifteen minutes at the time of the crash. This driver stated that she was singing Christmas carols with her granddaughter. This driver was taking Avandia, Cardizem CD, Glyburide, Lasix, Potassium Chloride, Singulair and Zocor as medications. This driver drives this vehicle daily and over this road on a weekly basis. The critical pre-crash event for V1 was coded: this vehicle traveling, over the lane line on left side of travel lane. The critical reason for the critical pre-crash event was coded to V1 as a driver related factor: incorrect evasive action. Although this driver was successful in avoiding the vehicle merging into her lane, she chose an incorrect evasive maneuver in avoiding the non-contact vehicle by overcompensating & steering into the adjacent lane where V2 was located. This driver also did not adequately survey to see if the lane V2 was in, was clear to turn into. The critical pre-crash event for V2 was coded: other vehicle encroachment, from adjacent lane (same direction) - over right lane line.. The critical reason was not coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a secondary arterial road in a residential area. The road was an east/west two-way, two-lane road that was intersected on the north by a residential side street. The arterial road was level but had a slight curve left/south from the westbound approach to the intersection. The curve was measured with a radius of 217 meters. The arterial was bordered on the south by densely packed trees and on the north by a sidewalk. The crash occurred on a weekday afternoon under cloudy, dry conditions with a speed limit of 64kph (40mph). Vehicle #1 was a 1995 Ford Mustang traveling west on the arterial road when as it passed the apex of the curve a non-contact minivan whose original travel direction was eastbound turned left/north onto the residential side street in front of Vehicle #1. In an attempt to avoid contacting the minivan Vehicle #1 swerved left while braking and struck Vehicle #2 head-on. Vehicle #2 was a 1991 Chevrolet 1500 extended cab pickup that was stopped behind the non-contact minivan in the eastbound lane waiting for it to turn left. Vehicle #1 came to rest facing west in the eastbound lane with its front against the front of Vehicle #2, which was still facing east in its original travel lane. Both Vehicles were towed from the scene. Vehicle #1, was driven by a belted 43 year old female whose airbags did deploy in the crash. She was uninjured in the crash. The driver stated that she was traveling west and she saw the van turning across in front of her. She swerved left and hit her brakes, she missed the van but hit V2 in the front. The Critical Precrash Event for Vehicle #1 was this vehicle traveling over the lane line on the left side of the travel lane. The Critical Reason was too fast to respond to the unexpected actions of others. The drivers' vision was impaired, she being nearsighted with restrictions on her license she stated in the interview that she was not wearing any corrective lenses at the time of the crash. She was coded as having failed to look far enough ahead and falsely assuming that the minivan would yield the right of way. She also chose an inappropriate evasive action. The minivan was coded as a sight restriction as it masked the presence of Vehicle #2 behind it. Vehicle #2, was driven by a 33 year old belted male who was uninjured in the crash. The driver stated that he was stopped in the eastbound lane waiting for the minivan in front of him to turn left. when the van turned all of a sudden he saw V1 coming straight for him and she hit him. The Critical Precrash Event for Vehicle #2 was other vehicle encroachment from opposite direction over the left lane line. The Critical Reason was not coded to this vehicle. The minivan was coded as a sight restriction but no contributing factors were coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs, Roadway, Vision present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

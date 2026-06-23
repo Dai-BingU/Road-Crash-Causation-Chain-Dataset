@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of a weekday in the middle of an urban “T” intersection. The intersection consisted of an east/west seven lane divided roadway and a north/south seven lane divided roadway (that terminated at the intersection) controlled by a properly functioning traffic signal. The north end of the intersection served as an entrance for a tire store. Both roadways were bituminous, dry, straight, and level with posted speed limits of 72kmph (45 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2003 Honda Accord, was eastbound in lane four approaching the intersection where it intended to turn left into the tire store. V2, a 2005 BMW 530I, was westbound in lane two approaching the same intersection where it intended to go straight. The traffic light was solid green for both eastbound and westbound traffic. As V1 attempted its left turn it was struck on the right side by the front of V2. Both vehicles were towed due to damage. V1 was driven by a 26-year old male, who refused treatment and could not be reached for interview. However, in his statement to police, the driver indicated that as he approached the intersection he turned left on a solid green light, assuming that the other driver should have yielded the right of way. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was a decision error, false assumption of other's actions. The driver falsely assumed that the other driver would yield the right of way. The only associated factor that could be coded to V1 was a tire deficiency as its tread depth was dangerously low. V2 was driven by a 39-year old male, who refused treatment. He declined to be interviewed. The Critical Precrash Event for V2 was coded other motor vehicle encroachment, from opposite direction over the left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. No additional associated factors could be determined for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

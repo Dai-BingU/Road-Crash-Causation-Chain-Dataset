@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a dark weekend night in the middle of a T-type intersection controlled by a properly functioning traffic signal. The main roadway runs north/south with an eastbound intersecting road. The bituminous north/south roadway was dry, straight, and level with a posted speed limit of 72 kmph (45 mph). The conditions this evening were cloudy, dark, and a rainstorm was in the forecast. V1, a 1997 Mitsubishi Mirage DE with one occupant, was stopped facing south at the intersection preparing to turn left. V2, a 1989 Chevrolet Camaro with two occupants, was northbound approaching the same intersection where it intended to go straight. The signal remained green as V2 approached the intersection. As V1 made its left turn it was struck on the right side as V2 entered the intersection. The force of the impact caused V1 to rotate clockwise almost 180 degrees before coming to final rest in the intersecting roadway near the northeast corner of the intersection. V2 continued forward and came to final rest just the intersection in the northbound lanes. Both vehicles were towed due to damage. The driver of V1, a 22-year-old female, was uninjured in this crash. After numerous attempts she could not be located for an interview. The Critical Precrash Event for V1 was coded this vehicle traveling turning left at intersection. The Critical Reason for the Event was coded as an unknown driver error. There were no known associated factors coded to V1. The driver of V2, a 42-year-old male, was returning home from a restaurant where he and his daughter had ordered dinner to go. As he was driving north in lane two at approximately 45 mph, he noticed a southbound vehicle (V1) stopped in the left-turn lane. As he entered the intersection, V1 suddenly turned in front of him and he crashed into its right side. This driver stated that the traffic signal had been green “for quite a while” as he approached it. He also stated the other driver was talking on a cell phone as she turned across his path. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street, across path. The Critical Reason for the Critical Event was not coded to this vehicle. There were no known associated factors and the driver of V2 was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

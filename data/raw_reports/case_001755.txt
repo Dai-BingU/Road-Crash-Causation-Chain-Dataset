@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during the daylight hours at the intersection of two two-lane, two-way bituminous roadways. Both roads are straight and level. The weather was clear and dry, and the intersection was controlled by stop signs at all four corners. The speed limit is 48 kph (30 mph). Vehicle one, a 2004 Chevrolet Impala was northbound stopped at the intersection in the first lane. Vehicle two, a 1994 Saturn SL2 was eastbound stopped at the intersection in the first lane. Vehicle one and vehicle two were both stopped at the intersection. Both vehicles proceeded through the intersection and the front of vehicle one impacted the right of vehicle two. Vehicle one was driven from the scene. Vehicle two was towed due to damage. The driver of vehicle one, a seventy-nine year old female was showing a friend around town at the time of the crash. It is unknown how long she had been driving on this trip. This driver stated that she was talking to the passenger as she proceeded through the intersection. This driver drives this vehicle daily and over this road on a monthly basis. The driver of vehicle two, a forty-two year old female gave a partial interview. It is unknown how long this driver had been driving on this trip. This driver drives this vehicle daily and over this road on a daily basis. The critical pre-crash event for vehicle one was coded as “this vehicle traveling: crossing over [passing through] intersection”. The critical reason for the critical pre-crash event for vehicle one was coded as “driver related factor: internal distraction”. The critical pre-crash event for vehicle two was coded as “other vehicle encroachment: from crossing street: across path”. The critical reason for the critical pre-crash event for vehicle two was coded as “not coded to this vehicle”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

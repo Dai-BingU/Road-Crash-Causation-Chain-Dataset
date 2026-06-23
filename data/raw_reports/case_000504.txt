@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a six-lane roadway divided by a concrete curb median. There were three westbound lanes and three eastbound lanes. The crash occurred at an intersection with a ramp onto a state highway. The westbound lanes were slightly curved and bituminous with a posted speed of 56 kmph (35 mph). It was midmorning on a weekday and the road was dry and the sky was clear. Traffic flow was busy. The intersection was located on a road built over a heavily traveled parkway, between the off ramp and on ramp off the parkway. V1, a 2001 Dodge Neon four-door with one occupant, was traveling westbound in lane one. V2, a Toyota Corolla four-door with one occupant, was also traveling westbound in lane 1, in front of V1. V2 had just passed a southbound on-ramp and as it approached the intersection at approximately 48 kmph (30 mph), the signal at the intersection turned yellow. The driver of V2 decided to stop at the light before turning right onto the northbound ramp. V1 was traveling two to three car lengths behind V2 at approximately 56 kmph (35 mph). The driver of V1 saw the light at the intersection had just turned yellow and thought V2 would proceed through the intersection or turn onto the on ramp. The driver of V1 applied the brakes once she realized that V2 was going to stop for the light. The brakes of V1 locked and the vehicle skidded approximately 2 car lengths into the rear of V1. V2 came to rest in the intersection and V1 came to rest partially in the intersection. V1, the Dodge Neon, was driven by a 41-year old female who reported no injuries. She stated that she had just dropped off a relative at the rail station, and had traveled approximately three miles heading to her home. She stated that her travel speed was 56 kmph (35 mph). The driver stated that she had her vehicle's brakes checked due to lock-up problems experienced previously, but the mechanic reported that they were not an ABS system and that was to be expected. V2, the Toyota Corolla, was driven by a 38-year old male who was transported due to neck injuries. He stated that he had just passed the first on ramp and signaled with his indicator that he was intending to turn right onto the northbound ramp when he noticed the light at the intersection had turned yellow. He decided to stop at the intersection before continuing onto the on ramp. The Critical Pre-Crash Event for V1 was "Other motor vehicle in lane, other vehicle stopped." The Critical Reason for the Critical Event was "False assumption of other road users action," because the driver of V1 assumed that V2 was going to proceed through the yellow light without stopping. An associated factor coded to the driver of V1 was an exterior factor, because she was watching the signal rather than V2. The Critical Pre-Crash Event for V2 was "Other vehicle in lane, traveling in same direction with higher speed." No Critical Reason was coded for V2 and no associated factors were coded to its driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

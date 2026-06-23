@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of a five lane, four-way intersection controlled by traffic lights. There were three eastbound lanes: lane one and two were through lanes and lane three was a left turn-only lane. There were three westbound lanes: lane one was a right turn-only lane and lane two and three were through lanes. It was mid-afternoon on a weekday and skies were clear and roads were dry. The traffic flow was normal and the road was straight and level. The posted speed limit was 56 kmph (35 mph). Vehicle #1 was a 1995 Chevrolet G-series van that was traveling east in lane three attempting to make a left hand turn at the intersection. The traffic signal was solid green for both east and westbound traffic and the driver of V1 entered the intersection as Vehicle #2, a 1998 Honda Accord, entered the intersection traveling westbound in lane two going straight. The Chevrolet van attempted to make the left hand turn and turned into the left side of Vehicle #2. V1 sideswiped V2, pulling apart the front left quarter panel. The driver of V1 failed to yield the right of way to V2 and was issued a ticket for a left turn violation and for having an invalid driver's license. The driver of Vehicle #1 was a 31-year old male. He was not injured and his car was towed due to damages. The Critical Pre-crash Event for Vehicle #1 was this vehicle was turning left at the intersection. The Critical Reason was a false assumption of other road users actions, a decision error. He assumed that because he had a green light, he had the right of way. It was believed that the driver was unfamiliar with the rules of the road, as he never attended driving school or driver education due to the fact that he was from a foreign country. He also reported that he rarely drove on this roadway. The driver of Vehicle #2 was a 29-year old male who was driving with a suspended license. He was not injured and his vehicle was towed due to damages. The Critical Pre-crash Event for Vehicle #2 was other vehicle encroachment from opposite direction, over left lane line. The Critical Reason was not coded for this vehicle. One associated factor coded to this driver was a false assumption of other road users actions because he assumed that V1 would yield the right of way to him.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

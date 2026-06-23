@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle morning crash occurred in a four-way tri-light controlled intersection. The north/south roads consist of two through lanes in each direction that are divided by a left turn only lane. The east/west roadway consists of two lanes in each direction and is divided, but without a positive barrier. The westbound lanes are unlined. Directly before the intersection on the westbound side there is an access road adjacent to the westbound road that is controlled at the intersection by stop signs. All roads leading up to the intersection are straight, level, bituminous, and were dry. At the time of the crash, skies were cloudy, but there were no adverse weather conditions, road defects, or sight restrictions. Posted speed limit 56 kmph (35 mph). Vehicle one (V 1), a white 2002 Chevrolet Astro minivan was northbound in the second lane approaching the intersection. Vehicle two (V 2), a gray 1998 Buick Regal four door sedan was traveling westbound in the second lane approaching same intersection. V 2 was stopped at the tri-light controlled intersection waiting for the light to turn green. After the light turned green, the V 1 driver, a 27 year old male, entered the intersection intending to turn left. As V 2 crossed the number one north lane, the V 2 driver, a 62 year old female saw V 1 and attempted to accelerate to avoid contact, but was not successful and the front of V 1 and left side of V 2 collided. After the impact V 2 continued to accelerate, rotated clockwise and came to rest south of the intersection in the number two lane facing generally south. V 1 came to a final rest north of the intersection in the number one and number two lanes facing generally north. The V 1 driver stated that he was not injured and also that he didn't see the light. The V 2 driver was transported to a local hospital with non-incapacitating injuries. She stated that she saw V 1 just before impact, and observed the V 1 driver talking on a cell phone. The critical pre-crash event for V 1 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason not coded to this vehicle. There were factors for this driver: inadequate surveillance (e.g. failed to look, looked but did not see) being among them. The driver stated he didn't see red light. The V 1 of driver one did not admit to using a cell phone, but the V 2 driver noticed cell phone use and this is consistent with the V 1 driver's failure to notice the red traffic signal. The driver's attention to conversing on the cell phone diverted his full attention from the driving task. The critical pre-crash event for V 2 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V2 as a driver decision error: the driver assumed that the other driver would not enter the intersection on a red light and proceeded into the path of travel of V1 while executing her left turn.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Cell Phone Use, Decision, Distraction, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

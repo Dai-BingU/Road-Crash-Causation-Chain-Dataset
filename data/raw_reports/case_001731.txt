@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a two-way, residential street with a right curve. There was no centerline, and legally parked cars occupied both sides of the street. The roadway had a posted speed limit of 56 kmph (35 mph) and 7 percent downhill grade in the eastbound direction. Conditions were daylight and dry with cloudy skies. The setting was during the morning hours of a weekday. Vehicle one was a 1999 Dodge Ram Club Cab pickup traveling northwest negotiating an uphill left curve. Vehicle two was a 2003 Ford Crown Victoria Police Interceptor sedan traveling southeast on the same roadway negotiating a downhill right curve. V1 steered left of center to avoid parked cars on this narrow roadway. The front left of V1 impacted the front left of V2. Both vehicles came to rest in the roadway. V1 was driven by a 22-year old male who was uninjured. He was transferred to the police station on reckless driving charges, and was unable to be located afterwards. The driver of V1 was unlicensed. The investigating officer estimated his travel and impact speeds to be 45 and 40 mph. The pickup was towed due to damage. The Critical Pre-crash Event for V1 was this vehicle traveling over the lane line on the left side of the travel lane. The Critical Reason for the Critical Pre-crash Event was coded as an unknown driver error, due to the lack of an interview. An associated factor was the narrow roadway on which parking is allowed on both sides of the street. This situation does not allow two on-coming vehicles to pass each other at the same time - one vehicle has to pull over. V2 was driven by a 33-year old male who was treated on the scene for non-incapacitating injuries. He stated that he was responding to a police call when another vehicle suddenly came at him in his lane. He only had time to brake slightly. The other vehicle impacted his front, overriding his left front fender before coming to final rest. The driver estimated his travel and impact speeds to be 20 mph. The police vehicle was towed due to damage. The Critical Pre-crash Event for V2 was other vehicle encroachment from opposite direction over left lane line. The Critical Reason was not coded to this vehicle. This driver had a hands-free phone device in the vehicle, but was not using it at the time of the crash. The driver had 5 hours of sleep the night prior on a shifting sleeping schedule, but claimed to be rested at the time of the crash. Associated factors coded to this driver include the narrow roadway and his being in a hurry to respond to a police call.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway present problem 
+Vehicle 2:  Driver Stress/Emotion, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

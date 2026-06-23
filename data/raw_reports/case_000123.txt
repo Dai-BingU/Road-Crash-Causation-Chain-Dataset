@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred mid-afternoon involving two vehicles a passenger car and a SUV on a two-way, two lane, undivided roadway. The road was dry, new, level asphalt. The posted speed limit is 56 kph (35 mph). There was rush hour traffic at the time of the crash. There were no adverse weather conditions. V 1 a 2000 Nissan Altima driven by a 16 year-old female was northbound in the first travel lane. V 2 a 1999 Ford Explorer driven by a 28 year-old male was southbound in the first travel lane. V 1 attempted to pass the traffic ahead by departing the travel lanes to the right, struck a retaining wall and lost control. V 1 rotated counterclockwise, reentered the roadway and was struck on the right side by the front of V 2. V 1 continued to rotate counterclockwise and departed the travel lanes to the west and came to rest facing north. V 2 continued southbound and came to rest on the east side of the travel lanes facing southwest. The pre-event movement for V 1 was passing or overtaking another vehicle, category this vehicle traveling off the road on the right side. Critical reason vehicle related factor "unknown vehicle factor". V 2 was not involved in the first harmful event. The critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Surveillance, Traffic present problem 
+Vehicle 2:  Driver Inexperience, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Unknown vehicle failures
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

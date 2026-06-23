@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred on an undivided two-way, six-lane roadway on a clear, sunny weekend afternoon. The straight, concrete road had a slight downward slope and a posted speed limit of 72 kmph (45 mph). The three vehicles involved in the crash were all traveling southwest in lane three. V1, a 2002 Ford Taurus driven by a 48-year old female, struck V2 in the back. This impact pushed V2 into V3. The front airbags of V1 deployed, and V1 was towed due to damage. The fully restrained driver was transported to a local trauma center due to a pre-existing heart condition. . V2, a 2000 Buick Park Avenue Ultra driven by an 80 year-old female, was traveling around 40 mph when it was struck in the back by V1, and the front of V2 then struck the back of V3. The driver of V2 observed V1 through her rear-view mirror prior to the crash traveling at a higher rate of speed than V2. V2 had no time for avoidance maneuvers. V2 was towed with minor damage, and the fully restrained driver denied any injuries. V3, a 1992 Oldsmobile Delta 88 driven by a 56-year old female, was traveling at about 40 mph when it was struck in the back by V2. The driver of V3 was looking straight ahead prior to the crash and took no avoidance maneuvers. V3 was drivable after the crash and the fully restrained driver complained of slight back and left hip pain but was not transported. The Critical Pre-crash Event for V1 was "other motor vehicle in lane traveling in same direction with lower speed." The Critical Reason for the Critical Event coded was driver inattention. Contributing Factors coded to this driver were fatigue due to her many health conditions, the use of many prescription medications that had the possible side effects of drowsiness, nervousness, dizziness, etc. The driver stated that on a daily basis, she took 14 prescribed medications and 5 over the counter products. Her health problems included congestive heart failure, high blood pressure, high cholesterol, diabetes, overactive thyroid, kidney insufficiency, arthritis, depression, and acid reflux. The driver also was late for church, and had concerns on her mind related to her health and job. The driver claimed that she had made a U-turn prior to the crash, and upon turning around, found that the sun was in her eyes and was distracted by it. The Critical Pre-crash Event for V2 was "other motor vehicle in lane traveling in same direction with higher speed." The Critical Reason was not coded to this vehicle. Associated factors coded to this driver were her 8 prescribed medications that she took for diabetes, high blood pressure, high cholesterol, and thyroid problems. The driver of V2 also had a hearing impairment for which she was not wearing her hearing aid. No Critical Pre-crash Event and no Critical Reason were coded to V3 because it was not involved in the first harmful event. An associated factor coded to this driver was her use of 10 unidentified prescribed medications for arthritis.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Physical, Driver Stress/Emotion, Drugs, Weather/Environment present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+Vehicle 3:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Making a U-turn
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

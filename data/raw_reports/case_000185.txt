@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred during daylight hours on a straight two-way, two-lane, not physically divided roadway. There were no traffic control signals on this stretch of roadway. The roadway was dry and no atmospheric conditions were present when the incident took place. The roadway was straight with a downhill grade greater than 2%. The posted speed limit for the roadway was 56kph (35mph). V1, a 1994 Jeep Wrangler, was heading south on the roadway traveling between 50-64kmph (31-40mph). V1 was forced to exit the roadway to the right side when a non-contact vehicle traveling in the opposite direction drifted into its lane. Upon departing the roadway V1 began to yaw and the right side of V1 ultimately impacted a structure on the roadside before coming to final rest. The vehicle suffered severe damage and had to be towed from the scene. The driver of the vehicle, a male in his late 20's to early 30's suffered some bruising and lacerations, but did not require transportation to a medical facility. The researcher did speak with the driver who stated that another vehicle, which was traveling in the opposite direction, crossed the double yellow lines. This in turn caused V1 to steer to the right to avoid the collision. After he exited the roadway, the driver tried to steer back to the left, but lost control of the vehicle. The Critical Precrash Event coded to this vehicle was: this vehicle traveling off the edge of the road on the right side. The reason for the Critical Precrash Event was coded as a driver decision error, incorrect evasive action. The only associated factor coded to this driver was that he chose an inappropriate evasive action as the driver over steered to the right when he attempted to avoid the non-contact vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

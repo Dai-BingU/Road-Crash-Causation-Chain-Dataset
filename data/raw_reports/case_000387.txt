@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a two-lane urban roadway not physically divided. There are three southbound lanes with lane one and two going straight, and lane three a left turn only. The conditions were nighttime with clear skies and it was a weekday night. The roadway was slightly curved although; where the crash happened it was straight. The traffic flow was normal. The crash occurred in the left turn only lane (lane three) in the southbound lanes. Vehicle # 1 was a 2006 Pontiac G-6 grandprix who was heading southbound in lane three, was from out of state and was on his way to the airport drove the vehicle. Vehicle 2, was a 2005 Lexus 330 SUV AWD that was stopped at the red light waiting to turn left when all of a sudden Vehicle 1, the Pontiac crashed into the back of the Lexus. The driver of V1 was not injured and his vehicle was towed due to damages. The driver of V2 and her passengers were not injured and the vehicle was not towed due to damages. The driver of V1, a 40-year-old male stated that he was travelin in lae 3 and was on his way to the airport to catch a flight. He did not realize that he was in the left turn lony lane and the car in front of him was stopped waiting to make a left turn. He just hit V2 in the back. The Critical Precrash Event for Vehicle one was another motor vehicle stopped in lane. The Critical Reason for the Critical Precrash Event was driver related, a recognition error. There are a few associative factors that are related to the driver. The driver was driving a rental car and stated in the interview that he was on vacation and it was his first time on that particular roadway. The driver of V2, a 66-year-old female stated that she was just heading home after dinner. Her friends and her rent a timeshare on the ocean and they we on their way there.They were at a complete stop when we got hit. The Critical Precrash Event for Vehicle 2 was another motor vehicle in lane that was traveling at a higher rate of speed. The Critical Reason was not coded to this vehicle. Although, this vehicle was not though to have contributed to the crash the driver was conversing with the passengers prior to the crash as they had just come from dinner. They too were here on vacation and stated in the interview that since they have a timeshare off that particular roadway and they come here 2xs per year. So the driver was not all that familiar with the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Stress/Emotion present problem 
+Vehicle 2:  Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

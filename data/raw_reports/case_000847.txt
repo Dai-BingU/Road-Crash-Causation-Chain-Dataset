@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred at the intersection of two four-lane, undivided, two-way roadways. Both roads were dry, level and straight with an asphalt surface. The posted speed limit for both roadways is 48 kph (30 mph). Traffic was light at the time of the accident. This crash occurred during daylight hours with clear skies. Traffic at the intersection is controlled by traffic control signals that were functioning properly at the time. Vehicle one (V1), a 1996 Chevrolet Corsica with one occupant, was northbound in the second travel lane. Vehicle two (V2), a 1996 Mercury Grand Marquis with two occupants, was stopped facing east, waiting to turn left when the signal turned green. V2 waited for traffic to clear the intersection and then attempted the left turn when V1 entered the intersection and the front struck the right side of V2. V1 rotated clockwise and came to rest facing northeast in the intersection. V2 rotated counterclockwise and came to rest facing northeast in the intersection. Both vehicles were towed due to damage. The two occupants of V2 refused treatment for their minor injuries. The driver of V1, a forty-four year old male, was heading to work from home at the time of the crash. This driver had been driving for about forty minutes. This drive stated that he saw the light turn yellow and was going to be able to make the light. This driver drives this vehicle daily and over this road on a daily basis. A witness to the crash stated to the investigating officer that V2 had the green light. The critical pre-crash event for v1 was coded as "other vehicle encroachment- from crossing street, turning into same direction”. The critical reason for the critical pre-crash event was coded as “driver related factor: illegal maneuver“. The driver failed to stop for the red traffic control signal. The driver of V2, a seventy-five year old female, was heading to a doctors appointment at the time of the crash. This driver had been driving for about ninety minutes. This driver stated that she never saw the other vehicle coming. This driver drives this vehicle daily and over this road on a monthly basis. The driver had concerns pending upcoming surgery. She has high blood pressure, diabetes and also has a pacemaker. She does take prescription drugs but was unsure of which ones. This driver did not see V1 prior to impact and attempted no evasive maneuvers. The critical pre-crash event for V2 was coded as "other vehicle encroachment: from crossing street across path”. The critical reason for the critical pre-crash event was coded as “not coded to this vehicle”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+Vehicle 2:  Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

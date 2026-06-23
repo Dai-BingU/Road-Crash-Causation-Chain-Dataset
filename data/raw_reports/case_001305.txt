@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at a three-legged intersection in the westbound lane of a suburban roadway. There was an east/west street with an intersecting leg to the north. The east/west roadway had a posted speed of 56 kmph (35 mph), while the north/south roadway had a posted speed limit of 40 kmph (25 mph). The eastbound approach was on a 1% downhill grade while the westbound approach was on a 3% uphill grade. Conditions were daylight and dry with clear skies. The setting was early afternoon hours on a weekday. Vehicle one was a 1999 Saturn SC2 sedan traveling east in lane one approaching the intersection. Vehicle two was a 1992 Ford Crown Victoria sedan traveling west in lane one. V1 began turning left at the intersection. The front of v1 impacted the front of v2 (Event 1). V1 then spun 90 degrees counter-clockwise and traveled into a guy wire holding up a telephone pole (Event 2) . V2 came to rest in the intersection facing west. The driver of v1 exited the vehicle, but did not place the transmission into PARK. V1 subsequently traveled forward, impacting the telephone pole with its left plane and coming to rest against the pole. The Saturn SC2 (v1) was driven by a 36-year old male who was transported to a local trauma center with no police reported injuries. His wife refused to allow him to speak on the phone to be interviewed. The investigating officer estimated his travel and impact speeds to be 48 kmph (30 mph). The Saturn sedan was towed due to damage. The Critical Precrash Event for v1 was this vehicle traveling turning left at an intersection. The Critical Reason was a driver related factor of an unknown recognition error. The left front, right front, and right rear tires of v1 had inadequate tread depth. No other factors could be coded to the driver of v1 without an interview. The Ford Crown Victoria (v2) was driven by a 20-year old male who was treated on scene for possible injuries. He stated that he was heading back to school from home when another vehicle turned left in front of him. He mentioned that his car rolled forward after the crash when he forget to place the transmission in PARK. He estimated his travel and impact speeds to be 56 kmph (35 mph) and 48 kmph (30 mph), respectively. The Ford sedan was towed, but not due to police-reported damage. The Critical Precrash Event for v2 was other vehicle encroachment from the opposite direction over the left lane line. No Critical Reason was coded to this vehicle. No other associated factors were present for v2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

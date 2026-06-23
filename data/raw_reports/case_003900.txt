@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a two-lane intersection controlled by a stop sign. Conditions were daylight and dry in the morning on a weekday. The eastbound lane had a posted speed limit of 40 kmph (25 mph) with a stop sign; the southbound lane had a speed limit of 56 kmph (35 mph). V1 was 1999 Pontiac Montana Minivan, which was traveling southbound in the right lane approaching an intersection. V2, a 1991 Ford Tempo sedan, was traveling eastbound in the right lane approaching the intersection with a stop sign. V2 stopped at the stop sign and then proceeded through the intersection. V1's front struck the left side of V2 in the eastbound lane. V1 came to final rest facing eastbound and V2 came to final rest facing northbound. V1 was driven by a 40-year-old female who was not injured. She stated that she was going straight, saw V2 stopped at the sign, and then saw V2 accelerate into her path. The driver of V1 didn't understand why V2 decided to accelerate. The driver of V1 braked but could not successfully avoid V2. V1 was traveling between 17-32 kmph (11-20 mph) at the time of impact. V1 was driven from the scene. The driver of V1 did not want me to take any pictures of the vehicle. The Critical Pre-crash Event for V1 was when the V2 encroached into V1's lane from the crossing street, across path. The Critical Reason for the Critical Pre-crash Event was not coded to V1. The driver of V1 was conversing with the occupants but denied that this contributed to the crash. V2 was driven by a 62-year-old male who was not injured. She stated that she stopped at the stop sign, looked in both directions, and then proceeded through the intersection and was struck on the left side by V1. The driver of V2 did not see V1. V2 was traveling less than 16 kmph (10 mph) at the time of impact. V2 was towed due to damage. The Critical Pre-crash Event for V2 was This Vehicle Traveling - Passing through the Intersection. The Critical Reason for the Critical Pre-crash Event was Inadequate Surveillance - looked but did not see. An associative factor was environment related - the driver's view was obstructed by other parked vehicles. Contributory factors coded to this driver were the driver being fatigued, the driver taking medication for a pre-existing health condition, and sight line restrictions - roadside parking obstructed the view. V2 also failed to stop for a traffic control device.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+Vehicle 2:  Driver Fatigue, Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

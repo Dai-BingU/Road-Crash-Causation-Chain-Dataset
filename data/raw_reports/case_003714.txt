@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in early afternoon of a weekend in southbound lane of a 4-way intersection. The intersection consists of one multi-lane roadway and two crossing city streets. The main thoroughfare is a north/south 4-lane undivided roadway without any traffic controls at this intersection. The intersecting cross streets are 2-lane undivided roads with stop signs posted at this intersection. The bituminous roads are straight, dry and have speed limits of 56 kmph (35 mph). The weather condition was clear, dry, and daylight. V1, a 1999 Mazda Protégé with occupant, was eastbound on the city street intending to go straight. V2, a 2005 Toyota Avalon with one occupant, was southbound in lane one approaching the same intersection, intending to go straight. V1 failed to stop for its stop sign and struck the right of V2 as they both entered the intersection at the same time. V1 was towed due to disabling damage and V2 was towed because its driver was transported to a hospital. The driver of V1 is a 28-year-old female that reports she woke up this morning at 10:00 am, went to get her nails manicured, and while returning home was involved in this crash. She said she was "zoned-out" and was not paying attention to the roadway when she ran the stop sign and collided into the right side of a V2. She said she had a toothache this morning and she was concerned about her wisdom teeth needing to be removed. She said she never saw the stop sign or the Toyota and cannot believe she crashed her car. The Critical Precrash Event for V1 was coded this vehicle crossing over (passing through) intersection. The Critical Reason for Critical Event was coded inattention. Another factor coded to this driver was failed to stop for traffic control device. The driver of V2 is a 75-year-old retired male that was running errands (shopping) this weekend afternoon when he was involved in this crash. He states he was driving south at 35 mph when he saw a black car "out of the corner of his eye" advancing toward him from the right side. He said V1 struck his car before he could react to it. He continued to travel south after it collided with V1 and came to a stop in lane two. The Critical Precrash Event for V2 was coded other vehicle encroaching from crossing street, across path. The Critical Reason for Critical Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred during daylight hours on a cloudy day. V1 was on a two-lane, two-way, non-divided city street with a stop sign controlled intersection. V2 was on a two-lane, two-way, also non-divided city street, but without a control device. The roads were similar in that they were both dry, level, asphalt city streets. The roadway for V1 had a posted speed limit of 40Kmph (25Mph). The roadway for V2 had a posted speed limit of 72Kmph (45Mph). V1 a 2000 Ford Taurus was traveling north and stopped at the stop sign. V2 a 2001 Daewoo Leganza was traviling west. V1 made a left turn and V1's front contacted V2's left side. V2 slid counter-clockwise and hit it right rear wheel on the curb. V2 came to final rest facing east in lane one on the west side of the intersection. V1 came to final rest facing east in the north east corner of the intersections. V1 a 2000 Ford Taurus was being driven by a 23 year-old male. V1 was stopped at the stop sign controlled intersection talking on a cell phone. The driver stated that he thought he looked both ways then proceeded to make his left turn. The driver then stated that he saw V2 at the last second but did not have enough time to avoid the collision. V2 a 2001 Daewoo Leganza was being driven by a 62 year-old female. V2 was traveling westbound in the second lane approaching the intersection. The driver of V2 stated that she did not see V1 pull out of the side street. The driver then stated that she only remembers being hit in the left side of her vehicle. The Critical Pre-crash Event coded for V1 is "this vehicle traveling turning left at an intersection". The Critical Reason coded for V1 is a "driver related factor inadequate surveillance, failed to look". The Critical Pre-crash Event coded for V2 is "other motor vehicle in lane in a crossover". V2 was not given a Critical Reason.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Distraction, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

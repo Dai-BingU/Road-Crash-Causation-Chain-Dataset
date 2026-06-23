@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a one-way, two-lane roadway. The crash ultimately ended at an intersection, however, the first harmful event occurred before the intersection. There were no atmospheric conditions at the time of the incident and the roadway was found to be dry, straight, and level. There were no traffic signals present where the crash took place and the posted speed limit for both vehicles involved was 40kmph (25mph). V1, a 1995 Chevrolet Blazer, was traveling north at an unknown rate of speed in lane one of the one-way roadway. V2, a 1992 Nissan Sentra, was also traveling north in lane two at an unknown rate of speed. Vehicle one attempted to change from lane one to lane two. The left side of V1 contacted the right side of V2. After the initial impact, V2 continued forward, through an intersection and made contact with a utility pole on the left side of the roadway. V1 came to final rest approximately 10 meters ahead of V2. V1 did not sustain enough damage to warrant a tow, however, V2 sustained major damage from contact with the pole and had to be towed from the scene. The driver of V1, a 22 year-old male, did not suffer any injuries as a result of the collision and did not require any medical attention. Because V1 did not sustain disabling damage, the vehicle was driven from the scene shortly after the researcher's arrival. There was no telephone number provided on the Police Accident Report, and no number could be acquired through investigation. The Critical Precrash Event coded to this vehicle was this vehicle traveling, over the lane line on the left side of travel lane. It is the researcher's opinion that V2 could not be seen by V1 when he attempted to switch lanes. Because of this, the reason for the Critical Precrash Event was coded as inadequate surveillance. No other factors could be attributed as a cause of this crash for V1. The driver of V2, a male whose age was unknown, suffered moderate to major injuries and was flown to a nearby hospital for treatment. As was the case with the driver of V1, there was no telephone number provided for the driver of V2. No numbers could be acquired for the driver and therefore, no interview could be obtained. The Critical Precrash Event coded to this vehicle was other vehicle encroachment, from adjacent lane over right lane line. The reason for the Critical Precrash Event was not coded to this vehicle. There are no known associated factors coded to this vehicle and V2 was thought not to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

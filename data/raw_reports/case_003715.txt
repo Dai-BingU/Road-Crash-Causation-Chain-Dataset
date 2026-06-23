@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of an urban north/south two-lane secondary arterial road and an east/west two-lane residential side street. The level arterial road curves to the west south of the intersection with a radius of curvature of 212m. The side street, which is controlled by a stop sign, curves to the right at a -1.6% grade as it approaches the intersection. The posted speed limit on both roads was 48kmph (30mph). Conditions were daylight and dry on a weekday evening. Vehicle #1 was a 1998 Chevrolet Lumina traveling west on the residential side street. Vehicle #2, a 1995 Honda Civic, was northbound on the arterial road. The Lumina (V1) came to a stop at the intersection and then attempted to turn left. Vehicle #1's front struck the right side of Vehicle #2. Both vehicles were towed due to damage and came to rest at impact. Vehicle #1 was driven by a 41-year-old male who was not injured in the collision. He was unbelted but had deployed frontal airbags. He stated that he came to a stop at the intersection and looked left then right before attempting to make the left turn. He only saw the other vehicle a split second before impact. EDR data was extracted from the vehicle and indicated a maximum longitudinal velocity change of 17.3kmph (10.75mph); pre crash information was not available on that particular model. Police charged this driver with failure to yield. The Critical Precrash Event for Vehicle #1 was this vehicle turning left at intersection. The Critical Reason for the Critical Event was a recognition error, inadequate surveillance. One associated factor was an emotional factor. The driver didn't feel it had any influence on the crash but he had spent the most of the day with his ailing mother at the hospital. Leading up to the crash he had left the hospital and gone for a walk at a nearby park and was on his way to meet some friends when the crash occurred. There was a stop sign present for this driver; the driver stopped, but then proceeded and the crash occurred. Vehicle #2 was operated by a 22-year-old female who was belted with no deployed airbags. She was transported to a local hospital with minor injuries as a precaution because she was 5 months pregnant. In her statement she said she saw the other vehicle begin to turn left and she attempted to avoid by braking and steered left, decelerating to less than 16kmph (10mph) before being struck in the right front. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from crossing street turning into opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. No associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Driver Stress/Emotion, Drugs, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

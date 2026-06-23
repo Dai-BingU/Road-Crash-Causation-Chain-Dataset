@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a three-lane, divided roadway at an industrial entrance. There were three southbound lanes including a left turn lane on a level grade left curve. There were three northbound lanes including a left turn lane on a 2% uphill grade. The roadway had a posted speed limit of 56 kmph (35 mph). Conditions were daylight and dry with cloudy skies. The setting was midday on a weekday. Vehicle one was a 2000 Dodge Dakota pickup traveling south in lane three negotiating the left curve and preparing to turn left. Vehicle two was a 2005 Ford Taurus station wagon traveling north in lane two intending to go straight. Vehicle one turned left as vehicle two proceeded straight. The right plane of V1 was impacted by the front of V2. Both vehicles then came together in a sideslap with the right side of V1 striking the left side of V2. V1 then traveled off the northeast corner of the intersection, coming to rest on the roadside. V2 came to rest in the southeast corner of the intersection. The Dodge Dakota (V1) was driven by a 23-year old male who was transported to a local trauma center with possible injuries. He was unable to be located for an interview. The investigating officer estimated his travel and impact speeds to be 32 kmph (20 mph) and 16 kmph (10 mph), respectively. The Dodge pickup was towed due to damage. The Critical Precrash Event for V1 was this vehicle traveling turning left at an intersection. The Critical Reason was an unknown driver error. An associated factor for this vehicle was inadequate tread depth on the right front and right rear tires. The driver was unlicensed and cited for DWI. The Ford Taurus was driven by a 57-year old female who was transported to a local trauma center with non-incapacitating injuries. She stated that she was heading home from work when the other vehicle suddenly turned in front of her. She said she didn't have a chance to react. Her estimated travel and impact speeds were 56 kmph (35 mph). The Ford station wagon was towed due to damage. The Critical Precrash Event for V2 was other vehicle encroachment from opposite direction over the left lane line. No Critical Reason was not coded to this driver. This driver was taking medications for diabetes and high blood pressure. She wears corrective lenses for a nearsighted condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Vehicle present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

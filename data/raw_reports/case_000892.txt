@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred on a five-lane asphalt constructed roadway. This roadway runs east to west and has a right hand curve. This roadway is level with no obvious defects. This crash occurred at dusk with overhead street lighting. This road has no traffic controls and has a posted speed limit of 56 kmph (35 mph). Vehicle one (V1), a 2005 Nissan Titan was eastbound in the first lane. V1 drifted right off the roadway and impacted a metal utility pole with its front plane. V1 then continued forward and impacted a concrete parking lot curb with its right front bumper and a small sign with its right plane then bounced left back onto the eastbound travel lanes coming to a rest in the second eastbound lane. V1 was towed for disabling damage. The driver of V1, a forty-nine year old male was heading home from a doctors appointment in a distant town. This driver had driven for 185 kilometers (115 miles) and had an additional 120 kilometers (75 miles) to go before he arrived home. This driver had been driving for about two hours and forty-five minutes at the time of the crash. This driver stated that he could not remember what had happened and that he does suffer from Obstructive Sleep Apnea. This driver is undergoing treatment for Sleep Apnea. This driver had gotten eight hours of sleep the previous night but had been up for twelve and one-half hours at the time of the crash. This driver is taking Lipitor and Synthroid as medications. This driver drives this vehicle daily and over this road on a weekly basis. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: sleeping, that is, actually asleep.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

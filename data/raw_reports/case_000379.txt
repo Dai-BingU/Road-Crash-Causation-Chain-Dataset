@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a six-lane undivided roadway. At point of impact there were three eastbound lanes and two westbound lanes with a left turn-only lane between the east and westbound lanes. The roadway was level, dry asphalt. There was an -8 percent super-elevation on the eastbound shoulder. The posted speed limit was 72 kmph (45 mph). The atmospheric conditions were sunny and clear. The crash occurred during the noon rush hour on a weekend when traffic was very congested. V1, a 2003 Isuzu Axiom sport utility vehicle with one occupant, was traveling eastbound in lane two during pre-crash through a segment of the roadway that was five lanes, two in each direction divided by the left turn only lane. At the point of impact she was in the same lane but due to the roadway widening she was now in lane 3. V2, a 1997 Chevrolet 1500 pickup with one occupant, made a left turn across the three eastbound lanes from a restaurant drive-through. Before V2 completed the turn, it struck the right rear of V1 with its front right bumper. V1 rotated clockwise and rolled longitudinally to the left. It skidded on the left side and then rolled onto its top, continuing its skid toward the southeast across all three eastbound lanes. It then struck the south curb and rolled onto its right side, coming to rest facing west off the roadway on a grassy area against a gas pipeline marker. V2 pulled back off the roadway into the restaurant parking lot. V1, the Isuzu Axiom, was driven by a 48-year old female who was transported to the hospital due to injuries. The driver said she was on her way from home to work. She was not certain of her speed or what happened. She said she never saw V2 and took no evasive actions. She said her vehicle was struck on the right side and rolled over and skidded across the roadway. The Critical Pre-crash Event for V1 was other vehicle encroachment from driveway turning into the opposite direction. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors were coded for the roadway rush hour congestion and a sightline restriction - the driver of V1's view was obstructed by the vehicles in the lanes to her right. This driver was also coded for the medication she was taking due to an under-active thyroid. V2, the Chevy 1500, was driven by a 28-year old male who was not injured. The driver said he had just eaten at the restaurant and was making a left turn from the driveway toward the westbound lanes. He said traffic was at a standstill and congested. The drivers in the first two eastbound lanes waved at the driver of V2 signaling for him to go ahead and turn in front of them. The driver added that he could not see lane three or V1 approaching. He commenced with his turn sequence and as he got to eastbound lane three he suddenly saw V1. He applied brakes without lockup but did not have time to avoid striking the right side of V1 with the right front bumper of his vehicle. The Critical Pre-crash Event for V2 was this vehicle traveling - turning left at an intersection. The Critical Reason for the Critical Event was an "other" decision error - turned with obstructed view. Associated factors coded for V2 include the roadway rush hour congestion and a sightline restriction caused by the non-contact vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Roadway, Traffic present problem 
+Vehicle 2:  Decision, Roadway, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Turned with obstructed view

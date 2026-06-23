@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This one-vehicle crash occurred on an undivided two-lane roadway running north and southbound. The roadway also consists of a parking lane and bicycle lane on both sides. The speed limit for this roadway is 56 kmph (35 mph). The roadway is straight and level, has no noticeable deficiencies. This crash occurred during daylight hours with a wet road. Vehicle one (V1), a 2000 Chevy Blazer was traveling southbound when, according to a witness, the vehicle swerved over the centerline and crashed into a building on the east side of the roadway. V1 came to rest against the building. V1 was towed due to damage. The driver of V1 fled the scene and there is no known pre-crash information for this driver. The critical pre-crash event for this vehicle was coded: this vehicle traveling, off the edge of the road on the left side. The critical reason for the critical pre-crash event for vehicle one was coded as: type of driver error unknown.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown

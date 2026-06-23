@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a five-lane, two-way non-divided roadway with a posted speed limit of 80 Kmph (50 Mph). The conditions at the time of the crash were as follows, snowy, with blowing snow, dark (but lighted). V1 a 1996 Chevy Monte Carlo was pulling out of a private drive. The driver of V1 stated that she looked both ways could not see any vehicles because of the snow. The driver then proceeded anyways and was struck by V2, in the second lane. The driver also stated that she could not pick up speed very fast because her tires were just spinning in the snow. Associate factors for V1 are, poor road surface, and a inexperienced driver. V2 a 1994 Ford Escort was traveling west bound in the right curb lane at about 56 Kmph (35 Mph). The driver of V2 stated that he saw the car pulling out of the drive and steered to the left to avoid the collision. The driver also stated that he locked up the brakes, but could not stop. V2 contacted V1 in the second lane. The associate factor for V2 is also poor road conditions. The Critical Pre-crash Event coded for V1 is this vehicle traveling (turning left). The Critical Reason is a weather related snow. The Critical Pre-crash Event coded for V2 is other vehicle encroachment from driveway street, turning into opposite direction. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Drugs, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Rain, snow
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

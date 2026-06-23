@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the afternoon of a weekday on a multi-lane divided interstate. The highway is a straight and flat east/west thoroughfare with a high-tension cable guardrail dividing the two directions. The concrete interstate has a posted speed limit of 105 kmph (65 mph) and the traffic level was moderate at the time of the crash. The roadway was dry and the weather conditions were clear and daylight. V1, a 1996 Lincoln Mark VII with one occupant, was westbound in lane three going straight. V2, a 1998 Chevrolet Lumina with two occupants, was also westbound going straight and frequently changing lanes. V1 was ahead of V2 and when V2 switched into lane three it struck the back of V1 causing V1 to spin into the grass median and crash into the guardrail where it came to final rest facing east. V2 did not stop and tried to leave without being caught. V1 was towed from the scene because of disabling damage and its driver was treated on-scene for minor injuries. The driver of V1 is a 61-year-old male that reports he was traveling west in lane three with his cruise control set at 69 mph when he was unexpectedly struck in the rear bumper corner by an “unknown black vehicle.” He said he looked in his rear view mirror simultaneous to being struck from behind by V2. He said he lost control of his car as it spun in the grass median and into the cable-tension guardrail. He thought he could drive out of the spin by accelerating and steering into the slide but it did not work for him. The Critical Precrash for V1 was coded other vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. The driver of V2 is a 20-year-old male that was not interviewed for this case. The Critical Precrash for V2 was coded other vehicle in lane traveling in same direction with lower steady speed. The Critical Reason for the Critical Event was coded aggressive driving behavior because of the rapid lane changes reported by witnesses. Associated factors include too fast, reason unknown and alcohol use since he was arrested for driving under the influence.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Aggressive Behavior, Alcohol, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Changing lanes
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Aggressive driving behavior

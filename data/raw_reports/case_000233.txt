@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crashed occurred on a two lane undivided asphalt roadway. This road is in a S-curve. The speed limit on the roadway is 40 kmph (25 mph). The southbound roadway is level and curves to the left. Northbound pre-crash travel is level and curves to the left. This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1997 Ford F150 was southbound in the first lane negotiating a left hand curve. Vehicle two (V2), a 1995 Jeep Cherokee was northbound in the first lane negotiating a left hand curve. As V1 rounded the curve, a dog-started crossing the road from the right to the left in front of V1. V1's driver steered left into the oncoming lane to avoid the dog. The front of V1 impacted the front of V2. V1 was not towed due to damage. V2 was towed due to damage. The driver of V1, a forty-eight year old female was driving from her house to the sheriffs department to make an incident report for an unrelated incident. This driver had been driving for about twenty minutes at the time of the crash. This vehicle had two occupants, the driver and an infant who was in a rear facing child seat in the middle seat of the first row. The bed of the truck had incidental cargo and the cab is cluttered. This driver stated that she saw the dog coming out and steered left to avoid and then hit the other vehicle that stopped. This driver drives this vehicle daily and over this road on a daily basis. The driver of V2, a thirty-year old female was driving from a store to her home. This driver had been driving for about twenty minutes at the time of the crash. This driver saw the dog and saw V1 swerve. This driver stopped and was then impacted. This driver drives this vehicle daily and over this road on a daily basis. The critical pre-crash event for V1 was coded: this driver traveling: over the lane line on left side of travel lane. The critical reason for the critical pre-crash event was attributed to V1 and was coded as a driver related factor: external distraction. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason for the critical pre-crash event for V2 was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a level two lane undivided straight roadway with a posted speed limit of 48KPH (30mph). The roadway was straight. The intersecting roadway was a two lane undivided roadway Conditions were dry and crash occurred in the early afternoon hours of a weekday. Vehicle #1 was a 1996 Ford Contour was traveling in the east bound lane, then making a left turn at the intersection after an uninvolved truck had just passed in the westbound lane. Vehicle #2 was a 2004 Honda Motorcycle traveling westbound behind the uninvolved truck. Vehicle #1, the Ford Contour, made the left turn immediately after the truck and in front of Vehicle #2, the Honda Motorcycle. Vehicle #2 impacted Vehicle #1 on the right front side with it's front. The Ford Contour (Vehicle #1) was driven by a 43-year old male who was transported to an area hospital with minor injuries. He was wearing his prescription contact lenses and a pair of sunglasses at the time of the crash. He stated there was a truck in his way and he didn't see the motorcycle. He did not stop before making the turn. He stated he was traveling less than 20 MPH at impact. This vehicle was towed due to damage. The Critical Precrash Event for Vehicle #1 was coded as This Vehicle Traveling Turning Left at Intersection. The Critical Reason for the Critical Event was coded as Driver Related Factor Recognition Error- Inadequate Surveillance. He estimated the impact occurred only a second or two after he began making the turn. He stated he looked for vehicles as the uninvolved truck was passing and did not see any other oncoming traffic. The 22-year old male driver of the Honda Motorcycle (Vehicle #2) was not able to be interviewed at the scene due to EMS care and did not respond to multiple messages left at his home. Evidence at the scene indicated this vehicle did not have any response time prior to impact. This vehicle was towed due to damage. The Critical Precrash Event for Vehicle #2 was coded as Other Vehicle Encroachment From Opposite Direction-over left lane line. No Critical Reason for the Critical Precrash Event was coded for this vehicle and he was thought not to have contributed to this crash. It should be noted the driver of Vehicle #1 was cited by police for Failure to Yield Right of Way.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+Vehicle 2:  Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

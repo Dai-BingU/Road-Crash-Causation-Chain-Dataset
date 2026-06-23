@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon in the middle of a four-way intersection controlled by lights in all directions. There were no adverse atmospheric conditions at the time of the crash, and the roadway was dry, straight, and level for both vehicles. V1, a 1995 Buick LeSabre, was traveling east in lane one where the posted speed limit was 64kph (40mph). V2, a 2000 Volvo S40, was stopped at the red light facing south in lane one of a one-way roadway with a posted speed limit of 40kph (25mph). V1 intended to continue straight through the intersection. V2 was stopped at a red light waiting for the light to change. When the light changed, V2 proceeded into the intersection where its right side was struck by the front of V1. Vehicle two rotated counter-clockwise approximately 90 degrees before coming to final rest. Vehicle one came to final rest shortly after the impact. V1 was driven by a 76 year-old male in good health who was wearing his prescription lenses that corrected a myopic (near-sighted) condition. In an interview with this driver he claimed he had a green light when the collision occurred and never saw V2. The driver did not suffer any injuries as a result of the impact but V1 was towed due to damage. The Critical Precrash Event coded to this vehicle was crossing over (passing through) intersection. The Critical Reason for the Critical Precrash Event was coded as an illegal maneuver because he failed to stop for a traffic signal. An associated factor for this crash was driver inexperience with the vehicle as he stated he only had the vehicle for about a week however, as he stated he felt comfortable with the vehicle. The driver of V2 was a 45 year-old male who could not be located for an interview. According to statements given by to the police the driver stated he was stopped at a red light and proceeded into the intersection where he collided with V1. V2 was driven into a nearby parking lot and both the driver and passenger with transported to a medical facility with unknown injuries. The Critical Precrash Event coded to this vehicle was other vehicle encroachment from crossing street across path. The reason for the Critical Precrash Event was not coded to this vehicle. There are no known associated factors, as V2 was not thought to have contributed to this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

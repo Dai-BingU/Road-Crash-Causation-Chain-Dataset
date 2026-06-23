@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the late evening hours in the middle of a T-intersection. The east/west roadway upon which vehicle one (V1) and vehicle two (V2) were traveling consisted of two undivided lanes, with the westbound direction also having a left turn-only lane. The north/south roadway that V1 was attempting to turn onto when this crash occurred was an undivided two-lane roadway that ended at the east/west roadway. Westbound traffic had a downhill grade of 3 percent, while the grade for eastbound traffic was level. The posted speed limit for V1 and V2 was 56 kmph (35 mph). The T-intersection was controlled by traffic signals all around. There were no adverse atmospheric conditions at time of the crash and the roadways were dry. V1, a 2004 Jeep Grand Cherokee, was traveling west approaching the T-intersection. V2, a 1999 Ford F250 pickup, was traveling east. As V1 attempted a left turn at the intersection, the front of V2 contacted the right front side of V1. The impact caused V1 to rotate counterclockwise approximately 90 degrees before coming to rest in the eastbound lanes. V2 came to an uncontrolled final rest facing eastbound in the center of the roadway. Both vehicles had to be towed from the scene due to damage. The driver of V1, a 33-year-old female, suffered unknown injuries and had to be extricated from the vehicle. She was then taken to the hospital for treatment. No other occupants were present in the vehicle when the collision occurred. No interview could be obtained from this driver; therefore it was uncertain if any fatigue or health-related issues contributed to this crash. The Critical Pre-Crash Event coded to this vehicle was: this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Pre-Crash Event was coded as a misjudgment of gap or other's speed, based on a statement the driver made to police: "I thought I had enough room to make my turn." No associated factors could be coded to the driver of V1 due to the lack of interview. The driver of V2, a 49-year-old male, sustained no injuries. There was no other occupant present in the vehicle when the crash occurred. No interview could be obtained, so it is uncertain whether any other factors contributed to this crash. The Critical Pre-Crash Event coded to this vehicle was: other vehicle encroachment, from crossing street across path. The Critical Reason for the Pre-crash Event was not coded to this vehicle. No associated factors could be coded to this driver due to the lack of interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Unknown
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

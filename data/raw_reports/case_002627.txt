@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred in the morning of a weekday on a rural two-lane undivided roadway. The bituminous roadway was straight, flat, and had a posted speed limit of 72 kmph (45 mph). The conditions were clear, dry, and daylight. V1, a 2000 Chevrolet Astro van with three occupants, was westbound when it departed the right side of the road and struck a culvert (event #1). V1 continued to re-enter the roadway for a short distance, only to depart the right roadside again where it struck a chain link fence (event #2) and a small tree with its front (event #3). EMS arrived on scene and examined all three occupants who were not injured and did not need treatment. The minivan had to be towed from the scene due to disabling damage. The driver of V1 was a 42-year-old female who was driving her children to school when she drove off the road. While she was driving west on this 2-lane road, she was talking to her kids (and may have even turned her head to look at the children), and veered off the right side of the road. She struck a culvert and continued to drive into a fence and small tree. Her husband reported that she has mental health issues, visits a psychiatrist, and takes unknown medication for her illness. He pointed to several dents and scratches on the minivan that he claimed were caused by his wife's lack of driving skills. The Critical Pre-crash Event for V1 was coded this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was coded internal distraction. Other factors coded to this crash include use of medication for mental illness, conversing with passenger, looking at other passenger, and emotional factors per the driver's husband description.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

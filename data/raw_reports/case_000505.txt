@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary V1, a 1999 Ford Escort 4dr, was northbound in lane 1 of a 2-lane undivided bituminous, straight, urban street with a positive grade greater than 2 percent. The northbound roadway was controlled by a stop sign. V1 proceeded to turn left from that street onto a 4-lane undivided bituminous roadway without a stop sign. V2, a 2005 Ford Explorer Sport Trac, was eastbound in lane 2 of the roadway that V1 was attempting to turn westbound onto. The eastbound roadway had a negative grade greater than 2 percent and a posted speed limit of 56 kmph (35 mph). At the time of the late afternoon daylight crash there were no adverse weather conditions but the roadways were wet. The front of V2 contacted the left side of V1. Both drivers were transported due to injuries. V1 was towed due to damage. The driver of V2 tried to flee the scene but was apprehended by police. V2 was drivable but the driver was suspected of driving while intoxicated and was later arrested, and so the vehicle was towed to the local police department. A complete inspection was obtained for V1 but the driver refused to grant an interview. The vehicle inspection yielded no indications that the mechanical condition of V1 contributed to the crash. It is unknown whether fatigue, driver inexperience, the lack of vehicle/road familiarity, or aggressive driving contributed to the crash. It is known that the driver of V1 was cited for driving with a suspended license that was also expired and for failure to yield. The driver also denied to the officer at the scene that he was the driver of the vehicle. The Pre-event movement was coded as accelerating in traffic lane, the Critical pre-crash event was that V1 was turning left and the Critical reason for the critical pre-crash event was coded as "type of driver error unknown." Contributing factors to the crash may include the wet condition of the roadway and the driver's lack of proper driving skills as indicated by his suspended license. A complete vehicle inspection was obtained for V2 but the driver refused to grant an interview. The vehicle was found to be in excellent condition, a current model year with low miles. The driver's familiarity with the vehicle is unknown but it was registered to him. It is unknown whether fatigue, driver inexperience, the lack of road familiarity, speed, and/or aggressive driving were contributing factors to the crash. It is known that the driver of V2 was arrested for Driving Under the Influence and had a BAC of .187 one hour and fifteen minutes post-crash. The Pre-event movement for V2 was going straight, the Critical pre-crash event was Other Vehicle Encroachment from crossing street, turning into opposite direction and the Critical reason for critical pre-crash event was not coded to this vehicle. Contributing factors to the crash include the wetness of the roadway and the use of alcohol.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Alcohol present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

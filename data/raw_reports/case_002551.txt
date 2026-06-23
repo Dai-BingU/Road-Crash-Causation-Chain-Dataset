@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred in a rural area on a two-lane asphalt roadway. The southbound roadway was level and curved left. The speed limit for the area is 89 kmph (55 mph). The crash occurred during daylight with no adverse weather or road conditions present. Vehicle one (V1), a 1995 Ford F-150 pickup truck, was southbound when the driver passed out briefly and the vehicle drifted off the right side of the road. The driver woke up and steered left and applied his brakes. V1 contacted the end of a guardrail with its right rear tire, wheel and side plane. V1 rotated clockwise as it returned to the roadway and contacted the guardrail a second time with its front plane, which caused the vehicle to roll onto its left side where it came to rest on the paved shoulder facing south. V1 was towed due to damage. The driver of V1, a fifty-eight year old male, was returning home from the hardware store. This driver had been driving for almost forty minutes at the time of the crash. The driver, who is under a doctors care, suffers from high blood pressure, obesity and other conditions requiring him to take numerous prescription medications that he believes causes him to pass out at times. This driver drives this vehicle daily and over this road on a daily basis. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: heart attack or other impairment of the ability to act. This coding was chosen because the driver blackout due to medications he was taking.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Performance, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

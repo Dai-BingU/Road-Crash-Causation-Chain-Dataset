@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a north/south two-lane urban residential roadway. The road formed a T-intersection with a two-lane east/west road. Approaching the intersection it had a negative 6% grade and there was no stop sign or painted lane lines present on the lightly traveled road. The posted speed limit was 48kmph (30mph). Conditions were dark with streetlights illuminating on a weekday night. Vehicle #1 was a 1996 Lincoln Continental traveling northbound. It passed straight through the T-intersection and struck a house that was 13 meters north of the roadway with its front. There was a negative 16% grade between the road and house contacted. The vehicle came to rest against the house and was towed with minor damage. Vehicle #1 was driven by a 55-year old male that was belted with deployed frontal airbags. He was not injured in the crash. The driver was a cancer patient and had taken morphine 2-3 hours before the crash. In his interview with researcher he said he intended to turn left at the intersection and was not sure what happened, but he believed that he blacked out from the medication. However, at the scene researchers overheard the driver tell police that he had looked down to retrieve lottery tickets from the seat beside him when he passed through the intersection. He had driven from his residence, which was approximately 100 meters west of the crash scene, to a convenient store less than a mile away and was returning when he crashed. Police administered a field sobriety test and charged the driver with driving under the influence (5th offense), although alcohol was not involved in this crash. He was also charged with driving on revoked license, no insurance, no registration, and failure to stop at a stop sign. The Critical Precrash Event for Vehicle #1 was this vehicle end departure. The Critical Reason for the Critical Event was internal distraction. Associated factors included the non-driving activity of retrieving object from seat and fatigue. Other physical factor annotated chemotherapy patient was also coded. The driver was wearing glasses to correct a farsighted condition and was taking approximately 12 cancer drugs and morphine.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- End departure
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

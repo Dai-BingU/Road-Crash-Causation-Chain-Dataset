@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred in the middle of a four-way intersection. The northbound roadway (Vehicle 1) was a two lane undivided asphalt, dry, and level roadway. The eastbound roadway (Vehicle 2) was also a two lane undivided roadway; however, there were metal trolley tracks planted in cement on both sides of the roadway. The posted speed limit was 40 kmph (25mph) for all directions. The intersection was controlled by signalized traffic lights without pedestrian crossing for all directions. The crash occurred in the early afternoon on a weekend. There were no adverse weather conditions and traffic flow was normal. Vehicle 2, a 1995 Mazda Millenia, was traveling eastbound, speed unknown, and was crossing through the intersection when its front contacted the left front side of Vehicle 1, a 1995 Honda Accord. The police report indicated that it was unknown as to which vehicle had the right of way; however, scene evidence, vehicle damage, and final resting points indicated that Vehicle 2 ran the red light. The driver of Vehicle 2, a 30-year old female, was issued several citations. One of the violations was for driving a motor vehicle without a valid driver's license. The other was for driving with illegal movement and another for not having the vehicle properly insured. The driver of Vehicle 2 was unavailable for an interview. She was taken from the scene to the hospital with minor injuries. The driver of Vehicle 1, a 24-year old female, stated that she had the right of way and had the green light. She stated that Vehicle 2 drove through the red light and struck her vehicle on the left side. This impact spun Vehicle 1 in a clockwise direction and its front left side contacted a pole on the southeast corner of the intersection. The driver of Vehicle 1 was not injured. The Critical Pre-Crash Event for Vehicle 1 was coded as other vehicle encroachment from crossing street, across path. The Critical Reason was not coded to the driver of Vehicle 1. An associated factor code to this driver was unfamiliarity with the roadway - this was the first time she had driven on it. The Critical Pre-crash Event for Vehicle 2 was coded as this vehicle crossing over (passing through) intersection. The Critical Reason was coded as an illegal maneuver. Associated factors coded to this driver include several prescription medications for the treatment of asthma. Other associated factors were unknown due to the lack of an interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience present problem 
+Vehicle 2:  Decision, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

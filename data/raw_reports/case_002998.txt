@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at a signalized intersection of two one-way roadways. Both roadways were straight and level, and it was daylight and clear with no adverse conditions. The speed limit for both roadways was 48 kmph (30 mph). Vehicle #1 was a 2004 Ford F-550 tow truck that was traveling westbound on the one-way roadway with one lane of travel. Vehicle #2 was a 2005 Ford F-250 pickup traveling northbound in the right lane of a one-way roadway with two lanes of travel. At the intersection, the front of Vehicle #1 impacted the right side of Vehicle #2, sending Vehicle #2 into a clockwise rotation. While rotating, the left side of Vehicle #2 impacted a pedestrian who had entered the roadway at the northwest corner of the intersection. The left rear corner of Vehicle #2 then struck Vehicle #3., a legally parked and unoccupied 1992 International school bus. Vehicle #2 came to a final rest with its back bumper against the back of Vehicle #3. The Ford F-550 (Vehicle #1) was driven by a 44-year old male who did not sustain any injuries. He stated that he had the traffic light in his favor when Vehicle #2 disregarded the traffic control signal. Vehicle #1 was not towed due to damage. The Critical Pre-crash event for Vehicle #1 was coded as: Other vehicle encroachment, from crossing street across path. The Critical Reason for the Critical Event was not coded to Vehicle #1. No associated factors were coded to the driver. The Ford F-250 (Vehicle #2) was driven by a 37-year old male who did not sustain any injuries. The driver declined to participate in the study and Vehicle #2 was towed due to damage. The Critical Pre-crash event for Vehicle #2 was coded as: This vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical event was coded as an illegal maneuver, a driver related error. An associated factor coded to the driver was a decision error, illegal maneuver, because he failed to stop for the traffic control device (TCD). Other possible associated factors were coded as unknown because no interview was obtained. The pedestrian who was involved in Event #2 sustained incapacitating injuries and was transported to a medical facility.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

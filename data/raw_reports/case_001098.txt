@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a southbound one-way roadway. The asphalt road had one travel lane with parking on either side. It was dry and level. The posted speed limit was 40 KMPH (25 MPH). The crash occurred several feet after an intersection. At the point of the crash, there weren't any traffic control devices. It was early morning and traffic was light. There were no adverse weather conditions. V1 was a 4-door 1997 Nissan Maxima driven by a 36-year old female. The Nissan was traveling southbound when the driver heard a thumping sound coming from her front left tire. The car pulled hard to the left and sideswiped a 2001 Ford F250 van that was parked on the east curb straddling the street and pavement. After impact, V1 traveled a few feet further southbound and then came to rest facing in an eastbound direction. It was apparent that V1 experienced a suspension failure prior to the impact, which pulled the vehicle in a left/eastward direction, causing it to impact the parked van, V2. The driver stated that she was familiar with the vehicle and was unaware of any previous problems with the car and had driven the vehicle several times in the recent past without incident. The Critical Pre-crash Event for V1 was coded: this vehicle loss of control due to disabling vehicle failure. The Critical Reason for the Pre-crash Event was coded as a suspension failure. No additional associated factors were coded to the driver of V1.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Disabling vehicle failure (e.g,  wheel fell off) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Suspension failed

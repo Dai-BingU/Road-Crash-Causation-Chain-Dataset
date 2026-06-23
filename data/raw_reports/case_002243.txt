@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This early morning, two-vehicle crash occurred in the middle of a four-way intersection, which was controlled by traffic signals in all directions. The north/south roadway upon which both vehicles were traveling, consisted of three lanes and was considered level. The posted speed limit for both vehicles was 56kph (35mph) and there were no adverse atmospheric conditions at the time of the crash. Vehicle one (V1), a 1999 Chevrolet Malibu, was heading south on the roadway, intending to continue through the intersection. Vehicle two (V2), a 1999 Chevrolet Silverado (emergency vehicle), was heading north on the roadway intending to make a left at the intersection. The right front of V1 contacted the right front of V2. The impact caused V1 to spin clockwise approximately 135 degrees before coming to rest facing the opposite direction. Vehicle two was pushed slightly to the left, coming to final rest partially off of the side of the roadway. Both vehicles were towed from the scene due to damage. The driver of vehicle one, an 89 year-old male, suffered moderate injuries and was transported to a medical facility for observation. There were no other occupants in the vehicle when the crash occurred. No interview could be obtained from this driver, so it is uncertain whether any fatigue or health related factors contributed to this crash. The driver did inform the investigating officer that he did see vehicle two, which had its emergency lights on, because it was responding to a fire. The Critical Precrash Event coded to this vehicle was: other vehicle encroachment from opposite direction over left lane line. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. The driver of vehicle two, a 73 year-old male, did not suffer any injuries as a result of the crash. There were no other occupants present in the vehicle when the crash occurred. He said his lights and sirens were activated when the crash happened. He also claimed that he slowed down before initiating his left hand turn. No fatigue or health related issues were coded for this driver, although the driver was on medication to help lower cholesterol. The Critical Precrash Event coded to this vehicle was: This vehicle traveling, turning left at intersection. The Critical Reason for the Critical Precrash Event was false assumption of others actions.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic present problem 
+Vehicle 2:  Decision, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during early afternoon daylight hours on a clear day at a level four way intersection controlled by traffic signal. The pre-crash roadway for vehicle one is straight and has a +2/122 cm slope. Vehicle two's pre crash is straight and level. The speed limit on the roadway is 50 MPH (80 KPH). The roadway is divided with a concrete barrier leading up to the intersection. Vehicle one, a 2005 Saturn Ion, was southbound in lane four (left turn lane) attempting to make a left turn on a circular green signal. Vehicle two, a 2004 Ford Explorer, was northbound in lane two traveling at approximately 35-40 MPH (56-64 KPH). Vehicle one turned left and the front of vehicle one impacted the front of vehicle two. The crash occurred in the intersection and vehicle one came to final rest facing west in lane one of the northbound lanes. Vehicle two then departed the east road edge and struck one pole with the driver side mirror, a second smaller sign with the front plane and a third larger pole with the front plane before coming to final rest facing NE off of the roadway. Both vehicles were towed due to damage. The driver of vehicle one, a nineteen-year-old female was on the way from her apartment to pick up her dog at the dog groomers. This driver had been driving for about five minutes at the time of the crash. This driver stated that she had the circular green light and she thought that the other driver would stop for her. The driver of vehicle one, a thirty-six-year old male was on his way to visit a client and had been driving for about five minutes. The driver saw the other vehicle and when she pulled out, he stated that he tried to steer right but still hit vehicle one. The critical pre-crash event for vehicle one was coded as: “this vehicle traveling: turning left at intersection”. The critical reason for the critical pre-crash event was attributed to vehicle one and was coded as: “Driver related factor: False assumption of others actions”. In the interview for vehicle one driver, it was stated by the driver that she had the circular green light and she thought that the other driver would stop since she had the green light. The critical pre-crash event for vehicle two was coded as: “Other motor vehicle encroachment: from opposite direction - over left lane line”. There was no critical reason coded for vehicle two.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

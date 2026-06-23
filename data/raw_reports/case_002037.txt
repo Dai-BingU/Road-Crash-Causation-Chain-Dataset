@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the middle of a five-lane intersection with a positive median controlled by a traffic control signal. Conditions were daylight and dry in the afternoon on a Friday. The posted speed limit was 64 KMPH (40 MPH). V1 was a 1989 Ford F150 pickup truck traveling eastbound in the 3rd travel lane approaching an intersection intending on turning left. V2, a 2005 Dodge Durango SUV, was traveling westbound in the 2nd travel lane approaching the same intersection intending on continuing straight. The front of V1 struck the front of V2 in the middle of the intersection. V1 came to final rest facing northeast and V2 came to final rest facing westbound. V1 was driven by a 25-year-old male who was not injured. He stated that he was trying to make a left turn and the traffic was very heavy. He thought he was clear to turn but struck the front of V2. Prior to impact, the driver of V1 braked but could not avoid the impact with V2. V1 was traveling between 1.6 and 16 KMPH (1-10 MPH) at the time of impact. V1 was driven away from the scene. The Critical Precrash Event for V1 was this vehicle traveling, turning left at the intersection. The Critical Reason for the Critical Precrash Event was view obstructed by other vehicles. Associated factors coded to this driver were the driver turned with an obstructed view and the driver was uncomfortable with the surrounding traffic densities. The driver is somewhat familiar with the area. He drives on this roadway about once a month. V2 was driven by a 39-year-old male who was not injured. He stated that he was traveling westbound approaching the intersection when V1 turned in front of him and struck his vehicle. The driver of V2 did not take any avoidance actions. The driver of V2 was traveling between 34 and 48 KMPH (21-30 MPH) at the time of impact. V2 was towed due to damage. The Critical Precrash Event for V2 was the other vehicle encroachment, from opposite direction - over left lane line. No Critical Reason for the Critical Precrash Event was coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

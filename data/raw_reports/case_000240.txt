@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of an east/west five-lane arterial road and a four-lane side street that intersected from the south. The arterial was level with a slight curve to the left just west of the intersection. The radius of curvature was 450 meters. The intersection was controlled by a traffic signal and the posted speed limit was 72kmph (45mph). Conditions were daylight and dry on a weekday afternoon. Vehicle #1 was a 2004 Jeep Cherokee traveling east in the second (left) lane. Vehicle #2, a 1999 Ford Mustang, was ahead of the Jeep (V1) in the left lane. Vehicle #2 stopped at the intersection for the traffic signal and was struck in the back left by the front right corner of Vehicle #1. Both vehicles came to rest near impact and were towed due to damage. Vehicle #1 was driven by a 31-year old female that was belted with no deployed airbags. A 26-year old belted male accompanied her in the vehicle. Neither was injured in the collision. The driver stated that she saw the signal change to yellow and assumed that the other vehicle would continue through the intersection. About the same time the light changed her cell phone rang and she looked down at it. When she looked forward again she realized the other vehicle had stopped. Although the driver braked and steered left she was unable to avoid a collision. Police charged her with following too closely. The Critical Precrash Event for Vehicle #1 was other vehicle in lane stopped. The Critical Reason for the Critical Event was an internal distraction. Associated factors included the non-driving activity of the cell phone. She apparently didn't answer it, but did look down at the phone when it rang. The false assumption that the other driver would continue to proceed was also included. The driver was positively coded for other emotional factor; her husband had recently passed away. Vehicle #2 was operated by an 18-year old female that was belted with no deployed airbags. She was not injured in the crash. She reported that the signal changed and she slowed, somewhat abruptly, to a complete stop. She said she'd been stopped about two seconds when she was contacted. The Critical Precrash Event for Vehicle #2 was other vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors for Vehicle #2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

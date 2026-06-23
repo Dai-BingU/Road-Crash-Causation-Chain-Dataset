@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred during daylight hours at an intersection, which had two undivided lanes going East/West, with the west bound having a additional left turn lane, and a North/South road with three lanes all going south one way. The intersection was controlled with a traffic light that was functioning properly. The speed limit for all roads is 50 kmph (30 mph), there were no roadway deficiencies noted, and the weather was clear. Vehicle one (V1), a 2000 Chevrolet Venture driven by a 23 year-old male, was traveling southbound in the second lane. Vehicle two (V2) a 2004 Oldsmobile Alero sedan driven by a 40 year-old female, was traveling westbound in the first lane. Vehicle three (V3), a 2001 Ford Crown Victoria, was parked in the parking lane just west of the intersection facing in a westward direction. As V2 was crossing the intersection the front of V1 collided with the right side causing V2 to rotated clockwise and hitting V3's left side front with the left rear. V1 came to rest final rest facing southwest in the intersection. V2's final rest position southeast in lane one. V1 and V2 were towed from the scene. The driver of V2 was transported to a local medical facility. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as a driver related factor: external distraction. The driver is a private investigator and was following another vehicle focused on that vehicle and not surrounding traffic. An additional factor was his employers pressure to maintain sight of other non-contact vehicle he was following. The critical pre-crash event for V2 was coded: other vehicle encroachment, from crossing street- across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Distraction, Driver Inexperience, Driver Stress/Emotion, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary V1, a 1995 Chevrolet Monte Carlo, was northbound in lane one of a 2 lane, 2 way street at an intersection controlled by a stop sign. V2, a 2003 Jeep Grand Cherokee, was eastbound in lane 2 of a straight, 4 lane, 2 way, not physically divided, uncontrolled, urban roadway that intersected the street occupied by v1. V1 attempted to turn left (west) across the path of v2. V2, front, contacted v1, left. At the time of the crash it was daylight and the roadway was dry. V1 came to rest facing west on the westbound roadside. V2 came to rest in its original lane facing east. Both drivers were alone in their vehicles, both were injured and transported. Both vehicles were towed due to damage. A partial interview and a complete vehicle inspection were obtained for v1. The driver was found to be driving on a suspended license. The police would not release the names of the drivers involved until the PAR was completed. By the time the driver information was obtained for v1 he had fled the area and could not be found. What is known about his involvement in the crash comes from interviews with the vehicle's owner (his ex girlfriend) and a witness to the crash. The Pre-event movement of v1was accelerating in traffic lane, the Critical Pre-crash event was turning left at intersection and the Critical reason for critical pre-crash event was inadequate surveillance. Factors contributing to the driver's actions include his view to the left being blocked by an eastbound, non-contact vehicle in lane 1 turning right onto his street (and waving him out as he turned), failure to look or misjudged he gap of v2 from his left. He also “rolled the stop sign “ instead of coming to a full stop before turning left. He was cited for failure to yield and driving with a suspended license. A complete driver interview and vehicle inspection was obtained for v2. The driver was found to be properly licensed for and familiar with her vehicle. She was also familiar with the roadway. The Pre-event movement of v2 was Going straight; the Critical pre-crash event was Other vehicle encroachment from crossing street, turning into opposite direction. The Critical reason was not coded to this vehicle. It should be noted that the vehicles are numbered in this case according to the information obtained on-scene. When the PAR was obtained, the vehicle numbers had been reversed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

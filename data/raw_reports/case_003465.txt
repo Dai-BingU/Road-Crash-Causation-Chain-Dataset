@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at 1245 hours on a clear day in heavy traffic. This crash occurred on a seven-lane divided asphalt roadway. This roadway is divided with a concrete barrier and has four lanes in the southbound direction. This roadway is straight and level with no defects. The speed limit on the roadway is 75 kph (50 mph). At the location of the crash, the roadway is straight and level. This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one, a 2003 Honda Accord was southbound in lane three. Vehicle two, a 2004 Chevrolet Impala was southbound in lane four stopped in traffic. Vehicle one was changed lanes from three to four. The front of vehicle three impacted the rear of vehicle two. Both vehicles were towed due to damage. The driver of vehicle one, a nineteen-year-old female had been on this trip for about fifteen minutes. The driver indicated that as she made the lane change maneuver that she looked behind her with the side mirror to make sure that traffic was clear. This driver did not see the stopped traffic ahead in lane four. This driver drives in this vehicle daily and over this roadway daily. The driver of vehicle two, a thirty-four year old male had been driving on this portion of his trip for about fifteen minutes. This driver was stopped for intersection traffic ahead. There were three occupants in the vehicle, two in child seats in the second row. This driver drives this vehicle daily and over this road daily. The critical pre-crash event for vehicle one was coded as “Other vehicle in lane: other vehicle stopped”. The critical reason for the critical pre-crash event for vehicle one was coded as “Driver related: recognition error (inadequate surveillance)”. The critical pre-crash event for vehicle two was coded as “Other vehicle in lane: traveling in same lane with higher speed”. The critical reason for the critical pre-crash event for vehicle two was coded as “not coded to this vehicle”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

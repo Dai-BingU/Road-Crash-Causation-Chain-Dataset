@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a two-way, two-lane, rural roadway. The roadway curved left before straightening out at a driveway entrance on the right. The roadway had a posted speed limit of 72 kmph (45 mph), +4% superelevation, and an uphill grade of 2% in the eastbound direction. Conditions were dry and dark with clear skies. The setting was early evening on a weekday. Vehicle one was a 1991 White/GMC Volvo 3-axle tractor traveling eastbound. Vehicle two was a 1986 Pontiac Grand Prix coupe also traveling eastbound. V1 negotiated a left curve and then pulled over the left side of the road to prepare to back into a driveway on the right. V1 began backing towards the driveway. At the same time V2 negotiated the left curve and collided with the rear of V1. Both vehicles came to rest in the roadway. V1 was driven by a 54-year old male who was not transported but suffered possible injuries. He stated that he was finishing up his shift driving the truck for the day and was backing into the company lot. He claims to have had his reverse lights and emergency flashers on. He estimated he was traveling about 8 kmph (5 mph) at impact. The tractor was not towed due to damage, but it was later discovered that the tires had been restricted by impact damage. The Critical Precrash Event for V1 was the other motor vehicle in the lane traveling in the same direction with a higher speed. The Critical Reason was not coded to this vehicle. This driver was working 50 hours per week. V2 was driven by a 20-year old male who was transported to a local trauma center with incapacitating injuries. The driver was accompanied by two passengers. He stated that he was returning home from an errand at the store when he suddenly came upon a backing truck in the roadway. He braked with lockup but didn't have time to avoid the collision. The driver claims to not have been distracted at the time of the crash, and was not talking with his passengers. He estimated his travel and impact speeds to be 64 and 56 kmph (40 and 35 mph). The coupe was towed due to damage. The Critical Precrash Event for V2 was other motor vehicle in the lane backing. The Critical Reason was inadequate surveillance (failure to look far enough ahead). Associated factors included the use of two prescription medications. This driver had only owned the vehicle for three weeks, but claimed to be comfortable with his vehicle. He had been licensed for two years at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Backing up (other than for parking position)
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Backing
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

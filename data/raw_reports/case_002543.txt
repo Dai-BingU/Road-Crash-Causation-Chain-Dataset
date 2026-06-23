@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on the shoulder of a northbound, residential roadway. The roadway had travel lanes in the north and the southbound directions with parking shoulders on each side. The posted speed limit was 56 kmph (35 mph) and the northbound approach was on a 1 % downhill grade. Conditions were daylight, wet, cloudy, and raining. The setting was mid-afternoon on a weekend. Vehicle one was a 2001 Buick LeSabre sedan traveling north in lane one. Vehicle two was a 2007 Ford Escape sport utility parked facing north on the right shoulder. V1 traveled to the right out of the travel lane and impacted the back of v2 with its front plane. V2 was then pushed onto the curb where it struck a roadway sign and a couch. V2 came to rest on top of the couch. V1 came to rest in the roadway facing northeast. The Buick LeSabre (v1) was driven by a 37-year old female who was transported to a local trauma center with non-incapacitating injuries. Her two children who were unrestrained in the back seat were also transported. She was taken to jail after being treated for her injuries. She was located later and stated that she was turned around speaking to her kids just before the crash. She said the parked vehicle was in a location where vehicle's usually don't park. She estimated her travel and impact speeds to be 48 kmph (30 mph). She didn't have a chance to react in avoidance. The investigating officer estimated her travel and impact speeds to be 72 kmph (45 mph). The Buick sedan was towed due to damage. The Critical Precrash Event for v1 was this vehicle traveling over the lane line on the right side of the travel lane. The Critical Reason was a driver related factor of other non-performance (under the influence of cocaine and other medications). The driver was distracted and talking to her children in the rear seat. The Buick had inadequate tread depth on the RF and RR tires. The Ford Escape (v2) was unoccupied and legally parked. No Critical Precrash Event or Reason were coded for v2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Drugs, Surveillance, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other critical non-performance (specify) :

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a weekday afternoon in the middle of a rural 4-way intersection. The intersection consisted of an east/west two-lane roadway and a north/south two-lane roadway controlled by stop signs in all directions. Both roadways were bituminous, dry, straight, and level with posted speed limits of 72 kmph (45 mph). The traffic flow was normal but the weather was cloudy, as a rainstorm was minutes away. V1, a 1991 Honda Accord LX with two occupants, was westbound approaching the intersection where it intended to go straight. V2, a 2004 Chevrolet Tahoe with three occupants, was stopped at the intersection preparing to proceed northbound. V1 slowed but failed to stop and entered the intersection at the same time V2 began crossing. The front of V2 struck the left side of V1. V1 spun off the northwest corner of the intersection where it stuck a stop sign and came to final rest. Following the crash V2 was able to drive to a controlled stop on north roadside. V1 was towed from the scene due to damage while V2 was driven away. The driver of V1, a 50-year-old male, is in good health, does not wear corrective lenses, and gets plenty of rest each night. For this trip today, this driver said he had appointment to meet a client for his part-time counseling job. He said it was the first time he was to meet this client and had to print off directions to his home. He claimed that he was stopped at the stop sign for several seconds; after assuming the intersection was clear to enter, this driver proceeded to move forward and was struck in the driver side door by a northbound Chevy Tahoe. This driver said he was not distracted or inattentive but he admitted that his passenger was reading aloud the directions to the client's home while they approached the intersection. He also said he is familiar with this intersection and that he travels through it monthly. He was transported to a hospital for a minor leg injury and was released later that day. The Critical Precrash Event for V1 was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Reason was coded as a driver related factor an internal distraction. Associated factors coded to this driver include a recognition factor, conversing with passenger, and an illegal maneuver, failed to stop for a traffic control device. The driver of V2, a 35-year-old mother of two, reported to be in good health and on her way to visit her father-in-law when she stopped at this 4-way intersection. After being stopped for 5-10 seconds, she began to move forward and struck V2, which she said she never saw. She claims that she looked in all directions before she entered the intersection and does not know how the Honda got in front of her so quickly. She had her two children in the back seat but nobody in her vehicle was injured in the crash. The Critical Precrash for V2 was coded other vehicle encroachment, from crossing street, across path. The Critical Reason was not coded to this vehicle. The only associated factor coded to the driver was inadequate surveillance as she looked but did not see V1. The on-scene officer that wrote the report said a witness confirmed V2's version of what happened but that witness was not recorded on the report and could not be located for a subsequent interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

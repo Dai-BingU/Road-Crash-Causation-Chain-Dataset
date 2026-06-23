@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of two roadways. The east/west street was a two-way, two-lane undivided road with a posted speed of 48 kmph (30 mph). The north/south street was a two-way, two-lane undivided road with a posted speed of 40 kmph (25 mph). The north/south street was controlled by a stop sign. Conditions were daylight on a weekday with dry roads and clear skies. Traffic flow was normal. V1, a 1997 Ford Explorer, was traveling northbound in lane one. V2, a county transit bus carrying three passengers, was traveling eastbound in lane one. Both vehicles were approaching the same intersection. As V1 and V2 entered the intersection, the front of V1 made contact with the right side of V2. There were no injuries. V1 was towed due to damage. V1 was driven by a 34-year old female who declined to be interviewed. The Critical Precrash Event for V1 was coded as this vehicle traveling, turning right at intersection. The Critical Reason for the Critical Event was coded as a decision error, illegal maneuver. The driver failed to stop at the stop sign. One associated factor for this driver was a sightline restriction. A corner building, which was set close to the roadway, restricted V1's view of V2. Additional associated factors could not be determined. V2 was driven by a 55-year old male who declined to be interviewed. The Critical Precrash Event for V2 was coded as other vehicle encroachment, from crossing street, turning into same direction. The Critical Reason for the Critical Event was not coded to this vehicle. As with V1, there was the presence of the same sightline restriction. Additional associated factors could not be determined.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

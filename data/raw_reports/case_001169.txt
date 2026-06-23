@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a 5-lane, 2-way north/south, undivided highway where the 3rd (center) lane was a turn lane for either travel direction. There were 2 northbound travel lanes and 2 southbound travel lanes. The posted speed limit on this roadway was 72 kmph (45 MPH). There was a side street that intersected from the west at about a 20 degree angle west to east. The side street was 2-way, 2-lane and undivided with a stop sign for eastbound traffic. The 5-lane roadway on the southbound side had a -3% grade. Weather conditions were daylight and dry. The crash occurred in the morning hours on a weekday after normal rush hour traffic would have subsided and on a straight portion of the highway. Vehicle #1 was a 1997 Chevrolet Cavalier on the side road at a stop sign waiting for traffic to clear to make a right turn to go south on the highway. Vehicle #2, a 1995 Chevrolet Silverado pickup, was traveling southbound on the highway in the right lane. Vehicle #1 proceeded to enter the intersection and was struck on the left front by the front right of Vehicle#2. Vehicle#1 then spun clockwise and side slapped Vehicle#2 with its left rear to Vehicle#2's right rear wheel and wheel well. Vehicle #1 then ran over a curb on the west side of the road coming to rest in a private lot facing west about 15 meters from POI. Vehicle #2 came to a controlled stop on the shoulder of the highway and was driven to a parking space next to Vehicle #1. Vehicle #2 was driven from the scene and Vehicle #1 was towed due to damage. Vehicle #1 was driven by an 18-year old belted female who was transported to a local hospital with possible injuries. The airbags did not deploy. She stated that she saw Vehicle #2 approaching and its right turn signal was activated. She thought V2 was turning onto the road that V1 was coming from, and so she proceeded to pull out and attempt to turn right. The Critical Precrash Event for Vehicle #1 was “This Vehicle Traveling: Turning Right at Intersection.” The Critical Reason For The Critical Precrash Event was a decision error: False Assumption Of Other Road Users Actions. A contributing associated factor (although the driver stated otherwise) was that it was believed she was conversing with her passenger. Another factor coded to this driver was driver inexperience - she had been driving for less than a year. Vehicle #2 was driven by a 74-year old belted female who was uninjured. The airbags did not deploy. She stated that her turn signal was on for a destination 2 blocks further down and had not yet started to slow down when Vehicle #1 pulled out in front of her and collided with her vehicle. The Critical Precrash Event for Vehicle #2 was “Other Vehicle Encroachment: from Crossing Street, Turning Into Same Direction.” The Critical Reason was not coded to this vehicle. The driver of V2 was taking a prescription cholesterol medication that had no known performance-impairing side effects. The driver of V2 reported that she had a slight hearing impairment but did not know the percentage of her hearing deficit and did not wear a hearing aid.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

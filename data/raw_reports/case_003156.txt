@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred at a four-way intersection during a weekday afternoon. The intersection has stop signs posted for the east and westbound roads but no controls for the north and southbound lanes. The speed limit for the north and south roadway is 72 kmph (45 mph) and 56 kmph (35 mph) for the east and west traffic. The conditions this afternoon were clear, dry, daylight, and the traffic level was busy. V1, a 2003 Nissan Frontier with one occupant, was traveling west and stopped at the intersection. V2, a 1997 Chevrolet Tahoe with one occupant, was traveling south toward the intersection. V3, a 2001 Toyota Corolla with one occupant, was traveling east and stopped at the intersection. V1 entered the intersection and was struck on the right side by the front of V2 (event #1.) Following the first event, the right side of V1 side slapped the left of V2 (event #2.) V1 continued to travel west and struck the front of V3 (event #3) and spun it around 180 degrees. While V1 and V3 were engaged, V1's left side departed the roadway and struck a stop sign (event #4.) All three vehicles were towed from the scene because of disabling damage and none of the drivers was treated for injuries. The driver of V1, a 37-year-old male, works as a housekeeper and repairperson at a local hotel. He says his work and sleep schedule rotates all the time, sometimes he works a night shift and other times he works day shifts. He is also on call for emergency repairs at any time. For this trip today, this driver was visiting a friend in a neighborhood he rarely drives through and was not familiar with the roadway. He said he was headed home this afternoon and stopped at this intersection while waiting for the north and south traffic to pass by. He said once the traffic passed, he decided to go straight. Once he entered the intersection, he was immediately struck on the right front bumper by a V2. Following that initial collision, this driver's 2003 Nissan Frontier ricocheted into the eastbound lane of the intersection, where it struck V3, which was stopped at the intersection. This driver stated he looked north and south before he entered the intersection but never saw V2 before the crash. The Critical Precrash Event for V1 was coded this vehicle crossing over (passing through) intersection. The Critical Reason for the Critical Event was coded inadequate surveillance (looked but did not see). Associated factors coded to V1 include driver inexperience as he rarely drives the roadway and was unfamiliar with the neighborhood. The driver V2, a 56-year-old male, refused to participate in this survey. The Critical Precrash Event for V2 was coded other vehicle encroaching from crossing street, across path. The Critical Reason was not coded to this vehicle. There were no associated factors coded to V2 and the driver was not thought to have contributed to the crash. The driver of V3, a 22-year-old female, was returning home from work when she was involved in this crash. She was stopped at the stop sign for more than ten seconds, waiting for traffic to clear so she could go straight across the intersection. While stopped in the eastbound lane, she saw V1 enter the intersection and collided with a southbound V2. After that collision, V1 drove into her car and spun it 180 degrees. This driver said that she saw the Tahoe heading south and was going to enter the intersection after it passed. She says there was “a small gap” between passing vehicles and the Tahoe, and she thinks V1 mistakenly tried to time the break when it accelerated into the intersection. The Critical Precrash Event for V3 was coded not involved in first harmful event. The Critical Reason was not coded to this vehicle. There were no associated factors coded to V2 and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Surveillance present problem 
+Vehicle 3:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This is a two-vehicle intersection crash that occurred at 1900 hours at a rural four-way intersection that is controlled for north and southbound traffic by a flashing light and a stop sign and not controlled for east and westbound traffic. At the time of the crash it was dark, and the intersection and approaching roadways were not illuminated. All approaching roadways are non-divided 2-lane, 2 way, straight, level, bituminous and were dry at the time of the crash. The speed limit for both roadways is posted 80 kmph (50 mph). There is a 5 foot high ditch bank located at the southwest corner of the intersection that could create a sight line restriction for traffic at the south side of the intersection looking to the left (west). The ditch bank was not a factor in this crash. There were no environmental factors that contributed to this crash. Vehicle two (V2), a 1994 Ford Taurus sedan driven by a 51 year-old male, was traveling northbound and stopped for the traffic control device for about 3-4 seconds. The driver looked to his left and to his right then entered the intersection into the path of eastbound vehicle one (V1). The left side of V2 was struck by the front of V1. The impact caused V2 to enter a counterclockwise rotation and depart on a northeast trajectory across the intersection. V2 came to rest off the northeast corner of the intersection facing generally southwest. The driver stated that he stopped at the stop sign and could not see the roadway to his left due to the ditch bank. He then pulled forward until he could see to his left and did not notice any lights approaching. and then proceeded into the intersection and was struck by V1. The V2 driver stated that he was concerned about his son, a 3-year old male restrained in the right front seat, who was falling asleep. V2 was towed due to damage. V1, a 1991 Toyota Tercel sedan driven by a 21 year-old male, was traveling eastbound approaching the intersection at approximately 80 kmph (50 mph) according the police report. As V1 approached the intersection, V2 entered the intersection across the path of V1. The V1 driver braked and V1 skidded for about 8 meters (26 feet) before impacting the left side of V2 with the front of V1. V1 came to rest at an unknown location in the intersection. V1 then left the scene and was located approximately 2.4 kilometers (1.5 miles) from the crash location and was inspected at that location. V1 was driven from the crash scene. The critical pre crash event for V2 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason was coded as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver looked to his left and then to his right but did not see V1 approaching from his left. The driver stated that there was a sight line restriction when he first stopped but pulled forward to a point where it was not restricted and did not see V1 approaching. The critical pre crash event for V1 was coded: other vehicle encroachment; from crossing street, across path . The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Distraction, Driver Stress/Emotion, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

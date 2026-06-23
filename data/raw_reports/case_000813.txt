@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of a weekday in the middle of a "T" intersection. The intersection was composed of a 2-lane east/west roadway intersected by a 2-lane north/south roadway. The east/west roadway was bituminous, dry, straight, and level, with a posted speed limit of 64 kmph (40 mph). The north/south roadway was bituminous, dry, straight, and level with a posted speed limit of 40 kmph (25 mph). The roads were dark but lighted and there were no adverse atmospheric conditions at the time of the crash. V1, a 1997 Suzuki motorcycle with one occupant, was westbound at a high rate of speed in the eastbound lane, illegally passing a non-contact vehicle. V2, a 2003 Buick LeSabre with five occupants was westbound ahead of the non-contact vehicle approaching the intersection where it intended to turn left. As V2 turned left and crossed the eastbound lane it was struck by V1 in the rear. Both vehicles were towed from the scene due to damage. The driver of V1, a 22-year-old male, suffered non-incapacitating injuries and was transported from the scene for treatment. He relayed to on-scene personnel that he was attempting to pass the non-contact vehicle when V2 turned left at the intersection in front of him. He attempted to avoid the collision by locking his brakes (leaving 49m/161ft. of skid) but could not avoid V2. The Critical Precrash Event for V1 was coded other vehicle encroachment, from adjacent lane - over right lane line. The Critical Reason for the Critical Event was coded as aggressive driving behavior. Associated factors coded to this vehicle include traveling too fast for conditions, an illegal maneuver (crossing full barrier line while passing) as well as the aggressive driving factors of speeding and rapid/frequent lane changes/weaving. The Driver of V2, a 57-year-old male, suffered minor injuries and was transported from the scene for treatment. The four other occupants all reported no injuries. The driver stated that he was traveling at approximately 24 kmph (15 mph), preparing to turn left at the intersection when V1 struck his vehicle from behind. No avoidance action could be attempted. The Critical Precrash Event for V2 was coded as this vehicle traveling, turning left at intersection. The Critical Reason was not coded to this vehicle. The only associated factor coded to this driver was inattention as he was conversing with his wife when the crash occurred.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Alcohol, Decision, Speed/Distance present problem 
+Vehicle 2:  Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

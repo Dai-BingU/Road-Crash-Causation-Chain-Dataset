@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a neighborhood city street in the afternoon of a weekday. The bituminous roadway is straight and has a downhill slope near the location of this crash. There is not a posted speed limit on the street but the city law is 40 kmph (25 mph). The conditions were daylight, dry, cloudy and a thunderstorm was approaching. V1, a 2007 Honda Fit with one occupant, was eastbound when it struck the back of V2. V2, an unoccupied 2000 Mitsubishi Montero, was legally parked on the street in the eastbound direction. V1 was towed due to disabling damage but V2 received minor damage and remained on scene. The driver of V1 is a 40-year-old male that works as a real estate agent. He cannot recall how he was involved in this crash and does not remember much after leaving his home this afternoon while traveling to the shopping mall. He may have had a seizure while driving and only woke up after crashing into V2. He admitted to taking medication for a health issue but he did not want to volunteer the information. EMS examined this driver twice while on-scene before releasing him on his own recognizance. The Critical Precrash Event was coded “this vehicle traveling off the edge of the road on the right side”. The Critical Reason for the Critical Event was coded driver related, “physical impairment of the ability to drive”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

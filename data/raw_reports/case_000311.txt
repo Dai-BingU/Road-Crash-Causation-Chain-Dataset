@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection of two multi-lane, rural roadways. For the south and eastbound approaches, there were left turn, straight, and right turn lanes. The southbound approach was on a 1 percent downhill grade while the eastbound approach was on a 1 percent uphill grade. The north and southbound lanes of travel were controlled with stop signs. East and westbound traffic had no traffic control device. Both roadways had a posted speed limit of 64 kmph (40 mph). Conditions were daylight and dry with clear skies. The setting was morning hours on a weekday. Vehicle one was a 2004 Honda CR-V sport utility traveling southbound in lane two. Vehicle two was a 2008 Pontiac Grand Prix 4-door sedan traveling eastbound in lane two. Both vehicles proceeded into the intersection with the intention of traveling straight. The front of V1 impacted the left plane of V2 (Event 1). V1 rotated counter-clockwise 90 degrees and then rolled right four quarter turns (Event 2), coming to rest on its wheels in the median of the south leg of the intersection. V2 began rotating counter-clockwise after impact before impacting a stop sign (Event 3) and a guardrail (Event 4) with its right plane. V2 came to rest against the guardrail in the southeast corner of the intersection. The Honda CR-V (V1) was driven by a 64-year old male who was transported to a local hospital with evident injuries. He stated that he was heading to work after an event at his grandson's school and was driving on a road he rarely uses. He was attempting to get his bearings on his location when the crash occurred. He later recounted not even realizing he was in an intersection. His estimated travel and impact speeds were 56 kmph (35 mph). V1 was towed due to damage. The Critical Pre-crash Event for V1 was this vehicle traveling, crossing over (passing through) an intersection. The Critical Reason was a driver related factor of inadequate surveillance. This driver was wearing prescription sunglasses for a nearsighted condition. He works 65 hours a week. He drives this road only a few times per year. An illegal maneuver was coded because V1 went through a stop sign. No vehicle related factors were present. The Pontiac Grand Prix (V2) was driven by a 47-year old male who was treated on scene for evident injuries. He stated that he was heading to work when he was struck by another vehicle from the left. He didn't have a chance to react in avoidance. His estimated travel and impact speeds were 64 kmph (40 mph). V2 was towed due to damage. The Critical Pre-crash Event for V2 was other vehicle encroachment from a crossing street across the path of this vehicle. No Critical Reason was coded to this vehicle. This driver was taking prescription medication to aid in smoking cessation. He was driving a rental car, which had been in his possession for one week.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

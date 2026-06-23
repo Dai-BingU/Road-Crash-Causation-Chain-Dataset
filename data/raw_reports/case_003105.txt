@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred at noon on a dry, three-lane, physically divided interstate highway on an overpass. The highway runs east and west at the location of the crash and has three through lanes running eastbound. There was a 5% uphill grade just before the overpass and the highway leveled out at the top. The speed limit on the highway is 105 kmph (65 mph) and there were no adverse weather conditions at the time. Vehicle one (V1), a 1995 GMC Sierra pickup driven by a 67 year-old male was traveling eastbound in lane one. Vehicle two (V2), a 2001 Ford Excursion SUV, driven by a 36 year-old male was traveling eastbound in lane one ahead of the V1. Vehicle three (V3), a 2001 Ford Escort ZX2 coupe driven by a 26 year-old female was traveling eastbound in lane one ahead of V2. V3 began to slow due to large truck tire debris in the road from a blowout ahead of it. V2 also began to slow behind vehicle three. V1 was not able to slow down and it's front impacted the rear of the V2. V2 was then pushed forward and it's front impacted the rear of the V3. All three vehicles pulled over onto the south shoulder where they came to final rest facing east. V1 was towed from the scene. V2 and V3 were driven from the scene. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction while decelerating. The critical reason for the critical event was coded to V1 as a driver related factor: following too closely to respond to unexpected actions. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason not coded to this vehicle. V3 was not involved in first harmful event. The critical reason not coded to this vehicle. Note: pieces of a blown-out tire from a semi-truck that were on the roadway in the travel lane was a factor.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Surveillance, Traffic present problem 
+Vehicle 2:  Driver Physical, Traffic present problem 
+Vehicle 3:  Distraction, Driver Inexperience, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of two similar roadways, both being two-way, two-lane non-divided asphalt roadways. Both roadways have a posted speed limit of 40 Kmph (25 Mph). The North/ South roadways are controlled with a stop sign, and the East/ West roadway does not have a stop sign. V1 a 1998 Chevy Lumina was traveling west in the right curb lane with a speed of approximately 40 Kmph (25 Mph). The driver of V1 stated that he was traveling west through the intersection when he was hit in the right side, by V2. The driver also stated that he never saw V2 coming until the last second, and that he did not have any time to avoid the crash. he Critical Pre-crash Event coded for V1 is other motor vehicle in lane (in a cross over). V1 did not receive a Critical Reason. V2 a 1992 Lincoln Continental was traveling south in the right curb lane when it ran the stop sign controlled intersection and collided with V1. The driver of V2 stated that he did not see the stop sign. The driver of V2 also admitted that he had been drinking alcohol and was heading home from the store. The driver also stated that he was doing about 32 kmph (20 mph). The Critical Pre-crash Event coded for V2 is this vehicle traveling (crossing over passing through an intersection). The Critical Reason coded for V2 is a recognition error ( inattention).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+Vehicle 2:  Alcohol, Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lane of a three-lane roadway with a median controlled by a traffic control signal. Conditions were daylight with rain in the afternoon on a weekday. The posted speed limit was 80 KMPH (50 MPH) with a -2% downhill grade. V1 was a 1990 Honda Civic sedan traveling southbound in the second travel lane approaching an intersection controlled by a traffic control signal. V2, a 1999 Chevy Silverado pick-up, was stopped in traffic in the southbound lane in front of V1. The front of V1 struck the back of V2 in the southbound lane. Both vehicles came to final rest facing southbound. V1 was driven by a 18-year-old female who was not injured. She stated that she was talking to her friend and did not realize how close she was to V2. She then braked and swerved right but struck V2 in the rear. V1 was traveling between 50 and 64 KMPH (31 and 40 MPH) at the time of impact. V1 was towed due to damage. The Critical Precrash Event for V1 was when this vehicle was decelerating in the traffic lane. The Critical Reason for the Critical Precrash Event was a recognition error; internal distraction. Associated factors coded to this driver were the driver not being familiar with the roadway and driving. The driver had her license for one year prior to the crash. V2 was driven by a 70-year-old male who was not injured. He stated that he was stopped in traffic and was struck in the rear by V1. V2 did not take any avoidance actions. V2 was driven away from the scene. The Critical Precrash Event for V2 was other vehicle in the travel lane; traveling in same direction while decelerating. No Critical Reason for the Critical Precrash Event was coded to this vehicle. The driver was taking medication for diabetes and high blood pressure.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- This vehicle decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

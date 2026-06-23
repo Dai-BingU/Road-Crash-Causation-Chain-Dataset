@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred during daylight hours on a weekday. The crash occurred at the four-leg intersection of a north-south roadway and an east-west roadway. The intersection is controlled by a tri-light traffic signal with no protected left phase. The speed limit is 56 kmph (35 mph) in all directions. At the time of the crash, there were no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 2006 Ford Focus four-door sedan, was traveling southbound in the third lane of a five-lane, two-way, undivided, dry, level, bituminous roadway. V1 was stopped in the intersection and awaiting an opportunity to turn left into eastbound traffic. Vehicle two (V2), a 1992 Ford Explorer four-door SUV, was traveling northbound in the second lane of opposing traffic, approaching the intersection with the intention of passing straight through. As V1 made its turn, the front of V2 impacted the right side of V1. Both vehicles rotated clockwise and moved northeast to final rest. The 40-year-old male driver of V1 reported to police that the tri-light was entering the yellow phase, and northbound traffic was coming to a stop when he entered the intersection. He told the researcher that the tri-light had entered the red phase when he proceeded. He saw V2's approach, and he assumed that V2 would stop. The critical precrash event for V1 was: This vehicle traveling, turning left at intersection. The critical reason for the event was attributed to V1, and was coded: Driver related decision error, false assumption of other's actions. The unlicensed 19-year-old male driver of V2 reported that he saw V1 waiting to turn left, and he entered the intersection on the yellow phase of the tri-light, assuming that V1 would remain stopped. The driver of V2 was in a hurry because he was late for a court appearance. The critical precrash event for V2 was: Other vehicle encroachment, from opposite direction, over left lane line. The critical reason for the event was not attributed to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Driver Stress/Emotion, Vision present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience, Driver Physical, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

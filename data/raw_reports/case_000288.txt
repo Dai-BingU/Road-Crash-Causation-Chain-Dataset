@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on the east roadside of a two-lane, suburban roadway. A short, downward embankment on the east side of the roadway leads up to a set of train tracks. The roadway had a posted speed of 72 kmph (45 mph) and a 3% downhill grade in the northbound direction. Conditions were dusk and dry with clear skies. The setting was late afternoon on a weekday. V1, a 1997 Jeep Grand Cherokee Laredo with one occupant, was northbound in lane one. V1 began drifting left over the centerline, the driver overcompensating to the right and departed the roadway to the right. The driver than steered left and impacted a concrete culvert and mailbox causing V1 to rollover to the right. V1 rolled nine-quarter turns, before coming to rest on the train tracks on its right side. V1 was towed due to damage. The driver of V1, a 16-year old female, was treated on scene for possible injuries. She stated that she was heading to a friend's house when the vehicle began steering itself to the left. She said the alignment has seemed different ever since she had new tires installed a month previously. She steered right than left before completely losing control. Her estimated travel speed was 80 kmph (50 mph). The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road on the right side. The Critical Reason was a driver related factor of poor directional control. The driver took prescription medication for allergies and wore glasses for a nearsighted condition. She drives this road on a weekly basis, but has only been driving for a period of 18 months. Her license is provisional, meaning that she is restricted to driving between the hours of 6am and 9pm when she is alone in the car.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Driver Physical, Drugs, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at noon during daylight hours. This is a four-leg intersection with on-colors traffic signal which was inoperative at the time of the crash. The roadway was dry, bituminous, physically divided, eight-lanes with a right curve. Southbound lanes consisted of a right turn lane, two through lanes and two left turn lanes. Northbound lanes consisted of two through lanes and a merge lane to move to the left. The speed limit was 72 kmph. (45 mph). Vehicle number one, a 2000 Jeep Cherokee SUV driven by a 32 year-old male was traveling southbound in lane number two accelerating after it was stopped for traffic ahead. Vehicle number two, a 2002 Lincoln LS sedan driven by a 32 year-old male with two passengers was traveling south in lane one, stopped at intersection waiting to make right turn. Driver of vehicle one put on the brakes and steered to the right to avoid the crash, the front of vehicle one struck the rear of vehicle two. Both vehicles came to final rest in lane one. Vehicle one was towed from the scene vehicle two left under own power. The critical pre-crash event for vehicle one was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded as a driver related factor: false assumption of other's actions (other traffic moving in adjacent lane). The critical pre-crash event or vehicle two was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Performance, Driver Stress/Emotion, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Drugs, Roadway, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Starting in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

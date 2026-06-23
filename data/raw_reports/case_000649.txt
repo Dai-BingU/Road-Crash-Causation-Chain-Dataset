@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred during early morning daylight hours on a three-lane (seven overall), north-south roadway divided by a concrete median at the intersection with a two-lane private driveway. The roadway was uncontrolled; the private drive was controlled by a stop sign. The roadway was straight, level, concrete with a posted speed of 64 kmph (40 mph). The road was dry and the sky was clear. Traffic flow was moderate. Vehicle one (V 1), a 2004 Hyundai Sonata sedan driven by a 25 year-old male with one passenger was stopped westbound in lane two. Vehicle two (V 2), a 2003 Mitsubishi Outlander sport utility vehicle driven by a 27 year-old female with two passengers was traveling northbound in lane two. V 1 initiated a left turn and entered the intersection without the right-of-way and it's front struck the right side of V 2. V 1 rotated clockwise and came to rest in the intersection facing northwest. V 2 rotated clockwise, rolled over onto it's left side and top and came to rest north of the intersection on it's top facing east. The pre-event movement for V 1 was coded stopped in traffic lane, category "this vehicle traveling, turning left at intersection." The Critical Reason for the Critical Event was driver related reason "inadequate surveillance", (The driver advised that he looked both ways prior to initiating his turn, but did not see V 2 approaching). The pre-event movement for V 2 was coded going straight, category "other vehicle encroachment, from crossing street, turning into opposite direction." The Critical Reason for the Critical Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

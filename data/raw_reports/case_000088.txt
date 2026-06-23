@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred during early evening hours. The roadway is a heavily traveled State Route located in an inter-city residential area. The crash location is a bituminous, five lane, undivided road at a T-intersection. The day of the crash it had been raining and the road surface was wet. The grade is a minus 6% for westbound traffic and a curve west of the intersection with a super elevation of a minus 3%. The speed limit is 94 kph (40-mph). Vehicle one (V1), a 1997 Mitsubishi Eclipse Spyder GS convertible, driven by a 25 year-old male was traveling eastbound uphill approaching the T- intersection. Vehicle one was in the center left turn only lane. As vehicle one reached the intersection the driver turned left across traffic and was struck on the right side by vehicle two. On impact vehicle one spun clockwise approximately 180 degrees and came to rest in the southbound left turn only lane north of the intersection. Vehicle one was towed due to damage. Vehicle two (V2), a 1989 Oldsmobile Cutlass Supreme two door, driven by a 48 year-old male with two passengers was traveling westbound down hill in lane one, the outside lane, approaching the T-intersection. Vehicle two struck the right side of vehicle one as it turned left directly in front of vehicle two. On impact vehicle two rotated approximately thirty degrees clockwise and came to rest facing north in its original lane. Vehicle two was towed due to damage. The pre-event movement for V1 coded going straight, category this vehicle traveling turning left at intersection. Critical reason for the critical event driver related factor " Inadequate surveillance". The pre-event movement for V2 coded going straight, category other vehicle encroachment from opposite direction-over left lane line. Critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance, Weather/Environment present problem 
+Vehicle 2:  Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

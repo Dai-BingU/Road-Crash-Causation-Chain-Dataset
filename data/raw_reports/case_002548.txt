@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the early evening hours in the middle of a rural intersection. The north/south roadway was composed of two lanes, one in each direction. The roadway was straight and level and did not have any traffic control devices. The posted speed limit was 64 kmph (40 mph). The east/west roadway was composed of three lanes. There were two lanes heading west and one lane heading east. The roadway was level and had a curve to the right for traffic heading west. This section of the roadway was controlled by a stop sign and had a posted speed limit of 24 kmph (15 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. Vehicle one (V1), a 2004 Volvo XC90 with one occupant, was northbound in lane one approaching the intersection where it intended to continue straight. Vehicle two (V2), a 1989 Toyota Camry with one occupant, was westbound approaching the intersection in lane two (a designated turn lane) intending to turn left. V2 failed to stop for the stop sign and the front of V1 contacted the left front of V2. After the impact, V1 departed the roadway over the northwest corner and struck a sign before coming to final rest. After the initial impact, V2 rotated counter-clockwise approximately 90 degrees before striking a speed limit sign and coming to final rest partially off of the roadway. Both vehicles were towed from the scene due to damage. The driver of V1, a 57-year-old female, suffered non-incapacitating injuries but refused medical treatment. She was on her way to the vet when she approached the intersection and a vehicle crossed in front of her. She was unsure if she even attempted to brake, as she did not see the other vehicle until it was too late. The Critical Precrash Event for V1 was coded other vehicle encroachment, from crossing street, turning into opposite direction. The Critical Reason was not coded to this vehicle. There were no associated factors coded to this vehicle and the driver was not thought to have contributed to the crash. The driver of V2, a 16 year-old female, did not suffer any injuries as a result of the crash and did not require any medical attention. After numerous attempts to contact this driver she informed this researcher that she would not answer any questions outside the presence of her father. On a subsequent attempt to obtain an interview the driver's father refused to allow any questions to be answered. The Critical Precrash Event for V2 was coded this vehicle traveling, turning left at the intersection. The Critical Reason was coded as unknown driver error. Associated factors include failure to stop for a traffic control device and driver inexperience.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

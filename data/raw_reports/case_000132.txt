@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a four-leg intersection. The north/south roadway is divided, straight and level, with two lanes in each direction. The speed limit on this roadway is 56 kmph (35 mph). The east/west roadway is undivided, straight and level, with one lane in each direction. The speed limit on this roadway is 40 kmph (25 mph). This roadway is controlled by stop signs. This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2001 Infinity I30, was stopped eastbound in lane one. Vehicle two (V2), a 2000 Ford F250 pickup, was northbound in lane two. V1 proceeded into the intersection and the right side was struck by the front of V2. Both vehicles rotated counterclockwise and traveled to the northeast corner of the intersection. V1 came to rest facing south and V2 came to rest facing northeast. The driver of V1, an eighty-four-year-old female, was traveling from a restaurant to her home. She was well rested, familiar with her vehicle and drives this route daily. This driver has hypertension, diabetes and arthritis and takes numerous medications daily. She stated that she stopped at the stop sign and looked both directions before entering the intersection and that she just did not see V2. The driver of V2, a forty-year-old male, was traveling from a bank to his home. He was healthy, well rested and comfortable with his vehicle. He drives this route weekly. This driver stated that he saw V1 at the last minute and applied the brakes and steered right. The critical pre-crash event for V1 was coded as "this vehicle traveling; crossing over (passing through) intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from crossing street, across path." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

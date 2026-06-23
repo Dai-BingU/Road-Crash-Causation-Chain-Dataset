@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in an intersection of an undivided two-lane roadway and an undivided four-lane roadway with a center turn lane. The two-lane roadway (eastbound) ended at the intersection and was controlled by a stop sign. The four-lane roadway (north/south) was uncontrolled. Both roadways were slightly curved, but both were level. North of the intersection the roadway had a downhill slope of 2 percent. The posted speed limit on both roadways was 56 kmph (35 mph). V1 was a 1991 Buick Skylark traveling east, approaching the stop sign. The driver of V1, a 34-year old female, stated that she was intending to turn left at the intersection and had stopped for a couple of seconds before proceeding into the intersection. She stated that when she stopped she looked both ways and was sure the road was clear. When she entered the intersection her vehicle was struck on the left rear side by the front of V2. V2 was a 1997 Chevrolet Blazer driven by a 27-year old male. The driver of V2 was headed south, intending to continue straight through the intersection. As he entered the intersection, V1 pulled into his path. He locked up his brakes but was unable to avoid striking V1. The driver of V2 stated that there was a vehicle in the right turning lane, and that he was unable to see V1. The driver also stated that he was traveling about 15 mph above the posted speed limit. The Critical Pre-crash Event for V1 was this vehicle turning left at an intersection. The Critical Reason for the Critical Pre-crash Event was coded as inadequate surveillance. The driver stated that she looked both ways from the intersection and never saw V2 approaching from the north. Associated factors coded to the driver of V1 include the use of prescription medications for anxiety, depression, and high cholesterol, a sightline restriction caused by the non-contact vehicle, and an "other" recognition error because the impending problem was masked by the traffic flow pattern. The Critical Pre-crash Event for V2 was other vehicle encroachment from crossing street, turning into opposite direction. The Critical Reason was not coded to this vehicle. Associated factors coded to the driver of V2 included inattention (he was thinking about a hiking trip he was taking the next day), an "other" recognition error in that the impending problem was masked by the traffic flow pattern, a sightline restriction caused by the non-contact vehicle, and excess speed, because the driver of V2 admitted traveling about 15 mph over the posted speed limit.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Driver Stress/Emotion, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Distraction, Roadway, Speed/Distance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in an intersection at the mouth of an interstate exit ramp. The intersection was level and controlled by a traffic signal that was functioning properly. The exit ramp had a negative slope of 2.5%. The intersecting roadway had a positive slope of 2.5%. It was dry and daylight with clear skies. The speed was 56 kmph (35 mph). V1, a 1985 GMC Safari, was traveling in lane 4 of a 7-lane roadway. There were four lanes westbound and three lanes eastbound. As V1 approached the intersection he was initially going to turn left; he decided against turning as he was entering the intersection, changed lanes from four to three, and then attempted to go straight through the intersection. V2, a 2005 International Gravel Transport, had exited the interstate and was approaching the intersection intending to go straight. V1 proceeded through the intersection against a red traffic signal. As the driver of V1 realized he had entered the intersection on a red light he braked and steered right trying to avoid the collision. V2 applied its brakes and the front of V1 was struck by the right side of V2. After a subsequent side-slap, V1 came to final rest against the northeast curb of the intersection. V2 continued on for anther 400 feet and came to final at the east curb of the roadway. Vehicle 1 was driven by a 34-year-old male who was reportedly not injured in the crash. He offered that he was well rested and was on his way to pick up lunch. He stated that he had slowed to make a left turn but then changed his mind. He further remarked that if he would not of taken evasive actions he would have been contacted in the driver's door rather than at the front. He admitted that he had not seen the light until it was too late to avoid the collision. The Critical Pre-crash Event for V1 is Crossing Over - Passing Through an Intersection. The Critical Reason for the Critical Event was Inadequate Surveillance (e.g., failed to look, looked but did not see). An associative factor was being in a hurry to get lunch and getting back to work. He executed an illegal maneuver by failing to stop for a traffic signal. Vehicle 2 was driven by a 39-year-old male who was characterized as uninjured. He had only been on the road for about one hour when the crash occurred. He stated he was decelerating and looking for crossing traffic as he exited the interstate. He further stated that he wears prescription glasses that corrects a Myopic (near sighted) vision. The lenses are photo gray they change in the sunlight. The Critical Pre-crash Event for V2 is Other Vehicle Encroachment - from crossing street, across path. The Critical Reason for the Critical Event was not coded for this vehicle. An associated factor was the driver was wearing glasses that darkened in the sunlight and the truck he was driving was fully loaded with gravel. This load would make it very hard to decelerate or execute any avoidance maneuver. It was later learned that the interior of V1 had an intense smell of alcohol. The driver of V1 was also seen at a corner store sitting on curb drinking a 40oz. beer shortly after the crash. It's impossible to determine whether the driver had alcohol in his system at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Stress/Emotion, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

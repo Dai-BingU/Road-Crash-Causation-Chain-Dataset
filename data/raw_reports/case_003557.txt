@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred just before noon on a weekday in the northbound lanes of a divided four-lane roadway. The north/south roadway consisted of two lanes in each direction divided by a raised center median. The bituminous roadway was straight and level with a posted speed limit of 56kmph (35 mph). The roadway was wet from a rain that had been falling since early that morning. The traffic flow was normal for this roadway at the time of the crash. V1, a 2005 KIA Optima, was northbound in lane one when it struck the rear of V2, a 1997 Chevrolet Monte Carlo that was stopped in the same lane. The force of the impact pushed V2 forward several feet where it came to final rest facing north. V1 after the initial impact rotated slightly counter-clockwise and came to final rest facing northward near the point of impact. The driver of V1, a 36-year old female, said she on her way to visit some friends when she turned her head to talk with her children in the back seat. When she turned her head forward she realized the vehicle in front of her had come to a complete stop. She slammed on her brakes but it was too late, she ran into the back of the stopped vehicle. She stated the other vehicle did not have any brake lights. The police asked the driver of V2 to test the rear brakes and discovered the rear fender lamps were not functional. However, the red center lamp in the back window was working. Neither she nor any of the passengers were injured, but V1 was towed due to damage. The Critical Precrash Event for V1 was coded other vehicle in lane, other vehicle stopped. The Critical Reason for V1 was coded a driver related error, an internal distraction. Associated factors for this driver include looking rearward inside the vehicle while conversing with passengers, unfamiliarity with the roadway, as well as the rain and wet roadways. The driver of V2, a 23-year old male, was on his way to pick up some co-workers while on his way to work. As he stopped in the travel lane he was struck by vehicle one. He travels on this roadway daily and at least three times a week picks up passenger in the same general area and this never happened before. He was not injured and V2 was driven from the scene. The Critical Precrash Event for V2 was coded other motor vehicle in lane, other vehicle traveling in the same direction with higher speed. The Critical Reason was not coded to this vehicle. Associated factors include a lighting deficiency, as his brake lights were not working properly. The rain and wet roads were also coded as associated factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Inexperience, Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

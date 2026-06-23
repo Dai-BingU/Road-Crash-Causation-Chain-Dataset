@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at an intersection of a dry, straight, level, two-way highway and a commercial driveway. The weather was clear and there were no adverse conditions on this weekend afternoon. V1, a 1987 Toyota Camry, was traveling north on the highway when it stopped in the left hand turn lane preparing to turn into the driveway. V2, a 2005 Hyundai Santa Fe was traveling south on the same highway in lane two when V1 turned across its path. V2 attempted to swerved over to the right lane and avoid V1 but struck it regardless. V2 front left corner struck V1 right side. V1 came to final rest against the curb on the western side of the road. V2 came to final rest partially on the sidewalk still facing south. V1 was driven by an 84 year-old female who claimed to be in fair health with a history of high blood pressure for which she takes an unknown medication. She was wearing her glasses, which correct both Myopic and Hyperopic (near & far sighted) condition. She stated that she was planning on turning into the post office. She does not remember what happened after being struck except that she had to get out of the car. The Critical Precrash Event for V1 was this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was a recognition error, inadequate surveillance (looked but did not see). It is unknown whether the prescription medication played a role in this crash. V2 was driven by a 46 year-old female who claimed to be in good health, but with a history of high blood pressure for which she takes a medication not believed to have contributed to the crash. She was on her to drop her daughter off after a soccer game. The driver of V2 stated that V1 was turning from the wrong lane. The Critical Precrash Event for V2 was other vehicle encroachment, from adjacent lane -over left lane line. The Critical Reason was not coded to this vehicle. An associated factor was driver inattention as she was conversing with her daughter right before the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

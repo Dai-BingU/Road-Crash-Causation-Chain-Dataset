@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a construction zone on a divided, straight, level trafficway. There are two lanes in the westbound direction with shoulders on both sides. Traffic was congested at the time of the crash. The speed limit for this roadway is 89 kmph (55 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2005 Jeep Wrangler, was westbound in lane two. Vehicle two (V2), a 2005 Chrysler Town and Country, was westbound in lane two in front of V1. V2 stopped due to a construction vehicle entering the roadway from the median. The front of V1 struck the back of V2. V1 then traveled onto the shoulder and the front struck a small construction warning sign. V1 was towed due to damage. The driver of V1, a twenty-seven-year-old male, was traveling from another state to his parents' house. He was healthy, well rested and comfortable with his vehicle and his passenger. He travels this route monthly. This driver stated that he was talking to his passenger as they drove along. He also stated that he steered left and applied the brakes when he realized that V2 had stopped. The driver of V2, a seventy-five-year-old male, was traveling from another state to his home in a different state. He had previous heart problems and was taking Isosorbide Mononitrate, Lasix and Levaquin. This driver was not interviewed; his passenger (his spouse) stated that they traveled this route rarely but that the driver was comfortable with his vehicle and passenger. The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; too fast to be able to respond to unexpected actions of others - V2 stopping for traffic." This driver's inadequate surveillance was an associated factor in this crash. The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in same direction with higher speed." The critical reason for the critical pre-crash event for V2 was coded was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Speed/Distance, Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

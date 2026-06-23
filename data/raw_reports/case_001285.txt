@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at a Tee intersection on an early afternoon on a weekday. The east/west road is a 2-lane undivided (two-way traffic) concrete roadway that intersects the north/south roadway from the east. The north/south roadway is a three lane divided (no positive barrier, six lanes overall) concrete roadway. Both roadways are straight and level. The speed limit for the north/south roadway is 54 kph (35 mph) and the limit for the ease/west roadway is 48 kph (30 mph). Traffic approaching from the east is controlled by a stop sign before entering the intersection. The road surface was dry and there were no detrimental atmospheric conditions. There was medium traffic on the roadways. Vehicle one (V1), a 1995 Mercedes C220 with one occupant, was traveling west in the first lane approaching the intersection. Vehicle two (V2), a 2000 Ford Ranger Pick up with one occupant, was traveling north in the first lane of traffic. At the intersection of both roadways, V1 attempted a right turn into the northbound lanes of traffic. V1 did not stop at the stop sign. The front of V1 impacted and under rode the right side of V2. V2 rolled onto its left side as it rotated clockwise coming to rest on its left side against the east curb line north of the impact point. V1 on impact rotated clockwise coming to rest facing north in lane one adjacent to V2. The undercarriage of V2 struck the right side of V1 as both vehicles came to rest. Both vehicles were towed from the scene. The driver of V2 was transported from the scene with incapacitating injuries. The driver of V1 left the scene on foot and was picked up by an unidentified vehicle south of the crash site. The driver of V1 was never identified. An unidentified male drove V1, the 1995 Mercedes. Three witnesses at the scene saw V 1 did not stop at the stop sign. They saw the only occupant flee from the scene. The pre-crash movement for V1 was coded “going straight”. The critical pre crash event was coded “this vehicle traveling-turning right at intersection”. The critical reason for the critical event was coded "illegal maneuver". This vehicle did not stop at the stop sign as required. The exact reason for this illegal maneuver is not known. A 36-year old male drove V2, the 2000 Ford Ranger. The vehicle was a company vehicle for commercial use. The driver was coming from a job site, heading to another assignment. He stated he was not in a hurry. He saw V1 driving up to the intersection but was sure V1 would stop in time. The driver of V2 realized V1 would not stop and steered to the left to prevent the collision. The pre-event movement of V2 was coded “going straight”. The critical pre crash event was coded “other vehicle encroachment-from crossing street-turning into same direction”. No critical reason for the critical event was coded to this vehicle. This driver detected V1 prior to impact but made the wrong assumption that the driver of V1 would stop and yield the right of way at the intersection.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

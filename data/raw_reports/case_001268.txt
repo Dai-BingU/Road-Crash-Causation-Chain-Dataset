@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the southbound lanes of a six-lane dark highway divided by a grass median. There were three southbound and three northbound lanes. This was a straight, level, bituminous highway with a posted speed of 89kmph (55 mph). It was in the evening on a weekday and the road was dry with no adverse conditions. Vehicle 1 was a 1994 Pontiac Grand Prix that was exiting from a local motel onto the southbound lanes of the highway. Vehicle 2 was a 1997 Honda Civic heading south in lane 3. Vehicle 1 turned left onto the highway in an effort to cross over to the northbound lanes. The median prevented V1 from making a clean turn and ended up heading north in lane 3 in order to get over to the crossover. As V1 was making its way to the crossover V1's front contacted V2's front. The driver of V1 then fled the scene and ran into the motel where he had exited from. State Troopers then went door to door of each room and finally apprehended the driver. He stated that he had lent his vehicle to a friend. The driver was then detained and taken to Troopers headquarters. Driver of V1 had an out-of-state license plate and may have been unfamiliar with the roads. Both cars were towed due to damage. V1, the Pontiac Grand Prix, was driven by a male of unknown age. The researcher was unable to contact the driver because there was no information about the driver on the police report. The Critical Precrash Event for V1 is this vehicle traveling turning left at intersection. The Critical Reason for Critical Precrash Event is inadequate surveillance (looked but did not see). V2, the Honda Civic, was driven by a 38 year-old female. The researcher was unable to acquire an interview. The Critical Pre-crash Event for V2 is other vehicle encroachment: From driveway turning into opposite direction, the Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

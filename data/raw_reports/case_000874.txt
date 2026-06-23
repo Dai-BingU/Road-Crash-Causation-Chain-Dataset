@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during early morning daylight hours at an intersection controlled by a tri-light signal on colors. The roadway consists of three lanes of east and three lanes of west travel and one left turn lane for each direction. The roadway is asphalt, dry, level and undivided. There were no adverse weather conditions at the time of the crash. The speed limit in both directions is 56 kmph (35 mph). Vehicle one (V1), a 1991 Ford F150 pick-up driven by a 53 year-old male, was traveling west in the number four left turn lane intending to make left turn. Vehicle two (V2), a 2001 Honda Prelude coupe driven by a 29 year-old female, was traveling east in the number three lane. V1 stopped in the middle of the intersection to wait for an opportunity to make an unprotected left turn. The driver then observed the light change to yellow and said that two vehicles in the number one and two lanes of eastbound traffic began to slow for the light so he started his left turn. The driver did not see V2 approaching the intersection. The driver of V2 applied her brakes and steered right. The front of V1 contacted the front of V2. V2 came to rest at impact. V1 was pushed back about 3 meters (10 feet) where it came to rest in the intersection facing west. Both vehicles were towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was attributed to V1 as a driver related factor: Inadequate surveillance (e.g., failed to look, looked but did not see). The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

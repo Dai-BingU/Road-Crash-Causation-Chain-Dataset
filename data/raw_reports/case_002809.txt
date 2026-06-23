@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred on the entrance ramp to a high-volume, high-speed interstate on a weekend morning. The skies were clear and the single traffic lane was straight with an uphill grade. The traffic flow was normal V1, a 1988 Chevy Caprice, V2, a 2002 Ford Focus and V3, a 1990 Audi 100 Quarto were all southbound on the entrance ramp. V3 was ahead of the other vehicles when the check engine light came on and the vehicle stalled. V2 was able to stop in time, but V1 was unable to stop and slammed into the back of V2 pushing it into the back of V3. V1 than fled the scene after making sure the other drivers were unharmed. Neither V1 nor its driver could be located for an inspection or interview. The Critical Precrash Event for V1 was coded as other motor vehicle in lane, other vehicle stopped. The Critical Reason was a decision error, traveling too fast to be able to respond to unexpected actions of others since the driver was unable to stop in time to avoid hitting the vehicle in front of him. V2 was a 2002 Ford Focus driven by 33-year-old male in good health traveling to his parent's house. He stated that he was able to stop in time and avoid a collision with V3 but was hit in the back by V1. He was uninjured, but V2 was towed due to damages. The Critical Precrash Event for V2 was coded as other motor vehicle in lane, traveling in the same direction with a higher speed. The Critical Reason was not coded to this vehicle, as he was not thought to have contributed to the crash. V3 was a 1990 Audi 100 quarto driven by a 44-year-old male who reported he was in fair health, but suffering for herniated discs (which causes him to not sleep well). The driver was taking a prescription pain reliever, which can cause sleepiness or dizziness (however it was not believed to have contributed to this crash). He stated that shortly after his car stalled he got hit from behind. The driver was not injured and his vehicle was not towed due to damages. The Critical Precrash Event was not coded to this vehicle, as it was not involved in the first harmful event. The Critical Reason was not coded to this vehicle. The associative factors include the fact that he had herniated disks that and his medication can cause sleepiness and dizziness. However the driver was not thought to have contributed to this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Distraction, Driver Physical, Driver Stress/Emotion, Drugs, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Unknown
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

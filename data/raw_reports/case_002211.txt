@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of weekday in the northbound lanes of a four-lane divided roadway near a four-way intersection. The roadway consisted of two bituminous lanes in each direction separated by a grass median with a posted speed limit of 80kmph (50 mph). The intersection was controlled by a properly functioning traffic signal and roads were dry, straight, and level. Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a Ford 350 series pickup truck, was northbound in lane two approaching the intersection. V2, a 1997 Ford Probe, was also northbound in lane two ahead of V1 and stopped at the intersection (due to a red light). As V1 approached the intersection it failed to stop and struck V2 in the rear. The impact sent V2 spinning clockwise about 180 degrees into the median where it came to final rest. V1 was driven by a belted 41 year-old male who after several attempts could not be located for an interview. The driver of V1 was uninjured but V1 was towed due to damage. The Critical Precrash Event for V1 was coded other vehicle in lane, other vehicle stopped. The Critical Reason for Critical Precrash Event was a driver related error, an unknown recognition error. It is not known why the driver failed to recognize that V2 was stopped in front of him or that the traffic signal was red in his direction. V2 was driven by a belted 55 year-old male who was returning to work from his lunch break. He stated that he was stopped at the light when V1 came from behind and hit him. The driver of V2 was transported to the hospital for possible injuries and V2 was towed due to damage. The Critical Precrash Event for V2 was coded other vehicle in lane, traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. There are no associated factors coded to V2 and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

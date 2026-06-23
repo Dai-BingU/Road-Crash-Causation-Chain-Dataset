@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred just after noon on a weekday in the westbound lanes of a divided commercial roadway. The east/west roadway consisted of three lanes in each direction divided by a curbed centered median with crossovers allowing for left turns. The bituminous roadway was dry and level with a slight curve to the left (in the westbound direction) and a posted speed limit of 56kmph (35 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2001 Chevrolet Impala Police Interceptor, was eastbound in lane three. V2, a 2000 Chevrolet Cavalier was westbound in lane two. V1, after receiving an emergency dispatch activated its lights and siren and initiated a U-Turn to change its direction of travel. As V1 continued its U-turn it was struck on the right side by the front of V2. Both vehicles traveled west several more meters before coming to final rest in the westbound lanes. Both vehicles were towed due to damage. The driver of V1, a 33 year-old male, stated that while traveling east, he received a dispatch and had to change direction. He activated his emergency lights, and preceded his U-turn after waiting for oncoming traffic to yield. Both the driver and the passenger (his partner) in the right front were transported for treatment of non-incapacitating injuries. The Critical Precrash Event for V1 was coded other, vehicle making U-turn. The Critical Reason was coded as a driver related factor, a false assumption, as the driver assumed traffic would yield the right of way. In addition to the false assumption inattention was coded as an associated factor as the driver of V1 was talking on a CB at the time of the crash. The driver of V2, a 20 year-old female, was injured and transported from the scene with unknown injuries. The driver refused to take part in this study and would not be interviewed. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street turning into same direction. The Critical Reason was not coded to this vehicle. The only associated factor that could be coded to V2 was a false assumption regarding V1 movements.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Stress/Emotion present problem 
+Vehicle 2:  Decision, Speed/Distance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other- Other (specify) :
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

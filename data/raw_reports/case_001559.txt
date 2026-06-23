@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a four-lane east/west urban roadway inside an interchange. It has two lanes going straight, a left turn lane, and shoulders in each direction divided by a grass median. The road is intersected by a one-lane interstate exit ramp on the north and an entrance ramp on the south. Stop signs are present for traffic exiting the interstate ramp. Conditions were daylight and dry on a weekday afternoon. The posted speed was 72kph (45mph) on the four-lane road and 40kph (25mph) on the exit ramp. Vehicle #1 was a 2002 Toyota Echo traveling south on the interstate exit ramp. Vehicle #2, a 1998 Honda Accord, was westbound in the left lane of four-lane road. Vehicle #1 stopped at the intersection before attempting to turn left and go east on the four-lane road. The front of the Accord (V2) struck the left side of the Echo (V1). Vehicle #1 came to rest facing southeast in the intersection; Vehicle #2 came to rest facing southwest against Vehicle #1. Vehicle #1 was driven by a 24-year old female that was belted and transported to a local hospital with minor injuries. She stated she stopped at the intersection and looked but didn't see Vehicle #2 approaching. Police issued her a citation for failure to yield. The Echo was towed due to damage from the scene. The Critical Precrash Event for the Vehicle #1 was turning left at the intersection. The Critical Reason for the Critical Event was inadequate surveillance-looked but did not see. She was wearing glasses that corrected a myopic (near sighted) condition. She was taking medication for her diabetes. No other associated factors were coded. The driver of Vehicle #2 was a 35-year old female. She was belted with deployed frontal airbag and transported with minor injuries. She stated that it appeared as though the other vehicle didn't see her and pulled directly into her path. There were no pre impact skids at the scene. The Accord was also towed due to damage. Vehicle #2's Critical Precrash Event was other vehicle encroaching from crossing street turning into opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. She has a hyperopic (far-sighted) condition that does not require her to were glasses for driving. She was taking medication for her allergies; the possible side effect is drowsiness. There were no other associated factors for Vehicle #2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+Vehicle 2:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

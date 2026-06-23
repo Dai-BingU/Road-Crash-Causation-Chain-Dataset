@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred mid-morning on a clear day. The crash occurred on a five-lane, straight, level, bituminous, dry roadway. Two lanes were designated for southbound traffic while, two lanes were designated for northbound traffic and there was a turning lane on the northbound side for left (eastbound) turns. The posted speed limit for this roadway was 40 kmph (25 mph). This roadway intersects with a two-lane, straight, level, dry, bituminous roadway runs east to west and has a posted speed limit of 40 kmph (25 mph) there were no lane lines present on this roadway. The intersection was controlled by a stop sign for the westbound section of the intersection. Vehicle one (V1), a 1996 Chevrolet Tahoe SUV was traveling northbound in lane two. Vehicle two (V2), a 1997 Chevrolet Cavalier was traveling eastbound in lane one. V2 stopped at the intersection, and then attempted to make a left turn and travel north. As V2 attempted its turn the front of V1 struck the right side of V2. Both vehicles stopped at impact. The driver of V2 was transported to a local trauma center for possible injuries and the driver of V1 was not injured. Both vehicles were towed due to disabling damage. The driver of V1, a 20-year-old male, advised that he was traveling northbound in lane two when V2 entered the intersection and they made contact in the intersection. He was a college student on his way to a class when the impact occurred. He had concerns about an exam he was going to take at the class, but was attentive to the driving task. The driver of V2, a 19-year-old female, advised that she was stopped at the intersection for approximately 10 seconds prior to entering the intersection. This driver was a full-time college student. For this trip she had just finished a class at the university and was on her way home. She stated that as she started her turn, there was a non-contact vehicle in lane three (the aforementioned turning lane) of the northbound roadway waiting to turn east. This vehicle obstructed her view of V1 as she attempted her turn. Just prior to impact her attention was focused to the left away from the direction V1 was approaching from. The critical event for V1 was coded: other vehicle encroachment, from crossing street turning into same direction. The critical reason was not coded to V1. The critical event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason for was coded to V2 as a driver decision error: turned with obstructed view. View was obstructed by vehicle in-transport.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Surveillance present problem 
+Vehicle 2:  Decision, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Turned with obstructed view

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the late afternoon on a two-way, two-lane roadway, which was not physically divided. The bituminous roadway was straight and level for vehicle one (V1), however, there was a slight downhill grade for vehicle two (V2). The posted speed limit on the roadway was 64kmph (40mph). There were no adverse atmospheric conditions at the time of the crash and the roadway was dry. No traffic control devices were present at the crash location, and there were no traffic flow problems when the crash occurred. Vehicle one, a 2000 Ford Ranger, was traveling west on the roadway intending to go straight. Vehicle two, a 2005 Honda Pilot, was traveling east in the opposite direction, also intending to go straight. Vehicle one crossed over the double center yellow lines and struck vehicle two. After the impact both vehicles rotated slightly in a clockwise motion before coming to final rest in the eastbound lane. Both vehicles had to be towed from the scene due to damage. The driver of V1, a 17 year-old male, suffered from unknown injuries, but was transported to the hospital for treatment. There were no other occupants in the vehicle when the crash occurred. After numerous attempts, an interview could not be obtained with this driver. For this reason it is uncertain weather any health factors contributed to this crash. The investigating officer relayed that the driver of V1 had fallen asleep behind the wheel, which was consistent with the evidence at the scene. The Critical Precrash Event coded to this vehicle was: this vehicle traveling over lane on the left side of travel lane. The Critical Reason was coded as: driver sleeping. One associated factor coded for this driver was inexperience. The driver of V2, a 40 year-old female, suffered unknown injuries and was taken to the hospital for treatment. There were no other occupants in the vehicle when the crash occurred. A complete interview was obtained from this driver who stated that the other vehicle had drifted into her lane. She honked her horn and tried to steer away from the vehicle, but there was nothing she could do to avoid the crash. No health or fatigue related factors were coded to this driver, however, she was taking a prescription anti-depressant. The Critical Precrash Event coded to this vehicle was: other vehicle encroachment from opposite direction, over left lane line. The Critical Reason was not coded to this vehicle. No other associated factors were coded for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience present problem 
+Vehicle 2:  Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

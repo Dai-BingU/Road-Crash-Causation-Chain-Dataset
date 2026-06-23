@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred early evening hours on an undivided, straight, dry, bituminous, three-lane roadway with on-colors signals with pedestrian crossings. Westbound traffic, east of the intersection consists of a combination right turn/through lane and a left turn lane. Northbound traffic, south of the intersection consists of a combination right turn/through lane and a left turn lane. There were no adverse weather conditions present at the time and the speed limit for both directions of traffic are 48 kmph (30 mph). Vehicle one (V1), a 1995 Subaru Legacy sedan driven by a 52 year-old female, was traveling west in lane one approaching the intersection. Vehicle two (V2), a 1972 Plymouth Fury III sedan driven by a 17 year-old male, was traveling south in lane two approaching the same intersection. Both vehicles entered the intersection going straight and the front of V1 contacted the right side of V2. V1 rotated clockwise and V2 rotated counterclockwise. The left side of V1 then contacted the right side of V2. V1 continued in a northwest direction across a sidewalk and a private lawn. V1 came to final rest facing northwest against the bushes. V2 continued in a northwest direction and came to final rest near the northwest corner of the intersection facing northwest. Both vehicles were towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was attributed to V1 as a driver related factor: sleeping, that is actually asleep. According to the driver, she has been working a lot of hours and fell asleep while driving. Because of this V1 ran a red light and traveled into the intersection. The driver was on her commute home from work and works an average of 10 hours per day. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

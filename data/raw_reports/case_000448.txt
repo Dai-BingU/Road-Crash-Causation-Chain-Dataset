@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a primary arterial road (in a retail area) that ran east/west and was intersected by a side road that ran north/south. The crash occurred in the westbound lane of a six-lane non-divided roadway. There were 4 westbound lanes, a right turn, two through and a left turn lane. There were 2 eastbound lanes. The intersection was controlled by traffic lights (on colors w/o pedestrian signal) and also had turn arrows for left turn traffic in all directions. The west side of the intersection was straight and level, and the east side of the intersection was curved slightly right/north with a radius of 469 meters. Conditions at the time of the crash were daylight and dry with a speed limit of 72kph (45mph). The crash occurred around mid afternoon on a weekday with heavy congestion due to rush hour complicated by holiday shopping traffic. V1 was a 2001 Cadillac Seville STS that was originally eastbound on the arterial and was preparing to turn left onto the side road. As V1 commenced its turn it was impacted on the right side near the back by V2, a 1998 Toyota Camry that was in lane two traveling west when it struck V1 with its front. Both vehicles had a solid green light. V1 then rotated clockwise and came to rest facing east in the westbound right turn only lane. V2 traveled to the west side of the intersection and stopped on the north paved shoulder of the arterial facing west. Both vehicles were towed from the scene. V1 was driven by a 16-year-old belted male whose airbag did deploy in the crash but who was uninjured in the crash. The driver was going to get something to eat at the time of the crash. The driver did state that he saw V2 and thought he could make it. The Critical Precrash Event for V1 was “this vehicle traveling, turning left at intersection”. The Critical Reason was a “misjudgment of gap or others' speed (velocity)”. Another contributing factor coded to this driver was that he was inexperienced. The congestion on the road was also captured. V2 was driven by a belted 56 year old female who was transported from the scene by EMS with possible injuries along with the right front passenger who was transported with the same circumstances. No airbags deployed in V2. The driver of V2 stated that she and the passenger (who also owned V2) were on their way home after a day of shopping. The Critical Precrash Event for V1 was “other vehicle encroachment from the opposite direction over the left lane line”. The Critical Reason was not coded to this vehicle. No other contributing actions were attributed to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Traffic present problem 
+Vehicle 2:  Driver Stress/Emotion, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This six-vehicle crash occurred mid-afternoon during daylight hours in the four southbound lanes of a divided 8-lane interstate highway. The three vehicles of study were the first three vehicles involved in this crash. The three vehicles were traveling southbound, on a dry, level concrete roadway. Vehicle one was in lane three, vehicle two was in lane four, and vehicle three was in lane one. The weather was clear, dry, and it was daylight. The traffic conditions were heavy with congestion. The posted speed limit is 97 kmph, (60 mph). Vehicle one (V1) was a 1996 Nissan Maxima 4-door sedan that was driven by a 39 year-old male who was traveling southbound in lane three. The driver stated he was traveling at approximately 72-97 kmph (45-60 mph). V1 moved to the left impacting vehicle two (V2) in the right side doors. V1 then veered to the right crossing three lanes and impacting the right rear of vehicle three (V3). V1 then departed the roadway via the right shoulder and traveled on the right shoulder through grass and brush and its front impacted the center post of a highway advisory sign. V1 was wedged between the outer sign posts facing southbound at final rest and subsequently towed from the scene. V2 was a 1992 Dodge Dynasty sedan driven by a 41 year-old male with one passenger. V2 was traveling southbound in lane 4 when V2 sideswiped the right side. V2 drove to a stop on the left shoulder, and waited to be flagged by the troopers to drive across all the lanes, and park on the right shoulder. V2 was driven from the scene. V3 was a 2003 Honda Civic sedan driven by a 65 year-old female who was traveling southbound in lane one. V3 was impacted in the right rear by V1. Due to this impact with V1, V3 was then pushed into the rear of vehicle four (V4) and vehicle five (V5), which was in the adjacent #2 travel lane. V4 was then pushed forward into the rear of vehicle six (V6). V3 cleared the roadway by driving to the right shoulder; V3 was towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, over the lane line on left side of travel lane. The critical reason for the critical event was attributed to V1 as a driver related critical non-performance error: heart attack or other physical impairment of the ability to act. The driver had a severe coughing attack, and passed out at the wheel. The critical pre-crash event for V2 was coded: other vehicle encroachment; from adjacent lane (same direction) over right lane line. The critical reason not coded to this vehicle. V3, V4, V5 and V6 were not involved in first harmful event. The critical reason not coded to these vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Inexperience, Driver Physical, Drugs, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

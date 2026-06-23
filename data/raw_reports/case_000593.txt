@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an urban T-intersection in a residential area controlled by a stop sign. V2 was traveling on a two way, straight, with a >2% downhill slope, three-lane bituminous road with a posted speed limit of 72 kmh (45 mph). V2 was traveling on a two way, two-lane, straight, level, bituminous road with a speed limit of 40 kmh (25 mph). Conditions at the time of the weeknight crash were dark, unlighted, cloudy and dry. V1, a 2003 Ford Ranger pick-up driven by a 40 year-old male, was northeast bound on the road approaching the intersection. V1 stopped at the stop sign for 1-3 seconds. The driver stated that he observed v2 approaching from his left and thought he had time to pull out to turn left. The driver thought that v2 moved into the left lane, possibly to stop and wait for v1 to turn. The driver was on his way home, and had left a friend's home 2 blocks prior, where he had been drinking beer. The driver was administered a field sobriety test where he tested a .069 (.08 the legal state limit for driving under the influence). V1 pulled into the intersection to turn left and the left front of v1 was struck by the front of v2. V1 rotated slightly clockwise and came to rest on the curb at the far side of the intersection facing northeast. V1 was towed from the scene due to damage. The fully restrained driver refused treatment at the scene. V2, a 1997 Ford Focus 4 door sedan driven by an 18 year-old male, was southeast bound on the road at 89 kmh (55 mph). The driver stated that he observed v2 approach from his right, and he took his foot off of the accelerator. Then he thought v1 was going to stop so he put his foot back on the gas but then v1 pulled out in front of him. The driver of v2 put his foot on the brake and blew his horn. V2 rotated counterclockwise after the impact and came to rest in the intersection facing northeast. V2 was towed from the scene due to damage. The fully restrained driver was transported to a local trauma center due to injuries, where he was treated and released. The Critical Precrash Event coded to the driver of v1 was 'this vehicle traveling turning left at intersection.' The Critical Reason for the Critical Event coded was 'a decision factor of misjudgment of gap or other road user's speed.' The driver was also coded for alcohol use due to the .069 Breathalyzer reading. The Critical Precrash Event coded to v2 was 'other vehicle encroachment from crossing street turning into opposite direction.' The Critical Reason was not coded to this vehicle. An associated factor coded to this driver was that he was in a hurry to get to a local store to make a purchase. In addition the driver of v2 stated that he was traveling 89 kmh (55 mph) in a 64kmh (45 mph) zone. Inexperience was coded as the driver had only been driving for 2 years.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision present problem 
+Vehicle 2:  Driver Inexperience, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

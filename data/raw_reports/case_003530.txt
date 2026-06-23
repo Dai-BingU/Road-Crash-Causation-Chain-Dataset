@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a four-lane urban highway with a grass median. There were three northbound lanes and a left turn lane. The roadway had a posted speed limit of 55 mph and the northbound lanes had a downhill grade of 5%. Conditions were dark and dry. The crash occurred in the mid-evening hours of a weekday. Vehicle one was a 1990 Oldsmobile Cutlass Cruiser SL wagon. Vehicle two was a 2000 Chevrolet 1500 Silverado. V1 was traveling south in the left turn lane approaching an intersection. V2 was traveling north in lane two approaching the same intersection. V1 came to a stop in the median area of the intersection. Another vehicle was also in the median area turning in the opposite direction and was partially obscuring V1's view of traffic. V1 inched out into the intersection and then proceeded to turn left. The right side of V1 was impacted by the front of V2. V1 traveled north back into the median and came to final rest. V2 traveled northeast into the east roadside and came to final rest off the roadway. V1 then experienced an engine compartment fire. V1 was driven by a 24-year old female who was transported to a local trauma center with non-incapacitating injuries. She was unable to be located for an interview. The investigating officer estimated her travel speed to be 5 mph. V1 was towed due to damage. The Critical Precrash Event for V1 was turning left at the intersection. The Critical Reason was coded as an "other" decision error - turned with obstructed view. Associated factors coded to this driver were inadequate surveillance and a sight line restriction caused by the other turning vehicle. Other factors could not be coded because this driver could not be located. V2 was driven by a 28-year old male who was uninjured. He stated that he saw V1 inching out behind a van from the median intersection. V2 then cut across the roadway in front of him. He braked with lockup and steered right to no avail. His vehicle caught fire in the engine compartment after impact. He estimated his speed to be 50 mph at impact. V2 was towed due to damage. The Critical Precrash Event for V2 was the other vehicle encroaching into the lane from the opposite direction over the left lane line. A Critical Reason was not coded to this driver. An associated factor present was a casual conversation between the driver and his wife at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

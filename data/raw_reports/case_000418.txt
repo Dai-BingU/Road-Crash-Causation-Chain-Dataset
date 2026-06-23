@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary Case Summary-2005-43-113 This 2-vehicle head-on collision occurred in the northbound lane of a 2-lane undivided roadway in a suburban neighborhood. The road runs north and south with a posted 56 kmph (35 mph) speed limit and there is an intersecting side street at the location of the crash. Conditions were daylight and dry with clear skies. The crash happened in the early afternoon hours on a weekday. Vehicle 1, a 1996 Saturn SL with one occupant, was traveling north. Vehicle 2, a 1986 Dodge Dakota with one occupant was traveling south. V2 attempted to make a left turn and struck V1 head-on. Following the collision, both vehicles came to final rest in the northbound lane and were towed from the scene because of disabling damage. V1 was driven by a 16-year-old female that is an eleventh grade high school student and varsity basketball player. She has only been driving for three months and has a graduated license level two restriction - may drive unsupervised between 5 am and 9 pm. She does not have a job outside of school and maintains a usual sleep schedule of 22:00 hours to 06:00 hours during the school week. For this trip today, she had left her cousin's house and was driving to meet some friends and classmates for food and conversation. She reports she was driving north between 30 - 40 mph when a southbound truck turned in front of her. She says she was looking forward the whole time and never paid much attention to the truck until it turned in front of her. This driver said there was no time to react and she did not brake or steer away from the truck. She was not wearing a seat belt at the time of the crash and her driver airbag deployment resulted in a small scratch to her nose. The Critical Precrash Event for V1 was coded: (62) other vehicle encroaching from opposite direction - over left lane line and the Critical Reason for the Critical was not coded to this vehicle. V2 was driven by an 18-year-old male that has only been driving for 8 months but is very comfortable with his father's truck and familiar with the roadway and location of this crash. He works a regular part time schedule at a thrift shop Wednesday to Sunday from 12:00 to 17:00 hours. He also maintains a normal sleep schedule of 00:30 to 09:30 hours. He visited a friend's house earlier this Tuesday afternoon and was returning home when this crash occurred. This driver reports that he was traveling south on this 2-lane road, in the neighborhood he lives, and was blinded by sun glare when he turned in front of a northbound Saturn. The front of his 1986 Dodge Dakota collided head-on with the 1996 Saturn SL. He reportedly never saw the Saturn because of sun and turned left because he thought the intersection was clear. He admits he did not use a turn signal but says he slowed before making the turn. He was wearing a seat belt at the time of the crash and did not suffer any injuries. The Critical Precrash Event for V2 was coded: (25) this vehicle turning left at intersection and the Critical Reason for the Critical Precrash was coded: (113) inadequate surveillance (looked but did see, failed to work.)
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience present problem 
+Vehicle 2:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

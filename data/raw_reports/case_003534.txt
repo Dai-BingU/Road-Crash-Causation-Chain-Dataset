@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in northbound lanes of a five-lane urban highway with a 4-foot high median wall. There were five lanes in the northbound direction on a left curve banked at +7% of superelevation. The roadway had a posted speed limit of 96 kmph (60 mph) and a 1% downhill grade. Conditions were daylight and dry with clear skies. The setting was midday on a weekday. Vehicle one was a 1991 Plymouth Sundance sedan negotiating the left curve in lane four. Vehicle two was a 2004 Nissan Maxima negotiating the same curve to v1's right in lane three. There was a non-contact vehicle in lane five traveling slightly behind and adjacent to v1. The driver of v1 steered suddenly to the right and then overcompensated left, causing her vehicle to begin a counterclockwise rotation. The right side of v1 impacted the left side of v2 (Event 1). V1 then traveled off the left side of the roadway and impacted the median wall with its front (Event 2). V1 continued traveling until finally coming to rest facing south in lane five. The driver of v2 brought his vehicle to a controlled stop on the right shoulder. The Plymouth Sundance (v1) was driven by a 21-year old female who was transported to a local trauma center with possible injuries. She stated that she was returning to lunch from her lunch break when she noticed a vehicle to her left in her blind spot. She over-reacted and steered right suddenly. She didn't recall striking v2, but does recall the impact to the median wall. She estimated her travel and impact speeds to be 112 kmph (70 mph), and said she was knowingly speeding. Her Plymouth sedan was towed, but not due to police-reported damage. The Critical Precrash Event for v1 was this vehicle traveling over the lane line on the right side of the travel lane. The Critical Reason was a driver related factor of overcompensation. This driver was thinking about life stresses that were preventing her from having enough time to sleep properly. She has scoliosis and wears glasses for nearsighted vision correction. She had five hours of sleep the night before and was fatigued at the time of this trip. The Nissan Maxima (v2) was driven by a 51-year old male who was uninjured. He stated that he was on an out-of-state work trip and was traveling between work sites. He noticed a car to his left swerving and attempted to steer right and brake, but could not avoid the impact. He estimated his travel and impact speeds to be 96 kmph (60 mph). His Nissan sedan continued in service after the crash. The Critical Precrash Event for v2 was other vehicle encroachment from the adjacent lane over the left lane line. No Critical Reason was coded to this vehicle. This driver took Nexium for heartburn. He slept in a hotel the previous evening. He drives this route on a weekly basis.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Performance, Vehicle present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred during early evening on a dry, two-lane, level, bituminous roadway that passed through a residential area. The roadway runs north to south and comes to a dead end on its' north side. Vehicle one, a 2002 Ford F-150 4x4 was backing southbound in the northbound lane. Vehicle one attempted an "S" turn to reach a driveway. As vehicle one was turning the vehicle overturned and the left side of vehicle one contacted the ground. Vehicle one overturned 1-quarter turn and came to rest on its left side. Vehicle one was towed due to damage. Vehicle one was equipped with aftermarket tires that were larger than the manufacturer's recommended tire size. These tires were also over inflated. The driver of vehicle one was a healthy, unemployed, 19-year-old male. The driver had a broken left hand at the time of crash. The driver had also consumed an unknown number of beers prior to the crash. The driver stated that the cast on his left sometimes made it slightly more difficult to drive by impairing his ability to steer the vehicle. This driver decided to back up to turn around due to vehicles in front of him. The critical pre-crash event for this vehicle was coded as “This vehicle control loss due to: traveling too fast for conditions”. The critical reason for the critical pre-crash event for this vehicle was coded as “Driver related factor: poor directional control”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Performance, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Backing up (other than for parking position)
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

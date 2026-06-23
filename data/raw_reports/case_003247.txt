@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a 4 lane undivided roadway at a hillcrest, after a curve to the right, with a precrash grade of 3.6% and a super-elevation of 15%. The posted speed limit was 72 KMPH (45MPH). The weather was clear and the roadway was dry. This crash occurred on a weekday afternoon. Vehicle #1, a 1995 Chevrolet Blazer was slowly rolling in the 2nd lane of the roadway awaiting oncoming traffic to pass in order to make a left turn. Vehicle #2 a 2000 GMC Sierra Pickup truck was traveling in the same lane. Vehicle #2 rear-ended Vehicle #1 with it's front. Vehicle #2 came to final rest on the south shoulder facing east. Vehicle #1 came to final rest on the north shoulder facing in a northeasterly direction. The 1995 Chevrolet Blazer (Vehicle #1) was driven by a belted male who stated he wanted to pull into the Mobil station, on the north side of the road, for gas but there were too many cars close in back of him. He stated he pulled up further to allow those cars to get into lane one while he awaited passing oncoming traffic to then make a left turn or U-turn. He stated he had his foot on the brake and also had his signal on. There was a 3 year old belted female in a child seat and an 82 year old female in this vehicle as passengers. The Critical Precrash Event coded to Vehicle #1 was: "other motor vehicle in lane, traveling in same direction with higher speed". The Critical Reason for the Critical Precrash Event was coded as: not coded to this vehicle. The 2000 GMC Sierra Pick-up was driven by a belted male who stated he did not see Vehicle #1 in his lane. He further stated he saw no brake lights or signals. He stated there were other vehicles in lane one indicating he was looking at other vehicles to his right. He also stated he was thinking about forms to fill out for his home inspection business and thereby, not giving full attention to his driving. He is taking several types of medication for a heart condition and high cholesterol which have possible side effects of light headedness, dizziness, and blurred vision. The Critical Precrash Event coded to Vehicle #2 was: "other motor vehicle in lane, traveling in same direction while decelerating". The Critical Reason for the Critical Precrash Event was coded as: "driver related factor, failed to look (looked but did not see)".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Distraction, Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

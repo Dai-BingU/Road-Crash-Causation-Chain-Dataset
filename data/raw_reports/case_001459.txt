@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at an intersection on a 4 lane divided highway without a positive barrier. The roadway was straight and there was no grade, it was under construction at the time of the crash. The posted speed limit was 72KMPH (45MPH). The weather was clear and the roadway was dry. This crash occurred on a weekend evening. Vehicle #1, a 2000 Hyundai Elantra, was traveling north on the divided highway when it impacted with Vehicle #2, a 2000 Chrysler Sebring. Vehicle #1 impacted the right front of Vehicle #2 with its front. Vehicle #1 came to final rest on the east side shoulder facing in a northeasterly direction. Vehicle#2 came to final rest on the roadway also facing a northeasterly direction. Vehicle #1 (2000 Hyundai Elantra) was driven by a belted 45 year old female who was not injured. She refused treatment at the scene. This driver stated she was so upset she wasn't sure what happened. This driver refused to answer part of the interview questions and refused further interview upon follow-up. The Critical Precrash Event coded to Vehicle #1 was: other vehicle encroachment, from opposite direction, over left lane line. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. Vehicle #2 (2000 Chrysler Sebring) was driven by a belted 24 year old female who was transported to an area hospital, treated and released. There was a belted 27 year old male in the front right seat and a belted 9 year old male in the second left seat. Both passengers were transported to an area hospital although the 9 year old was not injured. The 27 year old male was treated and released. The driver of this vehicle stated that she believed Vehicle #1 must have been traveling fast as it was not in sight when she looked, before she proceeded. She further stated that Vehicle #1 came from the far side of a flat bed truck in an effort to pass the truck before the roadway narrowed to one lane on that side. The Critical Precrash Event coded to Vehicle #2 was: this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Precrash Event was coded as: driver related factor: turned with obstructed view. The Police did not consider illegal drugs or alcohol to be a factor in this crash and order no tests for either driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Traffic present problem 
+Vehicle 2:  Decision, Drugs, Roadway, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Turned with obstructed view

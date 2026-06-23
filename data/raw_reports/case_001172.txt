@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a two lane undivided roadway at an intersection with a 2 lane undivided side road. The posted speed limit on the two lane roadway on which the crash occurred was 89KMPH (55MPH). The posted speed limit on the side road was 48KMPH (30MPH) and the side road had a stop sign. It was dark at the time of the crash and the roadway was unlighted. The roadway was dry and it was cloudy. This crash occurred on a weekday evening. Vehicle #1, a 1996 Plymouth Voyager minivan, was attempting to make a westbound left turn, from the side road, onto the two lane undivided roadway. The driver stated he got halfway out and stopped, assuming the other vehicle would go around him. Vehicle #2, a 2005 Nissan Altima heading east impacted with the drivers side of Vehicle #1, with its front. The Plymouth Voyager was driven by a belted 89 year old male who was transported to an area hospital, treated and released. The driver stated he thought the other vehicle was far enough away. It should be noted here that the driver takes prescription medications for high blood pressure and two pain killing medications, for a back injury, which state drowsiness as a possible side effect. The Critical Precrash Event coded to this vehicle was: This Vehicle Traveling Turning Left at Intersection. The Critical Reason for the Critical Precrash Event was coded as Driver Related Factor Decision Error, False Assumptioin of Other's Actions. The Nissan Altima was driven by a belted 30 year old female and there were two passengers in this vehicle, a belted 34 year old male and an young child in a child restraint. All three passengers in this vehicle were transported to an area hospital, although the child was not injured. The driver and other passenger were treated and released. This driver did not answer requests for interviews. The Critical Precrash Event coded to this vehicle was: Other vehicle encroachment from crossing street, turning into opposite direction. No Critical Reason for the Critical Precrash Event was coded to this vehicle. Police did not consider alcohol or illegal drugs to be a factor and ordered no tests for either driver
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Drugs present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

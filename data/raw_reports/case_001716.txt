@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the early evening hours on a two-way, two-lane, straight, bituminous roadway. Conditions were light, clear and dry and the road had a posted speed limit of 72kmh (45mph). V1, a 1997 Dodge Ram pick-up truck driven by a 28 year-old male, was traveling east on the roadway. V1 turned left in front of v2 which was traveling westbound on the same road. The intended turn destination of v1 was a private driveway on the north side of the road. The front of v1 struck the front of v2 in the westbound lane of traffic. V1 came to final rest facing north. V1 was towed from the scene due to damage. The driver of v1 was transported to a local trauma center from the scene. V2, a 1996 Ford Ranger compact pick-up driven by a 16 year-old male, came to final rest facing southwest partially in the driveway. The driver of v2 stated that he saw v1 put his blinker on to turn left as he was approaching, but that v2 did not stop and wait for traffic to pass and instead just slowed a bit and then turned right in front of v2. The driver of v2 had no time for any avoidance actions. The driver and passenger airbags deployed and v2 was towed from the scene due to damage. The fully restrained driver and right front occupant of v2 were transported to a local trauma center from the scene of the crash where they were treated and released later that evening. The Critical Precrash Event coded to v1 was 'turning left at intersection'. The critical Reason for the Critical Event was 'a recognition error-inadequate surveillance, looked but did not see'. The driver checked oncoming traffic and then began to slow for the left hand turn into the private driveway. V2 crested a hill and was traveling down slope far enough in advance for the driver of v1 to observe had he looked again at the oncoming travel lane prior to turning. The driver stated that he did not see v2 until it was too late to avoid the crash. V1 did not brake or have time to steer left or right. There were no Contributing factors coded to this driver. The driver reported no emotional, stress or work related concerns, and no medical conditions. The driver was well rested and familiar both with his vehicle and with the roadway. There was an adult passenger in the truck and a cell phone but the driver reported no conversation or cell phone use. The driver was not in a hurry and was properly licensed. Police did not consider alcohol or illegal drugs to be involved and ordered no tests. The Critical Precrash Event coded to v2 was 'other vehicle encroachment from opposite direction-over left lane line.' The Critical Reason was not coded to this vehicle. There were no Contributing Factors coded to this driver. Associated Factors coded to the 16 year-old were related to experience as he had only been driving for 2.5 months and had driven on the roadway only a few times. The father of the driver who was the right front occupant indicated that there were no vehicles in front of v2 and that v1 turned immediately in front of v2. The driver did not report any health, emotional, stress or physical factors, had not taken any medication, and does not wear corrective lenses. There were no mechanical defects found during the vehicle inspection although the right front tire showed more wear than the other three. The driver has a valid driver's license. Police did not consider alcohol or illegal drugs to be a factor and did not order any tests.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

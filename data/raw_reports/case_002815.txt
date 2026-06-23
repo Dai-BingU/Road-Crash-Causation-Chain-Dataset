@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary V1, a 2001 Oldsmobile Alero, was traveling on a five-lane, two-way, wet, asphalt roadway in daylight conditions intending to proceed straight through a 4-way intersection controlled by a traffic light. V2, a 2002 Chevrolet Cavalier was traveling westbound on the same roadway intending to turn left as it approached the intersection. V3, a 2003 GMC Yukon, was stopped at the red light waiting to turn left to proceed west. As V2 commenced its turn it's right side was struck by V1's front. V2 than spun clockwise where its back left corner struck V3, before all vehicles came to final rest in the roadway. V1 was driven by a 56 year-old female who reported she had been traveling between 50-64 kmph (31-40mph) prior to the crash. She had a history of high blood pressure and takes medication, which was not thought to have contributed to the crash. She was rested, traveling to work, and wearing her prescribed lenses that correct a myopic (near-sighted) condition. She sustained minor injuries and was transported to a local trauma facility. V1 was towed due to damage. The Critical Precrash Event for the driver of V1 was other vehicle encroachment, from opposite direction-over left lane line. The Critical Reason for the Critical Precrash Event was not coded to the driver of V1. She was paying attention, but did not have time to respond to the other driver. V2 was driven by a 59-year old male who had reported that he had been traveling between 2-16kmph (1-10mph) prior to the crash. He was in good health, rested, and traveling home. He sustained moderate injuries and was transported to a local trauma facility. V2 was towed due to damage. The Critical Precrash Event for the driver of V2 was this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Precrash Event was a decision error, misjudgment of gap or other's speed, because he thought he could beat her through the light. V3 was driven by a 35-year old male who had reported that he had been stopped at the light. He was in good health, rested, and traveling to a restaurant. He was wearing his prescribed lenses that corrected a hyperopic (far-sighted) condition. He was uninjured in the crash and refused treatment. V3 was driven from the scene. The Critical Precrash Event for the driver of V3 was other, not involved in first event. The Critical Reason for the Critical Precrash Event was not coded to the driver of V3 and he was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs, Weather/Environment present problem 
+Vehicle 2:  Decision, Weather/Environment present problem 
+Vehicle 3:  Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

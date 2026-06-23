@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred during daylight hours on a two-lane undivided city street. The posted speed limit on this street was 64 kmph (40 mph). The road was dry, straight, and level asphalt. V1, a 1997 Ford Ranger pickup, was driven by a 24-year old male traveling north, approaching an intersection with another two-lane street. A non-contact vehicle traveling in front of V1 slowed down to make a right turn. The driver of V1 stated that he did not realize that the vehicle in front of him was stopping as fast as it was. He said he hit the brakes hard and steered left to go around the non-contact vehicle, but also did not see V2 in the oncoming lane. V2, a 1997 Jeep Grand Cherokee, was traveling southbound on the same roadway. The front right of V1 was struck by the front of V2 in the southbound lane. Both vehicles came to final rest facing west off the roadway at the southwest corner of the intersection. The driver of V2 was transported due to injuries; the driver of V1 was not injured. The Critical Pre-crash Event for V1 was this vehicle traveling over the lane line on the left side. The Critical Reason for the Critical Pre-crash Event was an incorrect evasive action. Had the driver of V1 braked and remained in his own lane or braked and steered off the road to the right, the crash would not have occurred. Inadequate surveillance was coded as an associated factor because the driver of V1 failed to look far enough ahead. V2 was driven by a 77-year old female. She stated that she saw V1 swerve into her lane but did not have time to avoid hitting him. She then stated that she hit her brakes hard and held onto the steering wheel, bracing for impact. The Critical Pre-crash Event for V2 was other motor vehicle encroachment from opposite direction, over left lane line. The Critical Reason was not coded to V2 and no associated factors were coded to its driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

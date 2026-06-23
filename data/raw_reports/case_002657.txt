@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred close to midnight on a clear evening. The crash occurred on a two-lane, down hill, dry, bituminous, east/west roadway that curves to the south. The radius of this curve was 281 meters (922 feet) with a super elevation of 4%. The posted speed limit for this roadway was 64 kmph (45 mph). This roadway terminates with a level, straight, dry, bituminous roadway that runs north/south. Traffic approaching the intersection is controlled by a stop sign before turning left or right. The roadway is illuminated at night. Vehicle one (V1), a 1994 Oldsmobile Cutlass Supreme with two occupants, was traveling east in lane one. V1 failed to stop for the stop sign, crossed the north and southbound lanes and departed the roadway on the east edge of the intersection. As V1 departed the roadway it went down an embankment and the undercarriage of V1 struck the ground. V1 came to rest facing east off of the roadway. The passenger was transported to a local trauma center for unknown injuries. The vehicle was towed due to disabling damage. The driver of V1 stated that she was traveling eastbound in lane one and that she was not familiar with the roadway and was unaware that there was an intersection in this location. She also stated that she was fatigued at the time of the crash. She also stated that just prior to the crash she was talking with the passenger. The critical pre-crash event of this crash was coded: this vehicle traveling, end departure. The critical reason for this crash was coded as a driver related factor: inattention (i.e., daydreaming). The driver's fatigue and inexperience on this roadway were contributing circumstances. There was no advance warning sign of the approaching stop sign or road termination.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Inexperience, Roadway, Speed/Distance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- End departure
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)

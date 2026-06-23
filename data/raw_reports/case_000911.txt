@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the middle of a 4-way intersection controlled by traffic signals in all directions. The southbound roadway upon which vehicle one (V1) was traveling, consisted of three lanes. The northbound roadway, upon which vehicle two (V2) was traveling, consisted of four lanes. The crash occurred during daylight hours, and there were no adverse atmospheric conditions at the time of the crash. The northbound roadway had a slight right curve as well as an incline. The southbound lanes were straight and level. The posted speed limit for both vehicles was 40kph (25mph). Vehicle one, a 1998 Jeep Cherokee, was traveling in lane two heading south, intending to make a left at the intersection. Vehicle two, a 1996 Plymouth Voyager, was heading north in lane two intending to continue through the intersection. Both vehicles did have a green light, however, V2 had a steady green, and therefore the right of way. As both vehicles entered the intersection the front of V2 struck the left front of V1. The impact caused V2 to spin clockwise almost 360 degrees before coming to final rest againt the guardrail. Vehicle one spun counter clockwise almost 90 degrees before coming to rest in the eastbound roadway. The driver of V1, a 37 year-old male, was not injured and did not require any medical attention. No other occupants were present in V1 at the time of the crash. A complete interview was obtained from the driver of V1. No fatigue or medical related factors were thought to play a role in this crash. According to the driver, whose license was suspended, he did not see the approaching vehicle. The Critical Pre-crash Event coded to vehicle one was: this vehicle traveling, turning left at intersection. The reason for the Critical Pre-crash Event was coded as inadequate surveillance. One associated factor coded to this driver was a sightline restriction due to an uphill grade for opposing traffic. The driver of V2, a 51 year-old male, received non-incapacitating injuries as a result of the crash, and was transported to a hospital for treatment. The right front passenger of V2, a 47 year-old female, sustained severe injuries and was transported via helicopter to an emergency facility for treatment. No interview could be obtained for vehicle two, therefore it is uncertain if any fatigue or medical related issues had a role in this crash. The Critical Pre-crash Event was coded other vehicle encroachment from opposite direction - over left lane line. The reason for the Critical Pre-crash Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

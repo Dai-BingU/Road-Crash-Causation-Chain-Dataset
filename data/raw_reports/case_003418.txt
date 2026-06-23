@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the interchange of an interstate off-ramp and a one-way, four-lane roadway divided by a concrete curbed median. The southbound interstate off-ramp consisted of one lane, with an uphill grade measurement of greater than two percent. The westbound roadway consisted of four lanes, which were straight, level, and bituminous. The off-ramp had a sharp right turn warning sign, with an advisory speed limit of 16 kmph (10 mph). The westbound roadway had a posted speed of 64 kmph, or 40 mph. Conditions were early afternoon on a weekend with dry roads and clear skies. V1, a 2003 Chevy Monte Carlo SS with three occupants, was traveling southbound on the interstate off-ramp. V2, a 2005 Volvo XC90 with one occupant, was traveling westbound in lane one. Both vehicles were approaching the same interchange. As the two vehicles entered the interchange, the front of V1 made contact with the right side of V2. V1 came to final rest in the merge lane, facing west. V2 began to fishtail wildly as it continued to travel westbound. The front right corner of V2 made contact with a concrete retaining wall, before coming to final rest in the merge lane. V1, the Monte Carlo SS, was driven by a 27-year old male who reported no injuries. He advised that he and two friends were on their way to pick up his sister from work. He stated that as he approached the interchange, he slowed down to safely make the sharp turn. He said that he saw the other vehicle coming, but didn't think that the two vehicles would collide. He didn't know exactly how it happened, because he supposedly stayed within the boundaries of his lane. The Critical Precrash Event for V1 was "this vehicle traveling, over the lane line on the left side of the travel lane." The Critical Reason for the Critical Event was a decision error, too fast for curve/turn. The driver took the turn at a speed well over the advisory speed limit of 16 kmph (10 mph), causing him to encroach into V2's travel lane. An associated factor for this driver may have been vehicle-related experience. The driver purchased this vehicle only a few days prior to the accident, and had driven the vehicle four or five times. V2, the Volvo XC90, was driven by a 64-year old male who reported possible injuries but refused treatment. He stated that he was on his way to pick up his golf clubs at the pro shop. He was traveling at about 64 kmph (40 mph), when he noticed that V1 was approaching the interchange at a high rate of speed. At the last minute, the driver tried to steer left, into lane two. The driver said that after he was hit, his vehicle began to fishtail back and forth, until the front right corner made contact with the concrete barrier. The Critical Precrash Event for V2 was "other vehicle encroachment, from entrance to limited access highway." The Critical Reason for the Critical Event was not coded to this vehicle. One associated factor for this driver may have been a physical factor. Although the driver stated that he felt rested at the time of the crash, he had spent two or three days putting up a fence, at six to seven hour intervals.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From entrance to limited access highway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

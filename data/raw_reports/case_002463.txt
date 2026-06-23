@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This 2-vehicle crash occurred in the northbound lane of a 4-way suburban intersection. The intersection was controlled by a traffic signal with pedestrian indicators located on three corners. The north and south traffic had a posted speed limit of 35 mph. The east and west traffic had a posted speed limit of 25 mph. Conditions were daylight and dry with partial clouds. The crash occurred in the early afternoon hours on a weekend. Vehicle 1, a 2002 Honda CR-V EX with three occupants, was traveling east. It was crossing through the intersection while its traffic light was green. Vehicle 2, a 1999 Chevrolet Cavalier with two occupants, was traveling north. The traffic light for its direction was red when it entered the intersection. The front of V2 struck the right side of V1. Subsequent to this first impact, V1 rolled left three-quarter turns coming to rest on its right side. Both vehicles were towed due to damage. The Honda was driven by a 40-year-old female. EMS examined her and the two passengers in her minivan, but they were not treated for any wounds. She stated she was very familiar with the intersection since it is in her neighborhood and reported that her signal was green. She claimed the other driver ran the red light and she did not recognize it until she was in its path. She thinks she applied the brake and steered left, but it happened so quick she was not sure what her immediate reaction was. The Critical Precrash Event for V1 was when the other vehicle encroached from crossing street, across path. The Critical Reason for the Critical Precrash Event was not coded for this vehicle. She was taking a thyroid medication that had possible side effects of heart palpitations, rapid heartbeat, and abnormal heart rhythms. The medication was thought not to contribute to the crash. The Chevrolet was driven by a 27-year-old male. EMS transported the driver to a local trauma center for minor injuries but the right front passenger was not injured. Both the driver and his passenger did not speak English. Vehicle two's driver did not have a driver's license and was cited by the police for No Operators License and a Red Light Violation. The Critical Precrash Event for V2 was when it passed through the intersection. The Critical Reason for the Critical Precrash Event is unknown. A pair of witnesses reported the driver of the Cavalier was at fault.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Unknown
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Unknown Reason - Unknown reason for critical event

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a seven-lane suburban roadway at an intersection. There were three southbound and three north bound lanes separated by a turn lane. The roadway had a posted speed of 72 KPH (45 MPH) and the southbound lanes had a 1% downhill grade. Conditions were daylight and dry with cloudy skies. The crash occurred in the early morning hours on a weekday. Vehicle #1 was a 1990 Ford F350 frame with a food service package in place of the bed. Vehicle #2 was a 2004 Toyota Echo. V1 was traveling north in the 4th lane left turn lane approaching the intersection. V2 was facing southbound stopped at the light waiting to proceed. V1 proceeded to turn left on a yellow turn signal and V2 proceeded to start in the traffic lane. The front right corner of V1 impacted the front left corner of V2. Both vehicles came to rest in the grass median west of the roadway. The Ford F350 was driven by a 56-year old male who was uninjured. He stated that he was turning left on a yellow turn signal. He estimated his speed at 32 KPH (20 MPH) at the time of impact. His vehicle was lightly damaged and not towed due to damage. The Critical Precrash Event for V1 was this vehicle turning left at the intersection. The Critical Reason was a decision error to turn left on a late yellow turn signal. The driver thought he could make it safely through the intersection; however, it could not be determined why he did this (e.g. false assumption, misjudgment of gap or other's speed). An associated factor for this driver was a timed delivery that was several minutes late, though the driver denied being in a hurry to make the delivery. The Toyota Echo was driven by a 64-year old female who was also uninjured. She declined to be interviewed. Her vehicle was towed from the scene. The Critical Precrash Event for V2 was the other vehicle encroaching into the lane from the opposite direction over the left lane line. A Critical Reason was not coded to this vehicle. No associated factors could be coded due to non-cooperation.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown decision error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

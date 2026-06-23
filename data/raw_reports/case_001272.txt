@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound exit lane of an interstate highway. There were five lanes in total. The right two lanes were exit lanes while the left three lanes were straight through lanes. There were rumble strips and breakdown lanes on both sides of the roadway. The roadway had a posted speed limit of 89 kmph (55 mph) and was set on a 2% downhill grade. Conditions were wet and cloudy with rain. The setting was midday on a weekday. Vehicle one was a 2004 Mack heavy truck equipped with a concrete pump. It was traveling in lane two preparing to take the exit. Vehicle two was a 2004 Lexus RX330 sport utility traveling in lane three. V2 changed lanes to the right and then slowed down to approximately 48 kmph (30 mph). V1 was unable to reduce speed and impacted the rear of v2 with its front (Event 1). V1 came to rest on the left shoulder of the exit ramp. V2 traveled off the left side of the exit ramp and came to rest on the roadside. The Mack truck (v1) was driven by a 22-year old male who was treated at the scene for possible injuries. He stated that he was heading to a jobsite when v2 switched into his lane and slowed abruptly. He braked with lockup but couldn't avoid her. His estimated travel and impact speeds were 89 kmph (55 mph). The Mack truck continued in service after the crash. The Critical Precrash Event for v1 was other vehicle in lane decelerating. No Critical Reason was coded to this vehicle. No associated factors were present for v1. The Lexus RX330 (v2) was driven by an 81-year old female who was transported to a local trauma center for possible injuries. She stated that she was heading to a meeting when she changed lanes to take an exit and slowed to 48 kmph (30 mph). She stated that she always slows to this speed for any highway exit. She never saw v1 and just remembers a sudden jolt and trying to regain control of her vehicle after the impact. Her Lexus sport utility was towed from the scene, although not due to police-reported damage. The Critical Precrash Event for v2 was this vehicle traveling decelerating in the travel lane. The Critical Reason was a driver-related factor of a performance error consisting of unecessary and excessive braking. This driver was taking medications for high cholesterol and diabetes. She wears glasses for a nearsighted condition. She is retired and drives this road on a monthly basis.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Weather/Environment present problem 
+Vehicle 2:  Decision, Driver Inexperience, Driver Performance, Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Changing lanes
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：This Vehicle Traveling- This vehicle decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Other performance error (specify):

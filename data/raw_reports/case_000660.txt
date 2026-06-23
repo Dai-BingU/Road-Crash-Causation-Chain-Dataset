@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred in the intersection of a 4-road intersection. The intersection has an east-west roadway with three lanes for each direction and a 3-lane southbound-only road. The intersection is controlled by a pre-timed signal and all three directions have a posted speed limit of 56kmph (35 mph). Conditions were cloudy, dry and daylight. V1, a 2001 Ford Explorer Sport Trac, was traveling south in lane two on the one-way roadway toward the intersection. V2, a 1992 Acura Legend LS, was traveling west in lane two toward the same intersection. Both vehicles entered the intersection at the same time causing the front of the V2 to strike the left side of V1. V1 came to final rest on the southwest curbside of the intersection and V2 came to rest in the center of the intersection. Both vehicles were towed due to damage and the driver of V1 was transported from the scene. V1 was driven by a 21-year-old male that works as an electrician Monday thru Friday from 8 am to 5 pm. For this trip today, he had just started his lunch break and began to drive toward a gas station for some food. As he drove south road toward the intersection, he said his signal turned green and he never slowed or accelerated before entering the intersection. Once he entered the intersection, he heard a horn and suddenly an Acura appeared to his left side. He said there was no time to react and he was struck in the driver side by the front of the Acura. This driver said there was traffic stopped in the westbound lanes (same direction as the Acura) when he approached the intersection. He suffered an abrasion to his chin from the airbag and bruises across his chest from the seatbelt. He was treated and released from a local trauma center and he missed 1.5 days of work because of the crash. The Critical Precrash Event for V1 was coded as other vehicle encroaching from crossing street, across path and the Critical Reason was not coded to this vehicle. There are no known associated factors, as V1 was not believed to have contributed to the crash. V2 was driven by an 18-year-old female that could not be interviewed. The Critical Precrash Event for V2 was coded as this vehicle crossing over (passing through). The Critical Reason was coded as an illegal maneuver as V2 ran the red light. This information is based upon a witness statement given to the police, who stated he was stopped at the intersection; facing the direction V2 was coming from, waiting for the light to turn green.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

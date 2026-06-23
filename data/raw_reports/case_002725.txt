@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred during late afternoon daylight hours in the westbound lanes of an expressway that has four lanes in each direction which are divided by a concrete jersey barrier. All vehicles were westbound in the number four lane. The area of the crash is a straight, level, bituminous roadway with a posted speed limit of 89 kph (55 mph). At the time of the crash, the weather was clear, the roads were dry, and there were no sight restrictions or road defects. Traffic was typical moderate rush hour congestion. Vehicle one (V 1), a 2003 Hyundai Tiburon two door driven by a 25 year-old male was westbound in lane four. Vehicle two (V 2), a 1996 Nissan Sentra 200SX four door driven by a 65 year-old female was westbound ahead of V 1 and Vehicle three (V 3), a 2002 Chrysler Sebring convertible driven by a 35 year-old female was westbound ahead of V 2. V 2 and V 3 slowed, then stopped for traffic. V 1 did not stop and the front of V 1 struck the rear of V 2. The impact with V 1 propelled V 2 forward and the front of V 2 struck the back of V 3. All three vehicles came to final rest in their original lanes of travel on their approximate original headings somewhat beyond their respective points of impact. The driver of V 1 stated that the sun had glared off of the back-light of V 2 and that he was unable to recognize that traffic had stopped. The critical pre-crash event for V 1 was coded: Other Motor Vehicle in Lane, Traveling in same direction while decelerating. The driver was coming from work going to dinner and listening to the radio as she was driving. He indicated there was some sun glare in the direction she was traveling. He rarely drives this roadway. The Critical Reason for the critical pre-crash event was coded as a driver related decision error: too fast to be able to respond to unexpected actions of others (specified as: forward traffic was stop and go due to the rush hour). The critical pre-crash event for V 2 was coded: this vehicle traveling; this vehicle decelerating. The driver of V2 was not interviewed. The Critical Reason was not coded to this vehicle. V 3 was not involved in first harmful event. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Speed/Distance, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：This Vehicle Traveling- This vehicle decelerating
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

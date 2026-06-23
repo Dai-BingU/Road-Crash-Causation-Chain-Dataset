@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way four-lane road (2 lanes each direction) that runs east/west and is divided by a raised grass median. The grass median is broken intermittently with crossovers for turning traffic. The road was straight and level, running through a business district with a bank driveway intersecting from the south. The posted speed limit is 48kph/30mph. Conditions at the time of the crash were daylight and dry on a weekday in early afternoon. Vehicle 1 was a northbound 2001 Ford Taurus waiting to turn left (west) from the bank lot when a non-contact vehicle stopped in the right eastbound lane and waved Vehicle 1 out. Vehicle 1 proceeded to pull out when Vehicle 2, a 1998 Ford Escort that was traveling east in the left lane, struck Vehicle 1 on the left side with its front. Both vehicles came to rest within a meter of impact facing their original directions. Vehicle 1 was towed due to damage and Vehicle 2 was driven from the scene. Vehicle 1 was driven by a 44-year old belted female that was uninjured in the crash. Police issued her citations for failure to yield, no proof of insurance, and no valid license. The critical pre-crash event for Vehicle 1 was this vehicle traveling: turning left at intersection. The critical reason for the critical pre-crash event was a Decision error: False Assumption of other's action. The non-contact vehicle was coded as a sight restriction because the driver of Vehicle 1 said she could not see around it. False assumption was coded because the driver (V1) assumed the way was clear based on the non-contact driver waving her across. She also crossed with an obstructed view. A recognition factor was included; the impending problem was masked by the traffic flow pattern. The driver was wearing glasses to correct a nearsighted condition. Vehicle 2 was driven by a 56-year old female who was belted, as were both of her passengers. No one in Vehicle 2 was injured in the crash. Police issued her a citation for no proof of insurance. The critical pre-crash event for Vehicle 2 was other vehicle encroachment: from driveway, turning into opposite direction. The critical reason for the critical event was not coded to this vehicle. The only contributing factor coded to this vehicle was the non-contact vehicle sight restriction as the driver of Vehicle 2 said she didn't see Vehicle1 until it was past the non-contact vehicle. A recognition factor was included; the impending problem was masked by the traffic flow pattern.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Starting in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

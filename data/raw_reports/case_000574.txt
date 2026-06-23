@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash involving two vehicles occurred in the morning on a two-way, three lane (five overall), divided roadway without a positive barrier. The road was dry, traveled, level concrete. The posted speed limit is 56 kmph (35 mph).Traffic was moderate at the time of the accident. There were no adverse weather conditions. V 1 a 2001 Volkswagen Passat driven by a 30 year-old male was illegally parked eating his breakfast in the first travel lane. V 2 a 2002 Lincoln Continental driven by a 29 year-old male was westbound in the second travel lane. V 2 departed the right side of the second travel lane to avoid a third non-contact vehicle that had merged into the second travel lane from the third travel lane. The front of V 2 struck the rear of V 1. V 1 came to rest at the point of impact. V 2 came to rest just west of the point of impact between the first and second travel lanes. The parking was limited to specific hours. The critical event for V1 was other motor vehicle in lane traveling in same direction with higher speed. Critical reason not coded to this vehicle. The critcal event for V2 was coded going straight, category other motor vehicle in lane stopped. Critical reason driver related factor "external distraction" (driver stated vehicle came into his lane from his left)
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+Vehicle 2:  Distraction, Driver Performance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- External distraction

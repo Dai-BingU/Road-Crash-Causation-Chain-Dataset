@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred during early morning hours on a westbound expressway. The expressway consists of four traffic lanes; both sides of the travel lanes are bordered by a paved shoulder. The left shoulder has an adjacent short concrete jersey barrier, and the right shoulder has an adjacent ,uphill grassy embankment, then a concrete wall. The expressway is straight and level, and of bituminous construction. At the time of the crash, conditions were clear, there were no sight restrictions or road defects, and the posted speed limit for the expressway is 89 kph (55 mph). Vehicle one (V 1), a 2004 Toyota Camry sedan driven by a 60 year-old male, was westbound in the number one lane. The driver stated that he steered right to avoid a non-contact vehicle that was encroaching into his lane from the left. V 1 departed the road to the right. Three of V1's wheels impacted with a curb along the right shoulder and then V1 went up the embankment on a northwest trajectory in a clockwise yaw, contacted some shrubbery with its front left corner then the concrete wall with the front plane. After it rebounded from the wall, V1 rolled a total of 4 quarter turns back down the embankment. As V1 was rolling over it contacted a highway sign and came to final rest on its wheels on the shoulder facing generally west. The driver was transported to a local medical facility. V 1 was towed from the scene due to damage. The Critical Pre-Event movement was coded as going straight, category "This Vehicle Traveling - Off the edge of the road on the right side." The Critical Reason was coded "Driver Related Factor - Incorrect evasive action.". Associative Factors: The driver stated that he does not suffer from any illness, however, he also stated that he takes Prozac and Wellbutrin, both commonly prescribed for depression and also takes Flomax. Common side effects of the Prozac and Wellbutrin that are possible contributory factors include anxiety, nervousness, drowsiness.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

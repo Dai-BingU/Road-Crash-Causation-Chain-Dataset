@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on an interstate ramp that was oriented north/south. It had a slight curve right at the beginning that measured about 225m. At the end of the curve right was a dip with a grade of -4% that leveled out immediately. This portion of the ramp had only one lane. It then straightened and a second ramp merged from the right creating a two-lane roadway bordered on the right by a paved shoulder and on the left by a barrier wall. Conditions at the time of the crash were cloudy with rain at mid morning on a weekend. The speed limit was 89kph (55mph). Vehicle #1 was a 2002 Isuzu Rodeo Traveling north on the ramp when having just negotiated the curve and while in the dip it lost traction and began to rotate counterclockwise. It struck the barrier wall to its left with its front end at a shallow angle and continued to rotate striking the same wall a second time but with its rear. This was also a shallow angle and Vehicle #1 slid down (north) along the wall until coming to rest facing southeast on the left shoulder with the rear bumper still in contact with the wall. Vehicle #1 was towed from the scene. Vehicle #1, was driven by a belted thirty nine year old female, whose airbags did deploy in the crash. She was transported to a local hospital for treatment of possible injuries. The driver was on her way home from dropping her son off. The Critical Precrash Event for Vehicle #1 was this vehicle traveling off the edge of the road on the left side. The Critical Reason was too fast for rainy wet conditions. Once the vehicle began to fishtail the driver chose an inappropriate evasive action in trying to counter steer while braking. The driver overcompensated and showed poor directional control as well. Of note is the fact that the driver had only owned the vehicle for two months prior to the crash and had never driven an SUV before that point. She did claim that she was comfortable driving it. Rain and wet roads were also coded as contributing factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a jersey median-divided roadway. The westbound lanes are curved to the left and consist of four through lanes. The speed limit on this roadway is 97 kmph (60 mph). It was dark with streetlights on at the time of the crash and there were no adverse atmospheric conditions. Traffic was heavy due to rush hour congestion. Vehicle one (V1), a 1999 Cadillac Deville, was westbound in lane four. Vehicle two (V2), a 2001 Toyota Tacoma, was westbound in lane four in front of V1. V2 stopped for traffic. The front of V1 struck the back of V2. V1 was towed due to damage. The driver of V1, a twenty-three-year-old male, was traveling from his brother's home to his wife's workplace. He was healthy, well rested and familiar with his vehicle. He drives this route daily. When he realized that V2 was stopping, he applied the brakes in an attempt to avoid the crash. The driver of V2, a twenty-six-year-old female, was traveling from home to work. She was well rested, healthy and comfortable with her vehicle. She travels on this roadway daily. The pre-event movement for V1 was coded as "negotiating a curve." The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; too fast to be able to respond to unexpected actions of others." The pre-event movement for V2 was coded as "negotiating a curve." The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in same direction with higher speed." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

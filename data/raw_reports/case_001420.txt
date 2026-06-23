@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred off the left side of a two-lane undivided roadway in a wooded area. The crash occurred on a weekend in the late afternoon hours while still daylight. The roadway was dry, straight and level with a posted speed limit of 80 kmph (50 mph). V1 was a 1999 Buick Park Avenue sedan that was traveling westbound. The driver of V1, a 60-year old male, told police that a deer ran out into the roadway from his right. The driver of V1 swerved right and drove over a curb. He then steered to the left and departed the roadway to the left before striking a tree and coming to final rest. The driver of V1 sustained moderate injuries and was transported prior to the researcher's arrival. Police stated that he was traveling westbound when a deer ran across his path. He swerved right, drove over a curb, and then veered left. V1 was towed due to damage. The driver of V1 refused to be interviewed. The Critical Precrash Event for V1 was when an animal was in the roadway. The Critical Reason for the Critical Precrash Event was a performance error - overcompensation. One important associated factor coded to the driver of V1 was alcohol intoxication. Although the police report did not indicate that alcohol was involved, medical records indicated that the driver of V1 had a BAC of .21 an hour and a half after the crash. Another associated factor coded to the driver of V1 was inadequate evasive action. The police report indicated that there was no evidence of heavy braking on the part of the driver. This lack of braking pressure combined with over-steering may have been the result of alcohol use.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Driver Performance, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Animal in roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

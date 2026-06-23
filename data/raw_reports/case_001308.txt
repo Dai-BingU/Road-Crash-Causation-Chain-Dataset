@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle rear-end type collision occurred where a business driveway intersects with a two-way, four-lane, level, straight, bituminous, non-divided roadway. Parallel parking is allowed on both sides of the roadway and the parked vehicles were a partial view obstruction. No adverse weather present at the time of collision, but roadway was damp from a previous rainfall. There were no traffic control devices present. The speed limit is 35 MPH (56 KPH). V1, a 2003 Dodge Durango SUV with three occupants, was traveling west in lane one of a four-lane, two-way, undivided roadway. V2, a 2003 Honda Civic sedan with one occupant, was facing south in a business driveway waiting to turn right and go west. A motorist who was traveling to the left of V1 witnessed the collision. As V1 approached the intersection, V2 turned right into the path of V1. V1 was unable to perform any steering avoidance maneuvers due to parked vehicles on right side of travel lane and witness vehicle on left side of travel lane. V1 driver was able to brake, but only after collision occurred. The front of V1 contacted the rear of V2. After contact, V2 was pushed by V1, disengaged, and came to final rest approximately 41 meters from point of impact. V1 came to final rest in lane one with an unknown final rest position. The pre-event movement for V1 was coded "going straight. The critical pre-crash event was coded other vehicle encroachment-from crossing street, turning into same direction." The pre-event movement for V2 was coded "stopped in traffic lane." The critical pre-crash event was coded "this vehicle traveling-turning right at intersection."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Roadway present problem 
+Vehicle 2:  Decision, Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into same direction
+ 2 ：This Vehicle Traveling- Turning right at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

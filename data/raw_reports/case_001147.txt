@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekday morning on a two-way, two-lane, undivided residential roadway. The north/south roadway was straight and featured a negative 1.8% grade as it continued south. Recent traffic counts indicate the roadway carried 7,885 vehicles per day in the crash area where the posted speed limit is 64kmph (40mph). Conditions at the time of the crash were daylight and dry as there were no adverse atmospheric factors. V1, a 2002 Chevrolet Cavalier, was exiting an apartment complex parking lot that intersected the west side of the road. The driver turned right out of the parking lot intending to go south on the two-lane road. As V1 accelerated out of the parking lot it lost control. The vehicle went into the northbound lanes and back into the southbound lanes before departing the road to the left. After departing the road it went through a lawn and across a driveway prior to going down into a creek. Concrete walls on the north and south sides channeled the creek and the drop off into the creek from the driveway was 182 centimeters. V1 struck the south wall with its front and also sustained undercarriage damage. Its final rest was facing south with the front half of the vehicle on the south wall and the rear half in the creek 42 meters from roadway departure and 102 meters from the parking lot initially exited. The vehicle was towed due to damage. V1 was driven by a 24-year old female that was not belted. She was transported to a local hospital with minor injuries. The frontal airbags in the vehicle did not deploy and EDR data extracted from the vehicle indicated a deployment and non-deployment event several thousand ignition cycles prior to this collision. Apparently, the SDM had not been replaced after this earlier crash. The driver has a history of Bi-polar disorder, but has currently stopped taking her medication. The driver indicated that she had been in an argument with a friend at the apartment complex and left angry, she lost control as she exited the parking lot. The Critical Precrash Event for V1 was this vehicle traveling off the edge of the road on the left side. The Critical Reason for the Critical Event was a driver related factor, aggressive driving behavior (accelerating rapidly from a stop due to anger). Associated factors included fatigue; the driver stated she only got 2 hours sleep the previous night. She had been in a preceding argument, which was occupying her thoughts. She also was reportedly under stress at work due to tight/unrealistic production/delivery schedules. Other emotional and physical factors were also coded; to account for the driver being upset as well as suffering from the untreated bi-polar disorder.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Distraction, Driver Fatigue, Driver Physical, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior

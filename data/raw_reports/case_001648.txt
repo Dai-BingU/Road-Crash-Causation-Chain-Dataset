@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 1992 Ford Probe, was entering the northbound lane one of a 5 lane, 2 way, without a positive barrier, urban roadway from an entrance ramp with a yield sign. V2, a 1999 Ford Windstar minivan, was northbound in lane 1 of the 5-lane roadway passing by the entrance ramp. At the time of the crash, the bituminous roadway was dry, it was dusk but lighted and there were no adverse weather conditions. Lane 1 is wider at the point of the merge but there is not a full width merge lane present. While merging, V1, left, contacted V2, right. Both vehicles were towed. No injuries were sustained by the occupants of either vehicle. Complete interviews and inspections were obtained for both vehicles. No mechanical defects were detected for V1. The driver of V1 was cited in the crash. She was familiar with the vehicle and properly licensed for it but not so familiar with the roadway. She had just left the dentist and was in pain and taking pain medication. She was not in a hurry and, though she denied being fatigued, had experienced sporadic sleep habits in the days prior to the crash from a recent illness and the dental problems. There did not appear to be any evidence of excessive speed or aggressive driving on her part. Pre-crash movement for V1 was merging. This vehicle's Critical pre-crash event was traveling over the lane line on the left side of travel. The critical reason was coded to this vehicle for an illegal maneuver (failure to yield), trying to merge into an occupied lane. No mechanical defects were detected for V2. The driver was familiar with both the road and the vehicle. She also had driven less than 30 minutes at the time of the crash. She was properly licensed for the vehicle and was not cited. There were no indications of excessive speed, fatigue, aggressive driving or drug use being involved on her part. The movement of V2 was going straight. The Pre-crash event was other vehicle encroachment from the entrance to a limited access highway and a Critical event was not coded to this vehicle. Alcohol use by either driver was not found to be a factor in the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From entrance to limited access highway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

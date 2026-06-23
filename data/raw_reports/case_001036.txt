@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash mid-afternoon during daylight hours on a dry, divided, seven-lane, left curve, asphalt state highway. The highway runs north and south at the location of the crash. Northbound traffic has one right turn lane, two through lanes and one left turn lane. Southbound traffic has two through lanes and a lane that merges onto southbound traffic. Traffic flow is controlled by on-colors signal The posted speed limit is 64 kmph (40 mph) and there were no adverse weather conditions at the time. Vehicle one (V1), a 2005 Nissan Altima sedan driven by a 53 year-old female was traveling northbound in lane two. Vehicle two (V2), a 1981 Chevrolet G30 Van, driven by a 45 year-old male with one passenger was stopped in lane two at the intersection at a red light. The light turned green and vehicle two started to accelerate. As vehicle two drove into the intersection, it was struck from behind by vehicle one. Vehicle one traveled through the intersection and came to rest on its wheels facing north in lane two, just north of the intersection. Vehicle two was pushed forward and came to a controlled stop on its wheels facing north next to the curb in lane one. Vehicle one was towed from the scene. The driver of the V1 stated she had taken more medicine then usual, that morning for diabetes because her blood sugar level was too high. She also did not have lunch. She was coming home from the library that afternoon and was driving the opposite way. She was having a diabetic attack. She had almost hit some pedestrians at the 3600 block south. She then proceeded north and struck two vehicles before this crash. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction with lower steady speed. The critical reason for the critical event was coded to V1 as a driver related factor: heart attack or other physical impairment of the ability to act. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Inexperience, Driver Physical, Drugs present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, five lane, undivided urban roadway. The straight, level, concrete road had a posted speed limit of 64 kmph (40mph). Conditions at the time of the weekday afternoon crash were cloudy and dry. Interviews were obtained on-scene with both drivers and both vehicles were inspected. V1, a 1998 Honda Acura, driven by a 29 year-old male, was traveling eastbound on the road in lane one at approximately 56 kmph (35 mph), on his way from home to his university class. He had driven 70 miles and was within one mile of his destination. The driver of the Honda stated that he must have looked down for a moment, and when he looked up the traffic had come to a stop in the lane ahead of him. He braked and swerved to the left, but the front of V1 struck the back of V2. The driver steered his vehicle into the next driveway on the right and came to a stop. V2, a 1997 Pontiac Grand Am, driven by a 49 year-old female on her way home from work, was stopped in lane one behind another vehicle. The non-contact vehicle was stopped waiting to turn right into a restaurant driveway. A semi-truck was exiting the driveway waiting for traffic to clear to make a left turn, blocking the non-contact vehicles entry. The driver/witness of the non-contact vehicle, and the driver of V2, stated that they had been stopped for at least one minute. The driver of V2 stated that all of a sudden she saw V1 in her rear-view mirror coming up fast behind her, swerving left and striking her car. V2 rotated clockwise and came to rest in lane one, partially up on the curb facing southwest. V1 and V2 were towed from the scene due to damage. The fully restrained drivers of V1 and V2 refused treatment at the scene. The Critical Precrash Event coded to V1 was 'other motor vehicle in lane-stopped.' The Critical Reason for the Critical Event coded was 'driver related factor-recognition error-internal distraction.' The driver had no specific reason for looking down. A contributing factor was coded for 'traffic flow interruption' due to the stopped traffic waiting for the truck in the driveway. The Critical Precrash Event coded to V2 was 'other motor vehicle in lane traveling in same direction with higher speed.' The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

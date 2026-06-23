@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary Case 2007-159 The crash occurred on a north/southbound five-lane roadway with two lanes in each direction and a center left turn only lane at its intersection with an east/westbound driveway that extended eastward from the east edge of the road. The asphalt road was straight, dry and level with a posted speed limit of 56kmph/35mph. There were no traffic control devices. The crash happened on a weekday afternoon under sunny skies and with congested traffic, with stop and go activity. V1, a 2001 BMW 540i four door with one occupant was traveling westbound, attempting to make a left turn from a private driveway to southbound lane two. V2, a 1998 Oldsmobile Intrigue four door with one occupant was traveling northbound in lane two. A non-contact vehicle stopped in northbound lane one just south of the driveway, due to the congested traffic. The driver of V1 saw the driver of the non-contact vehicle wave for him to go ahead in front of him. The driver of V1 advanced across the northbound lanes and into the path of V2. The front of V1 struck the right front of V2 before it could safely complete its turn. After impact, V1 came to rest still in contact with the right side of V2, facing southwest, approximately 5 meters south of the impact point straddling northbound lanes one and two. V2 came to rest facing northwest straddling northbound lane two and the left turn only lane. Both vehicles were towed from the scene due to damage. V1, the BMW 540i, was driven by a 50-year old male who was not injured. He reported that he had just left the bank behind him and that he had been stopped 3-4 seconds in the driveway yielding to traffic waiting to turn left. He added that, when he saw the driver of the non-contact stop and signal for him to go ahead, he looked but could not see anyone coming in lane two due to the heavy traffic. He said he started across the northbound lanes and struck V2 without ever seeing it or taking any evasive action. He also added that sun glare obscured his vision as he was traveling westbound. The Critical Precrash Event for V1 was this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was driver related turned with an obstructed view. Associated factors were assigned to V1 for driver behavior, recognition - inadequate surveillance, looked but did not see; and other recognition fact impending problem masked by traffic flow pattern (the traffic in lane one); for driver behavior, aggressive, other decision factor - turned with an obstructed view, for driver behavior, performance, in a hurry normal driving pattern (by his own admission); and for other, highway, congested traffic flow and sightline restriction caused by the other northbound vehicles. V2, the Oldsmobile Intrigue, was driven by a 32-year old female who was not injured. She reported that she was traveling from work to lunch at 48-64kmph/30-40mph. She said that she never saw V1 because of the line of traffic northbound in lane one and took no evasive action before being struck from her right by V1. The Critical Precrash Event for V2 was other vehicle encroachment from driveway turning into opposite direction. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors were assigned to V2 due to presence for other, vehicle - tire deficiency, because the left back tire had very low tire pressure; and for other, highway - due to congested traffic flow.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Roadway, Traffic, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

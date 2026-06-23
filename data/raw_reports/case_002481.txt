@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a dry, downhill, seven-lane, bituminous, median-divided roadway with no positive barrier. This roadway intersects with a dry, two-lane, uphill, undivided, two-way roadway that runs north to south. This intersection is controlled by a stoplight (on colors) with no pedestrian signals. The speed limit on the roadway is 72 kmph (45 mph). The crash occurred during daylight hours with no adverse atmospheric conditions at the time of the crash. Vehicle one (V1), a 1997 Pontiac Grand Am was stopped at the intersection in lane four. Vehicle two (V2), a 2000 Lincoln Continental was traveling eastbound in lane one. V1 turned left at the intersection. The front of V1 impacted the front of V2. Both vehicles then side slapped with the right of V1 impacting the left of V2. The front of V2 then contacted a utility pole. Both vehicles came to rest off of the roadway facing east. Both vehicles were towed due to damage. The driver of V1, a twenty-one year old male was stopped at the light. This driver was returning to work on his lunch break. This driver had been only driving for a few minutes at the time of the crash. The driver stated that the light turned green and he thought he had a protected green arrow and he turned left. The intersection is not equipped with protected left turn arrows. This driver stated that he had seen the opposing traffic but thought that he had the right of way. This driver drives this vehicle daily and over this road daily. The driver of V2, an eighty-seven year old female, had been driving on this trip for about twenty minutes. This driver did not see V1 till it made the left turn. This driver drives this vehicle daily and on this roadway on a weekly basis. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical pre-crash event was attributed to V1 and was coded as a driver related factor: false assumption of other's actions. This driver thought the other traffic would yield the right of way. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction-over left lane line. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+Vehicle 2:  Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

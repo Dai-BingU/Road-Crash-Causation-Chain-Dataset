@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a five-lane roadway. There were two northbound and two southbound lanes divided by a left-turn lane. This was a straight, bituminous roadway with a positive grade and a posted speed limit of 56 kmph (35 mph). It was afternoon and the road was dry and the sky was cloudy. Traffic was flowing. V1, a 1998 Chevrolet Blazer four door with one occupant was traveling northbound in the left-turn lane. V2, a 1996 Pontiac Grand Am two door with one occupant was traveling southbound in lane one. The driver of V1 stated that he was going to turn down a side street and into the gas station. A car had just come out of nowhere and cut into the gas station. The driver was focused on this vehicle and did not see V2. V1 attempted to make the left turn. The driver of V2 stated that he did not see V1 until he began to turn because there was another vehicle ahead blocking his view, so he did not have time to attempt an avoidance action. The front of V2 contacted the right of V1 before they both came to final rest in the roadway. V1, the Chevrolet Blazer, was driven by a 40-year old male who reported no injuries. He advised that he had just left home and was on his way to the gas station. He advised that he was traveling between 2-16 kmph (1-10 mph) and was stopped in the turn-lane for an unknown amount of time prior to the crash. He did not make an evasive action because he did not see V2. The Critical Precrash Event for the driver of V1 was this vehicle traveling: turning left at intersection. The Critical Reason for the Critical Precrash Event was a driver related factor: external distraction, because the driver was focused on another vehicle turning in front of him instead of looking to either side to make sure his path was clear. An associated factor for the driver of V1 was that he was not wearing his glasses at the time of the crash. V2, the Pontiac Grand Am was driven by a 32-year old male who reported no injuries. He advised that he had come from looking for a car and was on his way to get a haircut. He advised that he had been traveling between 50-64 kmph (30-40 mph) when V1 suddenly turned in front of him. He could not avoid V1 and had no time to attempt an avoidance action. The Critical Precrash Event for the driver of V2 was other vehicle in lane: from opposite direction over left lane line. The Critical Reason was not to this vehicle. Associated factors for V2 was that the driver had only driven this car 2-5 times in the past three months, but he stated that he was comfortable with it. Another was there was a vehicle blocking his view of V1 so he could not react in time.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

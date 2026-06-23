@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of an east/west interstate that was divided by a concrete barrier wall. There were three eastbound lanes with left and right paved shoulders and rumble strips. The interstate curved south (right) in the area of the crash with a radius of 1023 meters. The posted speed limit was 113kph (70mph). Conditions at the time of the crash were dark, unlit, and dry on a weekday evening near the end of rush hour. Vehicle #1 was a 1999 Nissan Sentra that was traveling east on the interstate in the far left lane (lane 3). Vehicle # 1 drifted to its right over the lane line into the center lane and struck Vehicle #2, an unknown tractor-trailer, that was coded on the police report as hit and run. Vehicle #1 struck Vehicle #2 with its right side and then veered left away from the tractor-trailer, flattening its left front tire. Vehicle #1 came to rest on the left shoulder of the interstate facing east and was towed from the scene. Vehicle #2 continued eastbound and was not located. Vehicle #1 was driven by a twenty-year old belted female whose airbags did not deploy and was not injured in the crash. Her right front passenger was also belted and uninjured in the crash. Interestingly, they had a pet ferret loose inside the vehicle at the time of the crash and were on their way home (to another state) from vacation. The Critical Pre-crash Event for Vehicle #1 was this vehicle traveling over lane line on right side of travel lane. The Critical Reason for the Critical Pre-crash Event was coded fell asleep. On scene the driver was visibly drowsy to the researcher and not very sure of how she came into contact with Vehicle #2. Poor directional control was also coded as a contributing factor. The Critical Pre-crash Event for Vehicle #2 was other vehicle encroachment from adjacent lane over left lane line. The Critical Reason was not coded to this vehicle. Due to this being a hit and run crash with no vehicle present no contributing factors were coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Inexperience, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

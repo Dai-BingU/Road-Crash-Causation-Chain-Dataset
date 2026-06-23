@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of a weekend in the southbound lanes of a four-lane divided highway. The north/south highway consisted of two lanes in each direction divided by a wide grassy and forested median. The bituminous highway was dry, straight, and level with a posted speed limit of 89 kmph (55 mph). The traffic flow was a bit heavy due to a holiday season, but there were no adverse atmospheric conditions at the time of the crash. V1, a 2000 Volvo S70 with one occupant, was southbound in lane one. V2, a 2003 Volvo S40 with one occupant, was also southbound in lane one ahead of V1. V3, a 2007 Toyota Camry with two occupants was southbound in lane one in front of V2. V4, a 2001 Nissan Maxima with four occupants, was in front of V3. V5, a 2005 Toyota Camry with 1 occupant, was traveling in front of V4. V1 failed to stay at a safe distance behind the other vehicles and struck V2 in the rear. V2 was pushed forward and struck V3 in the rear. V3 then struck V4 in the rear. Finally V4 struck V5 in the rear. All vehicles came to a rest near their respective points of impact before being moved onto the shoulder of the highway. The driver of V1, a 24-year-old female, reported no injuries. She did not want to say much on scene claiming that the other drivers involved in the crash were acting hostile towards her and she felt threatened. She later stated that she was unsure of what happened and that all of the sudden, it seemed as if everyone slowed down suddenly causing her to rear-end V2. She was not very forthcoming and did not want to answer many question because of her presumed guilt. The Critical Precrash Event for V1 was coded other motor vehicle in lane, traveling in the same direction with lower steady speed. The Critical Reason was a driver related error, inattention. There were no known associated factors, as the driver did not convey much information regarding the crash. The driver of V2, a 55-year-old female, was transported for treatment of minor injuries. Her son arrived on the scene shortly after the crash and relayed to this researcher that his mother said she looked in her rearview mirror she saw a vehicle (V1) coming at her and she was struck. On a follow-up attempt the driver refused an interview pending litigation. The Critical Precrash Event for V2 was coded other motor vehicle in lane traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. There were no known associated factors that could be coded to this vehicle. The driver of V3, a 42-year-old male, was uninjured in the crash. The driver could not be reached for an interview. The Critical Precrash Event for V3 was coded other, not involved in the first harmful event. The Critical Reason was not coded to this vehicle. There were no known associated factors that could be coded to this vehicle. The driver of V4, a 34-year-old male, was uninjured in the crash. The three other occupants in the vehicle all suffered minor injuries and were transported for treatment. The driver could not be located for comment, but was not thought to have contributed to the crash. The driver of V5, a 57-year-old female suffered minor injuries and was transported for treatment. She refused to be interviewed. She was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

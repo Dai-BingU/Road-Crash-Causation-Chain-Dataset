@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle rear-end crash occurred in the early afternoon in the westbound lane of a roadway near a T-intersection. The east/west roadway was composed of one lane in each direction and featured a posted speed limit of 56 kmph (35 mph). The bituminous roadway was dry, straight, and level. The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. Vehicle one (V1), a 2001 Nissan Pathfinder, was westbound on the roadway approaching the intersection. Vehicle two (V2), a 2001 Chevrolet Impala, was stopped at the T-intersection preparing to turn left ahead of V1. V1 failed to stop behind V2 and the front of V1 contacted the back of V2. After the impact, both vehicles continued forward slightly, before coming to final rest in the westbound lane near the point of impact. Both vehicles were than moved to the shoulder of the roadway. V2 was towed from the scene due to damage while V1 was driven away. The driver of V1, a 40 year-old female, did not suffer any injuries as a result of the impact and did not require any medical attention. There were no other occupants in the vehicle when the crash occurred. A complete interview was obtained from this driver on-scene. She explained that she was reading directions while driving. She looked down to read what her next turn was going to be, and then when she looked up, she noticed V2 had stopped in front of her to make a turn. She tried to brake but it was already too late and contacted the back of the vehicle. She claimed that she was not all that familiar with the area, which is why she needed directions to get to her destination. The Critical Precrash Event coded to V1 was other motor vehicle in lane, other vehicle stopped. The Critical Reason was coded as a driver related factor, an internal distraction. One associated factor coded to this driver was inexperience as she rarely drives this roadway. The driver of V2, a 51 year-old male, suffered non-incapacitating injuries as a result of the impact and was transported to a medical facility for treatment. There were no other occupants in the vehicle when the crash occurred. After numerous attempts, an interview could not be obtained from this driver. For this reason, it is uncertain if any recognition, fatigue, or health related factors contributed to this crash. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. There were no known associated factors coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience present problem 
+Vehicle 2:  Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

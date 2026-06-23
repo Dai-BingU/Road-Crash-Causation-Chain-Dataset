@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the grass median of a three-lane divided highway just before an intersection crossover. There were two eastbound lanes and a left turn lane prior to a signal-controlled crossover. The roadway had a posted speed limit of 89 kmph (55 mph) and a level grade. Conditions were daylight and dry with cloudy skies. The setting was late afternoon on a weekday. Vehicle one was a 1999 Cadillac Deville sedan traveling eastbound in lane one. V1 traveled left across lanes two and three before departing the roadway into the grass median. V1 then impacted an embankment and concrete drainage pipe at the intersecting crossover. V1 came to rest in the median one meter east of the point of impact. The Cadillac Deville (v1) was driven by a 73-year old male who was transported to a local trauma center with non-incapacitating injuries. He stated that he had been running some errands in town and was returning home. He doesn't recall the events of the crash due to a loss of consciousness. The investigating officer estimated his travel and impact speeds to be 89 kmph (55 mph) and 80 kmph (50 mph). The Cadillac sedan was towed due to damage. The Critical Precrash Event for v1 was this vehicle traveling off the edge of the road on the left side. The Critical Reason was a driver related factor consisting of a physical impairment of the ability to act. According to the EMS dispatch and police on scene, the driver of v1 suffered a stroke prior to losing control of his vehicle. The driver indicated a loss of consciousness followed by open heart surgery later at the hospital. This driver wore glasses for a nearsighted condition. He took prescription medications for high blood pressure and high cholesterol. No associated vehicle factors were present.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

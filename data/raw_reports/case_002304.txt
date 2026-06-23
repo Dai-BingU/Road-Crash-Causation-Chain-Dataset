@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred early evening involving two passenger cars at a signalized intersection with a stop sign. The speed limit for the roadway is 64 kmph (40 mph). The west east road is a three lane (six lanes overall) divided (no positive barrier) asphalt roadway. The north south road intersecting with the main road is a two way undivided asphalt roadway. The road surface was wet and slick from light rainfall. The roadway is illuminated at night. Vehicle one (V1), a 2002 Ford Escape, was traveling west in the second lane. The driver had just left a shopping area after shopping. Vehicle two (V2), a 1995 Pontiac Grand Prix, had just left a business parking lot after the driver and his spouse had dined at a restaurant. V2 was stopped at the stop sign of the southbound travel lane before proceeding through the intersection with the intend to make a left turn into the eastbound lanes. V2 was stopped at the stop sign for more than 10 seconds because the east-west road is heavily traveled. The front of V1 impacted the left side of V2. At impact V2 rotated counter clockwise and came to rest within the intersection, facing north. V1 rotated counter clockwise and came to rest within the intersection facing south. The driver of V1, a 17-year-old female who claimed to be well rested and in good health. She was not in a hurry, no previous arguments not conversing, and was attentive to the driving task. She did not seem hyper active or sleepy at the scene. She is wearing contact lenses when she drives. The corrected vision was not known. There was no indication of alcohol or drug involvement. She slept 8 hours the night before the crash. She drivers the route weekly and is very familiar with the vehicle. When she recognized the other vehicle, the driver applied the brakes but was unable to bring the vehicle to a complete stop due to the slick road surface. The critical pre-crash event for V1 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. No critical reason was coded for the critical event. The driver of V2 is an 81-year old male who possesses a valid driver's license with no restrictions or endorsements. He drivers the route weekly and is familiar with the vehicle. He had just left restaurant parking lot next to the intersection. He was not in a hurry, no previous arguments not conversing, and was attentive to the driving task. He said he waited for a long time before attempting to turn left and his vision was clear. At the scene inspection a day later the researcher observed and documented the traffic flow from the same perspective the driver of V 2 had while stopped at the stop sign. Due the rain, a large tree and a utility pole, the line of sight to the left of the driver was limited especially during the night and raining conditions at the time of the crash. It could have been a factor for the driver to misjudge the speed of V1. The driver realized an impact was imminent after he entered the intersection. He unsuccessfully tried to accelerate to prevent the collision. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection . The critical reason for the critical event was coded to V2 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but didn't see).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Weather/Environment present problem 
+Vehicle 2:  Decision, Drugs, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

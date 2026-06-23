@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in the westbound lane of a 3-lane undivided rural roadway. The roadway is straight, flat and has a posted speed limit of 79 kmph (45 mph). The weather condition was cloudy, overcast, and dry. V1 was traveling west in the front of a pack of vehicles, including V2 and V3, when it slowed down for the traffic ahead of it. V2 struck the back of V1 and subsequently V3 struck the back of V2. V1 had minor damage to its rear bumper and was driven from the scene. V2 and V3 were both towed from the scene and there were no injuries reported from anybody involved in this crash. V1, a 1995 Honda Accord, was driven by a 49-year-old male that was traveling west on this 3-lane roadway when it was struck from behind by V2. This driver reports he was slowing down because traffic ahead of him was slowing down, and while he did not stop, he did slow to about 5 mph when the crash happened. Following the crash, he drove off the roadway and was not involved in the second collision. The Critical Precrash Event for V1 was coded: other vehicle in lane traveling in same direction with higher speed and the Critical Reason was not coded to this vehicle. V2, a 1995 Nissan Maxima, was driven by a 36-year-old male that was traveling west on this 3-lane roadway when V1 suddenly stopped causing this driver to immediately hit the brakes and steer right. This driver reports the vehicle (V1) did not use a turn signal nor were the brake lights on before it stopped. He said he was able to slow down and "barely bumped" the back of V1 but, shortly after stopping he was struck in the rear by V3. After t-ball practice, he began to drive to his first softball practice of the season. He said he rarely drives on this roadway and had never been to the field where the practice was to be held. He denies he was distracted by any external or internal factors ("radio doesn't even work") and that even though he is near-sighted, he was aware of the distance between his vehicle and the traffic around him. The Critical Precrash Event for V2 was coded: other vehicle traveling in lane traveling in same direction while decelerating and the Critical Reason for the Event was coded: following too closely to respond to unexpected actions. V3, a 1997 Chevrolet C-1500, was driven by a 34-year-old male that was keeping up with traffic this afternoon as he drove west on the same roadway as V1 and V2. He was traveling behind both V1 and V2 at approximately 45 mph but an unknown gap distance when V1 suddenly stopped without warning. His story was similar to V2's story in that they both claimed V1's brake lights never came on. This driver locked his brakes when he saw the vehicles ahead of him slow down, but he could not stop in time to avoid colliding with V2. This driver works 60-70 hours per week hanging dry wall and today was the first day he did not work in 14 days. He woke up this morning and visited a friend's auto repair shop today to replace the bench seat in his truck with bucket seats. After replacing the seats, he began to drive home and was involved in this crash. The Critical Precrash Event for V3 was coded: not involved in first harmful event and the Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway present problem 
+Vehicle 2:  Decision, Driver Inexperience, Roadway, Speed/Distance present problem 
+Vehicle 3:  Decision, Driver Stress/Emotion, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

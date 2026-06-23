@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a five-lane residential roadway. There was an intersecting street on the north side of the roadway. The east/west roadway was divided by a two-way center turn lane. The roadway had a posted speed of 56 kmph (35 mph) and a 3% downhill grade in the westbound direction. Conditions were daylight and dry with clear skies. The setting was morning hours on a weekday. Vehicle one was a 1995 Isuzu Trooper sport utility stopped facing south at the intersecting street waiting to turn left. Vehicle two was a 1995 Nissan Maxima sedan traveling westbound in lane two going over a hillcrest. V1 proceeded to turn left. The front plane of V2 impacted the left plane of V1. V! subsequently rolled one quarter turn to the right. Both vehicles came to rest in the roadway facing south. The Isuzu Trooper (V1) was driven by a 25-year old female who was transported to a local hospital with possible injuries. The driver could not be located for an interview. The investigating officer estimated her travel and impact speeds to be 16 kmph (10 mph). The sport utility was towed due to damage. The Critical Precrash Event for V1 was “this vehicle traveling turning left at an intersection”. The Critical Reason was an “unknown reason”. The tread depth for two of the tires was minimal. The Nissan Maxima (V2) was driven by a 25-year old male who was transported to a local hospital with possible injuries. He stated that he was heading home from running an errand when V1 pulled out in front of him from a cross street. He said the other vehicle pulled out and then stopped blocking the lane. He braked but was unable to avoid the collision. He estimated his travel and impact speeds to be 56 kmph (35 mph) and 40 kmph (25 mph), respectively. The vehicle was towed due to damage. The Critical Precrash Event for V2 was “other vehicle encroachment from a crossing street turning into the opposite direction”. The Critical Reason was not coded to this vehicle. This driver wore glasses for a nearsighted condition. The tread depths and tire pressures of this vehicle were not all at a safe level.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+Vehicle 2:  Aggressive Behavior, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Unknown Reason - Unknown reason for critical event
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

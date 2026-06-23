@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekday morning in the intersection between a two-way, four-lane, undivided, urban roadway and the exit of a gas station. The east/west roadway consisted of two lanes in each direction as well as curbside parking lanes in both directions The bituminous roadway was straight and level and featured a posted speed limit of 40kmph (25 mph). The roadway was wet from the rain that was falling at the time of the crash. V1, a 1994 Nissan Maxima, was stopped in the exit of a gas station located on the south side of the roadway intending to turn left onto the roadway. V2, a 2003 Nissan Altima, was eastbound in lane two approaching the exit of the gas station. As V1 began its left turn its front struck the front right corner of V2. The impact redirected V2 across the two westbound lanes of traffic where it struck V3, a 2002 Acura TL that was legally parked on the side of the road. V1 came to final rest facing west near the initial point of impact while V2 came to final rest against V3 blocking the westbound lanes of traffic. V1 was driven by an 18-year-old female, who had just gotten gas at the station and was continuing on her way to work. She stated that at the exit she looked to her left and then to her right and was sure there wasn't any oncoming traffic, in either direction so she proceeded. As she continued her turn she struck V2, which came out of nowhere. She later stated that maybe she was so focused on her turn destination and she neglected to look at the traffic lanes nearest to her. She rarely travels on the roadway and was only on it because she needed gas. She was not injured but V1 was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle traveling, over the lane line on the right side of the travel lane. The Critical Reason for V1 was coded a driver related factor, inadequate surveillance. Associated factors include inexperience as she was a new driver and rarely drove this road. Failure to look to either side ahead and the wet roads were also coded. The driver of V2, a 53-year old female, who was also on her way to work. She stated she saw V1 coming out of the gas station drive way, when she realized she was not going to stop she slammed on her brakes and steered left in an attempt to avoid contact but it was too late. She was taken to the hospital various minor injuries and V2 was towed due to damage. The Critical Precrash Event for V2 was coded other motor vehicle encroachment from driveway across path. The Critical Reason was not coded to this vehicle. The only associated factors coded to this vehicle were the rain and wet roads but the driver was not thought to have contributed to the crash. V3, which was unoccupied sustained only minor damage and was left parked, on-scene.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Driver Physical, Drugs, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

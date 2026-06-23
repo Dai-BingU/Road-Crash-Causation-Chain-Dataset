@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred in the late morning of a weekend in the westbound lanes of a divided, rural highway. The highway consisted of three lanes in each direction, flanked by paved shoulders and divided by a grass median with a cable guardrail running along the center. The bituminous roadway was dry, straight, and level with a posted speed limit of 104 kmph (65 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. Vehicle one (V1), a 1999 Chevrolet 2500 pickup, was westbound in lane three. Vehicle two (V2), a 2005 Jeep Grand Cherokee Laredo, was also westbound, directly ahead of V1 in lane three. Vehicle three (V3), a 1988 Jeep Comanche pickup, was stopped facing west on the left shoulder ahead of vehicles one and two. V3 pulled into lane three traveling at a very slow rate of speed on this interstate highway. V2 began decelerating to avoid an impact. V1, traveling behind V2, did not alter his speed. The driver of V2 noticed V1 rapidly approaching in the rearview mirror, and began pulling left onto the shoulder to avoid impact. V1 braked, but could not avoid a collision with V2. The left side of V1 impacted the back right corner of V2. V2 came to rest on the left roadside. V1 continued forward in lane three, and struck the back of V3 with its front. V3 then traveled off the left roadside, impacted the median guardrail with its front, and rolled over one quarter turn onto its right side. V3 came to rest at the point of rollover. V1 also traveled off the left roadside and impacted the median cable guardrail with its front. V1 came to final rest against guardrail. Note that both V1 and V3 were carrying full loads of boxed produce in their cargo beds. This produce spilled all over the roadway post-impact. The driver of V1, a 64-year old male, was transported to a local trauma center with non-incapacitating injuries. He was unable to be located for an interview. The investigating officer estimated his travel and impact speeds to be 104 kmph (65 mph) and 96 kmph (60 mph), respectively. The pickup was towed due to damage. The Critical Precrash Event for V1 was coded other motor vehicle in lane traveling in the same direction while decelerating. The Critical Reason was an unknown driver error. There were no known associated factors that could be coded to V1. The driver of V2, a 17-year old male, was uninjured as a result of the crash. He is a full-time student and drives this road on a monthly basis. He stated that he was heading back to school from home when a produce truck stopped in the median re-entered the highway causing the crash. He attempted to avoid the vehicle behind him but could not move over far enough. He estimated his travel and impact speeds to be 112 kmph (70 mph). V2 was driven from the scene The Critical Precrash Event for V2 was coded this vehicle traveling (decelerating). The Critical Reason was not coded to this vehicle. Inexperience was coded as an associated factor as he has only been driving for a period of 21 months. The driver of V3, a 47-year old male, was transported to a local trauma center with non-incapacitating injuries. He was unable to be located for an interview. The investigating officer estimated his travel and impact speeds to be 72 kmph (45 mph). The pickup was towed due to damage. No Critical Precrash Event or Reason was coded to V3, as it was not involved in the first harmful event. There were no known associated factors that could be coded to V3.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs present problem 
+Vehicle 2:  Driver Inexperience present problem 
+Vehicle 3:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Leaving a parking position
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：This Vehicle Traveling- This vehicle decelerating
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

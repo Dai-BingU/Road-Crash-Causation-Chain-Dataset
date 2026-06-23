@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the intersection of a 4-way signalized intersection. The intersection, which historically had four stop signs for each direction, is now controlled by pre-timed traffic signals that were installed only 12 months earlier. At the location of this crash, all four directions were 2-lane undivided roads with an additional left-turn lane at the intersection. The conditions were a rainstorm, dark without street lamps, and early in the evening of a Monday. V1, a 2005 Honda CR-V, was traveling south in lane 2 approaching the intersection. V2, a 2005 Toyota Tacoma, was traveling north in lane 1 toward the same intersection. Both vehicles entered the intersection and V1 made a left turn and the front of V2 struck the right side of V1. Two children in V1 were transported to a hospital for injuries suffered in the crash but neither vehicle was towed due to disabling damage per PAR coding. V1 was driven by a 34-year-old male that declined an interview. He was arrested for driving while impaired with a BAC result of .19. The Critical Precrash Event for this driver was coded: (25) turning left at intersection and the Critical Reason for the Event was coded: (124) misjudgment of gap or other's speed. Associated factors also coded for this driver include wet roads and rain. V2 was driven by a 17-year-old male that also refused an interview. The Critical Precrash Event for this driver was coded: (62) other vehicle encroaching from opposite direction-over left lane line and the Critical Reason for the Event was not coded for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

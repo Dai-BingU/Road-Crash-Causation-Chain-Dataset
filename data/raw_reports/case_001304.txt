@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash took place in a four-way intersection. The intersection is controlled by tri-color traffic control devices. That day the weather was clear and the roadway was dry. The north/south portion of the roadway consists of two lanes, one in each direction, with no barrier separating the lanes only double yellow lines. The east/west portion of the intersection also consists of two lanes, one in each direction, and is not physically divided by barrier only double yellow lines. V1 a 1998 Honda Civic EX was traveling eastbound and V2 a 1996 Nissan XES was traveling southbound. V1 went through the intersection even though his light had turned red. V2 entered the intersection with the green light. V1's front contacted V2's right side. The driver of V1 states that they were driving towards the intersection and did see the light but was "stuck" and was unable to react in time to stop at the light. The driver states that he entered the intersection on a solid red light and struck V2 on its left side between the "A" and "B" pillars below the beltline. V1 came to rest on the other side of the intersection after impact. The Critical Pre-Crash Event was coded to this vehicle as: this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Pre-Crash Event was coded as: recognition error, inattention (i.e. daydreaming). Associative factors: The driver of V1 has been working 10 hours a day for the past two weeks due to a death in his bosses family (the driver of V1 is the Assistant Manager). The driver of V2 says that they were on their way to the barbershop when he stopped at the light. The light turned green and driver of V2 entered the intersection when V1 entered the intersection at a high rate of speed and struck V2 on its right side with V1's front. The passenger in the front was transported with minor injuries. The Critical Pre-Crash Event for this vehicle was coded as: other vehicle encrochmen, from crossing street, across path. The Critical Reason for the Critical Pre-Crash Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Stress/Emotion present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

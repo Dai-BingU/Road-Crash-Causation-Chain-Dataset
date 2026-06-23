@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred at the approach to a stop light controlled intersection of a five-lane two-way roadway and an intersecting four-lane two-way roadway. The bituminous roadways were dark, but lighted, and the weather was blowing snow and sleet. The roadway was ice, snow and slush covered, and straight and level. The speed limit on the roadway is 56 kmph (35 mph). Vehicle one, a 1995 Buick Riviera was eastbound in the first lane approaching the intersection. Per the driver interview, the stoplight turned red and the driver began to apply the brakes. Vehicle one began to slide, and the driver continued applying brakes. Vehicle one slid off the roadway to the right and struck a concrete lamp pole base, 90 cm (35") diameter and 40 cm (16") tall. After impact vehicle one began a clockwise rotation and came to final rest in the first eastbound lane facing northwest. Vehicle one was towed from the scene. The driver of vehicle one, a twenty-three year old female was heading home from work. It is unknown how long this driver had been driving but according to the driver it was under one half hour. This driver stated that the light turned red and she started to brake but the roads were slick and the vehicle left the road. This driver drives this vehicle daily and over this road on a daily basis. The critical pre-crash event for vehicle one was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical pre crash event was coded to vehicle one as an environment related factor: Slick roads (low friction road surface due to ice).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)

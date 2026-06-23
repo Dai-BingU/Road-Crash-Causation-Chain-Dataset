@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a traffic signal-controlled intersection. The east/west roadway is straight and divided. The eastbound approach lanes are uphill and consist of three through lanes, a left turn lane and a right turn lane. The intersecting roadway north of the intersection is undivided, level and straight, with one lane in each direction. The speed limit for both of these roadways is 72 kmph (45 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1996 Honda Accord, was eastbound in lane three, approaching the intersection. Vehicle two (V2), a 1998 Nissan Altima, was stopped southbound in lane one waiting for a green signal at the intersection. Both vehicles entered the intersection and the front of V2 struck the left side of V1. After rotating, the left side of V1 struck the right side of V2. Both vehicles were towed due to damage. The driver of V1, a sixty-five-year-old female, was traveling from a bank to a store. She was well rested and familiar with her vehicle. She drives this route weekly. This driver was not comfortable with the density of the traffic on this route and was looking ahead for a location to turn around to take an alternate route. She stated that she did not notice the traffic signal or V1. The driver of V2, a fifty-eight-year-old female, was traveling from work to a store. She was well rested and comfortable with her vehicle. She drives this route monthly. This driver stated that she proceeded into the intersection after her signal turned green. The critical pre-crash event for V1 was coded as "other vehicle encroachment; from crossing street, across path." The critical reason for the critical pre-crash event for V1 was not coded to this vehicle. This driver's focus on looking for a place to turn around and her failure to look to either side ahead were associated factors in this crash. The critical pre-crash event for V2 was coded as "this vehicle traveling; crossing over (passing through) intersection." The critical reason for the critical pre-crash event for V2 was coded "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Surveillance present problem 
+Vehicle 2:  Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

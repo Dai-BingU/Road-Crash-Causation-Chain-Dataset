@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the northbound lanes of a five-lane, two-way, dry asphalt roadway. There were two southbound lanes and two northbound lanes divided by a two-way left turn lane. The bituminous roadway curved left and featured a posted speed limit of 56 kmph (35 mph). It was late evening and the road was dry and the sky was clear. Traffic was flowing. V1, a 2005 Chrysler Sebring four-door with two occupants, was westbound in lane one negotiating the curve. The passenger of V1 thought the driver was traveling too fast and jerked the wheel; the driver over-steered in the opposite direction causing the driver to lose control. V1 spun counter-clockwise and its left side struck a concrete traffic barrier before coming to final rest in the roadway facing southeast. V1 was towed due to damage. The driver of V1, a 58-year old female, reported no injuries. She had just left her daughter in law's house and was on her way home. She was currently taking Vicodin and Lexapro, as well as mourning her boyfriend who recently passed away. She also claimed that she had been drinking that night. She stated that she had been traveling between 50-64 kmph (31-40 mph) prior to her son jerking the wheel. She believed her son thought that she had fallen asleep behind the wheel (which she done in the past). She attempted to brake but could not avoid contacting the barrier. The Critical Precrash Event for V1 was coded this vehicle loss of control due to driver over-reacting when the passenger jerked the wheel. The Critical Reason for the Critical Event was a driver related error, poor directional control. Associated factors coded to the driver of V1 include the medication she was taking, the fact that she had been drinking, and that she was thinking about her deceased boyfriend.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Distraction, Driver Performance, Driver Physical, Driver Stress/Emotion, Drugs, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Other cause of control loss (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

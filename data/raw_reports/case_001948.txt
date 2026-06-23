@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on a two way, two lane, rural US highway that was straight and runs east / west. There was a minus 2% grade (if westbound). It was intersected on the south side by a rural two way, two-lane side street. The posted speed limit on the US highway was 80KPH / 50MPH and conditions were daylight and dry in the early afternoon on a weekday. Vehicle 1 was a 1999 Ford Contour traveling westbound on the US highway. After it crested a very brief rise and went down the slight grade the driver noted Vehicle 2, a 2003 Ford F250 Extended Cab towing a trailer loaded with five thousand pounds of fertilizer, that was stopped on the US highway (facing west) waiting to turn left on the side street. Vehicle 1 attempted to swerve right and brake to avoid the collision, but hit the rear plane on the right side of the trailer causing superficial damage to the suspension of the trailer. Vehicle 1 then rotated counterclockwise 90 degrees and came to rest within a few meters of impact, partially in a ditch on the right side of the road facing south. Vehicle 2 was pushed forward and came to rest still in its original travel lane facing west about ten meters west of impact. Vehicle 1 was towed from the scene due to damage; Vehicle 2 was driven from the scene. Vehicle 1 was driven by a 33-year old belted female whose frontal airbags deployed. She was transported to a local hospital for treatment of non-incapacitating injuries. Although she works sixty-five hours per week, it is at a job that there is quite a bit of down time. Driver estimated about five hours per day. The critical pre-crash event for vehicle 1 was other motor vehicle in lane: other motor vehicle stopped. The critical reason for the critical pre-crash event was a recognition error: external distraction. The driver stated that as she came over the hill she was looking at something (she didn't specify as to what) in her rear view mirror and when she brought her eyes forward again was when she saw the other vehicle stopped. Inadequate surveillance was coded as a contributing factor as the driver failed to look far enough ahead. Vehicle 2 was driven by a 43-year old belted male whose airbags did not deploy. He was uninjured in the crash. He said that he barely felt impact; it didn't even knock his sunglasses off of his face. The critical pre-crash event for Vehicle 2 was other motor vehicle in lane: traveling at higher speed. The critical reason for the critical pre-crash event was not coded to this vehicle. No associated factors were coded.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

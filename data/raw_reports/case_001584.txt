@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekday on a bituminous two-lane, two-way roadway. The dry, straight and level roadway had a posted speed limit of 89kmph (55 mph). There were no adverse atmospheric conditions at the time of the crash, and the view from each vehicle's approach was clear. V1, a 1999 Ford Escort, was westbound, intending to turn left into a private driveway. V2, a 2006 Saturn Ion, was eastbound intending to go straight. As V1 commenced its turn it entered the path of V2 and was struck in the right side. V1 was driven by a 34 year-old male in fair health with a history of diabetes and bi-polar disorder. He stated that he was trying to turn into the driveway, because he had missed his intended destination and was trying to turn around and go back. The driver stated that he noticed a vehicle approaching from behind him at a much higher speed; he said that he turned so he didn't get hit from behind. He said that he never saw V2 approaching. The driver was uninjured, but V1 was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason was coded as a driver related factor, a recognition error of inadequate surveillance (failure to look). Associated factors include an external distraction as the driver was fixated on the vehicle approaching from the rear and failed to look for approaching traffic before turning. V2 was driven by a 54 year-old female in good health and wearing his prescription lenses that corrected a myopic (near-sighted) condition. She stated that she was on her way home from work and was going straight. The driver said she noticed V1 in the oncoming travel lane signaling that he was going to turn. She said that V1 pulled into her path and she was not able to avoid the collision. The Critical Precrash Event for V2 was coded as other vehicle encroachment, from opposite direction, over left lane line. The Critical Reason was not coded to this vehicle. There were no associated factors coded to this vehicle and the driver was not believed to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

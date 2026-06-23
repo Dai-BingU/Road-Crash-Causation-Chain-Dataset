@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred just past noon in the southbound lanes of a four lane undivided roadway with a posted speed limit of 48 kmph (30 mph). The asphalt roadway was dry, flat and straight. There were no adverse weather conditions at the time of the crash. Vehicle two (V2), a 1998 Mercedes-Benz ML320, driven by a 62 year-old male was traveling southbound in lane two. Vehicle one (V1), a 1994 Ford Escort Lx, driven by a 33 year-old female was traveling behind V2 in the same lane. V2 came to a stop, waiting for traffic to clear so it could make a left turn. The front of V1 braked and under rode the back of V2. Both vehicles came to rest in lane two just a short distance south of the point of impact. V1 was towed due to damage. V2 was not towed due to damage. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: misjudgment of gap or other's speed. The driver did not realize V2 was stopped to turn left, but was otherwise paying attention to the driving task and not distracted in any manner. He applied his brakes with lock-up prior to impact. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

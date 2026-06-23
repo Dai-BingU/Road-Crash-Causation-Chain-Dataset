@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred during early morning hours on a four-way traffic device signal controlled intersection. No adverse weather conditions at the time of collision, but sun glare was present due to rising morning sun. The posted speed for the east/west roadway is 56 kmph (35 mph). The posted speed for north/south roadway was 40 kmph (25 mph). Vehicle two (V2), a 1994 Mercury Tracer sedan with the 36-year-old male driver and two occupants, was traveling east in lane 1 of a bituminous, seven lane, divided, and +2% slope roadway. As V2 approached the intersection the traffic signal turned to yellow/red and the driver entered the intersection on a red light. Vehicle one (V1), a 1996 Plymouth Voyager minivan occupied only by the 45-year-old female driver was traveling north in lane 1 of a bituminous, two-way, two-lane, and undivided roadway. V1 driver was stopped at the traffic signal and proceeded forward/north upon traffic signal turning green. V1 driver never looked to the sides before proceeding into intersection. The driver of V2 applied the brakes and steered left to avoid the crash. The front of V2 contacted the left front of V1. Both vehicles came to rest in the intersection. The driver of V1 and the right rear passenger in V2 were both slightly injured; neither was transported. Both vehicles were towed due to damage. The driver of V1 is familiar with the vehicle and drives the route daily. The driver failed to check for cross traffic as the traffic control signal turned green and she entered the intersection from a stopped position. The critical pre-crash event for V1 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle. The driver of V2 entered the intersection on a red light. A witness who was adjacent to V1 before V1 entered the intersection verified this. The witness detected V2 and did not enter the intersection. The sun glare was an associative factor for the driver of V2. The driver and occupants of V2 were in a hurry, being late for work. All four tires had minimal tread depth. The critical pre-crash event for V2 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason was attributed to V2 and coded as a driver related factor: illegal maneuver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+Vehicle 2:  Decision, Distraction, Driver Stress/Emotion, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

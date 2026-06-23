@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of weekday at the edge of a residential “T” intersection, controlled in all directions by stop signs. The north/south roadway consisted of one lane in each direction and featured a posted speed limit of 48kmph (30 mph). The bituminous roadway was dry, straight, and level. Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2001 Ford Focus, was southbound in lane one approaching the intersection. V2, a 1993 Dodge Stealth, was stopped at the stop sign ahead of V1. V1 failed to stop and its front struck the back of V2. V1 was towed due to damage. V1 was driven by a 21-year-old female, who was treated on-scene but refused transport. She declined to be interviewed and participate in this study. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Event was an unknown recognition error. Handwritten directions and a sketched map of the immediate area were found inside the vehicle. This suggested that the driver was probably not familiar with the area, and was looking for an address. V2 was driven by a 31-year-old female who was not injured. She stated that she was on her way from her house to check the status of an employment application. She said that she gradually slowed to a halt at the stop sign. As soon as she came to a complete stop, the vehicle trailing her struck her from behind, pushing her forward one or two car lengths. She did not know why the vehicle behind her failed to stop. The Critical Precrash Event for V1 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. No associated factors were coded to V2 and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

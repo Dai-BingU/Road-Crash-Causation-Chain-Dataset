@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a four-leg intersection. The southbound approach lanes are one-way, two-lane, straight and level. The speed limit on this roadway is 56 kmph (35 mph). The east/west roadway on the west side of the intersection is slightly curved to the right, has an uphill grade (6.6%) for the approach to the intersection and is controlled by a stop sign. This roadway has one lane in each direction and the speed limit is 48 kmph (30 mph). There is a large sign as well as high grass and shrubbery in the northwest corner of this intersection. This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1997 Chevrolet Lumina, was southbound in lane one. Vehicle two (V2), a 2006 Chevrolet Impala, was stopped eastbound at the intersection. V2 turned right (southbound) and the left side was struck by the front of V1. The vehicles rotated and the right side of V1 struck the left side of V2. Both vehicles were towed due to damage. The driver of V1, an eighty-six-year-old female, refused to be interviewed. No further information is available for this driver. The driver of V2, a forty-six-year-old male, was traveling from his ex-wife's apartment to his home. He was healthy, well rested and familiar with his vehicle. This driver travels this route often. He stated that he was looking at another vehicle in the opposite direction when he was stopped at the stop sign. He then was focused on his intended destination and did not remember looking to the left before he entered the intersection. The critical pre-crash event for V1 was coded: other vehicle encroachment; from crossing street, turning into same direction. The critical reason for the critical pre-crash event for V1 was not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling; turning right at intersection. The critical reason for the critical pre-crash event for V2 was coded as a driver related factor: inadequate surveillance (e.g. failed to look, looked but did not see). An associated factor for both drivers was the sightline restriction created by the high grass, shrubbery and sign on the northwest corner of the intersection.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway present problem 
+Vehicle 2:  Decision, Distraction, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+ 2 ：This Vehicle Traveling- Turning right at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

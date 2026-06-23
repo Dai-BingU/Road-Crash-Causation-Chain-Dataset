@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekday in the middle of a four-way residential intersection. The intersection consisted of a two-lane east/west undivided roadway and a two-lane north/south undivided roadway (which was controlled by stop signs). Both roadways were bituminous, dry, straight, and level with posted speed limits of 56kmph (35 mph). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1997 Subaru Outback, was stopped facing south; preparing to cross over the intersection. V2, a 1998 Chevrolet Malibu, was westbound approaching the same intersection where it intended to continue straight. As V1 entered the intersection it was struck on the left side by the front of V2. The impact caused V1 to rotate clockwise approximately 250 degrees, coming to final rest facing east in the westbound lane. Vehicle two continued forward and to the left, coming to final rest partially off the roadway facing west in the eastbound lane. Both vehicles had to be towed from the scene due to vehicle damage. V1 was driven by a 57-year-old female who suffered unknown injuries and was transported to the hospital for treatment. There were no other occupants in the vehicle when the crash occurred. Numerous attempts could not produce an interview with this driver. However, a witness told police that V1 was stopped at the intersection before proceeding. The Critical Precrash Event for V1 was coded this vehicle traveling, crossing over (passing through) intersection. The reason for the Critical Event was coded as an unknown driver related error. There were no known associated factors coded to this driver. V2 was driven by a 50-year-old female who also suffered unknown injuries and was transported to a medical facility for treatment. There were no other occupants in the vehicle when the crash took place. An interview was also not obtained for this driver after several attempts. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street across path. The Critical Reason was not coded to this vehicle. There were no known associated factors coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

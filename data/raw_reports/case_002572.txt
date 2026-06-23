@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred two hours before mid-night during dark hours at an intersection controlled by stop signs north/south also flashing red light east/west. Road surface level asphalt approaching a four-way intersection. The posted speed limit 88 kmph (55 mph). Vehicle one (V1) a 2005 Chrysler PT Cruiser Convertible driven by a 16 year-old female with three passengers was traveling northbound in the second lane,stopped at stop sign for a few seconds before entering intersection. While in the intersection, driver received instructions by a passenger to turn left. Vehicle two (V2) a 1990 Cadillac Sedan DeVille driven by a 28 year-old female was traveling eastbound in the second lane. V1 stopped and saw the on-coming headlights of V2. The driver of V1 tried to accelerate and turn left, but panicked and could not find the gas pedal. V1 was struck on the left side by the front of V2 and was pushed out of the intersection while in a counterclockwise spin. V1 ended up facing southwest on the northeast corner of intersection. As V2 driver approached the intersection at 36 KPH, driver noticed V1 stop at intersection and proceed thru intersection. After V1 entered the intersection, V2 driver applied brakes and steered vehicle to the left to avoid collision as V1 had stopped in intersection. After impact, V2 traveled approximately 70 meters north of the intersection before vehicle came to final rest, facing north. Both vehicles were towed from the scene due to damage. The pre-event movement for V1 coded turning left, category this vehicle turning left a t intersection. Critical reason for the critical event coded driver related factor "panic/freezing". The pre-event movement for V2 coded going straight, category other vehicle encroachment from crossing street across path. Critical reason not coded to this vehicle. Additional factors, V1 had been driving less than a year, and had recently moved from out of state, driver not familiar with traffic signals.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Performance, Drugs present problem 
+Vehicle 2:  Distraction, Driver Fatigue, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Panic/freezing
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

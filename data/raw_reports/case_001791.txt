@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary A two-vehicle crash occurred during early evening hours and involved a four-way intersection controlled by tri-lights that were functioning properly at this time. This intersection also has pedestrian crossing lights. The east and westbound sides of the intersection contain two lanes divided by a double yellow lane line. The north and southbound sides contain two through lanes divided by a dashed lane line and a left turn lane on both sides of the intersection. The speed limit for the north and south lanes is 56 kmph (35 mph). The speed limit for the east and west lanes are 40 kmph (25 mph). The weather was clear and the roadway was dry and free of deficiencies and/or sight restrictions at the time of the crash. Vehicle one (V1) is a 2003 Ford Crown Victoria police vehicle. V1 was traveling south in the second travel lane approaching the intersection. The driver of this police vehicle had gotten a call and activated the lights but not the siren. Vehicle two (V2) is a 2003 Hyundai Sonata four door sedan. V2 was traveling eastbound in the first lane approaching the intersection and intending on turning left (northbound) at the intersection. As V1 approached the intersection a non-contact vehicle entered the intersection with a green light heading eastbound from the west side of the intersection. When the driver of the non-contact vehicle recognized the police car, it stopped in the middle of the intersection. V2 had pulled just past the solid white paint line to enter the intersection. V1's driver depressed the brake and steered right to successfully avoid the non-contact vehicle. In doing so the front of V1 struck the front left of V2. V1 continued off of the roadway at the southwest corner and struck a sign, a couple of poles and a bush before coming to final rest facing south. V1 came to a final rest where it was struck facing east. The driver and front seat passenger occupied V1. Both were transported for injuries. The driver of V2 was not reported injured. Both vehicles were towed due to damage. The witness was actually the driver of the non-contact vehicle. She stated that she entered the intersection with the green light with the intent of turning north. She saw the police vehicle turn on its lights. She stopped her vehicle in the intersection and V1 just missed the rear of her vehicle but struck the vehicle behind her,V2. The critical pre-crash event for V1 was "this vehicle traveling/ over the lane line on the right side of travel lane". For V2 the critical pre-crash event was "other vehicle encroachment/ from crossing street, across path". The critical reason for the critical event was attributed to the driver of V1 as a driver decision factor of aggressive driving behavior. The reason for this coding is that Vehicle one began to enter the intersection before being given the right of way. The east and west lanes had the green traffic light. The police vehicle requests the right of way by activating his lights; however, by law it is not automatically granted. He was traveling at a high rate of speed with his lights activated but did not activate his siren.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Stress/Emotion, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

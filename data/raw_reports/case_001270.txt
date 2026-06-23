@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at a 4-way intersection with traffic control signals with no pedestrian crossings. The east/west roadway was undivided and had 4 lanes of travel - 2 in each direction. The roadway was straight, level asphalt with a posted speed of 56 kmph (35 mph). The crash occurred at mid-week in the early morning on a dry cloudy day. Vehicle #1, a 2005 Chevrolet G3500 express van, was traveling west in lane #2. As V1 approached the intersection, the traffic light turned amber and the vehicles that were facing east waiting to turn left started their turns. The first vehicle cleared the intersection. The second vehicle, a 1996 Chevrolet Cavalier (Vehicle #2) followed behind the first vehicle and also turned left. The front of V1 struck the right front area of V2, rotating it counterclockwise to come to final rest facing south, straddling the centerline. V1 traveled off to the northwest curb to final rest. The driver of V1 was not injured. The driver and passenger of V2 were transported to a local ER facility for treatment. Both vehicles were towed from the scene due to damage. Vehicle #1 was driven by a 28-year-old male who stated he was in good health and was not taking any medications. He wore corrective lenses for a myopic condition. He stated he was on his way to the work warehouse to pick up supplies for a job he was to start on this day. He stated that as he approached the intersection the traffic light turn amber and the vehicle waiting to turn left made its turn in front of him. He stated he thought the V2 would wait to turn at the next light. He stated that as he entered the intersection, V2 turned in front of him and he had no time to avoid it. Vehicle #2 was driven by a 19-year-old female who stated she was in good health and was taking no medications. She did not need corrective lenses. She stated she had just picked up her friend for school and was sitting at the intersection waiting to turn left. She also stated that when the light turned amber, the vehicle in front of her started to make its turn so she followed, making her turn too. She stated that after being hit and traveling to final rest, she asked what hit them because she never saw V1 coming. She stated that as she exited her vehicle she fell to her knees. She stated someone helped her to the side of the roadway where she waited for EMS to arrive. The Critical Pre-crash event for V1 was coded: Other vehicle encroachment from opposite direction - over left lane line. The Critical Reason for the Critical Event was not coded to V1. Associated factors coded to the driver of V1 include a false assumption of other road user's action, because he assumed that V2 would wait for the next signal cycle before attempting to turn and aggressive driving because a witness stated that V1 accelerated before entering the intersection. The vehicle's EDR revealed that within 2-3 seconds of the crash, V1 was traveling at a speed of 45 mph. The Critical Pre-crash Event for V2 was coded: This vehicle traveling- turning left at intersection. The Critical Reason for the Critical Event was coded as inadequate surveillance, because the driver of V2 stated that she never saw V1 prior to the crash. It was believed that she never looked for oncoming traffic, but instead was following the non-contact vehicle in front of her into the intersection, thinking it was safe to go. An associated factor coded to the driver was conversation with her passenger.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision present problem 
+Vehicle 2:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

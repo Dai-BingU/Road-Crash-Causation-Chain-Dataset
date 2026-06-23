@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash on a seven-lane, median divided, bituminous roadway. The roadway is level and has a speed limit of 113 kph (70 mph). For westbound traffic the road curves to the right. For eastbound traffic the road curves to the right. This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one, a 1994 Nissan Maxima was westbound in the third lane. Vehicle two, a 2004 Peterbilt Tractor with a semi trailer was eastbound in the fourth lane. Vehicle one departed the road and entered the median. Vehicle one crossed the median and entered the fourth eastbound lane. The front of vehicle one impacted the front of vehicle two. Vehicle one and two moved eastbound and crossed all three lanes. Vehicle one came to rest on the eastbound shoulder and caught on fire. Vehicle two continued and departed the roadway and impacted a light pole with its front plane and came to rest on the shoulder. Both vehicles were towed due to damage. The driver of vehicle one, a twenty-year-old female was fatally injured and was not interviewed. A witness stated seeing the passenger reclined in the front passenger seat with her feet on the dash and the driver was on the phone. The witness said it looked as if the driver dropped something and was trying to retrieve the object from the floorboard. This is when the driver departed the travel lane to the left into the median. The driver's father was interviewed and indicated that this driver had only slept for about three hours the night before. Fatigue is considered a factor for this driver. This driver also indicated that this driver had just finished a college semester and had just finished finals. She then packed up her dorm room and drive home across two states. The father indicated that the vehicle was in good shape when it left. The father indicated that the driver did drive this vehicle daily but only rarely over this roadway. The driver of vehicle two, a forty-two year-old male was driving this over the road vehicle and delivering the cargo. This driver indicated that he had been driving for about four hours at the time of the crash. This driver indicated that he saw vehicle one but did not have time to take any steering evasive actions. This driver stated that he had slept for eight hours the previous night while in the sleeper berth of this vehicle while the vehicle was stationary. This driver is taking a medication for high blood pressure. This driver was tested for alcohol following the crash with an unknown result. This driver drives this vehicle daily and over this road several times a month. The critical pre-crash event for vehicle one was coded as "This vehicle traveling: off the edge of the road on the left side". The critical reason for the critical pre-crash event was attributed to vehicle one and was coded as "driver related factor: internal distraction". The critical pre-crash event for vehicle two was coded as "other vehicle encroachment: from opposite direction-over left lane line". The critical reason for the critical pre-crash event for vehicle two was coded as "not coded to this vehicle".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Inexperience present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

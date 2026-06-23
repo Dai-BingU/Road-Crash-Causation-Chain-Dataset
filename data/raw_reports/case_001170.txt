@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred at a intersection where the east / west traffic is controlled by stop signs and north/south traffic controlled by on-colors traffic signal device activated only when used by pedestrian(s). It was lightly raining at the time of the crash. the east roadway has a +4% slope that gradually leveled off at intersection. The posted speed limit 40 kph (25 mph). Vehicle one (V1), a 1997 Hyundai Accent 4-door sedan, driven by a 18 year-old female was traveling northbound in the first lane approaching the intersection with the intention of going straight. As V1 entered the intersection it was struck on the front/middle left side by Vehicle two (V2) a 1996 Jeep Cherokee driven by a unknown male after the impact V1 rotated counterclockwise towards the N.E. corner of the intersection. As V1 traveled into the N.E. corner, the right rear tire contacted the curb and broke off the axle. Also, the right rear corner of the vehicle contacted a utility pole and the right front corner contacted a traffic signal pole, which broke off from the base. V1 came to rest facing mostly north. V2, a stolen vehicle after impact rotated counterclockwise coming to rest against the N.W. corner curb with the front tires. Both vehicles were towed from the scene. The critical pre-crash event for V1 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason for the critical event was coded to V2 as a driver related factor: illegal maneuver, for disregard of traffic control sign. Additional factors for V2 driver were decision and performance errors by driving aggressively (speeding and violating traffic control devices). The driver of V2 made no evasive actions due to no evidence (skid marks) left on roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Weather/Environment present problem 
+Vehicle 2:  Aggressive Behavior, Decision, Driver Stress/Emotion, Speed/Distance, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

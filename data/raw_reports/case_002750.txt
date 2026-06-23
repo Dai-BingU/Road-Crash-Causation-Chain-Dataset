@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in the evening of a weekday in the southbound lanes of a five-lane roadway. The north/south roadway consisted of two lanes in each direction divided by a two-way center left turn lane. The bituminous roadway was straight and level with a posted speed limit of 72 kmph (45 mph). The traffic flow was backed-up due to a semi-truck attempted to perform a U-turn and blocking all lanes of travel. The roadway was wet from rain that was falling at the time of the crash. V1, a 1999 Dodge Stratus with one occupant, was southbound in lane two. V2, a 2004 Honda Pilot with three occupants, was stopped facing south in lane two ahead of V1. V3, a 2004 Chevrolet Tahoe with two occupants, was also stopped facing south in lane two, directly in front of V2. V2 and V3 (as well as several other vehicles) were stopped waiting for the semi to complete its U-turn so they could proceed. V1 failed to stop and the front of V1 collided with the back of V2. The collision pushed V2 forward into the back of V3 (V2 steered left to try and avoid a collision with V3). All vehicles came to final rest in lane two near their respective points of impact. V1 and V2 were towed due to damage while V3 was driven from the scene. The driver of V1, a 36 year-old male, was not injured in the crash. This driver could not be reached for an interview. After the crash, police arrested and charged the driver with driving under the influence of an intoxicating substance (the driver refused a BAC test). The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Event was an unknown driver error. Associated factors coded for V1 include the presence of alcohol in his system as well as the traffic flow interruption and wet roads. The driver of V2, a 45 year-old male, was not injured. He had just flown in from across the county. He was his way home after stopping for dinner with his family. They had just left the restaurant and had come to a stop because a truck was doing turning in the roadway. As they were stopped V1 came out of nowhere and unexpectedly struck them in the rear. The driver stated VI didn't have its headlights on, and that they never saw him coming. The impact caused them to be pushed forward into V3. A partial surrogate interview was obtained but the wife of the driver stopped answering questions on the advice of an attorney. The Critical Precrash Event for V2 was coded other vehicle in lane, traveling in the same direction with a higher speed. The Critical Reason was not coded to this vehicle. The driver of this vehicle works 8 hours per day, 7 days per week. He had been on a flying all day and was possibly fatigued. He was conversing with his family at the time of impact. The wet roads and traffic flow interruption were also coded as associated factors. The driver of V3, a 40 year-old female, was not injured in the crash. She was stopped in lane two for several seconds with several cars in front of her. She stated that she was watching the truck and waiting when all of a sudden she felt V2 contact the rear of her vehicle. The Critical Precrash Event of V3 was coded other, not involved in the first harmful event. The Critical Reason was not coded to this vehicle. This driver reported listening to her radio prior to the crash. The wet roads and traffic flow interruption were the only other associated factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Roadway, Traffic, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Distraction, Roadway, Traffic, Weather/Environment present problem 
+Vehicle 3:  Distraction, Roadway, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

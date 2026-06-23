@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary V1, a 2003 Ford F-150 pickup truck, was southbound in lane 2 of the 2 southbound lanes of a 4 lane, bituminous, straight, level, divided with positive barrier roadway. V2, a 2003 Honda Civic 4 door, was southbound in lane 2 of the same roadway, stopped in traffic ahead of V1. V3, a 2000 Ford Taurus, was stopped in lane 2 of the same roadway behind backed up traffic and just ahead of V2. A fourth unknown vehicle was stopped in lane 2 of the same roadway ahead of V3. V1's, front, contacted V2's, rear, which caused V2's, front, to contact V3's, rear. V3's, front, then contacted the rear of V4 causing V3's back, to override V2's front. V2's, front, then contacted the center guardrail. V3 spun clockwise while atop V2 and fell back onto the roadway striking the right side of V1 with V3's right side. At the time of the crash the roadway was wet, it was raining lightly and it was dark-unlighted. It was rush hour and traffic was congested. All 3 drivers interviewed stated that they drive that roadway daily and are aware that traffic backs up there every day at this time. All three drivers were properly licensed and familiar with their vehicles. V1 and V2 were towed due to damage. The driver of V2 was injured and transported. V4 left the scene. A complete driver interview and vehicle inspection was obtained for V1. The driver stated that he was conversing with his passenger and did notice that traffic in his lane was slowing. He did not notice that traffic had stopped. When he did notice, he initiated full ABS application but was unable to avoid striking v2 in the rear. The Critical Pre-crash Event was other motor vehicle in lane, stopped and the Critical Reason for Critical Pre-crash Event was inadequate surveillance. Some factors which may have contributed to the cause of the crash include rush hour congestion, the driver's failure to look far enough ahead and his not knowing caution was required and the wet roadway. A complete driver interview and vehicle inspection was obtained for V2. V2 was stopped behind V3 and the driver never saw or heard V1 coming. The Critical Pre-crash Event was other motor vehicle in lane traveling in same direction with higher speed and the Critical Reason for the critical pre-crash event was not coded to this vehicle. A complete driver interview and vehicle inspection was obtained for V3. The driver of the vehicle stated that it was rush hour traffic and that all the traffic ahead of her was stopped. She stopped a car length behind the car in front of her. She was stopped 3-4 seconds when someone pushed her from behind. She hit the car in front of her and then spun to the right and started to tip up on her left wheels. She thought she was going to rollover. The Critical Pre-crash event was Other motor vehicle in lane traveling is same direction with higher speed and the Critical reason for the pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs, Speed/Distance, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Traffic, Weather/Environment present problem 
+Vehicle 3:  Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

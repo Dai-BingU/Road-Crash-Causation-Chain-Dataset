@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle collision occurred at 0835 hours on a Monday. The collision occurred at a four-leg intersection comprised by an east/west roadway and a north/south roadway. The north/south roadway is undivided, dry, level, asphalt, and consists of five lanes including a left-turn lane. The east/west roadway is undivided, dry, level, asphalt, and consists of seven lanes. Both roadways are designated 35 mph (56 kph) zones. The intersection is controlled by a tri-light signal that was functioning at the time of the collision. Traffic or weather conditions were not a factor. Vehicle one (V1) is a 2000 Dodge Caravan minivan that was traveling north in the number two lane. Vehicle two (V2) is a 2000 Toyota Camry that was traveling west in the number three lane. As both vehicles entered the intersection, the front of V1 struck the left side of V2. V2 was deflected to the right as it traveled towards the northwest corner of the intersection, mounted the curb, and continued in a northerly direction where the front of the vehicle struck a pole and a chain link fence before coming to rest. V1 came to rest facing northwest near the northwest corner. Both vehicles were towed with major damage. The driver of V1 is an unemployed 57-year-old male who was traveling to a grocery store from his home. He had only driven approximately 1.25 miles. The driver entered the intersection without slowing. The driver claimed to have a green light, however a witness waiting for the light to turn green for her direction of travel (eastbound) stated V1 had a red light for 2-3 seconds. The pre-event movement for V1 was coded "going straight." The critical pre-crash event was coded "this vehicle traveling-crossing over (passing through) intersection." The critical reason was coded "decision error-illegal maneuver." The driver of V2 is a 54-year-old male who drives the route daily and is familiar with the vehicle. He was on his way to work from home. The driver suffers from diabetes that does not impair his driving. Medication includes Glycopage, Glyburide, and Zestril. As the driver approached the intersection from a block away, he noted the signal was red and adjusted his speed to enter the intersection on a green light. As he entered the intersection he detect V1, applied the brakes and steered right. The pre-event movement for V2 was coded "going straight.' The critical pre-crash event was coded "other vehicle encroachment-from crossing street, across path." The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

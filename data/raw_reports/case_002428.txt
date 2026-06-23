@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred mid-afternoon on a dry, four-lane, undivided, urban road. The roadway runs east/west at this point and the speed limit is 56 kmph (35 mph). The crash occurred at an off-set four leg intersection. There are no traffic controls present at the scene. There were no adverse atmospheric conditions present at the time of the crash. Vehicle one (V1), a 1997 Toyota Camry sedan driven by a 77 year-old female, was traveling eastbound in lane two intending to turn left at the intersection. Vehicle two (V2), a 1994 Ford Thunderbird coupe driven by a 71 year-old female, was traveling westbound in lane one intending to go straight through the intersection. Both vehicles entered the intersection and the right side of V1 was contacted by the front of V2. V1 rotated counterclockwise and came to rest in the middle of eastbound lane one, facing northeast. V2 rotated clockwise and came to rest in eastbound lane one, facing northwest. V1 was towed due to moderate right side damage and a restricted right front tire. V2 was driven from the scene and sustained light frontal damage. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason for the critical event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the northbound lanes of a five-lane roadway divided by a concrete divider. There were three northbound lanes, one of which becomes an exit ramp, and two southbound lanes. This was a straight, level, bituminous roadway with a posted speed of 89 kmph (55 mph). It was early morning on a weekend with very heavy rain. V1 was a 2001 Ford Focus driven by a 21-year-old female. V2 was a 1997 Pontiac Sunfire driven by a 30-year-old male. V1 was traveling north in the first lane. V2 was parked approximately 30 yards past the exit in a painted gore with its hazard lights on. The driver of V2 had pulled off the road to make a cell phone call. The driver of V1 missed the exit and the front of V1 impacted the rear of V2. V2 was propelled forward and to the right of the road through a grass median. V1 came to final rest on the side of the roadway. The engine compartment of V1 caught fire as a result of the collision. The Critical Pre-crash Event for V1 was "other motor vehicle in lane, other vehicle stopped." The Critical Reason for the Critical Pre-crash Event was "driver related factor, internal distraction." The driver of V1 was talking on her cell phone and had just checked her clock immediately before the impact. She stated that she believed that the driver of the car in front of her was still on the exit ramp, going to take the same exit; however, she did not realize that the vehicle was stopped on the side of the road. Preceding the impact, the driver of V1 was on her cell phone getting directions to her destination. She claimed that she hung up just prior to the crash. She also stated that she had looked to the right for the exit, then at the clock, and then forward and that was when she first saw the car in front of her. Associated factors coded to the driver of V1 include conversation on the cell phone, other non-driving activities (looking at clock), an exterior distraction (looking at exit), traveling too fast for the wet roadway and ramp, a false assumption in that she thought that V2 was on the ramp and moving, a tire deficiency in that the tires on V1 had very little tread, the wet roadway, and the weather (heavy rain). The Critical Pre-crash Event for V2 was "other motor vehicle in lane, traveling in same direction with higher speed." The Critical Reason was not coded to this vehicle. Associated factors coded to this driver include other non-driving activities in that he was reaching for his cell phone, the wet roadway, and the weather.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Decision, Distraction, Driver Physical, Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Distraction, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

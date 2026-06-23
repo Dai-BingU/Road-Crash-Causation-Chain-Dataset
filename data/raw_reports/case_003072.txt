@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the morning hours of a weekday in the right parking lane of a two-way north/south roadway, with a single lane of travel in each direction. The roadway was straight and level, and it was daylight and clear with no adverse conditions. Traffic conditions were normal and the speed limit was 48kmph (30mph). V1, a 1997 Nissan Altima four door with a single occupant, was traveling southbound when it lost control and the front impacted the back of V2, a 1989 Toyota Camry four door that was legally parked with no occupants present. V2's frontal plane contacted the rear plane of V3, a 2001Toyota Camry four door that was legally parked with no occupants present. V3's frontal plane then contacted the rear plane of V4, a 1997 Mercedes Benz E320 four door that was legally parked with no occupants present. V1 came to a final rest shortly after impact and V2, V3 and V4 came to final rest a few feet forward. V1 was driven by a 27 year-old female who sustained minor injuries and was transported to a hospital. The driver could not be located to participate in the study. The driver stated to the Police that an unknown white van traveling northbound made a turn in front of her causing to lose control and impact V2. The Nissan was towed due to damage. V2, V3 and V4 were not towed. The Critical Pre-crash event for Vehicle # 1 was coded as: This vehicle traveling, over the lane line on right side of travel lane. The Critical Reason for the Critical event was coded as an unknown reason. One associated factor coded to Vehicle # 1 was a false assumption, assumed that the other driver would yield right-of-way. The other possible associated factors were coded unknown because no interview was obtained.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Unknown Reason - Unknown reason for critical event

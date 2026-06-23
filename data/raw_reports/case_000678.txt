@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the northbound lane of an undivided two-lane highway. There was a slight left curve in the southbound direction, and the roadway was level and dry. The posted speed limit was 72 kmph (45 mph). It was early afternoon on a weekday. The weather was clear and traffic flow was light. The northbound lane had a 2.5m shoulder with a guardrail on the edge of the roadway. V1 was a 1998 Toyota Camry driven by a 47-year old female traveling in the southbound lane. V2 was a 2003 Ford F-550 driven by a 44-year old male traveling in the northbound lane. For an unknown reason, V1 crossed the centerline of the roadway, encroaching into the northbound lane. The driver of V2 saw V1 coming into his lane and pulled his vehicle as far to the right as possible, nearly coming into contact with the guardrail. V1 continued into the northbound lane and struck V2, which was now partially on the shoulder, in the cargo portion of the vehicle. V1 spun around after impact, coming to final rest in the southbound lane, facing north. V2's back-end was pushed up onto the guardrail, which then caused the vehicle to roll four-quarter turns and come to final rest with its backend still on the guardrail. The driver of V1 suffered fatal injuries; the driver of V2 suffered minor injuries. The Critical Pre-crash Event for V1 was this vehicle traveling over the lane line on the left side. The Critical Reason for the Critical Event was an unknown driver error. According to the driver of V2, it appeared that the driver of V1 was reaching for something on the passenger side of her car, which could have prevented her from realizing that she had crossed the centerline. According to the surrogate interview, the driver of V2 had just left the dentist, where she had minor work done. It is unknown if any medications were used during the procedure that could have contributed to the accident. The surrogate interviewee indicated that the driver of V1 took an unknown medication for allergies. The Critical Pre-crash Event for V2 was other vehicle encroachment from opposite direction over left lane line. The Critical Reason was not coded to V2. There were no associated factors coded to the driver of V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

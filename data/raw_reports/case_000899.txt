@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of a weekend in the northbound lanes of an undivided rural roadway. The north/south roadway consisted of fives lanes of travel (two in each direction with a center left turn lane). The bituminous roadway was dry, straight, and level with a posted speed limit of 89 kmph (55 mph). The crash occurred where the turn lane ended and the roadway narrowed to four lanes of travel. The traffic flow was normal but roadway was dark and unlit and the skies were cloudy at the time of the crash. V1, a 2004 Chevrolet Suburban with three occupants, was northbound in lane two. V2, a 2004 Dodge Ram with one occupant, was also northbound in lane two ahead of V1. As V2 slowed to a stop and prepared to make a left turn into a gas station V1 failed to stop behind it and rear-ended V2. The force of impact pushed V2 forward roughly 71m (233 ft.) before it came to final rest in its original travel lane. V1 traveled to the left into oncoming traffic lane before coming to final rest in lane one of the southbound lanes. Both vehicles were towed due to damage. The driver of V1, a 40 year-old female, along with her two passengers suffered minor injuries as a result of the crash but did not require transport. She was on her way home from visiting her mothers with her children at the time of the crash. The surrogate who gave the interview stated that the driver did not see any brake lights and did not realize the vehicle ahead had stopped. She stated when she did see the vehicle it was too late. She stated the only thing she remembered after the start of the crash was glass flying in her face. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Event was coded as an internal distraction as the driver was talking with her passengers at the time of the crash. Associated factors coded to this vehicle include an internal distraction, misjudgment of velocity of other vehicle, and a false assumption of other's action. The driver of V2, a 27 year-old male, suffered minor injuries as a result of the crash but did not require transport. He stated he was on his way home from hunting when he realized he needed gas. He stated he put on his left turn signal and stopped were the roadway narrowed to 4 lanes. As he sat waiting for southbound traffic to clear he was struck from behind. He stated he felt glass hitting him in the back of the head and then he was looking at the interior roof. He stated as he sat back up he felt the vehicle rolling like it had a flat tire and he saw he was still in lane two of travel. He stated he pulled the vehicle into a driveway rather than leaving it in the roadway. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical event was not coded to this vehicle. There were no associated factors coded to V2 and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

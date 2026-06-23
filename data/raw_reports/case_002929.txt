@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred during the morning rush hour, which was dark but lighted. This collision was on a two-way, five lane, divided roadway with a positive barrier and full access control. The posted speed limit is 97 kmph (60 mph) . There was rush hour congestion at the time of the crash, which involved three vehicles one passenger car and two pick-up trucks. There were no adverse weather conditions. Vehicle one (V1) a 1991 GMC Sierra pick-up was driven by a 21 year-old male. V1 was northbound in the fifth travel lane. Vehicle two (V2) was a 1992 Buick Roadmaster driven by a 36 year-old male. V2 was northbound in the fifth travel lane. Vehicle three (V3) was a 1997 Ford F-150 pick-up driven by a 34 year-old male with four passengers. V3 was stopped for traffic in the northbound fifth travel lane. V2 was decelerating to a stop behind V3. V1 was unable to come to a stop prior to striking the back of V2 with it's front. V2 then moved forward and it's front struck the back of V3. All vehicles came to rest in the roadway facing north, V1 and V2 were towed from the scene. The driver of V1 was transported to a medical facility. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction while decelerating. The critical reason for the critical event was coded to V1 as a driver related factor: type of driver error unknown. There was no interview obtained with this driver. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. V3 was not involved first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance, Traffic present problem 
+Vehicle 2:  Decision, Traffic present problem 
+Vehicle 3:  Distraction, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

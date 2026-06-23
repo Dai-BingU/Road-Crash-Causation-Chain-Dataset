@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two way, three-lane residential road that was oriented north/south. The roadway was not physically divided and the center lane was a 2 way left turn lane. The road was straight and level with a speed limit of 48kph/30mph. Conditions were daylight and dry on a weekday. Vehicle 1 was a1996 Toyota Camry traveling southbound when Vehicle 2, a 2003 GMC Sierra K2500 HD pickup truck that was traveling south ahead of Vehicle 1, slowed suddenly for a squirrel in the road. Vehicle 1 struck the back of Vehicle 2 with its front. Vehicle 1 was towed due to damage and Vehicle 2 was driven from the scene. Vehicle 1 was driven by a 19-year old belted male who was the beneficiary of deployed airbags. He was transported via private vehicle to a local hospital for treatment of possible injuries. The critical pre-crash event for Vehicle 1 was other motor vehicle in lane: traveling in same direction while decelerating. The critical reason for the critical pre-crash event was a recognition error: External distraction. The driver of V1 was looking to his right at a home under construction when V2 began to brake. The driver was also coded as failing to look far enough ahead. Another contributing factor for V1 was false assumption; assumed other driver would continue to proceed. A traffic flow interruption factor of squirrel in road was coded as well. Vehicle 2 was driven by a 50-year old male that was belted and uninjured in the crash. His airbags did not deploy. The critical pre-crash event for Vehicle 2 was; other motor vehicle in lane: traveling in same direction with higher speed. The critical reason for the critical event was not coded to this vehicle. The squirrel in the road was coded as a traffic flow interruption. The driver is suffering from kidney failure but is under treatment and this was not thought to have been a contributing factor to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Driver Physical, Driver Stress/Emotion, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

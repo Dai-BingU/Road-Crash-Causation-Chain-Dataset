@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in the morning of weekday in the middle of a four-way intersection. The intersection consisted of an east/west three-lane undivided roadway (lane served as a designated right turn lane) and a north/south two-lane undivided roadway controlled by a properly functioning traffic signal. All roadways were bituminous, dry, straight, and level with a posted speed limit of 40kmph (25 mph). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2005 Chevrolet Malibu, was westbound in lane two approaching the intersection where it intended to pass straight through. V2, a 2000 Dodge Caravan, was northbound in lane one approaching the intersection where it planned to cross over. V3, a 2006 Suzuki Forenza, was southbound approaching the intersection also planning on going straight. As V1 entered the intersection it left front corner struck the front right corner of V2. After the initial impact, V2 was pushed into the opposite lane of travel where it struck the left side of V3 with its front left corner. All three vehicles came to final rest in the middle of the intersection near their respective points of impact. V1 was driven by a belted 35 year-old male who was headed home on work related errand. He stated that as he approached the intersection he noticed the signalized traffic device turning red, however he continued to accelerate thinking he would pass through it without incident. He travels this route daily and is familiar with the traffic flow. He just said that he made a mistake and he wasn't sure if he took his eyes off the roadway. He was not injured and was able to drive his vehicle from the scene. The Critical Precrash Event for V1 was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for V1 was coded as a decision error an illegal maneuver. In addition to the illegal maneuver a false assumption was coded as an associated factor as the driver assumed that traffic would yield the right of way. V2 was driven by a belted 56 year-old female on her morning commute to work. She stated she was driving eastbound when as she began to pass through the intersection when she was struck by V1. She said her travel speed was roughly 40kmph (25 mph). She didn't see V1 until the last minute and tried to brake but could not avoid V1. She was uninjured but V2 was towed due to damage. The Critical Precrash Event for V2 was coded other motor vehicle encroachment, from crossing street, across path. The Critical Reason was not coded to this vehicle. There were no associated factors for this driver and V2 was not thought to have contributed to the crash. V3 was driven by a 35 year-old female who could not be reached for an interview. It is unknown if she was injured, but she was able to drive V3 from the scene. The Critical Precrash Event for V3 was coded as other, not involved in the first harmful event. The Critical Reason was not coded to this vehicle and was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-lane undivided east/westbound roadway with one lane in each direction. The asphalt road was very narrow, without shoulders, straight, dry, dark and unlit, with a 4% slope downhill to the east. There were no traffic control devices. The posted speed limit was 48 kmph (30 mph). The crash occurred on a weekday night under clear skies with light traffic flow. V1, a 2001 Kia Sportage four door SUV with two occupants was eastbound. A dog entered the roadway crossing from south to north directly in front of V1. V1 braked and steered left in a successful attempt to avoid striking the dog. The vehicle departed the roadway on the left side and traveled down a steeply sloped (50%) embankment and struck a tree (>10 cm diameter) coming to rest facing north east against the tree approximately 10 meters east of the roadway departure. V1, was driven by a 32-year old male. Both he and his female front right seat passenger were extracted from the vehicle and coded for possible injuries but both refused to be transported to a hospital. The driver reported that he was driving home from dinner in the process of moving to a new home traveling 48-64 kmph (30-40 mph) when he noticed the dog running into the road from his right. He said he chose to brake and steer to his left intentionally rather than to hit the dog. As a result of that choice he drove off the left side of the road and struck the tree when he lost control on the embankment. The Critical Precrash Event for V1 was "this vehicle traveling off the left edge of the road". The Critical Reason for the Critical Event was "incorrect evasive action". Associated factors were assigned to V1 for driver behavior, experience (he rarely drove this road); and for other, highway related (the road lanes were only 2.7m wide and there were no shoulders).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

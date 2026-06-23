@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at dusk of a weekday in the middle of a four-way suburban intersection. The intersection consisted of two four-lane roadways controlled by a properly functioning traffic signal. The north/south roadway featured two lanes in each direction with a posted speed limit of 48kmph (30 mph). The bituminous roadway was dry, straight, and level. The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1998 Kia Sephia, was stopped facing north at the stoplight in lane two intending to turn left at the intersection. V2, a 2000 Dodge Intrepid, was southbound in lane two approaching the same intersection where it intended to go straight. As the traffic cleared the intersection V1 began its turn and was struck in the right front corner by V2. After the impact V1 rotated counter-clockwise and came to final rest in the southwest corner of the intersection partially off the road. V2 departed the roadway over the southwest curb and then re-entered the eastbound lanes of travel before coming to final rest. Both vehicles were towed from the scene. V1 was driven by a 21-year-old female who claimed to be in fair health despite suffering an irregular heartbeat. She is only required to wear her corrective lenses for night driving and did not need them at the time of the crash. She stated that she and a friend were on their way to her house after leaving a store. As they waited for the intersection to clear she was talking to her friend who was also talking on her cell phone. She started her left turn and was looking in the direction of the turn and her friend screamed which made her look back to her right in time to she a vehicle approaching her quickly. She had no time to attempt an avoidance maneuver. She refused transport by EMS, but her mother would take her to the local ER to be looked at. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason was coded as a driver related factor inadequate surveillance. In addition to the inadequate surveillance, an internal distraction (she was talking and looking at her passenger) and driver inexperience were coded as associated factors. V2 was driven by a 35-year-old female who, along with her boyfriend's daughters, was on her way to the store at the time of the crash. She stated that she was conversing with the occupant as they drove towards the intersection. She saw the vehicle moving slowly into its left turn pausing then starting up again. She applied the brakes and steered right but could not avoid V1. Neither she nor the other passengers in the vehicle were injured. The Critical Precrash Event for V2 was coded other vehicle encroachment, from opposite direction, over the left lane line. The Critical Reason was not coded to this vehicle. The only associated factor coded to this vehicle is an internal distraction as she was conversing with her passengers at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Physical, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

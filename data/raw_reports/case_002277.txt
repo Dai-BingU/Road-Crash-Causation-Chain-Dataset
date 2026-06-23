@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during the very late-afternoon/early-evening rush hour on an urban divided expressway and involved only the four southbound travel lanes. Near the crash site, this section is near interchange areas that splits into two southbound roadways of two-lanes each that turn into separate expressways. Due to rush hour congestion, traffic was stopped at the time of the crash. The speed limit on the expressway was 72 kmph (45 mph). Vehicle one (V1), a 2003 BMW M5 carrying one occupant, was traveling southbound in the second lane. Vehicle two (V2), a 1997 Chevrolet C1500 pickup truck carrying three occupants was facing southbound, stopped in the second lane. V2 was stopped for approximately 20 seconds when V1 impacted the back of the pickup truck with its front. V1 was towed due to damage but the driver was not injured or transported. V2 was not towed and none of the occupants were injured or transported. Upon the researcher's arrival at the scene, the driver of V1, a 40-year-old female, was seated in the state trooper's vehicle. She refused to speak to the trooper and the researcher. Due to inadequate interview data, many factors for this driver are unknown. The police report listed a contributory cause of the crash as "under the influence of alcohol or drugs". There was no indication of any avoidance actions by the driver of V1. The driver refused to take a blood alcohol test according to the police report. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical pre-crash event was coded to V1 as an unknown type of driver error. The driver of V2 was a 38-year-old male. The driver and passengers were on their way home from work and they were conversing. He stated that his vehicle was sitting in stopped traffic for 20 to 30 seconds and then they were rear-ended very hard. Neither he nor his passengers heard any braking/skidding prior to impact. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical event was not coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Driver Performance, Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

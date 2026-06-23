@@ -1,0 +1,28 @@
+### Example LLaMA-Factory LoRA configuration for DREAM causation-chain SFT.
+### Update model_name_or_path and output_dir before running.
+
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_target: all
+
+model_name_or_path: Qwen/Qwen3-14B
+dataset: road_crash_causation_chain_train
+template: qwen3
+cutoff_len: 4096
+overwrite_cache: true
+preprocessing_num_workers: 8
+
+output_dir: outputs/crashcausation_qwen14b_lora
+logging_steps: 10
+save_steps: 100
+plot_loss: true
+overwrite_output_dir: true
+
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 16
+learning_rate: 1.0e-4
+num_train_epochs: 3.0
+lr_scheduler_type: linear
+warmup_ratio: 0.05
+bf16: true

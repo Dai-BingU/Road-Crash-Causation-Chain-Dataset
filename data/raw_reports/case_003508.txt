@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on an entrance ramp to an access-controlled roadway. This ramp has an uphill grade, a slight left curve and consists of one lane with a shoulder on the right next to a jersey barrier. The speed limit on this roadway is 97 kmph (60 mph). It was dark with streetlights on at the time of the crash with no adverse atmospheric conditions. Vehicle one (V1), a 2005 Nissan Altima, was westbound on the ramp. Vehicle two (V2), a 1998 BMW 328I, was disabled and stopped (driverless) partly on the shoulder and partly on the ramp travel lane. V2's emergency flashers were on. The front of V1 struck the back of V2. V2 moved forward and the front struck the right jersey barrier. Both vehicles were towed due to damage. The driver of V1, a forty-year-old female, was traveling from work to a store. She was healthy, well rested and familiar with her vehicle. She rarely travels this route. This driver stated that she did not see V2 until it was too late. When she realized that V2 was stopped, she applied the brakes and steered to the left in an attempt to avoid a crash. The driver of V2 was on the right side of V2, preparing to change the front right tire. The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)." The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in same direction with higher speed." The critical reason for the critical pre-crash event for V2 was coded as "no driver present."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：No driver present
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：No Driver Present- No driver present

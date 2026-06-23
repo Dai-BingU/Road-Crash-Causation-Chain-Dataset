@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary A three-car crash occurred shortly after noon at the curved intersection of two undivided, two-lane bituminous roadways. The two roadways intersected at an approximately 90-degree angle. The conditions were wet at the time of the crash. Each side of the north/south roadway had a parking lane and a bicycle lane up until about 10 meters from the curve, where the roadway consisted of the two lanes and a small shoulder area on either side. The roadway was level with no deficiencies and had a speed limit of 48 kmph (30 mph). Vehicle one (V1), a 1997 two-door Dodge Avenger ES carrying a 24-year-old female occupant, was traveling westbound in lane one going an unknown speed approaching the curved intersection. Vehicle two (V2), a 1993 four-door Chevrolet Lumina Eurosport carrying a 46-year-old woman occupant, was traveling southbound in lane one going an unknown speed approaching the curved intersection. Vehicle three (V3), a 1994 four-door Mercury Grand Marquis LS, was parked on the west side of the southbound roadway, to the right of V2. V1 was traveling at too great a speed for the wet road and failed to negotiate the curve within its own travel lane. It crossed the center lane line and the front of V1 impacted with the front of V2. This caused the back right corner of V2 to impact the left side of the parked V3. V1 came to final rest facing approximately southwest. V2 came to final rest shortly ahead of the point of impact facing south, as did V3. V1 had extensive damage to the front of the vehicle and was towed to due to damage. V2 and V3 were not towed due to damage. The driver of V2 was transported to a nearby hospital with incapacitating injuries. The driver of V1 was not transported and was not reported to suffer any injuries. V1 was driven by a 24-year-old female who was its sole occupant. There was no interview obtained for this driver. The police report indicates she was not the registered owner of the vehicle, and the vehicle had a temporary license plate. These may be indications she did not have much experience driving this vehicle. The vehicle had a temporary spare on the right rear tire, which was a different size than the remaining three tires on the vehicle. The right side tires were also underinflated by 34 to 41 kPa (5 or 6 Psi) as compared to the inflation pressure to the left side tires. These conditions would have made the vehicle more difficult to handle in a curve on a wet road. The critical pre-crash event for V1 was coded as this vehicle traveling, over the lane line on the left side of the travel lane. Based on the vehicle dynamics, vehicle tire condition and wet roadway, the critical reason for the critical pre-crash event for V1 was coded as a driver decision factor: traveling too fast for curve/turn. A 46-year-old female was the driver of V2 for which no interview was conducted. There were no other occupants in V2. Circumstances indicate that V2 was just going straight within its travel lane, when V1 crossed the center lane line and the two vehicles hit head -on. The critical pre-crash event for V2 was coded as other vehicle encroachment, from opposite direction, over the left lane line. The critical reason for the critical pre-crash event for V2 was not coded to this vehicle. V3 was not involved in the first harmful event. It was legally parked (e.g. not in transport) and unoccupied at the time of this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

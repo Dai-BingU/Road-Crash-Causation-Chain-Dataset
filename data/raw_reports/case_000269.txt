@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred a few hours before midnight on an urban east/west, undivided, two-lane, straight, level, two-way roadway. There is legal parking along the curb adjacent to the travel lane on both sides of the road and at the time of the crash there were numerous vehicles parked along the curb. There were no roadway deficiencies noted. It was dark, but the roadway was illuminated by street lights. The posted speed limit was 50 kmph (30 mph). Vehicle one (V1), a 2003 Mitsubishi Lancer 4-door with one occupant, was traveling eastbound in the #1 lane and collided with vehicle two (V2), which was stopped and double parked next to other vehicles that were parked alongside the curb. V2, a black 1996 Chevrolet Lumina 4-door sedan, was facing eastbound double-parked in the #1 travel lane, according to the police report. The V2 owner stated that he had been removing groceries from the trunk of the car and was inside his house when V1 struck the rear of V2. The V2 owner said that he heard the crash from inside his house. The police report indicates that V2 had stopped to drop off a passenger but the interview with the V2 owner indicates that V2 was unoccupied when the crash occurred. The V1 driver, a 24-year-old female was an unlicensed driver who stated that she had never been on the road before and that there was a vehicle behind her who was had their bright lights on. There was no witness to confirm or deny this information. The V1 driver stated that she was smoking at the time of the crash, and was not fatigued. At the time of the on-scene interview, the V1 driver was yawning frequently, and her work/sleep routine indicates driver fatigue as a factor. She had been awake for over 15 hours when the crash occurred and works 9 hours per day. The critical pre-crash event for V1 was coded: other vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded as a driver recognition error: inadequate surveillance (e.g. failed to look, looked but did not see). Unfamiliarity with the area and driver fatigue was all factors linked to the V1 driver. The fact that V2 was black in color & it was nighttime would also have made its presence more difficult to recognize by the driver of V1. The driver of V1 reported another vehicle that was following behind her had its high beams on prior to the crash. The researcher could not verify the presence of this vehicle or information. It is unknown if this driver had an exterior distraction to the unconfirmed vehicle behind her, or if the reported high beams from this reported other vehicle actually partially blinded the driver. The driver did state that she looked, but did not see V2 and made no avoidance actions. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical event was not coded to V2. According to the researcher determination V2 was unoccupied at the time of this crash. V2 was illegally double parked restricting the flow of traffic in the travel lane at the time of the crash while the owner of the vehicle was unloading groceries into his home.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Inexperience, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：No driver present
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

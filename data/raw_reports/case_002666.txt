@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the southbound lanes at a four-way intersection. The roadway was divided by a raised curb median and had two southbound lanes and three northbound lanes (one being a left hand turning lane). On the west side of the intersection was a two-lane roadway and on the east, an entrance/exit to a business. The intersection was controlled by traffic control signals without pedestrian signals. The north/south roadway was straight, level, and bituminous with a posted speed limit of 64 kmph (40 mph). Conditions were clear and traffic was moderate. V1 was a 1996 Chevrolet Lumina 4-door driven by a 34-year-old female. V2 was a 1994 Plymouth Voyager minivan driven by a 51-year-old male. V1 was traveling southbound in the curb lane of the roadway when V2 crossed over from the left hand northbound lanes, attempting a left turn at the intersection. The two vehicles struck left front corner to left front corner. V1 continued approximately 60 meters before coming to final rest in its original travel lane. V2 came to final rest in the intersection. The Critical Pre-crash Event for V1 was "other vehicle encroachment, from opposite direction-over left lane line." The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. The driver was unable to take any avoidance maneuvers to avoid the crash. No associated factors were coded to her. The Critical Pre-crash Event for V2 was "this vehicle traveling-turning left at intersection." The Critical Reason for the Critical Pre-crash Event was "type of driver error unknown." The driver of V2 was required to yield on a green light while making a left hand turn. It is possible that he misjudged the other vehicle's closing speed and attempted to beat V1 through the intersection. During a very brief meeting with the driver at the tow yard it was revealed that he was on his way home from work and had stopped at the grocery store on the way. He would normally take another way home. Unfortunately, all attempts to obtain a complete interview were unsuccessful. Due to the lack of interview, no associated factors could be coded to the driver of V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on the west roadside of a two-way, two-lane rural roadway. The roadway was curved to the right and sloped downward 1% in the northbound direction. There was a posted speed limit of 88 kmph (55 mph). Conditions were dry, dark, and clear. The setting was evening hours on a weeknight. Vehicle one was a 1997 Plymouth Breeze sedan traveling north in lane one negotiating the right curve. The driver of V1 suffered a fatal heart attack before traveling off the left side of the roadway and impacting a tree with the front plane. V1 came to rest against the tree on the west side of the road. The Plymouth Breeze (V1) was driven by a 51-year old male who suffered unknown injuries related to the crash. He was pronounced dead on scene from a prior heart attack and was not transported. The investigating officer estimated the travel and impact speeds to be 88 kmph (55 mph) and 64 kmph (40 mph), respectively. The Plymouth sedan was towed due to damage. The Critical Precrash Event for V1 was this vehicle traveling off the edge of the road on the left side. The Critical Reason was a driver related factor of heart attack. A friend of the driver revealed that the driver had had many problems with his heart and kidney, including a prior heart attack. He wore glasses and was not employed at the time, but rather receiving a disability check.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

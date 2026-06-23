@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekend night in the northbound lanes of a high-occupancy, high volume interstate. There were five northbound lanes with paved emergency shoulders on both sides of the roadway. There were concrete barriers on both sides of the roadway. The bituminous roadway was dry, straight, and level with a posted speed limit of 105kmph (65mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V2, a 2005 Chrysler PT Cruiser convertible, was northbound in lane five traveling approximately 105kmph. V1, an unknown vehicle was also northbound in lane five traveling behind V2. As V2 continued straight in the lane it was struck from behind by V1. After impact V2 started to spin clockwise before striking the center concrete barrier with its right side. V2 came to final rest against the barrier facing south. V1 fled the scene. Neither V1 nor its driver could be located after the crash and therefore an interview or vehicle inspection is not possible. The driver of V2 could not be sure of the make or model of V1, but could remember that it was red. The Critical Precarsh Event for V1 was coded other motor vehicle in lane traveling in same direction with lower steady speed. The Critical Reason was unknown as the driver left the scene and there were no witnesses. There were no known associated factors coded to this vehicle, as an interview was not obtained. V2 was driven by a belted 29-year-old woman who was on a work related trip to a neighboring city. She stated in the interview that she was contemplating changing lanes to the right into lane four, but noticed a large SUV coming up quickly in lane four so she decided to stay in original travel lane. It was at this point that she was suddenly struck from behind. She was not injured, but V2 was towed due to damage. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason was not coded to this driver. There were no associative factors coded to this driver and she was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Unknown Reason - Unknown reason for critical event
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

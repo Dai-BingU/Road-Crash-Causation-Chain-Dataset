@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two vehicle nighttime collision occurred a few hours before midnight. The collision occurred at the intersection of two one-way streets, one southbound and the other westbound. The intersection is controlled by a traffic signal of three colors. The pre-crash roadway westbound has 4 lanes of travel on concrete with a -3% grade. The pre-crash roadway southbound has 3 lanes of travel on concrete with a 4% grade. Both streets have a posted speed limit of 48 kmph (30 mph). Vehicle one (V1), a 1995 Nissan Maxima sedan driven by a 23 year-old male, was traveling westbound on the roadway in lane 2. Vehicle two (V2), a 1982 Mercedes-Benz 300-SD sedan driven by a 62 year-old female with one passenger, was traveling southbound in lane 2 of the intersecting roadway. V1 and V2 entered the intersection at the same time, and the front of V2 impacted the right side of V1. V2 was rotated clockwise by 45 degrees and came to rest. V1 rolled or was driven forward to the southwest corner of the intersection, bumping vehicle three (V3), a parked 1985 Jaguar convertible. V1 and V2 were towed due to disabling damage, and V3 had no visible damage. The driver of V2 refused an interview claiming time constraints. The driver of V1 gave an inaccurate description of the events in the crash and refused to answer any other questions. A witness gave their description of events to the researcher at the scene of the collision. Based on the witness account and the police accident report (PAR), V1 was in lane 2 and drove through the red light, entering the intersection at the same time as V2. The PAR states that the driver of V1 appeared intoxicated and was charged with DUI. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was assigned to V1 as a driver related factor: illegal maneuver. for disregard of traffic signal. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason for the critical event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Alcohol, Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

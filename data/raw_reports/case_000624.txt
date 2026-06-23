@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the mid afternoon of a weekday on a secondary arterial east/west roadway. The bituminous roadway consisted of one lane in each direction with a posted speed limit of 56kmph (35 mph). The roadway was level but curved to the right (from southwest to due west if westbound) with the road super elevated by three percent in the curve. The radius of curvature was measured at one hundred fifty seven meters. The north side of the road if westbound was bordered by trees until about 60 meters west of the curves' apex where it was bordered by an embankment with a negative 33% grade. There were also utility poles on the roads north edge. Conditions were daylight and dry at the time of the crash. V1, a 1991 Buick LeSabre, was westbound on the roadway. As it negotiated the curve it departed the right side of the road sideswiping a utility pole with its right side, traveling another fifty-eight meters parallel to the road in the ditch before the undercarriage got caught on a stump. V1 came to rest facing west. It was towed from the scene. V1 was driven by a 78-year-old belted female who was transported to a local hospital for treatment of possible injuries. She was on her way to a restaurant at the time of the crash. Her son was interviewed because she didn't want to talk to anyone else about the crash. The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road on the right side. The Critical Reason was a driver related factor, the driver was asleep. Apparently her medications (Blood Pressure) had been changed recently and her family had noticed that she was dozing off quite frequently all of the sudden. She was also taking a sleep aid. She also has a severe arthritic condition. Even though she is supposed to wear corrective lenses it is unknown as to whether or not she was wearing them at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred about an hour and a half before midnight on a divided, highway. The roadway consists of 2 lanes that run north that are separated from 2 southbound lanes by a depressed dirt and grass median. The road is straight, level, bituminous, and there are no traffic controls present. At the time of the crash it was cloudy, dark, the road surface was wet and there were no street lights to illuminate the roadway, which has a posted speed limit of 105 kmph (65 mph). Vehicle one (V1) was a 2003 Toyota Tacoma, driven by a 24 year-old female with one passenger. They were on their way home from camping. V1 was traveling southbound in the #2 travel lane when the driver stated that she saw a dark shadow coming from her left. Shortly after noticing the shadow, a large elk entered the roadway and was struck by the front of V1. The elk tumbled over the hood and windshield. V1 driver braked and attempted to steer straight but V1 exited the roadway to the left into the median and came to rest facing generally south. V1 was towed due to damage. The pre-crash critical event was coded: object or animal, animal approaching roadway. The critical reason was coded as a driver related factor: inadequate evasive action (e.g., braking only, not braking and steering). The driver failed to realize that the shadow approaching the vehicle was an elk and made no attempts to avoid it as it approached her vehicle, a combination of insufficient braking & steering inputs. It was dark at the time of the crash and the roadway is not illuminated by street lights. The crash area is within an elk range but the driver was not aware of this information.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Animal approaching roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate evasive action, e.g. braking only, not braking and steering

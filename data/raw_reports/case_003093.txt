@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This crash occurred just after noon on a weekday in the southbound lanes of a divided (concrete barrier wall), high-speed interstate highway. The highway consisted of six southbound lanes (lane six designated as an HOV lane) flanked wide emergency shoulders on either side and featured a speed limit of 105kmph (65 mph). The bituminous highway was dry and straight with an uphill slope greater than 2%. Traffic flow was normal and there were no adverse conditions at the time of the crash. V1, a 2004 Honda CR-V, was southbound in the exit lane (lane one). V2, a 2002 Buick LeSabre, was traveling in the same lane ahead of V1. V3, a 2005 Mini Cooper, was also in the exit lane ahead of V2. As traffic began to slow, V3 came to a complete stop and V2 began decelerating. V1 failed to slow down with traffic and subsequently struck the back of V2 with its front. The force of the impact pushed V2 into the back of V3. V1 and V2 were towed due to damage. V1 was driven by a 74-year old male, who refused treatment. The 73 year-old passenger in the front passenger seat sustained non-incapacitating injuries but was not transported. The researcher was unable to interview the driver due to a language barrier. The Critical Precrash Event for V1 was coded other motor vehicle in lane, traveling in same direction while decelerating. The Critical Reason for the Critical Event was an unknown recognition error. No associated factors could be determined for this driver. V2 was driven by a 61 year-old male, who was transported with possible injuries. He stated that he had been going about 105kmph (65 mph). Traffic in the exit lane of the interstate started to slow. The driver stated that as he began to slow, he looked in his rear-view mirror and became concerned that the vehicle behind him did not appear to be slowing. He said that at some point, he knew a crash was inevitable, at which time he stepped down on his brakes as hard as he could, in order to minimize the impact to vehicles in front of him. As a result, the driver of V2 took the brunt of the impact, barely making contact with V3. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors coded to this driver and the driver was not thought to have contributed to the crash. V3 was driven by a 26 year-old female, who was transported with possible injuries. She stated that she was on her way home from school, and had gotten into the exit lane to get off the interstate. The driver indicated that she gradually slowed to a complete stop, and was stationary for ten to fifteen seconds, when she heard the first crash and was subsequently hit from behind. The driver of V3 was not involved in the first harmful event. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors coded to this vehicle and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

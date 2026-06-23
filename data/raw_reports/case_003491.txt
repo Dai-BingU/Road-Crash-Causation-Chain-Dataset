@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 1996 Chevy Astro van, was traveling eastbound on a two lane, two way, icy, asphalt roadway. V1 had just exited the expressway and was negotiating a left curve when it hit a patch of black ice and lost control. V1 skidded across the double barrier line, over the painted flush median, and into the westbound lane. V2, a 2001 Ford F-150 pickup, was traveling westbound negotiating the same curve. As V1 skidded into the westbound lane, it rotated in a counterclockwise direction and its right side was struck by the front of V2. Following this impact, V1 continued its counterclockwise rotation and the right rear side of V2 contacted the left front side of V2. V1 then traveled forward in a westerly direction to the right and its front right struck a guardrail. Both vehicles came to final rest off the north edge of the road facing west. The driver of V1 was an 18-year old male who reported that he had been traveling between 67-80kmph (41-50mph) prior to the crash. He had no health related problems and had taken no medication prior to the crash. He was rested and traveling to the passenger's house. He was wearing his prescribed lenses that corrected a myopic (near-sighted) condition. He sustained some injuries and was transported to a local trauma facility. The Critical Pre-crash Event for the driver of V1 was this vehicle traveling over the left lane line on the left side of travel. The Critical Reason for the Critical Pre-crash Event was a decision error - too fast for conditions because the roads were very icy at the time of the crash. Associated factors coded to this driver include a conversation with the passenger in V1, the condition of the tires on V1 (they had little tread), unfamiliarity with the vehicle, driver inexperience (he had only been driving 5 months prior to the crash), and the slick condition of the road. The driver of V2 was a 33-year old male who reported that he had been traveling between 67-80kmph (41-50mph) prior to the crash. He had no health related problems and had taken no medication. He was rested and traveling to a basketball game. He does not wear corrective lenses. He sustained minor injuries and was transported to a local trauma facility. The Critical Pre-crash Event for the driver of V2 was other vehicle encroachment from opposite direction over left lane line. The Critical Reason for the Critical Pre-crash Event was not coded to the driver of V2 and he was not thought to have contributed to the crash. He took appropriate avoidance actions. The only associated factor coded to this driver was the slick condition of the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Performance, Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

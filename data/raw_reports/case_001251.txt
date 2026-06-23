@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of a one-way roadway and a two-way roadway with one lane in each direction. The roadway was straight and level and it was daylight and clear with no adverse conditions. The speed limit was 48kmph (30mph). Vehicle # 1 was a 2002 Ford Explorer that was traveling northbound on the one-way roadway and stopped at the stop sign. Vehicle # 2 was a 2002 Subaru Forester that was traveling eastbound on the two-way roadway. As Vehicle # 1 proceeded through the intersection and was impacted by the front of Vehicle # 2. The Ford Explorer (Vehicle # 1) was driven by a 42 year-old female who did not sustain any injuries. She stated that as she was inching up at the stop sign because a parked Van was obstructing her view, when she was impacted by Vehicle # 2. The Ford was towed due to damage. The Critical Pre-crash Event for Vehicle # 1 was coded as: This vehicle traveling, crossing over (passing through) the intersection. The Critical Reason for the Critical Pre-crash Event was coded as a Driver related factor: Inadequate surveillance. The associated factors that were coded to the driver were a performance/experience factor and a roadway related factor. A legally parked Van that was parked near the southwest corner of the intersection was blocking the sightline to Vehicle # 2. The driver was also an inexperienced driver because she was driving for less than 12 months. Another associated factor coded to the driver was that she crossed with an obstructed view. The Subaru Forester (Vehicle # 2) was driven by a 35 year-old male who sustained minor injuries and was transported to a medical facility. The driver stated that Vehicle # 1 ran the stop sign. The driver was issued a citation for an unknown reason. The Subaru was towed due to damage. The Critical Pre-crash event for Vehicle # 2 was coded as: Other vehicle encroachment, from crossing street, across path. The Critical Reason for the Critical Event was not coded to this driver. An associated factor coded to the driver was a roadway related factor, there was a sightline restriction of Vehicle # 1 caused by the parked Van in the corner.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

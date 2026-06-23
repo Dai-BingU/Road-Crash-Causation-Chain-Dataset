@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred at the intersection of a two-lane, one-way, southbound, concrete roadway with a right curve and a divided, east/west, asphalt roadway. The westbound travel lanes curve to the left. Both roadways were level and dry. A stop sign for the southbound roadway controls traffic at the intersection. The posted speed limit is 48 kmph (30 mph) for the southbound lanes and 56 kmph (35 mph) for the westbound lanes. Traffic was light at the time of the crash. This crash occurred before sunrise with clear skies and the road was lighted. Vehicle one (V1), a 2002 Oldsmobile Alero, was southbound in the first travel lane. Vehicle two (V2), a 1999 Ford F-150, was westbound in the third travel lane. In the intersection, the front of V1 impacted the right side of V2. V1 rotated clockwise and came to rest in the intersection facing northeast. V2 rotated counterclockwise, departed the roadway into the median and the front struck a signpost and the left side struck utility pole. V2 came to rest in the median facing southwest. Both vehicles were towed due to damage. The driver of V1, a thirty-two year old male, stated that he stopped for 1-2 seconds prior to entering the intersection. He stated that he did not see V2 prior to the crash. The critical pre-crash event for V1 was coded: this vehicle traveling - turning left at intersection. The critical reason for V1 was coded: driver related factor - inadequate surveillance (e.g. failed to look, looked but did not see). The driver of V2, a forty-four year old male, was heading to work from home. This driver travels the route daily and is familiar with the vehicle. He failed to look ahead to the right as he approached the intersection. The critical pre-crash event for V2 was coded: other vehicle encroachment-from crossing street, across path. The critical reason was not coded to this vehicle. This driver's inadequate surveillance was an associated factor in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

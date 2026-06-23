@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This one-vehicle crash occurred during dusk evening hours in the eastbound travel lanes of a divided expressway with overhead lighting. The eastbound direction is comprised for four travel lanes bordered by shoulders. To the north is a concrete median that separates these lanes from the westbound lanes of the expressway. Just ahead of the crash site is an on-ramp on the south side of the expressway that did not play a role. The speed limit on the expressway was 89 kmph (55 mph). Vehicle one, a 1998 Ford Taurus carrying one occupant, was traveling eastbound in the second lane. While traveling at approximately 55 mph, the right rear tire blew out with partial tread separation, causing the driver to lose control. The Taurus traveled left (northeast) across two lanes and the vehicle's left side sideswiped a short concrete median wall. The vehicle rebounded to the right and the driver counter-steered to the left, causing the vehicle to rotate counterclockwise approximately 180 degrees. The vehicle continued to rotate and the back end contacted the median wall, causing the vehicle to rotate clockwise and then slap the median wall with its right side. The driver of the Neon was a 33-year old female that had been driving for approximately five years. She was familiar with both the vehicle and the roadway and was on her way home after going to a store. During the vehicle inspection, it was noted that the remaining tires all had extremely high pressure, one in excess of 70 psi. When this was discussed with the driver, she stated that, "I have been driving with the tires like that for a while and nothing ever happened before." This statement clearly demonstrated her lack of tire upkeep and care knowledge. She estimated the distance she had traveled from the store to be just a few miles, the researcher calculated the distance at 6-kilometers, or 3.6-miles. The Critical Pre-crash event for vehicle one was coded: this vehicle control loss due to: blow out/flat tire. The Critical Reason for the Critical Pre-crash Event was coded as a vehicle related factor: Tires/wheels failed (specified as: Right Rear tire blowout with partial tread separation). In addition, the driver's lack of proper tire maintenance is a factor that lead to the tire failure.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Blow out/flat tire, (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Tires/wheels failed

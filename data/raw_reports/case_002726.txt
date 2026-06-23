@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary V1, a 2000 Honda Odyssey, was northbound in lane 2 of a 4-lane, 2-way, undivided, straight, level, bituminous roadway. V2, a 1984 Oldsmobile Cutlass 4dr, was stopped facing northbound in lane 2 of the same roadway waiting to turn left into a commercial driveway. V3, 2003 Chevrolet Blazer, was southbound in lane 2 of the same roadway. At the time of the crash it was daylight and the roadway was dry. V1's front struck the rear of V2. This impact pushed V2 across the centerline where the front of V3 struck the front of V2. V1 came to rest facing north, V2 came to rest facing northwest and V3 came to rest facing southwest. The driver of V2 was injured, transported and hospitalized. The driver of V3 sought her own treatment. All three vehicles were towed due to damage. A complete interview and vehicle inspection was obtained for V1. V1 was driven by a 41-year old male. He indicated that he was following a non-contact full-size cargo van in lane 2. Suddenly, the cargo van changed lanes to the right, apparently to avoid V2, which was stopped in front of it. The driver of V1 reported that he did not see V2 until the last minute, and he did not expect a car to be stopped in his lane ahead of him. The Critical Pre-crash Event was coded as other motor vehicle stopped in lane and the Critical Reason for the Critical Pre-crash Event was coded as an other recognition error, focused on extraneous vehicle.. Associated factors coded to this driver include unfamiliarity with the roadway, and a sight restriction in the form of the non-contact vehicle that swerved to the right at the last moment. A partial interview and a complete vehicle inspection were obtained for V2. V2 was driven by a 37-year old male. He was attempting to enter the driveway for his place of employment at the time of the crash. He was familiar with both the vehicle and the roadway. The Critical Pre-crash Event was coded as other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. Associated factors coded to this driver include alcohol use and prescription medication use. The medical records indicated that a blood sample was drawn from the driver of V2 one-half hour after the crash and he was found to have a BAC of .06. He told medical personnel that he had consumed alcohol the night before but not the morning of the crash. He also tested positive for barbiturates. A complete interview and vehicle inspection was obtained for V3. V3 was driven by a 22-year old female. No Critical Pre-crash Event and no Critical Reason were coded to the driver of V3 because she was not involved in the first harmful event. No associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway, Surveillance present problem 
+Vehicle 2:  Alcohol, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other recognition error (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

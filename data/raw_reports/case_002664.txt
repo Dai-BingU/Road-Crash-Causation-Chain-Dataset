@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on an urban, secondary arterial road along a straight portion that was also a bridge. The roadway was two-way, two lane and runs east / west with the westbound side bordered by parallel parking spaces. The roadway here was also level. The posted speed limit was 48KPH / 30MPH. Conditions were daylight and dry in the late morning hours on a weekday. Vehicle 1, a 2001 Chrysler PT Cruiser, was westbound crossing the bridge trailing behind Vehicle 2, a 2003 Chevy Impala. As Vehicle 2 was crossing the bridge headed westbound a non-contact vehicle pulled out of one of the parallel parking spaces into the westbound travel lanes causing Vehicle 2 to stop abruptly. Vehicle 1 then collided with the rear end of Vehicle 2, striking Vehicle 2 with its front after skidding approximately 8 meters longitudinally. Vehicle 2 came to rest approximately 20 meters west of impact partially straddling the double yellow line still facing west. Vehicle 1 came to rest just a few meters west of impact, also still facing west. Both vehicles were towed due to damage. Vehicle 1 was driven by a 47-year old belted female whose airbags did not deploy. She was transported to a local hospital for treatment of non-incapacitating injuries. The critical pre-crash event for Vehicle 1 was other motor vehicle in lane: other vehicle decelerating. The critical reason for the critical pre-crash event was an Internal Distraction. The driver of Vehicle 1 said that she had just been digging in her purse to retrieve her cell phone when she “looked up” and saw Vehicle 2 stopped in the westbound lane. Associated factors included inadequate surveillance-failure to look far enough ahead. The non-contact vehicle was coded as a traffic interruption factor. She has a medical condition that makes it uncomfortable to sit completely upright in her vehicle. Vehicle 2 was driven by a 38-year old female who was belted and whose airbags did not deploy in the crash. She was transported to a local trauma center for treatment of non-incapacitating injuries. The EDR download indicated that five seconds pre-crash, the vehicle speed was 64 KPH / 40 MPH. At four seconds pre-crash her brake switch circuit was on. At one second pre-crash the brake switch is off again and the vehicle is moving 4 MPH. Longitudinal Delta V was recorded as zero. The critical pre-crash event for vehicle 2 was other motor vehicle in lane, traveling at higher speed. The critical reason for the critical pre-crash event was not coded to this vehicle. The only contributing factor coded here was the traffic flow interruption factor of the non-contact vehicle pulling out of its parking space into the westbound travel lane.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

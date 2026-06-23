@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary Case #2006-45-009 The crash occurred on an east/west urban business undivided roadway that had two lanes in each direction and a center left turn lane. The road was straight and level at the crash site, but 60 meters west the road curved to the south with a radius of curvature of 225m. The road was heavily traveled; traffic counts from 2003 indicate that it carried 36,034 vehicles per day in the area. The posted speed limit was 72kph (45mph). Conditions were daylight and dry on a weekday afternoon. Vehicle #1 was a 2002 Cadillac Deville traveling east in the right lane. Ahead there were two other vehicles stopped eastbound in the right lane for traffic, Vehicle #2 a 1993 Nissan Altima, and then Vehicle #3, a 1994 Pontiac Bonneville. Vehicle #1 was unable to stop in time and rear-ended Vehicle #2. The impact pushed the Altima (V2) into the rear of the Bonneville (V3). All three vehicles came to rest facing east in the right lane near impact. The Cadillac (V1) and the Altima (V2) were towed due to damage; the Bonneville (V3) was driven away. Vehicle #1 was driven by a 72-year old male that was belted with no deployed airbags. He, and a 72-year old female that was a passenger in the vehicle, were not injured in the collision. They were in the middle of a long two-day trip and had driven most of the previous day. The couple stopped for the night and had been driving about 4½ hours on the day when crash occurred. They exited the interstate and were trying to locate somewhere to get lunch. Just prior to the crash the driver was looking left at a restaurant on the left side of the road. He said when he looked forward again traffic in front of him had come to an abrupt stop. He reported he hit his brakes but only a few feet before impact. EDR data extracted from the vehicle collaborated his statement, it indicated the vehicle was traveling 56kph (35mph) five seconds prior to algorithm enable and 51kph (32mph) one second before. The brakes were applied between -2 and -1 second before AE. The maximum longitudinal delta V for the non-deployment event was 13kph (8mph). Police charged the driver with following improperly. The Critical Precrash Event for Vehicle #1 was other vehicle in lane stopped. The Critical Reason for the Critical Event was an external distraction. Associated factors included fatigue, although the driver denied it, he appeared very tired at the crash scene and later during the interview. Roadway unfamiliarity was also coded; it was the drivers first time on the road. The driver was taking two medications for heart conditions. Vehicle #2 was operated by an 18-year old male that was belted with no deployed airbags. Neither the driver nor a 21-year old male that was a passenger in the vehicle was injured in the collision. The driver stated he'd been stopped approximately three seconds before the crash occurred. The Critical Precrash Event for Vehicle #2 was other vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors that didn't contribute to the crash included the driver having a social conversation with the passenger. The driver was wearing contacts to correct a nearsighted condition and sunglasses at the time and takes a medication for diabetes. Vehicle #3 was driven by a 49-year old female that was belted with no deployed airbags. She was transported from the scene to a local hospital with minor injuries. The Critical Precrash Event for Vehicle #3 was other vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors were unknown; the driver could not be located for a follow up interview. She told police that she stopped for traffic and was struck from behind.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Inexperience, Drugs present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

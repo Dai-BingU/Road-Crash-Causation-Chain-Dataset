@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west four-lane urban roadway divided by a small raised curb median. The road was intersected from the south by a two-lane side street. Westbound the road curved sharply to the right with a radius of curvature of 150m and a negative grade of 6% before straightening and becoming level near the intersection. Conditions were daylight and wet on a weekday afternoon. Light rain had just stopped falling prior to the collision. The posted speed was 56kmph (35mph) and curve warning signs were present in both directions. Vehicle #1 was a 1995 Ford Crown Victoria traveling westbound in the left lane on the four-lane road. Vehicle #2, a 2004 Nissan Maxima, was eastbound in the right lane. The driver of Vehicle #1 lost control negotiating the curve and crossed into the eastbound lanes striking Vehicle #2 head on. Both vehicles came to rest near impact and were towed due to damage. Vehicle #1 was driven by a 16-year-old female that was not belted. The frontal driver airbag did not deploy, the steering wheel was from a different vehicle and the airbag wiring had not been installed properly after the car had been in a previous crash. The airbag module was not bolted down and came out of the steering wheel at impact. The driver was transported to an area trauma center where she was treated and released with non-incapacitating injuries. A 13-year-old male in the front right seat was also unbelted, but was the beneficiary of a deployed frontal airbag. He was hospitalized three days with incapacitating injuries. The driver was charged with failure to maintain lane and driving without a license. She had only a learners permit and was ineligible for a drivers license due to a state law requiring a minimum high school grade point average to receive a license under the graduated license system. The Critical Precrash Event for Vehicle #1 was this vehicle over lane line on left side. The Critical Reason for the Critical Event was decision error, too fast for curve. Associated factors included traveling too fast for conditions, reason unknown and a driver experience factor, inexperienced driver. Vehicle #2 was operated by a 49-year-old male that was belted with deployed frontal, side, and side curtain airbags. He sustained possible injuries and was not transported to from the scene to a medical facility. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. The driver was being treated for sleep apnea and also wore corrective lens for a nearsighted condition, but these did not contribute to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Speed/Distance present problem 
+Vehicle 2:  Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the intersection of two roadways. The northbound roadway was a two-way, two-lane, divided by a raised curb, and controlled by a stop sign. The east-west roadway was a two-lane, two-way, non-divided asphalt roadway with a posted speed limit of 72Kmh (45Mph). The crash occurred during the hours of darkness, and it was raining at the time of the crash. V1 a 2001 Chevy Lumina stopped at the stop sign, looked both ways and proceeded to make her left turn. V2 a 1996 Nissan Altima was traveling east bound in the right curb lane. The front left side of V2 contacted V1 in the left side of the vehicle. Both vehicles were towed due to damage. The driver of V1 a 57 year-old female stated that she looked both ways before she pulled out into the roadway to make her left hand turn. She then stated that she did not see V2 until she was contacted in the side of her vehicle. She also stated that she did not take any avoidance actions, because she did not have time to. The Critical Pre-Crash Event Coded for V1 is "this vehicle traveling, turning left at an intersection". The Critical Reason for the Critical Event Coded for V1 is "Inadequate surveillance (looked but did not see)". The driver of V2 a 38 year-old male stated that he was traveling home form the store when V1 turned in front of him. He then stated that he steered to the right and hit the brakes to try and avoid the collision with V1, but could not. The Critical Pre Crash Event Coded for V2 is "other vehicle in encroachment form driveway, turning into opposite direction". V2 was not assigned a Critical Reason.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

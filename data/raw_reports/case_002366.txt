@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the morning on an eastbound three-lane divided highway. At the location of the crash, the roadway had a curve to the right, a 2 percent uphill grade, and a posted speed limit of 80 kmph (50 mph). The conditions were cloudy, dry and daylight. V1, a 2003 International straight truck, was traveling east in lane 2 approaching an intersection. V2, a 1998 Ford Explorer, was ahead of V1 traveling in the same lane. V2 slowed for a red traffic signal at an intersection and was struck in the rear by the front of V1. The driver of V2 was transported to a local trauma center for minor injuries. Both vehicles were towed from the scene. V1 was driven by 34-year old male who worked as a courier for a major package delivery company. He worked Monday through Friday from 6 am to 6 pm and kept a regular sleep schedule of 11 pm to 5 am each weeknight. He reported to be in good health, have 20/20 vision and claimed not to have any fatigue or emotional-related issues. For the trip this morning, he was driving east toward his first delivery destination. He claimed that he was “6-7 car lengths” behind the vehicle (V2) in front of him as they both approached an intersection. This driver claimed that V2 suddenly stopped for a green light, which caused him to slam on his brakes. He did not stop in time to avoid a collision and the front of his delivery truck struck the back of V2. This driver was not injured in the crash and after a replacement truck arrived on scene, he went back to work. The Critical Pre-crash Event for V1 was coded: other vehicle in lane traveling in same direction while decelerating. The Critical Reason for the Pre-crash event was coded: following too closely to respond to unexpected actions. An associated factor coded to this driver was a false assumption, in that he assumed that the other driver would continue to proceed. V2 was driven by a 45-year old male who reported that as he was driving east on this 2-lane highway, a delivery truck (V1) was tailgating him and trying to run him off the road. When this driver slowed for a red traffic signal, V1 slammed into the back of him. He said the other driver was tailgating him for almost a mile. This interview ended when his wife interrupted the conversation and referred the researcher to the police report. The Critical Pre-crash Event for V2 was coded: other vehicle in lane traveling with higher speed. The Critical Reason for the Pre-crash event was not coded to this vehicle. No associated factors could be coded to this driver due to an incomplete interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

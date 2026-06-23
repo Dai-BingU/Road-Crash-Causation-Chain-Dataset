@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at mid-morning on a level, eastbound, four-lane bituminous expressway that curves to the right. Paved shoulders border this section and a short concrete jersey barrier separates the four eastbound lanes from westbound lanes. At the time of the crash, it was clear, and there were no sight restrictions or road defects, however, a previous crash was blocking the two right lanes, causing congestion. The speed limit on the expressway was 89 kph (55 mph). Vehicle #1, a white 1998 Ford Ranger carrying one occupant, was eastbound in the number 3 lane. Vehicle #2, a white 2002 Ford F-350 ambulance carrying one occupant, was traveling in the third lane ahead of V 1. The ambulance steered right across lane two into the number one lane just past the crash site then began to back up in order to get into position to assist at the scene. The V 1 driver, a 26 year old male, was ending a cellular phone conversation, noticed V 2 entering the number one lane, and decided to change into the number two lane as he passed the crash scene. While merging into the number two lane, the V 1 driver looked over his right shoulder to check for other emergency vehicles that might be departing the scene and noticed EMS people waving their arms at him. Upon redirecting his attention forward, the V 1 driver noticed that V 2 had backed up and re-entered the number two lane and was unable to stop before the front of V 1 contacted the rear of V 2. Both vehicles came to rest at the approximate point of impact. Both vehicles were towed from the crash scene. The V 2 driver received a non-incapacitating injury and was transported to a medical facility. The driver of V 1 was familiar with his vehicle and the roadway and had been driving for about ten years. He was speaking to his mother on his cellular phone just before the crash. He hung up and turned to look over his right shoulder to access the scene as he was changing lanes. The waving EMS crew was trying to warn the driver about the ambulance ahead. The pre-event movement for V 1 was coded changing lanes, category this vehicle traveling over the lane line on right side of travel lane. Critical reason driver related factor "external distraction" (looking at previous crash). The pre-event movement for V 2 was coded backing up (other than parking position). category other vehicle encroachment from adjacent lane. Critical reason not coded to this vehicle. Associative Factors: The V 1 driver's use of the cellular phone may have contributed to the crash, but the emphasis is on the driver's distraction and his looking back at the previous crash scene.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Decision, Distraction, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Backing up (other than for parking position)
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

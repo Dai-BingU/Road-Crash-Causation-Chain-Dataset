@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred on a straight, dry, uphill, bituminous, median divided roadway with no positive barrier. There were two lanes in either direction. The speed limit for this interstate roadway was 113 kmph (70 mph) and there was no advisory limit. It was daylight at the time of the crash and there were no adverse atmospheric conditions. Ahead of the crash traffic was stopping due to a previous crash. Vehicle one (V1), a 1996 Toyota Corolla was traveling northbound in lane two. Vehicle two (V2), a 2005 Nissan Maxima was traveling northbound in lane two ahead of V1. Vehicle three (V3), a 2002 Ford Explorer was traveling northbound in lane two behind a non-contact vehicle, with V1 behind V3. V2 was stopped because all northbound traffic had come to a stop for another crash in the northbound lane. The non-contact vehicle traveling in front of V3 steered left into the median to avoid hitting V2. V3 was traveling at 121 kmph (75 mph) and the front of V3 contacted the rear of V2. V1 did not attempt to avoid V2 and the front of V1 struck the rear of V2. All of the vehicles came to rest off of the roadway. V1 and V2 were towed due to damage. V3 was not towed due to damage. The driver of V1, a thirty-year old female was heading home after a holiday break. This driver was driving behind her husband when the crash occurred. When the crash occurred her husband steered off the road to avoid the crash. This driver watched her husband avoid the crash but was unable to avoid the crash herself. This driver rarely drives on this roadway but drives this vehicle daily. The driver of V2, a twenty-six year old male was heading home after visiting family. This driver stated that he had stopped for a crash that had stopped all the traffic on the highway. This was the first time that this driver had been on this roadway but he drives this vehicle daily. The driver of V3 a fifty-five year old male stated that he did not have enough time to stop for the vehicles ahead of it. This driver was driving from a sporting goods store to his house after spending the weekend hunting. This driver drives on this road several times a month and in this vehicle daily. The critical pre-crash event for V1 was coded: not involved in first harmful event. The critical reason was not coded to this vehicle. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical pre-crash event was not coded to this vehicle. The critical pre-crash event for V3 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical pre-crash event was attributed to V3 and was coded as a driver related factor: Too fast to be able to respond to unexpected actions of other road users (specified as: forward traffic was stopped for a crash that occurred ahead. This driver did not expect this & was traveling too fast to avoid the impact with V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Surveillance, Traffic present problem 
+Vehicle 2:  Driver Inexperience, Driver Stress/Emotion, Drugs, Traffic present problem 
+Vehicle 3:  Decision, Speed/Distance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other- Not involved first harmful event
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :

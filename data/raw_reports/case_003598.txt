@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle collision occurred a few hours before midnight on a westbound on a dry, straight, level, bituminous, divided highway. It consisting of 3 travel lanes and 1 High Occupant Vehicle (HOV) lane divided from eastbound traffic by a concrete jersey barrier. Access to the roadway is fully controlled; the nearest on-ramp and junction with another highway were within 1.6 kilometers (1 mile) of the crash location but were not a factor in this crash. The roadway has a posted speed limit of 97 kmph (60 mph). It was dark at the time of this crash, but the roadway was illuminated by streetlights and there were no adverse weather conditions, sight restrictions or road defects in the crash area. Vehicle one (V1), a light gray 1999 Honda Prelude 2 door was traveling west in lane 3. A non-contact vehicle changed from lane 4 into lane 3 into the path of V1, and the V1 driver steered left and applied his brakes to avoid the non-contact vehicle. V1 then departed the left side of the roadway, had a front impact with the concrete barrier, departed the barrier in a counterclockwise rotation, recontacted the barrier at a shallow angle with the back plane, moved up onto and rode the barrier, this scraping motion resulted in a V1 fire igniting as V1 traveled along the barrier. V1 came to rest against the barrier and in the number 4 lane facing generally northeast. Both V1 frontal airbags deployed as a result of the first impact, and V1 was towed due to major fire and impact damage. The V1 driver, a 30 year-old male, was on his way home from a leisure activity with his girlfriend and had been on the road for approximately 5 minutes. There were no apparent fatigue or inattention factors. The critical pre-crash event was coded as: this vehicle traveling, over the lane line on left side of travel lane. The critical reason for the critical event was assigned to the V1 driver as a driver related performance factor: overcompensation. The avoidance maneuver to avoid the non-contact vehicle was excessive and resulted in loss of control of V1.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

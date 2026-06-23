@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle rollover occurred on a single lane one-way access ramp onto an expressway. The access ramp curves right with a radius of 141 meters, slopes downhill with a grade of -4% and is super elevated with a slope of 6%. The access ramp is bordered to the right by an emergency shoulder and a downhill grade of -23% to a drainage ditch. The roadway is concrete and was snow and ice covered, the weather was blowing snow, and the ramp was dark but lighted. The posted speed limit for the ramp is 88 kph (55 mph). Vehicle one, a 2000 Pontiac Grand Prix was eastbound on the ramp. Vehicle one proceeded down the ramp and began a clockwise rotation on the icy pavement. Vehicle one rotated 180 degrees and departed the roadway to the right, sliding down the embankment laterally. Vehicle one tripped on the shoulder and rolled over two quarter turns. Vehicle one came to rest on its roof off the roadway. Vehicle one was towed due to damage. The driver of vehicle one, a twenty-year old female was heading home from school at the time of the crash. This driver had been driving for about two minutes at the time of the crash. This driver had just finished a strenuous workout at school before starting this trip. This driver was taking an unknown inhaler for Cystic Fibrosis. This driver stated that as she entered the curve of the ramp, the vehicle lost control. This driver drives this vehicle daily and over this road on a daily basis. Both rear tires of vehicle one had a tread depth of less than 1 mm. The critical pre-crash event for vehicle one was coded as “this vehicle control loss due to: poor road conditions”. The critical reason for the critical pre-crash event for vehicle one was coded as “environment related factor: slick roads (low friction road surface due to ice and snow)”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Roadway, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)

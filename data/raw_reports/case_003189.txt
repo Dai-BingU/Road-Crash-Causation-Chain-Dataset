@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred near an interchange in the westbound lanes of a four-lane highway with a grass median secured with a cable guardrail. There were three southbound lanes and one exit lane on the right side of the road. There were breakdown lanes on both sides of the road with rumble strips. The roadway had a posted speed limit of 104 kmph (65 mph) and a downhill grade of 1%. Conditions were daylight and dry with clear skies. The setting was late morning hours on a weekend. Vehicle one was a 2001 Chrysler Sebring sedan traveling west in lane three. Vehicle two was a 2003 Toyota Camry sedan traveling west in lane two. Vehicle three was a 2003 Ford Expedition sport utility traveling west in lane four. The driver of vehicle one realized he was about to miss his exit and began changing lanes to the right. The right plane of V1 impacted the left plane of V2. V2 rotated counter-clockwise and came to rest in lane one facing east. V1 then crossed over two lanes to the left, traveling in front of the path of V3. The rear plane of V1 was impacted by the front of V3. Both V1 and V3 traveled off the left side of the road into the median. V3 impacted the cable guardrail in the median with its left plane. V1 rotated counter-clockwise one quarter turn and continued sliding through the grass median. The left plane of V1 was impacted by the front of V3. Both vehicles came to rest in the median. The Chrysler Sebring (V1) was driven by a 63-year old male who was transported with two other passengers to a local trauma center. He refused to be interviewed for this study. The investigating officer estimated his travel and impact speeds to be 104 kmph (65 mph). The Chrysler sedan was towed due to damage. The Critical Precrash Event for V1 was "this vehicle traveling over the lane line on the right side of the travel lane". The Critical Reason was "inadequate surveillance (failed to look)". This driver suffered from diabetes, high blood pressure, and benign prostatic hyperplasia (BPH). He was taking medications for those conditions. No other associated factors could be coded. The Toyota Camry (V2) was driven by a 36-year old female who was transported to a local trauma center with her passenger. She refused to be interviewed for this study. The investigating officer estimated her travel and impact speeds to be 104 kmph (65 mph). The Toyota sedan did not require towing and continued in service after the crash. The Critical Precrash Event for V2 was "other vehicle encroachment from adjacent lane over the left lane line". The Critical Reason was not coded to this vehicle. No associated factors could be coded to this driver without an interview or vehicle inspection. The Ford Expedition (V3) was driven by a 35-year old male who was transported to a local trauma center with his one passenger. The driver refused to be interviewed and referred me to his attorney, who also refused to allow permission to interview the driver. The investigating officer estimated this driver's travel and impact speeds to be 104 kmph (65 mph). The Ford sport utility was towed due to damage. No Critical Precrash Event or Reason were coded to V3 because it was not involved in the first harmful event. No associated factors could be coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+Vehicle 3:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred late in the afternoon on an eight-lane, downhill, dry, median divided, bituminous roadway that runs east to west and has a posted speed limit of 72 kmph (45 mph). This roadway intersects with a four-lane, dry, uphill, bituminous roadway that runs north to south and has a posted speed limit of 56 kmph (35 mph). This intersection is controlled by a traffic signal (on colors). Traffic was very heavy at the time of the crash. Vehicle one (V 1), a 2005 Toyota Prius driven by a 42 year-old female was traveling eastbound in lane two. Vehicle two (V 2) , a 2004 Toyota Four-Runner driven by a 43 year-old female was traveling southbound in lane two. Both vehicles were attempting to pass through the intersection. As V 1 entered the intersection, the front contacted the right side of V 2. Post impact, V 1 rotated clockwise and came to rest in lane one facing east while V 2 rolled two quarter turns towards its left upon its longitudinal axis and came to rest on its roof facing west. Both vehicles were towed from the scene the driver of V 2 was transported to a local medical facility. The pre-event movement for V 1 coded going straight, category this vehicle traveling crossing over passing through intersection. The critical reason driver related factor "illegal maneuver" (failure to stop for traffic control device). Pre -event movement for V 2 coded going straight, category other vehicle encroachment from crossing street across path. Critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

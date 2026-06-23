@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle daytime collision occurred at morning hours after rush hour. The crash occurred at the intersection of a 4 lane undivided roadway, a freeway on-ramp and a freeway off ramp. The pre-crash roadway for northbound travel is straight with a downhill grade of 6% and a stop sign controlling the intersection. The pre-crash roadway for southbound travel is bituminous paving curved to the left and was graded downhill at 6%. The roadway has a posted speed limit of 56 kmph (35 mph). Vehicle one (V1), a 2001 Ford F250 large pickup driven by a 25 year-old male, was northbound coming up the off-ramp to a stop sign. Vehicle two (V2), a 1991 Mazda MX-6 coupe driven by a 37 year-old male, was traveling south in the second lane along the 4 lane roadway downhill towards the on-ramp. V1 proceeded from the stop sign to turn left approximately 320 degrees to the on-ramp. The size of V1 did not allow for such a sharp turn, and V1 had to stop and reverse to make a typical 3-point turn. There was no sign posted for V1 indicating that left turns were not allowed. The front of V2 collided with the rear of V1 on the left side. The front of V1 was pushed into the guardrail barrier along the on ramp, causing damage to the front bumper. The driver of V1 stated in the interview that he had never driven on this road before, and was trying to turn around and correct a wrong turn he made earlier. V1 was making the 3-point turn in deep shade, while V2 was traveling toward the intersection in bright sunlight. The contrast between the lighting of the pre-crash and crash areas is a contributing factor to this crash. The driver of V 2 could not recall if he had trouble seeing V1 during the interview, only mentioning that he distinctly remembers seeing the back up lights immediately before collision. Witnesses at the scene said that the driver of V2 stated he couldn't see V1 because of the shade. V2 was towed from the scene the driver was transported to a local medical facility. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver performance factor: other performance error (specified as: backing up in travel lane to make a 3-point left turn. This movement by V1 imposed upon the travel of V2, who was going straight. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street- turning into same direction. The critical reason for the critical event was not coded to this vehicle. An associated factor for V2 was that he was too fast to be able to respond to unexpected actions of others (specified as: change in ambient light required caution. Due to this, this driver did not see V1 doing 3-point turn in travel lane and did not realize caution was required. Additional factors for the driver of V2 were sun glare while the other vehicle was in the shade.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Performance, Drugs, Roadway, Weather/Environment present problem 
+Vehicle 2:  Speed/Distance, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other performance error (specify):
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

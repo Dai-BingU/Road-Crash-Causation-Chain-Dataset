@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This crash occurred just after noon in the southbound lanes of a high-volume, high occupancy, high-speed interstate highway. There are five southbound lanes flanked paved emergency shoulders on both the right and the left side. The bituminous roadway was dry, straight, and level with a posted speed limit of 104 kmph (65 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2004 International Truck that was being used as a wreaker, was towing 2 vehicles traveling southbound in lane three. V2, a 2000 Mercedes CLK was also southbound in lane three ahead of V1. V3, 1996 Freightliner semi was southbound in lane three ahead of V2. As traffic started to slow down for an unknown reason V1 failed to slow and impacted V2, which had slowed down dramatically in front of V1. When V1 hit the rear of V2 it pushed V2 into the back of V3. All vehicles pulled off to the right hand shoulder. The 39-year-old male driver of V1 was on his way to make a delivery for work when he saw the traffic in front of him slow down. He slammed his brakes but was unable to stop without making contact with V2, the Mercedes that had slowed down in front of him. He stated in the interview that a phantom red truck from lane five cut across their lanes causing the traffic to slow dramatically. It was noted by the driver of V2 that there was no red truck to her knowledge. He was not injured and his vehicle was not towed due to damages. There was very minor front-end damage to his wreaker. He was cited a ticket for the crash for failure to use due care. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle decelerating. The Critical Precrash Event was coded as a driver error, internal distraction as he was on his cell phone at the time of the crash. Although, he did not admit this on scene the driver of V2 looked in her rear-view mirror and saw him on his cell phone. In addition to the internal distraction, following too closely was coded as an associated factor The 43-year-old female driver of V2 was on her way to work at a local hospital when she saw the 18-wheeler in front of her start to slow. He stated she began to slow and was then hit from behind. The impact pushed her into the rear of the 18-wheeler. She stated that she looked in her mirror and saw the driver of V1 on a cell phone. She was not injured and her vehicle was towed due to damages. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling with a higher rate of speed. The Critical Precrash Event was not coded to this vehicle, and she was not thought to have contributed to the crash. The 38-year-old male driver was on his way to deliver a load to the local port. He was slowing down for traffic when he then heard a loud screech and saw V2 hit the rear of the Trailer. He was not injured and the Truck was not towed as it was barely damaged. The Critical Precrash Event for V3 was not coded, as he was not involved in the first harmful event. The Critical Reason was not assigned to this vehicle. There were no associated factors coded to V3 and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

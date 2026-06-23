@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a four-lane roadway divided by a grass median (two lanes in each direction). This was a straight, level and bituminous roadway. The posted speed limit was 89 kmph (55 mph). It was early afternoon on a weekend, the sky was clear and the roadway was dry. Sun glare was not an issue. Traffic flow was moderate. There was a 3 percent downward slope 200m east of the impact. V1 was a 2004 Chrysler Sebring LX 4-door sedan driven by a 22-year old male with one passenger. The driver of V1 stated that he was traveling from home about 40 miles away to the train station approximately 5 miles from where the accident occurred. V1 was traveling in lane 2 and drifted over the right lane line, striking the left-rear portion of V2 with the front-right portion of V1. He stated that prior to the accident he was in the northbound lane 2 traveling at a speed between 97 and 105 kmph (60 to 65 mph). He suddenly felt very tired and was about to pull over about 1,000 to 2,000 feet prior to the accident but must have blacked out, as he remembers nothing after deciding to pull over until the collision woke him. Both V1 and V2 then pulled over to the right shoulder. The passenger in V1 was a 19-year old female who was asleep in the right front seat. She was transported due to incapacitating injuries. It was suspected that the driver of V1 and his passenger got very little sleep in 24 hours. Both occupants were young and the driver was on his third day of 4-day weekend. The passenger was asleep during the mid-afternoon and the driver stated that he suddenly felt very tired and was looking for a place to pull over before he blacked out. V2, a 2007 International tractor-trailer carrying four horses, was driven by a 46-year old male who had one 33-year old female passenger. Neither the driver nor the passenger was injured. The driver stated that he was traveling in the northbound lane 1 at a speed of 64 kmph (40 mph) and did not track V1 behind him nor knew of its approach prior to the collision. He had been on the roadway approximately 5 minutes, coming from the equestrian center 5 miles away and was on his way home. The Critical Pre-crash Event for V1 was "This vehicle traveling over the lane line on the right side of travel lane." The Critical Reason for the Critical Pre-crash Event was "Sleeping, that is, actually asleep." Associated factors coded to the driver of V1 include unfamiliarity with both the vehicle and the roadway. The Critical Pre-crash Event for V2 was "Other motor vehicle encroachment from adjacent lane (same direction) - over the left lane." The Critical Reason was not coded to this vehicle. An associated factor coded to the driver of V2 was the use of prescription medication for the treatment of high blood pressure.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Inexperience present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

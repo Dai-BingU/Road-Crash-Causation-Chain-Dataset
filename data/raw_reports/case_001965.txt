@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the morning on a six-lane, uphill, bituminous, dry, median divided roadway that has a posted speed limit of 89 kmph (55 mph). This roadway runs east to west and supports two-way traffic. This roadway intersects with a two-lane, dry, level, bituminous roadway that runs north to south. The intersection is controlled by a stop sign. There were no atmospheric conditions present at the time of the crash. Vehicle one (V1), a 1992 Cadillac Sedan Deville driven by a 76 year-old male, was traveling northbound in lane one. Vehicle two (V2), a 1992 Honda Accord sedan driven by a 29 year-old male, was traveling eastbound in lane three. V1 was attempting to make a left turn to travel westbound. As V1 entered the intersection the front of V2 struck the left side of V1. V2 came to rest in lane three of the eastbound roadway and V1 was driven off of the roadway. Both vehicles were towed from the scene; both drivers were transported to a local medical facility. The critical precrash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: illegal maneuver, for not stopping for the traffic control device. The driver stated he followed another vehicle through the intersection, he didn't stop again when he got to the stop sign. Inadequate surveillance was an additional factor for V1. The critical precrash event for V2 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason was not coded to this vehicle. An additional factor for V2 was an internal distraction of putting on a seat belt.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Distraction, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Fatigue present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

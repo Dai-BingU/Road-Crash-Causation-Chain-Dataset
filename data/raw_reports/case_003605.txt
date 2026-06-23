@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This is a single vehicle crash occurred just past noon involving a towed unit, a jackknife and a rollover. In the area of the crash, the two-lane, not physically divided, asphalt roadway was a downhill 4% grade that curved left for eastbound travel. The roadway was in a mountainous area with various curves and primarily downhill elevations for eastbound travel. The crash occurred during daylight with a posted speed limit for the area is 89 kmph (55 mph) with advisory speeds of 72 kmph (45 mph). Warning signs were posted 8 kilometers (5 miles) prior and again at 3.2 kilometers (2 miles) prior to the crash . Vehicle one (V1) was a 1987 Chevrolet V10 4x4 Blazer towing a 7.6 meter (25 feet) long trailer. V1 was driven by a 24 year-old male with two passengers who were traveling eastbound. As V1 was exiting the left hand curve it departed the right road edge with the travel trailer in tow, re-entered the roadway as the trailer continued to fishtail behind. The driver then steered to the right to avoid oncoming vehicles. V1 subsequently departed the right road edge in a clockwise rotation and contacted a dirt embankment with its front bumper plane. The towed trailer swung left around V1 where it jackknifed and caused the trailer unit to detach from the frame. V1 then rolled onto its right side. The trailer was completely demolished upon impact to the shoulder of the eastbound roadway. V1 came to rest partially on top of the flatbed frame portion of the towed unit on its right side facing northeast. V1 was towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical event was coded as a driver related factor: poor directional control (failed to control vehicle with skill ordinarily expected. It was the first time the driver had driven on this route and she was conversing with the passengers. The driver was too fast for the conditions of towing the trailer and negotiating the curve. They were also experiencing difficulties on this trip with the engine over-heating. The trailer was loaded to an unknown degree of weight; however, the driver and physical evidence suggests the cargo in the trailer did not shift prior to the embankment impact. The trailer did "fishtail" (e.g., trailer swing) after the driver tried to return to the roadway after the initial departure, but the driver did not know how to get the vehicle back under control.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cargo Shift, Decision, Distraction, Driver Inexperience, Driver Performance, Speed/Distance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

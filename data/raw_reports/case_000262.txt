@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon in the middle of a four-way residential intersection. The intersection is composed of a two-lane north/south roadway, and a two-lane east/west roadway (controlled by a stop sign). The roadways were bituminous, dry, straight, and level with posted speed limits of 40 kmph (25 mph). The traffic flow was very light and there were no adverse atmospheric conditions. V1, a 2003 Dodge Caravan with one occupant, was eastbound approaching intersection. V2, a 2006 Nissan Frontier with one occupant, was northbound approaching the same intersection. V1 failed to stop for the stop sign and entered the intersection. V1 was struck on the right side by the front of V2. The impact caused V1 to begin rotating clockwise and roll left two-quarter turns to rollover two quarter turns before striking a landscaping wall and coming to final rest on its roof. V2 also rotated clockwise and came to final rest facing northeast in the middle of the intersection. Both vehicles were towed due to damage. The driver of V1, a 33-year-old female, reported minor injuries but was not transported. She stated that she was unfamiliar with the road as this was her first time driving this route. Driver claimed that she did not see the stop sign, and believed that she had the right-of-way. She believed that V2 had the stop sign. V1 continued through the intersection without slowing and made no avoidance maneuvers. The Critical Precrash Event for V1 was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Event was coded as a false assumption as the driver assumed that V2 would yield the right-of-way. Associated factors include an illegal maneuver (failed to stop for TCD) and inexperience (first time on roadway). The Driver of V2, a 59-year-old male, reported no injuries. Driver stated that he was traveling at approximately 40 kmph (25 mph) as he entered the intersection, when V2 ran the stop sign and he struck V1 on the right side. V1 made no avoidance maneuvers. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street, across path. The Critical Reason was coded to this vehicle. The only associated factor coded to this driver was a false assumption as the driver assumed that V1 would yield the right-of-way.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

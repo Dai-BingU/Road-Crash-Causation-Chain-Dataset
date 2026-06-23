@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at the intersection of a four-lane road and a seven-lane road. This intersection is controlled with traffic lights. Both vehicles were on the seven-lane road. The seven-lane road is divided with four lanes coming into the intersection in each direction. The speed limit for the roadway is 64 kmph (35 mph). The road is concrete and uphill for both vehicles. The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. Vehicle one (V1), a 1999 Dodge Grand Caravan was westbound in the fourth lane. Vehicle two (V2), a 2002 Toyota Sienna was eastbound in the first lane. The eastbound traffic at the intersection was stopped. V1 turned left at the intersection. In the intersection, the front of V1 impacted the front of V2. Both vehicles rotated and moved to the south corner of the intersection, where they came to rest. Both vehicles were towed due to damage. The driver of V1, an eighty-year old male was coming from his home and heading to the recycle bin. This driver had been driving for about twenty-five minutes at the time of the crash. This driver stated the protective left turn arrow was not illuminated when he started his left turn. The oncoming traffic was stopped and let him make his turn. He did not see V2 approaching the intersection due to the vehicles in the eastbound lanes and partially due to the fact the eastbound lanes run in a right curve up hill slope of 7.4 %. This driver is taking an unknown high blood pressure medication. This driver drives this vehicle daily and over this road on a daily basis. The driver of V2, a forty-year old female, was heading from the store to her home. This driver had not been driving for a very long time but could not remember when she started this trip. This driver stated that a vehicle ahead of her in lane two was blocking the view of V1. This driver drives this vehicle daily and over this road on a weekly basis. The critical pre-crash event for V1 was coded as: this vehicle traveling, turning left at intersection. The critical reason for the critical pre-crash event was attributed to this vehicle and was coded as a driver related decision factor: other decision error, turned with obstructed view. Inadequate surveillance was also considered a factor for this driver. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction-over left lane line. The critical reason for the critical pre-crash event was not coded to vehicle two.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Decision, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

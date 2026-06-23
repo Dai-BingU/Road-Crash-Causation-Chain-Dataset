@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an urban intersection of two, two-way, level, bituminous roadways with posted speed limits of 56 kmh (35 mph) controlled by an on-colors traffic signal functioning properly. Conditions at the time of the weekday morning crash were daylight, clear and dry. V1, a 1998 Plymouth Voyager minivan, driven by a 44 year-old female running an errand, was eastbound in lane one of a five-lane roadway, negotiating a curve to the left. The driver of v1 ignored the red traffic signal and entered the intersection. All other east/west traffic and north/south traffic had stopped for the left turn portion of the signal. The right side of v1 was struck by the front of v2. The driver of v1 stated that she did not take any avoidance actions, but steered left at the last moment, per the witness. V1 rotated clockwise and was facing southwest in the eastbound lanes at final rest. V1 was towed from the scene due to damage. The fully restrained driver and adult front right passenger denied injuries. V2, a 1992 Honda Accord 4-door sedan, driven by a 43 year-old female, was traveling northbound in lane two on a four-lane roadway, on her commute to work. Traffic was stopped for the red signal. When the signal turned green for the northbound traffic, v2 entered the intersection. The front of v2 struck the right side of v1. The driver of v2 saw v1 at the last second and steered right prior to impact, and braked per the witness who was behind v2. V2 rotated slightly clockwise and came to rest in the westbound lanes facing northeast. V2 was towed from the scene due to damage. The fully restrained driver and adult female front right passengers were treated on the scene. The Critical Precrash Event coded to the driver of v1 was 'this vehicle traveling crossing over (passing through) an intersection. The Critical Reason for the Critical Event was coded as an internal distraction (i.e., conversing with passenger). Although the driver of v1 denied running the red light, the witness stated that v1 entered the intersection like she never even noticed that the light was red, even though other vehicles honked their horns at her. Violating the TCD was coded as an associated factor. The Critical Precrash Event coded to the driver of v2 was 'other vehicle encroachment from crossing street, across path'. The Critical Reason was not coded to this driver. An associated factor of 'vehicle related factor' was coded for the very low tread on the rear tires.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+Vehicle 2:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

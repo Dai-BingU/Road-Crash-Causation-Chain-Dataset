@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred at the intersection of a north-south roadway and an east-west roadway. The pre-crash roadway for vehicle one is five-lane straight and level roadway paved with bituminous asphalt. This roadway has a center two-way turn lane that becomes a left turn lane at the intersection. The pre-crash roadway for vehicle two is a two-lane straight and level roadway paved with bituminous asphalt. The intersection is controlled by a colors traffic signal with a pedestrian crossing, but due to a power outage the light was not functional at the time. The speed limit for vehicle one is 62 kph (40 mph) and the speed limit for vehicle two is 40 kph (25 mph). The travel lanes were wet at this time. Vehicle one (V1), a 1996 Toyota Camry was southbound on the main roadway. Vehicle two (V2), a 1995 Infiniti Q45 was stopped on the cross street at the intersection. The traffic signal was dark due to a power outage in the area and drivers were treating it as an intersection controlled by a stop sign. The north and southbound traffic had stopped to let vehicle two cross the intersection, and V2 proceeded into the intersection. V1 entered the intersection and impacted the left side of V2 with its front plane. Both vehicles came to rest in the intersection. V1 was towed due to damage. V2 was not towed. The driver of V1, a forty-eight year old female was heading to work at the time of the crash. This driver had been for over forty-five minutes at the time of the crash. This driver stated that she didn't know the color of the light before entering the intersection. She did not realize until after the collision that the lights were out. She also stated that there was a car about five car lengths in front of her that rolled through the intersection. This driver drives this vehicle daily and over this road on a daily basis. The driver of V2, a seventeen-year-old female was driving to school from home at the time of the crash. This driver had been driving for about ten minutes at the time of the crash. This driver was having a social conversation with the other occupants at the time of the crash. This driver had been stopped for about five to ten second before proceeding into the intersection. This driver has only been driving for about fourteen months. This driver drives this vehicle daily and over this road on a daily basis. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over [passing through] intersection. The critical reason for the critical pre-crash event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Roadway, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Roadway, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

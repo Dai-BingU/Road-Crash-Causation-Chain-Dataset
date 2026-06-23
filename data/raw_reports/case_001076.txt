@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on the southbound side of the north /south interstate. There were five travel lanes each way with a concrete median wall dividing the highway. The conditions were daylight and snow with cloudy skies. The crash occurred in the early morning hours. The posted speed was 112 kmph (70mph). Vehicle 1 was a 2000 GMC Sonoma pickup that was traveling south in lane three. There was a non-contact vehicle pulling a large trailer filled with snowmobiles passing in lane two. As the non-contact vehicle's trailer became even with the front of Vehicle1, the non-contact vehicle began changing lanes to the left. Driver 1 then tapped the brake, losing control. Vehicle 1 contacted the median wall with the front of the vehicle, then rotated ¼ turn counterclockwise making contact with the right rear ¼ panel to the median wall. Vehicle 1 then rotated counterclockwise ¾ of a turn to come to final rest facing south in lane one. An 18-year-old female who was treated drove vehicle 1 on scene for minor injuries. The driver of Vehicle 1 stated that she had just entered the highway and moved into lane three for a clear driving lane. She also stated that lane 4 was clear and lane 5 was snow covered. The driver stated she was traveling at 72 kmph (45 mph) at the time of the crash. She stated that her classes had been canceled and she was on her way to a Doctor appointment and was in no hurry. The pre-event movement for Vehicle 1 was coded as "Going straight", the critical pre-crash event for Vehicle 1 was coded "This vehicle loss of control due to traveling too fast", and the critical reason for the Critical Event was coded "Traveling too fast for conditions to be able to respond to unexpected actions of other road users". Associated factors included the trailer of the non-contact vehicle kicking up the loose snow on the roadway, the snow covered condition of the roadway, and a false assumption on the part of Driver 1. Driver 1 was also taking medication for anxiety. Driver 1 had taken Ibuprofen for pain, but this medication was not thought to have been a factor in the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred shortly past noon. The weather was clear, the roadway was dry and it was daylight. The location of this crash was a T-intersection located in an urban area near a school and shopping center. The east/west roadway is a five lane, undivided bituminous arterial, which is heavily traveled. There are bicycle lanes located next to the curb lanes in both directions. The roadway where the first harmful event occurred is a three lane, with a negative grade for southbound vehicles. The speed limit is 48 kph (30 mph). Vehicle one (V1), a 2001 Volkswagen Jetta four door sedan, driven by a 35 year-old male was traveling southbound in the curb lane of a three lane, undivided roadway. Vehicle one had just crested a hill and was traveling down hill approaching a T-intersection. The driver at some point had a severe seizure and blacked out behind the wheel. Vehicle one continued southbound and struck the rear bumper of Vehicle two (V2), a 2003 Oldsmobile Bravada suv which was stopped at the traffic light at the intersection. The impact was a minor swipe type which redirected vehicle one to it's left. Vehicle one continued straight crossing the intersection. The vehicle struck the south curb, rode up over the curb and struck a metal sign pole head-on. On impact vehicle one bounced backwards and came to rest with the front wheels on the sidewalk facing south. Vehicle one was towed due to damage. V2 was driven from the scene. The pre-event movement for V1 coded going straight, category other motor vehicle in lane other vehicle stopped. Critical reason for the critical event driver related factor "Heart attack or other physical impairment of ability to act" (seizure). The pre-event movement for V2 coded stopped in traffic lane, category other motor vehicle in lane traveling in same direction with higher speed. Critical reason not coded to this vehicle .
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

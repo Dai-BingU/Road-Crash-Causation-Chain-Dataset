@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a four-legged, traffic signal-controlled intersection. The east/west trafficway is divided by a grass median. The westbound lanes have an uphill grade, curve to the left (the radius of curvature is 161 meters and the superelevation is two percent) and consist of two through lanes, a left turn lane and a right turn lane. The speed limit for this roadway is 80 kmph (50 mph). The north/south roadway is undivided. The southbound approach consists of one through lane and two left turn lanes. The speed limit for this roadway is 56 kmph (35 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2002 Buick LeSabre, was westbound in lane three. Vehicle two (V2), a 2007 Toyota Camry, was southbound in lane one. In the intersection, the front of V2 struck the right side of V1. V1 was towed due to damage. The driver of V1, an eighty-year-old female, was not interviewed. No further information is available for this driver. The driver of V2, a twenty-nine-year-old female, stated that she did not see V1 prior to the crash. No further information is available for this driver. The critical pre-crash event for V1 was coded as "this vehicle traveling; crossing over (passing through) intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; type of driver error unknown." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from crossing street, across path." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle." This driver's failure to look to the side at the intersection was an associated factor in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

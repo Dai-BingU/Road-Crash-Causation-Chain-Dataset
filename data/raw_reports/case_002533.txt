@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This is a two-vehicle rear end type crash that occurred in the number one lane of a dry, five-lane bituminous asphalt roadway. There are two westbound and two eastbound lanes that are separated by a continuous left turn lane. The intersection where the crash occurred is controlled by a traffic light that was functioning properly at the time of the crash. The crash occurred in the early evening during daylight hours. There were no roadway deficiencies and no sight line restrictions noted. The speed limit on the roadway where the crash occurred is posted at 56 kmph (35 mph). V2, a 2003 Honda Accord, was traveling westbound in the number one lane of the westbound roadway when it stopped for the red light at the intersection. V1, a 1981 Dodge pickup, was also traveling westbound in the number one lane behind V2, at a minumum calculated speed of 72 to 80 kmph (45 to 50 mph). Skid marks measuring 35 meters (115 feet) in length were measured before the front of V1 contacted the rear of V2. Both vehicles came to rest in lane one facing west After impact, the driver of V1 was able to drive the vehicle into a parking lot located to the north of the crash location. The driver, a 45 year-old male was not injured. The vehicle was able to be driven from the scene on its own power. The three occupants in V2 complained of minor pain and were treated at the scene. V2 was towed due to damage The driver of V1 was on his commute home from a building supply store. The driver stated that before the crash he was looking in his left side mirror, and when he looked up he noticed that V2 was stopped forward of his vehicle in the same travel lane. The driver applied the brakes but could not avoid the collision due to his speed. There were no view obstructions or sight line problems for either driver. The pre event movement for V1 was coded: going straight. The critical pre-crash event was coded: other motor vehicle in lane-other vehicle stopped. The critical reason for the critical event was attributed to V1 as a driver related decision factor of: Too fast for conditions (specified as: The vehicle was traveling at a minimum of 21 kmph (13 mph) above the posted speed limit and would have stopped in time with the conditions that existed at the time of the crash if the vehicle had been traveling the posted speed limit). The driver was also externally distracted by looking in the side mirror and not paying full attention to forward traffic. The driver of V2 was a 16-year-old female. The pre event movement for V2 was coded: stopped in traffic lane. The critical pre-crash event was coded: other motor vehicle in lane-traveling in same direction with higher speed. The critical reason for the critical event was not coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Distraction, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

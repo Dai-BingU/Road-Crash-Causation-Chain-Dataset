@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred on a two-lane, undivided roadway. In the northbound direction, this roadway curves to the right and has a ten percent downhill grade. There is a steep downhill embankment off the left side of this roadway. The speed limit for this roadway is 56 kmph (35 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1988 Toyota Corolla, was northbound in lane one. V1 traveled off the left side of the roadway, down the embankment and the left side struck a tree. V1 was towed due to damage. The driver of V1, a forty-nine-year-old male, was pronounced dead at the scene. His wife was interviewed and stated that this driver was on his way from a relative's house to his trailer to feed his dogs. She further stated that this driver has sleep apnea, is always fatigued and "falls asleep all of the time." He was not currently using the prescribed CPAP treatment for his apnea. The critical pre-crash event for V1 was coded as "this vehicle traveling; off the edge of the road on the left side." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; sleeping, that is, actually asleep."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

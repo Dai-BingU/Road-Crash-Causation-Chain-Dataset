@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in a T-intersection of a four-lane roadway divided by a grass median and a two-lane residential cross street. There were two lanes in each direction (east and west) on the divided highway, which was dry, straight, level, and asphalt. The posted speed limit was 80 kmph (50 mph). The residential cross street was asphalt with no lane markings and it ran north and south, but ended at the intersection in the southbound direction. The speed limit for that street was 48 kmph (30 mph). The residential street was controlled by a stop sign; the east/west roadway had no traffic control device. The crash occurred at mid-morning on a bright, clear weekday. Traffic was moderate. V1, a 2002 Lexus RX300 four-door SUV with two occupants, was westbound in lane two and had the right of way. V2, a 1993 Ford Taurus four-door with three occupants, was southbound on the residential cross street. V2 stopped at the stop sign and then drove across the two westbound lanes across the path of V1, trying to get to the crossover so that the driver could make a left turn onto the eastbound roadway. Before V2 could clear the westbound lanes, the front of V1 struck the left rear of V2. V1 was driven by a 64-year old woman who was not injured. Her 59-year old female passenger was also not injured. She said that she had been westbound to go shopping and that she was traveling about 80 kmph (50 mph). She saw V2 drive across her path from a cross street toward the crossover. She did not know if V2 stopped at the stop sign. She hit her brakes without lock-up and steered to the right to try to avoid V2. V1 did not leave any skid marks, but the front left of her vehicle struck the left rear of V2 before it could clear her lane. The impact caused V2 to spin around in a counterclockwise direction. V1 drove to the right shoulder and parked. The Critical Pre-crash event for V1 was other vehicle encroachment from crossing street turning into opposite direction. The Critical Reason was not coded for this vehicle. An associated factor coded to the driver of V1 was conversation with her passenger. V2 was driven by a 22-year old female who was not injured. Her children, a 5-year old female and a 21-month old male, were safely restrained in child safety seats in the rear passenger area. They were transported to a hospital for possible injures. The driver said she had just left home to run errands. She said she stopped at the stop sign and looked both ways but she did not see anyone coming. She said she drove across the two westbound lanes to get to the crossover so she could turn left onto the eastbound lanes. As she was crossing, she saw V1 approaching. She accelerated to try to get out of V1's path but the front of V1 struck her left rear causing her car to spin around. V2 came to rest in the center of the crossover facing northeast. The Critical Pre-crash Event for V2 was this vehicle turning left at intersection. The Critical Reason for the Critical Event was inadequate surveillance - failed to look, looked but did not see. Associated factors coded to the driver of V2 were strenuous non-work activities and driver inexperience.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+Vehicle 2:  Driver Inexperience, Driver Physical, Drugs, Surveillance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

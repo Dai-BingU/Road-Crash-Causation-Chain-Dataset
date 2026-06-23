@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the intersection of two, two-lane concrete roadways, each with a posted speed limit of 40 kmph (25 mph). The north-south roadway was controlled by a functioning stop sign, and the east-west roadway had no traffic control devices. At the time of the crash, the traffic lanes were covered by snow and slush. The approach for both V1 and V2 were slightly downhill at a less than a 2% grade. V1, a 1998 GMC Suburban, was driven by a 47-year old male. V1 was traveling north approaching the stop sign but was unable to stop due to the slick roadway. V2, a 1993 Chrysler LeBaron, was driven by a 27-year old male. V2 was traveling westbound and saw V1 approaching the intersection. The passenger noted that it looked like V1 was not going to be able to stop and warned the driver. The driver stated that he looked over and saw that the front wheels of the Suburban were locked, but it was not slowing down. The driver of V2 stated that he applied brake pressure, locking up his wheels, and steered his vehicle to the right. V1 entered the intersection and was struck in the right side by the front of V2. V1 then continued northbound until it entered a ditch off the left side of the roadway, striking a fire hydrant and coming to rest. V2 came to its final rest position in the westbound lane, rotated slightly to the right. The Critical Pre-crash Event for V1 was when it lost control due to poor road conditions. The Critical Reason for the Critical Pre-crash Event was traveling too fast for conditions. Associated factors coded to this driver were use of prescription medications for diabetes and high cholesterol, the slick condition of the roadway, and the weather (snow). The Critical Pre-crash Event for V2 was other vehicle encroachment from crossing street across path. The Critical Reason was not coded to this vehicle. The driver of V2 took appropriate avoidance actions. Associated factors coded to this driver were the slick condition of the roadway and the weather (snow).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Roadway, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

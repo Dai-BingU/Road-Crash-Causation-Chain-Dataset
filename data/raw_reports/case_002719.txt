@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a two lane undivided roadway, slightly curving to the left, with radius of 3 meters and a super-elevation of 5/3%. The posted speed limit was 64KMPH (40MPH). The roadway was dry and the weather was clear. This crash occurred on a weekend morning. Vehicle #1, a 2001 Chevrolet Malibu, was traveling south on the two lane undivided roadway negotiating the curve when it went off the roadway to the right impacting with the left front of Vehicle #2 and the left front of Vehicle #3. This caused a domino effect down the line from Vehicle #3 through Vehicle #7. A piece of Vehicle #2 flew up and into Vehicle #8 cracking the bottom right part of the windshield. All vehicles from #2 through #8 were being sold on a used vehicle parking lot. The Chevrolet Malibu (Vehicle #1) was driven by an 18 year old belted male and had a 19 year old passenger in the front right seat. EMS was refused although the passenger complained of neck and chest pain. The driver stated that he thought his brakes and steering wheel locked up and he was trying to steer away from northbound traffic. He stated he was talking with his passenger before and during the time of impact. It should be noted at this time that the driver stated his vehicle had a short history of engine failure as an event of that nature occurred during the prior week. It should also be noted the driver was inexperienced and not familiar with a loss of power steering. The Police and the Researcher tested both the brakes and steering at the scene and did not find a loss of either to have occurred. The Critical Precrash Event coded to Vehicle #1 was This Vehicle Traveling Off the edge of the road on the right side. The Critical Reason for the Critical Precrash Event was coded as Driver Related Factor, Performance Errors, Panic/freezing. This was chosen due to the driver stating that he panicked when he thought the brakes and steering wheel locked up. This driver does not wear prescription lenses and has no known illness for which medication would be needed. No other associated factors were coded to this driver. Vehicle #2, a 1993 Ford Escort, and Vehicle #3, a 1994 Dodge Shadow were parked in a line of used cars, 1 meter off to the right side of the roadway shoulder. No Critical Precrash Event or Critical Reason for the Critical Precrash Event were coded to these vehicles. The Police did not consider alcohol or illegal drugs to be a factor in this crash and ordered no tests for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Panic/freezing

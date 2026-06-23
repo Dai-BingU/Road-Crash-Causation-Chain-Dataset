@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a straight, level primary arterial road that was a two-way, two-lane road running east/west in an area that blends from rural to business. The road had wide paved shoulders on both sides. The road was divided by a double yellow line, was straight and level and had a speed limit of 72kph/45mph in the area of the crash. The crash happened in the mid-morning hours on a weekday at the peak of rush hour congestion with heavy sun glare for eastbound traffic. V1 was a 1995 Saturn SW2 station wagon traveling east on the road when the driver was temporarily blinded by sun glare and began to decelerate as a result. V1 then struck V2, a 2006 KIA Spectra (that was decelerating for traffic ahead which was slowed by a distant traffic light) in the back end with its (V1's) front. Both vehicles came to rest within a few meters of impact. V1 was driven away and V2 was towed from the scene. V1 was driven by a thirty eight year old belted male who was listed as sustaining possible injuries in the crash but was not transported from the scene. He stated that the sun glare kept him from seeing traffic slowing ahead. He was on his way to the doctors after work and not having slept in over 27 hours. The critical precrash event for V1 was other vehicle in lane traveling the same direction while decelerating. The critical reason was coded as an environment related factor/glare. Associated factors include driver fatigue, along with a few medications taken to control diabetes and high blood pressure. The driver was also considered inattentive, thought focus unknown (if he had been paying attention further back he may have noticed traffic already slowing), and failure to look far enough ahead. His tires were also dry rotted but this was not thought to have contributed to this crash. V2 was driven by a belted thirty six year old female who was transported from the crash scene due to possible injuries. She was on her way to school at the time of the crash. The critical precrash event for V2 was other vehicle in lane traveling same direction with higher speed. The critical reason was not coded to this vehicle. Associated factors coded were rush hour congestion and sun glare.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Physical, Drugs, Surveillance, Traffic, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Glare
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

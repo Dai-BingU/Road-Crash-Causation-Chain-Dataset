@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the eastbound lanes of a five-lane roadway divided by a concrete median. There were three eastbound lanes and two westbound lanes. This roadway curved gently to the right, had a vertical profile of greater than 2 percent, was bituminous, and had a posted speed limit of 89 kmph (55 mph). It was mid-evening on a weekday and conditions were clear. V1 was a 2001 Subaru Outback driven by a 31-year-old female. V1 was traveling in the third lane of the highway, with a vehicle in front of her, and a vehicle to her right. The vehicle in front of V1 swerved quickly to the right into lane two. Soon after this occurred, a deer in lane three was revealed to the driver. The driver applied the brakes and steered slightly to the left because there was a vehicle blocking her right. The driver then steered to the right to avoid impacting the concrete barrier on her left. During these actions, the vehicle hit the deer. The right steering input sent V1 across the roadway where it suffered a frontal impact to a cement wall. This was where the vehicle came to final rest. The Critical Precrash Event for V1 was "object or animal in the roadway." The Critical Reason for the Critical Pre-crash Event was driver related factor, "following too closely to respond to unexpected actions." The driver of V1 related that she was following approximately 30 feet behind the vehicle that swerved out of the way of the deer. At this speed she would have had very little reaction time to avoid roadway hazards. No additional associated factors were coded to the driver of V1.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Animal in roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a four-leg intersection. Both roadways are two-lane, undivided, straight and have a slight upgrade. The north/south roadway is controlled by stop signs and the speed limit is 40 kmph (25 mph). The speed limit for the east/west roadway is 56 kmph (35 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1995 Pontiac Bonneville, was southbound in lane one. Vehicle two (V2), a 2005 Ford Taurus, was westbound in lane one. In the intersection, the front of V1 struck the right side of V2. V2 traveled in a northwesterly direction and the front left wheel struck the south curb. V2 was towed due to damage. The driver of V1, an unidentified male, drove away from the scene; no information is available for this driver. The driver of V2, a thirty-two-year-old female, was traveling, with two female relatives, from visiting a relative in the hospital to their home. She was healthy, well rested and familiar with her vehicle. This driver rarely travels on this roadway. The pre-event movement for V1 was coded as "going straight." The critical pre-crash event for V1 was coded as "this vehicle traveling; crossing over (passing through) intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; illegal maneuver." The pre-event movement for V2 was coded as "going straight." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from crossing street, across path." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

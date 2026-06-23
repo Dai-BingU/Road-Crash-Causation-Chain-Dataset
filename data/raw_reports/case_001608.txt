@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 1996 Chevrolet Silverado pickup, was traveling westbound on a five-lane, two-way undivided dry, asphalt roadway with a level grade in daylight conditions. V1 was stopped in lane three (a left turn-only lane) intending to make a left-hand turn. V2, a 2005 Buick Lacrosse, was traveling eastbound on the same roadway, in lane two approaching the same intersection intending to go straight. The driver of V1 stated that she saw V2 with its blinker on and thought that V2 was also going to turn left. The driver of V1 turned left and the front of V2 contacted the right side of V1 in the middle of the intersection before coming to final rest on the roadway. The driver of V1 was a 63-year old female who reported that she had been traveling between 2-16 kmph (1-10 mph) prior to the crash. She had a history of high blood pressure, and was taking two blood pressure medications, neither of which had any known performance-impairing side effects. The driver of V1 was rested and traveling home from work. She was wearing her prescribed lenses that corrected both a hyperopic (far-sighted) and myopic (near-sighted) condition. She sustained minor injuries and was treated on scene. The Critical Precrash Event for the driver of V1 was "This vehicle traveling, turning left at intersection." The Critical Reason for the Critical Precrash Event was coded as a decision error - false assumption of other road user's actions, because she assumed that V2 would turn left instead of going straight through the intersection. The driver of V2 was a 38-year old male who had reported that he had been traveling between 82-97 kmph (51-60 mph) prior to the crash. He also reported that he did not think that the driver of V1 would turn left in front of him because he had the right of way. He had no health related problems and had taken no medication prior to the crash. He was rested and on his way to show a customer the vehicle. He does not wear prescriptive lenses, and was not injured in the crash. The Critical Precrash Event for the driver of V2 was "Other vehicle encroachment from opposite direction, over left lane line." The Critical Reason was not coded to the driver of V2. One associated factor coded to the driver of V2 was an unfamiliarity with the vehicle - this was the first time that he had driven this particular vehicle. He reported however, that he drove on the roadway on a daily basis.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

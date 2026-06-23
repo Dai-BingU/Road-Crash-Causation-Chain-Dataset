@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle, rear-end crash, occurred in the early afternoon at a signal-controlled intersection. The northbound bituminous roadway was a one-way, two lane trafficway. This northbound roadway was intersected by a two-lane, two-way roadway. All roadways were dry, straight, and level with a posted speed limit of 56kmph (35 mph). There were no adverse atmospheric conditions at the time of the crash. V1, a 1996 Chrysler Cirrus, was northbound in lane two approaching the intersection. V2, a 2000 Chevrolet Cavalier, was also northbound in lane two behind V1. V1 stopped suddenly when the light changed and the front of V2 contacted the rear of V1. The impact caused both vehicles to continue forward to the left side of the roadway where they came to final rest. Vehicle one suffered minor damage and was driven from the scene before the researcher's arrival. Vehicle two suffered moderate damage and had to be towed from the scene. V1 was driven by a 31 year-old female who did not suffer any injuries as a result of the collision. In an interview obtained well after the crash the driver stated that she hit her brakes when the light changed to yellow, she heard a screeching noise and V2 hit her in the back. V1 was drivable and had left the scene prior to the researchers arrival. The Critical Precrash Event coded to this vehicle was other motor vehicle in lane, traveling in same direction at a higher speed. The Critical Reason was not coded to this vehicle. There are no known associated factors coded to V1. V2 was driven by a 58 year-old female who suffered minor injuries and was taken to the hospital for evaluation. She claimed that the vehicle in front of her (V1), slammed on her brakes as the traffic signal changed to yellow. She also claimed that she was not tailgating during the time leading up to the crash. No fatigue or health related issues were coded for this driver, although she was taking medication to control her blood pressure. The Critical Precrash Event coded to this vehicle was other motor vehicle in lane, traveling in same direction while decelerating. The Critical Reason for the Critical Precrash Event was coded as a driver related factor, a decision error, following too closely to respond to unexpected actions.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Following too closely to respond to unexpected actions

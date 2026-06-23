@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary V1, a 1998 Chrysler Cirrus was traveling northbound on a three-lane, one way, concrete roadway in dark conditions. V2, a 2004 freightliner was also traveling northbound in lane one on the same roadway. V1 was traveling in the second lane when the driver stated that she lost control and impacted its right to the left of V2. V1 then contacted its front to a concrete barrier wall before they both came to final rest in the roadway. V1 was driven by a 36-year old female in good health who was rested and traveling home. She reported that she had been traveling 98-112kmph (61-70mph) prior to the crash. She and her passengers sustained no injuries and did not require treatment. V1 was towed due to damage. The Critical Precrash Event for the driver of V1 was this vehicle traveling, over the lane line on right side of travel. The Critical Reason for the Critical Precrash Event was a recognition error, internal distraction. The driver had four teenagers in the vehicle and there was no evidence that she had lost control prior to the crash. V2 was driven by a 40-year old male in good health who was rested and traveling home. He reported that he had been traveling 98-112kmph (61-70mph) prior to the crash. He was properly licensed and felt comfortable driving the semi. He was not injured and did not require medical treatment. V2 was driven from the scene. The Critical Precrash Event for the driver of V2 was other vehicle encroachment, from adjacent lane over left lane line. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2 and he was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

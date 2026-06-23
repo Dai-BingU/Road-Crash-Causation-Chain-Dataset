@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The single-vehicle crash occurred just after noon on the right (southern) roadside of two-lane undivided residential roadway. The east/west roadway consisted of one lane in each direction with a paved shoulder running along the eastbound travel lane. The bituminous roadway was dry, level and generally straight, however there were sections of this roadway featuring elongated curves (such as the area where the crash occurred). The posted speed was 45 kmph (30 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1994 Chevrolet Corsica with the driver as only occupant, was eastbound, negotiating a curve left in lane one. As V1 completed the curve and entered a straight section of roadway, it was unable to stay within its lane and drifted right over the paved shoulder. V1 departed the roadway to its right side where it struck a wooden utility pole. Upon impact, the front of V1 pushed the wooden pole back on an angle and broke the pole. V1 rode up the slanted pole and overturned, rolling two quarter turns before coming to final rest on its roof near its initial point of impact. The driver of V1, a 26-year old male, refused medical treatment or transport, stating that he would be okay. The driver reported that he was on his way to a friend's house when he lost control of V1 as he came out of the left curve. Driver stated that he drives this roadway daily and that he made a miscalculation as he navigated this familiar curve. He stated that he had had a late night of drinking and acknowledged that he felt fatigued and "hung-over" at the time of the crash. The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road on the right side. The Critical Reason for the Critical Precrash Event was a driver related factor traveling too fast for curve/turn. Associated factors coded to V1 include driver fatigue, and feeling hung-over. A tire deficiency was also coded as an associated factor as the inner halves of both rear tires were visibly bald.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Speed/Distance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

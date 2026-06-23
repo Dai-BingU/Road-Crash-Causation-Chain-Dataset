@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the center lanes of a high-speed, high-occupancy, interstate highway. There were six lanes running southbound and two paved emergency shoulders on both sides of the roadway. It was rush hour on a weekday morning and the skies were clear and the roads were dry. The roadway was straight and level. The posted speed was 105kph (65 mph). V1, a 1998 Honda prelude, was southbound in lane two traveling at approximately 105kmph. V2, a 1996 International truck, was southbound in lane three traveling at 97kmph (60 mph). Directly ahead of V1 in the middle of the lane two was a steel driver shaft that had fallen off a semi in front of V1. To try to avoid hitting the debris in the roadway V1 steered to her right cutting into lane three in the path of V2. The front of V2 collided with the left side of V1 pushing it over 60 meters until they both came to final rest in lane three. V1 was driven by a 23 year-old woman who was on her way home from partying all night long at a local casino. She noticed a metal bar (later determined to be a drive shaft) in her lane that had fallen off a semi lying in the lane directly ahead. She attempted to avoid hitting it by steering left where she subsequently collided with V2. The driver of V2 was transported to treatment facility with non-incapacitating injuries and V1 was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle traveling, over the lane line on the left side of travel lane. The Critical Reason was a driver related factor, a decision error, incorrect evasive action as the driver chose the wrong direction to go around the debris in the roadway. The major associative factor related to this driver was fatigue, as she had not yet slept. She had been up all night partying and dancing. Due to the fatigue I feel her reaction time was slowed V2 was driven by a 29 year-old male driving his normal route for work. He stated that he saw V1 cut over into his lane he immediately applied his brakes but could not avoid hitting V1. V2 left 62.2 meters of skid marks after making contact with the left side of the V1. The driver was not injured, however V2 was towed due to damage. The Critical Precrash Event for V2, was coded other vehicle encroachment, from adjacent lane over the right lane line. The Critical Event was not coded to this vehicle. The only associative factor related to the driver was his sleep schedule as he was a trucker, although, he did sleep eight hours the night before he had been up for 15-hours straight. The driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Drugs, Traffic present problem 
+Vehicle 2:  Decision, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

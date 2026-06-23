@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred in a four-way intersection with north and south traffic controlled by a stop sign. Both roadways were three-lane (with a left turn lane at the intersection), undivided, straight and level. The speed limit on both roadways was 72 kmph (45 mph). No adverse weather conditions present at the time of this daytime crash. Vehicle one (V1), a 1992 Ford Aerostar, was traveling south in lane one intending to pass through the intersection. V2, a 2005 Volkswagen Touareg, was traveling in lane one of the eastbound roadway, also intending to travel straight through the intersection. V1 driver failed to notice the stop sign or V2 approaching from the right and went through intersection without stopping. V2 driver noticed V1 approaching intersection without slowing down and accelerated into intersection with the intention of avoiding collision. In the intersection, the front of V1 struck the back left side of V2. V1 rotated counterclockwise, crossed two additional lanes of traffic and rolled over four-quarter turns off the left side of roadway. During the rollover, the right side struck a small sawhorse type traffic sign. V1 came to rest on the roadside facing north. V2 rotated counterclockwise and came to rest in middle of eastbound traffic lanes facing southeast. V1 driver, a fifty-eight-year-old male, was driving from a toy show in a nearby town to his home. He indicated that he had slept eight hours the night before and woke rested. He has been diagnosed with sleep apnea and sleeps with a CPAP machine. He also takes Zestril, a medication for high blood pressure, in addition to Flomax and Lopressor. The driver rarely drives this route and indicated that he was not paying attention as he drove through the intersection. He stated he looked straight ahead and did not realize he had a stop sign, nor V2's presence. The critical precrash event for V1 was coded: this vehicle traveling/ crossing over (passing through) intersection. The critical reason for the critical event was attributed to V1 driver failing to adequately survey roadway for both crossing traffic and traffic control devices. This was coded as: Inadequate surveillance (e.g. failed to look, looked but did not see) for this driver. V2 driver, a forty-year-old female, was driving from church to home, a very familiar route. She was well rested and had been driving only about 15 minutes. She takes Synthroid, a medication to treat hypothyroidism. The critical precrash event for V2 was coded: other vehicle encroachment/ from crossing street, across path. The critical reason for the crash was not assigned to the driver of V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Inexperience, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

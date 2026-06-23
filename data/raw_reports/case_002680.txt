@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of a weekday in the middle of an intersection between an urban roadway and a commercial driveway. The north/south roadway consisted of 2 lanes in each direction intersected by a driveway on the east side. The bituminous roadway was dry, straight, and level with a posted speed limit of 64 kmph (40mph). At the time of the crash, the road was dark and unlit, but there were no adverse atmospheric conditions and the traffic flow was normal. V1, a 2006 Ford F-150 pickup solely occupied by the driver, was stopped preparing to exit a commercial driveway on the east side of the roadway described above. V1 was facing west intending to turn left (southbound). V2, a Mitsubishi Eclipse solely occupied by the driver, was northbound in lane 2 approaching the intersection with the driveway. As V1 turned left out of the driveway it struck the front right corner of V2 with its front in the center of the roadway. V1 rotated clockwise and came to rest straddling the northbound lanes facing northwest. V2 continued northbound and exited the roadway to the left before coming to rest just off the roadway facing northwest. Both vehicles were towed due to damage. The driver of V1, a 48-year-old male, suffered minor injuries as a result of the crash but refused treatment. He advised that he had just come from the hospital (1/2 mile away) where his wife was hospitalized with terminal cancer. He stopped at a store and was pulling out onto the roadway that he had only driven on once, a month earlier. As he stopped at the end of the commercial drive, he looked to the left and saw V2 but thought he had time to pull out and complete his turn left. He turned left and did not have time to get into the southbound lanes. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Precrash Event was a driver related factor, a misjudgment of gap or other's speed. Associated factors coded to V1 include the driver's emotional distractions of a family problem and his concern for his wife. He was also not familiar with the roadway as he had only driven it once before. The driver of V2, a 33-year-old male, also suffered minor injuries as a result of the crash but refused treatment. He advised that he was northbound in lane 2 traveling at about 64 kmph (40mph) when he saw V1 at the end of the commercial drive ahead of him. He was surprised to see him pull out and then braked hard and steered to the left in an attempt to avoid V1, but could not. The Critical Precrash Event for V2 was coded other vehicle encroachment from driveway, turning into opposite direction”. The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. There were no associated factors coded to V1.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

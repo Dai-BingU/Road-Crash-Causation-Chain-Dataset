@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lane of a five-lane intersection with a median controlled by a traffic control signal. Conditions were dusk with minimal light in the evening on a weekday. The posted speed limit was 80 KMPH (50 MPH). V1 was a 2003 Honda Civic Coupe traveling northbound in the third travel lane approaching an intersection controlled by a traffic control signal intending on turning left. V2, a 1999 Chevy Malibu sedan, was traveling southbound in the third travel lane approaching the same intersection intending on going straight. As V1 was making a left turn, the front of V1 struck the front of V2 in the southbound lane. V1 came to final rest facing westbound and V2 came to final rest facing southbound. V1 was driven by a 29-year-old female who sustained moderate injuries and was transported to a local hospital. She stated that she looked prior to turning left and did not see V2. The driver of V1 did not take any avoidance actions. V1 was traveling between 11-20 MPH at the time of impact. V1 was towed due to damage. The critical precrash event for V1 was this vehicle traveling, turning left at the intersection. The critical reason for the critical precrash event was a driver related factor, inattention (i.e., driver thinking about personal problem). Associated factors coded to this driver were inadequate surveillance (looked, but did not see) and the driver being fatigued. V2 was driven by a 22-year-old male who was not injured. V2 was towed due to damage. We attempted to interview the driver of V2 several times but he never returned our calls. The critical precrash event for V2 was the other vehicle encroachment, from opposite direction, over left lane line. No critical reason for the critical precrash event was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Stress/Emotion, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

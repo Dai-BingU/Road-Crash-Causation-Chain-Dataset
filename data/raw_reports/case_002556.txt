@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 1996 Mercury Sable driven by a 26 year male, was westbound on the exit ramp of 2 westbound lanes of a straight, level, bituminous interstate roadway that had lane 2 closed for construction . V2, a 2005 Pontiac Vibe driven by a 47-year-old female, was westbound in lane one of the same roadway. V2 was keeping up with traffic and traveling below the posted 72 kmph (45mph) through the construction zone. It was about 20 feet behind another vehicle. V1 attempted to rejoin the westbound traffic, steered left across a paved gore separating the exit ramp from lane 1 and cut in front of v2. The driver of v2 did not notice v1 until it cut in front of her so she attempted to brake. The driver of v1 saw in his rearview mirror that v2 did not have enough room to stop so he attempted to accelerate out of her way. V2, front, contacted v1, back. To avoid hitting a vehicle in front of him, the driver of v1 steered left into the closed lane after being struck by v2. V1 came to rest on the shoulder of lane 2 facing west and v2 came to rest on the paved gore-facing west. Neither driver was injured. V2 was towed. At the time of the crash it was cloudy, daylight and traffic was congested. A complete witness interview was obtained at the scene. The witness was a construction worker who observed the vehicles' movements before the crash occurred and rushed to the scene to prevent the blame being placed on the driver of v2. A complete driver interview and vehicle inspection was obtained for v1. The driver was familiar with the road and was properly licensed for the vehicle. He was a cab driver who frequently dealt with traffic congestion. The Pre-event movement of v1 was passing or overtaking another vehicle (on the right), the Critical pre-crash event was This vehicle traveling over the lane line on left side of travel lane and the Critical reason for the critical pre-crash event was an illegal maneuver by the driver. Some v1 factors which may have contributed to the cause of the crash include traveling too fast for conditions, the heavy rush hour traffic, the misjudgment of the speed of v2, the false assumption that v2 would yield the right of way, an aggressive driving maneuver and proceeding with insufficient clearance. The driver of v1 was cited for improper lane usage. A complete driver interview and vehicle inspection was obtained for v2. She stated that she was following a specific vehicle, about 20 feet back, glanced at her shifter and when she looked up a different vehicle (v1) was right in front of her. She just had time to attempt to brake and then rear-ended v1. She stated that v1 was not the vehicle she had been following into the construction zone. The Pre-event movement of v2 was going straight, the Critical pre-crash event was Other vehicle encroachment from adjacent lane (same direction) - over right lane line and the Critical reason for the critical pre-crash event was not coded to this vehicle. Some factors for v2 that may have contributed to the crash include the rush hour heavy traffic, and the traffic congestion through the construction zone. *Pease note that on the Police Report vehicle 2 is placed in front of vehicle 1 instead of behind it.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Physical, Drugs, Speed/Distance, Traffic present problem 
+Vehicle 2:  Decision, Driver Physical, Drugs, Speed/Distance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

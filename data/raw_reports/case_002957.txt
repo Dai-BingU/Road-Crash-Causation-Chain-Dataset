@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred at just past noon on an eight-lane, straight, divided, level, and bituminous roadway. The vehicles were in moderate traffic approaching a traffic signal controlled intersection and the signal had turned red. There are four lanes of traffic on this side of the roadway. The speed limit on this roadway is 80 kmph (50 mph). Vehicle one (V1), a 1997 Pontiac Bonneville, was westbound in lane one approaching the traffic signal at approximately 40 kmph (25 mph). Vehicle two (V2), a 2003 Pontiac Grand Am, was stopped in the westbound lane in front of V1. Vehicle three (V3), a 2003 Toyota Tacoma, was also westbound in lane one in front of V2 decelerating at approximately 5 kmph (3 mph). The front of V1 impacted the back of V2. The front of V2 then impacted the rear of V3. All three vehicles came to rest in the original travel lane. V1 and V2 were towed due to damage. V3 was not towed due to damage. A 74-year-old woman who is retired drove V1. She was from out of town and not familiar with the roadway. She was in town, with the three other occupants for a conference. The driver and occupants were conversing and looking at the street signs for the street their hotel was on. She did not see vehicle two stopped in front of her. This driver had been driving for about four hours and traveled about 402 kilometers (250 miles) before this crash. A 33-year-old schoolteacher drove V2. She was in town from a surrounding community to run errands and had just picked up her cousin and was headed home. V3 was driver by a 59-year-old female who had just returned to town from an out of town trip and was headed home. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the crash was attributed to V1 and was coded as a driver related factor: internal distraction. The driver was thinking about their location and where their hotel was located. The driver was also conversing with the other occupants about their location. Associative exterior factors were coded as: looking for street address. The driver stated she was looking for the street signs. A driver experience factor was coded for rarely traveling on this roadway. Driver fatigue was also coded as a contributing factor. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical event was not attributed to this vehicle. V3 was not involved in first harmful event. The critical reason for the critical event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Inexperience, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

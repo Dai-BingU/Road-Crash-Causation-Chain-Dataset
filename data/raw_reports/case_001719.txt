@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a 6-lane high occupancy and high volume interstate. There were six lanes and two emergency paved shoulders. The posted speed limit was 105 kmph (65 mph). At the time of the crash, it was morning rush hour on a weekday. It had been raining off and on, and the roadway was wet. Vehicle # 1 was a 1998 Ford Econoline E-250 van that was traveling in lane five. Vehicle #2, a 2003 Chevrolet Blazer SUV, was following V1 in the same lane. The vehicle in front of V1 braked suddenly, and so the driver of V1, a 35-year old male, braked hard while steering left to avoid hitting the stopped traffic in front of him. This action rotated V1 to the left in its lane. The driver of Vehicle #2, a 51-year old male, did not have enough time to stop without impacting the left side of Vehicle #1, thus causing V1 to roll onto its right side facing southbound. The driver of Vehicle #1 was cited for the accident with a failure to use due care. Both vehicles were towed due to damages and the driver and passengers of Vehicle #2 were transported to a local hospital with injuries. The Critical pre-crash event for Vehicle #1 was when it began decelerating. The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle because its driver was able to successfully avoid striking any other vehicle. However, this driver was thought to have contributed to the crash, and associated factors coded to him include traveling too fast, following too closely in the rush hour traffic, the weather (rain), and the wet roadway. No interview was obtained with the driver of V2. The Critical pre-crash event for Vehicle #2 was when another vehicle was in its lane, traveling in the same direction while decelerating. The Critical Reason for the Critical Pre-crash Event was coded as "Too fast to be able to respond to unexpected actions of others," a decision error. Associated factors coded to this driver include the same as those coded to V1: traveling too fast, following too closely in the rush hour traffic, "he weather (rain), and the wet roadway. Due to the lack of an interview, it was not known if there were other contributing factors. In summary, although the police attributed the cause of the crash to V1, it was believed that it was the failure of the driver of V2 to control his vehicle that made the situation critical.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Speed/Distance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Decision, Roadway, Speed/Distance, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- This vehicle decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :

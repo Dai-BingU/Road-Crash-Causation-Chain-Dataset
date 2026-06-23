@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a three-legged intersection. The north/south roadway is undivided, level and straight and consists of two lanes in each direction. The east/west roadway is on the west side of the north/south roadway. This roadway is undivided, level and straight and consists of one lane in each direction and a left turn lane. The eastbound traffic is controlled by a stop sign. The speed limit on these roadways is 72 kmph (45 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1992 Jeep Cherokee, was stopped eastbound in the left turn lane. Vehicle two (V2), a 1975 Buick Riviera, was southbound in lane two. V1 entered the intersection turning left and the left side was struck by the front of V2. The vehicles rotated and the left side of V1 struck the right side of V2. Both vehicles were towed due to damage. The driver of V1, an eighteen-year-old male, was on his way home from a fast-food restaurant. He was healthy, well rested and familiar with his vehicle. He travels this route weekly. This driver stated that he waited for approximately five seconds at the stop sign and did not see V2 until he was already in the intersection. This driver was eating while he was driving. The driver of V2, a twenty-four-year-old male, was traveling from a friend's house to a bank. He was well rested and healthy. This was the first time he drove this vehicle. He travels this route daily. This driver did not see V1 until just before the crash and he applied the brakes (locked up briefly) in an attempt to avoid the crash. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: inadequate surveillance (e.g. failed to look, looked but did not see). The fact that this driver was eating while driving was an associated factor in this crash. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason for the critical pre-crash event was not coded to this vehicle. This driver's inadequate surveillance was an associated factor in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+Vehicle 2:  Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

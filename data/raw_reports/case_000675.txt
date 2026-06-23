@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the morning of a weekday on the northern roadside and westbound lane of a two-lane, suburban roadway. The east/west roadway consisted of one lane in each direction flanked by wide paved shoulders with a posted speed limit of 56 kmph (35 mph). The bituminous roadway was dry and straight with a negative 2% grade for westbound traffic. The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. Vehicle one (V1), a 2006 Pontiac G6 four door-Sedan with one occupant, was westbound in lane one. Vehicle two (V2), a Transit Bus with several occupants was also westbound in lane one. A Non-contact Vehicle was westbound traveling between V1 and V2. V1 attempted to pass the NCV on the right and entered the paved shoulder. As V1 passed the NCV its right front tire struck the north curb. The impact caused V1 to veer left back into the travel lane. The left front of V1 struck the right front corner of V2. After impact both vehicles crossed the centerline coming to final rest blocking both lanes of travel. V1 was towed due to damage while V2 was driven from the scene. The driver of V1, a 24 year-old female, suffered unknown injuries, and was transported for treatment. The driver could not be located so an interview was not obtained. Witnesses to the crash and the event directly thereafter, stated that the driver was experiencing some type of mental duress, as she was talking and going-on about things that were not related to the crash. The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road on the right side. The Critical Reason for the Critical Event was coded as an illegal maneuver. There were no known additional associated factors coded to the driver of V1 due to the lack of an interview. The driver of V2, a 38 year-old male, was uninjured as a result of the crash. He stated that as he was traveling westbound a car behind his vehicle began passing on the right shoulder. As the car (V1) continued forward it hit the right curb and veered left striking his vehicle. After impact both vehicles veered left into the eastbound lane, and came to a stop blocking both lanes. The Critical Precrash Event for V2 was coded other, not involved in first harmful event. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. There were no associated factors coded to this vehicle and the driver of V2 was not thought to have contributed to the crash. An independent witness to the crash traveling in the vehicle directly behind V2 confirmed the statements made by the driver of V2. V1 attempted to pass the vehicles by traveling on the shoulder, struck the curb and veered back into the travel lane.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Driver Physical, Driver Stress/Emotion, Drugs present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

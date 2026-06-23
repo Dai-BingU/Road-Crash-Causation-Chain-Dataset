@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west urban four-lane road. There was a grass median dividing the lanes and curbs on each side. The road curved to the left (south) going from east to west with a radius of curvature of 273m. Conditions were daylight and dry on a weekend morning. The posted speed limit was 64kmph (40mph). Vehicle #1 was a 1999 Plymouth Breeze traveling west in the right lane. The driver apparently fell asleep and crossed the curb on the north edge of the road damaging the two front tires. The vehicle continued off the road crossing a private drive and striking a sign with its front. The driver steered left and the vehicle returned to the roadway where it came to rest facing southwest in the left westbound lane 78m from initial roadway departure. The Plymouth (V1) was towed due to damage. Vehicle #1 was driven by a 66-year-old female that was belted with deployed frontal airbags. She was transported to an area hospital with possible injuries. At the time of the crash the driver was on her way home after working the night shift. In her interview with police and researchers she stated she was unsure what caused her to run off the road, either falling asleep or adjusting the radio. However, she told first responders that she fell asleep causing the crash. Her normal schedule was to work three nights a week consecutively for a total of 21 hours per week. She begins work at 11pm and works until 8am with a 2-hour sleep break included. Normally she estimates she gets 8 hours sleep per day total. She had just finished the second night of work and described her conditions as drowsy at the time. The Critical Pre-crash Event was this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was a driver related critical non-performance error-fell asleep. Associated factors included driver fatigue and a pre-existing back condition, for which she took several pain medications. The driver was wearing glasses to correct both a near and farsighted condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

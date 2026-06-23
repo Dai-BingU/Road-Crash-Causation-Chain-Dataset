@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the afternoon of a weekend in the middle of a four-way urban intersection. The intersection was composed of a two-lane east/west roadway and a two-lane north/south roadway controlled by properly functioning traffic signals. Both roadways were bituminous, dry, and straight. The eastbound direction of travel featured an uphill gradient level of approximately 4%. The posted speed limit for all directions of travel was 48 kmph (30 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. Vehicle one (V1), a 1990 Toyota Corolla with five occupants, was eastbound approaching the intersection where it intended to go straight. Vehicle (V2), a 1991 Pontiac Bonneville with four occupants, was westbound approaching the same intersection where it intended to turn left. Both vehicles entered the intersection at the same time and the front of V1 struck the right side of V2. After the initial impact, V1 rotated slightly clockwise and came to final rest facing east. V2 came to final rest facing south. V1 was towed from the scene due to damage, while V2 was driven away. The driver of V1, a 28-year old male, said he was traveling eastbound through the intersection at approximately 56 kmph (35 mph). As he approached the intersection he noticed the traffic device changing from green to yellow, however, he thought he could make it through the intersection before V2, which was westbound on the same roadway. He said he was sure V2 saw him entering the intersection and thought V2 would stop and allow him to precede. However, V2 continued traveling through the intersection and they collided. The driver was not injured, however four of his passengers were transported to the hospital with complaints of pain. The Critical Precrash Event for V1 was coded other motor vehicle encroachment, from opposite direction, over left lane line. The Critical Reason was not coded to this vehicle. Associated factors include an internal distraction (conversing with passengers) and a false assumption of other's actions (assumed V2 would yield the right of way). The driver of V2, a 24-year old male, said he was westbound through the intersection when his vehicle came into contact with vehicle one. He claimed his vision was impaired by the glare from the sun. He stated that as he approached the intersection intending to make a left turn southbound, he lost focus of the road because of the bright sun glare and could barely see the traffic device turning yellow or vehicle one coming in the opposite direction eastbound. He believed that V1 would allow him to continue with his left turn and the vehicles collided in the intersection. None of the occupants of the vehicle were injured in the crash. The Critical Precrash Event for V2 was coded this vehicle traveling, turning left at intersection. The Critical Reason was coded as a false assumption of other's actions as he thought V1 would allow him to turn. Associated factors include an internal distraction (conversing with passengers) and sun glare.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+Vehicle 2:  Decision, Distraction, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

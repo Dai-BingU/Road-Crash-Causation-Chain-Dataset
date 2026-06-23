@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the middle of a T-intersection with a median controlled by a stop sign. Conditions were daylight and clear in the afternoon on a weekday. The northbound lane did not have a posted speed limit. The eastbound lane had a posted speed limit of 45 MPH with a negative 2% downhill grade. V1 was a 1995 Dodge Intrepid sedan traveling northbound in the first travel lane approaching a T-intersection controlled by a stop sign. V2, a 1999 Lexus ES300 sedan, was traveling eastbound in the first travel lane approaching the T-intersection intending on continuing straight. As V1 approached the stop sign, he was stopped 5-10 seconds prior to proceeding on turning left. The driver of V1 looked right then left and turned left. The front of V1 struck the right side of V2 in the middle of the intersection. V1 came to final rest facing northbound and V2 came to final rest facing eastbound. V1 was driven by a 91-year-old male who sustained moderate injuries and was transported to a local hospital. He stated that he was stopped at the stop sign, looked right then left and did not see the other vehicle then proceeded on turning left. The driver of V1 did not take any avoidance actions and was traveling between1-10 MPH at the time of impact. V1 was towed due to damage. The critical pre-crash event for V1 was this vehicle turning left at the intersection. The critical reason for the critical precrash event was a recognition error; inadequate surveillance; looked but did not see. V2 was driven by a 57-year-old female who was not injured. She stated that she was traveling eastbound in the first travel lane when she saw V1 stopped at the stop sign then V1 just pulled out in front of her. The driver of V2 did not take any avoidance actions and was traveling between 41-50 MPH at the time of impact. V2 was towed due to damage. The critical precrash event coded to this vehicle was the encroachment of V1 from the crossing street across the path of V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of an interchange exit ramp. The roadway leading south into the intersection was a one-way, three-lane off ramp. The east/west roadway was a two-way, ten-lane trafficway divided by concrete barrier. There were five westbound lanes. The posted speed for east/west traffic was 72 kmph (45 mph). Conditions were daylight on a weekend afternoon with dry roads and clear skies. Traffic flow was normal. V1, a 1994 Ford Ranger with one occupant, was traveling southbound in lane two. V2, a Mitsubishi Eclipse with two occupants, was traveling westbound in lane three. Both vehicles were approaching the same intersection. As the two vehicles entered the intersection, the left side of V1 was struck by the front of V2. Both vehicles were towed due to damage. V1, the Ford Ranger, was driven by a 48-year old male, who was not injured. He stated that he was on his way home from the store, and was in the process of exiting the interstate. The driver indicated that his light turned from green to yellow as he entered the intersection. He never saw the other vehicle coming. The Critical Pre-crash Event for V1 was "this vehicle traveling, turning left at intersection." The Critical Reason for the Critical Event was a driver decision error, illegal maneuver. The driver failed to stop at the traffic light, which was red. Associated factors coded to this driver include the physical condition of high blood pressure and inadequate surveillance because he failed to look to the side before entering the intersection. V2, the Mitsubishi Eclipse, was driven by an 18-year old male, who was not injured. He stated that he was stopped at a light, facing westbound. He indicated that his light, which was just east of the overpass, was synchronized with the light just west of the overpass (where the crash occurred). When the light turned green, the driver started to accelerate. Just as he got to the second light, the other driver turned in front of him. According to the driver of V2, there was no time for any avoidance actions. The Critical Pre-crash Event for V2 was "other vehicle encroachment, from crossing street turning into opposite direction." The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

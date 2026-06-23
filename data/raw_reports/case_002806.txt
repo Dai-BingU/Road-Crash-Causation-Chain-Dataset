@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lane of a level two-lane roadway with a posted speed limit of 30 MPH (48 KPH). The roadway had a very slight curve to the right. The weather was clear, the roadway dry and it was daylight at the time of this early evening crash. Vehicle #1, a 1989 Volvo 740 GL, was traveling south on the two lane undivided roadway. Vehicle #2, a 1988 Jeep Cherokee and Vehicle #3, a 1996 Chevrolet Blazer were traveling on the same roadway ahead of Vehicle #1. There was heavy stop and go traffic at the time of the crash. Vehicle #1 struck Vehicle #2 in rear with its front. Vehicle #2 was then pushed into the rear of Vehicle #3 with its front. All three vehicles came to rest facing south in the southbound lane. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. The Volvo 740 GL (Vehicle #1) was driven by a belted 34 year old male who was not injured. He stated that traffic was just rolling, then stopped and then rolling again. He also stated that he didn't realize the vehicles had moved forward, then stopped and were so close. He indicated that he may have glanced away or just spaced out. He could not recollect how fast he had been traveling prior to the crash or at the time of the impact. Vehicle #1 was towed due to damage. The Critical Precrash Event for Vehicle #1 was when another vehicle was in the lane traveling in the same direction with low steady speed. The Critical Reason for the Critical Event was inattention, a recognition error. This was chosen because the driver indicated that he had glanced away or spaced out prior to the crash. It is also possible that this driver misjudged the velocity and gap distance to the forward vehicle because of the heavy traffic. This driver was not fatigued and did not take any type of medications. He was wearing over the counter sunglasses at the time of the crash. The Jeep Cherokee (Vehicle #2) was driven by a belted 40-year-old female, who complained of pain, but refused medical treatment. The belted 38-year-old male right front passenger also complained of pain and refused treatment. The right rear passenger was a 5-year-old female in a child restraint who was not injured. The driver of Vehicle #2 stated that she didn't see anything, had been conversing with the passenger and only recalled being struck from behind then pushed forward into Vehicle #3. She was not taking any type of medications and was wearing over the counter sunglasses at the time of the crash. The driver of the Cherokee was not thought to have contributed to the crash. Vehicle #2 was driven from the scene. The Chevrolet Blazer (Vehicle #3) was driven by an unbelted 22-year-old female, who was transported, treated and released at a local hospital for complaint of pain. The driver of Vehicle #3 stated that she had just taken her seat belt off in anticipation of turning into a gas station for a bottle of water. She was in a hurry to get to a school class and concerned about how late she would be by stopping to get something to drink. She was not taking any type of medications. No other associated factors were coded to the driver of the Blazer and she was not thought to have contributed to the crash. Vehicle #3 was driven from the scene
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Starting in traffic lane
+ 3 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

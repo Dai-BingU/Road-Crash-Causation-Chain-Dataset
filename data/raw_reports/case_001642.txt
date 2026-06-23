@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a weekend morning in the eastbound lane of a two-way, two-lane undivided rural roadway. The bituminous roadway was dry, straight, and level with a posted speed limit of 72kmph (45 mph). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2006 Chevrolet C1500, was eastbound traveling approximately 64kmph (40 mph). V2, a 2000 Ford Focus, was also eastbound several car lengths ahead of V1. As V2 slowed for another vehicle that was turning left ahead of it into a private driveway, V1 failed to slow and struck the back of V2. V1 continued down an embankment and struck a tree (25 cm in diameter) where it came to final rest. V1 was driven by a 36-year-old male who was on his way to a hardware store for supplies to repair damage a falling tree had done to his home. He stated he came over the crest of a small hill and noticed that there was a car (V2) slowing down in his lane. As he got closer to V2 he realized that it was stopping so he tried to brake and steer to the right to avoid colliding with it. However V2 steered to the right at the same time and the two vehicles collided. This driver continued down an embankment and struck a tree where it came to final rest. This driver had a small cut on his forehead but refused treatment at the scene and V1 was towed due to damage. The Critical Precrash Event for V1 was coded other vehicle in lane, traveling in same direction while decelerating. The Critical Reason for the Critical Event was coded as the driver related factor of inattention. The driver was thinking about the tree that had fallen and the work that was ahead of him. The narrow shoulders of the roadway were coded as an associated factor. V2 was driven by a 26-year-old male who was on his way to work that morning. He stated he was eastbound when a vehicle ahead of him stopped to turn left into a driveway. When he realized the vehicle ahead of him was turning he began to brake and steer to the right. At the same time he recognized that V1 behind him was not slowing down. He was hit in the rear by V1 as they both steered to the right. This driver was not injured and he was able to drive his vehicle away from the scene. The Critical Precrash Event for V2 was coded other vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Reason was not coded to this vehicle. Other than the narrow shoulders of the roadway there were no associated factors coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

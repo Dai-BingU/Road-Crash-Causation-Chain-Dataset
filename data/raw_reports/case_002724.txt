@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred on an undivided four-lane U.S. highway with two lanes of travel (north/south) in each direction. The north and southbound lanes were divided by a double yellow line. The roadway was straight with a downhill grade of 3 percent if northbound and an uphill grade of 3 percent if southbound. There were no paved shoulders or traffic controls present. The posted speed limit was 80 kmph/50 mph. Vehicle #1, a 1997 Chevrolet Lumina, was traveling south in the left southbound lane when it crossed the centerline and struck Vehicle #2, a 1988 Honda Civic with its (V1) front to Vehicle #2's left side in a sideswipe type crash. Vehicle #2 then went into a counterclockwise spin and went off the left (west) side of the roadway backwards and struck a tree with its rear, coming to rest facing southeast about 12 meters west of the road. After striking V2, Vehicle #1 continued in the left lane for a brief moment before striking Vehicle #3, a 1997 Oldsmobile Aurora head-on in a left offset frontal type crash. Vehicle #3 then rotated clockwise as it rolled one complete turn to its right coming to rest about 12 meters north of point of impact with Vehicle #3 facing south in the right northbound lane. Vehicle #1 came to rest straddling the double yellow center lines facing southeast about 28 meters south of its point of impact with V3. The crash eventually involved nine vehicles that contacted each other with two additional non-contact vehicles listed on the police report. Although the police report indicated that V5 contacted V1, there was no evidence to substantiate any contact between these two vehicles. Also, the police report indicated that V8, a motorcycle contacted V3; however, the motorcycle skidded under V3 after V3 had stabilized. All three case vehicles were towed due to damage. Vehicle #1 was driven by an unrestrained 21-year old male whose airbags deployed in this crash. He was killed and pronounced dead on scene. His family was unwilling to give an interview to the researcher. The Critical Pre-crash Event for Vehicle #1 was this vehicle traveling over the lane line on the left side of the travel lane. The Critical Reason for the Critical Pre-crash Event was coded as an unknown critical non-performance error. This was chosen due to the mention in the coroner's report about methadone found on the driver's person and also because a witness reported to police that she had observed V1 drifting over the centerline one-quarter mile prior to the crash. The coroner's report also mentioned that the driver of V1 had needle track marks on his arms. No other factors could be coded due to a lack of information. Vehicle #2 was driven by a 20-year old belted male who was transported with non-incapacitating injuries to a local trauma center. The Critical Pre-crash Event for Vehicle #2 was other vehicle encroachment over left lane line. The Critical Reason was not coded to this vehicle. The driver did take medication that day for his allergies. A tire/wheel deficiency was coded to this vehicle due to two different wheel and tire sizes present and low tread on the left front. No other contributing factors were coded to this driver. Vehicle #3 was driven by a belted 74-year old male whose airbag deployed. He was transported from the scene with incapacitating injuries after being entrapped and then extricated from his vehicle. Vehicle #3 was not involved in the first harmful event and therefore, no Critical Pre-crash Event and no Critical Reason was coded to this vehicle. One associated factor coded to this vehicle was a tire/wheel deficiency due to low tread on all four tires. No additional contributing factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+Vehicle 2:  Drugs, Vehicle present problem 
+Vehicle 3:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown critical non-performance
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

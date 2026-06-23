@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a five-lane undivided roadway at an intersection with two other roadways. The north/south roadway had two lanes in each direction and a center left turn-only lane. The northbound approach to the intersection was straight with a slight curvature to the right just before the intersection. The roadway was asphalt, level and dry. The speed limit was 64 kmph (40 mph). Traffic was heavy on a weekday at mid-morning. Traffic was controlled in all directions by overhanging traffic control signals without pedestrian controls. V1, a 2000 Chevy Impala four-door with one occupant, was northbound in lane two. V1, a 2005 Toyota Tacoma pickup truck with one occupant, was also northbound in lane two behind V1. V1 stopped as the traffic signal changed from a yellow to a red light. V2 swerved right while braking without lockup and its front left corner collided with the back right corner of V1. There were no skid marks for V2. Both vehicles came to rest approximately 2 meters north of the impact point. V1 was still in lane two and V2 was straddling lanes two and one. The vehicles were moved to the side of the roadway prior to researcher arrival. V1, the Chevy Impala, was driven by a 16-year old female with less than a year of driving experience. She was not injured. She stated that she was on her way home from school. She said that as she approached the intersection, the traffic signal turned yellow and then red and she had been completely stopped for 1-2 seconds when V2 struck her from behind. She said she had been looking straight ahead with both hands on the steering wheel and her foot on the brake. The Critical Pre-crash Event for V1 was other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded for this vehicle. One associated factor coded to the driver of V1 was driver inexperience due to its presence, but inexperience was not thought to have played a role in the crash. V2, The Toyota Tacoma, was driven by a 24-year old male who was not injured. The driver would not talk to the researcher at the scene and did not respond to repeated attempts to contact him. Based on observations of scene and vehicles, it appeared that the driver of V2 saw V1 stop and then steered right and braked to avoid the collision. Without skidding, the left front of V2 struck the right rear of V1. The Critical Pre-crash Event for V2 was other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Event was an unknown recognition error. No associated factors could be coded to this driver due to the driver's refusal of interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Unknown recognition error

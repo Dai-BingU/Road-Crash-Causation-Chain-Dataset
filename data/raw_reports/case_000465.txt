@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on an urban roadway with four lanes, two lanes running eastbound and two running westbound. The roadway was a drawbridge that went over the intercostals waterways. The crash occurred off the roadway on the right side guardrail. It was a weekend afternoon at dusk and the skies were dry and clear. The roadway was straight with an uphill grade of more than 2%. The posted speed was 56 KPH (35 MPH). The traffic flow was slowed, as there was a previous crash that was blocking lane 2. (This crash had not actually occurred in the roadway but, ended there as a motorist witnessed a vehicle who was involved in a hit and run in a local store parking lot and the witness chased the driver at fault down the street where they exited there vehicles and were arguing in the middle of the roadway.) Vehicle #1, a 1999 Ford Explorer, was driven by a 53-year-old female who was on her way to the grocery store traveling in lane 2 when she noticed traffic was stopped in that lane due to a previous crash in the middle of the roadway. She decided to change lanes into lane one to avoid stopping. As she changes lanes and accelerated around the stopped vehicles she drove through some radiator fluid that had leaked out on the roadway. She stated in the interview as she hit the fluid she lost control of her vehicle and departed off the right side of the roadway making contact with the right hand side guardrail. She was not injured but her vehicle was towed due to damages. The Critical Precrash Event for Vehicle #1 was this vehicle traveling off the edge of the roadway on the right side. The Critical Reason for the Critical Precrash Event was an environmental related factor, slick roads due to leaked radiator fluids from a previous crash. There were no other factors related to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Roadway, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)

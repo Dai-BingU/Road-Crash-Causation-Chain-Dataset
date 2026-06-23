@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during daylight hours on a dry, straight, bituminous, six-lane, divided north/south state highway. Northbound lanes consist of three through lanes and a left turn lane. This roadway intersects with a dry, straight, bituminous, three-lane roadway that runs east and west. Westbound lanes consist of a right turn lane and a through lane/left turn lane. The intersection was controlled with traffic lights with pedestrian crossings. The speed limit for northbound traffic is 64 kmph (40 mph) and the speed limit for westbound traffic is 48 kmph (30 mph). There were no adverse weather conditions present at the time. Vehicle one, a 1999 Buick Regal, was northbound in lane two, the middle through lane. Vehicle two, a 1988 Dodge Caravan, was westbound in lane two, preparing to make a left turn. Both vehicles entered the intersection and the front of vehicle one struck the left side of vehicle two. Vehicle one came to rest just north of the area of impact. Vehicle two rotated clockwise slightly and came to final rest in the intersection facing northwest. Vehicle two was towed due to damage. The driver of vehicle one, a seventy-seven-year-old female, stated that "the sun was in my eyes and I didn't even see the other car until it was too late. I hit the brakes but I still hit him", causing the crash. After this brief statement the driver refused to answer any further questions. The driver of vehicle two was a fifty-three-year-old male. There was no interview obtained with this driver. The medical records did not reveal any factors for this driver. The critical pre-crash event for vehicle one was coded as "this vehicle traveling, crossing over (passing through) intersection." The critical reason for the event was attributed to this driver and coded as "driver related factor:type of driver error unknown." The critical pre-crash event for vehicle two was coded as "other vehicle encroachment: from crossing street, across path." Associative factors and additional driver information could not be determined due to lack of complete interviews.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 1997 Mercury Tracer, was eastbound in lane 2 of a straight, 4 lane, bituminous, 2- way, non-divided, urban roadway with an uphill grade >2% intending to turn left at a controlled intersection. V2, a 2002 Ford Windstar, was westbound in lane 1 of the same roadway passing through the same intersection. At the time of the daylight crash, the roadway was dry and there were no adverse weather conditions. Several non-contact vehicles heading westbound were stopped in lane 2 at the intersection waiting to turn left. V1 attempted to turn left and was struck on its right side by V2's front. Both vehicles were towed due to damage. The driver of V2 was injured and transported. A complete driver interview and vehicle inspection was obtained for V1. The driver was found to be familiar with both the roadway and the vehicle as well as properly licensed for the vehicle. She was not late or in a hurry and excessive speed was not a factor. There were no indications of fatigue or a medical condition contributing to her actions. V1's Pre-Event Movement was stopped in traffic lane; the Critical Pre-Crash Event was turning left at intersection; the Critical Reason was Inadequate Surveillance. A recognition factor was that the impending problem was masked by traffic waiting to turn left in lane 2 of the oncoming lane. She tried the turn even though she could not adequately see the presence of the oncoming traffic in lane 2. A complete vehicle inspection was obtained for V2 but the driver refused to give an interview. It is unknown whether the driver was familiar with the car or the road but the police on-scene said he was properly licensed for the vehicle. It is unknown if he was late or in a hurry but sources at the scene did not indicate that he was speeding or driving aggressively. The driver was proceeding through the intersection when V1 pulled across his path. His Pre-Event Movement was going straight; the Critical Pre-Crash Event was other vehicle encroachment - from the opposite direction-over left lane line; the Critical Reason for the Pre-Crash Event was not coded to this vehicle. It is unknown if fatigue or medical complications contributed to his reactions/actions during the crash. There were no indications that drugs or alcohol were a contributor to the cause of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

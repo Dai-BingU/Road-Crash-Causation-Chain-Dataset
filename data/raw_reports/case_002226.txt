@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of an east/west interstate in an interchange area where two lanes exited off to the north initially but also ends up an east/west interstate. There were four westbound travel lanes with paved shoulders and a concrete barrier wall separating eastbound lanes from westbound. At the interchange there is an approximately 50meter gore and a grassy area with a roadway identifier sign in the split. There is also a slight curve left with a radius measuring 563meters. Lane two of the westbound interstate splits into two lanes (unmarked) just before the gore. The roadway was straight and level with a posted speed limit of 89kph (55mph). Conditions were dark, unlit and raining with wet roads on a weekday morning. Vehicle #1 was an unknown tractor pulling a tanker trailer (hit and run) that was traveling in lane two of the westbound interstate lanes when it rear-ended Vehicle #2 at the beginning of the curve left (south). Vehicle #2 was a 1996 Dodge Intrepid also traveling in lane two of the interstate. Vehicle # 1 continued on westbound without stopping. After initial impact Vehicle #2 slid in a clockwise yaw west into the gore at the split and into the grass area. It struck a sign with its left before crossing the grass area and the two lanes that split off to the northwest coming to rest on the right side of that roadway partially on the shoulder facing north. Vehicle #2 was towed from the scene. The driver of Vehicle #1 drove away from the scene and was unable to be located. The critical pre-crash event for Vehicle #1 was other motor vehicle in lane traveling at a lower steady speed. The critical reason for the critical pre-crash event was an unknown driver error. Wet roads and rain were coded as factors in the crash for Vehicle #1. Vehicle #2, was driven by a thirty six year old belted male that was uninjured in the crash. Due to a language barrier only a brief statement was acquired on-scene and follow up attempts were unsuccessful. The critical pre-crash event for Vehicle #2 was other vehicle in same direction with higher speed. The critical reason was not coded to this vehicle. Associated factors included that Vehicle #2 had only 2 millimeters of tread on the tires. Rain and wet roads were also included.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

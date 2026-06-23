@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred just past noon on a seven-lane, dry, level, median divided, bituminous roadway that curves to the left and contains no positive barrier. This roadway runs north to south. The radius of this curve was 375 meters and the speed limit of this roadway was 89 kmph (55 mph). This intersection intersects with a four-lane, straight, uphill, undivided roadway that runs east to west with a speed limit of 80 kmph (50 mph). This intersection was controlled by a stoplight (on colors) with no pedestrian controls. There were no adverse atmospheric conditions present at the time of this daytime crash. Vehicle one (V1), a 2004 Honda Civic was traveling northbound in lane two at an unreported rate of speed. Vehicle two (V2), a 1999 was traveling west in lane two and attempting to make a left turn and travel south. V2 was stopped at the red light and attempted to proceed when the light changed to a green directional arrow. As V2 entered the intersection, the front of V1 contacted the left side of V2. Post-impact, both vehicles rotated counterclockwise. V1 came to rest facing west on the northbound of the road. V2 came to rest facing east on the northbound side of the road. V1 contained one occupant who was transported to a local trauma center for incapacitating injuries. V2 contained two occupants, both of who were transported to a local trauma center for possible injuries. Both vehicles were towed due to disabling damage. The driver of V1 was a 72-year-old male. V1 contained a large, inflatable floatation device that was in the front right seat. This device completely obstructed the driver's view out of the right side glazing and the right side mirror. There was no interview with this driver, but medical records indicate that this driver was on a large number of prescription and over the counter medications. This driver was noted in the driver history of the medical records as being fidgety at church that morning. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over [passing through] intersection. The critical reason for the critical event was coded to V1 as a driver related factor: type of driver error unknown. V1's right side view obstruction was coded as a contributing factor to this crash. The driver of V2 was driving from Church to get something to eat and had only been driving for about five minutes at the time of the crash. This driver was not conversing with the passenger. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Surveillance, Vehicle present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

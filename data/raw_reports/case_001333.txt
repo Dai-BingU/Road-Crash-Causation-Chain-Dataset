@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This daylight, two-vehicle, intersection related collision occurred when one vehicle turned left in front of another approaching vehicle. The east/west roadway is undivided, two-way, four-lane, concrete, straight, and -3% grade for westbound vehicles. Traffic lights with pedestrian crossings control traffic at the intersection. The posted speed limit is 56 kmph (35 mph) and there were no adverse weather conditions present. Vehicle one (V1), a 2002 Jeep Cherokee SUV occupied by a restrained 25-year-old female driver, was traveling east in lane two with the intention of turning left in an effort to locate a business. Lane two is a left turn only lane with no protected left turn arrow. The driver initiated the left turn without stopping. Vehicle two (V2), a 1983 Ford LTD sedan occupied by a restrained 42-year-old female driver, was traveling west in lane one with the intention of going straight. The driver of V2 detected V1 in the left turn movement and attempted to avoid collision by braking and steering right. The front of V1 struck the left plane of V2. After impact, V2 deflected slightly to the right and came to rest on the north side of the intersection facing northwest partially in lane one. After impact V1 rotated counterclockwise and made a complete U-turn movement in the middle of intersection before coming to final rest. V1 came to rest in the middle of intersection in lane one facing east. Both vehicles were towed due to damage and the driver of V2 suffered possible injuries requiring transport to hospital. The driver of V2 left the hospital before being treated The driver of V1 was taking Synthroid medication for a thyroid condition and was running an errand after having departed residence 30 minutes prior to the collision. The driver was trying to locate a business and was unfamiliar with the roadway. Also, according to the driver of V2, the driver of V1 was holding a cell phone with right hand while attempting to make left-hand turn at intersection. As V1 approached intersection, driver was using cell phone and possibly looking for business in a strip mall located north of travel direction. Driver initiated left turn without stopping and failed to yield the right-of-way The critical pre-crash event for V1 is coded: this vehicle traveling, turning left at intersection. The critical reason for the critical pre-crash event is coded to V1 as a driver related factor: internal distraction, for holding the cell phone The driver of V2 intended to go straight through the intersection. The driver, who suffers from COPD and asthma, but doesn't take medication, is familiar with roadway, and had only been driving about 30 minutes into running an errand when collision occurred. Driver noticed turning V1 and attempted to avoid collision by braking and steering right. The critical pre-crash event for V2 is coded: other vehicle encroachment; from opposite direction-over left lane line. The critical reason for the critical pre-crash event is not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Decision, Distraction, Driver Inexperience, Drugs, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a high-speed/high volume interstate divided by a concrete wall. There were five northbound lanes plus a two-lane merging on-ramp and two emergency paved shoulders. The posted speed limit was 105 KMPH (65 mph). Conditions were dry and clear in the mid-afternoon on a weekday. The roadway was straight and level and traffic flow was normal. Vehicle #1 was a 1998 Ford Explorer that was traveling northbound on the entrance ramp. He was merging onto the interstate when he hit a puddle of standing water that was clogged by debris. This caused his vehicle to hydroplane and depart off the right hand side of the roadway, thus making contact with the concrete barrier. After contacting the concrete barrier, the vehicle spun across the northbound lanes into lane two and struck a 2000 Volvo dump truck on the right rear tire. The Ford Explorer (Vehicle # 1) was driven by a 56-year old male who was transported from the scene with injuries. The Explorer was towed due to damages. The Critical Pre-crash Event for Vehicle # 1 was loss of control due to poor road conditions, that being the puddle that caused him to hydroplane into the concrete wall. The Critical Reason was coded as roadway-related factor, slick roads. The driver of V1 was taking prescription medications for high cholesterol and for anxiety. No additional associated factors were coded to this driver. The 2000 Volvo dump truck (Vehicle #2) was driven by a 47-year old male who stated he was traveling approximately 80 KMPH (50 MPH) in lane two when he saw the Explorer coming at his truck making impact with the right rear tire. The dump truck was not towed due to damages and the driver was not injured. No Critical Pre-crash Event and no Critical Reason were coded to the driver of the dump truck because he was not involved in the first harmful event. No associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Merging
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a two-way, eight-lane interstate roadway divided by a concrete traffic barrier. There were four northbound lanes and four southbound lanes. This was a straight, asphalt roadway with a precrash-level and a crash-level uphill slope of greater than two percent. The posted speed was 105 kmph (65 mph). Conditions were dark with streetlights, on a weekday evening. Skies were clear and the roadway was dry. Traffic flow was normal. V1, an unknown make and model passenger car with unknown number of occupants, was traveling northbound in lane one. V2, a 1998 Toyota Camry with two occupants, was traveling behind V1 in the adjacent lane (lane two). V2 began to pass on V1's left side, just as V1 began to change lanes to the left. The left front of V1 made contact with the right rear of V2. The driver of V2 swerved left, then right, losing control of the vehicle. V2 began to rotate clockwise as it careened off the right side of the roadway. The front of V2 struck the guardrail. Then, as the vehicle rotated, the left side of V2 struck the guardrail. The vehicle then reentered the roadway, coming to final rest facing northwest in lanes one and two. V1 continued traveling northbound, leaving the scene of the crash. The driver of the hit-and-run vehicle could not be located for interview. The Critical Precrash Event for V1 was "this vehicle traveling, over the lane line on the left side of travel lane". The Critical Reason for the Critical Event was a recognition error, unknown recognition error. No associated factors could be determined for this driver. V2, the Toyota Camry, was driven by a 31-year old female, who refused treatment. She said that she and her girlfriend were heading back to her house. They were traveling north in the second lane from the right (lane two). They were laughing and joking, having a good time. The driver stated that she was traveling around 120 kmph (75 mph). She and her friend noticed that there was an older model white car that seemed to be riding very close to the lane line. Her friend told her to pass the other vehicle carefully because it looked like he was going to move into her lane. When she was right beside him, the driver exclaimed, he did just that. She moved to the left very quickly. Her car started shaking back and forth. To regain control, the driver took her foot off the gas, managing to regain control, still within lane two. Just then, the white car veered into her right rear quarter-panel area. Her back end slid to the left, and the car started to rotate clockwise. The driver said she hit the guardrail a couple of times before spinning back onto the interstate. The Critical Precrash Event for V2 was "other vehicle encroachment, from adjacent lane over the right lane line". The Critical Reason for the Critical Event was not coded to this vehicle. One associated factor for this driver was the presence of a social conversation with the passenger. Another associated factor was decision related. The driver was traveling too fast for conditions.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Distraction, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

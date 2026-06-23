@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekday in the middle of an urban, four-way intersection. The intersection consisted of a north/south nine-lane (five north, four south) physically divided roadway intersected by an east/west three-lane (two west, one east) roadway controlled by properly functioning traffic signals. The bituminous northbound lanes had a slight curve to the right and a downhill grade greater than 2% as well as a posted speed limit of 72 kmph (45 mph). The bituminous westbound lanes were straight and level and also had a posted speed limit of 72 kmph (45 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1995 Chevrolet S10 pickup, was northbound in lane four approaching the intersection where it intended to go straight. V2, a 2004 Ford Focus coupe, was stopped facing west in lane one waiting to proceed across the intersection. As the light turned green for V2 it entered the intersection and struck the right side of V1. Both vehicles came to final rest north of the point of impact and were towed due to damage. The driver of V1, a 21-year-old male was uninjured. After being approached on scene, he refused to be interviewed or have his vehicle inspected. The investigating officer estimated his travel and impact speeds to be 72 kmph (45 mph). The Critical Precrash Event for V1 was coded this vehicle traveling, crossing over the intersection. The Critical Reason was not coded to this vehicle. The only known associated factors that could be coded to V1 were the fact that the driver was not licensed and failed to obey a traffic control device. The driver of V2, a 33-year-old female was also uninjured. She stated that she had just purchased the vehicle that day and was buying some accessories for it. She was leaving the car parts store for home when she was struck from the left by V1. She waited until the light turned green, accelerated across the intersection, and did not have a chance to react before being struck. The Critical Precrash Event for V2 was coded other vehicle encroachment from crossing street across path. The Critical Reason was coded as a false assumption as the driver assumed the traffic would yield the right of way. In addition to the false assumption an experience factor was coded as an associated factor as she had just purchased the vehicle that day (even though she claimed to be comfortable with it).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

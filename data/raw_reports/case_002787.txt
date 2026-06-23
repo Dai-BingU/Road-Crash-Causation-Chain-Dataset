@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three vehicle nighttime collision occurred at 1937 hours on the left off-ramp from a northbound interstate highway that consists of 4 through lanes plus the one-lane off ramp. The off ramp is one lane, concrete, and is level and curves left initially but is straight and on a slight downgrade in the area where the crash occurred. The crash occurred adjacent to the gore area that separates the off ramp and the main roadway. The highway has full control, and a posted speed limit of 96 Kph (60 mph). The off ramp has a posted advisory speed of 48 kph (30 mph). At the time of the crash the weather was clear and it was dark, but the roadway was illuminated by streetlight's. There were no sight restrictions or road defects in the crash area. Vehicle #1 (V1), a dark green 1998 Dodge Grand Caravan, was traveling northbound on the off ramp. The driver, a 37 year old male, stated that he had been looking at a glass atrium on a building located to the left of the highway and when he redirected his attention to the roadway, traffic ahead was stopped and he was unable to avoid a frontal collision with the back of V1. Vehicle #2 (V2), a white 1998 Ford Ranger pickup, driven by a 19 year-old male with one passenger was stopped northbound in the off ramp lane behind V3. The impact with V1 propelled V2 forward and the front of V2 collided with the back of V3. Vehicle #3 (V 3) a 2005 Lexus RX-330 SUV driven by a 34 year-old male was stopped northbound in the off ramp lane. All vehicles came to rest on their approximate original headings; V1 and V3 came to rest in the original lane of travel and V2 came to rest partially in the travel lane and partially on the paved shoulder to the right of the travel lane. V1, V2 and V3 were all towed due to damage. The Pre-event Movement for V1 was coded as "Going straight." The Critical Pre-crash event was coded as "Other vehicle in lane - Other vehicle stopped." The Critical Reason for the critical event was assigned to the Vi driver as "Driver Related Factor - External distraction,(looking at building to the left.") The Pre-event Movement for V2 was coded as "Stopped in traffic lane." The Critical Pre-crash event for V2 was coded as "Other Vehicle in lane - Traveling in same direction with higher speed." The Critical Reason was not coded to this vehicle. The Pre-event Movement for V 3 was coded as "Stopped in traffic lane." This vehicle not involved in first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Distraction, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a divided, four-lane, urban highway. There were three westbound through-lanes and one on-ramp lane. The roadway had a posted speed limit of 97 kmph (60 mph) and a level grade. Conditions were daylight and dry with clear skies. The crash occurred in the early afternoon hours on a weekday. Vehicle one was a 2002 Chevrolet S10 pickup truck. Vehicle two was a 2004 GMC Yukon XL 1500 sport utility. V1 was traveling west in lane two. V2 was traveling west in the lane one highway on-ramp. A non-contact vehicle in lane three began merging into V1's lane. V1 steered right and lost control, rotating 90 degrees clockwise and then rolling left in the gore area between lanes one and two. During the rollover sequence, the top of V1 contacted the back of V2. V1 came to rest on its wheels on the north roadside. V2 came to rest on the right shoulder. Vehicle one was driven by a 23-year old male who was transported to a local hospital with minor injuries. He stated that the non-contact vehicle had merged into his lane without using a signal and impacted the left side of his vehicle. No contact evidence could be found, but it is assumed that the non-contact vehicle caused V1 to lose control. The pickup was towed due to damage. The Critical Precrash Event for V1 was control loss due to other - sharp steering maneuver. The Critical Reason was a performance error of overcompensation. There were no associated factors coded to this driver. Vehicle two was driven by a 40-year old female who was uninjured in the crash. She stated that she was taking her parents to the doctor's office at the time of the crash. She heard a loud noise behind her, noticed the oncoming V1, and accelerated to attempt to avoid the crash. The sport utility was not towed. The Critical Precrash Event for V2 was the other vehicle traveling in the same lane with a higher speed. No Critical Reason was coded to this driver. An associated factor was this driver's relative unfamiliarity with the roadway. She stated that she drove the roadway approximately once a month. This driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Other cause of control loss (specify) :
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

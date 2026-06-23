@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This is a two vehicle head on type crash that occurred on a two-way, two lane, dry, straight, level, bituminous asphalt roadway. The roadway has one westbound and one eastbound lane separated by a painted centerline stripe. The crash occurred during early morning dawn hours; there no road defects or sight line restrictions noted at the scene, and there were no adverse weather conditions that contributed to this crash. The speed limit on the roadway is posted 105 kmph (65 mph). Vehicle one (V1), a dark green (teal) 1996 Ford Taurus 4 door, was traveling eastbound when it drifted into the westbound lane and collided front to front with vehicle two (V2). The impact caused V1 to enter a counterclockwise rotation. V1 came to rest in the eastbound lane facing generally northwest. The non-restrained V1 driver, a 25-year-old female, was transported from the scene and admitted to a metropolitan trauma center for a fractured femur and other injuries. The second row left passenger, a 3-year-old female who was in a child safety seat but not restrained, was transported from the scene for injuries and released after treatment. The second row right passenger, a 3-year-old female who was in a child safety seat but not restrained, was transported from the scene for injuries and later released. Hospital personnel took a urine sample from the driver three hours after the collision that tested positive for amphetamines and marijuana. Police at the scene located substances inside the vehicle that was field-tested positive for Methamphetamine and Marijuana. The V1 driver told police that she does not remember what happened but does remember turning onto this road from the Interstate to pull over and sleep. V1 was equipped with first row frontal airbags that deployed as result of this crash. V1 was loaded with numerous clothing and household items in the trunk and inside of the vehicle. V1 was towed due to damage. V2, a maroon and tan 1993 Dodge Ram 250 pickup with a white fiberglass camper shell, was traveling westbound in the westbound lane. The V2 driver told poice that he saw V1 coming from the opposite direction and drifting into his travel lane and slowed and steered to the right onto the westbound shoulder to avoid the crash, but the 2 vehicles collided front to front. The impact caused V2 to rotate slightly counterclockwise and depart the roadway to the right where it came to rest in the dirt area to the north of the roadway facing generally west/southwest. The V2 driver, a restrained 79-year old male, refused treatment at the scene by EMS but was later taken to an area hospital by friends and admitted for a ruptured spleen and multiple lacerations to his head and arms. According to the medical report the V2 driver has a history of a number of degenerative physical ailments. V2 was towed due to damage. The critical pre-crash event for V1 was coded: this vehicle traveling, over the lane line on the left side of travel lane. The critical reason was coded to V1 as a driver related factor: sleeping, that is actually, asleep. The V1 driver told police that she did not remember what happened but she does remember exiting onto the roadway where the crash occurred to sleep. There was no evidence of braking by V1 prior to the crash. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction, over the left lane line. The critical reason was not coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue present problem 
+Vehicle 2:  Driver Fatigue, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

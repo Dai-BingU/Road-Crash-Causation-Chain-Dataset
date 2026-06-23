@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred during mid-afternoon hours in a construction area, on a busy undivided highway. The pre-crash roadway is normally a five-lane roadway, but at the time of the crash the number one lane in both directions was closed off by construction barrels so there was one through lane in each direction and a 2-way center turn lane. The pre-crash roadway has a slight grade, and is straight with bituminous paving. The weather was clear and the roadway was dry at the time of the crash, but according to the V 1 driver, it was just starting to rain very lightly. The roadway has a posted speed limit of 72 kmph (45 mph) and there was an advisory speed limit of 40 kmph (25 mph) posted in the construction area. Vehicle one (V1), a 1999 Ford Flatbed pick-up track had been stopped behind a "large panel truck" facing northbound in the center turn lane, and entered the oncoming lane intending to turn left. The V1 driver, a 38 year old male, stated that he had pulled approximately 1.2-meters (4 feet) into the oncoming lane when he noticed vehicle two (V2) and he then stopped. V2 did not stop and the two vehicles collided front to front. The impact moved V1 slightly counterclockwise and it came to rest near the point of impact. The V1 driver stated that after noticing V2, he had sufficient time to back up into the center turn lane, but did not do so because he had poor visibility behind him, and believed that V2 had plenty of time to stop. V2, a 2003 Hyundai Accent, was traveling southbound in lane one. The V2 driver, a 42 year old male, stated he saw V1 pull out and pause, then proceed forward into his path. He stated that he then hit his brakes and then attempted to steer to the right, but was unable to avoid the crash and the two vehicles collided front to front. Both vehicles were towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was assigned to the driver of V1 as a driver decision error: false assumption of other's actions. After the driver realized that he had encroached into V2's travel lane he falsely assumed the other driver would make avoidance actions for the collision. He stated that he had time to take such actions himself but made an assumption the other driver would make them. Another associative factor for the collision the the sight line was partially blocked to V2 by the large panel truck in front of him. The driver stated that initially he couldn't see beyond truck in front of him. Additional associative factors: The V1 driver stated that he takes Zoloft for anxiety, and has sleep apnea with current CPAP treatment, however he was well rested and was not in a hurry. He also stated that he is paid on an hourly rate, and was not in a hurry, as the company policy is "safety first". The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction- over left lane line. The critical reason was not coded to this vehicle. Possible associative factors for V2 include unfamiliarity with the road, and the V2 front tires had very low tread. A possible associative factor for both vehicles is the presence of the orange cones and barrels on the lane line; they are at eye level and the road is effectively without a shoulder area.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Driver Inexperience, Traffic, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

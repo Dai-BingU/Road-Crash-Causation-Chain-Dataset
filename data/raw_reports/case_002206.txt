@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred just past noon on a two-lane non-divided asphalt constructed roadway. This roadway runs east to west is straight and level with a double solid centerline. This crash occurred during daylight with no adverse weather and no obvious road defects. The posted speed limit is 56 kmph (35 mph). Vehicle one (V1) a 1985 Toyota Tercel station wagon driven by a 17 year-old female was traveling east in lane one. Vehicle two (V2) a 2000 Cadillac sedan driven by a 58 year-old female was traveling west in lane one. V1 attempted a left turn in front of V2, the front of V1 collided with the left side of V2. After impact V1 came to final rest on the roadway facing northeast, V2 continues in a westerly direction off the right side of the road striking two poles coming to final rest facing west off the road. Both vehicles were towed due to damage. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inattention (i.e., daydreaming). This driver was on her way from her home to a friends house. She was upset and thinking about a girl who was spreading some gossip about her. She was not aware of V2's presence when she made the left turn and was also looking in the direction of the turn. She had slept just four hours in the previous 24 hour period, so fatigue was considered a factor for this driver. It was also the first time she had driven on this road and had been driving vehicles for just 8 months. The pre-event movement for V2 going straight, category other vehicle encroachment from crossing street across path. Critical reason not coded to this vehicle. Associated Factors: the driver of V1 not licensed and has limited experience, also mad and upset.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Inexperience, Driver Performance, Driver Stress/Emotion, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

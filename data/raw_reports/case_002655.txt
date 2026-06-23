@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at a 4-way intersection during afternoon hours on a clear sunny weekday. The main roadway runs northeast and southwest with an intersecting secondary street and a highway entrance/exit ramp at the location of the crash. The intersection is controlled by a pretimed traffic control device. The posted speed limit on the main thoroughfare is 72 kmph (45 mph) and the limit on the secondary road is 48 kmph (30 mph.) V1, a 1999 Chevrolet Lumina with one occupant, was traveling northwest in lane 3 of a 4-lane undivided secondary road approaching a 4-way intersection. V2, a 1999 Pontiac Grand Am GT with one occupant, was traveling northeast in lane 3 of a 5-lane divided roadway approaching the same intersection. Both vehicles entered the intersection at the same time and collided at a right angle. The front left corner of V1 struck the right front corner of V2 and came to final rest in the intersection. Neither driver was seriously injured, however EMS examined V2's driver on the scene. V1 was driven by a 39-year-old male that works 40 hours per week. He does not report to have any fatigue, emotional or health related issues but state records show he was not involved in any other crashes the past five years. This driver reports he was completing some errands during lunch break this afternoon and was returning to work when the crash happened. After stopping at an intersection for a red signal, he proceeded to enter the intersection to make a left turn. Subsequent to entering the intersection, he saw a vehicle from his left headed toward him. He tried to brake before the collision but there was not enough time or space to avoid the crash. His vehicle was towed from the scene due to damage. The Critical Precrash Event for V1 was coded: (66) other vehicle encroached from crossing street, across path and the Critical Reason was (1) not coded for this vehicle. V2 was driven by a 19-year-old female that works 30 hours per week at a restaurant as a server and attends college part time (six credits) this semester. She reports to be healthy with good vision and claims to not have any emotional problems but admits that school and a rotating work schedule does create stress in her life. This driver reported she was talking on the phone with her sister while driving home to retrieve her sister's medical information. As she drove north in lane three, she saw a police car traveling in the opposite direction. She was concerned about her speed because she was recently ticketed for speeding, so she looked in her rear view mirror to see if the cop would pull her over. By the time she turned her attention to the traffic ahead of her, she entered an intersection and struck another car that was turning left. She reported to have noticed the red light and hit the brakes before impact. She was not injured in the crash but was quickly examined by EMS on the scene. The driver and front passenger air bags deployed in the crash and her car was towed due to damage. The Critical Precrash Event for V2 was coded: (27) crossing over, passing through intersection and the Critical Reason was coded as a recognition error: (112) external distraction because she was looking at an extraneous vehicle in her rear view mirror. Associative factors for this vehicle include aggressive driving, thinking about concerns, talking on a cell phone, external distraction, and use of prescription drugs.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway present problem 
+Vehicle 2:  Cell Phone Use, Decision, Distraction, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- External distraction

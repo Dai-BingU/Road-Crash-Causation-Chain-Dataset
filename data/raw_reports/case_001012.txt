@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during late afternoon hours on a Wednesday. There was a level, four-leg intersection controlled with traffic signals. The traffic way for each driver were three-lanes with a center median without a positive barrier. The posted speed limit was 64 kmph (40 mph). Vehicle one (V1), a 1995 Cadillac, was westbound in lane two traveling at a police reported speed of 48 kmph (30 mph). Vehicle two (V2), a 1995 Dodge Ram club cab pickup truck, was northbound in lane two at driver reported speed of approximately 8 KPH. As both vehicles traveled through the intersection V1's front contacted V2's right side. V1 rotated clockwise less than 30 degrees and came to final rest in the intersection. V2 rotated clockwise less than 30 degrees and came to final rest in the intersection. The driver of V1 was a 25 year-old male who did not have a driver's license and no prior driver training. The driver indicated he had been driving vehicles for nine years but had only driven this type of vehicle for one year. He indicated he was not familiar with the vehicle but was familiar with the roadway. During the vehicle inspection two empty bottles of malt liquor and a half smoked cigar were found in the vehicle. The driver stated that he felt fatigued at the beginning of this trip. He does strenuous work at a nursing home and must lift patients as part of his job. As V1 approached the intersection the traffic signal was yellow and the driver thought he could clear the intersection before it turned red. The critical pre crash event for V1 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason for the critical event was coded to V1's driver as a driver related factor: illegal maneuver. He indicated he was aware of V2's presence prior to the crash and yet he failed to yield the right of way to V2. The driver of V2 was a 37 year-old male with a current drivers license with no restrictions. As V2 approached the traffic signal it turned green and the driver proceeded into the intersection and his vehicle was struck on the right side by the front of V1. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. Th critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Fatigue, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

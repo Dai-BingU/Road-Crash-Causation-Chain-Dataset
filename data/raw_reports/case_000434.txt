@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred at the intersection of a two-way, two-lane, undivided roadway and a three lane (five overall) divided roadway without a positive barrier. Both roads were dry, traveled concrete. The east/west direction had a -2.5% grade. The north/south direction had a positive +1.6% grade. The posted speed limit is 48 kmph (30 mph). There were no adverse weather conditions. The crash occurred several hours before midnight. Vehicle one (V1) a 1995 Ford Ranger pick-up driven by a 69 year-old male was traveling westbound in the second travel lane. Vehicle two (V2) a 1996 Volvo 960 sedan driven by a 45 year-old female was traveling southbound in the first travel lane. V1 entered the intersection without the right of way and it's right side was struck by the front of V2. V1 rotated counterclockwise and came to rest in the roadway facing west. V2 rotated clockwise and came to rest in the roadway facing west. Both vehicle's were towed from the scene due to damage. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver didn't realize he had to stop and did not stop at the stop sign. He failed to see V2 approaching from his right. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Decision, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

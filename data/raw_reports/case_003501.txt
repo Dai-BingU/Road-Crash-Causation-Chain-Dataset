@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred about an hour and 45 minutes prior to midnight during dark hours in a stoplight controlled, four-way intersection. This intersection is comprised of a four-lane undivided east/west roadway. The road consists of two westbound lanes and two eastbound lanes divided by a striped line. The two inner lanes are bordered by large concrete/steel pillars, spaced at intervals of approximately 15 meters (50 feet). Mounted atop these pillars is an elevated train track that runs east/west above the roadway. The roadway underneath these tracks is not directly lighted, but there is ambient artificial light in the surrounding neighborhood and above the tracks. The north/south roadway was comprised of two undivided lanes. Road surface in both directions dry. level asphalt. The speed limit is 48 kmph (30 mph). Vehicle one (V1) a copper 1992 Lexus 4-door driven by a 43 year-old male was westbound in the number two lane. Vehicle two (V2), a white 1999 Ford Crown Victoria Police Interceptor driven by a 27 year-old male was traveling northbound in the number one lane. According to a witness, V2 was traveling at approximately 56 kmph (35 mph) with its lights activated, but no siren and the traffic light for V2 turned yellow as V2 entered the intersection. The front of V2 contacted the right side of V 1 in the intersection. After this impact, the right side of V2 and the left side of V1 side slapped. V2 then slid broadside, tripped over the northwest curb, rolled right one quarter turn and contacted a concrete pillar with the top plane, which interrupted and stopped the rollover After the side-slap event, with V2, V1 exited the road on a northwest trajectory and came to rest in a field facing generally west. V1 and V were towed due to damage and all occupants were transported to a local medical facility. The V1 driver stated that he did not see the police vehicle, that the stairs and elevator used to access the overhead rail blocked his view, but that he had waited for the green light before entering the intersection. The witness and police report stated that V1 entered the intersection on a red light. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was attributed to V1 as a driver related factor: illegal maneuver (for disregard of traffic signal). The access stairs and elevator for the overhead rail are a possible sight restriction to the left for westbound traffic. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Stress/Emotion, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

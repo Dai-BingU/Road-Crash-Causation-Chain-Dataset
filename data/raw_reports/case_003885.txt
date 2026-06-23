@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a primary arterial roadway that ran north/south and was intersected on the east by a residential side street. The arterial road had five lanes on the south side of the intersection with the third lane being a two way left turn only lane. The north side of the intersection had an additional lane on the northbound side used as a right turn only lane for another uninvolved intersection. The arterial road was straight with a positive grade (if northbound) of two percent about one hundred meters south of the intersection. The intersection itself was level. The speed limit on the arterial was 72kph/45mph. The northeast corner of the intersection had a landscaped area consisting of low shrubs and flowers in mulch with a brick and block wall labeling the subdivision. Conditions at the time of the crash were daylight and dry in mid afternoon on a weekday. V1 was a 1995 Ford Explorer traveling north on the arterial in the right lane when V2, a 2003 Hyundai Sonata that was traveling south in the left turn only lane proceeded to turn left in front of the Explorer (V1). V1 then swerved right and according to the driver of V1 also briefly touched the brakes before hitting the right side of V2 with the front of V1. V1 then veered right (east) and left the roadway and struck the wall on the northeast corner with its front, coming to rest at the remains of the wall. V2 spun over 180 degrees counter clockwise coming to rest about eight meters north of impact facing west in the 2 right northbound lanes. Both vehicles were towed from the scene. V1, was driven by a twenty-six year old female who was belted with deployed airbags and was transported due to possible injuries for treatment to a local hospital. Her three passengers were all children in child safety seats in the second row and were all also transported under the same circumstances. The driver of V1 was on her way to meet a friend for dinner. The critical precrash event for V1 was other vehicle encroachment over the left lane line. The critical reason was not coded to this vehicle. The driver of V1 was taking several medications at the time of the crash. The only other contributing factor coded to this vehicle was a false assumption that the other driver would yield the right of way. V2, was driven by a twenty-seven year old female who was belted with deployed airbags. She was also transported to a local hospital for treatment although the police called her injuries minor. The critical precrash event for V2 was this vehicle traveling, turning left at an intersection. The critical reason was coded as misjudgment of gap or others' speed. She was also on several medications, which were sourced from a medical record as no interview was obtained. The windshield of V2 was also dirty enough to obscure the drivers' view.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs present problem 
+Vehicle 2:  Decision, Driver Physical, Drugs, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Misjudgment of gap or other's speed

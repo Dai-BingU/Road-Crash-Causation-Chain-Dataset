@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary V1, a 2003 Pontiac Sunfire, was traveling westbound in lane 2 of 3 westbound lanes of an interstate roadway. The straight, bituminous, positive grade >2% roadway was dry and it was daylight. V2, a 1990 dodge Caravan, was westbound in lane 1 of the same roadway. V1 was overtaking v2 when it drifted to the right over the lane line. V1, right, contacted v2, left. V1 the rotated cw striking the median wall with it's back. V2 rotated ccw striking the median wall with it's back then it's front. Neither driver was injured. V2 was towed due to damage. A complete driver interview and vehicle inspection was obtained for v1. The Critical Pre-Crash Event for v1 was passing or overtaking another vehicle. A complete driver interview and vehicle inspection was obtained for v2. The Critical Pre-Crash Event for v2 was going straight.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

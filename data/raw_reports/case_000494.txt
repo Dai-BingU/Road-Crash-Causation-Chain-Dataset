@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred mid-afternoon during daylight hours at the intersection of a dry, downhill, two-lane, bituminous roadway that intersected with a dry, uphill, two-lane, bituminous roadway. A yield sign controls the westbound side of the intersection. The Southbound side of the intersection had no traffic control devices. The northbound and eastbound side of the intersection is controlled by stop signs. For southbound traffic there is a curve to the left before the intersection. The roadway is very narrow. Vehicle one (V1), a 1997 Chevrolet Lumina was traveling westbound. Vehicle two (V2), a 1998 International truck pulling a trailer was southbound. V2 was turned left at the intersection. As V2 made its turn the trailer departed its lane to the left and the front of V1 impacted the left side of the trailer. Both vehicles came to rest at impact. V1 was towed due to damage. V2 was not towed from the scene. The driver of V1, a forty-year-old female was not interviewed. A witness to the crash was behind vehicle one and witnessed vehicle one just keep pulling into the intersection while V2 was making the turn. The driver of V2, a forty one-year old male gave a partial interview and indicated that as he was making the turn, V1 just kept moving further and further into the intersection. This driver also indicated that the road is not wide enough to make this turn. The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason for the critical pre-crash event was attributed to V1 and was coded as a driver related factor: illegal maneuver, for this driver failing to yield at the intersection. The critical pre-crash event for V2 was coded: this vehicle traveling; over the lane line on the left side of travel lane. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway present problem 
+Vehicle 2:  Decision, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

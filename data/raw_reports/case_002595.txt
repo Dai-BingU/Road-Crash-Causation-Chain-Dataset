@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a rural road that ran north/south and had a curve to the left at the crash location. The road had two lanes, was two way with no shoulders and no physical divider. The lanes were less than three meters wide. There were trees on the north/east edge of the road and the south/west edge was tree lined until close to the curve apex where a steep embankment with a negative thirty percent grade bordered the road edge. The curve radius measured 120 meters at the apex. The speed limit was 48kph (30mph). The crash occurred on a weekday in the early evening under daylight and dry conditions. Vehicle #1 was a 2005 Jeep Liberty traveling south in the left curve on the road when it encountered a vehicle traveling the opposite direction in the southbound lane heading directly toward it (V1). Vehicle #1 then swerved to its right and departed the right side of the road without contacting the other vehicle but it then went down the embankment rolling one-quarter turn onto its right side. Vehicle #1 was towed from the scene. Vehicle #1, was driven by a forty two year old belted female who was transported from the scene to a local hospital for treatment of possible injuries. She stated that she ws heading south when she was in the curve and another vheicl, she thinks it was black or blue came around in her lane in the opposite direction. She swerved to her right and wnet off the right side of the road to avoid the car and ended up going down the embankment and rolling over onto her right side. The Critical Precrash Event for Vehicle #1 was this vehicle traveling off the edge of the road on the right side. The Critical Reason was an other decision error, drove off the road intentionally to avoid a collision with another non contact vehicle encroaching into Vehicle #1's lane from the opposite direction. The driver did take medication for asthma. The driver of Vehicle #1 chose an unsuccessful evasive maneuver as she ended up crashing anyway. The trees lining the road were coded as sightline restrictions on the approach to the curve.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

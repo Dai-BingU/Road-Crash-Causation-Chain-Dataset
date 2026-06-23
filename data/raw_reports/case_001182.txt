@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lane of a 2-lane two-way roadway. There is an intersection approximately 21m to the left of the driveway. Conditions were daylight and an icy asphalt roadway. The crash occurred in the morning on a weekday. V1, a 1997 Chevrolet Venture, was pulling out of a commercial drive and slipped on some ice in the roadway. V2, a 1991 Saturn was traveling westbound on the same roadway. She did not see V1 pulling out until he was right in front of her due to a pile of snow on the side of the roadway blocking her view. The front of V2 contacted the left rear of V1 before coming to final rest on the roadway. The driver of V1 was a 26-year old male who had reported that he was stopped before proceeding and was traveling 3-17 kmph(1-10mph). He did not sustain any injuries from the crash. The driver of V1 stated that he was pulling out of a driveway to turn left when his car slid on a patch of ice. He did not see the other vehicle because of the high snow bank that was blocking his view. The other vehicle hit his vehicle in the left rear and spun him counter-clockwise. The Critical Precrash Event for V1 is this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was a recognition error, inadequate surveillance (failed to look, looked but did not see). He had no health related problems, and had taken no medication prior to the crash. He was rested and coming from the bank. Associated factors included were the condition of the roadway (icy) and sightline restrictions (snow bank). The driver of V2 was a 22-year old female not reported pregnant, who reported that she had been traveling 34-48 kmph (21-30mph). She sustained no injuries. The driver of V2 stated that she went through the green light and all of a sudden V1 turned left in front of her. She could not avoid hitting him. The Critical Precrash Event for the driver of V2 was other motor vehicle encroachment from driveway, turning into opposite direction. The Critical Reason was not coded to the driver of V2 and she was not thought to have contributed to the crash. She took appropriate avoidance actions. She had no health related problems, and had taken no medication prior to the crash. She was rested and taking her mom to work. She does not have a prescription for corrective lenses. Two associated factors were coded to the driver of V2 that was also coded to V1 was the condition of the roadway (icy) and sightline restrictions (snow bank).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

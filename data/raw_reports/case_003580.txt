@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the middle of a four-way intersection, controlled by light signals in all directions. The two-way roadway was not physically divided. The east/west roadway consisted of four lanes, while the north/south roadway, only had two lanes. The posted speed limit for the road upon which both vehicles were traveling was 56 kph (35 mph). There was consistent rainfall at the time of the incident, thus making the roadway wet. There was an uphill grade for both vehicles, as the intersection formed the peak of the two hills. Vehicle one (V1), a 2002 Honda Civic, was traveling westbound intending to pass through the intersection. Vehicle two (V2), a 1994 Jeep Cherokee was traveling eastbound, intending to make a left at the intersection. As V1 was crossing over the intersection, V2 turned in front of V1. The front of V1 made contact with the right front of V2. Both vehicles were removed from the scene due to damage. The driver of V1 suffered minor injuries, but did not require transportation to a hospital. The driver was still on scene upon my arrival, but did not feel comfortable participating in the interview. The Critical Precrash Event for this vehicle was coded as other vehicle encroachment from opposite direction - over left lane line. The Critical Reason was not coded to this vehicle. The driver of V2 did not suffer any injuries as a result of the crash. The driver had already left the scene when I arrived. Numerous phone calls were made to the driver, however, an interview could not be obtained. Through information contained in the Police Accident Report, the view of V2 may have been hindered by another vehicle. As traffic was backing up in the westbound lane, a vehicle in lane two westbound was going to allow V2 to make the left turn. The driver of V2 did not see V1 coming into his lane while trying to cross the intersection. The Critical Precrash Event for V2 was coded as this vehicle traveling turning left at intersection. The Critical Reason for the Critical Precrash Event was coded to this vehicle as view obstructed by other vehicle. It should also be noted that the view could have been further obstructed by the fact that the intersection was at the top of a slight hill.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Traffic, Weather/Environment present problem 
+Vehicle 2:  Decision, Roadway, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Environment Related Factor- View obstructed by other vehicles

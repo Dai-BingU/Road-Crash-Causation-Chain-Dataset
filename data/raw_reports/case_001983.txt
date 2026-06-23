@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred at dusk on a weekday in the middle of a four-way residential intersection. The intersection consisted of a north/south four-lane undivided roadway and an east/west two-lane undivided roadway that was controlled by stop signs. The bituminous north/south roadway was straight and featured a negative grade greater than 2% (-4/61) with a posted speed limit of 48kmph (30 mph). The intersecting street was bituminous and straight with a positive grade greater than 2% (+6/61) and a posted speed limit of 40kmph (25 mph). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2004 Hyundai Elantra, was stopped facing west at the stop sign intending to turn left and proceed southbound. V2, a 2001 Toyota Camry, was northbound in lane two approaching the same intersection where it intended to continue straight. V1 began slowly inching forward and proceeded to make its left turn when it struck the right side of V2 with its front. V2 came to rest in lane 2 of the northbound lanes while V1 came to rest blocking both northbound lanes near the point of impact. V1 was driven by a 25-year-old female who, along with her 3-month-old child in the rear center seat, was returning home from visiting family. She stated she was attempting to make a left from a stop and slowly pulled out. She thought she had enough time to make the turn before V2 entered the intersection. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was coded as a driver related error, misjudgment of the gap distance. A sightline restriction was coded as an associated factor as the hill and shrubbery obscured the driver's sightline. No interview could be obtained for Vehicle 2. The 25-year-old driver of V2 could not be located after numerous attempts. The Critical Precrash Event for V2 was coded as other vehicle encroachment, from crossing street, turning into opposite direction. The Critical Reason was not coded to this vehicle. There are no known associated factors coded to V2, as an interview with the driver could not be obtained.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

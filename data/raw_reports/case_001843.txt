@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle daytime collision occurred mid-afternoon. The collision occurred at an intersection comprised of a west/east roadway and a north/south roadway. Both roadways are two-way, two lane and concrete. The north/south roadway is controlled by a stop sign. The east west roadway has a +7% grade. Both roadways were dry, free of congestion, poor weather conditions, and/or road deficiencies at the time of the collision. Both roadways are designated as 48 kph (30 mph) zones. Vehicle two (V2), a 1992 Mercedes-Benz 4-door sedan, driven by a 42 year-old male with one passenger was stopped eastbound in lane one. Vehicle one (V1), a 1988 Toyota Celica 2-door coupe, driven by a 45 year-old female was also traveling eastbound in lane one behind V2. The front of V1 struck the rear of V2. V2 was pushed forward and came to rest facing east approximately 20 meters (66 feet) east of the impact. V1 rotated counterclockwise and came to rest close to the point of impact in its own travel lane facing northeast. Both vehicles were towed due to damage. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: heart attack or other physical impairment of the ability to act. During the interview, the driver of V1 stated that she was in a panic due to her friend getting too "friendly". She was in a hurry to get away from him. She was found on scene to be not clothed from the waist down. She also thought she was going into a seizure. Her blood alcohol level per medical records was at a 0.414; However it is noted in the medical records that the driver consumes a pint of hard liquor daily. The driver takes the medications: Depakote, an anti-convulsant; and, Seroquel, an anti-psychotic medication. Drinking alcohol while taking these medications can cause drowsiness. The driver was aware of V2's presence and did not take any avoidance actions due to an on-going medical problem of a seizure combined with alcohol consumption and heightened emotional state. The pre-event movement for V2 coded stopped in traffic lane, category other motor vehicle in lane traveling in same direction with higher speed. Critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Alcohol, Distraction, Driver Performance, Driver Physical, Driver Stress/Emotion, Drugs, Speed/Distance present problem 
+Vehicle 2:  Distraction, Driver Fatigue present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

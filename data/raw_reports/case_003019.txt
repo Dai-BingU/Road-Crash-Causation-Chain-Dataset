@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred in the Northbound lanes of a 8 lane highway divided by a grass median and a positive barrier. There were 4 northbound and 4 southbound lanes. This was a straight, level, bituminous roadway with a posted speed limit of 55 mph. It was the early morning on a weekday and the road was dry, the sky was clear and traffic was heavy. An unknown year Peterbilt Dump Truck, two door with one occupant, was traveling Northbound on an exit ramp, merging into lane 1 of the highway. V1, a 2005 Toyota Avalon was traveling in lane 2. V2, a 2006 Nissan Altima 4-door (PAR has wrong make and model of car) was traveling directly in front of V1 in lane two. V3, a 2002 Nissan Altima 4-door was traveling directly in front of V2. V4, a 2002 GMC Jimmy truck with one occupant, was driving in lane 4. As the Peterbilt Dump Truck was merging aggressively onto the highway, V2 slowed down to avoid being sideswiped by the truck. This action caused V1 to strike V2 in the rear. V3 was struck by V2 in the rear as she was preparing to go into lane 1 to exit off of highway. After striking V3, V2 then lost control and swerved over into lane 4 where V4 was traveling. V2 then struck V4 on its front right side. V4 then swerved off the road and spun about 170 degrees clockwise and coming to a rest off the road. V1, the Toyota Avalon was driven by a 42 year old male who reported no injuries. He stated that the situation happened so fast that he remembers only the first half of it. He stated that he was traveling at a constant speed when he saw the dump truck merging into the lanes. He said V2 slowed down abruptly so he slammed on his brakes, thus striking V2 in the rear. No critical precrash event or precrash code since driver was not involved in first harmful event. V2, the Nissan Altima was driven by a 28 year old female who reported no injuries. She stated that there is so much problems on that part of the highway with people coming from the left lane trying to get onto the exit on the right side of the road and vehicles coming off the ramp from where the dump truck exited, trying to get into the lane 1 and 2. Driver stated that she almost getts into near accidents there almost everyday. She also stated that he dump truck was merging onto the highway and it seemed like the truck was going to come directly into her lane. She said that V3 also slowed down probably for the same reason. Her vehicle then struck V3 in the rear. The critical pre-crash event for V2 is other vehicle encroachment from adjacent lane over left lane. Critical reason for critical event is a recoginition error. Driver had an external distraction. The driver was watching the dump truck as it was aggressively coming into lanes 1 to 2. V3, the 2002 Nissan Altima was driven by a 38 year old female who reported no injuries. Driver has declined to do an interview. From what driver of V2 has stated, driver of V3 was also avoiding dump truck merging over into the lane that V1 and V3 was driving in. So V3 slowed down to avoid the dump truck. The critical pre crash event for V3 is that there was "other vehicle encroachment from adjacent lane over left lane." The critical reason was a decision error. Driver had a false assumption of other drivers actions. Even though dump truck may have been entering the highway aggressively, driver may have thought that the dump truck was coming to fast and into her lane. V4, the GM the Jimmy Truck was driven by a 39-year old male who reported no injuries. He stated that he didnt see everything that happened but saw when V2 was swerving over into his lane and struck him on the right side. There is no critical pre-crash event or reason coded to this vehicle since it was not involved in the first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Traffic present problem 
+Vehicle 2:  Driver Inexperience, Surveillance, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on a dry, level, two-lane, undivided, 89-kph (55 MPH), bituminous roadway, at the intersection of another two-lane, non-divided roadway. The roadway was dry and it was overcast on a weekday evening Vehicle 1 was stopped in the northbound lane, waiting make a left turn at the intersection. Vehicle 2 was approaching from the south, traveling north on the same roadway. Vehicle 2 attempted to pass vehicle 1 on the left; vehicle 1 simultaneously attempted the left turn at the intersection. The RF corner of vehicle 2 contacted the left rear of vehicle 1. Vehicle 1 came to rest northwest of the intersection heading southbound in the southbound lane; vehicle 2 came to rest in the center of the intersection in a northwesterly direction. A restrained 62-year-old female driver and a restrained 23-year-old female passenger occupied V1, a Silver 2001 Dodge Caravan. The driver of V1 stated that she was stopped for 3-4 seconds and then began to turn westbound. She stated that she had initially missed a private driveway and attempted to use the road to turn around. When she eventually stopped she pulled further ahead than she had wanted. She stated that she looked but did not see vehicle 2 approaching so she tried to complete her turn. Vehicle 1 was not towed to damage. The Pre Event Movement for this vehicle is stopped in a roadway. The critical pre-crash event is turning left at intersection and the critical reason for this event was not coded to this vehicle. Vehicle 2, a Blue 1992 Ford Crown Victoria, was occupied by one restrained 57-year-old female driver. The driver of V2 stated that she was on her way home from work and that she had driven this vehicle down this roadway 5 days a week for the past two years. The driver of vehicle 1 stated that she tried to pass V1 on the left side; she stated that she had seen another vehicle pass vehicle 1 before her; she stated that the turn signals for vehicle 1 were not warning her that that vehicle intended to turn. Vehicle 2 was towed to the owner's home due to damage. The pre-crash movement for this vehicle is passing or overtaking another vehicle. The critical pre-crash event is other vehicle encroachment from adjacent lane in the same direction over the left lane line. The critical reason for critical pre-crash event for this vehicle is false assumptions of other road user's actions. An associated factor coded for this vehicle is that the driver stated she was always fatigued on her ride home from work.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Driver Fatigue present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Passing or overtaking another vehicle
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

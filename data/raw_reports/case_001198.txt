@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred on a two-lane, dirt, county roadway with various curves and an uphill grade of +4 percent. This roadway curves left just before the area of this crash. This crash occurred during daylight with good weather and good visibility. The posted speed for this roadway is 56 kmph (35 mph). Vehicle one (V1), a 1979 Ford F100 pickup, was southbound being operated by an 18 year old, non-licensed female who had never driven this vehicle or any other pickup truck before. A 37-year-old male accompanied the driver. The driver reported that she was operating this vehicle at a very high rate of speed. V1 entered the left hand curve and began to rotate counterclockwise. V1 yawed across the northbound lane and exited the left road edge. V1 struck a vertical, dirt embankment with its front bumper and rotated counterclockwise coming to rest on its wheels heading east. The vehicle was towed due to damage The driver admitted to speeding and had not driven this vehicle before. She had less then a year of any type of driving experience and did not have a driver's license. She reported that she had a drug problem and that she was under the influence of drugs (methadone and marijuana) and alcohol at the time of the crash. Medical records indicated the driver tested with a BAC of 0.00. She could not remember the last time she had slept and did not know how much sleep she had gotten when she did sleep. The critical pre-crash event for V1 is coded: this vehicle traveling, off the edge of the road on the left side. The critical reason for the critical pre-crash event is coded as a driver related factor: too fast for curve/turn.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Distraction, Driver Fatigue, Driver Inexperience, Driver Performance, Driver Physical, Drugs, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

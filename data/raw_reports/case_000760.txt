@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle rear-end type crash occurred mid-afternoon in the number one eastbound lane of a four lane, east/west bituminous, dry asphalt roadway. The roadway has two eastbound and two westbound lanes and a left turn lanes at various locations on the roadway. The lanes are separated by a raised median. The speed limit on the roadway is posted 56 kmph (35 MPH). There were no environmental conditions that contributed to this crash. There were no sight line restrictions and no obstructions in the area of the crash. Vehicle one(V1), a 2000 Dodge 4 door Neon sedan driven by a 19 year-old female was traveling eastbound in the number one lane. Vehicle two (V2). a 2003 Honda Accord sedan driven by a 30 year-old male was traveling east in lane two and changed lanes to lane one. The driver of V2 had noticed an emergency vehicle coming west with lights activated so V2 stopped in the traffic lane and was subsequently struck in the rear by V1. The driver of V1 stated that she applied her brakes harder and was unable to stop before striking the rear of V2. V1& V2 came to rest in the number one lane facing east. V1 was towed from the scene. V2 was driven from the scene. The critical pre-crash event for V1 was coded: other vehicle encroachment-from adjacent lane (same direction), over the left lane line. The critical reason for the critical event was coded to V1 as a driver related factor: too fast to be able to respond to unexpected actions of others (specified as: this driver did not expect V1 to change into her traffic lane then stop in the lane for the emergency vehicle). The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction while decelerating. The critical reason not coded to this vehicle. An associated factor, external distraction for both vehicles was the ambulance and previous crash they were looking at.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Speed/Distance, Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

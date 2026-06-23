@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred in the middle of a five-way intersection. The roadways were asphalt and dry for both vehicles. Vehicle 1 had a 4% uphill grade while vehicle 2 had a 4% downhill grade. The posted speed limit was 40 kmph (25 mph) for all directions. Vehicle 1 and 2, east and westbound travel directions, were controlled by asignalized traffic devices. The crash occurred in the late afternoon on a weekday. The traffic flow was heavy and the weather was clear. Vehicle 1, a 1999 Oldsmobile Delta 88, was traveling westbound on the two-lane east/ west roadway, proceeded through the intersection when its front contacted the right side of vehicle two, a 2004 Hyundai Sante Fe. Vehicle 2 was also traveling through the intersection eastbound direction, 180 degree opposing direction, intending to make a left turn to travel northbound. Both vehicles had a green light as they proceeded through the intersection. The driver of V2, a 63-year old female, said she was traveling east on the two-lane roadway at approximately 40 kmph (25 mph) through the intersection intending to make a left turn northbound when her vehicle was contacted on its right side by vehicle 1traveling westbound. She said the light was green. She stated before she had a chance to react, her vehicle was struck by V1. She doesn't remember doing anything inside the vehicle or looking anywhere outside the vehicle that would distract her attention. She did say that the traffic was busy and the crash could have been avoided had she seem V1 sooner. She's a seasoned driver. She been licensed for over 45-years and is familiar with the roadway; she travels on it daily. The driver of V2 was not injured. V2 was towed due to damages. The driver of vehicle one was unavailable for comment and could not be reached. Vehicle 1 wasn't towed. However, the PAR damage indicator listed the damage as disabling. Both driver and passenger of V1 were transported to the hospital with possible injuries. The Critical Pre-Crash Event for V2 was when it began to turn left at the intersection. The Critical Reason was coded as inadequate surveillance (looked but did not see). The Critical Pre-Crash Event for V1 was coded as other vehicle encroachment from opposite direction - over the left lane line. The Critical Reason was not coded to this vehicle. No associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

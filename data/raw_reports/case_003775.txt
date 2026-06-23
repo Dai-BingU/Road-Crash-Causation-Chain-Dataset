@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred on a north/south, two lane, undivided, straight, level roadway with a speed limit of 48 kph (30 mph). The roadway intersects an east/west, two lane, undivided, level roadway. Traffic on the north/south roadway is controlled by a stop sign. This crash occurred at night with light traffic. The roadway was not lighted. There were no adverse weather conditions at the time of the crash. Vehicle one (V1), a 1996 Chevrolet Impala SS with one occupant, was southbound in lane one. Vehicle two (V2), an unoccupied 1995 Chevrolet Astro van, was parked in a residential driveway off of the roadway. V1 attempted a left turn into the eastbound lane, departed the roadway on the southeast corner and the front of V1 struck the right side of V2. V1 was towed due to damage. The driver was not transported. The driver of V1, an eighteen year-old male, was traveling from a friend's residence to his home. He was well rested, in good health and comfortable with his vehicle. He drives this route daily. The driver stated that an unknown vehicle for an unknown reason was chasing him. He stated that he was traveling between 80-97 kmph (50-60 mph) as he approached the intersection and made an abrupt turn in an attempt to evade the other vehicle. The driver stated he has had about 18 months of driving experience. The critical pre-crash event for V1 was coded as "this vehicle traveling; off the edge of the road on the right side." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor: too fast for curve/turn."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Driver Stress/Emotion, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

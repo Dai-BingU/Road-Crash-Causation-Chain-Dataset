@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a one-way roadway with one lane of travel. The roadway was straight and level and had a speed limit of 48kmph (30mph). It was daylight and clear with no adverse conditions. The roadway was asphalt and was dry for the most part but had an ice condition caused by freezing temperatures and a flooded drain approximately 55 meters south of the point of impact. Vehicle # 1 was a 2005 Ford Crown Victoria that was traveling northbound on the roadway when it lost control on the ice patch. Vehicle # 1 departed the roadway on the right side and impacted a small metal pole and then impacted the building located to the west of the roadway. Vehicle # 1 came to a final rest contacting the building. The Ford Crown Victoria (Vehicle # 1) was driven by a 44 year-old male who sustained non-incapacitating injuries and was transported to a local medical facility. The driver stated that the ice patch caused him to loose control and impact the building. The Ford Crown Victoria was towed due to damage. The Critical Pre-crash event for Vehicle # 1 was coded as going straight. The Critical Reason for the Critical event was coded as an Environment related factor, slick roads. An associated factor coded to the driver was a decision error, traveling too fast for conditions, did not realize that caution was required.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)

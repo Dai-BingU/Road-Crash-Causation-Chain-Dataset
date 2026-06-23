@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the westbound lanes of a 4-lane roadway divided by a concrete median barrier. There were two westbound lanes and two eastbound lanes. This bituminous roadway was straight, level, and dry with a posted speed of 80 kmph (50 mph). The crash occurred in the evening on the weekend and the sky was clear and the roadway was well lit. Traffic flow was moderately congested with slight stop and go activity. V1, a 1998 Honda Civic 4-door with four occupants, was traveling in westbound lane one. V2, a 2003 Honda Element utility vehicle with three occupants, was traveling in lane one in front of V1. A car in front of both V1 and V2 stopped suddenly to make a right hand turn. V1 did not slow down in time and struck the rear of V2 as V2 was slowing down for traffic up ahead. Both vehicles came to final rest in lane 1. V1 was driven by an 18-year old male who reported no injuries. The driver and his passengers had left a friend's house and were heading to the store. The driver was traveling approximately 64 kmph (40 mph) when he attempted to avoid the collision. When the vehicles in front of V1 were slowing down for the car ahead, the driver of V1 was looking in the rear view mirror at an object that he ran over. When the driver looked forward again, he realized that the cars in front of him were slowing down and hit the brakes. He did not have enough time to avoid the collision with V2. The Critical Pre-crash Event for V1 was "other motor vehicle in lane, traveling in the same direction while decelerating." The Critical Reason for the Critical Event was an external distraction, a recognition error. The driver was distracted by the object that he had just run over and was looking in his rear view mirror. No additional associated factors were coded to this driver. V2 was driven by 45-year old female who reported no injuries. The driver was traveling in front of V1 and was slowing down for the traffic ahead when V2 was struck from behind by V1. The driver of V2 refused an interview. The Critical Pre-crash Event for V2 was "other motor vehicle in lane, traveling same direction with higher speed." The Critical Reason was not coded for this vehicle. Due to the lack of interview, no associated factors could be coded for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

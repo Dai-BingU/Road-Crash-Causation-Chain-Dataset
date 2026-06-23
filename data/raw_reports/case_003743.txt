@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an urban T-intersection of a two-way north/south road divided by curbed grassy median with a posted speed limit of 56 kmh (35 mph), where a two-way three-lane road with a posted speed limit of 48 kmh (30 mph) controlled by stop sign, intersects it on the west side. Conditions on the bituminous, dry roads at the time of the weekday afternoon crash were daylight and cloudy. V1, a 1993 GMC Jimmy SUV driven by a 50 year-old female on her commute home from work, was eastbound in lane two on the straight, downhill road. The driver stated that she stopped for 4-7 seconds at the stop sign, looked left, looked right, waited for traffic to clear and pulled out to turn left at the intersection. The driver stated that she failed to look back left again prior to proceeding and the front of v2 struck the left side of v1 in the intersection. The driver of v1 took no avoidance actions. V1 rotated counterclockwise after the crash and came to rest in the intersection facing west. V1 was driven from the scene. The fully restrained driver refused medical treatment at the scene. V2, a 2005 Ford Taurus 4 door, driven by a 47 year-old female on her commute home from work, was southbound in lane one traveling 40-56 kmh (25-35 mph) after negotiating a curve to the right. The driver stated that she saw v1 stopped at the stop sign and then pull out in front of her to turn left at the intersection. The driver of v2 braked with full lock-up and steered left into lane two. The front of v2 struck the left side of v1, and rotated counterclockwise and came to rest facing southeast in the intersection. V1 was towed from the scene due to damage. The fully restrained driver, 18 year-old female in the front right seat, 54 year-old male in the second row right seat, and the 18 month-old male in a child safety seat in the second row center, refused treatment. The Critical Precrash Event coded to the driver of v1 was ' this vehicle traveling turning left at intersection.' The Critical Reason for the Critical Event coded was 'inadequate surveillance.' The Critical Precrash Event coded to the driver of v2 was 'other vehicle encroachment from crossing street turning left into opposite direction.' The Critical Reason was not coded to this vehicle. A Contributing Factor coded to v2 was 'vehicle related factor-tire degradation' for the low tread on the front tires. An Associated Factor coded to the driver of v2 was 'conversing with passengers.'
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+Vehicle 2:  Distraction, Drugs, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

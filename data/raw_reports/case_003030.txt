@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred on a bridge on a divided, straight, level trafficway. There are three lanes in the southbound direction. The speed limit for this roadway is 72 kmph (45 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2002 Pontiac Firebird, was southbound in lane one. Vehicle two (V2), a 2004 Pontiac Sunfire, was southbound in lane one in front of V2. Vehicle three (V3), a 2000 Honda CR-V, was southbound in lane two. V2 decelerated and the front of V1 struck the back of V2. V1 then traveled off the left side of the roadway and the front struck the concrete bridge rail. V2 traveled to the right and the left side struck the back of V3. V2 then traveled off the right side of the roadway and the front struck the concrete bridge rail. V1 and V2 were towed due to damage. The driver of V1, a seventeen-year-old male, was on his way back to school from a restaurant. He was healthy, well rested and familiar with his vehicle. He travels this route weekly. This driver stated that he was looking and reaching into the console to find a piece of gum. When he looked back at the roadway, V2 was slowing. He then applied the brakes in an attempt to avoid the crash. The driver of V2, a twenty-year-old female, was on her way from a dentist appointment to a bank. She was well rested, healthy and familiar with her vehicle. She travels this route weekly. This driver stated that she saw V1 in her rear view mirror and steered right and accelerated in an attempt to avoid the crash. The driver of V3, a twenty-one-year-old female, was not interviewed. No further information is available for this driver. The critical pre-crash event for V1 was coded as "other motor vehicle in lane; traveling in same direction while decelerating." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; internal distraction." The critical pre-crash event for V2 was coded as "this vehicle traveling; decelerating." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle." The critical pre-crash event for V3 was coded as "other; not involved first harmful event." The critical reason for the critical pre-crash event for V3 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Distraction, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：This Vehicle Traveling- This vehicle decelerating
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

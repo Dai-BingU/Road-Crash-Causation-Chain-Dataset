@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekday evening in the left lane of a two-lane southbound highway that was divided by a guardrail. It had recently stopped raining and traffic was moderate to heavy. The concrete roadway was wet and the posted speed limit was 89 kmph (55mph). The crash occurred at dusk. V1 was a 2003 Ford Taurus driven by a male (unknown age). V2 was a 2003 Ford Ranger also driven by a male (unknown age). V3 was a 1998 Saturn SL driven by a female (unknown age). An estimated 5 minutes prior to the crash, V3 began to stall in the left hand lane. The driver was unable to change lanes to pull off of the road to the right, due to heavy traffic. She pulled the vehicle over to the left as far as she could, but was still partially blocking the left lane. The driver of V2 came up behind V3 and recognized that V1 was stopped in his lane. He came to a stop behind V3 while waiting for an opportunity to change lanes to the right. The driver of V3 came up behind V2 and as he neared V2, he realized that V2 was under-speed, so he planned to change lanes to the right. By the time he realized that V2 was stopped, he did not have enough room to come to a complete stop. His stopping distance was most likely lengthened due to the still wet roadway. V3 impacted the rear of V2, pushing V2 forward up along the right side of V1. The Critical Pre-crash Event for V1 was other motor vehicle stopped in lane. The Critical Reason for the Critical Pre-crash Event was misjudgment of gap or other's speed. The driver of V1 realized that V2 was under speed, but did not realize that it was completely stopped. Associated factors coded to this driver include the traffic flow interruption caused by V1, the sight restriction (to V1) caused by V2, and the wet roadway. The Critical Pre-crash Event for V2 was other motor vehicle in lane traveling in same direction with higher speed. The Critical Reason was not coded to V2. Associated factors coded to this driver were the traffic flow interruption caused by V1 and the wet roadway. No Critical Pre-crash Event and no Critical Reason were coded to V3 because it was not involved in the first harmful event (the impact between V1 and V2). Associated factors coded to this driver include the use of a prescription medication for high blood pressure, conversation with her passenger, the vehicle's engine problem, and the wet roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Traffic present problem 
+Vehicle 2:  Roadway, Traffic present problem 
+Vehicle 3:  Distraction, Driver Physical, Drugs, Roadway, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a northbound, two-lane expressway. Near the crash area, the two lanes split and the two lanes head in different directions. Narrow shoulders and concrete medians bordered the two-lane roadway. At the split, a short concrete median wall separates the two lanes and the left lane had a narrow shoulder on the left side of the road. The speed limit is 105 kph (65 mph), and the advisory speed limit is 48 kph (30 mph). At the time of the crash there was heavy congestion. This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one, a 2003 Toyota Corolla was northbound in the first lane. Vehicle two, a 1999 Volvo Conventional 6x4 truck pulling an empty flatbed trailer was northbound in the second lane. Vehicle one attempted to change to the second lane and proceeded while in the truck driver's blind spot. The left side of vehicle one impacted the right side of vehicle two. Vehicle one then impacted the concrete barrier with its right side. While still in contact with vehicle two and the barrier, vehicle one rolled over one quarter turn. The top of vehicle one impacted the right side of vehicle two. Vehicle one came to rest on its left side. Vehicle two came to rest on the shoulder. Vehicle one was towed due to damage. Vehicle two was not towed due to damage. The driver of vehicle one, a twenty-five year old female was not interviewed. There is no known sleep or pre-crash information on this vehicle. The driver of vehicle two, a fifty-three year old male was driving from his office to pick up and empty container for the trailer. This driver had been driving for about one half hour at the time of the crash. This driver stated that he was taking a Tylenol cold medicine for a slight cold he had. This driver stated that he never saw vehicle one, that it was in his right side blind spot. Vehicle two thought that he blew out a tire and pulled over only then did he realize that he was involved in a crash. The driver of vehicle one drives this vehicle daily and over this road only on a rare basis. The critical pre-crash event for vehicle one was coded: as “this vehicle traveling: over the lane line on left side of travel lane”. The critical reason for the critical pre-crash event for vehicle one was coded as “driver related factor: type of driver error unknown”. The critical pre-crash event for vehicle two was coded as “other vehicle encroachment: from adjacent lane [same direction] - over right lane line”. The critical reason for the critical pre-crash event for vehicle two was coded as “not coded to this vehicle”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic present problem 
+Vehicle 2:  Driver Inexperience, Drugs, Traffic, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

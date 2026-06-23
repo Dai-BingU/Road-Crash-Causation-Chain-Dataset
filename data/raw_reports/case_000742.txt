@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a rural secondary arterial road that ran north/south along the portion where the crash took place. The road was a two-way, two-lane traffic way divided by a double yellow stripe, with no shoulders (it was bordered on the west by a 1.2m wide drainage ditch that was also 0.8m deep) and was curved to the left (south) from a southwest heading. The curve radius at the apex (about 93m pre road departure) was 213m. The precrash grade was -12.7% and the grade of the roadway in the crash area was -2.4%. The grade from the roadway into the ditch at the run off road point was -63%. The west side of the road was heavily treed. Conditions at the time of the crash were daylight and dry on a weekday morning with a speed limit of 48kph/30mph. V1 was a 2006 Chevrolet Silverado Extended Cab pickup truck headed south when after negotiating the curve it departed the right side of the road (where the roads edge was crumbling), and continued along the right side of the road (partially on and partially off the road) until it struck a tree (about 60cm diameter) with its front end close to the right side. V1 then went into a yaw left (clockwise) and re-entered the road for about 23 meters until it departed the right side again and struck another (smaller) tree with its front again and rotated clockwise again coming to rest facing northwest just a few meters south of impact #2 with the left front wheel in the ditch and the rest of the vehicle in the roadway. V1 was towed from the scene. V1 was driven by a twenty-five year old female who was not belted and sustained non-incapacitating injuries in the crash. She was transported to a local hospital via EMS. The driver was on her way to work at the time of the crash. The critical precrash event for V1 was this vehicle traveling off the edge of the road on the right side. The critical reason was coded as a driver related factor, poor directional control. The downloaded EDR indicated that the driver was traveling between 17mph (27kph) and 21mph (34kph) over the speed limit before it departed the roadway and crashed, so too fast reason unknown was considered a contributing factor. Other driver related experience factor was coded also. The driver had only owned the vehicle for two months and this was her first pickup truck so she may have been less familiar with the vehicle than she believed. The right edge of the road crumbling was coded as a highway related factor although if she had maintained control of her vehicle it is not believed by the researcher that this would not have been an issue.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred off the left side of the road on a two-lane roadway with a curve-right. Conditions were daylight and dry in the afternoon on a weekday. The posted speed limit was 48 KMPH (30 MPH). V1 was a 2002 GMC Envoy Sport Utility Vehicle that was traveling eastbound negotiating the right curve in the road. As V1 was negotiating the curve, a small animal ran across the roadway and the driver swerved left to avoid it. V1 then struck the curb, a tree, and support wires. V1 came to final rest facing eastbound. V1 was driven by an 81-year old male who was transported due to moderate injuries. He stated that a small animal ran across the roadway and he swerved left to try and avoid it but lost control of his vehicle. V1 was traveling between 31 and 40 MPH at the time of impact and was towed due to damage. The Critical Pre-crash Event for V1 was an animal in the roadway. The Critical Reason for the Critical Pre-crash Event was overcompensation, a performance error. The driver claimed that he felt rested before the crash and that he takes several vitamins and medications for high blood pressure. He was familiar with the roadway and the vehicle. Medical records indicated that the driver had a BAC of .18 less than an hour after the crash. This was coded as an associated factor, along with the use of prescription medications. It was learned that this driver was operating his vehicle with an expired driver's license.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Performance, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Animal in roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

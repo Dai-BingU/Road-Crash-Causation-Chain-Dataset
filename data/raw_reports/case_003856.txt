@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a two-lane southbound local expressway. The express lanes as well as the northbound lanes do not play a factor in this crash. There were no visible roadway deficiencies, no adverse weather conditions, and the roadway was straight and level. The speed limit is 89 kmph (55 mph). Vehicle one (V1), a 2004 International 9400i 6x4 SBA tractor-trailer pulling one trailer unit was traveling in the second lane of the local expressway. Vehicle two (V2), a 2004 Dodge Stratus SE was traveling in the first lane of the local expressway. V2 was slightly ahead of V1 when V1 drifted over the right lane line and struck V2 in the left rear bumper. This collision caused V2 to depart the right side of the roadway over the grass and collide with the cement wall barrier with its right plane and then the back plane. V2 was towed due to significant left side and rear damage. V1 was not towed and did not sustain significant damage. The driver of V1, a forty-seven year old male, was driving to drop off a load of cargo at the time of the crash. This driver had been driving for about one hour and fifteen minutes at the time of the crash. This driver stated that he saw V2 coming up on the right by looking in the side mirror. This vehicle while driving crossed the right line. This driver had high blood pressure and is taking hydrochlorthiazide. This driver drives this vehicle daily and over this road on a monthly basis. The critical pre-crash event for V1 was coded: this vehicle traveling, over the lane line on right side of travel lane. The critical reason for critical pre-crash event for V1 was coded as a driver related performance error: poor directional control (e.g. failure to control vehicle with skill ordinarily expected). The driver of V2, a thirty-year old female, was heading home from work. It is unknown how long this driver had been driving at the time of the crash. This driver was deaf and wearing a hearing aid but was still having a hard time understanding the interview. The critical pre-crash event for V2 was coded: other vehicle encroachment, from adjacent lane (same direction) - over the right lane line. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Drugs present problem 
+Vehicle 2:  Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

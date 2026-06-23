@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekday afternoon in the westbound lanes of an eight-lane divided highway. The east/west highway consisted of four lane in each direction divided by a concrete barrier wall. The bituminous roadway was dry, straight and level with a posted speed limit of 80kmph (50 mph). This was a fully controlled highway and there were no traffic control devices. Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2004 Volvo tractor with a trailer attached, was westbound in lane three. V2, a 2000 Porsche Boxster was westbound in lane four. As V2 attempted to pass V1 and change lanes into lane three the driver lost control and V2 began rotating clockwise. V2 rotated 180 degrees into lane three where it was struck by V1 head-on. After the impact, V2 rotated counter-clockwise and came to final rest in lane four facing west. V2 was towed due to disabling damages. After the impact, V1 came to a controlled stop in its original travel lane. V1 was driven from the scene. V1's driver, a 45-year-old male, stated he was traveling westbound at approximately 89 kmph (50 mph) when he observed V2 swerving in and out of lanes three and four. He saw V2 lose control of his vehicle and entered his lane (lane three) rotating clockwise. He said he applied his brakes but could not stop in time. The Critical Precrash Event for V1 was coded other motor vehicle encroachment from adjacent lane (same direction) - over left lane line. The Critical Reason was not coded for this vehicle. The only associated factor coded to this driver was the fact that he only seven hours of sleep in the preceding twenty-four hours when he usually gets eight. The driver of V2, a 65-year old male, said he was traveling westbound in lane four at approximately 129 kmph (80 mph) attempting merge into lane three but the traffic flow would not allow him. He was frustrated with how slow the traffic was moving so he accelerated while steering right which he said caused him to lose control of his vehicle. His vehicle rotated and slid into lane three coming to a stop facing the oncoming traffic. He saw the truck coming towards him but it was too late there was nothing he could do. He was injured and transported to the hospital. The Critical Precrash Event for V2 was coded this vehicle loss of control due to traveling too fast for conditions. The Critical Reason for V1 was coded as a driver related factor, aggressive driving behavior (speeding and weaving in and out of traffic). Associated factors for this driver include: talking on the cell phone while changing lanes, poor directional control, and traveling too fast for conditions.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue present problem 
+Vehicle 2:  Aggressive Behavior, Cell Phone Use, Distraction, Driver Physical, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Changing lanes
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 2 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Aggressive driving behavior

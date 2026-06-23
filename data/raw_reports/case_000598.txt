@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle collision occurred during morning daylight hours. The collision occurred at the uncontrolled intersection of a north-south roadway and an east-west roadway. The pre-crash roadway is level worn dry concrete paving. Both roadways are non-divided two lane road and have posted speed limit of 48 kmph (30 mph). Vehicle one (V1), a 1992 Toyota pickup truck driven by a 42 year-old male, was traveling northbound on the roadway in lane 1. Vehicle two (V2), a 2001 Ford F-250 pickup truck driven by a 18 year-old male, was traveling westbound in lane 1. Both vehicles approached the intersection at roughly the same time, and the front of V2 collided with the right side of V1. V1 then spun clockwise and the front right side of V1 scraped along the right side of V2. V1 rolled backwards onto the northwest corner and came to rest off the roadway. V2 was driven from the scene. V1 was towed from the scene, Both drivers stated that they did not see the other vehicle until the crash was imminent. The driver of V2 stated that he looked both left and right before entering the intersection, and locked his brakes before the collision. The driver of V1 stated that she had no time to brake. The roadway for V2 has on-street parking on both sides, and there is not enough space for two cars to pass in opposite directions. The roadway for V 1 is obviously the dominant roadway and has adequate space for two-way travel. Due to the size of the roadways, it is understood that the driver of V2 should have been driving more defensively, as in coming to a stop at the intersection. It is also noted that V2 is equipped with anti-lock brakes, and the driver claimed to have skidded. This inaccuracy brings into question the veracity of his other statements regarding the crash. The critical pre-crash event for V1 was coded: other vehicle encroachment; from crossing street, across path. The critical reason for the critical event is not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling, crossing over (passing through) intersection The critical reason for the critical event assigned to V2 as a driver related factor: inadequate surveillance (failed to look, looked but did not see).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Stress/Emotion, Roadway, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Aggressive Behavior, Decision, Roadway, Speed/Distance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

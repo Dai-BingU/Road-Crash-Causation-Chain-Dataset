@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the early evening of a weekend in the northbound lane a two-lane undivided rural roadway. The north/south roadway consisted of one lane in each direction and featured a no passing zone marked with signs and a speed limit of 89kmph (55 mph). The bituminous roadway was dry and straight with a negative slope greater than 2% in the northbound direction. Traffic flow was normal and there were no adverse weather conditions. V1, a 1999 Ford Ranger, was northbound on the roadway. V2, a 1996 Saturn SC was stopped in the northbound lane ahead of V1 waiting for traffic to clear in the southbound lane so it could turn into a driveway. As V1 continued north it failed to stop for V2 and its front contacted V2's rear. The force of impact caused V2 to rotate counter-clockwise and depart the roadway to the left (west) and a road sign before coming to final rest. V1 departed the roadway to the right and came to final rest in a ditch. Both vehicles were towed due to damage. V1 was driven by a 38-year-old female that stated that she is in good health despite a history of diabetes, which is controlled by medication. She was wearing her corrective lenses for a myopic (near-sighted) condition. She was on her way home from work when she noted a golf cart traveling southbound on the southbound edge of the roadway. She watched as southbound traffic negotiated around the cart, some of it crossing the double yellow lines into her lane. It was not until she crested the top of the hill that she saw V2 stopped in the roadway waiting to make a left turn. She braked and steered right but could not avoid V2. She then stated that she blacked out from the impact and when she came to she could only hear a baby screaming and a girl hollering about her baby. She was transported for treatment of minor injuries. The Critical Precrash Event for V1 was coded other motor vehicle in lane other vehicle stopped. The Critical Reason for the Critical Event was coded as a driver related factor an external distraction. In addition to the external distraction posed by the golf cart, driver fatigue and inadequate surveillance were also coded as associated factors. V2 was driven by an 18-year-old female who was on her way home from an afternoon at the home of a friend. She also stated that she was watching southbound traffic maneuver around the golf cart and taking to her boy friend about the recent death of her grandfather. She did not know that there was a vehicle coming up behind her vehicle until she heard the tires screeching on the roadway. She stated that the impact to the rear of her vehicle was right at the area were the baby was located. The driver and the two occupants were transported to a local trauma unit due to injuries. The Critical Precrash Event for V2 was coded other motor vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors coded to this vehicle include inattention as she was thinking about a family issue and talking to her boyfriend as well as inexperience as had only been driving for 11 months.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

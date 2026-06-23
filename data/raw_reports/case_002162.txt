@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during early afternoon hours on a clear day. The crash occurred at a four leg intersection that was controlled with two stop signs on the east and west legs. The east leg is a two-lane, bituminous roadway with a positive slope of 6.5% as it joins the intersection. The north leg has four-lanes and is curved to the west with a radius of curvature of 161-meters (and a super-elevation of 2%. The north leg has a posted speed limit of 56 kmph (35 mph). Adjacent to the north leg is a two-lane two-way access road that joins the east leg of the intersection and is controlled by a yield sign. The Access road has a posted speed limit of 40 kmph (25 mph). Vehicle one (V1), a 2000 Chevrolet C1500, had driven north on the access road that intersected the east leg of the intersection and stopped at the yield sign. The driver wanted to turn left and cross through the intersection. The driver stated that he looked left from the yield sign and there was a vehicle coming and then he looked right and it was clear. He looked left again and it appeared to be clear so he pull out to make a left turn and impact with the right side of V2 near the right front door & B pillar. After this impact the front plane of V2's trailer impacted with the left front fender of V1. Both vehicles came to rest in the intersection. V2 was driven from the scene & V1 was towed due to disabling damage. The driver of V1 was a 68 year-old male who had just had departed from a fast food restaurant on the access road with three additional occupants in the vehicle. They were on an errand to a medical appointment & were not in a hurry. As he was stopped at the yield sign he failed to look to his left rear at the approaching north leg of the intersection and recognize that V2 was approaching the intersection. The driver takes the following medications: aspirin, Plavix and Lipitor. He was well rested and was in good health at the time of the crash and is retired. He was rarely drives this route. V1's critical pre-crash event was coded as: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded as a driver recognition factor: inadequate surveillance (e.g., failed to look, looked but did not see). Vehicle-two, a 2004 Chevrolet Trail Blazer, was northbound negotiating a left-hand curve in lane one at approximately 20 MPH (32 KPH). Vehicle-two was towing a pontoon boat. As the vehicle was in the crossover of the intersection it's trailer was struck in the right side by vehicle-one. The driver of V2 was a retired and well rested 56-year-old male. He had a previous coronary bypass in addition to high blood pressure and takes the following medications: aspirin, Lasix, Metoprolol Tartrate, Plavix, Zocor, Zetia, and Protonix. The driver had no present illness and was not in a hurry. He and his wife were returning home after just purchasing the boat they were hauling. They had been driving for about one hour when the crash occurred. The critical pre-crash event for V2 was coded: Other vehicle encroachment; from crossing street, across path. The critical reason for the critical event was not coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Drugs, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

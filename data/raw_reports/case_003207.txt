@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred shortly after noon on a clear day. The crash occurred at an intersection that is controlled with traffic signals on color. The speed limit on the north to south roadway is 56 kmph (35 MPH). The speed limit on the west to east roadway is 72 kmph (45 MPH). Road surface dry asphalt. Vehicle one (V 1), a 1996 Chevrolet Tahoe, driven by a 27 year-old male was stopped in the southbound lane-four attempting to make a left turn. The signal turned green and V 1 proceeded into the intersection and was struck in the right side by V 2' s front. The vehicles then side slapped and came to rest in the intersection. V 1 then left the scene and traveled less than three blocks and the driver fled on foot. The vehicle was towed due to disabling damage. Vehicle two (V 2), a 1985 Oldsmobile Delta 88 , driven by a 32 year-old male was eastbound in lane three . V 2 entered the intersection and struck V 1's. right side with its front. V 2 came to final rest in the south side of the intersection facing SE. The driver refused treatment and the vehicle was towed due to disabling damage. The Pre-event movement of V 2 was coded going straight, category this vehicle traveling crossing over passing through intersection. The critical reason driver related factor "illegal maneuver" (failed to stop for traffic control signal). The Pre-event movement for V 1 was coded stopped in travel lane, category other vehicle encroachment- from crossing street across path. Critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+Vehicle 2:  Aggressive Behavior, Decision, Speed/Distance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

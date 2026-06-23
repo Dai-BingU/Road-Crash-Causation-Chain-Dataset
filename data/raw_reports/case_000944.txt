@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This motor vehicle accident took place mid-block, on a two-way, four lane highway in the early hours of the morning (daylight). The highway runs east/west; it has a shoulder on either side and also a bike lane on either side. A concrete non-positive barrier physically divides this highway. There is slight elevation in both directions and the posted speed limit in each direction is 48 kmph (30mph). Vehicle 1 is a 1992 Toyota Corolla. This vehicle was traveling eastbound on this east/west highway. The driver crossed onto the raised concrete center curb median into westbound traffic and then steered back into the eastbound lanes. The driver then crossed over both eastbound lanes of traffic, traveling onto the sidewalk and then striking the guardrail located on the right roadside. V1 came to rest on the sidewalk approximately 15 meters from its impact point with the guardrail. The driver, a 24-year old female, stated that she was on her way to a medical clinic to pick up medication - she was recovering from a drug addiction. The driver had stopped at the light at the previous intersection and when the light turned green, she started to proceed normally when her left front wheel was "slipping. It kept turning, I tried to straighten the wheel back when I crossed the curb (divider). Next thing I know I'm looking at the traffic coming at me, I was scared. I closed my eyes - that's all I remember." Physical evidence at the scene showed no distinguishable markings on the concrete median that could be linked to the vehicle. However, there were markings on the right side curb, tread marks in the grass where the driver departed the roadway, and paint transfer on the guardrail. The driver was transported to a trauma center for multiple contusions and a fractured nose. The Critical Pre-Crash Event was when the driver of V1 departed the roadway on the right side. The Critical Reason for The Critical Pre-Crash Event was coded as "poor directional control; e.g. failing to control vehicle with skill ordinarily expected," a performance error. Associated factors coded to the driver include fatigue (driver had only 5 hours of sleep in the last 24 hours) combined with the use of a prescription medication that had the possible side effects of dizziness and fatigue, and driver inexperience (she had only a learner's permit). The driver also claimed that she was uncomfortable with the steering on the vehicle - she stated that the wheel kept "sticking."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Inexperience, Driver Performance, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

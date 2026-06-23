@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a rural, two-way, two lane, straight gravel/slag road with a statutory speed limit of 89 kmh (55 mph). Conditions at the time of the weekday late morning crash were daylight, and clear. The level road was primarily dry, but large holes in the roadway were filled with muddy water. V1, a 1990 Mazda 323 driven by a 31 year-old female on her way home from work, was traveling southbound on the road she takes daily. The driver steered to the left to avoid a large hole, but then was headed straight for another hole on the left side of the road. She stated that she down-shifted to slow her vehicle but both front wheels entered the hole. The driver lost control, of the car and went to the right, the driver steered left and then back to the right. V1 rotated clockwise and went off the right side of the road, then rolled with the left side leading onto the roof. V1 came to rest facing northwest in a ditch. V1 was towed from the scene due to damage. The driver, who was restrained only with an automatic shoulder belt, was transported by her family to a local trauma center, where she was treated and released. The Critical Precrash Event coded to the driver of V1 was 'this vehicle control loss due to poor road conditions-pot holes.' The Critical Reason for the Critical Event coded was 'traveling too fast for conditions.' The driver stated that she knew exactly where the holes were in the road, but could not negotiate around them.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :

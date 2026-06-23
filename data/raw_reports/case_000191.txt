@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a westbound, three lane, one-way, straight, level roadway at the intersection of a five lane, divided, straight, level roadway. The northbound lanes consist of two through lanes and a left turn lane. The speed limit on the roadways is 56 kmph (35 mph). This crash occurred before sunrise with light traffic. The roadway was lighted. There were no adverse weather conditions at the time of the crash. Traffic signals control vehicle movement at the intersection. Vehicle one (V1), a 1994 Nissan Sentra, was westbound in lane two. Vehicle two (V2), a 2007 Chrysler PT Cruiser, was northbound in lane two. V1 entered the intersection on a red light and the front of V2 struck the left side of V1.Both vehicles came to rest northwest of the impact location. Both vehicles were towed due to damage. The driver of V1 was a female transported from the scene prior to the researchers arrival and was not unidentified. The police report was not available or obtained. The critical pre-crash event for V1 was coded as "other vehicle encroachment- from crossing street, across path." The critical reason for the critical pre-crash event for V1 was "not coded to this vehicle." The driver of V2, a sixty-six year-old male, was traveling from home to a friend's residence. The driver is a diabetic and took his insulin approximately 30 minutes prior to the crash. The driver stated that he slept for five hours the previous night and that this is his normal amount of sleep. The vehicle was a rental that he had been driving for almost two weeks. He drives this route daily. The driver stated that he did not see V1 prior to impact and therefore took no evasive action. The driver failed to look to his right and detect V1 prior to entering the intersection. The critical pre-crash event for V2 was coded as "this vehicle traveling; crossing over (passing through) intersection." The critical reason for the critical pre-crash event for V2 was coded "driver related factor; inadequate surveillance."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

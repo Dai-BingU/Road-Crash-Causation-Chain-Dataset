@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This intersection related three-vehicle collision occurred on a concrete, undivided, 4-lane, level, and straight roadway. No adverse weather conditions present at the time of collision. All vehicles were traveling north in lane 2 with a posted speed limit of 56 kmph (35 mph). A fire station is located on the northwest corner of the intersection with access to the north/south roadway. There is a black and white regulatory sign informing motorist "do not block intersection". Vehicle one (V1), a 2002 Chevrolet Impala sedan occupied only by the 73-year-old male driver, collided into the rear of vehicle two (V2), a 1994 Chevrolet C-1500 pickup occupied only by the 39 year old male driver. The force of impact propelled V2 into the rear of vehicle three (V3), a 1995 Nissan Pathfinder SE SUV occupied only by the 27-year-old male driver. V1 sustained moderate front-end damage. V2 sustained moderate rear and front-end damage while V3 sustained minor rear damage. V1 and V2 were towed due to damage; V3 was driven from the scene. There were no reported injuries in this crash. The driver of V1 claimed to be attentive but failed to detect V2 stopped in front of him. V2 had been stopped for more than 10 seconds. This driver attempted no evasive maneuvers. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: inattention (i.e., daydreaming). The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. V3 was not involved in the first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

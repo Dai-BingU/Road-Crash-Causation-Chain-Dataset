@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a rural 2 lane, 2 way, straight, level, bituminous roadway facing east. The posted speed limit is 89 kmph (55mph). At the time of the crash it was daylight, the roadway was dry and the traffic was very light. V1 a 2005 Ford Crown Victoria was parked in a dirt driveway parallel to the roadway facing east. V2 a 2004 Ford Freestar was traveling east down the roadway. V1 which was a police car checking speeds of the drivers in the westbound lane decided to move to the westbound lane. As V1 proceeded across the eastbound lane, V2 swerved left but was unable to avoid contacting V1. V2's, right front, contacted the front left of V1. V1 came to rest in the westbound lane facing north and V2 continued east where it came to rest in the westbound lane facing east. The driver of V1 was transported, treated and released. Both vehicles were towed. V1, a 2005 Ford Crown Victoria was driven by a 35 year-old female. V1, was parked with the engine running in a dirt driveway on the eastbound side of the roadway. V1 was a marked sheriff's department patrol car. The driver was operating a “static” radar to clock the speed of the westbound (oncoming) traffic on the same roadway. She decided to make a U-turn and go westbound. She checked her side mirror and began to make her U-turn. She never saw V2 coming, she thought it was in her blind spot. Never saw V2 but felt it strike her vehicle. She was not in a hurry or chasing anyone. The Critical Pre-crash Event for V1 was “this vehicle traveling turning left at intersection” and the Critical reason for the critical pre-crash event was “inadequate surveillance (e.g., failed to look, looked but did not see)”. V2, a 2004 Ford Freestar minivan , was driven by a 69-year-old male in the eastbound lane 1 of the same roadway. He went around a curve to the left and saw the police car stopped in the driveway on the right facing east. He slowed down and as he got closer the police car pulled out into the road to make a U-turn. He steered left to avoid her but his right front hit her front left. The Critical Pre-crash Event was “other vehicle encroachment from crossing street, turning into opposite direction” and the Critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

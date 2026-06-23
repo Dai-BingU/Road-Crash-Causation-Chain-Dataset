@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a two-way two-lane roadway on a railroad crossing. This was a car verses Train crash. There was one lane north and one lane south. This railroad crossing had working lights and bells that controlled the crossing. The posted speed was 42kmph (25mph) the slope was a +18/122 it was clear, dry and day light hours. Vehicle #1 was a 2002 Ford Explorer Sport, which had just turned south onto the roadway, which had a steep incline as the vehicle pulled across the railroad grade the driver heard the bells ringing. The driver tried to back off the tracks but was unable too before being contacted on the right front side of the vehicle by the train. The vehicle then spun around and hit the train again with its right rear. It then rolled over 3 quarter turns before coming to final rest on the driver's side of the vehicle. The driver of vehicle #1 a 46-year old female was transported to the hospital with injuries. The driver stated that she was on her way to pick up her paycheck from her employer at the time of the crash. As she started up the grade she stated she had not noted the signal lights flashing or the bells ringing. She stated that after hearing the bells she looked to her right and saw the train was to close to get out of the trains path. After being contacted by the train and rolling to final rest she was able to climb out through the passenger window and walk over to the curb were she waited for the police and EMS to arrive. The vehicle was towed due to damage. The Critical Precrash Event for vehicle #1 was coded other, (specify) Crossing over railroad grade. The Critical Reason for the Critical Event for V1 was inadequate surveillance (failed to look, looked but did not see). An associated factor to this driver was she was taking a medication to help her fall to sleep, some possible side effects are drowsiness, dizziness and daytime tiredness, slowness of movement. She also stated her concern for a daughter's baby shower.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other- Other (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

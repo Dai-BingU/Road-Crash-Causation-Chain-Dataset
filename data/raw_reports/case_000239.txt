@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred a couple of hours before midnight in the center of an intersection in the business district of a small rural community. The east and westbound roadway consisted of 5 travel lanes including a center 2-way left turn lane. The eastbound travel lanes curved left prior to the crash site then straightened out just before the crash site and had a speed limit of 56 kmph (35 mph). The north and southbound roadway consisted of two straight travel lanes and was controlled by stop signs for both directions with a speed limit is 40 kmph (25 mph). The road surface for all directions of travel is asphalt and level. The crash occurred during darkness with street lights present. Vehicle one (V1), a 2003 Kia Rio 4 door sedan driven by a 44 year-old female was traveling eastbound in the second lane. Vehicle two (V2) a 1994 4 X 4 Jeep Wrangler driven by a 41 year-old male was traveling south and had stopped at the stop sign. V2 proceeded to cross the intersection at which time the front of V2 contacted the left side of V1. After the impact V1 continued east in lane one coming to a controlled stop in lane one. V2 after impact rotated counterclockwise and moved to the center eastbound turn lane. Both vehicles were towed from the scene due to damage. The critical pre-crash event for V1 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle. An associative factor for V1 was a false assumption of other's actions. The critical pre-crash event for V2 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was coded to V2 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). Associated factors for V2: the driver claimed to speak no English then refused to be interviewed. The police report and the driver of V1 provided the following information: V2 had been stopped at the stop sign then continued forward through the intersection without his headlights on. He stated that he did not see V1. This driver had also been impaired by alcohol.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Stress/Emotion, Drugs, Surveillance present problem 
+Vehicle 2:  Alcohol, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

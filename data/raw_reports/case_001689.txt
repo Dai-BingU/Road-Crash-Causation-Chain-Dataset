@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on the roadside of the northbound lanes of a two-way curved urban roadway that was not physically divided. The two bituminous northbound lanes were dry and level with a slight curve to the left. The conditions were dark but lighted with clear skies on a weekday night. V1, a 1994 Chevy Corsica, was traveling northbound in lane two when the driver dozed off causing the vehicle to veer off the right side of the roadway making contact with a residential concrete fence where it came to final rest. V1 was driven by a 50-year-old male in good health despite the fact he had not slept in the previous 28 hours due to being assigned jury duty on top of working the graveyard shift. He does not remember anything prior to hitting the wall. He was transported to a local hospital with incapacitating injuries and his vehicle was towed due to damages. The Critical Precrash Event was coded as this vehicle traveling off the edge of the roadway on the right side. The Critical Reason was coded driver related, critical non-performance error: sleeping, that is, actually asleep since he fell asleep behind the wheel. Associated factors include driver fatigue and work-related stress as he had not slept in the past 28-hours due to him working the graveyard shift from 12am till 8am then he was assigned to jury duty. The driver was unfamiliar with this road as he very rarely drove it. It was also observed by a witness who followed him from the grocery store that V1 headlights were not on, even though it was nighttime.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Inexperience, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the morning of a weekday on the left roadside of a two-lane undivided rural roadway. The east/west roadway consisted of one lane in each direction with a speed limit of 64kmph (40 mph). The bituminous roadway was curved to the left (in the westbound direction) with a downhill grade greater than 2%. At the time of the crash it was raining, which caused standing water to accumulate at certain areas on the roadway. V1, a 1993 Toyota Camry, was westbound negotiating the downhill curve traveling near the speed limit. As V1 continued to negotiate the curve it drove through some standing water (6mm/1/4” deep) causing the vehicle to hydroplane and rotate counterclockwise. The vehicle crossed over the opposite lane of traffic and departed the roadway where it impacted a utility pole with its right side. The vehicle continued to rotate counterclockwise and came to rest facing east completely blocking the opposite lane of travel. V1 was towed due to damage. Vehicle 1 was driven by a 39-year-old female who was seriously injured in the crash and transported for treatment. Numerous attempts were made to obtain an interview but the driver could not be reached as she was still receiving treatment for her injuries. The Critical Precrash Event was coded this vehicle traveling, off the edge of the road on the left side. The Critical Reason for the Critical Precrash Event was coded as a vehicle related factor, other tire degradation (the rear tires had 0mm of tread). In addition to the lack of tread, traveling too fast for conditions (reasons unknown) and the wet roads with standing water were coded as associated factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Other tire degradation

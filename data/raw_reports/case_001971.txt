@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a four-lane divided interstate (two lanes northbound and two lanes southbound) with a posted speed limit of 105 KPH (65 MPH). The roadway curved to the left with a radius of 1,125 meters and 1% superelevation. There was a downgrade of -2.5%. The weather was clear, the roadway was dry and it was daylight at the time of this early morning weekend crash. Vehicle 1, a 2004 Ford Explorer towing a 2001 Mallard 27 foot camper trailer, was traveling north in the driving lane negotiating the curve to the left. The camper trailer began to sway. Operator of Vehicle 1 attempted to correct the sway by steering right and then left. Vehicle 1 crossed into the passing lane and operator corrected to the right. Vehicle 1 began to rotate clockwise across the driving lane, as this happened the trailer jackknifed and the pushed him off the right side of the roadway, striking a w-beam guardrail with its front. Vehicle 1 continued along the guardrail with its front and then began to roll over to the left. The travel trailer separated from Vehicle 1 and rolled onto its left side. Vehicle 1 rolled over, struck the guardrail with its top and continued to roll down a steep embankment coming to rest on its wheels facing in a northeasterly direction. The travel trailer slid on its left side and came to rest facing north on the east shoulder. Vehicle 1 was towed due to damage. The Ford Explorer (Vehicle 1) was driven by a belted 56-year-old male who was transported, treated and released for multiple contusions. The belted 56-year-old female right front passenger was also transported, treated and released for minor bleeding. The driver stated that they had left home that morning to go on vacation in the mountains. He has driven the vehicle/trailer combination for 2 years. He was traveling 105 KPH (65 MPH) when the trailer began to sway. He was speaking to his wife about it when it became worse. He attempted to correct the sway by braking and steering, when he lost control, hit the guardrail and rolled over. He considered himself in good health, took no medications and was not fatigued. He advised that he wore corrective lenses for hyperopic (far-sighted) and myopic (near-sighted) conditions. He does usually wear a hearing aid, but did not have it on at the time of the crash. The Critical Precrash Event for Vehicle 1 was this vehicle's loss of control due to a jackknife event (trailer swing). The Critical Reason for the Critical Precrash Event was overcompensation, a driver related performance error. This was chosen because the driver stated he steered right, then left and overcorrected back to the right. An associated factor coded to this driver was inappropriate/unsuccessful evasive action. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Jacknife Event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

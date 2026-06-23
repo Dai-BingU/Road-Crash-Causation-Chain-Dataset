@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The single-vehicle crash occurred approximately 200 feet beyond a four-way intersection. The roadway was asphalt, dry, and level. The posted speed limit was 56 kmph (35 mph). The crash occurred late evening and the roadway was illuminated by overhead streetlights. The traffic flow was light and the weather was clear. Vehicle one, a modified 1987 Chevrolet S-10 Blazer, was traveling northbound in lane one on a four lane, two northbound and two southbound, non-positive divided roadway, when V1 drifted off road and contacted with its front, the rear of V2, a 2002 Chrysler Town & Country, parked on the right/ east side of the roadway. V1, after pushing V2 a few feet, came to final rest directly behind V2. Vehicle one was towed/ pulled away from V2 and left on the side of the road. The damage to V1 was disabling. The driver of V1, an 18-year old male, said he was traveling on the road when he fell asleep and drifted off road and hit the parked V2. He said he wasn't sure if he intended to park or continue going north. He did say he remembers talking to his passenger and adjusting the radio just before closing his eyes and falling asleep, for a coupe of seconds. When he opened his eyes, he didn't realize V2 was parked. He said he was tired and didn't get a lot of sleep the night before. Vehicle one's driver wasn't familiar with the roadway. He rarely travels on it. He's a fairly new driver. He's had his driver's license for one year. Police found various types of drugs and alcohol inside the vehicle. He was arrested for DUI. It is unknown if the driver was tested for alcohol or drugs and no results were obtained. Although V1 suffered disabling damage, police logged the crash as a non-reportable accident. The Critical Pre-Crash Event for V1 was coded as this vehicle traveling over the lane line on the right side of the travel lane. The Critical Reason was coded as sleeping, that is actually sleep. Associated factors coded to this driver include inexperience driver, driving while under the influence, conversing with the passenger and adjusting the radio/ CD player.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

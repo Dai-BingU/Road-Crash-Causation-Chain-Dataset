@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, A 1999 Pontiac Sunfire, was pulling out of a commercial driveway onto a three lane, two way, dry, asphalt roadway in daylight conditions. V1 was making a left hand turn onto the roadway. V2 a 1989 Chevrolet Cavalier was traveling northbound on the same roadway. The driver of V1 stated that she could not see V2 approaching because of a SUV in the way. The driver of V2 stated that she saw V1, but did not think that she would pull out. The driver of V1 entered the roadway from the drive and the front of V2 contacted the left side of V1 before they both came to final rest in the roadway. The driver of V1 was a 21-year old female who had reported that she had been traveling between 2-16kmph (1-10mph) prior to the crash. She had no health related problems, and had taken no medication prior to the crash. She was rested and traveling home. She does not wear prescribed lenses. She did not sustain any injuries from the crash. The Critical Precrash Event for the driver of V1 was coded “This vehicle turning left at intersection”. The critical reason for the Critical Precrash Event was a recognition error, inadequate surveillance: failed to look, looked but did not see. The driver of V1 stated that her sight of the trafficway was restricted by another vehicle that was turning into the driveway that she was exiting, but she proceeded without having a clear view of traffic approaching from her left The driver of V2 was a 17-year old female who had reported that she had been traveling between 82-97kmph (51-60mph) prior to the crash. She had no health related problems and had taken no medication prior to the crash. She was rested and traveling home. She does not wear corrective lenses. She sustained minor injuries and was transported to a local trauma facility. The Critical Precrash Event for the driver of V2 was Other vehicle encroachment, from driveway across path. The critical reason for the Critical Precrash Event was not coded to the driver of V2 and was thought not to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Roadway, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a high-occupancy, high volume interstate. There were five northbound lanes with paved emergency shoulders on both sides of the roadway. There were concrete barriers separating the north and southbound roadways. The roadway was straight and level with a posted speed limit of 105 kmph (65 mph). The traffic flow was normal and conditions were clear on weekend night. Vehicle #1 was a 1997 Dodge Ram pickup truck that was driven by a 64-year old male. The driver of Vehicle #1 was traveling in lane three going the speed limit (105 kmph) when the left rear tire tread separated, and the driver lost control of his truck. He tried to steer and braked hard; however, once the truck departed the right side of the roadway, it traveled down an embankment that had a downhill grade of more than 2 percent, thus causing the truck to trip and roll four one-quarter turns. The truck also had some cargo unsecured in the bed of the truck that was lost when the truck rolled over. The driver was not injured and the vehicle was towed due to damages. The Critical Pre-crash Event for Vehicle #1 was this vehicle loss of control due to a tire blow out/flat tire. The Critical Reason for the Critical Pre-crash Event was a vehicle related factor as the tire/wheels failed. The left rear tire, which was a Hercules Terra Trac P265/75R16 that had a tread of 5mm, had a complete tread separation and caused the driver to lose control. Luckily, the driver was not injured and there were no other vehicles involved in the crash. There were no other associated factors coded to the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Blow out/flat tire, (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Tires/wheels failed

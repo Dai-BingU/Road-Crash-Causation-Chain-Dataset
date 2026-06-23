@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at an urban intersection and involved a 1992 Infiniti and a 1993 Chevrolet pickup. The crash occurred at a four-way intersection. The intersection is controlled by stop signs for traffic traveling north bound and south bound. There were no environmental factors that contributed to this crash. There was heavy traffic at the time and there was a line of sight obstruction. At the time, there was a large truck westbound in lane one approaching the intersection that was making a right turn to go westbound. The time of the crash was approximately 1154 hours. The speed for both streets is 35 MPH/56KPH. Vehicle two (V2), a 1993 Chevrolet half-ton pickup, was traveling westbound on the through street which is a seven lane (4 westbound lanes), divided (raised concrete median without positive barrier, dry, level, asphalt roadway with no traffic controls. V2 was traveling in lane three. Vehicle 1 (V1), a 1992 Infiniti 4-door Q45 passenger car was traveling southbound on the two-lane roadway approaching the intersection. The driver of V1 stopped for the stop sign for approximately 2-3 minutes, waiting for traffic to clear, initiated a left turn and traveled across two westbound lanes before the front of V1 struck the front of V2. At impact V1 rotated clockwise before coming to rest in the center of the intersection facing south. V2 at impact rotated counterclockwise and traveled in a southwesterly direction before coming to rest in the southwest area of the intersection. V1 and V2 were towed due to damage. The driver of V1, an 18-year-old Indian male, slept for 12 hours the night before the crash and was planning to take a 3-hour trip. The driver left his residence to go to the bank prior to making his 3-hour trip. The driver had been driving on this trip for approximately 4 minutes prior to the crash. The driver stated that he was stopped at the stop sign for approximately 2-3 minutes prior to entering the intersection to make a left turn. He also said that traffic was heavy prior to the crash. The driver has approximately 5 years of driving experience for this class of vehicle and is currently unemployed. The pre-event movement for V1 was coded "stopped in traffic lane." The critical pre-crash movement was coded "the vehicle traveling-turning left at intersection." The critical reason was coded "recognition error-inadequate surveillance (e. g., failed to look, looked but did not see)." The sight line was somewhat blocked by a large box truck turning right at the intersection. The driver of V2, a 41-year-old Hispanic female, stated that she was traveling westbound on the through street when V1 pulled out in front of her vehicle. She stated that she was coming from a store and was on her way home. She had been driving this trip for about two miles prior to the crash. This driver is unemployed. The pre-event movement for V2 was coded "going straight." The critical pre-crash event was coded "other vehicle encroachment-from crossing street, across path." The critical reason was not assigned to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

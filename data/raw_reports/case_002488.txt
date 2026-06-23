@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of a weekday in the middle of a four-way rural intersection. The intersection consisted of two two-lane roadways controlled by a traffic control signal. The bituminous east/west roadway was dry, straight, and level with a posted speed limit was 80kmph (50 mph). The traffic flow was normal and there were no adverse atmospheric conditions. V1, a 1995 Ford Crown Victoria sedan, was westbound approaching the intersection where it intended to turn left. V2, a 1988 Auto Car M/H truck, was traveling eastbound approaching the same intersection where it intended to go straight. As V1 turned it crossed directly into the path of V2. The front left corner of V2 struck the front left corner of V1 in the eastbound lane. V1 came to final rest facing southwest in the intersection near the point of impact while V2 came to a controlled stop on the southern shoulder of the roadway. V1 was driven by an 89-year-old female who sustained moderate injuries and was transported to a local hospital. She stated that she thought she had enough time to make the left turn. The driver of V1 did not take any avoidance actions at the time of impact. V1 was traveling between 17-32kmph (11-20 mph) at the time of impact. V1 was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at the intersection. The Critical Reason for the Critical Precrash Event was a driver related factor, a misjudgment of gap or other's speed. The driver thought she had enough room to complete her turn but obviously misjudged the other vehicle. V2 was driven by a 26-year-old male who was not injured. He stated that he was traveling eastbound approaching the intersection when he saw V1 turn in front of him. The driver of V2 steered right but could not avoid contact with V1. V2 was traveling between 82-97kmph (51-60 mph) at the time of impact. V2 was left at the scene. The Critical Precrash Event for V2 was coded other vehicle encroachment, from opposite direction- over left lane line. The Critical Reason was not coded to this vehicle. No associated factors were coded to V2 and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

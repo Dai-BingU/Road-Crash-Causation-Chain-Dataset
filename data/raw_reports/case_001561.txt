@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a two-way, five-lane roadway divided by a two-way left turn lane. There were two eastbound lanes and two westbound lanes. This was a straight, level, bituminous roadway with a posted speed of 64 kmph (40 mph). Conditions were dark on a weekday evening with dry roads and streetlights. Traffic flow was normal. V1, a 1996 Toyota Camry with one occupant, was stopped facing northbound at the exit of a parking lot, waiting in the left turn lane to turn left (westbound). V2, a 2000 Ford Focus with four occupants, was traveling eastbound in lane two. A large truck, also traveling eastbound, was in lane one, slowing down to make a right turn into the parking lot from which V1 was exiting. Meanwhile, the driver of V1 changed his mind, and decided to make a right turn (eastbound). As V1 attempted the right turn, the two vehicles entered the intersection. The front right corner of V2 made contact with the front left corner of V1. Both vehicles were towed due to damage. V1, the Toyota Camry, was driven by a 19-year old male who reported no injuries. He stated that he was on his way home from picking up a movie at the video rental store. He was stopped at a stop sign, in the left turn lane, waiting to turn left. He said that eastbound traffic, as well as a vehicle waiting to turn into the parking lot, was prohibiting him from making a left turn, so he decided to turn right (from the left turn lane). The driver commented that he did not see V2 because a large truck was blocking his view of the oncoming vehicle. The Critical Precrash Event for V1 was this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was a decision error, inadequate surveillance. The driver looked in the appropriate direction, but failed to recognize approaching traffic. One associated recognition factor was that the impending problem was masked by the traffic flow pattern. An associated decision factor was that the driver turned with an obstructed view. There was a sightline restriction which prohibited him from seeing V2. A large truck had slowed down in lane one to turn into the parking lot, blocking the driver's view of V2. One more possible associated factor was a driver distraction. It is strongly believed that the driver was talking on a cell phone at the time of the crash. V2, the Ford Focus, was driven by a 22-year old female, who reported possible injuries but refused treatment. She stated that she was coming home from her mother's house. She was talking to her brother about where she should stop to get gasoline, when V1 pulled out in front of her. She said that she honked her horn and flashed her lights at the other driver, and then at the last minute tried to stop by applying her brakes, but was unable to avoid the crash. The Critical Precrash Event for V2 was other vehicle encroachment, from driveway, turning into oposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. One associated factor for V2 was a decision error. The driver made a false assumption that V1 would yield the right-of-way. Another associated factor could have been experience related. The driver has never taken any form of driver education.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

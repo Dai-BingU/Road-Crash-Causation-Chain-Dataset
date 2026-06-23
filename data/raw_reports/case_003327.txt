@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred in the evening hours on the crest of a five lane two way raised median divided expressway overpass. The overpass is protected by concrete barrier walls on both sides. The roadway was dark but lighted, and the roadway condition was ice, slush, and snow covered. The weather condition was clear. The posted speed limit for the overpass is 48 KPH (30 MPH) and no roadway design deficiencies were noted. At either end of the overpass there are stoplight-controlled intersections managing the expressway access/exit ramps. Vehicle one (V1), a 1999 Mitsubishi Montero SUV, occupied by the driver only, was westbound on the expressway approaching the exit ramp. V1 took the exit ramp, proceeded up it to the stoplight-controlled intersection, and came to a stop. On a green light, the driver proceeded into the intersection and turned left into the first southbound lane at a very low speed, then began to accelerate. V1 began a counterclockwise rotation and entered the second southbound lane. The driver corrected to the right and V1 began a clockwise rotation, crossed the first lane, the curb and sidewalk, and the front of V1 struck the concrete barrier wall on the west side of the overpass. The vehicle slid to final rest approximately 3 meters south of the point of impact with the barrier wall. V1 was equipped with dual frontal airbags that deployed upon impact. The driver of V1 was transported to a local trauma center for treatment. V1 was towed from the scene. The pre-event movement was coded "accelerating in traffic lane." The critical pre-crash event was coded "this vehicle loss of control due to poor road conditions, ice." The critical reason for the critical event was attributed as an environmental factor of slick roads.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)

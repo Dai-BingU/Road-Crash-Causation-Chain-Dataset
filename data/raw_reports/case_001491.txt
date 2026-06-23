@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle morning crash occurred during the morning commute during daylight hours in a four-way intersection with traffic signals and crosswalks. The roadway east/west is a non-divided state route and consists of five concrete lanes with a positive grade and slight curve to the right for westbound traffic. The roadway north/south is a non-divided 2-lane bituminous residential street with a negative grade for southbound traffic. At the time of the crash, the weather was clear, the road surfaces were dry, and there were no sight restrictions or road defects. The posted speed limit on the state route e/w is 56 kmph (35 mph) and the posted speed limit on the residential street n/s is 40 kmph (25 mph). Vehicle one (V1), a dark blue 2000 Ford Focus 4 door, driven by a 34 year-old female with one passenger was traveling westbound in the outside lane approaching the intersection. As V1 entered the intersection intending to go straight, Vehicle two (V2) also entered the intersection to turn left. The front of V1 struck the left side of V2. After impact, V1 was redirected on a southwest trajectory across the intersection and came to rest facing generally southwest in the eastbound lanes. V1 was towed due to damage. Vehicle two (V2), a 1997 Acura Integra LS 2 door hatchback, was southbound, stopped at a red traffic signal at the intersection intending to turn left. The V2 driver, a 31 year old male, was watching a pedestrian in the crosswalk to his left, who was crossing from south to north. The traffic signal turned green, and the V2 driver pulled forward, but paused to allow the pedestrian to cross, then entered the intersection and was struck in the left side by V1. The impact with V1 caused V2 to enter a clockwise rotation and V2 came to rest in the northwest corner of the intersection facing generally east. V2 was towed due to damage. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over (passing through) the intersection. The critical reason for the critical pre-crash event was coded to V1 as a driver related factor: illegal maneuver. The driver failed to stop for a red traffic signal. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

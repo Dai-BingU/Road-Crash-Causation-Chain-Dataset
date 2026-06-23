@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the early evening of a weekday in the designated left turn lane (lane three) of northbound lanes on a divided commercial roadway. The north/south roadway consisted of three northbound lanes (with lane three serving as a designated left turn lane) and two southbound lanes flanked by paved shoulders and divided by a grass median. The northbound lanes had a positive 3% grade for 150m (492ft.) prior to the crash, but were level at the crash location. The bituminous roadway was dry and straight with a posted speed limit of 72kmph (45 mph). There were no adverse atmospheric conditions at the time of the crash, however traffic was backed-up due to heavy rush hour traffic. V1, a 2000 Chevrolet Cavalier, was northbound in lane three of the roadway directly behind a large non-contact van. V2, a 2005 Chevrolet Colorado pickup, was also northbound in lane three ahead of V1 already due to the backed-up traffic. As V1 continued northbound, the non-contact van in front of it suddenly switched lanes to the right revealing V2 directly ahead. V1 swerved right, but not in time to prevent a crash. The center of V1's front bumper struck the back of V2 causing the airbags in V1 to deploy. Both vehicles came to rest at the point of impact. V1 was pushed by the driver and occupant of V2 and an occupant of V1 to the far right and forward to the intersection ahead to wait for police. V1 was driven by a belted 38-year-old female who was uninjured in the crash. The same was true for her forty six year old male passenger who was in the right front seat at the time of the crash. The driver admitted to having been in conversation with her passenger at the time of the crash. V1 was towed due to damage. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason was coded as a driver related factor, internal distraction, conversing with passenger. Associated factors coded to the driver of V1 include conversing with her passenger, failure to look far enough ahead and the impending problem masked by the traffic flow pattern. The fact that it was heavy rush hour traffic and the sight restriction posed by the non-contact van were also coded as associated factors. V2 was driven by a belted 41-year-old male who was uninjured in the crash. His right front passenger was also belted but was transported to a local trauma center for treatment of possible injuries. They were on their way home from a jobsite when they were struck. V2 was driven from the scene. The Critical Precrash Event for V2 was coded other vehicle in lane, traveling the same direction with a higher speed. The Critical Reason was not coded to this vehicle. Rush hour traffic and the fact the driver was conversing with his passenger were coded as associated factors although the driver is not believed to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

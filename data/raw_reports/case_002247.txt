@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary Case #2005-45-122 The crash occurred at the intersection of a four lane urban arterial road and a two-lane secondary side street. The arterial was straight and level and ran north/south. It had a 2.4m right shoulder and business driveways were on both sides of the road. The straight two-lane side street intersected from the west at a positive 14 percent grade and was controlled by a stop sign. Conditions were daylight and dry on a weekday afternoon. Vehicle #1 was a 2004 Subaru Impreza going eastbound on the side street intending to turn left and go north on the four lane arterial road. Vehicle #2, a 1991 Ford Escort, was southbound in the left lane of the arterial. Vehicle #1 came to a stop at the stop sign, but the drivers view was partially blocked by a non-contact tractor-trailer that was making a right turn from the four-lane artery to the side street. Vehicle #1 initiated the left turn and its front struck the right side of Vehicle #2. Both vehicles came to rest near impact facing their initial directions and were towed due to damage. There were no injuries in the collision. Vehicle #1 was driven by a 17-year old male that was belted with no deployed airbags. He was accompanied by a 15-year old belted female. Police charged the driver with failure to yield. He stated that the truck was blocking his view but that he didn't see any other vehicles approaching. The Critical Precrash Event for Vehicle #1 was this vehicle turning left at intersection. The Critical Reason for the Critical Event was a Environment Related Factor, View obstructed by other vehicles (semi-truck). Several associated factors were coded including; driver conversing with his passenger, an exterior factor (the truck turning right), impending problem masked by the traffic flow pattern (truck turning right), turned with an obstructed view, inexperienced driver, and highway factors-view obstructed by other vehicle and sight line restricted by vehicle. The driver was wearing contacts to correct a nearsighted condition. Vehicle #2 was operated by a 32-year old male that was belted with no deployed airbags. His 21-year old passenger was also belted. The driver worked at a repair shop and was test-driving a regular customers car when the crash happened. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from crossing street turning into opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factor coded included; impending problem masked by the traffic flow pattern (truck turning right), and highway factors-view obstructed by other vehicle and sightline restricted by vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- View obstructed by other vehicles
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an urban intersection of two arterial roads with control signals (on colors) for all four directions and no pedestrian signal. The roads are aligned with one running north/south and the other running northeast to southwest. The crash took place in the southbound right lane of the north/south road on the north side of the intersection. The roadway on the north side of the intersection has one travel lane in each direction with a center turn lane that becomes a left turn lane approaching the intersection. The southbound lane of the road has a -6.25% grade at a precrash location 40 meters from point of impact . Conditions were daylight and dry with cloudy skies in the early afternoon on a weekday. The posted speed was 56kph (35mph). Vehicle #1 was a 1996 Dodge Caravan traveling southbound in the right lane on the north side of the intersection when it hit the back of Vehicle #2, a 1996 Nissan Sentra that was stopped at the red light in the southbound right lane on the north side of the intersection, with its (V1's) front end. Vehicle #1 came to final rest facing south in the southbound right lane 4 meters south of point of impact . Vehicle #2 came to final rest facing south in the southbound right lane approximately 20 meters south of point of impact in the middle of the intersection. Vehicle #1 was driven by a 17 year old belted female who was uninjured in the crash. Although she stated that Vehicle #2 stopped on a green light the evidence bears otherwise. The driver of Vehicle#1 was intending to go straight through the intersection. The Critical Precrash Event was other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Precrash Event was recognition error, internal distraction. This was chosen because she was admittedly talking to her passenger about an argument she had earlier in the day. The argument is considered an associated emotional factor and some other factors are fatigue, the driver is anemic and has to take blood iron pills. Another fatigue factor is that the driver follows no normal sleep schedule as she is not in school or working. She stated she just sleeps whenever she can. One other factor is driver inexperience, she has not had her license a full year and was driving her mothers vehicle. The driver of Vehicle #1 was cited for following too closely. Vehicle #1 was towed due to damage. Vehicle #2 was driven by a 76 year old belted female who was transported with minor injuries to a local hospital. She stated that she slowed down for the yellow light and was stopped at the red light for 3-4 seconds before she was hit from behind. The Critical Precrash Event for this Vehicle was other motor vehicle in lane, traveling in same direction with higher speed. No Critical Reason for the Critical Precrash Event are coded to this vehicle as the driver of the Sentra is not thought to have contributed to the crash. Vehicle #2 was towed due to damage.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Inexperience, Driver Physical, Driver Stress/Emotion, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

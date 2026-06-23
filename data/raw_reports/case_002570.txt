@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekend evening in the southbound lane of a divided residential roadway. The north/south roadway consisted of one lane in each direction divided by a curbed grass median. The bituminous roadway was dry, straight, and level with a posted speed limit of 40kmph (25 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2002 Toyota Tacoma pick-up was southbound in lane one traveling at 48kmph (30 mph). V2, a 2001 Dodge Neon was also southbound in lane one ahead of V1 preparing to turn to turn into a gas station driveway that intersected with roadway. As V2 came to a stop before turning, V1 failed to slow down and struck the rear of V1. V2 rolled forward and came to rest on the southeast corner of the intersection. V1 rolled forward and came to final rest in the northwest corner of the intersection. V1 was towed due to damage, while V1 only suffered minor damage and was driven from the scene. The driver of V1, a 48-year-old male, was returning home from having his vehicle looked when the crash occurred. He stated that the red car in front of him (V2) just stopped suddenly. He braked and steered right, but could not avoid the collision. He was not injured as a result of the crash. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason was coded as a driver related factor, driver inattention. In addition to driver inattention, traveling too fast for conditions was coded as an associated factor, as V1 was exceeding the speed limit. The driver of V2, an 18-year-old female, was stopped in lane one waiting to turn left into the gas station where she worked. She stated in the interview that the truck (V1) had been on her tail for about two blocks back and just slammed into her. She was treated on the scene for neck pain but did not require transport. The Critical Precrash Event for V2 was coded other motor vehicle in lane traveling at a higher rate of speed. The Critical Reason was not coded to this vehicle. The only associated factor coded to this driver was inexperience as she had only been driving for roughly a year.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Speed/Distance present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

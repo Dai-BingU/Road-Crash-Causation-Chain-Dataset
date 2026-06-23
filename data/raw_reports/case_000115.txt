@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at a signalized intersection of two one-way roadways. Both roadways were straight and level, and it was daylight and clear with no adverse conditions. The speed limit on both roadways was 48 kmph (30 mph). Vehicle #1 was a 1998 Ford Explorer that was traveling eastbound on a one-way roadway with one lane of travel. Vehicle #2 was a 1999 Chevrolet Cavalier that was traveling northbound in the right lane of a one-way roadway with three travel lanes. At the intersection, the front of Vehicle #1 impacted the left front side of Vehicle #2. The Ford Explorer (Vehicle #1) was driven by a 35-year old female who sustained minor injuries but was not transported to a medical facility. The driver stated to the police that Vehicle #2 disregarded the traffic control signal. The Ford was not towed due to damage. The Chevrolet Cavalier (Vehicle #2) was driven by a 29-year old female who sustained minor injuries and was transported to a medical facility. The occupants of Vehicle #1, a 10-year old female, a 7-month old male, and a 9-year old male, did not sustain any injuries but were transported to a medical facility. The driver stated to the police that she "blew a red light," causing the crash. The Chevrolet was towed due to damage. The Critical Pre-crash event for Vehicle #1 was coded as: Other vehicle encroachment from crossing street, across path. The Critical Reason for the Critical event was not coded to the driver of Vehicle #1. Possible associated factors were unknown because no interview was obtained. The Critical Pre-crash event for Vehicle #2 was coded as: This vehicle crossing over (passing through) intersection. The Critical Reason for the Critical Event was coded as an illegal maneuver, a driver-related error. Additional associated factors were unknown because no interview was obtained.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

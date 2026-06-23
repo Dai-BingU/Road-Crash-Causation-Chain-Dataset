@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of a primary arterial and a secondary arterial. The primary ran north/south and was largely uninvolved in this crash but for the fact that it's north leg was V1's intended turn destination. The secondary's west leg had three lanes (1was eastbound/right turn lane, 2 was eastbound left turn only lane, 3 was westbound) with eastbound divided from westbound by a double yellow line. The eastbound approach to the intersection was straight with a positive grade of 3.8%. The east leg had four lanes (1 was right turn, 2, was through, 3 was left turn, 4 was eastbound) with lanes 3 and 4 divided by a double yellow. The eastbound approach to the intersection and the intersection itself were both straight and level. The intersection was controlled by traffic signals on colors with a pedestrian signal. Conditions at the time of the crash were overcast daylight with light rain and wet roads. The posted speed limit was 64kph/40mph. V1 was a 1992 Honda Accord traveling east on the secondary arterial and had slowed to make a left turn to head north on the primary road when it entered the intersection on a solid yellow light. Its front (right corner) struck the front of V2 a 2000 Acura RL that was traveling west through the intersection from the east leg. Both vehicles came to rest facing northwest near the northwest corner of the intersection with V2's left front against V1's right side just forward of the b-pillar. Both vehicles were towed from the scene. V1 was driven by an unrestrained sixty-four-year-old-male who was transported to an area hospital with possible injuries. He stated at the hospital that he entered the intersection when the light was changing from green to yellow but later stated he had a green arrow. The 1st statement was accepted as most representative of actual events. He said he was leaving his daughters house for lunch at the time of the crash. The critical precrash event for V1 was this vehicle traveling, turning left at an intersection. The critical reason was inadequate surveillance, failed to look far enough ahead. An accident several years ago caused D1 to undergo spinal surgery resulting in C3&4 fusion, and weakness with fine motor skills. He was taking several medications at the time of the crash. An exterior factor of looking at intended turn destination was coded also. This would not normally have been coded but that D1 did not look forward to scan oncoming traffic. In a hurry trying, to make it through light was also attributed to V1. V2 was driven by a forty-five-year-old-belted-female whose airbags did deploy in the crash. She was taken to an area hospital for treatment of possible injuries via EMS. She was on her way home after a meeting with a client. The critical precrash event for V2 was other vehicle encroachment from opposite direction over left lane line. The critical reason was not coded to this vehicle. The driver was coded as fatigued due to having worked 20 days in a row averaging 10 hours per day. She also takes several allergy medications and was not wearing her lenses for a hyper-optic condition at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Driver Stress/Emotion, Drugs, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Driver Fatigue, Driver Physical, Driver Stress/Emotion, Drugs, Roadway, Vision, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

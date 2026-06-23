@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during late afternoon hours on a two lane entrance ramp during daylight, the roadway is concrete, dry and free of defects. There were no adverse atmospheric conditions at the time. Posted speed limit 56 kmph (35 mph). Vehicle one (V1), a 1999 Ford F-150 pick-up driven by a 28 year-old male was traveling westbound in the first lane of a two-lane roadway. Vehicle two (V2), a 1999 Ford F-150 pick-up driven by a 34 year-old female with three passengers was traveling westbound in the second lane (exit ramp). As V1 attempted to change lanes into the second lane, its right side impacted a barrier between the exit ramp and the main roadway. V1 rotated clockwise and was then struck from behind by V2. V1 continued to rotate and came to rest in the roadway. V2 came to rest in the roadway at the point of impact. V1 was towed from the scene due to damage sustained in the collision. V2 was towed from the scene due to damage sustained in the collision. The driver of V1 was well rested and unfamiliar with the area. The driver was not under the influence of drugs or alcohol. He stated that he was unsure if he needed to take the exit ramp or go straight. At the last moment he decided to take the exit ramp and attempted to exit. He did not see the barrier and struck it without taking any evasive action. The driver of V2 was well rested and familiar with the area. The driver was not under the influence of drugs or alcohol. She stated that V1 swerved into her path at a high rate of speed and at a sharp angle. She attempted to brake and steer to the left but was unable to avoid the collision. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the left side. The critical reason for the critical event was coded to V1 as a driver related factor: poor directional control. V2 was not involved in the first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Performance, Driver Stress/Emotion, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

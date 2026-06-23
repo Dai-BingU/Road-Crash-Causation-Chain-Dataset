@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle collision occurred during evening hours on a weekday. The crash occurred at a four-leg, tri-light controlled intersection of a north-south roadway and an east-west roadway. At the time of the crash it was dark, with no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 1996 Jeep Grand Cherokee, was traveling eastbound in a 56 kmph (35 mph) zone, in the third lane of a five-lane, two-way, undivided, dry, level, bituminous roadway. V1 was stopped at the intersection and waiting for an opportunity to turn left into northbound traffic. Vehicle two (V2), a 1998 Ford Expedition, was traveling westbound in the second lane of opposing traffic, approaching the same intersection with the intention of passing straight through. Vehicle three (V3), a 1975 Chevrolet Malibu two-door, was stopped at the same intersection, facing south in the first lane of a two-lane, two-way, undivided, dry, level, bituminous roadway. V3 was waiting at the red light, with the intention of turning left. When the east and west traffic signals turned to the yellow phase, V1 began its turn as V2 entered the intersection. The front of V2 impacted the right side of V1. V1 deflected northwest and entered the southbound lanes, where the front of V1 impacted the front of V3. V1 then rolled over two quarter-turns towards its left side and came to rest on its top, facing northeast in the first southbound lane. V2 rotated clockwise from impact and came to rest in the intersection, facing east in the first westbound lane. The 30-year-old-female driver of V1 could not be interviewed. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was attributed to V1 and is coded as a driver related factor: unknown decision error. Possible decision errors based on her statement to the police are: misjudgment of other's speed, or false assumption of other's actions. The 49-year-old driver of V2 reported that she was on her way to pick up her child from the ballpark. At the time of the collision, she was in good health and alert. She saw V1 as she approached the intersection, and assumed that V1 would remain stopped as she passed through. When V1 began to move, the driver of V2 applied the brakes, but was unable to stop in time to avoid the collision. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason for the event was not attributed to V2. The 57-year-old female driver of V3 reports that she was on her way home from the gym, and did not see the approach of the other two vehicles, and could not accurately describe their pre-crash movements. She has a hearing loss requiring the use of a hearing aid, but she does not use the device. V3 was not involved in first harmful event. The critical reason was not attributed to V3.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision present problem 
+Vehicle 3:  Driver Physical, Driver Stress/Emotion, Drugs, Vision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown decision error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

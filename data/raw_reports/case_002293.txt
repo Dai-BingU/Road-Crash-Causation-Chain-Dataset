@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a divided, uphill roadway, on the approach to a traffic signal-controlled intersection. The eastbound lanes consist of two through lanes, a left turn lane and a right turn lane. The speed limit on this roadway is 80 kmph (50 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1997 Ford Escort, was eastbound in lane two. Vehicle two (V2), a 2004 Toyota 4Runner, was stopped eastbound in lane two behind other vehicles at the red traffic signal. The driver of V1 noticed that V2 was stopped and applied the brakes. V1 slid and the front struck the back of V2. V1 was towed due to damage. The driver of V1, a male, left the scene of the crash. No information is available for this driver. The driver of V2, a twenty-four-year-old male, was traveling with his family from a family reunion to their home. He was healthy, well rested and familiar with his vehicle. This driver rarely drives on this roadway. The pre-event movement for V1 was coded as "going straight." The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; type of driver error unknown." The pre-event movement for V2 was coded as "going straight." The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in same direction with higher speed." The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, three lane, straight, level, bituminous roadway at an intersection controlled by stop signs for the two-way, two lane cross street. Conditions were clear and dry on the weekend afternoon, on the road with a posted speed limit of 80kmh (50mph). All three vehicles were heading westbound on the same road. V3, a 1999 Ford Contour, driven by a 36 year-old male was stopped at the intersection in the left turn lane waiting for traffic to clear to complete a left turn. V2, a 1997 Eagle Talon driven by a 35 year-old female, was stopped behind v2, also waiting to turn left. V1, a 2001 Saturn SL2, driven by a 25 year-old male, was traveling near the posted speed limit looking for the street signs of the cross street. The driver of v1 who had moved from out of state 4 days prior to the crash, was unfamiliar not only with the road, but with the signage. The driver did not notice v2 and v3 stopped in the road ahead of him as he looked right and then left for the street sign. The front of v1 struck the back of v2, and the front of v2 then struck the back of v3. The Critical Event coded to the driver of v1 was 'other motor vehicle in lane, other vehicle stopped.' The Critical Reason for the Critical Event coded was a 'Recognition Error of External distraction' because the driver of v1 was looking to the left to locate and read the street sign for the cross street. A Contributing Factor of 'Driver Experience-frequency of driving road- first time on road was coded to this driver. An additional Contributing Factor of 'Inadequate Surveillance-failed to look far enough ahead' was also coded. Another Contributing Factor coded was 'other driver related experience-uncomfortable with general traffic speeds', as the driver stated that the 50mph speed limit on the road was higher than he was accustomed to in the state from which he had moved that week. The Critical Event coded for v2 was 'other motor vehicle in lane traveling with a higher speed.' The Critical Reason was not coded to this driver. V2 was towed from the scene due to damage. The fully restrained driver and 16 year-old male right front seat occupant denied injuries. The Critical Event was not coded for V3. V3 was driveable following the crash and the fully restrained driver reported no injuries.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

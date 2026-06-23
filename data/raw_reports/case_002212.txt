@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a fully controlled rural highway divided by a grassy median with a metal guardrail on the curve where the driver lost control. The bituminous road has two lanes in each direction with a posted speed limit of 113 kmph (70 mph) and rumble strips on both sides. Conditions at the time of the weekday afternoon crash were daylight and cloudy, and the road was wet from prior rain. V1, a 2005 Ford Escape driven by a 19 year-old female, was traveling eastbound in the left lane at approximately 113 kmph (70 mph), negotiating a curve to the right. V1 drifted to the left and contacted the rumble strip and the driver said that she felt the Escape kind of jerk and it went off onto the left paved shoulder. The driver steered right and overcompensated and V1 began to rotate clockwise, crossing both lanes of traffic. V1 left the roadway on the right, crossed the paved shoulder and continued down a >2% embankment where V1 rolled 5 quarter turns with the right side leading and came to rest on the right side facing east. The side curtains in the Escape deployed and the fully restrained driver denied injuries and refused treatment. V1 was towed from the scene due to damage. The Critical Precrash Event coded to V1 was 'this vehicle traveling off the edge of the road on the right side.' The Critical Reason coded was a 'Performance error of overcompensation.' The driver had left her home over 4 hours prior to the crash and was traveling to her parents' home for the weekend, and had stopped once 2.5 hours before the crash. V1 drifted to the left on the right hand curve on the wet pavement, initiating the contact with the paved shoulder. A slight correction to the right would have put V1 back into the left travel lane, instead of losing control. There were no other contributing or associated factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Performance, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

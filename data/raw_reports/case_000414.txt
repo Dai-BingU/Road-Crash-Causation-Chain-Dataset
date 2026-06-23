@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the center of a "T" intersection composed of a five-lane north/southbound roadway, and private driveway into a gas station. Both the north/south roadway and the driveway were bituminous and level. The north/southbound roadway had a posted speed limit of 64 kmph (40 mph). The driveway had no posted speed limit. It was morning on a weekday. The roads were dry. Traffic flow was moderate. V1, a 1996 Mitsubishi Mirage 2-door coupe with two occupants, was traveling east in the driveway when it attempted to turn left onto the north/south roadway. As V1 crossed over the second southbound lane, it was struck on the left side by the front of V2. V2 was a 1999 Honda Civic 2-door coupe with one occupant. V1 was driven by a 34-year-old male and occupied by a female passenger of undetermined age. The driver and passenger both reported pain and were transported to the hospital. Driver of V1 reported that he was very distracted due to the fact that he was in urgent need of a restroom. Driver also complained of being tired that morning. Driver stated that before he started his turn he looked both ways but did not see V2. As he attempted to turn left he was struck by V2 in the left side. V1 attempted no avoidance maneuver. The Critical Pre-crash Event for V1 was "This vehicle traveling-turning left at intersection." The Critical Reason for the Critical Event was "Driver related factor - inadequate surveillance, looked but did not see." The following associated factors were assigned to the driver of V1: Fatigue, other physical factors (attack of diverticulitis), driver inattention due to the urgent need to use a rest room, conversation with passenger, and being in a hurry because the driver was concerned about "having an accident" related to his lower GI disorder. The driver of V2, a 29-year-old female, also reported pain and was transported. Driver stated that she was traveling at approximately 40 mph as she neared the intersection with the driveway when V2 turned across her path and she struck V1 on the left side. V2 made no attempt to avoid V1. The Critical Precrash Event for V2 was "Other vehicle encroachment - from crossing street, turning into opposite direction." No Critical Reason was coded to this vehicle. The only associated factor coded to this driver was the use of prescription medication to treat depression.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Physical, Driver Stress/Emotion, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

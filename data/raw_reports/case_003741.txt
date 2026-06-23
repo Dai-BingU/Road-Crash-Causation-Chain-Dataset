@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on an undivided, four-lane, straight, level, wet roadway. The speed limit for this roadway is 64 kmph (40 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2000 Mitsubishi Eclipse, was eastbound in lane two. Vehicle two (V2), a 1995 Chevrolet Monte Carlo, was in front of V1. V2 stopped to make a left turn into a driveway on the north side of the roadway. The driver of V1 noticed that V2 stopped and applied the brakes. V1 slid on the wet road and the front struck the back of V2. V1 was towed due to damage. The driver of V1, an eighteen-year-old female, was traveling from a restaurant to her home. She was healthy, well rested and familiar with her vehicle. She drives this route daily. This driver stated that she was aware that her vehicle did not stop well on wet roads. The driver of V2, a twenty-six-year-old male, was traveling with a female passenger, from a friend's house to his home. He was well rested and healthy at the time of the crash. This was the first time that this driver drove this vehicle, but he felt comfortable with it. He drives this route weekly. The pre-event movement for V1 was coded as "going straight." The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; too fast for conditions (driver was aware that vehicle does not stop well on wet roads)." The pre-event movement for V2 was coded as "going straight." The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in same direction with higher speed." The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Speed/Distance, Surveillance, Vehicle present problem 
+Vehicle 2:  Driver Inexperience, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

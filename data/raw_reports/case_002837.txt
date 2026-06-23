@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This is a three vehicle rear-end crash that occurred during early morning daylight hours on a five lane,urban, bituminous, level, roadway There were no traffic controls, no roadway deficiencies,and no adverse environmental conditions. The posted speed limit is 56 kph (35 mph).. Vehicle one (V1) a 1997 Chevrolet pick-up driven by a 27 year-old male was traveling east in the second lane, when Vehicle two (V2) a 1994 Oldsmobile Ciera sedan driven by a 22 year-old female traveling east in the second lane stopped for traffic. The front of V1 collided with the rear of V2, the impact caused V2 to move forward striking the rear of Vehicle three (V3) a 1989 Chevrolet compact pick-up. After impact all three vehicles came to rest at the point of contact. V2 was towed from the scene due to damage. V1,V3 were driven from the scene. Note V3 stopped for oncoming fire truck. The pre-event movement for V1 coded going straight, category other motor vehicle in lane, other vehicle stopped. Critical reason for the critical event driver related factor "Inadequate surveillance". The pre-event movement for V2 coded stopped in traffic lane, category other motor vehicle in lane traveling in same direction with higher speed. Critical reason not coded to this vehicle. The pre-event movement for V3 coded stopped in travel lane, category other not involved in first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Driver Stress/Emotion, Surveillance present problem 
+Vehicle 3:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

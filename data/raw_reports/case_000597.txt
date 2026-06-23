@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during morning daylight hours on a median divided, dry, bituminous, roadway that runs east to west with three lanes in each direction. The north side of the roadway intersects with a two-lane roadway, two-way that runs north to south and is controlled with a stop sign. Vehicle one (V1) is a 1995 Mack RD series dump truck without cargo. V1 was southbound at the stop sign attempting to make a left turn and head east. V1 was stopped for one to two seconds and did not see any traffic, then proceeded into the intersection. V1's front made contact with vehicle two's right side. V1 then proceeded into the eastbound lanes and partially pulled onto the median and lane three at final rest. Vehicle two (V2), a 1991 Toyota Corolla, was westbound in lane three with a posted speed limit of 72 kmph (45 mph). As the driver of V2 approached the intersection he noticed V1 pulling out from the stop sign but he had nowhere to go to avoid the crash. V2 was impacted in the right side and went into a clockwise rotation approximately 180 degrees and came to final rest in lane one of the eastbound lanes. The critical pre-crash event was coded for V1 as: this vehicle traveling, turning left at intersection. The critical reason for the critical pre-crash event was coded to V1 as a driver recognition error: inadequate surveillance (e.g., failed to look, looked but did not see). The driver of V1 had dropped off his cargo from a drop off location and was on his way to pick up another load. He claimed to not be in a hurry, but he had to be at the pick up location at a certain time. He was looking to his right when he pulled into the intersection and V2 was coming from his left. The critical pre-crash event was coded for V2 as: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

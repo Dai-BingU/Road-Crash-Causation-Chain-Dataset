@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lane of a five-lane divided roadway at an intersection with another five-lane divided roadway. There were three lanes westbound and two lanes eastbound. The intersection was controlled by a traffic control signal. Conditions were daylight with rain in the morning on a weekend. The posted speed limit was 80 kmph (50 MPH). V1 was a 2001 Hyundai Tiburon coupe traveling westbound in the third westbound lane approaching the intersection with a red traffic control signal. V2, a 2000 Ford F150 pickup, was traveling southbound in the left turn lane intending on turning left at the intersection. V3, a 1995 Peterbilt dump truck, was traveling southbound in the second lane intending on turning left at the intersection. V1 ran the red signal and struck the left side bumper of V2. V1 continued on and struck the left side of V3 in the westbound lane. V1 came to final rest facing westbound. V2 and V3 came to final rest facing eastbound. V1 was driven by a 21-year-old male who sustained minor injuries but was not treated or transported. The driver refused to be interviewed at the scene. The critical precrash event for the driver of V1 was when he began to cross over the intersection. The critical reason for the critical precrash event was a decision error - an illegal maneuver (running a red TCD). One associated factor coded to V1 was the weather - it was raining at the time of the crash. V1 was towed due to damage. V2 was driven by a 41-year-old male who was not injured. He stated that he had a green signal, entered the intersection but saw V1 on his left. V2 then accelerated but was struck on the left bumper by V1. V2 was traveling between 11 and 20 MPH at the time of impact. V2 was driven away from the scene. The driver of V2 did not want the EDR information to be downloaded from his vehicle. The critical precrash event for the driver of V2 was when V1 encroached into V2's lane from the crossing street, across path. No critical reason for the critical precrash event was coded to this vehicle. The only associated factor coded to this vehicle was the weather - it was raining at the time of the crash. V3 was driven by a 44-year old male who was not injured. He stated that he had a green signal, entered the intersection and was struck by V1 on his left side. V3 was traveling between 1 and 10 MPH at the time of impact. No avoidance actions were taken and V3 was driven away from the scene. No critical precrash event and no critical reason were coded to the driver of V3 because he was not involved in the first harmful event (the impact between V1 and V2). Two associated factors were coded to the driver of V3. The first associated factor was the same as the other two drivers - the weather (rain). Also, the driver of V3 participated in a recreational activity during the last 7 days that involved periods of strenuous activity; however, he was not thought to have been fatigued at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+Vehicle 3:  Distraction, Driver Physical, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

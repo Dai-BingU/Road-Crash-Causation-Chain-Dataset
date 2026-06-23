@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, five lane, undivided roadway near the intersection with a two-way, two lane, undivided roadway. The road was wet, traveled asphalt with a -2.5% grade in the direction of travel. The posted speed limit was 35 mph (56 kph). Traffic was light at the time of the crash. There were no adverse weather conditions. The collision occurred mid-morning on a sunny, clear day. The road surface was wet from a sprinkler system; no rain was present. Vehicle #1, a 1997 Dodge Neon, was southbound in the first travel lane. The driver of vehicle #1 stated that as he neared the intersection a non-contact vehicle turned across his path from the northbound lanes. Vehicle #1 accelerated and steered to the right to avoid the vehicle. Vehicle #1 departed the right side of the roadway as the driver applied the brakes. Skid marks identified the path of the vehicle before the front of the vehicle struck a tree. Vehicle #1 rotated counterclockwise and came to rest off the roadway facing southeast. The vehicle was towed and the sole occupant was transported. The pre-event movement for vehicle one was coded "going straight." The critical pre-crash event was coded "object in roadway." The object being the non-contact vehicle attempting a left turn in front of vehicle one.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Object in roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Panic/freezing

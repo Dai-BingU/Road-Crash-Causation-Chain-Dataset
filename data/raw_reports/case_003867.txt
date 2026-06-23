@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during early morning daylight hours on a dry, divided, six-lane road, at an interchange with traffic controls with pedestrian signals. The road runs east and west at the location of the crash. Eastbound traffic has two through lanes and two left turn lanes. Westbound traffic has two through lanes. The speed limit on this road is 64 kmph (40 mph) and there were no adverse weather conditions at the time. Vehicle one (V1), a 1997 Honda CR-V driven by a 18 year-old male was traveling eastbound in lane two. Vehicle two (V2), a 2002 Jeep Cherokee driven by a 50 year-old male with one passenger was stopped in traffic in front of V1. When the light turned green V2 proceeded then stopped for non-contact vehicle making a u-turn. The front of the V1 impacted the back of the V2. The V1 came to rest at impact on its wheels facing east in lane two. V2 was pushed forward and came to rest on its wheels facing east in lane two. V1 was towed from the scene. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical pre-crash event was coded to V1 as a driver related factor: too fast to be able to respond to unexpected actions of others (specified as: Forward vehicle (V2) stopped suddenly on a green light for a non-contact vehicle making a U-turn.). The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Speed/Distance present problem 
+Vehicle 2:  Distraction, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

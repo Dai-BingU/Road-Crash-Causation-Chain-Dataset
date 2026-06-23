@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the westbound lanes of a five line, two-way roadway. There were two eastbound and two westbound lanes divided by a two-way left turn lane. This was a straight, level, bituminous, roadway with a posted speed of 72 kmph (45mph). It was mid-afternoon on a weekday and the road was dry but the sky was cloudy. V1, a 2002 GMC Envoy four door with one occupant, was traveling westbound in lane one. V2, a 2000 Dodge Intrepid four door with two occupants, was also traveling westbound in lane one behind V1. A non-contact vehicle stopped suddenly in front of V1. The driver of V1 applied the brakes and successfully avoided the NCV. V2 failed to slow down sufficiently and rear-ended V2. Both vehicles came to final rest in the roadway near the point of impact. V1 was driven from the scene while V2 had to be towed due to damage. The driver of V1, a 49-year old woman, reported no injuries. She advised that she had just left work and was on her way home. She stated that she was traveling between 34-48 kmph (21-30 mph) when a vehicle in front of her stopped suddenly. She applied the brakes and avoided contacting that vehicle. The Critical Precrash Event for V1 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. There were no associated factors coded to V1 and the driver was not thought to have contributed to the crash. The driver of V2, a 20-year old male, reported no injuries. He stated that he and his friend had left his house and was on their way to a restaurant. He claimed that he was traveling between 50-64 kmph (31-40 mph) and looking rearward over his shoulder to see if it was clear to get into lane two. The passenger in V2 screamed STOP! The driver looked forward and fully applied the ABS. He could not avoid contacting the back of V1. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction while decelerating. The Critical Reason for the Critical Precrash Event was a driver related error; inadequate surveillance (failed to look, looked but did not see), as the driver was looking over his shoulder and did not see V1 stopping. In addition to the inadequate surveillance an exterior factor and following too closely were coded as associated factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

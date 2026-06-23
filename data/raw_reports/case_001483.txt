@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a two-way, two-lane, not physically divided, traffic signal- controlled intersection. The roads were dry in the evening on a weekday and there were no atmospheric conditions at the time of the crash. The southbound lane upon which Vehicle 1 was driving had a negative slope and the posted speed limit was 72kph (45mph). The eastbound lane for Vehicle 2 was level and had a posted speed limit of 56kph (35mph). Vehicle 1 was a 1990 Chevrolet Cavalier; traveling south at 72kph (45mph) went through the red light at the intersection and contacted the front left side of Vehicle 2. Vehicle 2 was a 1998 Ford Taurus, which was traveling east and was crossing the intersection with a green light. Vehicle 2 was stopped at a red light, and then proceeded to enter the intersection after the light had changed to green. Vehicle 2 was traveling at about 20 mph when it was struck by Vehicle 1. The impact sent Vehicle 2 spinning clock-wise approximately 6 times before coming to final rest in the eastbound lane. Vehicle 1 continued forward through the intersection before coming to final rest on the side of the southbound lane. The driver of Vehicle 1 was a 48-year old female who was air lifted to the hospital due to injuries. It appeared that her head had made contact with the windshield. When trying to obtain the interview, the driver of Vehicle 1 refused to cooperate with us. It is suspected however, from talking to the police on scene, that she was on prescription medication for depression. This vehicle was towed due to damage. The Critical Precrash Event for Vehicle 1 was this vehicle crossing over (passing through) intersection. The Critical Reason for the Critical Precrash Event was unknown recognition error. She was apparently on medication for depression and it is unknown if that contributed to the crash. The driver of Vehicle 2 was a 63-year old man who did not suffer any injuries. There were two other occupants in the vehicle, one in the front passenger seat and another in the left rear seat. Both passengers also did not suffer any injuries. The passenger of Vehicle 2 acted as the surrogate interviewee and stated that there were no distractions, inside or outside of the vehicle. She even stated that the radio was off and it was very quiet inside the vehicle. She claimed that neither she nor the driver ever saw Vehicle 1 coming. As they entered the intersection, they were all of the sudden struck by Vehicle 1. The Taurus was towed do to damage. The Critical Precrash Event for Vehicle 2 was other vehicle encroachment from crossing street, across path. The Critical Reason for the Critical Precrash Event was not coded for Vehicle 2. The wife noted that the driver of Vehicle 2 did take medication every day. He was on a cholesterol-lowering prescription. In addition he would take an aspirin and a daily vitamin each morning. She claimed that the driver was in good health and did not have any emotional stress before or on the day of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+Vehicle 2:  Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

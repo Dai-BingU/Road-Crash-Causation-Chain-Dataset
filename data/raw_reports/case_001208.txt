@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a seven lane, concrete roadway that is divided by a raised concrete median with a concrete planter in the center that acts as a barrier between eastbound and westbound lanes. The outside lane in each direction is for bus and bicycle traffic only, the two inside lanes are for all other vehicles. Before the raised concrete median is a left turn lane for westbound traffic. The road is straight, has an uphill grade, and has a posted speed limit of 48 kmph (30 mph). This crash occurred a few hours before mid-night, the weather was clear, and the road was illuminated by street-lights. Also, there were no adverse weather conditions or road defects. Vehicle one (V 1), a 1999 Honda Civic sedan with one occupant, was traveling eastbound in the third lane when, for unknown reasons, V 1 drifted into the median and hit the concrete barrier with the front left corner. The left front wheel snagged and V 1 entered a counterclockwise rotation and also rebounded and began to roll backwards. The back of V 1 entered into lane two. Vehicle two (V 2), a 2005 Jeep Wrangler driven by a 23 year-old male, was eastbound in lane two struck the left back corner of V 1 with its front left corner. V 1 came to final rest facing north/west straddling the lane line. V 2 came to final rest facing east in lane one. V 1 was towed due to damage. V 2 was driven from the scene. The critical pre-crash event for V 1 was coded: this vehicle traveling, off the edge of the road on the left side. The critical reason for the critical pre-crash event was coded: type of driver error unknown. No interview with the driver was obtained and it could not be determined why he departed the roadway. V 2 was not involved in first harmful event. The Critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

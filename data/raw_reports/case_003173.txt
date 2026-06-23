@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary A four vehicle crash occurred during the daylight hours on an east/west six lane divided highway with positive barrier. The westbound lanes consist of a 5 meter wide (16 feet) inner berm and a 6.5 meter wide (21 feet) outer berm. There are three through lanes between the berms and they measure 3.6 meters in width respectively and are divided by dashed lane lines. This section of the roadway is concrete and was dry, straight, and free of road deficiencies. However, the roadway was congested at the time of the crash. The precrash location has a positive grade and the crash location is located on an overpass and is level. The speed limit for this roadway is 89 kmph (55 mph). Vehicle one (V1) is a 1994 Chevrolet K series full size pick up truck. Vehicle two (V2) is a 2005 Buick Rainer four wheel drive sport utility vehicle. Vehicle three (V3) is a 2001 Dodge Intrepid. Vehicle four (V4) is a 2004 Freightliner semi tractor pulling one semi trailer. V1, V2 and V3 were driving in the third westbound lane prior to impact. V2 was behind V3 and V1 behind V2. V4 was traveling in the second westbound lane. Traffic came to a stop and V3 stopped in the traffic lane. V2 was slowing to a stop and V4 had been stopped and was just beginning to move forward again. V1's front contacted V2's back. As V2 was pushed forward the driver steered right and V2's front contacted V3's back right corner. After V1 contacted V2 the driver steered the vehicle to the right where it contacted V4's left trailer in front of the fourth axle. V2 and V3 came to final rest on the roadway with V3 in the third lane and V2 partially in lane two and three. V1 came to a final rest under the trailer of V4. There were no reported injuries as a result of this crash. EMS was dispatched to this crash and later called off. The driver of V1, a 48 year old male, stated that he had fallen asleep while driving. The last thing he remembers was being on this roadway in the third lane about a half a mile back from the crash site. During the driver's interview this driver stated he has very long work hours and had been out of the country just two days prior to the crash. Further, he was on his way to work, which was an eight hour drive and had been driving 4-5 hours at the time of the crash. It was also revealed during the interview that this driver is a diabetic and takes medication for this condition. The final factor for this driver is fatigue. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction while decelerating. The critical reason for critical event was coded to V1 as a driver related factor: sleeping, that is, actually asleep. The driver of V2 was a 52 year old male who was not interviewed. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. V3 and V4 were not involved in the first harmful event. The critical reason was not coded to either of these vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Inexperience, Driver Stress/Emotion, Drugs, Speed/Distance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

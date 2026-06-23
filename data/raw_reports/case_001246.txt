@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred on a two-lane non-divided asphalt constructed roadway. This roadway runs north to south with a posted speed of 89 kmph (55 mph). This crash occurred during darkness with no street lighting and no adverse weather conditions. This roadway is straight with a gradient of +4 percent. This road was entering a curve to the right. Vehicle one (V1), a 2003 Buick Rendezvous utility vehicle, was northbound when the driver stated a non-contact vehicle crossed the centerline and into her lane. The driver of V1 took evasive action by crossing the centerline and exited the left road edge. Once off the road edge V1 impacted three trees with the front plane. V1 was towed for damages. The driver of V1, a seventy-one year old female, was alone in the vehicle and driving to a casino from home. This driver had been driving for about one hour and thirty minutes at the time of the crash. This driver is taking an unknown medication for a heart condition. This driver sleeps for nine hours a night and also takes a two-hour nap every day. This driver had napped before this trip. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in opposite direction. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: inadequate evasive action.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate evasive action, e.g. braking only, not braking and steering

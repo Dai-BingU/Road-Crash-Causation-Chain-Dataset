@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the early evening hours in the five southbound lanes of a divided ten-lane interstate highway. Both vehicles were traveling southbound in lane four, on a straight, level, dry concrete roadway. Traffic ahead was congested and backed up from a previous vehicle fire. The weather was clear, dry, and it was dark with overhead street lights. The posted speed limit is 97 kmph, or 60 mph. Vehicle one (V1), a 1995 Mazda B-2300 Pickup, was traveling southbound in lane four at a speed lower than the posted speed limit. The driver stated that he was following vehicle two (V2) at a distance of 2-3 car lengths and that traffic stopped suddenly. The driver applied the brakes without lockup but did not have time to stop, impacting with the rear of vehicle two. Both vehicles came to rest in lane four, facing southbound. The restrained driver of V1 was not injured and V1 was towed due to damage. V2 was a 1996 Chevrolet ½ ton K-1500 Suburban that was traveling southbound in lane four. The driver stated he was stopped for 3-4 seconds prior to being impacted in the rear by V1. The restrained driver was the sole occupant of this vehicle, and was not injured. V2 was not towed due to damage and was driven from the scene. The driver of V1 was a 29-year-old male who had been awake for 14 hours and 17 minutes after having 8 hours of sleep the night before the crash. He works an average of 4.5 hours per day and it had been two days since his last day off. He stated that he was following the forward vehicle and looking straight ahead with no distractions at a distance of two to three car lengths, about 10.7 meters (35 feet). The driver of the forward vehicle claimed to have been stopped 3-4 seconds prior to impact. At the speed he said he was traveling, the driver of V2 would need a minimum stopping distance of 43.3 meters (142 feet) in order to avoid a stopped vehicle forward if his vehicle. During the vehicle inspection of V1, it was found that all of the tires were under inflated- some at nearly 1/2 the recommended tire pressure. Under inflated tires would increase the vehicle's stopping distance. There was also the factor of congested traffic for both drivers. The critical pre crash event for V1 was coded: other vehicle in lane, other vehicle stopped. The critical reason for the critical event was assigned to the driver of V1 and coded as a driver related factor: too fast for conditions to be able to respond to unexpected actions of other road users. The condition was specified as: forward vehicle stopped due to congested forward traffic caused by another vehicle on fire in travel lane. The driver of V2 was a 47-year-old male who was on his way home from work. He drives the route daily and had been driving for 32 minutes at the reported time of the crash. He was stopped in traffic and was looking straight ahead and did not notice the vehicle coming up behind him until the impact occurred. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical event was not coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance, Traffic, Vehicle present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

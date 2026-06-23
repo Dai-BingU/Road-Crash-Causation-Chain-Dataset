@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, five-lane, straight, level, bituminous urban roadway with a posted speed limit of 56 kmh (35 mph) where it is intersected by a driveway from a bank. The driveway is two-way, two-lanes, straight, level, bituminous with an un-posted speed limit of 40 kmh (25 mph). Conditions at the time of the weekday afternoon crash were daylight, cloudy and dry and the traffic in the area of the crash was congested. V1, a 1994 Dodge Intrepid ES 4 door sedan driven by a 17 year-old female on her way to work, was exiting the bank to turn left onto the road. The driver stated that she was stopped in the driveway for 1-2 minutes waiting for traffic to clear. Non-contact vehicles westbound in lane one stopped and waved for the driver of V1 to proceed. The driver looked right, left and then straight and pulled out of the bank driveway. The left front of V1 was struck by the front of V2 in lane two. The driver could not see vehicles in lane two due to traffic. V1 rotated clockwise after impact and came to rest partially in lanes two and three facing southwest. V1 was towed from the scene due to damage. The fully restrained driver of V1 refused medical treatment. V2, a 1990 Oldsmobile Cutlass Ciera SL 4 door sedan driven by a 35 year-old male, was traveling 40 kmh (25 mph) westbound in lane two, after picking his two sons up from school. The driver of V2 stated that he could not see V1 due to the traffic stopped in lane one. The driver braked in an attempt to avoid the crash. Following the impact, V2 rotated counterclockwise and came to rest partially off the road on the south side facing south. V2 was towed from the scene due to damage. The driver of V2 was transported to a local trauma center due to injuries. The 35 year-old female in the front right, the 9 year-old male in the second seat right side, and the 7 year-old male in the second seat left side, were treated on the scene. All occupants of V2 were fully restrained. The Critical Precrash Event coded to the driver of V1 was 'this vehicle turning left at intersection.' The Critical Reason for the Critical Event coded was 'driver related factor-turned with obstructed view.' A Contributing Factor coded to this driver was 'inexperience as she had been driving for only 2 years, and 'late for the start of her work shift.' Another contributing factor was inadequate surveillance, failed to look to side. The Critical Precrash Event coded to the driver of V2 was 'other vehicle encroachment from driveway, turning into opposite direction.' An Associated Factor coded for this driver was the 'fair condition of the equipment' on V2. Contributing Factors coded to both drivers were site line restrictions for the non-contact vehicles stopped in lane one, traffic congestion in the area, impending problem masked by traffic flow and low tread on the front tires.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Stress/Emotion, Drugs, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Driver Physical, Roadway, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

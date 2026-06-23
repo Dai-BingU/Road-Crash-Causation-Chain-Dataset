@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This late-night, two-vehicle crash occurred on a two-way, two-lane, not physically divided roadway. The posted speed limit was 56kph (35mph) and there were no atmospheric conditions at the time of the incident. The gradient for both vehicles involved was level. No traffic control devices were associated with this crash. Vehicle one (V1) was traveling eastbound and had just negotiated a right curve. For unknown reasons, V1 partially left the right side of the roadway and overcompensated the vehicle when trying to return. This caused V1 to spin laterally in a counterclockwise direction. After loosing control of the vehicle, the passenger side of V1 made contact with the front of vehicle two (V2), which was traveling in the opposite direction. The impact caused V1 to spin in a clockwise direction, approximately 180 degrees, before coming to final rest entirely off of the roadway on the property of a nearby house. After colliding with V1, V2 spun clockwise, also approximately 180 degrees, before coming to rest partially off of the roadway on the same property as V1. The travel speeds of both vehicles could not be determined. All three occupants involved were airlifted to nearby hospitals due to injuries. Unfortunately, the interviews of the drivers could not be obtained. Therefore, some pertinent information could not be acquired, thus giving an incomplete synopsis of events. There was however, some witness information given to the officers that help complete the scenario. According to a witness that was traveling ahead of and in the same direction as V1, V1 had been tailgating the witness before the crash took place. V1 then attempted to pass the witness in a no-passing zone on the left side of the witness's vehicle, preceding the right curve in the roadway. After passing the witness, V1 tried to get back into the eastbound lane, but apparently had taken the turn too hard and at a rate of speed that was considered unsafe. Subsequently, V1 slightly left the right side of the roadway and overcompensated his vehicle to the left, causing him to spin laterally in a counterclockwise motion. With no control of the vehicle, V1 could not avoid colliding with V2, which was traveling in the westbound lane, approaching the left curve. The Critical Precrash Event for V1 was coded as: this vehicle traveling, over the lane line on the left side of the travel lane. The Critical Reason for the Critical Precrash Event for V1 was coded decision error, too fast for curve. The Critical Precrash Event for V2 was coded as: other vehicle encroachment, from opposite direction, over left lane. The Critical Reason for the Critical Precrash Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Alcohol, Decision, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

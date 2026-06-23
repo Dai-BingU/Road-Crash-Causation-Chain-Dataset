@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lane of a two-lane roadway with a T-intersection. Conditions were daylight with cloudy skies and rain in the morning on a weekday. The posted speed limit was 72 kmph (45 mph). V1 was a 2003 Acura 3.2 TL sedan traveling eastbound in the right lane approaching a T-intersection with a stop sign. V2, a 1993 Ford Aerostar minivan, was traveling southbound in the right lane approaching the T-intersection. V1 made a left turn at the stop sign and the front of V2 struck the left front corner of V1 in the southbound lane. V1 spun clockwise and came to final rest facing westbound. V2 came to final rest facing southbound. V1 was driven by a 26-year-old male who was injured but refused medical treatment. He stated that he was stopped at the stop sign for several seconds, looked both ways then proceeded to turn left and did not see V2 at all. He stated that his windshield and windows were foggy and this may have contributed to the crash. V1 was towed due to damage. The Critical Precrash Event for V1 was this vehicle turning left at the intersection. The Critical Reason for the Critical Precrash Event was a recognition error; inadequate surveillance; looked but did not see. Associated factors coded to this driver include a vehicle condition related factor; view obstruction related to condensation build-up on the interior glazing and a weather related factor; rain. The driver is familiar with the roadway and is comfortable with his vehicle. He was wearing glasses for this myopic vision. V2 was driven by a 25-year old male who was transported to a local hospital with moderate injuries. He stated that he was traveling southbound in the right lane and saw the other vehicle sticking out of the intersection then seconds later the vehicle pulled out in front of him. The driver of V2 locked up the brakes but was unable to avoid V1. The front of V2 struck the left front corner of V1 in the southbound lane. V1 was towed due to damage. The Critical Precrash Event for V2 was the other vehicle encroachment from the crossing street, turning into the same direction. The Critical Reason for the Critical Precrash Event was not coded to this driver. Associated factors coded to this driver were vehicle condition; headlights were not on and a weather related factor; rain.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Surveillance, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

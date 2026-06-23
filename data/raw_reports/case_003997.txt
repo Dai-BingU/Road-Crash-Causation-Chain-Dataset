@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of a weekend on the right (eastern) roadside of divided four-lane highway. The north/south highway consisted of two lanes in each direction divided by grass median and featured a posted speed limit of 76kmph (45 mph). The bituminous roadway was curved left slightly (radius of 750m and a super elevation of three percent) in the northbound direction. The right (east) edge of the northbound lanes was bordered by a ditch that had a -30% grade and was over 30meters wide (at the run off road point). Along the west edge of the ditch (within 5 meters of the east road edge) there were highway lights on plastic poles. The ditch terminated at a private drive with a +38% grade leading to the driveway. The edges of the driveway were curbed. On the north side of the driveway the ground was level for about twenty meters where it fell away at a -21% grade into a storm drain. Conditions were dark, but lighted and there were adverse atmospheric factors. V1, a 1995 Ford Probe, was northbound negotiating the curve of the roadway when it departed the right side of the road and traveled partially down into the ditch and struck a light pole. It continued northbound in the ditch until it ramped out of the ditch at the driveway and hit the curb on the north side of the drive where the undercarriage impacted the curb. It then traveled further north in the grass until it hit the embankment at the drainage ditch and came to rest facing north in the ditch. V1 was towed from the scene. V1 was driven by a belted forty-four year old male who was believed to be on his way to his way to a friend's house. He was transported to a local trauma center for treatment of incapacitating injuries. The driver stated in his interview that he didn't remember anything from that day after the morning until he woke up in the hospital. He was suffering from a degenerative spinal disk condition, which was treated by prescription painkillers (side effects of drowsiness and fatigue). The Critical Precrash Event for V1 was coded this vehicle traveling, off the right side of the road. The Critical Reason was coded as a driver related factor, other critical non-performance error (driver lost consciousness due to medication and fatigue). The driver's medication and the fact that he was fatigued prior to the crash were coded as associated factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other critical non-performance (specify) :

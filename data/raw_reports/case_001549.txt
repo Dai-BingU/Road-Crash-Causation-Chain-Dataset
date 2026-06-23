@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of a four-lane north/southbound undivided roadway with a four-lane east/westbound roadway divided by a painted gore. There were two lanes in each direction of each road. The east/westbound road was dry, straight, level, asphalt. The north/southbound roadway was dry, level, asphalt with a slight curve to the right (radius of curvature of 302m, no super-elevation) for southbound traffic. Lane one southbound was marked as a right turn only lane, Lane two southbound was marked as a left turn only lane. Traffic was controlled by over-hanging stop and go traffic control signals without pedestrian control. The posted speed limit was 72 kmph (45 mph). The crash occurred on a weekday afternoon under clear, sunny skies with moderate traffic flow. V1, a 2000 Ford Focus four door with one occupant was traveling westbound in lane two. V2, a 2003 Land Rover Discovery four door SUV with one occupant was turning left from southbound lane two to eastbound lane two. After being stopped V2 turned left across the path of V1. In the intersection, V1's front right corner struck the front left of V2. V1 yawed to the left and came to rest facing southwest about 10m south of the impact point. V2 rotated in a clockwise direction and came to rest about 6m south of impact facing southwest. Both vehicles were towed due to damage. V1, the Ford Focus was driven by a 62-year old female, who was coded for possible injury and transported to a hospital before researcher arrival. The driver did not respond to numerous phone calls from the researcher or to a written request for interview that the researcher personally delivered to the driver's home. Based on witness statements to police it was determined that V1 had a red light and apparently did not stop for the traffic control device. Police cited two witnesses who had been traveling southbound behind V2 who both stated that V2 had a green light. The traffic control was working properly. The Critical Precrash Event for V1 was "other vehicle encroachment from crossing street, turning into opposite direction". The Critical Reason for the Critical Event was not coded for this vehicle. An associated factor was assigned to this vehicle for driver behavior, decision - illegal maneuver, failed to stop for traffic control device based on the witnesses statements. V2, the Land Rover Discovery was driven by a 17-year old male who was not injured. The driver stated at the scene that he had been stopped more than 10 seconds at the southbound red light. He said when the light turned green for southbound traffic le looked but he did not see anyone coming so he started to turn left to the eastbound lanes. He added that he did not have time to respond when he saw V1 approaching him from the left and took no evasive actions before being struck. The Critical Precrash Event for V2 was "this vehicle traveling, turning left at intersection". The Critical Reason for the Critical Event was "inadequate surveillance, failed to look, looked but did not see". Associated factors were assigned to this vehicle for driver behavior, recognition, inadequate surveillance - looked but did not see based on driver's statement to researcher at the scene; and for driver performance/experience - inexperienced driver. He had only been driving two years.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+Vehicle 2:  Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

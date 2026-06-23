@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred within the intersection of a north and southbound two-way, five-lane, concrete roadway and an east and westbound two-way, three-lane concrete roadway, controlled by a traffic light that was blinking at the time. The conditions were clear, and no environmental factors were attributed to the crash. V1 was stopped by a blinking red light and was in the middle turning lane facing east waiting for traffic to clear so the driver could complete a left turn, and continue north. V2 was headed south in the second lane, approaching the intersection and had a blinking yellow light. The driver of V1 stated that she was stopped at the intersection for a long time (20 sec.) and was talking to her boyfriend who was seated in the passenger seat about the heavy north and south traffic. Driver stated that she saw an opening in the left northbound lane so she decided to try to complete here turn, the driver stated that she never looked to the left to see if traffic was clear. V1 was then contacted in the left side by the front of V2. The driver of V2 stated she was on her way to a chiropractors appointment, but had left her home with plenty of time so she was not in a hurry. She was traveling at around the posted speed limit, when V1 pulled out into the intersection. The driver stated that she didn't have time to try any evasive maneuvers and hit V1 in the left side. The critical event coded for V1 was this vehicle turning left at intersection. The critical reason coded for V1 was inadequate surveillance. The critial event code for V2 was other vehicle encroachment from crossing street, turning into opposite direction. The criticalreason was not code to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+Vehicle 2:  Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

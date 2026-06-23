@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred mid-afternoon on a clear day. The crash occurred on a two-lane bituminous roadway that runs east to west and is intersected by a private drive that runs north. Vehicle one, a 2000 Toyota Rav 4, was eastbound with one occupant. Vehicle one was attempting to make a left turn onto the private drive and head north. Vehicle two, a 2000 Ford Focus, was westbound with one occupant. Vehicle one's driver stated she was looking for a specific building and made her left turn and never saw vehicle two. Vehicle two attempted to avoid the crash with full brake application but was unsuccessful. The vehicles struck head on. Vehicle one was knocked around 180 degrees and came to final rest facing west in lane one. Vehicle two veered north and departed the roadway and struck a mailbox with its front plane. Vehicle two came to final rest facing NW. Both vehicles were towed due to disabling damage. The driver of Vehicle One refused treatment. The driver of Vehicle Two was transported to a local trauma center with incapacitating injuries. The driver of vehicle one is a 61-year-old female driver. She was concentrating on looking for a particular building at the time of the crash. The driver reported that she was in good physical health and that she took the prescription drug Nexium for heartburn related symptoms. She indicated that she had slept six hours in the previous twenty-four and felt rested at the start of this trip. She was not in a hurry and was very comfortable driving this vehicle, although she rarely drove on this particular roadway. The driver of vehicle two is a 21-year-old female driver. She reported that she did see Vehicle One making a left turn in front of her immediately before the two vehicles collided. The driver reported that she was in good physical health and was not taking any type of medication. She indicated that she had slept eleven hours in the previous twenty-four and felt rested at the start of this trip. She was not in a hurry, was very comfortable driving this vehicle and drove this roadway daily. The critical pre-crash event for Vehicle One was coded as: This vehicle traveling; turning left at intersection. The critical reason was coded as: driver related factor; inadequate surveillance (failed to look). The critical pre-crash event for Vehicle Two was coded as: Other Motor Vehicle Encroachment; from opposite direction- over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

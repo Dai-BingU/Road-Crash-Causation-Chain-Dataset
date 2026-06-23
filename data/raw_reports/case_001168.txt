@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of two similar roads, both being two-lane, two-way, non-divided, rural asphalt roadways. The conditions at the time of the crash were clear, and the roads were dry. The roadway had just been tarred with gravel put down over the top about a week ago. V1 a 1999 Chevy Silverado was planning to continue to travel east after he completed his stop. The driver of V1 stated that he stopped, looked both ways did not see any vehicle coming, and then he proceeded to cross the road. The driver then stated that he saw the other vehicle at the last second but it was to late to avoid the impact. V2 a 1998 Ford Taurus was heading southbound approaching the intersection intending to go straight. The driver of V2 stated that he saw the other vehicle stopped at the stop sign, and thought he would not pull out in front of him. The driver of V2 also stated that at the last moment V1 tried to cross in front of him, he said that he steered to the right and hit the brakes but there wasn't enough time to avoid the collision. The critical pre-crash event coded for V1 was this vehicle traveling (crossing over passing through an intersection. The critical reason coded for V1 is recognition error (looked but did not see). The critical pre-crash event coded for V2 was other motor vehicle encroachment from crossing street, across path.. V2 was not given a critical reason.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

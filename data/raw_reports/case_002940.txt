@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This was a four-vehicle rear-end configuration crash that occurred in the #2 eastbound lane of an urban, two-way, five-lane, dry, straight, level, asphalt roadway. The roadway consists of two westbound and two eastbound lanes that are separated by a continuous left turn lane. This crash was intersection related. The intersection near where the crash occurred is controlled by a traffic light on colors. The intersection is a T-intersection. The speed limit on the roadway where the crash occurred is posted 56 kmph (35 mph). There were no environmental factors that contributed to this crash and there were no obstructions. The weather at the time of the crash was clear. The crash occurred just after noon during hours. Vehicle one (V1), a 2006 Chevrolet Cobalt 4 door, was traveling eastbound in the #2 lane when it struck the rear of vehicle two (V2). V1 came to a rest in the #2 lane facing east. The driver, a 30 year old female, stated that she was traveling eastbound to the rear of V2 when the traffic was stopped for the light. The driver also stated that she thought that V2 had begun to move and she then accelerated V1. She misjudged the speed of the vehicle in front and struck that vehicle. The V1 second row right passenger, a 4-year-old female, was restrained in a Child Passenger Safety Seat. V1 came to final rest facing east in travel lane. V1 was towed due to damage. V2, 1999 Dodge Intrepid 4 door, was stopped in the eastbound #2 lane when it was struck from behind by V1. V2 was propelled forward and struck the rear of vehicle three (V3), which was also stopped in the traffic lane. The driver, a 60-year-old male, stated that he was stopped in the eastbound #2 lane for approximately 5 seconds about one car length behind V3 before he was struck from behind. V2 came to final; rest facing east in travel lane. V2 was towed due to damage. V3, a 2000 Ford Windstar, was stopped in the eastbound #2 lane for about 3 seconds before it was struck from behind. The vehicle went forward and struck the rear of vehicle four (V4). The driver, a 78-year-old male, stated that he was stopped behind V4 about 10 feet when he was hit from behind. The driver did not see the other vehicles behind him prior to the crash. V3 came to rest facing east in travel lane. V3 was driven from the crash scene. V4, a 1997 Ford F-250, was stopped for the traffic light about the third car in line behind the lead car at the light. The driver, a 44 year old male, stated the he was stopped in the #2 eastbound lane when he heard cars hitting each other. He looked in his rear view mirror and saw V3 strike his vehicle. The driver stated that he saw V3 stopped behind his vehicle close. He stated that he could not see the front of the hood over the top of the tailgate of his truck through the rear view mirror. The driver stated that just prior to hearing the cars crash, the light had turned green but the traffic in front of him had not started moving yet, because the intersection was still occupied by other vehicles. V4 came to final rest facing east in the travel lane. V4 was driven from the crash scene. The critical pre crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason was coded to V1 as a driver decision factor: false assumption of other's actions. The driver thought that the vehicle in front of her was moving and this caused her to misjudge the speed and gap distance. The critical pre crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. V 3 and V4 were not involved in the first harmful event. The critical reason was not coded to these vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Traffic present problem 
+Vehicle 2:  Driver Inexperience, Traffic present problem 
+Vehicle 3:  Driver Physical, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred mid-afternoon during daylight hours. The crash occurred in the intersection of a three lane, undivided county road running north and south with westbound off-ramp controlled by a stop sign and on-ramp running east to west at street level. All four legs of the intersection are asphalt and have paved shoulders. The intersection is level, bituminous with no lighting. The weather was clear, dry and it was daylight. The speed limit for north/south traffic is 89 kmph (55 mph). The posted speed limit for the off-ramp is unknown. Vehicle one (V1), a 2003 GMC Savana 3500 one-ton van, driven by a 49 year-old male with one passenger, was traveling westbound on the two lane, one way, undivided exit ramp approaching a stop sign at the intersection. V1 for unknown reasons continued past the stop sign and entered the intersection. Vehicle two (V2) was a 1998 Peterbilt dump truck pulling a dump pup trailer. V2 was driven by a 31 year-old male was traveling northbound entered the intersection. The front end of V1 struck the tongue of the pup dump trailer being pulled by V2. On impact the right front corner of the pup trailer struck the left side of V1 at the driver's door. V1 continued to rotate while traveling toward the northeast corner of the intersection. The front wheel of V1 struck the curb edge, jumped the curb while still rotating and came to rest off the roadway east of the shoulder and north of the intersection facing west. V1 was towed due to damage. V2 continued northbound and made a controlled stop on the east shoulder approximately 158 meters (518 feet) north of the intersection. V2 was driven from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, unknown travel direction. Critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). Associative factors for vehicle one were: Illegal maneuver, ignoring stop sign; and a sight restriction to the left. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, intended path not known. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Unknown
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Unknown travel direction
+ 2 ：Other Vehicle Encroachment- From crossing street, intended path not known
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

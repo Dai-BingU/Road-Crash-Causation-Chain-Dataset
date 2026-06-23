@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the northbound lanes of a three-lane, urban roadway with a concrete median. There were two northbound lanes, a north-facing left turn lane, and two southbound lanes. The intersection was signal-controlled with pedestrian lights and crosswalks. The roadway had a posted speed of 72 kmph (45 mph) and a 1% downhill grade in the northbound direction. The westbound approach had a 2% uphill grade. Conditions were daylight and dry with clear skies. The setting was midday on a weekday. Vehicle one (V1), a 2001 Saab 9-5 sedan, was stopped facing north at the intersection waiting to turn left. Vehicle two (V2), a 1999 Dodge Intrepid sedan, was northbound in lane two approaching the intersection where it intended to go straight. As the light changed V1 began its left turn at the same moment V2 entered the intersection. The front of V1 struck the right side of V2. Both vehicles traveled a short distance and came to rest in the intersection north of impact. The driver of V1, a 56-year old female, was treated on scene for unknown injuries. She refused to be interviewed both on scene and on the phone several weeks after the crash. The investigating officer estimated her travel and impact speeds to be 40 kmph (25 mph) and 48 kmph (30 mph), respectively. The Saab sedan was towed to the owner's residence due to damage. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at an intersection. The Critical Reason was coded as a false assumption of other actions. There were no known associated factors that could be coded to the driver, as an interview could not be obtained. The driver of V2, an 18-year old female was uninjured in the crash. She stated that she was heading from school to work when V1 pulled out into the intersection from the right. She braked and swerved left but could not avoid the collision. Her estimated travel and impact speeds were 72 kmph (45 mph) and 64 kmph (40 mph), respectively. The Dodge sedan was towed due to damage. The Critical Precrash Event for V2 was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Reason was not coded to this vehicle. Associated factors coded to this vehicle include inadequate surveillance and an illegal maneuver (failure to stop for a traffic control device).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

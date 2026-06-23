@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of weekend in the middle of a four-way urban intersection. The intersection consisted of an east/west, five-lane roadway (with the center lane serving as a left turn lane) and a north/south, two-lane roadway. The bituminous roadways were dry, straight, and level, with a posted speed limit of 56kmph (35 mph). Traffic flow was normal as there were no adverse atmospheric conditions at the time of the crash. V1, a 2005 Chevy 1500, was westbound in lane three approaching the intersection where it intended to turn left. V2, a 1979 Oldsmobile Cutlass, was eastbound in lane two approaching the same intersection where it intended to go straight. As V1 made its turn and entered the intersection, the left front corner struck the left side of V2. The force of the impact caused V2 to roll right one-quarter turn as it departed the roadway and strike a tree before coming to final rest. V1 came to final rest in the middle of the intersection near the point of impact. V1 was driven by a 58-year-old male who was returning home after a trip to the store. He stated that he saw V2 approaching, but thought he had enough time to complete his turn. He sustained non-incapacitating injuries and was transported for treatment. V1 was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at the intersection. The Critical Reason was a driver related factor, a decision error, misjudgment of gap or other's speed as he thought he would have enough time to turn. The driver received a ticket for failure to yield right of way when turning left. V2 was driven by a 27-year-old male who had just picked up his vehicle from storage and was on his way to the car wash. He states V1 hit him as he tried to cross the intersection. The oversized rims and tires contributed to V2 rolling over. The driver was transported with minor injuries and V2 was towed due to damage. The Critical Precrash Event for V2 was coded other vehicle encroachment from opposite direction, over left lane line. The Critical Reason was not coded to this vehicle. There were no associated factors coded to V2 and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

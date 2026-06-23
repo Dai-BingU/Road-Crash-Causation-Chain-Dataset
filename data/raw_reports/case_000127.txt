@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a four lane urban roadway. The north/south roadway was divided by a curbed median. There were three lanes running north and southbound with lane four being a left turn only lane. The roadway was straight and level. The posted speed was 56kph (35mph). The crash occurred on a weekday afternoon. The conditions were dry and clear. Vehicle one was a 2003 Cadillac Deville that was traveling southbound in the left turn only lane. V1 was stopped waiting for traffic to clear to make a left turn into a car dealership's driveway. V1 stated that there was another car opposite of her waiting to also make a left. She stated that she inched out more into the intersection to see around the other vehicle that was also turning. When she thought she had enough clearance to complete the turn she went. As she made the left turn V2, a 1990 Toyota Corolla was traveling northbound in lane three going the speed limit when V1 was turning left in front of him. He slammed his brakes but was unable to avoid contact with the Cadillac. The Toyota made contact with the Cadillac on the right rear side panel causing the vehicle to rotate clockwise and make final rest facing westbound. The Toyota had moderate front-end damage and made final rest facing northbound. The Toyota left 8.5 meters of skid marks in lane three. V1 and V2 were towed due to damages. The driver of V2 was transported to the local hospital due to injuries. A 92-year-old woman who was on her way to drop her daughter off at the car dealership drove V1. She stated that she looked as she inched out into traffic to make the left turn but thought she had clearance to make the turn. She stated she never saw the Toyota traveling in lane three. She was not injured and her vehicle was towed right to the dealership that she was attempting to pull into. The Critical Pre-crash Event for V1 was this vehicle turning left. The Critical Reason for the Critical Pre-crash Event was a "driver error, looked but didn't see". An associative factor related to this driver was age related as she was 92-years-old. There were no other factors related to this driver. She was cited for causing the crash. In the drivers defense the police on scene stated that this particular intersection was a dangerous one as there has been numerous crashes. V2, the Toyota Corolla was driven by a 22 year-old male who was driving in lane three going the speed limit when he just stated that the Cadillac turned in front of him. He tried to slam the brakes but was unable to stop in time. It was noted during the vehicle inspection that the driver was not wearing a seatbelt, and there was a cracked windshield where his head made contact with the glass. He was transported due to injuries and his vehicle was towed due to damages. The Critical Pre-crash Event for V2 was "other vehicle encroachment from opposite direction over left lane line". The Critical Reason was "not coded for this vehicle". There were no associative factors related to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Surveillance present problem 
+Vehicle 2:  Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

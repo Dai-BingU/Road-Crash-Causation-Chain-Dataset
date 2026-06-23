@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the intersection of a two-way, five-lane, asphalt roadway and an asphalt driveway of a shopping plaza. A left turn lane divides the two-way traffic on the roadway. Traffic through the intersection is controlled exiting the driveway by a functioning stop sign, on the roadway traffic in uncontrolled, with a posted speed limit of 56kmph (35 mph). At the time of the crash traffic was light, and the weather was clear and dry. Vehicle 1 a 1989 four-door Pontiac Grand Am occupied by two people, was exiting the shopping plaza headed south attempting to turn left, when it entered the intersection and was struck by V2. Vehicle 2 a 1993 four-door Mercury Tracer occupied by only the driver was headed westbound in the left lane when V1 pulled in front of it from the driveway. The front of V2 contacted the left side of V1, after the initial contact both vehicles rotated slightly and the left side of V2 contacted the right of V1. The driver of V1 a 59 year-old female declined participation in this survey so it is unclear what was happening during the crash sequence. The driver of V2 a 19 year-old female stated that V1 looked to be trying to enter the left eastbound travel lane, but was unable to complete the turn. She stated that she saw V1 entering the roadway, and tried to avoid the crash by braking and steering to the left, but was unable to, and struck V1. The pre-event movement of V1 was coded as stopped in traffic. The critical event for V1 was coded as turning left at the intersection. The critical reason for this critical event is unknown, due to driver's unwillingness to participate in the survey. The pre-event movement for V2 was coded as going straight. The critical event for V2 was coded as other vehicle encroachment from a driveway, turning into opposite direction. No critical reason was coded to V2 .
+Name: Case Summary, dtype: object
+
+Output Text 1:
+
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

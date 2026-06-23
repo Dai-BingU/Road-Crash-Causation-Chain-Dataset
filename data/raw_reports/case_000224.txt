@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at a four-leg intersection in the westbound lane of a two-lane, rural roadway. The north and south approaches were controlled by stop signs. The roadway had a posted speed limit of 72 kmph (45 mph) and the southbound approach had a 3% uphill grade. The westbound approach had a 2% downhill grade. Conditions were daylight and dry with cloudy skies. The setting was late morning hours on a weekend. Vehicle one was a 2004 Toyota Camry sedan stopped facing south at the intersection. Vehicle two was a 1996 Nissan Maxima sedan traveling west negotiating a right curve. Both vehicles proceeded through the intersection. The left plane of v1 was impacted by the front plane of v2. Both vehicles traveled southwest coming to final rest partially off the roadway. The Toyota Camry (v1) was driven by a 61-year old male who was treated on the scene for possible injuries. He stated that he had been stopped for about 5 seconds before proceeding through the intersection, and could not see the oncoming vehicle due to roadway curvature. He estimated his travel and impact speeds to be 8 kmph (5 mph), as he did not have a chance to react. The sedan was towed due to damage. The Critical Precrash Event for v1 was this vehicle traveling crossing over the intersection. The Critical Reason was a Driver Related Factor of Inadequate Surveillance. No associated factors could be coded to this driver since he only gave a partial interview before refusing further questions. The Nissan Maxima was driven by a 28-year old female who was not injured. She stated that she was heading to church when v1 pulled across the roadway in front of her. She blew her horn and braked with lockup, but was unable to avoid collision. She estimated her travel and impact speeds to be 72 kmph (45 mph) and 64 kmph (40 mph) respectively. The sedan was towed due to damage. The Critical Precrash Event for v2 was other vehicle encroachment from a crossing street across the path of this driver. No Critical Reason was coded to this vehicle. The driver wears glasses for a nearsighted condition. She was currently unemployed at the time. She travels this roadway on a weekly basis.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

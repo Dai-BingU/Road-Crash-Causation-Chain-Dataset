@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, two-lane undivided roadway. This was a straight, level, asphalt road, with a posted speed of 48 kmph (30 mph). There were no traffic controls. Conditions were daylight on a weekday afternoon, with dry roads and cloudy skies. Traffic flow was interrupted by a parked semi-trailer that was occupying lane one (the right lane). V1, a Moffett forklift, was entering the roadway from the right roadside, traveling westbound. V2, a 1997 Ford Expedition, was traveling northbound in lane one. An unoccupied semi-trailer was parked, ahead of V2, in lane one. V1 was crossing the roadway from the front of the semi-trailer. As V2 approached the parked vehicle, the driver changed lanes into the oncoming traffic, in order to pass. At about the same time, V1 crossed northbound lane one, attempting to turn left into the southbound lane. The front of V1 made contact with the right side of V2. V2 was towed due to damage. V1, the forklift, was driven by a 40-year old male, who was not injured. He stated that he parked the semi-trailer in the roadway in order to unload palates of bricks. When he had finished, he went inside to have the delivery paperwork signed. Afterward, the driver indicated that he got back into the forklift carrying the palate grabber with the intention of driving it around to the back of the trailer in order to load it onto the truck. He said that when he got to the front of the truck, he looked and didn't see anything. He began to make a left turn around the front of the truck and that's when he saw the other vehicle in his path. The Critical Precrash Event for V1 was "this vehicle traveling, turning left". The Critical Reason for the Critical Event was an other decision error, turning with obstructed view. Even if the driver had looked in the required direction as he indicated, his view would have been completely obstructed by the parked semi-trailer. One associated factor for this driver was inadequate surveillance. The driver attempted to look, but could not see the approaching vehicle due to a sightline restriction. Another associated factor was the presence of the parked semi-trailer, which created a traffic flow interruption. V2, the Ford Expedition, was driven by a 37-year old female, who was not injured. She stated that she was on her way home from work. She was familiar with the route, proclaiming that she normally witnesses large trucks parked on that particular roadway. She said that she slowed down and changed lanes to pass the truck. As she was passing the truck, she saw V1 pulling out. The driver said she panicked, honking the horn to try to get the forklift to stop. She did not take any other avoidance actions, and was hit in the right side by V1. The Critical Precrash Event for V2 was "other vehicle encroachment, from crossing path, turning into opposite direction". The Critical Reason for the Critical Event was not coded to this vehicle. One associated factor for this driver was an internal distraction. It was thought that the driver might have been eating lunch inside the vehicle at the time of the crash. Another associated factor was performance related. The driver panicked. Additional factors included a sightline restriction and the presence of a traffic flow interruption.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Performance, Drugs, Roadway, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Passing or overtaking another vehicle
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other decision error (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

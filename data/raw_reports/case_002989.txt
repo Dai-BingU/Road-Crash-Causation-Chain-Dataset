@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This intersection related rear-end collision between three vehicles occurred during morning rush hour with no adverse weather conditions. Traffic signal device at the intersection was red at the time of collision. Roadway is two-way, divided, with three lanes of traffic in area of collision, straight, +3% grade, concrete, with a posted speed limit is 88 kmph (55 mph). On approach to the intersection and located in the median are two pole mounted flashing yellow lights with the warning sign: prepare to stop when flashing. The collision occurred between the sign and the intersection. Vehicle three (V3), a 2002 Mercury Cougar coupe occupied by a driver only, was traveling east in lane two with the intention of going straight. The vehicle was stopped behind other non-contact vehicles waiting for the traffic control signal to turn green. Vehicle two (V2), a 2004 Buick Rainer SUV with a driver only, was traveling east and was stopped behind V3. Vehicle one (V1), a 1994 Ford Tempo sedan occupied by a driver only, was traveling east in lane two behind V2. The driver of V1 was internally distracted and the front of V1 struck the rear of V2. V2 was propelled forward where the front of V2 struck the rear of V3. All three vehicles came to rest in lane two. V1 was towed from the scene while V2 and V3 were driven. The driver of V1 was transported to a local trauma center for treatment. The other two drivers were not injured. A 37 year-old female was driving V1 with the intention of going straight. The driver takes no medications for thyroid condition. She was commuting to work from home, had been driving for approximately 30 minutes and travels roadway daily. Driver was drinking coffee while on approach to intersection and attempted to put mug in center console area, but it spilled. Once the driver looked forward again, she realized traffic was stopped in travel lane and attempted to avoid collision by applying brakes, but avoidance maneuver was initiated too late. The critical pre-crash event for V1 is coded: other motor vehicle in lane: other vehicle stopped. The critical reason for the critical pre-crash event is coded as a driver related recognition error: internal distraction. V2, driven by a 52-year-old female, was traveling east (stopped behind V3) in lane two with the intention of going straight. The driver, who takes Lisinopril and Hydrochlorothiazide medication, is familiar with roadway, was commuting to work from home, and had been driving approximately 35 minutes when collision occurred. Driver did not perform any avoidance actions. The critical pre-crash event for V2 is coded as: other motor vehicle in lane: traveling in same direction with higher speed. The critical reason for the critical pre-crash event is not coded to this vehicle. A 37-year-old female was driving V3, was traveling east in lane two with the intention of going straight. She takes Armour Thyroid medication and is familiar with roadway. Driver was commuting to work from home and had been driving approximately 35 minutes when collision occurred. Driver stated she was stopped in travel lane when her vehicle was hit from behind. Driver was having a conversation on the telephone when collision occurred. The critical pre-crash event for V3 is coded as: other-not involved in first harmful event. The critical reason was not assigned to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance, Traffic present problem 
+Vehicle 2:  Drugs, Traffic present problem 
+Vehicle 3:  Cell Phone Use, Distraction, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

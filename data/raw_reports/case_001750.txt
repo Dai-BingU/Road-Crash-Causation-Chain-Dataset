@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary Case 02-2005-057 The crash occurred on a level two lane undivided roadway with a posted speed limit of 55 MPH (89 KPH). The weather was clear, the roadway dry and it was daylight at the time of the crash. Vehicle 1, a 1996 Honda Civic, was traveling east on the roadway behind Vehicle 2, a 2002 GMC Envoy. Vehicle 2 observes a non-contact vehicle in front of it slowing to make a left into a driveway. Vehicle 2 decelerates and is struck in the rear by the front of Vehicle 1. Vehicle 2 is pushed forward and drives off the road to the right coming to rest facing east off the south shoulder. V1 came to rest facing east off the south shoulder. Vehicle 1 was towed due to damage and Vehicle 2 was driven from the scene. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. The 1996 Honda (Vehicle 1) was driven by a belted 16-year-old male who was transported, but received no injuries. The belted 16-year-old male right front seat passenger was transported, treated and released for minor bruising. The unbelted 12-year-old male in the right rear seat was transported, but received no injuries. Driver refused to provide any information regarding the crash. He did state to the police “he took his eyes off the road which caused the collision”. Police also indicated driver inexperience and passenger distraction as contributing factors to the crash. The Critical Precrash Event for Vehicle 1 was other vehicle in lane traveling in same direction while decelerating. The Critical Reason for the Critical Precrash Event was coded as a driver related factor: internal distraction This was chosen because there were several associated factors: driver inexperience, passenger distraction, and his statement that he had taken his eyes off the road. The 2002 GMC (Vehicle 2) was driven by a belted 48-year-old female who was not injured. The belted 75-year-old female right front passenger was also not injured. The driver stated that she was slowing down for a car ahead of her that was turning left. She said she never saw him, only heard the squealing and felt the impact, which sent her a ways down the road. She took no avoidance maneuvers. She advised that she was on her way to an appointment in town, but was not in any hurry. Additional information was not obtained because the driver could not be re-contacted. The Critical Precrash Event for Vehicle 2 was other vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Precrash Event was not coded to this vehicle and this vehicle was not thought to have contributed to the crash. No other associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

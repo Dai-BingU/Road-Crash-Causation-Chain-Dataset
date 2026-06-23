@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in a 4-way intersection controlled by traffic signals in all directions. Both roadways were undivided with two lanes and a posted speed limit of 40 kmph (25 mph). It was slightly overcast at the time of the incident, and the roadway was wet from a previous rainfall. The gradient at this particular location was determined to be level. Vehicle one (V1), a gold 2000 Nissan Altima, was traveling east at approximately 35 mph (56 kmph) intending to continue through the intersection. Vehicle two (V2), a white 2001 Sterling street sweeper, was traveling north at approximately 10 mph (16 kph) also intending to continue straight through the intersection. Vehicle three (V3) was a red 2001 Dodge Durango legally parked on the side of the eastbound roadway. As V1 passed through the intersection, the front side of the vehicle made contact with the left rear of the street sweeper. After the initial impact, V1 continued forward and made contact with the back of V3 before coming to final rest. The only vehicle that had to be towed from the scene as a result of damage was V1. The driver of V1, a 26-year old female, was taken to the hospital for possible injuries. After numerous attempts, the interview with the driver could not be obtained. As described on the Police Accident Report (PAR), V1 attempted to avoid the collision by slamming the brakes. This unfortunately was not enough to prevent the crash. It was also revealed on the PAR that there were witnesses present at the time of the incident. They claimed that the light had turned green for north/south traffic. With this information, the Critical Pre-crash Event for V1 was coded as crossing over (passing through) intersection. The Critical Reason for the Critical Pre-crash Event was coded as an illegal maneuver, because V1 apparently went through a red light. Associated factors coded to this driver include speeding and aggressive driving. Some unfortunate information about the driver of V2, a 56-year old male, was disclosed to the researcher of this case. He unexpectedly passed away approximately one month after the incident. He was not taken to the hospital after the crash, so no medical reports were available. No official reason was given as to the cause of death. It is the opinion of the researcher that his death was in no way related to the crash. The Critical Pre-crash Event coded to V2 was other vehicle encroachment from crossing street, across path. The Critical Reason was not coded to this vehicle. No associated factors could be coded to the driver of V2 due to the lack of an interview. Since V3 was legally parked on the side of the road, no pre-crash information was required. There was only minor damage to the rear bumper of the vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

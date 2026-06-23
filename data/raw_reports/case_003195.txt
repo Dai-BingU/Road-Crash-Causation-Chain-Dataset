@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This four-vehicle crash occurred a little past noon on a physically divided, straight, dry, bituminous, seven-lane state highway at an interchange with another highway. The highway runs north/south at the location. Northbound traffic consists of two through lanes and a left hand turn lane. Just south of the crash there is a on-colors with pedestrian traffic signal. Also, just north of the crash is a on-colors traffic signal with pedestrian signals. The posted speed limit is 72 kmph (45 mph) and there were no adverse atmospheric conditions present at the time. Vehicle one (V1), a 1994 Cadillac Deville Concours sedan driven by a 76 year-old male, was traveling northbound in lane one. Vehicle two (V2), a 1987 Jaguar XJ6 sedan driven by a 48 year-old female with one passenger, was stopped in lane one behind traffic that was stopped for the northernmost light. Vehicle three (V3), a 2001 Nissan Maxima sedan driven by a 63 year-old male, was also stopped in lane one, facing north, in front of V2. Vehicle four (V4), a 1982 Buick Regal coupe driven by a 18 year-old male with two passengers, was also stopped facing north, in front of V3. V1 was unable to stop and the front of V1 contacted the rear of V2. V2 was pushed forward and its front contacted the rear of V3. V3 was pushed forward and its front contacted the rear of V4. All four vehicles came to rest near the point of impact, facing north in lane one. V1 and V2 were towed due to damage. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: type of driver error unknown. There was no driver interview with this driver. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. V3 and V4 were not involved in first harmful event. The critical reason was not coded to either of these vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+Vehicle 3:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

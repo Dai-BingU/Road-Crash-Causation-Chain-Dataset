@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred southbound lane of a two-lane roadway. It was a mid-week night after dark with the streetlights on. There were overcast conditions. The posted speed was 59 kmph (35 mph). The roadway was dry, level asphalt. Vehicle #3 had slowed to watch for his street to turn onto. V#2 slowed as well noting the taillights of V#3. V#1 was traveling at a constant velocity and did not see the slowed vehicles until it was too late. V#1 contacted V#2's back pushing V#2 into V#3. V#3 rolled forward about 50ft. coming to final rest in it's original travel lane. V#2 came to final rest at its point of impact in its original travel lane. V#1 rolled a few feet to final rest in its original travel lane. Vehicle #1 a 1995 Ford Taurus was driven by a 19 year-old male who is in good health but takes medication for allergies that has possible side effects of drowsiness and fatigue. He had just left home to go to work. At the time of the crash he states that he had just picked up his cell phone to call work. He stated that he was not in a hurry or late for work. He suffered no injuries and his vehicle was towed from the scene due to damage. The Critical Precrash Event for V#1 was coded other vehicle in lane: traveling in same direction while decelerating. The Critical Reason for the Critical Event was coded: recognition error: internal distraction (driver had just picked up his cell phone and was dialing at the time of the crash). An associating factor was fatigue as this driver stated that he only had 2.5hrs of sleep in the last 24hrs due to his work and school schedule. Vehicle #2 a 1996 Ford Escort was driven by a 43 year-old male who is in good health. This driver claimed that he did not see any headlights coming from behind him. He stated he was slowing down behind V#3 when he was rear-ended by V#1. The driver of V#2 was uninjured but the passenger was transported to a treatment facility with possible injuries. V#2 was towed due to damage. The Critical Precrash Event for V#2 was coded: Other vehicle in lane: Traveling in same direction with higher speed. There was no critical reason coded to this vehicle. Vehicle #3 a 2001 Pontiac Bonneville was driven by a 75 year-old male who claims to be in good health but does take several medications due to a heart bypass and angina attacks. He also wears hearing aids. He stated that he had slowed down because he does not see as well at night as in the day and did not want to pass his street (trees block it). The driver suffered possible injuries but was not transported. V3 was driven from the scene. The Critical Precrash Event for V#3 was coded: Other: not involved first harmful event. There was no Critical reason coded to vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Cell Phone Use, Distraction, Driver Fatigue, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+Vehicle 3:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

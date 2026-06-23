@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle daytime collision occurred shortly past noon. The collision occurred at an intersection comprised by a west/east roadway and a north/south roadway. Both roadways are two-way, two lane and bituminous. The north/south roadway is controlled by a stop sign. Both roadways were dry, level, free of congestion, poor weather conditions, and/or road deficiencies at the time of the collision. Both roadways are designated as 25 mph (40 kph) zones. Vehicle one (V1), a 2005 Chevrolet Impala, driven by a 28 year-old male was traveling southbound. Vehicle two (V2), a 2001 Chevrolet Monte Carlo, driven by a 29 year-old male with three passengers was traveling eastbound. As the vehicles entered the intersection the front of V1 impacted the left side of V2. V1 rotated counterclockwise continuing in a southeast direction. The back of V1 end swiped a stop sign on the southeast corner of the intersection. V1 came to rest up on the southeast corner facing northwest. V2 continued after impact in a southeast direction departing the east side of the roadway. The front of V2 impacted a chain link fence and the left side of V2 impacted a small tree. V2 came to rest up against the stoop of a house facing southeast. Both vehicles were towed due to damage. The pre-event movement for V1 coded going straight, category this vehicle traveling crossing over passing through intersection. Critical reason for the critical event driver related factor "Illegal maneuver". (disregard of traffic signal). The pre-event movement for V2 coded going straight, category other vehicle encroachment from crossing street across path. Critical reason not coded to this vehicle. An associative factor for this driver of V1 would be driver related experience - uncomfortable with surrounding traffic densities.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway present problem 
+Vehicle 2:  Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

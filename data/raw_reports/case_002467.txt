@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary V1, a 1995 GMC Van was traveling northbound on a three lane, one way, wet, concrete roadway in dark-lighted conditions. . V2 was a 1996 GMC Van who was traveling in lane two on the same roadway. V1 was in lane three when he noticed the cars ahead of him were slowing down. V1 changed lanes to the right, but then noticed that the cars in that lane were also slowing down. He applied the brakes but could not avoid contacting its front to the back of V2. V2 then spun around counterclockwise and contacted its left side to V1's front. V2 then contacted its left side to a light pole before coming to final rest on a snow bank up against the barrier wall. The driver of V1 was a 42-year old male who had reported that he had been traveling between 82-97kmph (51-60mph) prior to the crash. He had no health related problems and had taken no medication prior to the crash. He was rested and traveling home. He was wearing his prescribed lenses that corrected a myopic (near-sighted) condition. He was uninjured in the crash and refused treatment. The Critical Precrash Event for the driver of V1 was other motor vehicle in lane, traveling in same direction while decelerating. The Critical Reason for the Critical Precrash Event was a decision error, following too closely to respond to unexpected actions, because he could not avoid hitting the vehicle in front of him so he attempted a lane change. The driver of V2 was a 33-year old male who had reported that he had been traveling between 98-112kmph (61-70mph) prior to the crash. He had no health related problems and had taken no medication prior to the crash. He was rested and taking members of the church home. He was wearing his prescribed lenses that corrected a hyperopic (far-sighted) condition. He was uninjured and refused treatment. The Critical Precrash Event for the driver of V1 was other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2 and he was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Speed/Distance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

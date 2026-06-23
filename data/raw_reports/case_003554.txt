@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred during the hours of daylight on a dry, asphalt road. The east-west roadway is a five-lane non-divided two-way city street. The north-south road is a two-lane non-divided city street. The north-south roadway is controlled by a stop sign. V1, a 2002 Chevy Cavalier, was stopped in the northbound lane, preparing to turn left. As V1 proceeded to pull out into the roadway it was struck on the left side by V2, a 1989 Oldsmobile Delta 88 that was traveling east bound in lane two. V1 was driven by a 50 year-old female in good health on an aspirin regime. The driver of V1 stated that she looked both ways, and did not see any vehicles coming. She assumed it was clear to proceed. The driver suffered minor injuries and was transported for treatment and V1 was towed due to damage. V2 was driven by a 58 year-old female in good health and wearing his prescription lenses that corrected a myopic (near-sighted) condition. The driver of V2 stated that the driver of V1 pulled out in front of her, she then stated that there were vehicles that were stopped in the right lane and that she did not see V1 until it was almost to late. The driver of V2 stated that she locked up the brakes but could not avoid hitting V1. The Critical Precrash Event coded for V1 was this vehicle traveling, turning left at an intersection. The Critical Reason coded for V1 was a recognition error, inadequate surveillance. V1 also proceeded into the roadway with an obstructed view, a truck that was in the right lane. Another associated factor was driver inattention, as the driver was not focused on the task at hand. The Critical Precrash Event coded for V2 is other motor vehicle encroachment, from crossing street, turning into opposite direction. The Critical Reason was not coded to this vehicle. Associated factors include a recognition factor as the impending problem was masked by traffic flow, which cause a sightline obstruction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

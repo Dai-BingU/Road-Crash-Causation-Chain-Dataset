@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at a four legged intersection controlled by an on-colors traffic signal. Conditions at the time of the evening, weekday crash were clear and dry at the unlit intersection. V1, a 2003 Mercury Mountaineer driven by a 70 year-old female was southbound on a two-way, 3-lane, straight, level, bituminous road with a posted speed limit of 89 kmh (55mph), stopped at a red traffic signal. The driver of v1 turned left on the red signal at the intersection to proceed east onto the other road, and was struck by v2. V2, a 2002 Peterbuilt 357 CBE tractor trailer semi-truck pulling an empty trailer, driven by a 44 year-old male, was westbound on a two-way, 4 lane road. The straight, level bituminous road had a posted speed limit of 89 kmh (55mph). The driver of v2 had just shifted through his last gear and was traveling at 35 mph approaching a green light at the intersection. The driver noticed v1 moving across his lane from the right, making a left turn, and put on his brakes well ahead of the intersection. The front of v2 struck the left passenger area of v1. V1 rotated counterclockwise and came to rest in the intersection facing east. The side curtains in the Mountaineer deployed, and the fully restrained driver was transported to a local trauma center where she was treated and released with only a complaint of pain. V1 was towed from the scene due to damage. V2 slid into the lane on the left after the impact and came to rest still facing west. The fully restrained driver reported no injuries and the truck was drivable. The Critical Precrash Event coded to the driver of v1 was 'this vehicle traveling turning left at intersection'. The Critical Reason for the Critical Event coded was 'Inattention-daydreaming.' The driver stated that she was stopped for 5-10 seconds, enough to see 5-6 cars go by on the other road. A Contributing Exterior Factor was coded because as her attention wandered, and she saw a northbound vehicle turn east, she thought the light must be green for their road, although the northbound car was legally turning right on a red signal. Associated Factors were coded for possible side effects of her prescribed medications including dizziness, sleeplessness, anxiety, tiredness and nervousness. The Critical Precrash Event coded to the driver of v2 was 'other vehicle encroachment from crossing street, turning into opposite direction.' The Critical Reason for the Critical Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

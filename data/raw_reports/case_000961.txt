@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a north/south arterial road that had six lanes in the area of the crash (three in each direction) that were divided by a concrete median that was curb height. There was a crossover cut through the median to give traffic access to local businesses. The road was straight and level with a speed limit of 72kmph/45mph. Conditions at the time of the crash were daylight and dry around mid morning during rush hour (no congestion) on a weekday. V1 was a 1998 Kia Sportage 4x4 that was turning left from lane three southbound through the crossover intending to enter a private business lot. V1 was hit on the right side while crossing northbound lane 1 by the front of V2, a 2002 Ford Escape. V1 then rotated counterclockwise and traveled north onto a grass area in front of a business and hit an out of service fire hydrant coming to rest facing north. V2 rotated clockwise about 90 degrees and came to rest facing east in the business driveway. Both vehicles were towed from the scene. V1 was driven by a thirty-four year old female who was transported to an area hospital by family later that day for possible injuries. She was stopping at the store for coffee on her way to work when the crash occurred. Her spouse told the researcher that there was a pickup in the crossover blocking her view of northbound traffic but she went anyway. The Critical Pre-crash Event for V1 was this vehicle traveling, turning left at an intersection. The Critical Reason for the Critical Pre-crash Event was "turned with obstructed view," a decision error. Associated factors include drinking (coffee) while driving, use of various prescription medications for back spasms, and a sightline restriction caused by the non-contact vehicle in the crossover. V2 was driven by a twenty-nine year old female who was not transported although she was listed on the police report as sustaining possible injuries. She was on her way to work at the time of the crash. She told her spouse that she did not see the other vehicle until it came out from behind a pickup that was stopped in the crossover and by then it was too late. The Critical Pre-crash Event for V2 was other vehicle encroachment from opposite direction over the left lane line. The Critical Reason was not coded to this vehicle. Associated factors coded to this driver include use of prescription medication to treat an accelerated heart rate and the sightline restriction caused by the non-contact vehicle in the crossover.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Drugs, Roadway present problem 
+Vehicle 2:  Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

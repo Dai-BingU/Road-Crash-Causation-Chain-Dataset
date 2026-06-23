@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred just after noon on a weekday in the eastbound lane of two-way undivided roadway. The east/west roadway consisted of two lanes (one in each direction) divided by double yellow lines and flanked by wide paved shoulders. The bituminous roadway was curved but level, and featured a posted speed limit of 56 kmph (35 mph). The roadway was still wet from a rain that had fallen throughout the morning. The traffic flow was normal at the time of the crash. Vehicle one (V1), a 2006 GMC Sierra (K2500) pickup truck with one occupant, was eastbound negotiating the curve. Vehicle two (V2), a 2001 Honda Accord with one occupant, was stopped facing east preparing to turn left into an intersecting driveway ahead of V1. V1 failed to slow down behind V2 and the front of V1 struck the rear of V2. V1 came to final rest straddling the fog line separating the paved shoulder and the eastbound lane. V2 was pushed forward and rotated approximately 180 degrees before coming to final rest facing westward in the westbound lane just beyond the driveway it intended to turn into. Both vehicles were towed from the scene due to damage. The driver of V1, a 38-year old male, was uninjured as a result of the crash. He stated that as he traveled eastbound he looked down at his road map to find the location for his next job site, when he looked up and saw V2 stopped in his lane a few feet ahead. He slammed on his brakes, but could not avoid V2. He's not familiar with the roadway and rarely travels on it. Although he worked 57 hours the past week and only slept seven hours the night before, he claimed he was not fatigued. He believed that if the ground were not wet, he would have had time to stop. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason was coded as an internal distraction, the driver looked down at his map as he was driving. Associated factors coded to the driver of this vehicle include unfamiliarity with the roadway, and the wet roadway. The driver of V2, a 23-year old female, was injured in the crash. She said she left the gym about a mile down the road and was traveling in the eastbound lane when she decided to stop at the store to her left to pick up a few things. She came to a complete stop as she prepared to turn. As she was stopped in her lane waiting for a minute or two waiting for the passing vehicles traveling in the opposite direction, she was struck from behind. All she remembers after that was holding on to her steering wheel and her vehicle spinning. She is familiar with the roadway and travels on it weekly. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. The only associated factor coded to this vehicle was the wet roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Roadway present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at an intersection of a parking lot driveway and a two-way, undivided two-lane roadway. Vehicle one (V1) was traveling on the painted median in the center of the road, which officially ended at the intersection with the driveway. On the other side of the intersection with the driveway, the center median became a left turn-only lane for the next intersection. Vehicle two (V2) was exiting the driveway parking lot. The conditions were as follows: early afternoon, partly cloudy skies, and the roadways were dry. The gradient for (V1) was level, while the grade for (V2) was a positive 2.5 percent slope. The posted speed limit for V1 was 40 kmph (25 mph). There were no speed limit signs for the parking lot driveway that V2 was exiting. V2 had a stop sign; V1 had no traffic control device. V1 was a 2003 Ford Focus traveling southbound, intending to continue straight at this driveway-intersection. V2 was a 1994 Chevy Lumina minivan traveling east, intending to turn left to travel north. V1 did not see V2 coming across her pathway and struck V2 in the left front, with the front of V1. The driver of V1, a 21-year old female, did not have any injuries. There was no driver interview obtained after numerous attempts to contact the driver. V1 needed to be towed due to damage. There was no vehicle inspection after numerous attempts to contact the driver, tow company, and the insurance company. The police report did not indicate any drugs or alcohol being a factor in this crash. The police reported V1 traveling at an unknown speed. The Critical Pre-crash Event for V1 was coded as: other vehicle encroachment from crossing street, turning into opposite direction. The Critical Reason for the Critical Pre-crash Event was not coded to V1. Two associated factors were coded to the driver of V1 - an illegal maneuver due to driving on the median and a sight restriction due to stopped non-contact vehicles in the southbound lane. V2 was driven by a 20-year old female. The driver and passengers of V2 did not have any injuries. There was no driver interview obtained after numerous attempts to contact the driver. V1 did not need to be towed. There was no vehicle inspection after numerous attempts to contact the driver, tow company, and the insurance company. The police report did not indicate any drugs or alcohol being a factor in this crash. The police reported V1 traveling at an unknown speed. The Critical Pre-crash Event for V2 was coded as this vehicle turning left at the intersection. The Critical Reason was coded as an "other" recognition error - the impending problem was masked by the traffic flow pattern (the vehicles in the southbound lane). One additional associated factor coded to the driver of V2 was a sight restriction due to the stopped vehicles in the southbound lane.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway present problem 
+Vehicle 2:  Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Other recognition error (specify) :

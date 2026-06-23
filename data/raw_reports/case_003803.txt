@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred mid morning during daylight hours on a dry, straight, bituminous, undivided four-lane roadway. The roadway runs east/west and each direction consists of two through lanes. There is a bus stop on the south side of the road. There are no traffic controls present and the speed limit for the road is 56 kmph (35 mph). There were no adverse weather conditions present at the time. Vehicle one (V1), a 1995 Eagle Vision ESi sedan driven by a 25 year-old male was traveling east in lane one. Vehicle two (V2), a 2000 Orion Bus driven by a 45 year-old female with four passengers was stopped, facing east, in lane one, picking up passengers. The driver of vehicle one realized the bus was stopped and locked up the brakes. The driver of vehicle two heard the brakes and began to roll forward to avoid the impact. However, vehicle one was unable to stop in time and the front of vehicle one contacted the back of vehicle two. Vehicle one came to rest in eastbound lane one, facing east. Vehicle two came to rest in front of vehicle one, in lane one, facing east. Vehicle one was towed due to moderate frontal damage. The pre-event movement for V1 coded going straight, category other motor vehicle in lane, other vehicle stopped, critical reason for the critical event coded driver related factor Aggressive driving behavior". He was excessively speeding; therefore, was unable to stop in time before hitting vehicle two. The pre-event movement for V2 coded stopped in traffic lane, category other motor vehicle in lane traveling with higher speed. Critical reason not coded to this vehicle. Associative factors for the driver of vehicle one, Only slept five hours in last twenty-four, Tire deficiency (1/32 depth on front tires)
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Performance, Driver Physical, Driver Stress/Emotion, Drugs, Speed/Distance, Vehicle present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

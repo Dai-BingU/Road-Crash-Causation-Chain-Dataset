@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred near the intersection of two roadways. The east/west roadway was a two-way, eight-lane street, divided by a concrete curbed median. The north/south roadway was a two-way, six-lane undivided street. The intersection was controlled by a traffic light. These were straight, level, asphalt roads, with posted speeds of 64 kmph (40 mph). Conditions were dark with streetlights, on a weekend evening. Traffic flow was normal. V1, a 1994 Mitsubishi Expo minivan with one occupant, was traveling eastbound in lane five (the left turn lane). As the driver was completing the turn to go northbound, a vehicle slowed down in front of V1. The driver veered to the right, off the roadway, smashing through a bus bench. V1 proceeded into a gas station, passing between two pumps on the west side, sideswiping a steel awning pole. The vehicle continued clockwise, coming full circle back to the corner of the intersection. V1 came to final rest in a small swale area at the northeast corner of the intersection in the middle of some bushes and contacting a do not enter sign. V1 was towed due to damage. The Expo minivan was driven by an 83-year old male, who was not injured. He could not be contacted for an interview after the crash. However, at the scene, he indicated that he thought he kept hitting the brake, and nothing was happening. According to the driver, the car just kept going out of control. The Critical Precrash Event for V1 was "this vehicle loss of control, other cause of control loss". The Critical Reason for the Critical Event was a performance error, poor directional control. He failed to control the vehicle with the skill ordinarily expected of a good driver. An associated factor for the driver was insufficient braking inputs. The driver repeatedly depressed the gas pedal, mistaking it for the brake pedal.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

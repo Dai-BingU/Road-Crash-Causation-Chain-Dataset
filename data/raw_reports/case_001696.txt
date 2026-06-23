@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the controlled intersection of two roadways. One roadway is three lanes, with the right lane being only for traffic that is turning right, the other two lanes are for traffic going southbound, but traffic may also turn left from the left lane. The other roadway is two-lanes, two-way traffic. Both roadways are composed of asphalt, and at the time of the crash both roadways were dry. At the time of this crash the control signal (on color) with pedestrian signals were working properly, the yellow signal was timed to approximately 4 second for both traffic lanes. V1 was in the third lane of the southbound roadway approching the controlled intersection, and V2 was stopped at the intersection headed east-bound, intending to travel through the intersection. The eastbound traffic control device changed from red to green so V2 entered the intersection. V1 didn't notice that the TCD had changed for her direction and also entered the intersection. The front of V2 then struck the left side of V1, and both vehicles came to rest in the southeast corner of the intersection. The driver of V1 stated that she thought she still had the green light, and that is why she didn't stop. She stated that V2 ran the red light. The driver of V2 stated that she was stopped at the intersection for about a minute and when the light turned green she proceeded thought the intersection. V1 was driven by a female driver and was occupied by three other occupants. She stated that she was headed home from running errands and was very comfortable with the roadway. She stated that before the crash the two children who where sitting in the second row where quiet and she didn't even have the radio on. The driver said that she was not distracted before the crash and kept saying that she had the green light, and that V2 ran the red. V2 was driven by a female driver and was occupied by an infant in the second row. The driver stated that she was on her way to visit her brother, after visiting her husband at work and was looking forward to a long weekend. She stated that she was unable to see V1 approching due to roadway grade and tall grass next to the roadway. The grade at the location of V2 while she was waiting was 6.7% and the approach of any southbound traffic was blocked. V1 was given the pre-event movement of going straight with a critical pre-crash event of other vehicle encroachment from crossing street, across path. The critical reason for the critical pre-crash event was coded critical reason not coded to this vehicle. V2 was given the pre-event movement of stopped in a travel lane, and a critical pre-crash event of this vehicle crossing over (passing through) intersection. The critical reason coded for this vehicle was inadequate surveillance (failed to look to either side ahead.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

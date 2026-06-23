@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred just past noon on an East/West expressway. The expressway has four straight and level travel lanes in each direction separated by a median wall; at no point did west bound lanes play a part in the crash. The speed limit is 92 kmph (55 mph), road surface concrete and there were no roadway or weather restrictions. Vehicle one (V1), a 1999 Freightliner tractor with a Great Dane trailer, traveling eastbound in the first lane and occupied only by its driver. Vehicle two (V2) was a 1995 Acura Integra with one occupant was traveling eastbound behind V1. There was an other vehicle, a 1995 Buick Skylark with one occupant, traveling eastbound in the first lane in front of the V1. V1 hit the other vehicle in a previous crash that occurred seconds before this qualifying crash. After V1 stopped due to this first crash, V2 struck the back of V1's trailer. All vehicles were traveling in congested traffic conditions. The driver of V1 is a fifty-nine year old male who said that it was his company policy was not to talk to anyone besides the police. He and his company refused an interview and inspection. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. The driver of V2 is a twenty-two year old male in good health. He stated that the truck stopped suddenly and that he could not avoid it. He also stated that just prior to the crash his cell phone rang, he tried to locate the phone but he did not get a chance to answer it. The critical pre-crash event for V2 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was attributed to the driver of V2 as a driver related factor: internal distraction, due to trying to locate the ringing cell phone inside his vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance present problem 
+Vehicle 2:  Decision, Distraction, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Internal distraction

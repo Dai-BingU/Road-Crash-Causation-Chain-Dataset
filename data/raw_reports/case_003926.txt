@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a weekday morning in the middle of a four-way residential intersection. The intersection consisted of an east/west two-lane roadway (controlled by a stop sign) and an intersecting north/south two-lane roadway. Both roadways were bituminous, dry, straight, and level with posted speed limits of 40kmph (25 mph) and 48kmph (25 mph) respectively. The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1997 Honda Civic, was westbound in lane one traveling at 48kmph approaching the intersection where it intended to go straight. V2, a 2000 Ford F-150 pickup, was northbound in lane one approaching the same intersection where it also intended to go straight. As V1 entered the intersection it failed to stop for the traffic control device and struck the right side of V2 with its front. V2 rotated clockwise roughly 180 degrees before coming to final rest straddling the centerline in the roadway. V1 came to final rest in the northbound lane facing northwest. Both vehicles were towed due to damage. The driver of V1, a 25-year-old female, was running an errand at the time of the crash. She stated that as she approached the intersection she thought the other vehicle had a stop sign as well (this fails to explain why she did not stop at her stop sign). She sustained non-incapacitating injuries and was transported from the scene to a local hospital. She was cited for failure to yield right of way. The Critical Precrash Event for V1 was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Event was coded as a driver related factor, an illegal maneuver, failure to stop for a traffic control device. In addition to the illegal maneuver, a sightline restriction was coded as an associated factor as a building blocked the driver's view of on-coming traffic. The driver of V2, a 45-year-old male, was on his way back to work from a local bank when he was involved in the crash. He stated in his interview that he was just passing through the intersection when the Honda blew through the stop sign and hit him in the right side causing him to spin clockwise. He was not injured in the crash. The Critical Precrash Event for V1 was coded other vehicle encroachment, from crossing street, across path. The Critical Event was not coded to this vehicle. The only associated factor coded to V2 was the same sightline restriction that existed for V1.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

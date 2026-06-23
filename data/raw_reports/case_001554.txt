@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred early evening at a dark four-leg intersection with stop signs controlling traffic flow for all roadways. Southbound traffic was on an uphill, straight road and westbound traffic was on an uphill, right curve road. Southbound traffic has two lanes out of three. It had a left turn lane and a through lane. Westbound traffic has two lanes out of three. It had a right turn lane and a left turn/through lane. The posted speed limit is 48 kph (30 mph) for all roadways. Vehicle one (V1) a 1995 Dodge Dakota pick-up driven by a 59 year-old male was traveling southbound in lane one, the through lane. Vehicle two (V2) a 1997 Chevrolet Cavalier coupe driven by a 22 year-old male was traveling west in the first lane. V1 entered the intersection without stopping for stop sign, the front of V1 contacted the right side of V2 after impact both vehicle went off in a southwesterly direction coming to final rest in the intersection. Both vehicles were towed from the scene. The critical event for V1 was coded - this vehicle traveling crossing over passing through intersection. Critical reason fro the critical event coded driver related factor "Illegal maneuver" (disregard of traffic control stop sign). The critical event for V2 was coded - other vehicle encroachment from crossing street across path. Critical reason not coded to this vehicle. Additional factors for V1, alcohol, driver arrested for DUI, first time in area lost looking for street.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Alcohol, Decision, Distraction, Driver Inexperience present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on the roadside of a northbound, urban highway. There were three northbound lanes on a divided highway with a grass median and guardrail. The roadway had a posted speed limit of 88 kmph (55 mph) and a 5% uphill grade. Conditions were daylight and wet with cloudy skies. The setting was morning hours on a weekday. Vehicle one was a 1998 Jeep Cherokee sport utility traveling northbound in lane one, preparing to merge onto the highway. V1 lost control and traveled off the right side of the road, impacting a guardrail with the front plane. V1 then rolled left six quarter-turns, coming to rest on its top on the right shoulder. The Jeep Cherokee (v1) was driven by a 20-year old female who was treated on scene for possible injuries. She stated that she had just stayed up all night working on a school project and was headed to the copy store. When she began merging onto the highway, she fishtailed unexpectedly. She steered right in avoidance but lost control and rolled over. She estimated her travel and impact speeds to be 64 kmph (40 mph). The sport utility was towed due to damage. The Critical Precrash Event for v1 was this vehicle control loss due to poor road conditions (wet roads). The Critical Precrash Event was a driver related factor of poor directional control. This driver had only slept two hours in the previous 24 hours. She was a full-time college student as well as being employed full-time.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Performance, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Merging
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

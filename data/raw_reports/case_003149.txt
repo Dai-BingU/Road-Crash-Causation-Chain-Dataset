@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lane of a 5 lane not divided roadway. There were 2 lanes in each direction with the middle lane as the turning lane. The roadway had a posted speed of 56 KMPH (35 MPH) and it was level. Conditions were daylight and dry with clear skies. The crash occurred near mid afternoon on a weekday. V1, a 1999 Chevrolet Prism 4dr, was westbound in lane 2 of the roadway. V2, a 1991 Toyota Corolla 4dr was also westbound in lane 2 of the same roadway in front of V1. V3, a 2000 Ford Focus 4dr, was westbound in lane 2 stopped in front of V2. V1 changed lanes partially into lane 1 then returned to lane 2. Traffic in lane 2 was slowing for backed up traffic ahead. V1's front, contacted V2's back, as it was slowing to a stop which caused V2 to accelerate forward, then contacting, V3's back. The Chevrolet Prism (Vehicle 1) was driven by a 20-year old male who was uninjured in the crash. He stated that he was in lane 2 looking to move into lane 1 and as he began to move into lane 1 another vehicle speed by him. To avoid being hit, he swerved back into lane 2 just as V2 was slowing down for traffic. V1's front contacted V2's rear. V1 was driven from the scene with minor damage. The Critical Precrash Event for Vehicle 1 was when this vehicle traveled over the lane line on the left side of the travel lane. The Critical Reason for the Critical Event was a decision error, misjudgment of gap or other's speed. The driver was taking a blood pressure medication that was thought not to contribute to the crash. The driver was found to be familiar with both the roadway and the vehicle as well as properly licensed for the vehicle. He was not late or in a hurry and speed did not seem to be a factor. There were no indications of fatigue or a medical condition contributing to his actions but he was cited failing to maintain an Assured Clear Distance. The vehicle inspection yielded no indications that mechanical defects contributed to the causation of the crash. The 50-year old female driver of the Toyota Corolla (Vehicle 2) stated she was slowing for traffic in lane 2 when she was struck from behind by V1. She then lost control of her vehicle and struck V3 in the rear. The driver of V2 was transported, treated and released from the hospital. The Corolla was towed due to damage. The Critical Precrash Event was other vehicle traveling in same direction with higher speed and the Critical Reason was not coded to this vehicle. The driver was myopic (near sighted) and was wearing her glasses at time of the crash. She was taking blood pressure medication that was thought not to contribute to the crash. The driver was found to be familiar with both the roadway and the vehicle as well as properly licensed for the vehicle. She was not late or in a hurry. There were no indications of fatigue, medical complications or mechanical defects as being a factors contributing to the crash on the part of V2. The 43-year old female driver of the Ford Focus (Vehicle 3) stated that she had just come to a stop in lane 2 when she was struck from behind by V2. The driver of V3 was transported, treated and released from the hospital. V3 was driven to the tow yard, which was across the street. No Critical Precrash Event and no Critical Reason were coded to the driver of the Focus because he was not involved in the first harmful event (the impact between the front of the Prism and the rear of the Corolla). The driver was myopic (near-sighted) and was wearing her glasses at the time of the crash. She was taking medications for allergies and asthma, some of the side effects are, tremors, dizziness and fainting, shakiness, and nervousness, but was thought not to contribute to the crash. The properly licensed driver of V3 was familiar with both the vehicle and the roadway. She was running an errand on her lunch hour and was neither late nor in a hurry. There were no indications of fatigue or medical complications on her part. No mechanical defects were found to be present for V3.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+Vehicle 3:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Decelerating in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on the northbound lanes of a 4 lane divided roadway with a positive median barrier. The posted speed limit was 105KMPH (65MPH). The weather was clear and the roadway was dry. This crash occurred on an early weekend afternoon. Vehicle #1, a 2006 Chevrolet Malibu, with three occupants, was traveling northbound in the passing lane (lane 2) when it went off the roadway to the left, impacted with an embankment and rolled over 4 one quarter turns to the right, coming to rest on its wheels facing in a westerly direction. This vehicle was towed due to damage. The Chevrolet Malibu (Vehicle #1) was driven by a belted 21 year old female who was transported to an out of the area hospital. There were two passengers in the vehicle who were also transported to the same hospital all were treated and released. At the scene, this driver told Police that her mother had bought "Cinnabons" at the last rest stop and she was looking at the passenger with these pastries but had not eaten any. She stated that she really didin't know what happened the car started going to the left and her mother said "watch out", its going over that way. She steered to the right and then she thought she was too close to the car in the right lane so she steered left. The driver guessed that she steered too much to the left and went off the road, she hit the embankment and rolled over 2 times completely landing on the wheels. The Critical Precrash Event coded to this vehicle was: This Vehicle Traveling, Off the Edge of the Road on the Left Side. The Critical Reason for the Critical Precrash Event was coded as: Driver Related Factor, Internal Distraction. Although this driver told police her vehicle started to swerve for an unknown reason, she also stated she was looking inside the vehicle a some pastries. Another associated factor could be fatigue as this was a rental vehicle and the driver was listed as living in a state 600 miles south.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

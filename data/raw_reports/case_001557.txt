@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the early afternoon hours in the middle of a T-intersection. The north/south roadway upon which vehicle one (V1) was traveling consisted of two undivided lanes. The east/west roadway upon which vehicle two (V2) was traveling also consisted of two undivided lanes. The grade for V1 was an uphill grade of more than 2 percent; however, the grade for V2 was level. The posted speed limit for both V1 and V2 was 56 kmph (35 mph). The only traffic control device associated with this crash was a stop sign present for V1. There were no adverse atmospheric conditions at the time of the crash and the roadway was dry. V1, a 2002 Suzuki XL-7 sport utility vehicle, was traveling north approaching the T-intersection. V2, a 1986 Chevrolet S10 pickup, was traveling east. As V2 neared the intersection, V1 attempted a left turn. Although the driver of V2 braked and steered left, the front of V2 contacted the left front side of V1. The impact caused V1 to rotate clockwise slightly to the east before coming to uncontrolled final rest in the eastbound lane. V2 veered in a northeasterly direction coming to an uncontrolled final rest across the eastbound and westbound lanes. Both vehicles had to be towed from the scene due to damage. The driver of V1, a 35-year-old female, sustained no injuries or treatment. No other occupants were present in the vehicle when the crash occurred. No interview could be obtained from this driver; therefore, it was uncertain if any fatigue, or health-related issues contributed to this crash. The Critical Pre-Crash Event coded to this vehicle was: this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Pre-Crash Event was coded as inadequate surveillance (failed to look, looked but did not see). One associated factor coded to this driver was a sight restriction, because there were buildings and shrubbery to her left that partially obstructed her view of V2. No other associated factors could be coded to this driver due to the lack of an interview. The driver of V2, a 57-year-old female, sustained minor injuries and was taken to the local hospital for treatment. There were no other occupants present in V2 at the time of this crash. The driver told the investigating officer that she was traveling east and that as she approached the intersection, the silver SUV pulled out in front of her. She also said that she attempted to steer to avoid the SUV and began braking. She said she was unable to avoid hitting the SUV in the intersection. The Critical Pre-Crash Event coded to this vehicle was: other vehicle encroachment from crossing street, turning into opposite direction. The reason for the Critical Pre-crash Event was not coded to this vehicle. No associated factors could be coded to this driver due to the lack of an interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

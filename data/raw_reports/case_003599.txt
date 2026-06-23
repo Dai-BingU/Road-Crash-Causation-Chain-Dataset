@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a straight, bituminous, 5 lane roadway with an upward 6% slope, with a posted speed limit of 56 kph (35mph). Conditions were clear on the weekday afternoon. V1, a 1996 Mercury Tracer driven by a 51 year-old female, was traveling eastbound in the right curb lane between 30-45mph. The driver of V1 had not been feeling well the day before and went to bed at 1800 hours, then woke up the day of the crash feeling better. Throughout the morning, however, the driver again began "to not feel right; sleepy, tired and thirsty". After driving for about 10 minutes, she decided to return home and continued for 15 minutes in that direction, to take prescribed insulin for her diabetic condition, and additional daily medications for high blood pressure, and cholesterol, which she had not taken since the prior morning. As the driver of V1 approached an intersection with vehicles backed up and stopped at a red traffic signal, the driver lost consciousness, and the front of V1 struck the back of V2 in lane one. V2, a 2003 Jeep Grand Cherokee Laredo, driven by a 25 year-old male, had been stopped for 10-15 seconds at the red light, and had just accelerated to 10mph when the signal turned to green, as V1 struck V2. The driver of V2 had been looking straight ahead prior to the impact and had no chance to avoid the crash. The driver continued to look ahead after the impact and successfully avoided contacting the vehicle in front of him. V2 came to rest at an angle to the right against the right hand curb. V2 was drivable following the crash and the driver denied any injuries. The Critical Precrash Event coded to the driver of V1 was other motor vehicle in lane traveling in same direction with low steady speed. The Critical Reason for the Critical Event coded was critical non-performance-other physical impairment of the ability to act. The Contributing Factor coded for this driver was illness-blackout (diabetic related). The driver routinely takes 9 prescribed medications, but had only taken a pain reliever to alleviate bedtime foot pain the night before and was wearing a narcotic patch for pain the day of the crash. Possible side effects of these pain relievers are light-headedness, dizziness and sleepiness. The driver stated in the interview that she knows that she needs to take her medications regularly, particularly the insulin. The driver of V1 was cited in the crash for Failure to stop in assured clear distance ahead. V1 was towed due to damage, and the driver was transported to a local trauma center. The Critical Precrash Event coded to the driver of V2 was other motor vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this driver. There were no Contributing or Associated Factors coded to the driver of V2. A complete inspection of both vehicles revealed no mechanical defects and both properly licensed drivers were familiar with their vehicles and with the roadway. Neither driver had emotional or stress related issues or had any associated factors coded.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Drugs present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

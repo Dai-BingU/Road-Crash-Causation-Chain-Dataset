@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a Saturday in shortly after noon during daylight hours involving a passenger car and a heavy-duty truck tractor, pulling a semi-trailer. The location was on an interstate highway. The speed limit for the roadway is 96 kmph (60 mph). The roadway is comprised of five Northbound and five Southbound asphalt travel lanes divided with a positive barrier. The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. Vehicle one (V1), 2005 Toyota Sienna was traveling north in lane three of the northbound lanes. Vehicle two (V2), a 1986 Ford W900 3-axle tractor with a 1996 Lufkin 2-axle end dump semi-trailer, was traveling south in the third lane of the southbound traffic lanes. The number-four left rear axle of V2's trailer failed and the two left tandem tires/wheels detached from the trailer's axle. The tires/wheels bounced & rolled across the southbound lanes of traffic to the east and then moved over the concrete traffic median and into the southbound lanes. At least one vehicle in front of V1 was able to change lanes in time and avoid a collision with the tandem axle tires/wheels from V2. This non-contact vehicle obstructed the view of the driver of V1 of the tandem axle tires/wheels prior to impact. The tires/wheels impacted the front and roof of V1, separated from V1 and rolled off the highway to the east. The loose tires/wheels continued across the service road of the highway, over an unpaved parking lot and into a concrete culvert. After the impact with the tires/wheels, V1 partially entered the second lane, then drove back into the third lane and further north before it came to final rest in the fourth lane of traffic, facing north. The driver of V2 did not stop at the crash site and was not aware of the axle failure until other drivers flagged him down about 3.2-kilometers (2-miles) south of the crash site, where he pulled over his vehicle to the right shoulder. V1 was towed from the scene. The right front occupant of V1 was transported and hospitalized. V2 was driven from the scene to a location 3.2-kilometers (2-miles) south. It was towed from the scene due to its trailer missing the left rear axle's tires/wheels. The critical pre crash event for V1 was coded "other vehicle's (V2) wheel fell off, entered V1's roadway and impacted with V1". No reason for critical event was coded to this vehicle. The critical pre crash event for V2 was coded "disabling vehicle failure, axle failed and wheels detached from vehicle". The critical reason for the critical event was coded to V2 as a "vehicle related factor, tires/wheels failed". V2's tractor and trailer were in a very poor mechanical condition. Inside the vehicle the researcher found several older citations the driver received for failing to maintain his truck. The state inspection for the truck unit expired a month prior to the crash, the inspection for the trailer expired the same month as the crash happened.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Roadway present problem 
+Vehicle 2:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other- Other (specify) :
+ 2 ：This Veh. Control Loss Due To:- Disabling vehicle failure (e.g,  wheel fell off) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Vehicle Related Factor- Tires/wheels failed

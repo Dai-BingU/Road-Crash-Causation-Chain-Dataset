@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a secondary arterial road that connected 2 (uninvolved) primary arterials. The road ran north/south, had four (not physically divided) lanes separated by a double yellow line with two lanes each direction. The road was intersected in the right/east by an entry road to an apartment complex. The roadway was bordered on the right/east by a curb, then sidewalk. The road had a precrash grade of +10% and the grade at the run off road point was +8%. The road was curved to the left with a radius of 66m with the apex measured 11.5m pre run off road but was straight (south of) before this curve. There was an embankment in the area of final rest also off the right (east) side of the road that had a negative grade of -27%. Conditions at the time of the crash were dawn (not quite light yet) and dry on a weekday morning. The speed limit was 48kph (30mph). V1 was a 2000 Infiniti G20 traveling north in the right lane of the road when just as it passed the curves apex it departed the right (east) side of the road blowing the two right tires on the curb and continuing north parallel to the road (along the sidewalk), crossed the entry road to the apartment complex with all four tires impacting that curb, struck a sign with the front end and traveled down an embankment coming to rest in a grassy area facing northwest. V1 was towed from the scene. V1 was driven by an eighteen-year-old belted female who was uninjured in the crash as was her eighteen-year-old male passenger. She was on her way to drop him off at his home after both occupants had stayed over at a friends' house the night before the crash. They were conversing at the time of the crash and she was also smoking a cigarette. The Critical Precrash Event for V1 was "this vehicle traveling off the edge of the road on the right side". The Critical Reason was coded as an "internal distraction". The driver was coded as fatigued due to statements she made concerning "partying most of last night". She also has two emotional/behavioral disorders, which are currently being treated by medication. She was conversing with her passenger at the time of the crash. She was coded as failing to look far enough ahead (failed to see curve). She was coded as having poor directional control. She was also somewhat unfamiliar with the vehicle as it was a recent gift.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Inexperience, Driver Physical, Driver Stress/Emotion, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

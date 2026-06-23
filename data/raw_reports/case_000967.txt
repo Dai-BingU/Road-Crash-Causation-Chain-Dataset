@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This 2-vehicle rear-end crash occurred in the southbound lane of a 5-lane undivided roadway in a suburban area. The roadway runs north and south with a center turn lane and has posted speed limit of 72 kmph (45 mph). The conditions were daylight, clear, and dry. V1, a 1989 TMM city bus with five occupants, was traveling south in lane one. V2, a 2001 Volkswagon Jetta with one occupant, was traveling behind V1 in the same lane. While V1 stopped at bus stop to load passengers, it was struck in the rear by V2. None of the bus riders were injured in the crash and the driver of V1 suffered minor injuries. The Jetta had to be towed from the scene because of disabling damage but the bus was driven away. V1 was driven by a 26-year-old female that has been driving buses for the city transit system for six weeks but she also has four years of experience driving school buses. She stated that she was driving her normal route and had stopped to pick up a couple of passengers when her bus was struck. She said she was stopped for more than 10 seconds while passengers were loading. She admits she was talking to one of the riders about the bus fare when she heard “tires squealing” and then subsequently felt the impact of the crash. She said she never saw V1 before the impact and only heard it braking seconds before the cash. The Critical Precrash Event for V1 was coded: other vehicle in lane traveling in same direction with higher speed but the Critical Reason for the critical precrash event was not coded to this vehicle. V2 was driven by an 18-year-old male. He stated that he drove south in lane one at approximately 72 kmph (45 mph), he noticed a bus in his lane and tried to switch lanes. He reports that while he was trying to change lanes there were vehicles blocking his path and he had to stay in his own lane. When his attention returned to the bus in front of him, he realized the bus had stopped and he had to slam on the brakes to avoid crashing into it. There was not enough room to stop so the front of his Volkswagon slammed into the rear of the bus causing his head to strike the windshield. EMS arrived and treated him on the scene for his head injury but he refused to be transported. The Critical Precrash Event for V2 was coded: other motor vehicle in lane stopped and the Critical Reason for the critical precrash event was coded: decision error - incorrect evasive action. An associated factor was that the driver was 18 and inexperienced.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+Vehicle 2:  Decision, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Incorrect evasive action

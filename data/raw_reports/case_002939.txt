@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred on an undivided east/west rural two-lane roadway near a T-intersection. There was an eastbound lane, a westbound lane, and an intersecting street on the north side of the roadway. The roadway had a posted speed of 72 kmph (45 mph). Eastbound lanes were at a 5% downhill grade approaching the intersection, and westbound lanes were at a 3% downhill grade. The intersection itself was on level ground. Conditions were daylight and dry with cloudy skies. The crash occurred in the early morning hours of a weekday. Vehicle one was a 1993 Ford Explorer sport utility. Vehicle two was a 2004 GMC 2500 extended cab pickup. Vehicle three was a 1993 Nissan Sentra coupe. The police report has swapped the labeling of vehicles two and three. V1 was traveling eastbound in lane one approaching the intersection. V2 was traveling westbound in lane one approaching the intersection. V3 was stopped in lane one facing eastbound waiting to turn left at the intersection. The driver of V1 did not realize that V3 was stopped until a crash was imminent. In an effort to avoid a collision, V1 steered left into the oncoming lane of traffic. The left side of V1 struck the left side of V2. The front of V1 then struck the rear of V3. All three vehicles came to rest in the roadway. V3's fuel tank caught fire after the impact, and was extinguished by the local fire department. V1 was driven by a 41-year old male who was uninjured. He stated that V3 did not have a turn signal on. This driver did not realize V3 was stopped in the roadway as a result. He estimated his travel and impact speeds to be 35 mph. V1 was not towed due to damage. The Critical Pre-crash Event for V1 was this vehicle traveling over the lane line on the left side of the travel lane. The Critical Reason was an incorrect evasive action. An associated factor for this driver was his misjudgment of the speed of V3. Another associated factor was unfamiliarity with the roadway. It was his first time driving this roadway. V2 was driven by a 47-year old male who was uninjured. He stated that he saw the events unfolding in front of him and noticed that V1 appeared to be about to rear end V3. When V1 entered his lane, he braked and swerved right. He estimated his vehicle's travel and impact speeds to be 40 and 30 mph, respectively. V2 was not towed due to damage. The Critical Pre-crash Event for V2 was other vehicle encroachment from the opposite direction over the left lane line. No Critical Reason was coded to this vehicle. No associated factors were coded for this driver. V3 was driven by a 45-year old male who was uninjured. He stated that he was stopped waiting to turn left and was struck from behind without warning. No Critical Pre-crash Event or Reason could be coded to V3 because it was not involved in the first harmful event. An associated factor for this driver included unfamiliarity with this roadway, as it was only his second time traveling this road.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience present problem 
+Vehicle 3:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

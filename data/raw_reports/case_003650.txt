@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred just afternoon of a weekday in the westbound lanes of an undivided urban roadway. The east/west roadway consisted of two lanes in each direction with a posted speed limit of 56 kmph (35 mph). The bituminous roadway was dry, straight and level. The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2001 GMC Jimmy, was westbound in lane two. V2, a 2004 Chevrolet Tahoe was also westbound in lane two ahead of V1, but currently stopped behind a non-contact vehicle waiting to make a left turn into a driveway. The driver of V1 failed to stop behind V2 and struck the rear of V2 with its front. V1 was towed from the scene due to damage while V2 was driven from the scene. The driver of V1, an 18 year-old male, claimed to be good health and did not suffer any injuries as a result of the crash. He stated that he was traveling the roadway on his was home from a college class. He glanced down at his radio and then to his left. As his returned forward he saw V2 stopped in front of him. He slammed on his brakes but could not avoid V2. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Event was coded as a driver related factor, an external distraction. The associated factors coded to this vehicle include the driver's inexperience as well as his speed. The driver of V2, a 38 year-old female, also claimed to be in good health and suffered no injures as a result of the crash. She was wearing her prescription lenses for a near-sightedness (myopic) condition at the time of the crash. She was going to an appointment at the time of the crash but was not in a hurry and was not running late. She stated that she looked in her rear view mirror seconds before the crash and saw V1 approaching fast behind her. The Critical Precrash Event for V2 was coded other vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. There were no known associated factors coded to V2, as the driver was not thought to have contributed to the crash. A witness stated he was standing in front of his workplace facing East and witnessed the non-contact vehicle stop suddenly which caused V2 to stop fast as well. He stated V1 did not have time to stop and contacted the rear of V2. He saw the non-contact vehicle make its turn into the driveway on the south side of the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

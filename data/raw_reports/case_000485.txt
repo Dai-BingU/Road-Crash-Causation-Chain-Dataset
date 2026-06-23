@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekday evening on the right roadside of an undivided rural roadway. The north/south roadway consisted of one lane in each direction with a posted speed limit of 56kmph (35 mph). The bituminous roadway was dry, straight, and level, but there were no streetlights to illuminate this particular stretch of roadway. Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2002 Mitsubishi Eclipse, was southbound in lane one when ahead and to the left, a deer had entered the roadway. The driver of V1 steered right to avoid the deer, but over-steered and V1 departed the roadway to the right. V1 traveled approximately 20m (65ft.) off road until the front right of the vehicle contacted a tree. After impact, V1 rotated clockwise roughly 90 degrees before coming to final rest facing west. The vehicle had to be removed from the scene due to damage. The driver of V1, a 17 year-old male, suffered unknown injuries and was taken to the hospital for treatment. There were no other occupants in the vehicle when the crash occurred. A complete interview was conducted with this driver via telephone. His recollection matched what he had told the police at the scene of the crash. A deer had entered the roadway from his left side, and the driver took evasive actions to avoid the animal. He veered off the roadway to the right side and struck a tree. Based on the interview, no fatigue or health related factors were coded for this driver. The driver did state that he receives approximately four hours of sleep a night, but felt rested when the trip began. He also mentioned that he was currently on medication to treat ADHD. The Critical Precrash Event for V1 was coded animal in the roadway. The Critical Reason was coded as a driver related factor, incorrect evasive action (over-steering). Associated factors coded for V1 include driver inexperience as he had only been driving for less than a year.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Animal in roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

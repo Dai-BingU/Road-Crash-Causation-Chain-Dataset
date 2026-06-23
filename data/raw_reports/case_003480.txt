@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-lane, rural roadway with grass shoulders. The roadway had a posted speed of 72 kmph (45 mph) and a 2% downhill grade in the eastbound direction. Conditions were daylight and dry with clear skies. The crash occurred in the mid-morning hours on a weekday. Vehicle one was a 2003 Pontiac Grand Am sedan traveling eastbound in lane one. V1 was negotiating a curve to the right when it traveled off the left side of the roadway. V1 continued on the grass shoulder for approximately 100 meters before encountering a group of small trees on the shoulder. The vehicle traveled briefly over the small trees and was subsequently overturned to the right in a climb-over manner. The vehicle came to rest on its top on the shoulder. The Pontiac Grand Am was driven by a 59-year old female who was transported to a local trauma center with non-incapacitating injuries. She was unable to be located for an interview regarding the crash. The investigating officer estimated her travel speed to be 55 mph and her impact speed to be 10 mph. The Grand Am was towed due to damage as a result of coming to rest on its top. The Critical Precrash Event for V1 was when it traveled off the edge of the road on the left side. The Critical Reason was coded as “asleep,” a critical non-performance error because the driver of V1 indicated to medical personnel that she thought she had passed out at the wheel. She also indicated that she had done the same thing two years before, also totaling her vehicle. A review of her medical history by the attending doctor indicated that the driver of V1 was on several medications, including tranquilizers, opiates, and sleep-aid drugs. She also suffered from sleep apnea and told the doctor that she frequently fell asleep while a passenger in other people's vehicles. She also reported that she often falls asleep suddenly (during the day) when at home. Both the usage of prescription medications and the medical condition of sleep apnea were coded as associated factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

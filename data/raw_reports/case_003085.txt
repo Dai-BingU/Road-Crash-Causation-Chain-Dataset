@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred on a four lane urban roadway. There were two lanes running southbound and two lanes running northbound separated by a curbed raised median. The conditions were dry and clear on a weekend afternoon. The roadway was straight and level. The posted speed was 56 KPH (35 MPH). Vehicle 1 was a 2007 Dodge Ram Truck that was driven by a 54-year-old male traveling southbound in lane one. The traffic had come to a stop and was backed up for the traffic at the traffic light. V2, a 1998 Chevy Geo Metro that was driven by a 86-year-old woman had also come to a complete stop when she was hit from behind and her vehicle was pushed into V3, a 2006 Ford Van that was also stopped in lane one, the driver was a 38-year-old male. V2 was the only vehicle that was towed due to damages. V1, the 2007 Dodge Ram truck was a rental truck that the driver rented for his work. He had just made a right turn onto the street where the crash had occurred and spilled his coffee on the floor. He stated in the interview that the traffic had stopped and he went to hit the brake but his foot slipped off the brake because of the wet coffee making the pedal slick. He was unable to avoid the crash. The Critical Pre-crash Event was "other vehicle in lane stopped". The Critical Pre-crash Reason was an "internal distraction" as he spilled the coffee. This action of the spilled coffee caused the driver to be unable to perform the act of stopping the truck. An associative factor was the fact that the truck was a rental and he had only rented it for the weekend for a job he had to do as a painter. He was not injured and the truck was not towed due to damages. V2, the 1998 Chevy Metro that was driven by the 86-year-old woman stated in her interview that she was on her way home with her granddaughter as she had just gotten to town to visit her grandma and were returning home form lunch. They stated in the interview that they were at a stop and they heard a crash and saw the truck hit them from behind and they were pushed under the rear of the van that was in front of them. The Critical Pre-crash Event for V2 was "other vehicle in lane traveling at a higher rate of speed". The Critical Reason was not coded to this vehicle, as she was not thought to have contributed to the crash. The only associative factor related to the driver was her age as she was in her mid-eighties. She or her passenger was not injured but her vehicle was towed due to damages. V3, the 2006 Ford Van was driven by a 38-year-old male who had stopped in lane one. He was on his way to meet a client for a job, as he was a painter. He was in his work van and was hit from behind. He stated there was nothing he could do but luckily there was no visible damage to the back of the vehicle. The van was not towed due to damages. The Critical Pre-crash Event for V3 was not coded, as it was not involved in the first harmful event. It was not coded for a critical reason, as he was not involved in the first harmful event. There were no associative factors related to the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience present problem 
+Vehicle 3:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

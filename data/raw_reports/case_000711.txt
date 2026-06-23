@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a four-lane, two-way, undivided, urban roadway at a three-legged intersection. There were two westbound and two eastbound lanes. The roadway had a posted speed of 56 kmph (35 mph) and the westbound lanes had a downhill grade of 1 %. The eastbound lanes were level. Conditions were daylight and dry with clear skies. The crash occurred in the mid-afternoon hours of a weekend day. Vehicle one was a 2003 Mazda 6 sedan. Vehicle two was a 1992 Buick Regal Custom sedan. V1 was stopped facing west in lane two waiting to turn left. V2 was traveling east in lane two negotiating a left curve. The driver of V1 said a vehicle traveling east in lane one came to a stop at the intersection. V1 then proceeded to turn left. The front of V1 impacted the front of V2. V1 then lost control and traveled in a circular path into the north roadside. V2 came to rest in lane one of the southbound cross street. V1 was driven by a 56-year old male who was transported to a local trauma center with possible injuries. The driver described the crash events above regarding the non-contact vehicle. He estimated that he had been stopped two minutes waiting for a green light at the intersection before proceeding, and was traveling approximately 16 kmph (10 mph) at impact. He said that when the non-contact vehicle stopped at the intersection, he assumed he had a protected left turn. The Critical Precrash Event for V1 was this vehicle turning left at an intersection. The Critical Reason was a recognition error of inadequate surveillance. Associated factors for this driver included wearing bifocal glasses. V2 was driven by a 30-year old female who was transported to a local trauma center with possible injuries. The driver could not be located for an interview. Her police-listed phone number was incorrect, and she was not listed in local directories. In-person visits to her townhouse were also unsuccessful. The officer estimated her travel and impact speeds to be 15 mph. V2 was not towed due to damage. The Critical Precrash Event for V2 was other vehicle encroachment from the opposite direction over the left lane line. No Critical Reason was coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Starting in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

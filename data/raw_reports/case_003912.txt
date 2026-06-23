@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two vehicle collision occurred in the morning during daylight hours on a Thursday. The crash occurred at the intersection of a 2 lane undivided roadway with parking along both sides and a two-way side street with parking on right side only. The roadways intersect at an offset angle. The pre-crash roadway for southeast travel is straight concrete paving with an downhill grade of 11%. The pre-crash roadway for southbound travel is straight level dry concrete paving. The main north/south roadway is an arterial with a posted speed limit of 48 kmph (30 mph). The intersecting leg has a posted speed limit of 40 kmph (25 mph). Vehicle one (V1), a 1993 Mazda Protege sedan driven by a 30 year-old female, was stopped at the stop sign heading southeast waiting to turn left. Vehicle two (V2), a 1984 BMW 318 coupe driven by a 43 year-old female with one passenger, was heading south on the main roadway approaching the intersection. V1 proceeded into the intersection and started to turn left, V2 struck the left rear of V1 forcing it to rotate counter clockwise, coming to rest facing west. Both vehicles sustained disabling damage, both towed. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection The critical reason for the critical event was coded to V1 as a driver related factor: type of driver error unknown. No interview was obtained for this driver, so not enough information in known to determine the exact type of driver error the critical reason is attributed to. Either a misjudgment of gap, inadequate surveillance, internal distraction or external distraction might be considered the critical reason, but it cannot be reasoned which was more appropriate without additional information The critical pre-crash event for V1 was coded: other vehicle encroachment; from crossing street, across path. The critical reason for the critical event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Driver Stress/Emotion, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

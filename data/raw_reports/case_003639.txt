@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a T-intersection, with five lanes, there were two lanes running eastbound and three lanes running westbound with lane three being a left turn only lane. The intersecting roadway was three lanes with two lanes running northbound and one lane running southbound. This intersecting street was controlled by a stop sign. There was no traffic control for the east/west roadway. Both roadways were straight and level. The conditions were cloudy and rainy. The posted speed for both roads were 56 kmph (35 mph). The crash occurred on a weekday evening during rush hour. V1 was a 2000 Ford Crown Victoria that was traveling north making a left hand turn from the intersecting street. There were four occupants in the vehicle and as they approached the intersection they stopped for a second then crept out into the intersection to see if they could finalize the left turn. As they proceeded into the intersection to attempt the left turn they made contact with V2's front, which was a 2003 Mazda Protégé V station wagon that was traveling, eastbound in lane two. Both vehicles came to final rest in the middle of the intersection. V1, the Ford Crown Victoria was occupied by four young males. The driver and the passenger in the front right seat fled by foot after the crash. After the vehicle inspection it was noted that there were traces of marijuana on the front seat and a “blunt” wrapper as well. This maybe the reason the two males fled the scene. The interview was obtained by questioning the two passengers in the back seat. They stated that they were all conversing as they approached the intersection where they came to a quick stop then proceeded into the intersection, as they came into the intersection they all looked to the right to see if it was ok to continue the left turn and as they looked back to the left they saw a black car coming at there left side. The passenger “claimed that they only knew the drivers first name and no other personal information pertaining to him.” Although we do not know who was driving V1, it was noted by the driver of V2 that it was a young male in his 20's. The Critical Pre-crash Event for V1 was “this vehicle traveling turning left at intersection”. The Critical Reason for the Critical Pre-crash Event was “internal distraction”. The vehicle was towed due to damages but all the remaining passengers refused treatment from EMS. An associative factor related to the driver was drugs. There was a bag of marijuana found on the front passenger seat when I preformed the vehicle inspection on scene. V2, a 2003 Mazda Protégé, V was driven by a 31 year-old male who was commuting home from work. He stated in his interview that he was driving the speed limit in lane two when all of a sudden the white car pulled out into the intersection. He stated that there was a vehicle to his right in lane one so he tried to steer left and hit the brakes to avoid impact but was unsuccessful. He was not injured but his vehicle was towed due to damages. The Critical Pre-crash Event was coded “other vehicle encroachment from crossing street, turning into opposite direction”. The Critical Reason was not coded to this vehicle, as he was not thought to have contributed to the crash. There were no known associative factors related to the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Roadway, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Roadway, Traffic, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

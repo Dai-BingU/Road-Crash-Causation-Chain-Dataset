@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred during dusk hours on a weekend. The crash occurred at the intersection of a north-south roadway and an east-west roadway. Traffic at the intersection is controlled by stop signs for eastbound and westbound traffic. Both roadways are designated as 48 kmph (30 mph) zones. At the time of the crash, there were no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 1995 BMW 525i four-door sedan, was traveling eastbound in the first lane of a two-lane, two-way, undivided, dry, level, bituminous roadway, approaching an intersection with the intention of passing straight through. Vehicle two (V2), a 2000 Ford F-150 extended cab pickup, was traveling northbound in the first lane of a two-lane, two-way, undivided, dry, level, bituminous roadway, approaching the same intersection with the intention of passing straight through. As both vehicles entered the intersection, the front of V2 impacted the right side of V1. Both vehicles rotated clockwise and came to rest in the intersection. The 45-year-old male driver of V1 reported that he was on his way to pick up his daughter from a movie theater, and he was conversing with her by way of a handheld mobile phone as he approached the intersection. He said that he was in a hurry to get there. He did not see the approach of V2 as he passed into the intersection. The critical precrash event for V1 was: This vehicle traveling, passing through intersection. The critical reason for the event was attributed to V1 and is coded as a driver related recognition error: internal distraction. The 24-year-old female driver of V2 reported that she noticed V1's approach as she passed into the intersection. She applied the brakes, but was unable to sufficiently slow the vehicle. The critical precrash event for V2 was: Other vehicle encroachment, from crossing street, across path. The critical reason for the event was not attributed to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Decision, Distraction, Driver Stress/Emotion, Surveillance present problem 
+Vehicle 2:  Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

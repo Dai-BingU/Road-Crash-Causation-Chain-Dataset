@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a four lane, non-divided, two way, urban street with a posted speed limit of 48 kmph (30 mph). The condition at the scene were dry concrete surface, with medium to heavy traffic. V1 was in the left lane headed south, V2 was also in the second lane but was stopped waiting for traffic headed north to clear so she could turn left into a parking lot. The front of V1 contacted the rear of V2, causeing it to travel into the right lane. V1 a 1991 Jeep Cherokee Limited was occupied by one 33 year old female driver, and four childeren. One nine year old male in the front right seat, a six year old female in the rear right side, a seven year old male in the center rear seat, and another seven year old male in the left rear seat. The driver of the vehcile stated that she was on her way to a doctors appointment, but was not in a hurry, and that she just didn't see the vehilce in front of her. She stated that all of the kids were talking about school, and she stated that she must have not been paying attention. V2 a 1991 Ford Tempo was occupied by three females. The driver stated that she was turning into the parking lot to the left so that her sister, could pick-up her pay check. She stated that she was stopped for a few seconds, and had her turn signal on, and didn't know why the other car didn't see her. Upon inspection of V2, it was verified that the turn signal lever was in the left position. The critical pre-crash event for V1 was coded as other motor vehicle in lane, other vehicle stopped. The critical reason was coded as an internal distraction. The critical pre-crash event for V2 was coded as other motor vehicle in lane traveling in the same direction with higher speed. No critical reason was coded for V2 and D2 is not thought to have contributed to crash causation.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

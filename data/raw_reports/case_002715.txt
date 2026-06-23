@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a two-way, four-lane, residential roadway. There were two eastbound lanes on a 3% uphill left curve and two westbound lanes on a 3% downhill right curve. The roadway had a posted speed limit of 56kmph (35 mph). Conditions were daylight and dry with cloudy skies. The setting was early afternoon hours on a weekday. V1, a 1991 Nissan pickup, was westbound in lane two. V2, a 2000 Toyota Tacoma T100 pickup towing a loaded, open trailer was eastbound in lane two. V3, a 2001 Dodge Durango, was eastbound in lane two, traveling behind V2. V1 drifted the centerline and impacted the left plane of the trailer being hauled behind V2 with its front plane. V1 continued forward into the front of V3, striking it head on. V1 and V3 came to rest in the eastbound lanes near the point of impact. V2 traveled approximately 50 meters with its damaged trailer before coming to rest in the eastbound lane two. The trailer axle was destroyed causing a couple of laundry machines to fall onto the roadway. V1 was driven by a 38-year-old male who was transported to a local trauma center with non-incapacitating injuries. He was unable to be located for an interview. The investigating officer estimated his travel and impact speeds to be 56kmph (35 mph). V1 was carrying a large amount of heavy cargo in its bed, which shifted into the rear of the passenger cabin after impact. The pickup was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle traveling, over the lane line, on the left side of the travel lane. The Critical Reason was a driver related error of poor directional control. The only known associated factor for V2 was the fact that the tires were mismatched and in poor condition. V2 was driven by a 65-year-old female who was uninjured. She stated that she was heading to the tire store when another vehicle crossed into her lane and struck the trailer she was towing. She honked her horn in an effort to avoid the collision. She estimated her travel and impact speeds to be 40kmph (25 mph). The pickup was not towed due to damage. The Critical Precrash Event for V2 was coded other vehicle encroachment from the opposite direction over the left lane line. The Critical Reason was not coded to this vehicle. The driver described her health as fair, and was taking medication for high blood pressure. She was retired from working. She drives this road on a weekly basis. She has received only an informal driver's education, but has been driving for 50 years. V3 was driven by an 35-year-old male who was transported to a local trauma center with non-incapacitating injuries. He was unable to be located for an interview. The investigating officer estimated his travel and impact speeds to be 56kmph (35 mph). The sport utility was towed due to damage. Neither Critical Precrash Event nor a Critical Reason were coded to this vehicle, as it was not involved in the first harmful event. No other associated factors could be coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Vehicle present problem 
+Vehicle 2:  Drugs present problem 
+Vehicle 3:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+ 3 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

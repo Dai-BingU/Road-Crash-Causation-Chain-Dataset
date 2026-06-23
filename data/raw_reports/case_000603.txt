@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary Vehicle one (V1) was a blue 2000 Subaru Impreza 4 door sedan occupied by the 21-year-old male driver and two passengers that were heading north on a 5 lane divided roadway. V1 was in the fourth lane turning left at the intersection. The roadway was level and concrete. V1 stopped at the intersection for about 3-4 seconds before the light turned from green to yellow. The driver of V1 saw vehicle two (V2) approaching from about 1/2 to 1 block away. V1 turned left at the intersection in front of V2. V1 was struck on the right front side by the front bumper of V2. Both V1 and V2 ended up facing southwest after the crash. V2 was a maroon 2001 Dodge Stratus 4 door sedan, occupied by the 40-year-old male driver and one passenger. Vehicle 2 was traveling south. As vehicle 2 approached the intersection, just about 1/2 a block from the intersection, the driver noticed the light starting to turn yellow. The driver scanned the intersection for on-coming traffic and decided to continue going south through the intersection. When V2 entered the intersection it struck the right side of V1. Both vehicles were towed from the scene. The driver and passenger of V2 sustained minor injuries but were not transported to any hospital for treatment. The posted speed limit on this roadway is 72 kmph (45 mph). The driver of V1 was stopped in the intersection waiting for the traffic to clear the intersection to complete the left turn. Traffic cleared as the light turned yellow so the driver proceeds with the turn. He saw V2 approaching and assumed the vehicle would stop at the intersection. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason was coded to V1 as a driver related factor: false assumption of other road user's action. The driver of V2 was approaching the intersection and saw the traffic light turn yellow. He thought the intersection was clear and proceeded into the intersection and detected V1 too late to avoid the crash. The critical event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

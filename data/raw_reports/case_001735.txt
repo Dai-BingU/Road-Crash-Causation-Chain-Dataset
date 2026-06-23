@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at an urban residential 4-way intersection of two way, two-lane bituminous, straight streets with a posted speed limit of 40 kmh (25 mph). Conditions at the time of the weekday, afternoon crash were daylight, cloudy and dry. The intersection was controlled by a stop sign for v1. V1, a 1995 Chevrolet S-10 LS pick-up driven by a 22 year-old male who was lost in the neighborhood, was traveling northbound on the road down a >2% slope. The driver stated that he approached the intersection, slowed to a rolling stop and proceeded through. He stated that he thought the intersection was a 4 way stop and that east/west traffic would come to a stop. The front of v1 struck the left side of v2 as it came through the intersection from v1's right. V1 rotated counterclockwise slightly, continued through the intersection, and came to rest against the west curb facing north. V1 was driven from the scene. The fully restrained driver denied injuries. V2, a 2002 Hyundai Elantra GT 4 door, driven by a 29 year-old female on her way from her nearby home to her parents home 5 hours away, was westbound on the road traveling through the intersection. The driver of v2 stated that she did not see v1 until the last minute, and did not have time for avoidance maneuvers. She stated that she was traveling less than 40 kmh (25 mph), and that v1 appeared to be moving faster than her vehicle as he approached from her left. V2 was struck in the left passenger and back area, rotated counterclockwise 180 degrees, and came to rest back on her original road, against the south curb, facing east. V2 was towed from the scene due to damage. The fully restrained driver refused treatment at the scene. The Critical Precrash Event coded to v1 was 'this vehicle traveling crossing over/passing through intersection.' The Critical Reason for the Critical Event coded to this driver was 'external distraction-driver unfamiliar with area and looking for street signs.' The driver stated that he was just returning to work on his lunch hour, after paying a traffic violation fine at the courthouse and was lost. An 'illegal maneuver' was coded for failure to stop The driver also mentioned work related stress due to a large workload and increased responsibility. The tires of v1 were coded due to low air pressure and low tread. The Critical Precrash Event coded to v2 was 'other vehicle encroachment from crossing street, across path.' The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Stress/Emotion, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

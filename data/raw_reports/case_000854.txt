@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at a four-way intersection. The north/south roadway was a two-way, six-lane street divided by a concrete curbed median. The east/west roadway was a two-way, seven-lane street divided by a concrete curbed median. The intersection was controlled in all directions by traffic lights. The north/south posted speed was 56 kmph (35 mph). The east/west posted speed was 64 kmph (40 mph). These were straight, level, asphalt roads. Conditions were dark with streetlights on a weekday evening. Roads were dry and the sky was clear. Traffic flow was normal. V2, a 2006 Volvo single unit dump truck with one occupant, was traveling eastbound, approaching a red light. V1, a 1987 Chevrolet Cargo Van with one occupant, was traveling northbound in lane four (left turn lane), approaching the same intersection. V1 entered the intersection on a green light. As V1 was attempting to complete a left turn (heading westbound), the driver crossed over the east/west center median into the eastbound traffic lanes of V2. The front of V1 made contact with the front of V2. V1 was towed due to damage. V1, the Chevy Van, was driven by a 34-year old male, who was transported with non-incapacitating injuries. He declined to be interviewed. The Critical Precrash Event for V1 was "this vehicle traveling, over the lane line on left side of travel lane". The Critical Reason for the Critical Event was a coded "poor directional control." V2, the Volvo dump truck, was driven by a 47-year old male, who was not injured. He stated that he had just come from a dumpsite and was heading to his job site to drop off his truck for the evening. The traffic light ahead was red, and the driver began to slow down. As he was coming to a complete stop, he noticed a white van coming toward him from the other side of the median (the driver did not know from which direction the other vehicle initially came from). The driver of V2 said that he grabbed his cell phone and started to dial 911, just before being hit head-on by V1. The driver indicated that the driver of V1 appeared to be intoxicated and incoherent. Within minutes of the crash, friends of V1 showed up on the scene, leading the driver of V2 to speculate that V1's driver had just come from a nearby bar. The Critical Precrash Event for V2 was "other motor vehicle encroachment, from opposite direction, over the left lane line". The Critical Reason for the Critical Event was not coded to this vehicle. One associated factor was an internal distraction as the driver attempted to dial 911 seconds before the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Performance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

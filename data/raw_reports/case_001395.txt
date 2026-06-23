@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the late evening of a weekday on a two-way commercial roadway. The bituminous east/west roadway consisted of five lanes, two in each direction and a center two-way left turn lane. The roadway was straight and level with a posted speed limit of 72kmph (45 mph). Traffic flow was normal and the dark, unlit roadway was wet as it was raining at the time of the crash. V1, a 1999 Chevy Blazer, was westbound in lane one. As V1 continued straight a deer ran out in front of the vehicle. The driver of V1 steered to the right and then to the left while applying his brakes. The driver lost control and V1 rolled on its left side and skidded roughly 10m (32ft.) before coming to final rest in the eastbound lanes of the roadway. The driver of V1 was a 32-year old male who reported that he had been traveling between 67-80kmph (41-50mph) prior to the crash. He claimed to be in good health and was out running an errand. He stated a deer just ran out in front him and he steered to avoid him and could not regain control of his vehicle. He was transported for treatment of non-incapacitating injuries and V1 was towed due to damage. The Critical Precrash Event for V1 was coded as an animal in the roadway. The Critical Reason for the Critical Precrash event was coded as the driver related error of overcompensation. In addition to the overcompensation, the rain and wet roads were coded as associated factors. The weather conditions were further compounded by the fact that the vehicle had suspension and tire deficiencies (which were also coded).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Roadway, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Animal in roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

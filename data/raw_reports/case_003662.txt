@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary Case #2006-45-044 The crash occurred at the intersection of a northeast/southwest two-lane residential road and an east/west two-lane secondary arterial road. Traffic on the residential road was controlled by a stop sign. A raised railroad track crossed the arterial at a sharp grade 30 meters east of the intersection and limited sight distance. Based on the traffic pattern, although a stop sign was present, due to the angle of the intersection traffic tends to treat the intersection as a yield/merge situation rather than a stop sign (the researcher is very familiar with the area). The posted speed limit was 64kph (40mph). Conditions were daylight and dry on a weekday morning and the sun was very bright and low in the eastern sky. Vehicle #1 was a 2001 Pontiac Sunfire traveling southwest on the residential road approaching the stop sign. Vehicle #2, a 2006 Toyota Avalon was stopped ahead at the intersection. Apparently, the driver of Sunfire (V1) assumed that the Avalon (V2) was initiating a right turn and looked left to see if traffic was clear. Vehicle #2 stopped for crossing traffic and was rear-ended by the front of Vehicle #1. Both vehicles came to rest near impact. Vehicle #1 was towed due to damage; Vehicle #2 was driven away. Vehicle #1 was driven by a 19-year old male that was belted with deployed frontal airbags. Neither he, nor a 17-year old female passenger, was injured in the collision. He stated that the other vehicle began to initiate a right turn and then stopped, just as he was looking left to see if traffic was clear causing a crash. The Critical Precrash Event for Vehicle #1 was other vehicle in lane stopped. The Critical Reason for the Critical Event was false assumption of other's actions. Associated factors included the false assumption that the other driver would continue to proceed. In a hurry was coded, the driver was taking his girlfriend to school and was late for the start of classes. Sun glare and inexperienced driver were also included as associated factors. Vehicle #2 was operated by a 43-year old female that was belted with no deployed airbags. She was not injured in the collision. The driver stated she'd been stopped for a few seconds waiting for traffic to clear when she was struck from behind. The Critical Precrash Event for Vehicle #2 was other vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. The only associated factor was sun glare. The driver takes medication for high blood pressure.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Stress/Emotion, Weather/Environment present problem 
+Vehicle 2:  Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

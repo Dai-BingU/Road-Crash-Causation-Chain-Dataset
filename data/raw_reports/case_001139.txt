@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the morning of a weekday in the northbound lane of a two-lane undivided rural roadway. The north/south roadway was bituminous and dry with a posted speed limit of 64kmph (40mph). The roadway curved to the right in the southbound direction and had a slight negative grade. The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1996 Dodge Stratus with one occupant, was southbound on the roadway negotiating the curve. V2, a 2006 Honda Accord with one occupant, was northbound on the roadway. V1 failed to stay in its lane, crossed the left lane line, and struck V2. V1 rotated counter-clockwise before the driver steered hard right and V1 came to final rest on the western roadside. V2 continued forward and came to final rest on eastern shoulder of the road. Both vehicles were towed due to damage. The driver of V1, a belted, 21-year-old female suffered non-incapacitating injuries but refused transportation. This driver refused to answer repeated attempts for an interview by researcher. The Critical Precrash Event for V1 was coded this vehicle control loss due to a disabling vehicle failure, the rear axle broke. The Critical Reason for the Critical Precrash Event was coded as a vehicle related factor, the broken axle. There were no known associated factors that could be coded to V1. The driver of V2, a belted 32 year-old female, was uninjured but was transported to an area hospital as a precaution as she was 4 months pregnant. She stated she saw the other vehicle enter her lane and she steered to the right, going partially off the roadway, but a line of large trees along the roadway limited her ability to go off the road completely. She could not avoid V1 but stated she was almost stopped when she was struck. The Critical Precrash Event for V2 was coded other vehicle encroachment, from opposite direction, over left lane line. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. There were no known associated factors coded to V2 and the driver was not thought to have contributed to the crash. A witness to this crash stated he had be driving behind V1 and observed this vehicle going back and forth over the center double lines. He stated it appeared as if the driver was having difficulty controlling the vehicle due to a mechanical failure with either the rear axel or rear left wheel.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Disabling vehicle failure (e.g,  wheel fell off) (specify) :
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Other vehicle failure (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

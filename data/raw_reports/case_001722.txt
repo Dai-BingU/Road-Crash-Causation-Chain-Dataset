@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a five-lane, two-way asphalt roadway. There were two northbound and two southbound lanes with a two-way turn lane in the middle. The intersection was controlled by a red, yellow, green traffic signal that was working properly. This intersection is a sag that has a -1.2% grade approaching the level intersection. At the time of the crash it was daylight, and the roadway was wet. The north and south roadway has a posted 80 kmph (50mph) speed limit. V1 a 2005 Nissan Titan was headed northbound and was in the center turn lane, attempting to make a left turn. V2 a 1995 Plymouth Neon was traveling south in lane one. V1 was stopped momentarily behind a non-contact vehicle, which was also attempting to make a left turn. When that non-contact vehicle pulled away, the driver of V1 assumed that the light had just turned green and he decided to continue his turn, and didn't check to make sure that no other vehicles were approaching from the north. As V2 approached the intersection V1 made his turn and V2's front contacted V1's right front. V1 was pushed south and it final rest was headed west on the southwest corner of the intersection. V2's final rest was heading south in lane one on the south side of the intersection. V2 was towed due to damage. V1, a 2005 Nissan Titan was driven by a 61 year-old male, who stated that he was on his way home from work and was going to stop by a potential rental property for his son when he stopped behind another car at the traffic light. He said that the other car went and he thought the light had just turned green so he only looked for traffic that would have been waiting. The Critical Precrash Event for V1 was coded “turning left at intersection”. The Critical Reason for the Critical Precrash Event is coded “inadequate surveillance”, since the driver stated that he did not look to the north to see if any traffic was approaching. V2, a 1995 Plymouth Neon was driven by a 22 year-old female who stated that she was headed southbound in the right curb lane, when a grey pick-up pulled into her path attempting to turn. The driver stated that she tried to hit the brakes, but was unable to stop in time, and contacted the right front of V1 with her front. The four occupants of that vehicle were transported to a local medical facility for treatment. The Critical Precrash Event for V2 was coded “other vehicle encroachment from opposite direction - over left lane line”. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

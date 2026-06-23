@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This is a five-vehicle rear end type crash that occurred during mid-afternoon daylight hours in the #1 southbound lane of a two way, three lane dry asphalt roadway. The roadway has one southbound and one northbound lane separated by a continuous left turn lane. This crash is intersection related. There were non-contact vehicle's stopped for the traffic light ahead of the vehicles involved in the crash. The speed limit on the roadway where the crash occurred is posted 56 kmph (35 mph). There were no environmental factors that contributed to this crash. There were no sight line restrictions and no obstructions noted. Vehicle one (V1), 1995 Ford Windstar, was traveling southbound in the #1 lane at about 48 kmph (30 mph). The driver, a 38-year-old female, saw the cars to the front of the vehicle in the same lane and thought they were moving. As the driver approached the vehicles, the driver realized that the vehicles were actually stopped. The driver applied the brakes (no lock up) and struck the rear of vehicle two (V2). V1 came to rest in the #1 lane facing in a southwesterly direction. The vehicle was towed due to damage. Vehicle two (V2), a 2005 Ford Focus SE 4 door, was traveling southbound in the #1 lane. The vehicle then stopped behind vehicle three (V3) about 1 car length and was stopped for about 2 seconds when the driver, a 30-year-old female, looked in the rear view mirror and saw V1 approaching from the rear. The driver realized that the vehicle was going to strike her vehicle. The driver then accelerated and steered to the left to avoid the crash. The rear of V2 was struck by the front of V1 forcing V2 into the rear of V3. The vehicle was removed from the scene on it's own power. Vehicle three (V3), a 2000 Toyota Camry, was traveling southbound in the #1 lane and stopped for the traffic light ahead for about 2 seconds. The driver, a 26-year-old female, then heard tires screeching and looked in the rear view mirror and saw V2 traveling to the left and then was hit from behind by V2. V3 went forward and its front struck the rear of a van, vehicle four (V4), that was also stopped for the traffic light. After V3 struck V4, V4 left the scene and could not be located. V3 was removed from the scene on it's own power. Vehicle four (V4) is an unknown year, make van. The vehicle left the scene after the crash and could not be located. V4's front plane impacted another in-transport vehicle's rear plane vehicle five (V5). V5 was not structured into the case due to NMVCCS event coding rules. The critical pre crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped . The critical reason was coded to V1 as a driver related decision factor: false assumption of other's actions. The driver saw the vehicle in front just prior to the crash and thought they were moving. By making this assumption she misjudged the speed an gap distance to the forward vehicle. The critical pre crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed . The critical reason was not coded to this vehicle. V3, V4 and V5 were not involved in the first harmful event. The critical reason was not coded to any of these vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+Vehicle 3:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

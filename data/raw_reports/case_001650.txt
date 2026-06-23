@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the early evening of a weekday in the middle of residential four-way intersection. The intersection consisted of an east/west two-lane roadway (controlled by stop signs) and a north/south two-lane roadway (controlled by a flashing yellow control signal). Both roadways were bituminous, dry, straight, and level with posted speed limits of 56kmph (35 mph). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2004 Toyota Camry, was westbound approaching the intersection where it intended to go straight. V2, a 1999 Plymouth Voyager minivan, was southbound approaching the same intersection where it also intended on going straight. V1 came to a rolling stop then entered the intersection where it was struck on the right side by the front of V2. V1 came to final rest facing northwest in the middle of the intersection near the point of impact. V2 continued on and departed the right side of the roadway and struck a utility pole on the southwest corner of the intersection before coming to final rest. V1 was driven by a 17-year-old female who sustained moderate injuries and was transported to a local hospital. She stated that she came to a rolling stop and did not see V2. V1 proceeded thru the intersection and struck the front of V2. The driver of V1 did not take any avoidance actions. V1 was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle traveling, crossing over the intersection. The Critical Reason for the Critical Precrash Event was a driver related factor, inadequate surveillance, looked but did not see. Associated factors coded to this driver include inexperience as the driver had only been driving for less than a year and it was her first time on this road. The driver was engaged in a conversation with her passenger in the right front seat and was not completely focused on the driving task. V2 was driven by a 29-year-old male who was not injured. He stated that he was traveling south when V1 crossed over his path and struck his vehicle. V2 was traveling between 49 and 64kpmh (31-40 mph) at the time of impact. The driver stated he steered right but could not avoid V1. V2 was towed due to damage. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street, across path. The critical reason was not coded to this vehicle. The only associated factor coded to V2 was a possible internal distraction as the driver was conversing with his wife at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

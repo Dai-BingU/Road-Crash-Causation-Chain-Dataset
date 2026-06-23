@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the morning of a weekday on a one-lane, one-way urban roadway. The bituminous roadway was dry, straight, and level with a speed limit of 48kmph (30 mph). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2000 Honda Accord two door with a single occupant, was traveling eastbound when it impacted the left side of V2, a 1989 Ford Crown Victoria that was legally parked in the parking lane on the right side. Both vehicles moved slightly forward but came to final rest near the point of impact. V1 was towed due to damage. V1 was driven by a 25 year-old male who reported no injuries. The driver advised that a bicyclist on his left side cut across his path, and to avoid contacting him, he swerved to the right and contacted the parked vehicle. The Critical Pre-crash Event for V1 was “this vehicle traveling, over the lane line, right side of travel lane”. The Critical Reason was coded as a driver related factor, incorrect evasive action. One associated factor for this driver was fatigue; the driver worked one job, totaling over 70 hours per week. He normally got up to 8 hours of sleep, but only got 5 hours prior to the crash. Another factor was that he had regular work related stress from his foreman. One recognition factor was an external distraction, which was the bicyclist on his left side. One other factor was that he chose an inappropriate/unsuccessful evasive action.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

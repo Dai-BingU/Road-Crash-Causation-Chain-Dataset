@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of a weekday on the north side of a divided residential roadway. The roadway consisted of two lanes in each direction divided by a raised grassy median. The bituminous roadway was dry and straight with a downhill grade and a posted speed limit of 40kmph (25 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2001 Chevrolet Monte Carlo, was westbound in lane one approaching a “T” intersection. As V1 entered the intersection a non-contact vehicle from the intersecting roadway made a left turn directly into V1's path. V1 swerved to the right to avoid the non-contact vehicle and departed the roadway over the northwest corner of the intersection and struck a tree. V1 came to final rest against tree after rotating clockwise slightly. V1 was towed due to damage. The driver of V1, an 18-year old male, reported minor injuries, but declined transport. He advised that he was on his way home from his girlfriend's house, traveling between 34-48kmph (21-30mph) when another vehicle turned left in front of him. He successfully avoided contacting the vehicle but he steered right, which sent him off road and into the tree. The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road on the right side. The Critical Reason for the Critical Event was coded as a driver related factor, traveling too fast to respond to unexpected actions of others. In addition to his speed, insufficient braking inputs (the EDR indicates he did not brake) and his inexperience (he had only been driving for two years) were coded as associated factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :

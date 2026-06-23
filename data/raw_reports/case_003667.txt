@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred ten meters east of a three-leg intersection, in the eastbound traffic lane. The north/south roadway was a two-way, two-lane undivided street. The east/west roadway was a two-way, two-lane undivided street, controlled by a stop sign. The posted speed in all directions was 48 kmph (30 mph). These were straight, level, asphalt roads. Conditions were daylight on a weekday morning with dry roads and clear skies. Traffic flow was normal. V1, a 2006 Chevrolet Silverado pickup with one occupant was traveling northbound. V2, a 1996 Oldsmobile Cutlass Ciera with one occupant, was stopped facing eastbound, ten meters east of the intersection. V2 made a right turn at the intersection. Immediately following the right turn, the front of V2 made contact with the rear of V1. V2 was towed due to damage. V1, the Cutlass Ciera, was driven by a 29-year old male, who was not injured. He stated that he was doing an errand for a friend. The driver indicated that he was on a cell phone obtaining directions to a house. While the driver was talking, he was also looking for the address. He said that as he made the right turn, his focus was to his left. He said that just as he turned his head forward, he hit the vehicle that was stopped in front of him. The Critical Precrash Event for V1 was "other motor vehicle in lane, other vehicle stopped". The Critical Reason for the Critical Event was a recognition error, external distraction. The driver was focused on a street address. One associated factor for the driver was an internal distraction. The driver was talking on a handheld cell phone at the time of the crash. Another associated factor was experience related. The driver was unfamiliar with the area. V2, the Cutlass Ciera, was driven by a 35-year old male, who was transported with possible injuries. The driver declined to be interviewed. The Critical Precrash Event for V2 was "other motor vehicle in lane, traveling in same direction with higher speed". One associated factor for this driver was decision related. The driver stopped in the roadway while not required to do so, and was improperly parked at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Distraction, Driver Inexperience present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning right
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

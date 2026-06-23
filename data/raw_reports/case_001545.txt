@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a two-way, six-lane roadway, divided by a concrete curbed grass median. There were three southbound and three northbound lanes. The crash was intersection related. This was a straight, level, bituminous roadway with a posted speed of 72 kmph (45 mph). Conditions were daylight on a weekday morning with dry roads and clear skies. The crash occurred in the southbound lanes of a three-lane roadway divided by a concrete curbed grass median (6 lanes total). There were three southbound and three northbound lanes. The crash was intersection related. This was a straight, level, bituminous roadway with a posted speed of 72 kmph (45 mph). Conditions were daylight on a weekday morning with dry roads and clear skies. V1, a 1997 Ford E150 cargo van with one occupant, was traveling southbound in lane three. V2, a 2000 Ford Windstar minivan with one occupant, was stopped ahead of V2 for a traffic light at the intersection. Both vehicles were intending to go straight through the intersection. The front of V1 rear-ended the back of V2. Both vehicles were towed due to damage. V1, the Ford E150, was driven by a 25-year old male who sustained minor injuries but refused treatment. He stated that he was making deliveries for his employer and was on this way from one delivery location to another. He said that he looked down at some directions, and when he looked up, the light had turned green, and the driver of V2 was proceeding into the intersection. The driver of V1 claimed that for unknown reasons, the driver of V2 suddenly stopped in the middle of the intersection, causing him to rear-end her. The Critical Pre-crash Event for V1 was "other motor vehicle in lane, other vehicle stopped." The Critical Reason for the Critical Event was a recognition error, an internal distraction. The driver of V1 was distracted from the driving task because he was looking at some directions. One associated factor was that the driver was in a hurry. He had a tight delivery schedule that day and was trying to finish his route in time to make it to a wedding rehearsal by six-thirty that evening. Another associated factor for this driver could have been inattention. The driver's thought focus might have been on some financial problems that he was having. Yet another factor could have been work-related stress/pressure. The driver has been required to fill in for another, less responsible coworker on many recent occasions, including the day of the crash. V2, the Ford Windstar, was driven by a 58-year old female who sustained minor injuries, and was transported to the hospital from the crash scene by her husband. She stated that she was on her way from her house to a department store. She said that she had been stopped at the red light for close to thirty seconds. She said that her attention was focused on some construction work that was going on to her right, and never saw V1 coming from behind her. The Critical Pre-crash Event for V2 was "other motor vehicle in lane, traveling in same direction with higher speed." The Critical Reason for the Critical Event was not coded to this vehicle. One associated factor for this driver may have been an external distraction. The driver did not see V2 coming from behind her because her attention was focused on construction work to her right.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Stress/Emotion, Drugs present problem 
+Vehicle 2:  Distraction, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

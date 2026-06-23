@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash happened on a weekday on a rural 2-lane road at night. The 2-lane road runs east and west and has a severe curve to the left at the location of the crash. The speed limit on the road is 45 mph and the conditions were dry and dark. Vehicle 1, a 1986 Dodge Power Ram with a trailer, was traveling east entering a curve left and down a negative slope. V1 began to slow as it approached stopped traffic in its lane when the trailer began to sway and bounce around. The driver applied the brakes but the trailer continued to swing causing this driver to panic and steer off the right side of the roadway. The front of the truck struck three road signs before it crashed into two trees. The truck was towed from the scene because of the tree impact damage but this driver did not suffer any injury. The truck was driven by a 20-year-old male that works full time for a landscaping company. He is from Mexico and has only been working for this company for six months. He reports that he normally works between 50-60 hours per week but business has recently slowed down and he only worked 45 hours the past week. He claimed to be in good health, have good vision, and gets plenty of sleep (8 hours) each night. The driver had worked an average of 8 hours per day the past week but worked 10 hours today. He was returning to the company office, after competing his final job at 17:30 hours, when this crash happened. As he was driving on this road, he rounded a curve left and slowed for the stopped traffic ahead of him. His trailer began to “bounce up and down” and “side to side” causing his him to panic and slam on the brakes. After braking failed to keep his trailer in line and knowing that there were cars in front of him, he steered to the right and drove off the roadway. The front of his truck struck several road signs and continued to strike a couple of trees. The Critical Precrash Event for this vehicle was coded as this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Precrash Event was coded too fast for conditions (sharp curve with cargo and trailer). Associated factors coded to this driver include driver inexperience with the area, uncomfortable with the traffic and trailer load. The road curvature and narrow shoulders were also coded as highway related factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Performance, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :

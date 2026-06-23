@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 2000 Chevrolet Malibu, was traveling northbound on a three-lane, two way, dry asphalt roadway in daylight conditions. The posted speed limit for V1 was 56 kmph (35 mph). V1 was traveling in the center left turn lane approaching a T-intersection. V1 was intending to turn left. V2, a 1996 Jeep Cherokee, was traveling southbound on the same roadway. The posted speed limit for V2 was 72 kmph (45 mph). V2 was also approaching the intersection, intending to go straight. The driver of V1 claimed that she had looked but did not see V2 before turning. The front of V2 contacted the right front side of V1, and then both vehicles came to final rest in the roadway. The driver of V1 was an 80-year old woman who reported that she had been traveling between 2-16 kmph (1-10 mph) prior to the crash. She had a history of high blood pressure and had taken medication for it prior to the crash. She was rested and traveling to a restaurant. She was wearing her prescribed lenses that corrected a hyperopic (far-sighted) condition. She sustained minor injuries in the crash and was treated on scene, but refused to be transported to a local trauma facility. The Critical Pre-crash Event for the driver of V1 was this vehicle turning left at intersection. The Critical Reason for the Critical Pre-crash Event was a recognition error: inadequate surveillance (e.g. failed to look, looked but did not see) because she stated that she did not see V2 before initiating her turn. The driver of V2 was a 60-year old female who reported that she had been traveling between 34-48 kmph (21-30 mph) prior to the crash. She had a history of emphysema and had taken medication for it prior to the crash. She was rested and traveling home. She was not wearing her prescribed lenses that corrected a hyperopic (farsighted) condition. She sustained minor injuries in the crash and was treated on scene, but refused to be transported to a local trauma facility. The Critical Pre-crash Event for the driver of V2 was other motor vehicle encroachment from opposite direction, over left lane line. The Critical Reason for the Critical Pre-crash Event was not coded to the driver of V2. She took appropriate avoidance actions. One associated factor was that the driver of V2 was not wearing her prescribed lenses. Another factor was a false assumption - the driver of V2 saw V1 in the center turn lane, but assumed that its driver would wait for her to pass before initiating a turn.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Decision, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

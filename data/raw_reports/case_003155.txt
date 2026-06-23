@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary The crash occurred on a secondary arterial roadway in a business district. The road ran north/south, had five lanes that were not physically divided (2 each way with a center left turn-only lane), and was straight and level. The road was intersected on the west by an access road to a shopping center and on the east by a private drive. The speed limit was 64kmph/40mph. There were no traffic controls. Conditions at the time were daylight with cloud cover, dry and early afternoon on a weekday. V1 was a 1988 Nissan 4x4 pickup with a camper top that was traveling south in lane two of the arterial roadway. As it approached the intersection it drifted left into the center turn lane, traveled through the intersection and struck V2, a 1999 Dodge Dakota pickup that was stopped facing north in the center turn lane on the south side of the intersection (and was waiting to turn left/west). V1 struck V2 in a head-on crash that was offset to both vehicles' left sides. V1 then came to rest facing southwest a few meters from impact. Following its impact with V1, V2 was pushed back and to its right into the second northbound lane, leading with its back right corner, which struck the left side of V3, a 1987 Ford Bronco II 4x4 that was traveling north. V2 came to rest within a meter or so of this impact and V3 traveled north and came to a controlled stop in lane 2 on the north side of the intersection. V1 and V2 were towed from the scene and V3 was driven away. V1 was driven by a forty-seven year old belted male who was uninjured in the crash. The driver of V1 did state that he is an insulin dependant diabetic. EMS did a blood sugar test on scene when they discovered the driver in insulin shock, which indicated a blood sugar reading of 20. The Critical Pre-crash Event for V1 was this vehicle traveling over the lane line on the left side of the travel lane. The Critical Reason for the Critical Event was coded "heart attack or other physical impairment of the ability to act," due to the driver being in diabetic shock. Associated factors coded to this driver include the medical conditions of Type I diabetes and high blood pressure, the use of medications to control these conditions, and a tire deficiency on V1 because it had low tire tread on oversized tires. V2 was driven by a thirty-seven year old belted male who was uninjured in the crash. He saw V1 coming and said he could do nothing to avoid the collision. The Critical Pre-crash Event for V1 was other vehicle encroachment from the opposite direction over the left lane line. The Critical Reason was not coded to this vehicle. No associated factors were coded to this driver. V3 was driven by a fifty-four year old belted male who was not injured in the crash. He also claimed that he was not able to avoid a collision (event 2) but this was due to traffic in lane 1, northbound. V3 was not involved in the first harmful event and so no Critical Pre-crash Event and no Critical Reason were coded. No associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred on a two-lane asphalt roadway with a posted speed limit of 35mph (56 kph.). It was a weekday afternoon. Vehicle 3 a 1997 Saturn SL was stopped heading south at an intersection waiting to turn left. Vehicle 2 a 2003 Volkswagen Passat was stopped behind Vehicle 3. Vehicle 1 a 1996 GMC Jimmy was traveling south behind Vehicle 2. The front of Vehicle 1 contacted the back of Vehicle 2, pushing Vehicle 2 forward into Vehicle 3. Vehicle 1 was driven by a 32 yr. old female who stated to the police that she was looking to her right and by the time she looked forward she was into the rear of Vehicle 2. The Critical Precrash Event for Vehicle 1 was other motor vehicle in lane stopped. The Critical Reason for the Critical Precrash Event was inadequate surveillance. Vehicle 2 was driven by a 62 yr. old male who stated he stopped because Vehicle 1 in front of him was turning left. He left one and a half car lengths between the two cars when he stopped. He noticed an SUV in his rearview mirror and was watching him to see if he would stop. He noticed that the vehicle was not stopping and it hit him in the back and pushed him into the back of the car in front of him. The Critical Precrash Event for Vehicle 2 was other motor vehicle in lane traviling in same direction with higher speed. The Critical Reason was not coded to this vehicle. Vehicle 3 was driven by a 58 yr. old male, who stated that he was the first car stopped to turn left. He was waiting fro oncoming traffic, another car was stopped behind him. A third car crested the hill and hit the car bhind him pushing it inot his car. The Critical Precrash Event and Reason were not coded to this vehicle because it was not involved in the first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+Vehicle 3:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

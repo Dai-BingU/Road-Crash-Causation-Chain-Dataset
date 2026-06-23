@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at a four-way intersection of two rural roadways. Each roadway was a two-way, two-lane, undivided roadway leading to a traffic signal controlled intersection. The roadway had a posted speed of 45 MPH. The southbound lanes had an uphill grade of 1%. The other lanes were level. Conditions were daylight with rain. The crash occurred in the early afternoon on a weekday. Vehicle #1 was a 2002 Ford Explorer traveling south approaching the intersection. Vehicle #2 was a 2001 Dodge 3500 Dually pickup traveling west approaching the same intersection. V2 came to a stop at the intersection for a red signal light. V1 proceeded towards the intersection as a tractor-trailer was passing through the intersection from the opposite direction. The tractor-trailer temporarily obscured V1 and V2's view of each other, as well as V2's view of the traffic signal. After the tractor-trailer had cleared the intersection, V2 proceeded into the intersection. The front of V1 struck the right side of V2. Both vehicles came to rest on the southwest roadside. V1 was driven by a 48-year old male who was transported to a local hospital with possible injuries. He stated that he thought the tractor-trailer distracted the other driver into forgetting about the traffic light. He estimated his travel speed to be 40 MPH due to a recent fear of intersections and deer. He stated that he braked and steered right when he saw the other vehicle enter the intersection. His sport utility vehicle was towed due to damage. The Critical Precrash Event for V1 was when V2 encroached into the path of this vehicle from a crossing street, driving across the path of the roadway. No Critical Reason was coded to this vehicle. An associated factor was the tractor-trailer obscuring the sight line temporarily. Another associated factor was this driver's preexisting diabetes and high blood pressure. He was taking medication for these conditions but was unable to remember the name of the medications. He recently had surgery on his neck and heart, this was not thought to have contributed to the crash. He was familiar with the roadway and his vehicle. V2 was driven by a 56-year old female who was uninjured. She stated that she stopped at the intersection for approximately 30 seconds and then proceeded through with a green light. Her vehicle was towed due to damage. The Critical Precrash Event for V2 was this vehicle crossing over the intersection. The Critical Reason was a decision error, illegal maneuver. She had gone through the intersection believing she had the green light. There were several associated factors coded to this driver. She was upset because the day before the crash, a horse she was training had taken a fall and was hurt. She was taking seven prescription medications - four hormone therapy, one thyroid and two antidepressants at the time of the crash. The possible side effects from these medications are: depression, changes in mood, headache, including migraine, nervousness, dizziness, tiredness, confusion, blurred vision, tremors, rapid heart rate, but this was not thought to have contributed to the crash. The driver was from out of state and not familiar with the area.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Roadway, Weather/Environment present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience, Driver Stress/Emotion, Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

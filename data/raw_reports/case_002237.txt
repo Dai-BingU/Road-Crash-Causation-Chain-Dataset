@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on the roadway of a two-lane, two-way, non-divided rural, asphalt roadway with a posted speed limit of 72Kmh (45Mph). There were no adverse conditions present at the time of the crash. V1 a 1989 Chevy truck was heading west bound. V2 a 2001 Kia Sephia was stopped in the west bound lane waiting to turn left. V1 contacted V2 in the rear bumper with its front bumper. The driver of V1 a 24 year-old male driver stated that he was looking at a car wash sign that some kids were holding on the side of the road. He then stated that when he looked back forward the other vehicle was stopped in front of him; he hit the brakes but could not stop in time. The Critical Pre-crash Event coded for V1 is “other motor vehicle in lane, other vehicle stopped”. The Critical Reason for the Critical Event Coded for V1 is “Driver related, external distraction”. The diver of V2 a 49 year-old female stated that she was stopped in the roadway waiting for traffic to clear so she could turn left, when she was hit in the back of her vehicle by V2. She then stated that she did not see him coming from behind. The Critical Pre-crash Event coded for V2 is “other vehicle in lane, traveling in same direction with higher speed”. V2 was not assigned a Critical Reason.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

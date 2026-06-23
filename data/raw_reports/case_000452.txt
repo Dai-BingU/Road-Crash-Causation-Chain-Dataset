@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash is a single vehicle, double fatality crash that occurred in a mountainous area with varying curves, elevations and speed limits. It was determined by law enforcement officers that the crash was not discovered until 6 days after it occurred. In the area of the crash, the westbound travel lane curved left, then right and had an uphill elevation of 9%. The super elevation for the westbound lane is +2%. According to past weather reports, there were no adverse weather conditions on the determined day of the crash. Following the time line from statements made by relatives of the driver and passenger, it is likely that the crash occurred during daylight. It is unknown if any other possible environmental factors were present at the time. The speed limit for the area is 72 kmph (45 mph) with an advisory speed of 64 kmph (40 mph). Vehicle one (V1) a 2001 GMC Sierra 4X4 pickup driven by a 36 year-old male with one passenger was westbound when for unknown reasons, departed the right side road edge into a paved pullout area. As V1 departed the road, it rotated in a clockwise direction where it slid through a soft dirt berm at the edge of the pull out and fell over the embankment with its left side leading. The vehicle rolled an unknown number of times down a steep canyon with a grade of -42% and came to rest at the bottom of the canyon on its wheels 1300 feet (390 meters) down. This was determined by the tow truck personnel who required that much cable to reach the vehicle at the bottom of the canyon. V1 was towed due to damage. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical event was coded: unknown reason for critical event. Associative factors include positive results for drug and alcohol consumption that were noted in the autopsy report. The toxicological laboratory report on the driver revealed a blood methamphetamine level of 8.1 mg/L and a blood alcohol level of .02%.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Unknown Reason - Unknown reason for critical event

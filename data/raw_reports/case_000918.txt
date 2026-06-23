@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a five-lane undivided roadway with a two-way center turn lane. The roadway had a posted speed of 72 kmph (45 mph) and the eastbound lanes had a 5% uphill grade. Conditions were daylight and dry roads. The crash occurred in the late morning hours of a weekend day. At the time of the crash, the stadium adjacent to this roadway was hosting a basketball game. Traffic conditions were subsequently crowded. Vehicle one was a 1994 Toyota Camry sedan traveling eastbound in lane one. Vehicle two was a 2004 Buick LeSabre traveling west in lane three, the center turn lane. V2 was following a relative in a vehicle ahead of him. Eastbound traffic in lane two came to a stop to allow the relative and V2 to turn left. Both vehicles proceeded to turn left. V2 did not see V1 approaching in lane one due to traffic obstruction. The front of V1 contacted the right side of V2. V1 came to rest on the south shoulder. V2 accelerated in an attempted avoidance maneuver, losing control and traveling into a ditch on the south west roadside. Vehicle one was driven by a 16-year old female who was uninjured. She stated that an oncoming car turned in front of her. She estimated her travel speed at 72 kmph (45 mph), but was unsure of her speed at impact. This vehicle was not towed due to damage. The Critical Precrash Event for V1 was encroachment of V2 from the opposite direction over the left lane line. A Critical Reason was not coded to the driver of V1. Associated factors were light rain, dense traffic conditions, allergy medication, corrective lens use, and the relative inexperience of this young driver. Vehicle two was driven by an 82-year old male who was uninjured. He stated that he was turning left in front of stopped traffic and didn't see the approaching vehicle. He said that he stopped for only a brief moment before proceeding to turn left. He then accelerated and estimated his speed at impact to be 40 kmph (25 mph). He lost control and went into a ditch. This vehicle was towed due to damage. The Critical Precrash Event for V2 was this vehicle turning left at the intersection. The Critical Reason was the driver's view was obstructed by other vehicles. Associated factors were light rain, dense traffic conditions, 3 hours of drive time preceding the crash, unfamiliarity with the roadway, and the elderly age of the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Drugs, Traffic, Weather/Environment present problem 
+Vehicle 2:  Driver Inexperience, Drugs, Roadway, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Environment Related Factor- View obstructed by other vehicles

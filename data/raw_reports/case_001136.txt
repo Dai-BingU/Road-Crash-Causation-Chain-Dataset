@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two vehicle daytime collision occurred early evening. The collision occurred on southbound travel lanes of a multi-level full access control highway, where the southbound lanes are under the northbound lanes. The pre-crash roadway for both vehicles is a level, worn, concrete paving. The roadway has a posted speed limit of 80 Kmph (50mph). There are three lanes of traffic, with on and off ramps from the left side. Vehicle 1 (V1), a 2001 Dodge Grand Caravan driven by a 23 year-old male with one passenger was traveling southbound on the roadway in lane 2. Vehicle 2 (V2), a 1963 Austin Healey 3000 Mk II convertible, driven by a 58 year-old male with one passenger was traveling southbound in lane 1 about 30 to the rear of V1. A non-contact vehicle, unknown white pickup, changed from lane 1 to lane 2 and slowed down rapidly before moving to lane 3 and taking the left exit. The driver of V1 did not feel that he had enough space to brake and avoid contact with the pickup, and steered to the right to avoid a collision. In steering to the right, V1 entered lane 1 and the right side of V1 struck the left side of V2. V2 then struck the right curb and rode up the curb coming to rest against the concrete guardrail. The pre-event movement for V1 coded negotiating a curve, category this vehicle traveling over the lane line on right side of travel lane. Critical reason driver related factor "Incorrect evasive action". The pre-event movement for V2 coded negotiating a curve, category other vehicle encroachment from adjacent lane (same direction) over left lane line. Critical reason not coded to this vehicle. Additional factor for V1, inadequate surveillance looked but didn't see.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Driver Physical, Driver Stress/Emotion, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

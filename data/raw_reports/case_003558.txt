@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of a north/south urban two-lane secondary arterial road and a two-lane east/west residential side street. The intersection was controlled by a traffic signal. The posted speed limit was 48kmph (30mph). Conditions were daylight and dry on a weekday afternoon. Vehicle #1 was a 1997 Nissan Altima traveling north on the two-lane arterial road approaching the intersection. Vehicle #2, a 2004 Ford F-150 pickup was stopped northbound ahead at the intersection. The light was green but no turn arrow was present so the pickup (V2) was stopped waiting for traffic to clear before making a left turn to go west on the side street. The front of Vehicle #1 struck the back of Vehicle #2. Both vehicles came to rest near impact. Vehicle #1 was driven by a 17-year old female that was belted with no deployed airbags. She was transported to a local hospital where she was treated and released with minor injuries. Police issued her a citation for no proof of insurance. At the scene the driver told police that she crashed because she was having chest pains and could not feel her lower body. Upon arrival at the hospital, the driver of V1 told medical staff the same thing. She also indicated that she had been having chest pain for the past week. An ECG was conducted that indicated an abnormal T-rhythm. The Critical Pre-crash Event for Vehicle #1 was other vehicle in lane stopped. The Critical Reason for the Critical Event was coded as an "other" critical non-performance error, and specified as "insufficient braking due to chest pain." Associated factors were unknown since no interview was obtained. The driver takes several medications for asthma. Vehicle #2 was operated by a 52-year old male that was belted and not injured in the crash. He stated he'd been stopped several seconds prior to impact. The Critical Pre-crash Event for Vehicle #2 was other vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. The driver was wearing glasses to correct a farsighted condition and takes two medications for diabetes.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other critical non-performance (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred during early evening hours on a dry, three-lane, level, bituminous, residential roadway that runs east/west. This roadway intersects with a two lane, dry, level, bituminous roadway that extends north from the east/west roadway. The roadway was dark at the time of the crash and there were no adverse atmospheric conditions at the time of the crash. The speed limit is 48 kph (30 mph). Vehicle one, a 1990 Ford Tempo, was traveling westbound in lane one. Vehicle one departed the right side of the road, struck a curb and the ground before the front right corner contacted a utility pole located four feet north of the curb line. Vehicle one came to rest facing northwest in lane one. The driver was not injured and the vehicle was towed from the scene. The driver was lost, conversing on the phone getting directions. He had been drinking and taking medication. The pre-event movement for vehicle one was coded "going straight." The critical pre-crash event was coded "this vehicle traveling-off the edge of the road on the right side."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Cell Phone Use, Distraction, Driver Fatigue, Driver Inexperience, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

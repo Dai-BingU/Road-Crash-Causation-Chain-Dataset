@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the morning hours of a weekday in the southbound travel lane of a two-way north/south roadway, with a single lane of travel in each direction. The roadway was straight and level, and it was daylight and clear with no adverse conditions. Traffic conditions were normal and the speed limit was 48kmph (30mph). V1, a 1997 Honda CRV four door SUV with a single occupant, was traveling southbound. V2, a 1995 Toyota Avalon four door with three occupants was also traveling southbound behind V1. An unknown female pedestrian began to crossover from the west sidewalk to the east sidewalk without checking for traffic to be cleared. V1 came to a complete stop to avoid contacting the pedestrian. At this time V2 was going around a double parked Truck and saw that V1 had stopped in the travel lane and tried to stop however the frontal plane of V2 contacted the rear plane of V1. V1, the Honda CRV, was driven by a 46 year-old female who sustained no injuries The driver stated that she only stopped her vehicle to avoid hitting the unknown female pedestrian. The Critical Pre-crash Event for Vehicle 1 was coded as: "other motor vehicle in lane, traveling in same direction with higher speed". The Critical Reason for the Critical Event was not coded to this driver. No associated factors were coded to V1 and the driver was not thought to have contributed to the crash. V2, the Toyota Avalon, was driven by a 29 year-old female who also reported no injuries. She stated that she was just driving at the normal speed when the other vehicle was stopped in the travel lane as she came from around the double-parked truck. She didn't think that V1 would stop that short and she ran into the back of V1. The Critical Pre-crash Event for V2 was coded as: "other motor vehicle in lane, other vehicle stopped". The Critical Reason for the Critical Event was coded as a driver related factor, "falso assumption of other road user's actions." A decision factor of following too closely was coded as an associated factor. A sightline restriction due to the double-parked truck was also coded to the driver of V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Passing or overtaking another vehicle
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

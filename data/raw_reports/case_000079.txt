@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at a few hours before midnight on a westbound expressway consisting of 4 travel lanes with shoulders on both sides and a concrete barrier on the left side which separates the westbound lanes from eastbound traffic. The roadway is straight, level, concrete, and was dry at the time of the crash. It was a dark, but clear evening and the expressway was illuminated by street lights and had a posted speed limit of 89 kmph (55 mph). Vehicle one (V1), a 1988 Buick LeSabre 4-door, was traveling in the third lane. Vehicle two (V2), a 2002 Chevrolet Blazer S-10 2-door, driven by a 50 year-old male was traveling in the #4 lane. V1, driver information unknown, departed the #3 lane into the #4 lane and impacted with the right side of V2 and the front of V1 collided. V2 lost control then entered a counterclockwise rotation and rolled right 2 quarter-turns onto its top and slid to final rest in the #4 lane facing generally west. After impact with V2, V1 departed the left side of the roadway and contacted the concrete barrier with it's left side, then came to final rest on the south shoulder, facing generally west. The V1 driver left the scene on foot and has not been located or identified. Both vehicles were towed due to damage. The critical pre-crash event for V1 was coded: this vehicle traveling, over the lane line on left side of travel lane. The critical reason was coded to V1 as a driver related factor: type of driver error unknown (driver fled scene on foot). Although the V1 driver fled the scene, V1 had a strong odor of liquor and empty liquor bottles in the vehicle. The V1 right front tire was severely damaged but it is unknown if this occurred before the crash or after. A tire blowout may have occurred, however the driver's physical state is the more likely factor for this crash. The critical pre-crash event for V2 was coded: other vehicle encroachment; from adjacent lane (same direction) - over right lane line. The critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

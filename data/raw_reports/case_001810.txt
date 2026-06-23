@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a four-way intersection. The north/south section is comprised of two through lanes and a left-turn lane in each direction. The west leg of the intersection is a non-divided two-way road, and the east leg is a one-way, westbound, roadway. The intersection is controlled by stoplights at all four legs. The weather condition at the time of a crash was a light rain and the roads were wet. The speed limit on the roadway was 48 kph (30 mph). Vehicle one, a 2000 Oldsmobile Alero was traveling southbound in the second lane. Vehicle two, a 2001 Nissan Xterra was traveling northbound in the left turn lane. Vehicle two turned left at the intersection. The front of vehicle one contacted the right side of vehicle two. Vehicle one was not towed due to damage. Vehicle two was towed due to damage. The driver of vehicle one, a twenty-five year old male was heading home after shopping. This driver had been driving for only a few minutes at the time of the crash. This driver stated that he thinks that as vehicle two was turning it lost control on the wet roads but there is no evidence of this. The driver of vehicle one drives this vehicle daily and over this road on a daily basis. The driver of vehicle two, a fifty-nine year old male was not interviewed. There is no known pre-crash information for this driver. The critical pre-crash event for vehicle one was coded as “other vehicle encroachment: from opposite direction-over left lane line”. The critical reason for the critical pre-crash event for vehicle one was coded as “not coded to this vehicle”. The critical pre-crash event for vehicle two was as “this vehicle traveling: turning left at intersection”. The critical reason for the pre-crash event for vehicle two was coded as “Unknown Reason”. This was coded due to the lack of interview and vehicle inspection for vehicle two.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Weather/Environment present problem 
+Vehicle 2:  Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Unknown Reason - Unknown reason for critical event

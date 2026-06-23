@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This one-vehicle crash occurred a few hours before midnight in the westbound lanes of a straight, level, dry, asphalt divided roadway. The four westbound lanes are bordered by paved shoulders and separated from the eastbound lanes by a jersey barrier. The speed limit on this roadway is 89 kmph (55 mph) and there were no adverse atmospheric conditions at the time of the crash. Vehicle one (V1), a 1990 Toyota Camry sedan, driven by a 18 year-old female with four passengers was traveling westbound in lane four. The driver stated that while she was traveling at about 97-105 kmph (60-65 mph), when the steering failed and the vehicle responded as if the alignment was defective. She said the vehicle swerved left, right then left again and she lost control. The vehicle traveled off the left side of the roadway skidding counterclockwise and the front and then the right side struck the median jersey barrier. The vehicle came to rest facing east on the shoulder and was towed due to damage. The critical pre-crash event for V1 was coded: this vehicle control loss due to - traveling too fast for conditions. The critical reason for the critical event was coded as a driver related factor: poor directional control (e.g., failing to control vehicle with skill ordinarily expected.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Performance, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

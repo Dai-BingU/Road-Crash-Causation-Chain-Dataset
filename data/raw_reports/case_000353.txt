@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 2000 Chevrolet Silverado was traveling westbound on a two lane, one way, dry concrete roadway in daylight conditions. The roadway was level and had a speed limit of 40kmph. V1 was intending to go straight through the intersection. V2, a 1994 Buick Regal was traveling southbound on a four lane, one way dry concrete roadway in daylight conditions. The roadway was level with a speed of 56kmph. V2 was intending to go straight. V1 was disoriented; this was her first time on this roadway. She was looking at the road signs. She did not see the stop signs posted on each side of the roadway. V1 did not stop at the intersection and the front of V1 contacted the left of V2. The left of V2 then contacted the right of V1. V1 came to rest in lane one of the southbound lanes. V2 departed the roadway on the right side of the southbound lanes before coming to final rest. V1, the Chevrolet Silverado was driven by a 48-year old female. She reported minor injuries, but refused treatment. She advised that she was on her way t\o a work meeting. She stated that she was traveling between 34-48kmph (21-30mph) when she saw a white car in front of her (V2) but she could not avoid it. The Critical Precrash Event for the driver of V1 was “this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Precrash Event was a recognition error-external distraction, because she was looking for a street and did not notice the stop sign. V2, the 1994 Buick Regal was driven by a 24-year old male. He reported minor injuries, but refused treatment. He stated that he was in the right lane and could not see V1 approaching the intersection due to shrubbery. He stated that he had been traveling between 34-48kmph (21-30mph). He was on his way to school. He did not see V1 at all and did not try any avoidance actions. The Critical Precrash Event for the driver of V2 was “other motor vehicle in lane, in crossover.” The Critical Reason for the Critical Precrash Event was not coded to this vehicle. An associated factor for both V1 and V2 was the sightline restriction from the shrubbery.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

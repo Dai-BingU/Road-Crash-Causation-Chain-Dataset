@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred at the intersection of a five-lane, divided north/south roadway and a two-lane, one-way east/west roadway. For southbound traffic there are three travel lanes. Both roadways were straight, level, dry and of concrete construction. There was road construction at the intersection. Overhead traffic control lights control traffic at the northeast corner of the intersection. The posted speed limit is 32 kmph (20 mph). Traffic was light at the time of the crash. This crash occurred during daylight hours with clear skies. Vehicle one (V1), a 2005 Chevrolet Uplander with one occupant, was southbound in the second travel lane. Vehicle two (V2), a 2001 Toyota Camry, was eastbound in the second travel lane. V2 entered the intersection and the front of V1 impacted the left front of V2. V1 rotated counter clockwise, V2 clockwise and the right side of V1 struck the left side of V2. V2 came to rest facing southeast, partially off the roadway on the southeast corner. V1 came to rest facing east in the intersection. Both vehicles were towed due to damage. The driver of V1 was transported while the driver of V2 received treatment at the scene. The driver of V1, a fifty-nine year old male, was heading to an auction from work. He was late for a business appointment. This driver had been driving for about fifteen minutes, drives the route daily and is familiar with the vehicle. The driver stated the light was green as he entered the intersection. He did not detect V2 until impact and did not attempt any evasive maneuvers. He failed to look to his right for cross traffic. Driver did not state the road construction was a distraction. The critical pre-crash event for V1 was coded: other vehicle encroachment-from crossing street, across path. The critical reason was not coded to this vehicle. The driver of V2, a forty-six year old male lawyer had just left court and was heading to a bank. This driver stated that he was unsure of the signal color at the time of the collision but commented on the road construction. The driver drives the route daily and is familiar with the vehicle. He works every day, 60 hours per week, and does not remember when he had a day off. His thoughts were pre-occupied after just leaving the courtroom, and he was distracted by the road construction and possibly fatigued. He failed to detect the light changing to red as he approached the intersection and did not see V1 approaching from his left as he entered the intersection. The critical pre-crash event for V2 was coded: this vehicle traveling-crossing over (passing through) intersection. The critical reason for V2 was coded: as a driver related recognition error: Inattention (i.e. daydreaming). It was reasoned that a combination of his thoughts were pre-occupied after just leaving the courtroom, being distracted by the road construction and possibly fatigue led to a failure of recognition of the traffic light status and the presence of V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Stress/Emotion, Surveillance, Traffic present problem 
+Vehicle 2:  Decision, Distraction, Driver Fatigue, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inattention (i.e., daydreaming)

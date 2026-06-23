@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 2004 Pontiac Grand Am, was traveling eastbound on a four-lane, two-way, dry asphalt roadway, with a level grade in daylight conditions. The posted speed limit was 72 kmph (45 mph). V1 was traveling in lane two and was slowing to make a left-hand turn into a commercial drive. V2, a 1999 Chevrolet Suburban, was traveling on the same roadway in front of V2, intending to turn left at the same drive. The driver of V1 reported that she did not see V2 ahead of her. The front of V1 contacted the back of V2. A fire started in the engine compartment of V1 as a result of the crash. Both vehicles then came to final rest in the roadway. The driver of V1 was a 58-year old female who reported that she had been traveling between 2-16 kmph (1-10 mph) prior to the crash. She had no health-related problems and had taken no medications prior to the crash. She was rested and traveling to the store. She was wearing her prescribed lenses that corrected both hyperopic (far-sighted) and myopic (near-sighted) conditions. She sustained minor injuries and was treated on scene. The Critical Precrash Event for the driver of V1 was "Other motor vehicle in lane traveling in same direction while decelerating." The Critical Reason for the Critical Precrash Event was driver inattention, a recognition error. The driver of V1 was familiar with both her vehicle and the roadway, driving the road on a daily basis. The driver of V2 was a 61-year old female who reported that she had been traveling between 2-16 kmph (1-10 mph) prior to the crash. She has a history of heart-related problems and had taken medication for it prior to the crash. She was rested and traveling to the store. She was wearing her prescribed lenses that corrected a myopic (near-sighted) condition. She did not sustain any injuries and refused treatment. The driver of V2 was also familiar with both her vehicle and the roadway. The Critical Precrash Event for the driver of V1 was "Other motor vehicle in lane traveling in same direction with higher speed." The Critical Reason for the Critical Precrash Event was not coded to the driver of V2 and she was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

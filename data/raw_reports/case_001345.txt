@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This is a single-vehicle crash mid morning crash occurred on a 2-lane northbound highway that curves right on a downhill elevation, is of bituminous construction, and is divided from 2 southbound lanes by an extended median. The roadway has a full shoulder to the right, a partial shoulder to the left, and rumble strips on both shoulders. There are guardrails on both sides of the road where embankments drop off, and no guardrails where embankments climb vertically. The crash occurred during daylight on a clear day, and there were no adverse weather conditions or road defects. The posted speed limit for the roadway is 104 kph (65 mph). Approximately 175 meters prior to the crash site, an advisory speed limit sign for the curve of 88 kph (55 mph) was posted as well as a 6% downhill grade warning sign. Vehicle one (V1), a 2000 Ford Contour 4-door sedan, was southbound in the #2 lane negotiating the right-hand curve when it departed the roadway to the left and contacted the guardrail with it's left side. V1 then steered to the right, entered a clockwise yaw, crossed and exited the right side of the road, tripped over on the unpaved shoulder, rolled 2 quarter turns to the left, struck the steep embankment with the top plane, slid a short distance while inverted, and came to rest at the base of the embankment on it's top facing generally north. V1 was towed due to damage. The V1 driver, a 22-year-old male, was not interviewed and is it unknown where this driver was headed and how long he had been driving. The PAR stated that the V1 driver said that he was fatigued and the medical report indicates presence of illegal drugs and a blood alcohol level of .01. The critical pre-crash event was coded as "this vehicle traveling: off the edge of the road on the left side". The critical reason for the critical pre-crash event was coded as "Driver related factor: sleeping, that is actually asleep". This was taken from two sources, the PAR and EMS reports in the medical records.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Fatigue, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

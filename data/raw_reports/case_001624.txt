@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at a 4-way intersection controlled by traffic control signals. The north/south roadway is a 2-way, 2-lane concrete, straight, undivided roadway with a slight incline for vehicles approaching the intersection from either direction. The roadway is off set by approximately 3 meters (9.8 feet). The speed limit for both vehicles is 56 kmph (35 mph). There was no traffic, environmental or ambient factors involved. The crash occurred in the evening hours at dusk. Vehicle two (V2), a tan 1999 Mazda Protege 4 door sedan occupied only by the 56 year old female driver, was traveling south in lane one approaching the collision intersection. The driver intended to go straight through the intersection. The traffic control signal was green for each direction of travel with no protected left turn phase. Vehicle one (V1), a green 1993 Mercury cougar 2 door coupe occupied only by the 16 year old male driver, was northbound in lane one approaching the intersection. The driver of V1 attempted a left turn and the front of V1 impacted with the front of V2. Both vehicles came to rest adjacent to the impact point. . Both drivers complained of injury, but were not transported. V2 was towed from the scene; V1 was not towed. The driver of V1 misjudged the speed and gap of V2. This driver had less than one year driving experience. The driver of V2 thought the driver of V1 was just going to go straight and not turn left. The driver of V2 did not see a turn signal on V1 activated. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason was coded to V1 as a driver related factor: misjudgment of gap or other's speed. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

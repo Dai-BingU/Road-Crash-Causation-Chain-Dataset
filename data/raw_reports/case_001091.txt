@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred in the middle of a four-way offset intersection. The asphalt road was dry, level, and there were no adverse weather conditions. The posted speed limit was 40 kmph (25 mph) for both roadways. East and westbound traffic was controlled by stop signs; north and southbound traffic had no traffic control device. The crash occurred in the mid-afternoon on a weekend. The traffic flow was moderate without congestion. Vehicle one, a 1996 Ford Taurus, was traveling northbound at approximately 56 kmph (35 mph) passing through the intersection with the right of way when Vehicle two (V2), a 1989 Pontiac Grand Prix that was traveling eastbound, crossed in front of it. The front of V1 struck the right side of V2. Although V2 had a stop sign, the driver of V2 stated that she didn't see it because she was adjusting the radio and also because the stop sign was completely white, not red with white letters. The driver of V2, a 38-year old female, suffered only minor injuries and went to the hospital later after driving home first. She said that she rarely drives this route and was apprehensive about entering the intersection because it looked busy. When asked if she thought that her adjusting the radio interfered with her operating the vehicle she said "no." The driver of V1, a 22-year old male, was transported directly to the hospital and was later interviewed by phone. He stated that he had the right of way and that V2 crossed in front of his path. He was familiar with the intersection and knows to be careful but it all happened fast. The Critical Pre-Crash Event for V1 was other vehicle encroachment from crossing street, across path. The Critical Reason was not coded to V1. One associated factor coded to this driver was excess speed, because by his own admission, he was traveling at least 10 mph over the speed limit. The Critical Pre-crash Event for V2 was coded as this vehicle crossing over (passing through) intersection. The Critical Reason was coded as an internal distraction because the driver was adjusting her radio as she entered the intersection. Associated factors coded to this driver include the discolored stop sign (a roadway-related factor), inadequate surveillance, unfamiliarity with the roadway, and an illegal maneuver (failed to stop for TCD).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Internal distraction

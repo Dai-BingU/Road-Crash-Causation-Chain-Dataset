@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred mid-morning involved three vehicles at the intersection of a one-way, three lane roadway and a one way, three lane roadway . Both roads were dry, polished concrete. The westbound travel direction had a positive grade and a left curve prior to the intersection. The northbound travel direction had a negative grade. The posted speed limit was 64 kmph (40 mph). It was just after rush hour. There were no adverse weather conditions. The traffic is controlled by a traffic light. Vehicle one (V1), a 2002 Ford F-150 was traveling westbound in the second travel lane. Vehicle two (V2), a 2002 Toyota Echo, was traveling northbound in the second travel lane. Vehicle three (V3), a 2003 Infinity G-35, was traveling northbound in the third travel lane. V1 entered the intersection without the right of way and was struck on the left side by the front of V2. V1 rotated clockwise and the left side was struck by the right side of V2. V1 came to rest in the intersection after hitting a retaining wall facing northwest. V2 rotated counterclockwise and was struck on the right by the left of V1. V2 was then struck on the left by the right side of V3. Both V2 and V3 moved northwest and came to rest in the middle of the intersection facing north-northwest. All three vehicles were towed from the scene. V1 was driven by a 26 year-old male how was rested and no medical condition. The driver of V1 stated he ran red light thinking he had green light but he had actually been looking at the light that was for northbound traffic on his approach to the intersection around the curve. V2 was driven by a 52 year-old male. No interview was obtained with this driver. V3 was driven by a 36 year-old male. The driver of V3 was on his daily commute to work & was listening to the radio as he was driving. He was well rested and had no illness. There are no additional factors for this driver. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason was coded to V1 as a driver related factor: Inadequate surveillance (e.g., failed to look, looked but did not see). The critical pre-crash event for V2 was coded: other vehicle encroachment, from crossing street, across path. The critical reason was not coded to this vehicle. V3 was not involved in the first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Inexperience, Driver Stress/Emotion, Drugs, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+Vehicle 3:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

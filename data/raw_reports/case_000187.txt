@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the late morning of a weekday on a two-way, two-lane, residential roadway. The northbound lane curved right while the southbound lane curved left. The bituminous roadway had a posted speed limit of 56kmph (35 mph). The northbound lane approach was on level ground while the southbound lane approach was on a 4% uphill grade. Traffic flow was normal with no adverse atmospheric conditions at the time of the crash. V1, a 1995 Volvo 850 station wagon, was northbound in lane one traveling at the speed limit. V2, a 1996 Buick LeSabre sedan, was southbound in lane one also traveling at the speed limit. As V1 negotiated the curve it drifted over the centerline and into the oncoming travel lane. The front of V1 impacted the left side of V2. Both vehicles came to rest on the edge of the southbound lane of travel. V1 was driven by a belted 65 year-old female who was in good health and wearing her prescription lenses that corrected a hyperopic (far-sighted) condition. She stated that she was heading home from a friend's house when she fell asleep. The driver was treated on scene for minor injuries and V1 was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle traveling over the lane line on the left side of the travel lane. The Critical Reason was a driver-related factor, a critical non-performance error of falling asleep. There were no additional associated factors coded to the driver of V1. V2 was driven by a belted 81 year-old female who was transported to a local trauma center with non-incapacitating injuries. Her right front passenger was also taken to the trauma center for a similar severity of injuries. The driver stated that she was driving her husband to lunch when another vehicle came into her lane. This driver braked and steered right, but was unable to avoid collision. V2 was toed from the scene because the driver and passenger of the vehicle were transported for the treatment of their injuries. The Critical Precrash Event for V2 was coded as other vehicle encroachment, from the opposite direction, over the left lane line. The Critical Reason was not coded to this vehicle. The only associated factor coded to V2 was a possible inattention as the driver was talking casually with her husband at the time of the crash. No further factors could be coded since this driver only gave a partial interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Drugs present problem 
+Vehicle 2:  Distraction, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

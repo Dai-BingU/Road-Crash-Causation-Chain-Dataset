@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred shortly after noon during daylight hours at a four-way intersection. The northbound and southbound roadways consist of three lanes in each direction prior to the intersection and two afterwards. The eastbound and westbound roadways are each two lanes in either direction. Traffic control devices with pedestrian signals control the intersection and they were functioning properly. The roadways were straight, level, dry asphalt did not have any deficiencies, and the weather was clear outside at the time of the crash. The speed limit for all roadways is 48 kmph (30 mph). Vehicle one (V1), a 2000 Chevrolet Malibu sedan driven by a 23 year-old female was traveling eastbound stopped at the traffic light at the intersection. Vehicle two (V2), a 1999 International tractor hauling a Wabash trailer driven by a 37 year-old male was traveling northbound and attempting to make a left turn to head eastbound. V 1 moved her vehicle as far over to the right curbside as possible. V2 at the end of the turn scraped V1's back end with the rear of the tractor's trailer and tore off the entire bumper cover of V1. The critical pre-crash event for V1 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason not coded to this vehicle. The driver of V2 was coming from an out-of-state warehouse to deliver his load at a warehouse in this state. It is unknown how long he had been driving; however the distance driven was 161 kilometers (100 miles). He stated he was in a hurry due to being late for the scheduled delivery. It is unknown if he was fatigued or the number of hours worked per week. He was an experienced driver for this class of vehicle as he has driven them for 14 years with 21 years of total driving experience. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason was coded to V2 as a driver related performance error: poor directional control (e.g., failing to control vehicle with skill ordinarily expected). The driver of V1 recognized that V2 needed room to complete his turn and moved to the right. V2's driver used poor judgment of his trailer's turning radius needed to complete the turn without encroachment upon V1. He misjudged this gap distance mainly due to being in a hurry to make his delivery. He is familiar with this route and drives it monthly.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Distraction, Driver Performance, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

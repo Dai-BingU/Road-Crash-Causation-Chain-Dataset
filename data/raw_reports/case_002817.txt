@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary V1, a 1995 Buick LeSabre, was traveling southbound on a five-lane undivided roadway (3 lanes southbound, 2 lanes northbound) in the second lane of travel. The roadway was wet and level. The crash occurred in the early afternoon hours on a weekday. V2, a 1986 Dodge Ram pickup, was stopped facing south in the third lane of travel (a left hand turn lane) on the same roadway, intending to turn left at a 4-way signalized intersection. The Dodge was stopped behind V3, a 1997 Saturn SL1, which was also stopped in the left hand turn lane waiting to turn left at the intersection. V1 drifted from the second lane of travel into the third and the front of V1 contacted the back of V2. This impact pushed the front of V2 into the back of V3. All vehicles came to final rest on the roadway. The driver of V1 reported that he had no idea what had happened. He said that he blacked out just prior to the crash. The driver had one pre-existing health condition - asthma - but was not on medication. The driver had been traveling for 10 miles before crash occurred. He reported only having four hours of sleep the night before. He was reported as having minor injuries, but refused medical treatment. The Critical Precrash Event for the driver of V1 was another vehicle was stopped in his lane. The Critical Reason for the Critical Event was coded as "heart attack or other physical impairment of the ability to act," a critical non-performance error. This was chosen based on statements given by the driver of V1 to both the researcher and to police. The driver also admitted that he was fatigued at the time of the crash, he reported that he was in a hurry to get somewhere and that he had been thinking about some personal problems. Fatigue, being in a hurry, and thinking about personal problems were all coded as associated factors. The driver of V2 was waiting behind V3 at the traffic signal, waiting for V3 to complete his left turn so that he could make his own turn. While stopped in traffic, his vehicle was rear-ended by V1 and pushed into V3. The driver of V2 was wearing his prescription lenses that corrected a myopic (nearsighted) condition. He was not injured. The Critical Precrash Event for the driver of V2 was another vehicle was in his lane, traveling in the same direction but at a higher speed. The Critical Reason was not coded to the driver of V2 and he was not thought to have contributed to the crash. The driver of V3 was stopped at a traffic signal in the left turn lane, waiting for the light to change so that he could initiate a left turn when he was struck from behind by V2. V2 had been pushed into V3 by V1. The driver of V3 was taking unknown medications for high blood pressure and cholesterol. He was wearing prescription lenses for a hyperopic (farsighted) condition and was not injured. No Critical Precrash Event and no Critical Reasons were coded to the driver of V3 because he was not involved in the first harmful event. He was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Physical, Driver Stress/Emotion present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+Vehicle 3:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

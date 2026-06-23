@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west primary arterial road that was a two-way, five-lane road with no physical dividers. There were 2 travel lanes in each direction and a center left turn only lane for use by both travel directions. The roadway was straight and level for the most part, the exception being a slight curve to the left if traveling west with the apex about 20m east of impact. The radius of the curve was 388meters. There was a driveway intersecting from the south at the point of impact just west of the curves' apex. Conditions at the time of the crash were dark and unlit with a posted speed limit of 72kph (45mph) on a weeknight. Vehicle #1 was a 2001 GMC 1500 pickup traveling east on the road in the right lane. Vehicle #2, a 1990 Lincoln Town Car was traveling west on the road in the center turn lane. It slowed down but did not stop when it proceeded to make a left turn into the driveway. Vehicle #1 then engaged its brakes and swerved left but still contacted the right/back of Vehicle #2 with its (V1's) front. Vehicle #2 then rotated clockwise before contacting Vehicle #1 again, this time right/front to right/back in a sideslap. Vehicle #1 traveled about 15 meters east and came to rest facing east in the second eastbound lane. Vehicle #2 then went backwards and south into the driveway and hit the curb knocking the right rear wheel off and coming to rest facing north. Both vehicles were towed from the scene. Vehicle #1, was driven by a thirty four year old belted male, whose airbags did deploy. He was uninjured in the crash. He stated that he was headed east towards town in lane one when V2 just turned across in front of him. He stated that one second it looked like he was slowing to stop and wait and the next second je just kept driving. He slammed on his brakes and felt the ABS kick in and he tried to steer left but it was too late. He hit V2 in the right side. EDR data indicated a 5 second pre crash speed of 89kph (55mph). The Critical Pre crash Event for vehicle #1 was other vehicle encroachment; from opposite direction over the left lane line. The Critical Reason was not coded to this vehicle. Since Vehicle #1 was traveling 16 kmph (10mph) over the speed limit too fast for conditions was coded. The driver also claimed that when Vehicle #2 made its turn that his vision was temporarily obscured by Vehicle #2's headlights. Assumed that the other driver would yield the right of way was also coded. Vehicle #2, was driven by a seventy three year old belted male, who was uninjured in the crash. His right front passenger, a seventy four year old female was also belted but was transported from the scene via ambulance to a local hospital for treatment of possible injuries. The driver did ride along. The Critical Pre crash Event for Vehicle #2 was this vehicle traveling, turning left. The Critical Reason for the Critical Pre crash Event was coded misjudgment of gap and speed. It was difficult to code this without an interview but there were no sight restrictions and at night it would have been difficult to miss a white pickup truck with its lights on coming from the opposite direction in this particular scenario. No other factors were coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Misjudgment of gap or other's speed

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of a weekday on the right roadside of a suburban roadway. The east/west roadway was composed of two lanes in each direction divided by a center two-way left turn lane. The bituminous roadway was dry, straight, and level with a posted speed limit of 56kmph (35mph). The traffic flow was normal and there were no adverse atmospheric conditions. V1, a 1994 Chevrolet C-series pick-up, was eastbound traveling in lane two. V1 braked heavily and traveled off road to the right side where it contacted a utility pole with its right front corner. V1 continued forward across an intersecting street and over the curb before coming to final rest on the east side of the street in the grass. V1 was towed due to damage. The driver of V1, a 47 year-old male, sustained no injuries in the crash. He claimed to be in good health and taking no medications at this time. He stated that after work he gave a co-worker a ride home and that as he traveled eastbound there were two vehicles racing westbound toward him. One of the vehicles looked as if it were crossing the line. This driver stated he braked and steered right hitting the utility pole on the right side of the roadway. There were no witnesses to back-up the claim that there were vehicles racing at the time of the crash. The only physical evidence on-scene was skid marks that show V1 had braked hard in lane two and departed the road to the right. The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road on the right side. The Critical Reason for the Critical Event was coded as a driver related factor, poor directional control. The associated factors coded to this driver include the fact that he was intoxicated (BAC test = .21) as well as traveling too fast for conditions.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Fatigue, Driver Performance, Driver Stress/Emotion, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

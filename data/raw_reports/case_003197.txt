@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred at a T-intersection on an east/west two-lane undivided roadway. Conditions were daylight and dry in the afternoon on a weekday. The posted speed limit was 80 KMPH (50 MPH). V1 was a 2000 Chevy Express cargo van traveling westbound approaching a T-intersection intending on going straight. V2, a 1993 Toyota Corolla sedan, was stopped in the westbound lane intending on turning left at the T-intersection. V3, a 2003 Chrysler Town and Country minivan, was traveling eastbound intending on going straight. The front of V1 struck the back of V2 in the westbound lane. As a result of the impact, V1 was pushed into the oncoming lane and the front of V1 struck the front of V3 in the eastbound lane. V1 came to final rest facing westbound. V2 came to final rest facing northwest and V3 came to final rest facing southeast. V1 was driven by a 27-year old male who was not injured. He stated that he was traveling westbound and looked down at his clipboard for a second. When he looked back at the roadway it was too late. The front of V1 struck the back of V2 in the westbound lane. The driver did not take any avoidance actions and was traveling between 41-50 MPH at the time of impact. V1 was towed due to damage. The Critical Pre-crash Event for V1 was the other motor vehicle stopped in the lane of travel. The Critical Reason for the Critical Pre-crash Event was a driver recognition error, an internal distraction. An associated factor coded to this driver was inadequate surveillance because he failed to look far enough ahead. V2 was driven by a 71-year old female who sustained moderate injuries and was transported to a local trauma center. The driver of V2 refused to be interviewed due to her injuries. V2 was towed due to damage. The Critical Pre-crash Event for V2 was the other motor vehicle in lane, traveling in same direction with higher speed. No Critical Reason for the Critical Pre-crash Event was coded to this driver. V3 was driven by a 40-year old female who sustained moderate injuries and was transported to a local hospital. She stated that she was traveling eastbound when she saw V1 strike V2. V2 then entered her lane of travel and struck V3 head-on. The driver of V3 swerved right but could not avoid V2. V3 was traveling between 41-50 MPH at the time of impact. V3 was towed due to damage. No Critical Pre-crash Event and no Critical Reason were coded to V3 because it was not involved in the first harmful event. No associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

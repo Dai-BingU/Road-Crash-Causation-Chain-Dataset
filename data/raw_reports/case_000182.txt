@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash happened on a 4 lane highway in the intersection. Weather was clear with no adverse conditions. Vehicle 1 was a Chevy Caprice driven by a male. Vehicle 1 was in lane four which was a left turn lane. Vehicle 1 was attempting to turn left into the shouthbound lanes. As a result of that it struck Vehicle 2 with its front. Vehicle 2 was a Sante Fe driven by a female. Vehicle 2 was traveling in lane 3 of the highway going straight. When Vehicle 2 entered the intersection, V1 was turning left and was struck head on. Both Vehicles were pulled to the side by police officers to prevent traffic delay. The Critical Pre-crash Event for V1 is turning left at intersection, the Critical Reason for Critical Pre-crash Event: Unknown driver error The Critical Pre-crash Event for V2 is other motor vehicle encroachment from opposite direction over the left lane line, the Critical Reason was not coded to this vehicle
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Unknown Reason - Unknown reason for critical event
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

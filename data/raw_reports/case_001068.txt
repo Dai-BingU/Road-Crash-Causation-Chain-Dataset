@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a four-legged, traffic signal-controlled intersection. The east/west trafficway on the east side of the intersection is straight, level and divided by a curbed median. The westbound lanes consist of one through lane, two left turn lanes and two right turn lanes. The speed limit for this roadway is 72 kmph (45 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1997 Peterbilt tractor towing a flatbed trailer, was stopped westbound in lane two. Vehicle two (V2), a 2007 Toyota Scion TC, was stopped westbound in lane one. Both vehicles proceeded into the intersection, turning right. The front of the rear trailer tires of V1 struck the left side of V2. V2 was towed due to damage. The driver of V1, a fifty-four-year-old male, was traveling from a plant to a delivery site. He was well rested, healthy and comfortable with his vehicle and cargo. He had been driving a truck for thirty-three years and travels this route weekly. This driver stated that V2 was in his blind spot and he did not see it prior to the crash. The driver of V2, a fifty-seven-year-old male, was on his way downtown from his home. He was in good health and familiar with his vehicle. He travels this route weekly. This driver stated that he was watching V1 as they turned and V1 traveled into lane one. The critical pre-crash event for V1 was coded as "this vehicle traveling; over the lane line on right side of travel lane." The critical reason for the critical pre-crash event for V1 was coded as "vehicle related factor; vehicle related vision obstructions." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from adjacent lane (same direction) - over left lane line." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle." This driver's failure to steer right in an attempt to avoid V1 was an associated factor in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Vehicle related vision obstructions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

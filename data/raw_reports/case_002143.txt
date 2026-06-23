@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred just before noon involving two passenger cars at a signalized intersection with protected left turn signals. The speed limit for the east west roadway is 56 kmph (35 mph). The road is a 4-lane undivided concrete roadway. The road for north/south travel is a seven lane two-way traffic divided roadway without a positive barrier. Speed limit 64 kmph (40 mph)The road surface concrete dry and there were no detrimental atmospheric conditions. The roadway for westbound travel was partially under construction. The eastbound lanes were both blocked for traffic. The second westbound lane was used for eastbound traffic. Vehicle one (V1), a 1996 Ford Aspire, was traveling west in the first lane, attempting to pass through the intersection. Vehicle two (V2), a 2000 Honda Civic, was traveling south in the first lane. The driver had just left a nearby business parking lot and was heading downtown to pick up his wife from work. The front of V2 impacted the right side of V1. V2 rotated slightly clockwise. Both vehicles came to rest within the intersection. None of the drivers were treated or transported from the scene. Both vehicles were driven to a business parking lot at the crash site. V1 drove off the scene to the driver's apartment complex one block west of the intersection. V2 was later towed from the scene. The driver of V1 is a 35-year old female who claimed to be well rested and in good health. She does not possess a valid motor vehicle license She was not in a hurry, no previous arguments not conversing, and was attentive to the driving task. She takes no medication. There was no indication of alcohol or drug involvement. She slept 8 hours the night before the crash. She drives the route every day; she is very familiar and comfortable with the vehicle. She had left a shopping mall located 13 kilometers (8 miles) from the crash site and was on her way home. Her home was a block away from the intersection. She said she did stop at the red light for more than a minute prior to proceeding into the intersection. A witness at the scene told police and the researcher that V1 did not stop at the red light at all. The witness was standing outside his business west of the intersection and had a complete view of the approach of both vehicles and the lightning of the traffic lights. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical event was coded to V1 as an unknown recognition error. Since the driver would not admit her mistake at the scene, the reason for the inattention is not known. The driver of V2 is a 47-year old male who claimed to be well rested and in good health. He possesses a valid motor vehicle license with no restrictions or endorsements. He was not in a hurry, no previous arguments not conversing, and was attentive to the driving task. There was no indication of alcohol or drug involvement. He slept about 9 hours the night before the crash. He had just left a business parking lot and was on his way to downtown to pick up his spouse from work. He said he was passing through the intersection and had a green light. The critical pre crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. No critical reason was coded for this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

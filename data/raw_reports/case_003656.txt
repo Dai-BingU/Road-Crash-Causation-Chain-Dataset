@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred mid-morning on a Sunday on an expressway. For southbound traffic there are three traffic lanes with shoulders and concrete barriers on both sides of the roadway. The road is straight and level and there are no deficiencies noted. The crash occurred during clear, daylight conditions, and the speed limit is 89 kmph (55 mph). Vehicle one, a 2000 Toyota Corolla with one occupant, was traveling southbound in the second lane. According to a witness the driver was traveling well beyond 113 kmph (70 mph) and was attempting to change lanes to the left when the driver entered the left shoulder and the front left corner struck the concrete barrier. After striking the barrier, the vehicle re-entered the traffic lanes and came to final rest perpendicular across the expressway. Vehicle one was towed due to damage and the driver received possible injuries but refused medical treatment. The pre-event movement was coded " going straight." The critical pre-crash event was coded "this vehicle traveling-off the edge of the road on the left side."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

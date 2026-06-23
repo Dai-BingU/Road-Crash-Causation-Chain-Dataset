@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during early morning daylight hours at the intersection of a five-lane asphalt roadway and a two-lane roadway. The five-lane southbound road has two lanes in either direction with a two-way center left-turn lane. The two-lane road intersects on the west side of the five-lane road and is controlled by a stop sign. The five-lane road is straight and level with a curve beginning following the intersection. The posted speed limit on the five-lane road is 72 kmph (45 mph). Vehicle one (V1), a 1993 Nissan Altima sedan driven by a 22 year-old female with one passenger was stopped on the two-lane roadway and began to turn left. V1's front plane impacted the right side plane of Vehicle two (V2), a 2001 Jeep Wrangler driven by a 49 year-old male. After impact V1 rotated clockwise and began a 3/4 turn rollover, beginning on the roadway and finished off the road to the right. It rolled over towards its right side where it came to final rest. V2 came to rest straddling the first and second southbound travel lanes. Both vehicles were towed due to damage. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver did not see V2 approaching claiming the color blended in with the roadway. An associative factor for V1 was sun glare. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion, Surveillance, Traffic present problem 
+Vehicle 2:  Driver Fatigue, Driver Physical, Driver Stress/Emotion, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

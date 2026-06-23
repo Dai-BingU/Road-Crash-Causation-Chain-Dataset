@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at the junction of a three-lane roadway and an entrance to a business parking lot. The straight asphalt roadway was dry and level. The speed limit was 25mph (40 kph). Vehicle 1 was a 2004 Hyundai Elantra with two occupants. Vehicle 2 was a 2003 Honda Civic with one occupant. Vehicle 2 was stopped heading east in the right curb lane. Vehicle 1 entered the roadway from a parking lot on the north road edge intending to make a right turn to travel west. Vehicle 1 crossed the centerline and entered the right eastbound lane, where the front of Vehicle 1 contacted the front of Vehicle 2. Both vehicles came to rest near the point of impact. The Critical precrash event was Vehicle 1 traveling over the left lane line and encroaching into the travel lane of Vehicle 2. The critical reason for the critical precrash event was attributed to Vehicle 1 as panic / freezing. The driver of Vehicle 1 told the researcher that this was her first time driving any vehicle. The occupant was teaching her how to drive. The driver was interviewed some time after the crash, and she stated that she had just re-started the engine after it had stalled, and when she made the turn the steering wheel wouldn't turn, she went on to state that she applied the brakes and skid into Vehicle 2. The researcher spoke with the passenger of vehicle 1 briefly on scene. She said the driver told her that she didn't know what happened. The police officer on scene told the researcher that the driver told him that she panicked and confused the accelerator with the brake pedal. Given the lack of physical evidence and the configuration of the scene, the researcher coded the critical reason based on the driver's statement to the police officer. An interview was not obtained for the driver of Vehicle 2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Performance, Drugs present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Panic/freezing
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

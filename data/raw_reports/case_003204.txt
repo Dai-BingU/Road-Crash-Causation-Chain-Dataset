@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred at the intersection of a three-lane divided roadway and a six-lane divided roadway. For westbound traffic there is two travel lanes. For northbound traffic there is three travel lanes. The westbound roadway was dry concrete with a +7.4% Grade and posted speed limit of 48 kph (30 mph). Westbound vehicles entering the intersection are controlled by stop signs located on both sides of the westbound lanes. The northbound roadway was dry asphalt with a -2.5% grade and a posted speed limit of 56 kph (35 mph). Traffic was light at the time of the accident. This crash occurred during daylight hours with clear skies. Vehicle one (V1), a 2002 Dodge Stratus with two occupants, was westbound in the second travel lane attempting to turn into the southbound lanes. Vehicle two (V2), a 2006 Ford Crown Victoria with one occupant, was northbound in the second travel lane. V1 entered the intersection and the front of V2 impacted the left side of V1. V1 rotated clockwise and came to rest facing northwest, off the roadway to the west. V2 rotated counterclockwise and came to rest facing northwest in the intersection. Both vehicles were towed due to damage. The two occupants in V1 were treated at the scene. The driver of V2 was transported. The driver of V1, a seventeen-year-old female was unable to be interviewed. The right front passenger was also a seventeen-year-old female. The driver's occupation was listed as a student on the officer's report. It was not determined if the driver stopped at the stop sign before proceeding into the intersection. The critical pre-crash event for V1 was coded as "this vehicle traveling: turning left at intersection." The critical reason for the critical pre-crash event was attributed to V1 and was coded as "driver related factor: type of driver error unknown." The driver of V2, a forty-eight year old female, was heading to work from home at the time of the crash. This driver had been driving for about twenty minutes. This driver stated that she never saw the other vehicle coming. This driver drives this vehicle daily and over this road on a daily basis. The critical pre-crash event for V2 was coded as "other vehicle encroachment: from crossing street turning into opposite direction." The critical reason for the critical pre-crash event for vehicle two was coded as "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Unknown
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

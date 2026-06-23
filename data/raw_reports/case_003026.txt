@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three vehicle crash occurred during mid-afternoon daylight hours at an intersection with tri-color traffic lights. The speed limit for the roadway is 64 kph (40 mph). The road is a 4-lane divided (no positive barrier) concrete roadway for all directions. The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. The traffic in lanes two, three and four of the westbound lanes was stopped at a red light at the intersection. The lights for the east-west traffic lanes had just turned green. The protected left turn arrow for the westbound left turn lane had expired. Vehicle one (V 1), a 1991 Chrysler New Yorker sedan driven by a 27 year-old male with two passengers, was traveling west in the first lane approaching the intersection this lane was free of traffic up until the next intersection. Vehicle two (V 2), a 2003 Chevrolet Trailblazer driven by a 38 year-old male, was traveling east in lane four of the eastbound lanes attempting to make a left turn at the intersection. Vehicle three (V 3), a 2001 GMC Sierra Pick up driven by a 56 year-old male was stopped in lane four of the southbound lanes, waiting for a green light to make a left turn at the intersection. At the intersection, the front of V 1 impacted with the right side of V 2. V 2 rotated clockwise. It's left rear corner impacted with the front of V 3. V 2 bounced off V 3, rotated counter clockwise and moved into the northbound lanes. It came to rest within the northbound lanes, facing northeast. After the first event, V 2 rotated clockwise and came to rest within the intersection, facing northwest. V 1 and V 2 were towed from the scene. V 3's left front wheel was restricted. The wrecker truck for V 2 assisted with pulling the front bumper forward to enable V 3 to be driven from the scene. All three occupants of V 1 were transported to a local medical facility. The critical event for V1 was coded - this vehicle traveling turning left at intersection. Critical reason driver related factor "inadequate surveillance" The critical event for V2 was coded - other vehicle encroachment from opposite direction over left lane line. The critical reason not coded to this vehicle. The critical event for V3 was coded - other this vehicle not involved in first harmful event. Associate factor V 1 may have been traveling at a higher rate of speed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway present problem 
+Vehicle 2:  Decision, Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Turning left
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

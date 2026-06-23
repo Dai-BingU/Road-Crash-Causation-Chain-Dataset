@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a five-lane business roadway at an intersection with a northbound two-lane residential roadway. There were two lanes eastbound and three lanes westbound. The roadway was level and dry with a posted speed limit of 80 kmph (50 mph). The crash occurred during rush hour on a clear weekday afternoon. Traffic flow was heavy. V1, a 1994 Ford Ranger pickup truck with one occupant, was eastbound in lane 2. It was traveling behind V2, a 2001 Chevy Cavalier two-door with one occupant. V2 slowed to a stop to yield to oncoming traffic while preparing to turn left onto the northbound roadway. V1 decelerated and swerved slightly to the right in an attempt to avoid a collision but it struck the rear right bumper of V2 with its left front bumper. Both vehicles then moved off the roadway to the shoulder on the north side of the street prior to police or researcher arrival. There were no skid marks or debris visible to pinpoint the point of impact. V1, the Ford Ranger, was driven by an 18-year old male who was not injured. He advised that he was on his way to school from work and said he was going 55 kmph. He said that he thought V2 stopped suddenly in front of him. He added that he did not see a left turn signal on V2. The driver tried to slow down and avoid impact by braking without lockup and steering slightly to the right. Traffic in lane one prevented him from moving into lane 1. He said he ran into the rear of V2. The Critical Pre-crash Event for V1 was other vehicle stopped in the same lane. The Critical Reason for the Critical Event was driver inattention. An associated factor coded to the driver of V1 was driver inexperience. V2, the Chevy Cavalier, was driven by a 19-year old female who was not injured. She said she was on her way home from a friend's house. She said she stopped to make a left turn and was struck by V1. She did not know if she signaled the turn. She said she suddenly felt a jolt as V1 hit her from behind. The Critical Pre-crash Event for V2 was other vehicle in the same lane approaching from behind at a higher rate of speed. The Critical Reason for the Critical Event was not coded for V2. An associated factor coded to the driver of V2 was driver inexperience.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

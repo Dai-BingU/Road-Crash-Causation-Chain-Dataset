@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a four-legged intersection. The southbound approach roadway is level, undivided and controlled by a stop sign, has a curve to the right (the radius of curvature is 27 meters) and consists of one lane in each direction. The speed limit on this roadway is 48 kmph (30 mph). The east/west roadway is straight and divided by a curbed median. The westbound approach has a downhill grade and consists of two through lanes, a left turn lane and a right turn lane. The speed limit on this roadway is 64 kmph (40 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2007 Chevrolet HHR, was stopped southbound at the stop sign. Vehicle two (V2), a 2000 Toyota Corolla, was westbound in lane three. A non-contact vehicle was westbound in lane one, turning right (north). V1 entered the intersection turning left and the left side was struck by the front of V2. Both vehicles were towed due to damage. The driver of V1, a thirty-nine-year-old female, was on her way from work to pick up her daughter from school. She was well rested and familiar with her vehicle. She travels this route daily. She takes medication for high blood pressure and high cholesterol. This driver stated that the non-contact vehicle was blocking her view of the westbound through lanes and she proceeded slowly into the intersection because she thought the through lanes were clear. The driver of V2, a sixty-eight-year-old male, was traveling with his sixty-two-year-old wife. He had picked her up from work and they were on their way home. This driver was healthy, well rested and comfortable with his vehicle. He travels this route weekly. The critical pre-crash event for V1 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; turned with obstructed view." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from crossing street, turning into opposite direction." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

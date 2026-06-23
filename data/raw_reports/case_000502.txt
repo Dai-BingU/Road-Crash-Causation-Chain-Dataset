@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lane of a two-lane, two-way roadway. There was one northbound lane and one southbound lane. This was a bituminous roadway with an uphill slope and a super elevation of 6%. The roadway curved left with a radius of 2% and a speed limit of 89 kmph (55 mph) and an advisory speed limit of 64 kmph (40 mph). It was early morning on a weekday and the road was slightly icy and the sky was clear. Traffic was flowing. V1, a 1996 Chevrolet Cavalier four-door with one occupant, was traveling northbound in lane one. V2, a 2002 Pontiac Aztec with two occupants was traveling southbound in lane one. The driver of V2 was approaching the curve when she saw V1 start to loose control. V1 crossed the left lane line spinning counterclockwise. The front of V2 contacted the right of V1. V1 departed the roadway on the west side before coming to final rest. V2 came to final rest halfway off the roadway about 6 meters from V1. V1, the Chevrolet Cavalier was driven by a 17-year old male who was reported dead on arrival. Family advised that he had left home and was on his way to pick up his girlfriend for school. They were unsure of how fast he was traveling but think that he hit a patch of ice coming around the curve. They advised that he drove this roadway a lot and was rested prior to the trip. They also advised that he had plenty of time to get to school, but may have been in a hurry to tell his friends some good news. The Critical Precrash Event for the driver of V1 was this vehicle traveling: over the lane line on the left side of travel lane. The Critical Reason for the Critical Precrash Event was a driver related factor: too fast for conditions because the road was icy. An associated factor was that he was an inexperienced driver. V2, the Pontiac Aztec, was driven by a 34-year old female who reported minor injuries and was transported to a local trauma facility. She advised that she had just left home and was taking her child to daycare. She advised that she was traveling between 67-80 kmph (41-50 mph) prior to approaching the curve. She advised that she started to decelerate when she saw V1 loosing control. She applied the brakes harder to try to avoid V1 but was unsuccessful. The Critical Precrash Event for the driver of V2 was other vehicle encroachment: from opposite direction over left lane line. No Critical Reason was coded to the driver of V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Driver Stress/Emotion, Drugs, Roadway, Speed/Distance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

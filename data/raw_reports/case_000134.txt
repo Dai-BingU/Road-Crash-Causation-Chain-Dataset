@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred during dawn hours on a weekday. The collision occurred at the intersection of a north-south roadway and an east-west roadway. The north and south legs are controlled by stop signs; no controls are present for east-west traffic. At the time of the collision, the weather was cloudy and the roadway was completely wet from rain earlier that morning. Vehicle one (V1), a 2003 Toyota Corolla, was traveling northbound in a 40 kmph (25 mph) zone, in the first lane of a two-lane, two-way, undivided, wet, level, bituminous roadway, approaching the intersection with the intention of turning left into westbound traffic. Vehicle two (V2), a 2001 Nissan Altima, was traveling eastbound in the third lane of a four-lane, divided (seven lanes overall, divided by a raised median), wet, level, bituminous roadway, approaching the same intersection. V1 pulled across the eastbound lanes and stopped in the third eastbound lane to await clear traffic in the westbound lanes. As V1 was coming to a stop, the front of V2 impacted the left side of V1. Both vehicles moved east to final rest. The 66-year-old female driver of V1 reported that she was rested and alert at the time of the crash, and that she is partially disabled due to a previous knee injury. She reported that she looked left and moved out into the eastbound lanes and stopped to await a break in the westbound traffic. The view of eastbound traffic was partially blocked by a row of palm trees along the south curb. She did not observe V2's approach prior to proceeding into the intersection. The critical precrash event for V1 was: This vehicle traveling, turning left at intersection. The critical reason for the event was attributed to V1, and was coded as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The 27-year-old female driver of V2 was in good health and alert at the time of the crash. She saw V1 move into the intersection as she approached, but she reported that V1 passed in front of her at a high rate of speed. Vehicle damage evidence tends to support the contention that V1 was stopped at impact. Her view of the northbound traffic was also partially blocked by the row of trees. The driver of V2 engaged the brakes and slid forward on the wet surface. The critical precrash event for V2 was: other vehicle encroachment; from crossing street, across path. The critical reason for the event was not attributed to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Roadway, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

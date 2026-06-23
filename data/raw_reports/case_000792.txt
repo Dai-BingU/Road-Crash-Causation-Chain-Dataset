@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the middle of a four-way intersection on the north/west roadway. There were four lanes running west bound with lane one being a right turn only lane, lane two and three straight through lanes and lane four a left turn only lane. The conditions were dry and clear on a weekday afternoon. The intersecting roads are all controlled by traffic lights. The roadway was straight and level. The posted speed was 56 KPH (35MPH). Vehicle 1 was a Ford Escape SUV that was in lane one going west bound when traffic was backed up due to the start of rush-hour traffic. V2, a 2003 Chrysler PT Cruiser that was driven by a 32-year-old male heading back to work from his lunch break. He stated in the interview that it was heavy traffic and the traffic in front of him started to slow as he attempted to hit the brakes to slow too but he noticed his vehicle had lost power and he was unable to brake and had a hard time steering. He hit the rear of V1 then steered to the right after the first impact, as he could not stop the vehicle. He then made final rest off the roadway to the right and made contact with an electrical box. The driver of V1 continued after he was hit and there was no further information regarding this vehicle other than the make and model. V2 was towed due to damages but the driver was not injured. V1, The Ford Escape SUV was driven by a male but no other information was obtained as he left the scene of the crash. The Critical Pre-crash Event was "other vehicle in lane traveling in same direction with a higher rate of speed". The Critical Reason was not coded to this driver, as they were not thought to have contributed to the crash. The vehicle was not towed due to damages. V2, the PT Cruiser was driven by a 32-year-old male on his way back to work from his lunch brake, He stated in the interview that he was driving along in lane one heading westbound when the traffic started to get heavy for the beginning of rush-hour traffic and the SUV in front of him stopped. He then tried to stop his vehicle but realized his vehicle "had shut off" he stated that his brakes would not work and it was difficult to steer as well. He hit the back of the SUV, V1 and then tried to turn the wheel to the right to get the vehicle to stop. He then continued off the right side of the roadway till he made final rest against the electrical box on the west side of the roadway. There were fluids in the middle of the intersection where he impacted the back of V1 and the driver of V1 then took off before the police arrived on scene. The driver refused treatment by the EMS on scene and his vehicle was towed due to damages. The Critical Pre-crash Event was "vehicle control loss due to disabling vehicle failure". The Critical Reason was “vehicle failure, transmission/engine failure”. He stated in the interview he thought it was his transmission due to the fluids in the roadway. There are no other associative factors related to the driver. He was cited a ticket for the impact on V1 for failure to use due care.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic present problem 
+Vehicle 2:  Decision, Traffic, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Unknown
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：This Veh. Control Loss Due To:- Disabling vehicle failure (e.g,  wheel fell off) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Vehicle Related Factor- Transmission/engine failure

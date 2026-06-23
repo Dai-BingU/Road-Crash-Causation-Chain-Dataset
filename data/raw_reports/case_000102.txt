@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a two-lane undivided level roadway. The posted speed limit on the roadway was 48 kmph (30 mph). There were no adverse atmospheric conditions at the time of the incident, although it was slightly cloudy. Vehicle one (V1), a 1995 Chevrolet Camaro, was driven by a 20-year old male. Vehicle two (V2), a 2002 Ford Windstar, was driven by a 26-year old female. V1 and V2 were both traveling south on the same roadway, with V1 coming up behind V2 at approximately 80 kmph (50 mph). The driver of V2 had decelerated and then stopped in her lane while waiting for an oncoming vehicle to pass so that she could turn left into a driveway. For unknown reasons, V1 attempted to pass V2 on the left, ignoring the double yellow line. As V1 was passing V2, V2 started to make a left into the driveway. The right side of V1 contacted the left front of V2. Vehicle one then continued forward and made contact with the northbound curb before crossing the southbound lane again, and running into an embankment. Finally, before coming to final rest, the front of V1 made contact with a mailbox on the property of the southbound side of the roadway. After the initial impact, V2 continued forward approximately 20 feet before coming to final rest. The driver of V1 was taken to the hospital for possible injuries. A phone interview could not be obtained from the driver of V1. According to the police officer, the driver did not have a license to operate a motor vehicle and spoke very little English. V1 had to be towed from the scene as a result of damage to the undercarriage. Through information obtained from the police accident report, the Critical Pre-crash Event for V1 was coded as this vehicle traveling over the left side of travel lane. The reason for the Critical Pre-crash Event was coded as an illegal maneuver, in that the driver ignored the double yellow lines. Associated factors coded to this driver include excess speed, aggressive driving, and a false assumption of other road user's actions in that the driver of V1 assumed that V2 would stay in her lane. The driver of V2 was also taken to the hospital as a precautionary measure. Numerous attempts at obtaining the interview were unsuccessful. According to information relayed to the researcher by the police officer, the driver of V2 was waiting for an oncoming vehicle to pass before making a left into a driveway. As the driver was making the left, V1 attempted to pass V2 illegally. The Critical Pre-crash Event for V2 was coded as this vehicle turning left at intersection. The reason for the Critical Pre-crash Event was not coded to this vehicle. No associated factors could be coded due to the lack of an interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

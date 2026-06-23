@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash happened on a weekend during early afternoon hours. The location was a two-lane one-way traffic right curved up hill exit/entry ramp connecting two major highways. The weather was clear and the roads dry. The posted speed limit for the roadway was 96 kph (60 mph). The advisory speed limit for the ramp was 72 kph (45 mph). The only vehicle in this crash vehicle one (V1), a 1986 Buick Regal, with 2 doors and one occupant, was negotiating the westbound curve in the second lane of the roadway. V1 experienced tires related problems when the left front tire blew out and the vehicle veered to the left where the front left corner of the vehicle struck a wall and rail attached to the top of the wall. The wall had a height of 40 cm (1 foot, 3 inches). V1 continued to move along the sidewall before rotating clockwise and reentering the traffic lanes. After the impact V1 bounced off the wall and moved for about 30 meters (90 feet) on the road before coming to a final rest within lane two. The vehicle was towed from the scene. An 18-year old male, who claimed light injuries, was the driver of the vehicle. He told police at the scene and the researcher all that happened was his tire blowing out. He said he was confident he did not hit the wall but would not rule it out. The physical evidence found at the scene clearly indicated the left front corner hit the wall of the ramp. There was debris at the point of impact as well as a post impact skid mark leading from the wall to the final rest of the restricted left front wheel. The pre-crash movement was coded "negotiating a curve". The critical per-crash event was coded "this vehicle control loss due to disabling damage." The critical reason was coded "vehicle related factor - tires/wheels failed."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Disabling vehicle failure (e.g,  wheel fell off) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Tires/wheels failed

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a one-lane westbound entrance ramp to a highway. This was in a construction area. where there was a stop sign at the end of the ramp. This was a level, concrete roadway that curved right with a posted speed limit of 56 kmph (35 mph). It was mid-evening, the road was dry and the sky was clear. The sun was setting and was making a glare. Traffic was backed up on the ramp waiting to merge. V1, 2005 Buick Lacrosse with one occupant came to a stop behind two other vehicles at the stop sign. The first vehicle merged onto the highway. Then V1 thought that V2 also merged. But V2, a 1994 Chevrolet pick-up with one occupant, was stopped at the stop sign. The driver of V1 did not see V2 in front of him due to the glare. He looked back over his shoulder and started to accelerate. The front of V1 contacted the back of V2 before they both came to final rest in the roadway. V1, the Buick Lacrosse was driven by a 40-year old male who reported no injuries. He stated that he was following two other vehicles on the entrance ramp. They all stopped and the vehicle first in line entered the highway. He thought that the second vehicle (V2) had entered the highway as well. He looked to the left and proceeded to enter the highway when he realized that V2 did not go yet and he hit him. He did not see V2 stopped in front of him until the last second. He applied the brakes but could not avoid hitting V2. He advised that he was on his way home from his parent's house and had stopped for more than 10 seconds at the stop sign before he proceeded. He advised that he was traveling between 2-16 kmph (1-10 mph) prior to the crash. The Critical Precrash Event for the driver of V1 was “other motor vehicle in lane: other vehicle stopped”. The Critical Reason for the Critical Precrash Event was an environment related factor: “sun glare”, because V1 could not see V2 stopped ahead. Some associated factors were the construction zone and the lack of driving this roadway often. V2, the 1994 Chevrolet pick-up was driven by a 41-year old male who reported that he was also on his way home from his parent's house. He advised that he was stopped and never preceded before he was hit from the back. He also advised that the sun was in their eyes, which made it hard to see. It should be noted that this truck has been in other crashes because there is still damage on the vehicle that does not pertain to this crash. The Critical Precrash Event for the driver of V2 was “other motor vehicle in lane: traveling in same direction with higher speed”. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2. Some associated factors were the construction zone and the lack of driving this roadway often. Another associated factor for the driver of V2 was his medication although he had not taken it since last night.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Driver Inexperience, Drugs, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Glare
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

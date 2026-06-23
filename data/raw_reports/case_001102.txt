@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a five-lane asphalt roadway at the entrance to a mall. The road was straight and the speed limit was 35mph (56kph). Vehicle 1 was a 1996 Ford Windstar with two occupants. Vehicle 2 was a 2001 GMC Yukon with one occupant. Vehicle 1 was traveling west in lane 1 approaching the intersection and vehicle 2 was turning left (north) from the eastbound lane 2. Vehicle 2 turned left across the path of vehicle 1 and the front of vehicle 1 contacted the front right of vehicle 2. Both vehicles came to rest in the intersection. The critical precrash event was vehicle 2 turning left across the path of vehicle 1. The critical reason for the critical precrash event was the driver of vehicle 2 making a false assumption of vehicle 1's actions. The driver of vehicle 2 assumed that vehicle 1 would turn right (north) rather than proceed through the intersection. Witnesses and the driver of V2 stated that vehicle 1's right turn signal was activated. The driver of vehicle 1 stated that her left turn signal was activated because she intended to change lanes to the left.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+Vehicle 2:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

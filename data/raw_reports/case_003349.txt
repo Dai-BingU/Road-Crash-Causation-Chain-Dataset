@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred late in the afternoon during daylight on a one-way, three lane roadway with a right curve. Involving two vehicles one passenger car and one mini van. The road was dry, traveled, level concrete. The posted speed limit is 105 kmph (65 mph). There were no adverse weather conditions. The roadway is lighted. Vehicle one (V1), a 1999 Saturn LS2 driven by a 36 year-old female, was southbound in the second travel lane. Vehicle two (V2), a 1999 Mercury Villager mini-van driven by a 42 year-old male, was southbound in the second travel lane. V2 began a counterclockwise longitudinal skid and was struck on the left side by the front of V 1. The cause of the loss of control is unknown. After impact V2 continued rotating counterclockwise and came to rest in the roadway facing north. V1 rotated counterclockwise and came to rest in the roadway facing east. V1 was towed from the scene, there were no reported injuries. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in the same direction while decelerating. The critical reason was not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle control loss due to, poor road conditions (specified as: slick spot on roadway). The critical reason for the critical event was coded to V2 as an environment related factor: slick roads (low friction road surface due to ice, loose debris, any other reason). The driver reported to police that there was a slick spot on the roadway that caused control loss.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance present problem 
+Vehicle 2:  Driver Performance, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)

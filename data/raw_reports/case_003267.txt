@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a weekend afternoon in the middle of a four-way rural intersection. The intersection consisted of a north/south 2-lane undivided roadway intersected by an east/west 2-lane undivided roadway controlled by stop signs (for the east/west roadway). All roadways were bituminous, dry, straight, and level with a posted speed limit of 72 kmph (45 mph) for all directions. The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1994 Ford Thunderbird LX with one occupant, was eastbound approaching the intersection where it intended to go straight. V2, a 1994 Ford Aerostar XL with two occupants, was northbound toward the same intersection where it also intended to go straight. V1 stopped briefly before proceeding into the intersection at the same time V2 entered the intersection. The front of V1 struck the left side of V2 and both vehicles came to final rest in the northeast corner of the intersection. V1 was towed from the scene due to disabling damage and V2 was towed from the intersection to clear the roadway. The driver of V1, a 49-year-old female, was returning home this afternoon when she was involved in this crash. On her way home, she stopped at a gas station to buy a lottery ticket and was less than two miles from her home when she crashed at this intersection. She claimed that she was traveling east and stopped at this four-way intersection, looked north and south for traffic and after believing the intersection was clear and proceeded forward. After entering the intersection, she realized there was a northbound vehicle in front of her so she steered left and braked. She could not avoid a collision and the front of her car struck the left side of the northbound V2. This driver claimed that the sunset obscured her view of northbound traffic even though she was wearing low-tint sunglasses. The Critical Precrash Event for V1 was coded this vehicle traveling (passing through) an intersection. The Critical Reason for the Critical Event was coded as inadequate surveillance. Associated factors include the driver being inattentive (thought focus unknown, as this driver said she had all kinds of concerns in life). The researcher agrees with the driver that the sunlight was bright and "sun glare" was present as an environmental factor but was not considered the critical cause of this crash. The driver of V2, a 47-year-old female, said she saw V1 approach the intersection, slow down, and then try to accelerate across the intersection. This driver said she knew there was a stop sign posted for V1's direction and she assumed that V1 would stop. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street, across path. The Critical Reason was not coded to this vehicle. An associated factor coded to this driver was a false assumption as she assumed that other driver would yield right-of-way.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Decision, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

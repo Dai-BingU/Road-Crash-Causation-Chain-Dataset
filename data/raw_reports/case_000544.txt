@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle daytime crash occurred during late afternoon on a northbound, interstate highway, consisting of 5 straight, level concrete lanes that are separated from southbound traffic by a short concrete jersey barrier. The number 5 lane is a High Occupant Vehicle (HOV) lane. Access to the roadway is fully controlled, and the roadway has a posted speed limit of 97 kmph (60 mph). At the time of the crash, atmospheric conditions were clear, the road surfaces were dry, and there were no sight restrictions or road defects. Vehicle one (V1), a dark gray 2000 Ford Ranger pickup driven by a 24 year-old male with one passenger and Vehicle two (V1), a 2001 Dodge Ram pickup driven by a 38 year-old female were northbound in the number 3 lane. The two vehicles were following each other when driver of V1 perceived that the driver of V2 was tailgating his vehicle, so he brake checked. The driver of V2 disagreed that she was tailgating, became afraid and decided to change lanes to her left. This elevated the aggressiveness of both drivers. As V2 changed lanes so did the driver of V1. Both vehicles changed lanes to lane 4, then lane 5, and as V 1 entered lane 5, the right side front quarter panel of V2 and left bedside of V1 collided. The impact caused V1 to enter a counterclockwise rotation and depart on a northwest trajectory and the front of V1 contacted the Jersey barrier. V1 deflected off the Jersey barrier, continued to rotate, tripped over and rolled right 2 quarter turns. V1 came to rest on its top plane in the number 3 and 4 lanes facing generally northwest. After impact with V1, V2 came to a controlled stop in the number 5 lane. V1 was towed due to damage. V2 was driven from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, over the lane line on left side of travel lane. The critical reason for the critical event was coded to V1 as a diver related factor: aggressive driving. After initially brake checking, this driver continued to purposely change lanes in front of V2. The critical pre-crash event for V2 was coded: other vehicle encroachment, from adjacent lane - over right lane line. The critical reason was not coded to this vehicle. Associative Factors are: V2 initially was closing in on and following V1 closely for an unknown distance, so V2 was also driving aggressively The driver of V2 attempted to change lanes to her left and overtake V1 instead of backing off to increase the distance between the two vehicles that would then allow for a smooth lane change and additional gap distance for an avoidance maneuver, if needed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Distraction present problem 
+Vehicle 2:  Aggressive Behavior, Decision, Driver Inexperience, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Changing lanes
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

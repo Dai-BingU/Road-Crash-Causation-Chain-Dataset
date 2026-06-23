@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the left of two southbound lanes of a four-lane undivided urban roadway. There was a gas station entrance on the west side of the roadway at the point of impact. There was also an intersecting street on the east side of the roadway 10m north of the point of impact. The roadway had a posted speed of 64 KMPH (40 MPH) and the southbound lanes had a positive 4.9% grade. Conditions were daylight and dry with cloudy skies and a temperature of 8°C (47°F.) The crash occurred at 17:30 on a weekday. Vehicle 1, a 2001 Ford Focus sedan, was exiting the gas station heading east. The driver of vehicle 1 intended to cross the roadway and travel east on the intersecting street. Vehicle 2, a 2002 Ford Windstar minivan, was traveling south in the left southbound lane. A non-contacted truck was in the right southbound lane turning right (west) into the gas station. As vehicle 1 crossed the left southbound lane, the front of vehicle 2 contacted its left side. Both vehicles came to rest in the left northbound lane. Vehicle 1 was driven by a 19-year old female who was transported to a local hospital due to a complaint of head pain. The vehicle was towed due to damage. The Critical Precrash Event for vehicle 1 occurred when the driver turned left from the gas station entrance. The Critical Reason for the Critical Event was inadequate surveillance. As the truck made its turn from the right southbound lane, it prevented the driver of vehicle 1 from seeing vehicle 2 as it approached from in the left southbound lane. The 54-year old female driver of the vehicle 2 stated she was traveling less than 40 kph (25mph) in the left southbound lane when vehicle 1 emerged from in front of the truck and crossed her travel lane. The driver stated that while she may have attempted to apply the brakes, she had little time to react. Vehicle 2 was also towed due to damage. The driver was not transported to a medical facility. No Critical Reason was coded for the driver of vehicle 2. The Critical Precrash Event occurred when vehicle 1 turned across the path of vehicle 2. The driver of vehicle 2 has been diagnosed with Myasthenia Gravis. She also stated that while her condition prevented her from performing strenuous activity, it had no effect on her ability to safely operate a vehicle. She was taking two prescription medications at the time of the crash: Mestinon, which is a cholinesterase inhibitor, and CellCept, which is an immunosuppressant. The driver stated that the medications were taken as prescribed, and did not affect her ability to drive.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

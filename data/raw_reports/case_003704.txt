@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the southbound lanes of a four-lane, divided, rural highway with a grass median. There were two southbound and two northbound lanes. The roadway had a posted speed limit of 55 mph and a level grade. Conditions were dark and dry with cloudy skies. The crash occurred in the mid-evening hours of a weekday. Vehicle one was a 2004 Ford Explorer sport utility traveling south in lane two. Vehicle two was a 1995 Honda Civic coupe stopped at a crossing street facing east. V2 proceeded across the roadway. The front of V1 struck the left rear of V2. V1 continued several hundred meters south on the roadway and came to rest in the median. V2 rotated 360 degrees counter-clockwise, coming to rest in the median. V1 was driven by a 27-year old male who was transported to a local hospital with possible injuries. He stated that he was driving home when a vehicle from a crossing street on the right attempted to cross the road in front of him. He estimated that he slowed from 50 mph to 40 mph. V1 was not towed due to damage. The Critical Precrash Event for V1 was V2 encroaching into the lane from a crossing street with an unknown intended path. The Critical Reason was not coded to this driver. V2 was driven by a 21-year old female who was transported to a local hospital with non-incapacitating injuries. She was unable to be located for an interview. Her mother refused to be interviewed on her behalf and was very skeptical, despite repeated letters and phone calls verifying the validity of the NMVCCS program. The investigating officer estimated the travel and impact speed to be 5 mph. V2 was towed due to damage. The Critical Precrash Event for V2 was this vehicle traveling crossing over (passing through) the intersection. The Critical Reason was a decision error (Misjudgment of gap or other's speed). No associated factors could be coded since the interviewee could not be located.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, intended path not known
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Misjudgment of gap or other's speed

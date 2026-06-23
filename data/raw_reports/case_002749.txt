@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This crash occurred on a straight undivided 4-lane roadway with no grade and a posted speed limit of 56 KMPH (35MPH). The weather was clear and the roadway was dry. This crash occurred on a weekend day in the early afternoon. Vehicle #1, 1994 Volvo 850 sedan, was traveling south in the first lane of travel when its front impacted with the rear of Vehicle #2, a 1992 Subaru Legacy. Vehicle #2 was pushed into the rear of Vehicle #3, a1999 Plymouth Voyager minivan. Vehicle #1 and Vehicle#3 came to rest in the roadway facing south. Vehicle #2 was driven off the roadway by its driver to a parking lot entrance. The 1994 Volvo 850 (Vehicle #1) was driven by a belted 16-year old female who was transported to an area hospital, treated and released. There were two 16-year old female passengers in this vehicle who were also transported to an area hospital, treated and released. Injuries were reported as minor. The driver stated she thought her seat belt was too loose and looked down to see if it was buckled correctly. She returned her vision to the roadway in time to use her footbrake but was unable to avoid impacting the vehicle in front of her. It should be noted here that the driver was inexperienced and had a junior license. The Critical Pre-crash Event coded to Vehicle #1 was other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Pre-crash Event was coded as internal distraction, a driver-related recognition error. An associated factor coded to this driver was driver inexperience. The 1992 Subaru Legacy (Vehicle #2) was driven by a belted 35-year old male who was not injured. He stated he was stopped in traffic awaiting the change of the traffic signal up ahead when his vehicle was impacted in the rear, pushing his vehicle into Vehicle #3. He stated he had his foot on the brake but this did not stop his vehicle from moving. The Critical Pre-crash Event coded to this vehicle was other motor vehicle in lane, traveling in same direction with higher speed. No Critical Reason for the Critical Pre-crash event was coded to this vehicle. No associated factors were coded to this driver. The 1999 Plymouth Voyager was driven by a belted 37-year old male who had an 18-year old belted male passenger. Both occupants were transported to an area hospital, treated and released. Injuries were listed as minor. . No Critical Pre-crash Event and no Critical Reason were coded to this vehicle because it was not involved in the first harmful event. Associated factors coded to this driver include the use of a prescription medication for high cholesterol and a conversation with the passenger at the time of the crash. Police did not consider illegal drugs to be involved and ordered no tests for any of the drivers.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience present problem 
+Vehicle 3:  Distraction, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

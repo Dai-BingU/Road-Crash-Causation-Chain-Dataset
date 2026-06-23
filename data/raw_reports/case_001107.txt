@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle afternoon crash occurred at 1419 in the eastbound lanes of a dry, residential, undivided, three lane, two-way bituminous roadway. In the crash area, the road curves to the left and has a 5% downhill grade for eastbound traffic. Two eastbound roadways merge at a 5-way intersection; the road where the crash occurred does not have a traffic control, consists of one travel lane in each direction and a 2-way left turn lane in the middle and has a posted speed limit of 56 kph (35 mph). At the time of the crash, it was cloudy, but there were no adverse weather conditions, sight restrictions or road defects. Vehicle #1 (V1), a 2003 Toyota 4Runner, driven by a 28 year-old male was traveling in lane one going east. Where the road curves to the left and enters the intersection, V1 continued straight, departed the road to the right, contacted a wooden sign pole with the left mirror, traveled down an embankment, the front struck the branches of a tree, then entered a counterclockwise rotation, struck a large (50cm diameter) sign pole with the right side, had a front left corner impact with a large tree, then contacted and came to rest with the right plane against a chain link fence. The driver stated that he had fallen asleep and did not know that a collision had occurred until he hit the first tree, and was, at that point unable to make an avoidance maneuver. V1 was towed due to damage. The Critical Pre-crash event was coded as "This Vehicle Traveling - off the edge of the road on the right side." The Critical Reason for the critical event was coded to V1 as a "Driver Related Factor, Sleeping, that is, actually asleep." Associative Factors: The V1 driver stated that he had been out very late the previous evening, had not gotten as much sleep as usual, and had started his trip feeling drowsy.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

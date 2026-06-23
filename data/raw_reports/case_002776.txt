@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three vehicle daytime collision occurred shortly before noon. The collision occurred in the northbound lane of a non-divided roadway with a two-way turn lane. The pre-crash roadway for all vehicles is level, dry and straight bituminous paving. The roadway has a posted speed limit of 56 kmph (35 mph). There were no adverse weather conditions at this time; however, traffic was congested during the noon rush hour. Vehicle one (V1), an unknown van, was traveling north in the number one lane. V1, for an unknown reason, impacted with the back of V3. V3 was a 1992 Honda Civic sedan driven by a 67 year-old female who was stopped in traffic lane due to traffic congestion. The impact pushed V3 forward into the back of V2, a 1998 Chevrolet tracker driven by a 41 year-old female with one passenger. V2 was also stopped in the same traffic lane. After impact, V1's driver fled the scene in the vehicle and no additional information is available for this driver or vehicle. V3 and V2 came to final rest in travel lane. V3 was towed from the scene; there were no reported injuries. The critical pre-crash event was coded to V1 as: other vehicle in lane, other vehicle stopped. The critical reason for the critical event was assigned to V1 as a driver related factor: unknown reason for the critical event. Due to lack of information, it could not be determined if it was a driver or vehicle related critical reason for why this vehicle impacted with V3. The critical pre-crash event for V3 was coded: other vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. V2 was not involved in the first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other- Not involved first harmful event
+ 3 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Unknown Reason - Unknown reason for critical event
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

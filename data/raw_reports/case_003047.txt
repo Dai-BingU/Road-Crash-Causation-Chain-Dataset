@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a two-lane intersection controlled by a stop sign. Conditions were cloudy with rain in the morning on a weekday. The posted speed limit for the eastbound lane was 40 kmph (25 mph) and the posted speed limit for the northbound lane was 64 kmph (40 mph). V1 was a 2004 Volkswagen Jetta sedan traveling eastbound in the 1st travel lane approaching an intersection controlled by a stop sign intending on turning left. V2, a 1991 Dodge minivan, was traveling southbound in the 1st travel lane approaching the intersection intending on going straight. V3, a 1992 Buick Regal coupe, was traveling northbound in the 1st travel lane intending on going straight. V1 looked but did not see V2 as she was making the left turn. The front of V1 struck the right side of V2. As a result of the impact, V2 then swerved into oncoming traffic and the front of V2 struck the front of V3 in the northbound lane. V1 came to final rest facing eastbound, V2 came to final rest facing southbound and V3 came to final rest facing northbound. V1 was driven by a 17-year-old female who was not injured. Her parents refused to be interviewed. The investigating officer stated that the driver of V1 stopped at the stop sign, looked in both directions and entered the intersection intending on turning left. V1 was driven away from the scene. The Critical Precrash Event for V1 was this vehicle turning left at the intersection. The Critical Reason for the Critical Precrash Event was inadequate surveillance, looked but did not see. Associated factors coded to this driver were wet roads and the driver being inexperienced. V2 was driven by a 44-year-old male who sustained moderate injuries and was transported to a local hospital. He stated that he was traveling southbound in the 1st travel lane when he saw V1 pull out into the intersection and strike the right side of his vehicle. He then stated that his vehicle was pushed into on coming traffic and struck V3. V2 was traveling between 34 and 48 kmph (21 and 30 mph) at the time of impact and did not take any avoidance actions. V2 was towed due to damage. The Critical Precrash Event for V2 was the other vehicle encroachment from the crossing street, turning into opposite direction. No Critical Reason for the Critical Precrash Event was coded to this driver. V3 was driven by a 17-year-old male who was not injured but was transported to a local hospital for observation. He stated that he was traveling northbound in the 1st travel lane when he saw an unknown vehicle on his right in the shoulder. He did not see V2 come into his lane until the last second. The driver of V3 was traveling between 50 and 64 kmph (31 and 40 mph) at the time of impact. The driver of V3 braked with out lock up but could not avoid V2. V3 was towed due to damage. The Critical Precrash Event for V3 was not part of the first harmful event. No Critical Reason for the Critical Precrash Event was coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Driver Physical, Roadway, Weather/Environment present problem 
+Vehicle 3:  Distraction, Driver Inexperience, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

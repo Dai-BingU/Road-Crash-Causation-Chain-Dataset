@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred shortly before noon in daylight hours at the intersection of a two-lane, east-west, undivided roadway and a two-lane, north-south, undivided roadway. The east-west roadway was controlled with stop signs. The east-west roadway was straight, concrete with a -4.1% grade and posted speed of 48 kmph (30 mph). The north-south roadway was straight, concrete with a -3.3% grade and a posted speed of 48 kmph (30 mph). It was late morning on a weekend and the road was dry and the sky was clear. Traffic flow was light. Vehicle one (V1), a 1995 Chevrolet Suburban sport utility vehicle driven by a 31 year-old male was traveling eastbound in lane one. Vehicle two (V2), a 2002 Chevrolet Tahoe sport utility vehicle driven by a 38 year-old female with one passenger was traveling northbound in lane one. V1 entered the intersection and it's front struck the left side of V2. V1 rotated counterclockwise and was struck on the right side by the left side of V2. V1 came to rest in the intersection facing north. V2 rotated clockwise and was struck on the left side by the right side of V1. V2 came to rest north of the intersection facing north. The driver of V1 stated that he was on his way to home from the store. He stated that he was traveling at between 16-32 kmph (10-20 mph) when he attempted to stop for the stop sign. The driver stated that his brakes failed causing him to enter the intersection without the right of way. He steered to the left in an attempt to avoid the collision, but was unsuccessful. The researcher could find no fault with the operation of the brakes at the time of the vehicle inspection, which was conducted on-scene. V1 was towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason was assigned to V1 as a driver related factor: illegal maneuver. Associated factors for the driver of V1 was inattention (focus unknown), also failed to stop for traffic control device. The critical pre-crash event for V 2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

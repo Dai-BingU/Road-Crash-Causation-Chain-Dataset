@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred at the entrance to an intersection. The roadway for both vehicles was asphalt, dry, and level. The posted speed limit was 80 kmph (50 mph) for this southbound direction. A signalized traffic device controlled the traffic for all directions. There weren't any turning lanes. The traffic flow was normal and the weather was clear. The crash occurred in the early afternoon on a weekday. Vehicle 2 (V2) decelerated at the intersection while vehicle 1 (V1) continued tracking, at a constant speed. V1 contacted the rear of V2 with its front. Vehicle 1, a 1995 Jeep Cherokee, was traveling south, in lane three, on a three-lane roadway when the V2, a 2003 Chevrolet Silverado, decelerated in front of it. V1 contacted the rear of V2 with its front. The driver of V1, a 25-year old male, said he didn't understand why V2 stopped/ slowed down at the intersection. They both had the green light. He did say that he wasn't fully paying attention. However, he wasn't sure what diverted his attention. He did say that he was conversing with the passenger and listening to the radio. The driver just bought the vehicle less than a month ago and was taking the vehicle back for problems: transmission/ engine problems. He was sure that he was traveling 50 mph (80 kmph) prior to the beginning of the crash sequence. The driver of V2, a 19-year old male, refused to comment on the crash, or give access to his vehicle. His vehicle was not towed and allowed to leave the scene before the Researcher arrived. The Critical Pre-Crash Event for V1 was other vehicle in lane, other vehicle stopped. The Critical Reason was coded as a driver related factor, internal distraction (i.e., talking with passenger). Associated factors coded to this driver included following too closely to forward vehicle. The Critical Pre-Crash Event for V2 was coded as other motor vehicle in lane traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. No associated factors were coded to this driver. The police recorded the crash as non-reportable. However, V1 was towed due to damage.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a rural highway divided by a grassy median with a posted speed limit of 113kmh (70mph) with two lanes in each direction. The conditions were clear and dry on the straight, level, bituminous road on the weekday afternoon. V1, a 2003 Volkswagen Jetta, driven by a 23 year-old male, was traveling in the left lane at 75mph with his cruise control on, when a non-contact vehicle in the right lane began to move into his lane. The driver of v1 braked without lock-up and swerved to avoid contact with the other vehicle and left the roadway onto the paved shoulder. As v1 contacted the rumble strip on the shoulder, the driver then swerved to the right and re-entered the roadway. V1 crossed the left and then the right travel lanes and left the roadway on the right side. V1 traveled down a grassy slope and continued 15 meters until the front of the vehicle struck a tree >10cm in diameter. V1 came to rest against the tree facing northwest and was towed from the scene due to damage. The properly restrained driver of v1 denied injuries and did not seek medical treatment. The Critical Precrash Event coded to the driver of v1 was "this vehicle traveling off the edge of the road on the right side." The Critical Reason for the Critical Event was coded as a "performance error-overcompensation". The driver stated in the on-scene interview that had he continued straight on the left shoulder, he most likely could have maintained control and returned safely to the roadway. He stated that when his tires hit the rumble strip he panicked and quickly steered right and lost control. A Contributing Factor coded to this driver was "inadequate/incorrect evasive action-chose inappropriate/unsuccessful evasive action". The driver was properly licensed and familiar both with his vehicle and with the roadway. The driver did not report any emotional, physical or work related issues and was well rested. There were no mechanical defects found during the vehicle inspection. Police did not consider illegal drugs or alcohol to be involved and ordered no tests.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

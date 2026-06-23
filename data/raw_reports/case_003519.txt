@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a two-lane, divided highway with a grass median. There were two eastbound lanes on this fully controlled roadway. Just beyond the crash location was a left turn lane leading to a four-leg intersection. The roadway had a posted speed limit of 88 kmph (55 mph) and a 1% downhill grade facing east. Conditions were daylight and dry with clear skies. The setting was midday on a weekday. Vehicle one was a 2005 Freightliner school bus traveling east in lane two. Vehicle two was a 2005 Pontiac Grand Am sedan traveling east in lane two approaching V1 from behind. V2 was traveling at a higher rate of speed, and impacted the back of V1 with its front. V2 underrode V1 and became lodged underneath V1. V1 applied foot and hand brakes, dragging V2 126 meters to final rest in lane three. V2 had a minor under-hood fire after coming to rest. The Freightliner school bus (V1) was driven by a 28-year old female who was transported to a local trauma center with possible injuries. She stated that she was driving from the end of an earlier school route to a second school to pick up students. She noticed a car approaching in the side mirror but did not think anything of it. Her estimated travel speed was 72 kmph (45 mph), which is the maximum allowable speed for a school bus. Suddenly she felt an impact from the rear. Her foot brakes were not operating properly due to the mechanics of the crash, so she used the emergency brake to bring the bus to a stop. The Freightliner school bus continued in service after the crash scene was cleared. The Critical Precrash Event for V1 was “other motor vehicle in lane traveling in the same direction at a higher steady speed”. No Critical Reason was coded to this vehicle. This driver had asthma. She was wearing corrective lenses for a near-sighted condition. The Pontiac Grand Am (V2) was driven by an 18-year old female who was transported to a local trauma center with possible injuries. She stated that she only remembered turning onto the highway and doesn't remember the events of the crash. She thinks she may have blacked out. She was talking to her grandfather before she blacked out. The investigating officer estimated her travel and impact speeds to be 96 kmph (60 mph). The Pontiac sedan was towed due to damage. The Critical Precrash Event for V2 was “other motor vehicle in lane traveling in the same direction at a lower steady speed”. The Critical Reason was a driver related factor of “heart attack or other physical impairment of the ability to act”. This driver was drifting in and out of consciousness while driving. She has asthma and several allergies. She was taking prescription medication for pain. In the proceeding week she had done some heavy activity moving things for her grandfather. She had approximately six hours of sleep the night before and was fatigued. She drives this roadway weekly.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Stress/Emotion, Drugs present problem 
+Vehicle 2:  Distraction, Driver Fatigue, Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

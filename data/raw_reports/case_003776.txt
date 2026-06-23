@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on a level two lane undivided roadway with a posted speed limit of 55 MPH (89 KPH). The road was curved left with a radius of curvature of 375 meters and a superelevation of 1.8% for Vehicle #2. The road was curved right with a radius of curvature of 1875 meters and no superelevation for Vehicle #1. Both vehicles had black on yellow curve warning signs with a suggested speed of 50 MPH. The weather was cloudy. Vehicle #1, a 2000 Chevrolet Cavalier, was traveling west on the two-lane roadway negotiating a curve to the right approaching a driveway. Vehicle #2, a 1995 Dodge Intrepid, was traveling east on the same roadway negotiating the curve to the left. Vehicle #1 attempted a left hand turn into the driveway and was struck in the front by Vehicle #2's front. Vehicle #1 was rotated counterclockwise back across both lanes and came to rest in the westbound lane facing east. Vehicle #2 continued off the right side of the roadway, came back on the roadway crossed both lanes, off the north side of the road and struck a 25cm pole with its front. Vehicle #2 came to rest facing in a northerly direction. Both vehicles were towed due to damage. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. The Chevrolet Cavalier (Vehicle #1) was driven by a belted 80 year old male who was transported, treated and released for minor injuries. The right front seat passenger was a belted 72-year-old female who was also transported, treated and released for minor injuries. Both driver and passenger airbags deployed. The interview was refused and no information obtained from the driver. The Critical Precrash Event for Vehicle #1 was this vehicle turning left at the intersection. The Critical Reason for the Critical Event was coded as an unknown type of driver error. This was coded because there was no further information available. It is possible that the driver may have been inattentive because his wife was in the vehicle, misjudged the gap distance of the other vehicle or made a false assumption. An associated factor coded to this driver was the use of prescription medications. He was taking two medications: (a) a diuretic, with a possible side effect of drowsiness and (b) a beta-adrenergic blocking agent, with mild to no side effects known. It should also be noted that the medical indicated that the driver had consumed an alcoholic beverage 1-½ hours prior to the crash. The Dodge Intrepid (Vehicle #2) was driven by a belted 29-year-old female who was transported, treated and released for minor injuries. There was no interview and no information obtained from the driver. No other associated factors were coded to this driver. The Critical Precrash Event for Vehicle # 2 was coded Other vehicle encroachment from opposite direction - over left lane line. No Critical Reason was coded to the driver of the Intrepid and she was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

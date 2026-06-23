@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lane of a two-lane roadway. This was a straight, bituminous roadway with a positive grade, and a posted speed limit of 72kmph (45mph) and an advisory limit of 48kmph (30mph). It was evening on a weekday and the road was dry and the sky was cloudy. Traffic flow was congested with stop-and-go activity. V1, a 2000 Buick Century with one occupant was traveling in lane one behind V2. V2, a 1997 Buick Riviera with one occupant was stopped in lane one due to the traffic turning ahead. V3, a 1999 GMC Sierra was stopped ahead of V2 with two occupants. V1 stated that he had been traveling, when traffic ahead of him suddenly stopped and he applied the brakes but could not avoid contacting it's front to the back of V2. This sent the front of V2 into the back of V3 before they both came to final rest in the roadway. V1, the Buick Century was driven by a 36-year old male who reported no injuries. He advised that he was on his way home from work, but he rarely took the road he was on. He advised that he was traveling between 18-32kmph (11-20 mph), when he applied the brakes to avoid rear-ending V2 that had suddenly stopped in front of him. He was unable to avoid hitting her. The Critical Precrash Event for V1 was other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Precrash Event was a driver related factor: inattention. Although the driver of V1 was not speeding, he was traveling too fast for the stop-and-go traffic flow. An associated factor coded to all three drivers was the traffic flow interruption in the form of congestion. V2, the 1997 Buick Riviera was driven by a 20-year old female who reported minor injuries but refused treatment. She stated that traffic was backed up because of people turning onto the highway and she had been stopped when she was hit from behind. The Critical Precrash Event for V2 was other motor vehicle in lane: traveling in the same direction with higher speed. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2 and she was not thought to have contributed to the crash. V3, the GMC sierra was driven by a 38-year old male who reported no injuries. He stated that he had stopped with the traffic ahead of him and V2 was pushed into the back of him by V1. The Critical Precrash Event for V3 was not in involved in first harmful event. Therefore, no Critical Precrash Event or Critical Reason was coded to the driver of V3. An associative factor was the conversation between him and the passenger.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Distraction, Driver Inexperience, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

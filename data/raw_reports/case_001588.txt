@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a one-way, urban roadway just before a four-legged signal-controlled intersection. Only south and westbound travel was permitted through the intersection. At the crash location there were two southbound lanes and a parking lane to the left of those lanes. The roadway had a posted speed limit of 48 kmph (30 mph) and the southbound approach had a 2 percent uphill grade. The westbound approach had two lanes of travel and was set on a 3 percent uphill grade. Conditions were daylight and dry with clear skies. The setting was mid-morning hours on a weekday. Vehicle one was a 2003 Chevrolet Express van traveling southbound in lane two. Vehicle two was a 2003 Honda Element sport utility traveling westbound in lane one approaching the intersection. V2 arrived at the intersection and turned right, traveling northbound onto the one-way southbound street in V1's lane. The front of V1 impacted the front of V2. Both vehicles came to rest in the intersection south of impact. The Chevrolet Express van (V1) was driven by a 35-year old male who was transported to a local trauma center with non-incapacitating injuries. He stated that he was heading to his first jobsite of the day when another vehicle entered his lane and collided with him head on. He didn't have a chance to react in avoidance. He estimated his travel and impact speeds to be 56 kmph (35 mph). The Chevrolet van was towed due to damage. The Critical Pre-crash Event for V1 was other motor vehicle in lane traveling in the opposite direction. No Critical Reason was coded to V1. This driver wore glasses for a nearsighted condition and had hypertension but does not take medication. He travels this road on a weekly basis. The rear tires of his vehicle had inadequate tread depth. The Honda Element (V2) was driven by a 42-year old female who was uninjured. She refused to be interviewed for the study, both on scene and over the phone. It appeared that she came to the intersection with a one-way street and then inadvertently turned right into oncoming traffic. She appeared to have steered right in avoidance. Her final rest position indicated that she moved her vehicle before police arrived. The investigating officer estimated her travel and impact speeds to be 24 kmph (15 mph). The Honda sport utility was towed due to damage. The Critical Pre-crash Event for V2 was other motor vehicle in lane traveling in opposite direction. The Critical Reason was a driver-related factor of an "other" recognition error: turning onto a one-way street in the wrong direction. Associated factors coded to the driver of V2 include inattention and an illegal maneuver for going the wrong way on a one-way street. No additional factors could be coded without an interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Vehicle present problem 
+Vehicle 2:  Decision, Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Turning right
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in opposite direction
+ 2 ：Other Motor Vehicle in Lane- Traveling in opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Other recognition error (specify) :

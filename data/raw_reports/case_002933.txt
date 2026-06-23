@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three vehicle crash occurred on a 5 lane undivided roadway with 2 lanes running north and south and a common turn lane in the middle. The roadway is concrete and level and has no sight line restrictions or controls. The speed limit is 56 kmph (35 mph). This crash occurred during daylight hours with no adverse atmospheric weather conditions. Vehicle one (V1), a white 1991 Buick Park Avenue 4-door sedan, was stopped in the right lane due to traffic in front of him. The driver of V1 had picked up his cell phone and was in the process of making a call when he heard skidding and felt his rear bumper being contacted by the front of vehicle two (V2). The driver of V1 is a fifty-three year old male in fair health. He reported having a heart condition and using the prescription drug Carvedilol. He was well rested and said he drove this roadway on a daily basis. He was not injured in this crash. Vehicle two (V2), a green 1994 Toyota Tercel 2-door sedan was stopped in the same traffic lane directly behind V1. The driver of V2 heard the screeching brakes of V3. She looked up and saw the approaching vehicle in her rearview mirror, but was unable to react in time. V2 was struck in the rear by the front of V3. V2 continued forward and struck the rear of V1. The driver of V2 is a twenty-seven year old female who was 36 weeks pregnant. She reported that she was in good health and was taking prenatal vitamins. She felt rested and was comfortable on this roadway as she drove it daily. The driver of V2 was transported to the hospital as a precautionary measure. The driver and her unborn child were treated and released. Vehicle three (V3), a 1995 Honda Accord sedan, was traveling south in the right lane behind V1 and V2. While driving, the driver of V3 tried to retrieve his cell phone from his pocket. In doing so, the phone fell to the floor. The driver of V3 took his eyes off the road in order to see where his phone had fallen. When he looked up again he saw that he was too close to the stopped traffic ahead. The driver of V3 applied his brakes, but collided into the rear of V2, pushing it into the rear of V1. V2 and V3 were towed from the scene. The driver of V3 is a nineteen year-old male in good health. He said that he drives this road daily and did not sustain any injuries in this crash. He did report being fatigued and that he had just finished working an extended shift. He also reported having some kind of disagreement within the six hours prior to the crash. V1 was not involved in first harmful event. The critical reason for the critical pre-crash event was not coded to this vehicle. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical pre-crash event for was not coded to this vehicle. The critical pre-crash event for V3 was coded: other motor vehicle in lane, other motor vehicle stopped. The critical reason for the critical pre-crash event was attributed to V3 and was coded as a driver related factor: internal distraction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Distraction, Driver Fatigue, Drugs present problem 
+Vehicle 2:  Distraction, Driver Stress/Emotion, Drugs present problem 
+Vehicle 3:  Distraction, Driver Fatigue, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other- Not involved first harmful event
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Driver Related Factor- Internal distraction

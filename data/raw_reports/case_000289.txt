@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle, rear-end collision occurred on a 2-lane divided roadway in a mixed commercial and residential neighborhood. It was a clear, sunny, weekday morning and the traffic was light. The roadway is straight, flat, and has a posted speed limit of 56 kmph (35 mph). V2, a 2001 Ford Ranger Supercab, was traveling north toward the driveway of a medical mall. V1, a 2004 Ford E350 converted work van, was also traveling north behind V2. As V2 slowed to make a right turn at the driveway, it was struck in the back by the front of V1. V2 was pushed forward off the northeast roadway, where it struck two small trees (10 cm & 18 cm diameter) and came to final rest. V2 was towed from the scene and both of its occupants were treated and released from a local hospital. V1 was able to drive to the right side of the road where it came to a controlled stop. V1 did not receive disabling damage but it was towed to the owner's home at her request. V1 was driven by a 33-year-old female that owns a pet grooming company and only drives this van for work. She was driving north to her first client this morning when she was involved in this crash. While driving north on this 2-lane roadway she thinks she may have glanced away from the road for an unknown reason and slammed into the back of V2. The truck ahead of her was slowing down to make a right turn into a business community. This driver said she does not remember seeing the truck in her lane before the crash and she cannot believe she was not paying attention to the roadway. When asked if there was anything out of the ordinary about this week or this trip, she said, "no, but today is my birthday." She was not injured in the crash and she does not have any health issues other than a sinus infection. The Critical Precrash Event for V1 was coded: other vehicle in lane traveling in same direction while decelerating and the Critical Reason for the Critical Event was driver related and coded: inattention (daydreaming.) V2 was driven by a 40-year-old female that was headed to work this morning when she was involved in this crash. She and her husband both operate a veterinary practice and drive to work together all the time. They normally drive a different vehicle to work but this morning they stopped at a hardware store to pick up some gravel so they drove a pick-up truck. After purchasing the gravel, they drove to their office (approximately 2 miles) and she remembers talking to her husband about a traffic jam they saw on the highway as they passed over it. She began to slow down as she approached her office, preparing to turn right, when her truck was struck the back by V1. Following the impact, she drove into two small trees that were planted in front of a dentist office. She was not injured in the crash but was examined at the hospital anyway. The Critical Precrash Event for V2 was coded: other vehicle in lane traveling in same direction with higher speed and the Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a 4-lane undivided (2 lanes in each direction) level wet asphalt roadway. It was nighttime but the road was lighted. The posted speed limit was 64 kmph (40 mph). The driver of V1, who was traveling eastbound in the second lane of travel, stated he had a clear view of the roadway. The driver of V2, who was waiting to exit a driveway located on the south side of the roadway, stated there was a non-contact vehicle that had been traveling eastbound in the first lane of travel, turning into the driveway he was exiting. The driver of V2 reported that he did not see V1 coming from his left until it was too late. V2 pulled out across the eastbound lanes of travel, intending to turn left and travel west. The front of V1 struck the left side of V2. The driver of V2 stated that he took no evasive actions. The driver of V1 stated that he locked up his brakes. The driver of Vehicle #1 was an 18-year old male who reported he was traveling at a speed between 49-67 kmph (31-40 mph) at the time of the crash. He had no related health problems, and had taken no medications prior to the crash. The driver states he was rested and going to visit his girlfriend. The driver did not sustain any injuries during the crash. The Critical Precrash Event for the driver of V1 was when another driver encroached into his lane from a driveway, turning into the opposite direction. The Critical Reason was not coded to the driver of V1 and he was not thought to have contributed to the crash. He was familiar with both his vehicle and the roadway. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. The driver of Vehicle #2 was a 26-year old male who reported he had no prior health problems and had taken no medications prior to the crash. The driver stated he had stopped but did not see the other vehicle coming. The driver sustained laceration to his left eyebrow. He was transported to a local trauma center for his injuries .The Critical Precrash Event for the driver of V2 was when he began to turn left at the intersection. The Critical Reason for the Critical Event was coded as an “other” recognition error because the sight line for the driver of V2 was blocked by the non-contact vehicle that was in the first eastbound lane (getting ready to make a right turn into the driveway). Because the non-contact vehicle was blocking his view, the driver of V2 did not see V1 and entered the roadway in front of V1. The driver of V2 also reported that he was in a hurry at the time of the crash, due to his work schedule. He was familiar with both his vehicle and the roadway. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. In summary, the crash occurred when the driver of V2 began to turn left at a point in time when his view of V1 was blocked by a non-contact vehicle. The fact that he was in a hurry was an associated factor in the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Driver Stress/Emotion, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Other recognition error (specify) :

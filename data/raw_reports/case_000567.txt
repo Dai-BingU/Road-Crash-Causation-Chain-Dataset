@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This accident happened on a 4-lane highway divided by a raised curb median at a T-intersection with a dead-end street. The roadway was dry, straight, and level with a posted speed limit of 56 kmph (35 mph). Vehicle 2, a 2003 Nissan Murano sport utility vehicle, was driven by a 36-year old female. The driver of Vehicle 2 stated that she was driving in lane one heading east on the highway at a speed of 35 mph. Vehicle 1, an unidentified medium/heavy truck, was in lane two on the same highway. After passing Vehicle 2 on the left, Vehicle 1 made a right turn onto Terrace Drive from lane two, cutting across the path of Vehicle 2. The right side of Vehicle 1 scraped along the left side of Vehicle 2 as Vehicle 1 made its right turn. Vehicle 1 drove down the dead-end street, made a U-turn at the end, and then drove back down the street where it made a right turn onto its initial roadway and then fled the scene. Vehicle 2 was towed due to damage. The make and model of Vehicle 1 was unknown because the driver fled the scene after impact. Witnesses at the accident scene stated that it was a flooring construction truck that was about the size of a flatbed truck. The Critical Pre-crash Event for Vehicle 1 was when it began to turn right at the intersection. The Critical Reason was coded as an illegal maneuver, a decision error. An associated factor coded to this driver was aggressive driving, because his unsafe action put Vehicle 2 at risk. The Critical Pre-crash Event for Vehicle 2 was when another vehicle encroached into her lane from an adjacent lane (same direction) over left lane line. The Critical Reason was not coded to Vehicle 2. The driver of Vehicle 2 was wearing her prescription lenses that corrected a myopic condition and was taking an over-the-counter pain reliever. It was not thought that she took any actions that contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

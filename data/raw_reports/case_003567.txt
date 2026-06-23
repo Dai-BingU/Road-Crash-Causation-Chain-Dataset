@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at a T-intersection of two urban, two-lane roads. The busier of the two roads runs north/south. The secondary road intersects from the east and is controlled by a stop sign. The area is in a construction area, but traffic was not restricted and workers weren't present at the time. The only impediment was in the southbound lane that was partially paved and partially gravel. Conditions were daylight and dry on a weekend evening with a posted speed for both roads of 48kmph (30mph). Vehicle #2 was a 1998 Pontiac Grand Am traveling southbound on the primary road. Vehicle #1, a 1990 Nissan Sentra, was westbound on the intersecting road. Vehicle #1 failed to stop at the traffic control and attempted to turn right. The Nissan (V1) made the turn widely and crossed into the southbound lane where it struck Vehicle #2 head-on. Both vehicles came to rest at impact and were towed from the scene. The driver of Vehicle #1 fled the scene, but was located by police a short time later. The driver and passenger of Vehicle #2 were transported to an area hospital where they were treated and released. Vehicle #1 was driven by a 25-year-old female that was not belted. Police charged her with leaving the scene of an accident, no driver's license, and failure to yield. She was interviewed by a translator after the crash but claimed to not remember what happened. The Critical Precrash Event for Vehicle #1 was this vehicle turning right at intersection. The Critical Reason for the Critical Event was an unknown recognition error. Associated factors included a decision factor, too fast for conditions - reason unknown. An illegal maneuver - failed to stop for traffic control device was coded along with an inadequate evasive action, insufficient braking. Other associated factors were unknown. Vehicle #2 was operated by a 48-year-old female. She along with her daughter, a 13 year old, were belted with deployed frontal airbags. In her interview she stated that she was slowing to make a left turn on to the intersecting side street when the other vehicle ran the stop sign and came into her lane, striking her head on. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from crossing street turning into opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors coded. However, the driver wears contacts for both a near and farsighted condition and takes medications for diabetes and high blood pressure.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

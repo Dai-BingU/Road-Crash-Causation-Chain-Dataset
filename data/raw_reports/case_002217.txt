@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a four-lane urban highway with a concrete median. There were four north and four southbound lanes including a separate left and right turn-lane for each. The roadway had a posted speed of 56 KMPH (35 MPH). Conditions were late evening on a weekday with dry roads and clear skies. Vehicle #1 was a 1999 Cadillac De Ville traveling southbound in the left turn lane. Vehicle # 2 was a 1997 Mercury Cougar that was traveling northbound through the intersection on a green light. Vehicle #1 had a green light and attempted to make a left turn without giving Vehicle # 2 right of way. Vehicle #2 also had a green light. The front of V1 contacted the left of V2 and then the right side of Vehicle #1 collided with the left side of Vehicle #2. Vehicle #2 tried to swerve to the right in order to avoid contact with Vehicle #1. The initial impact pushed Vehicle #1 into the traffic Pole. Both vehicles came to rest in lane one on the northbound lane. The Cadillac De Ville was driven by a 78-year old female who was transported to a local hospital with injuries. She stated she approached the intersection to make a left turn going about 30 MPH (48KPH) and as she made the turn Vehicle # 2 was “speeding toward her at unusually fast rate of speed.” She estimated her speed at the time of the impact was between 20-30 MPH (32-48 KPH). The Cadillac was towed due to damages. An associated factor for this driver could be age related and the presence of alcohol in her system as it was almost twice the legal limit 0.147. Also, when interviewed she reported no daily medication taking but, in the medical it states she is taking medication for hypertension with possible side effects of dizziness, fatigue and headache. The Critical Precrash Event for Vehicle #1 was this vehicle traveling turning left at intersection. The Critical Reason for this Critical Precrash Event was a decision error, misjudgment of gap or other's speed. The driver of the Cadillac was cited a ticket for not yielding the right of way to Vehicle # 2. The 61 year-old driver of the Mercury Cougar stated that he tried to swerve right in order to avoid being struck by Vehicle #1 who made a left-turn without yielding him the right of way. The right hand side of Vehicle #1 made contact with the left hand side of Vehicle #2 then forcing Vehicle #1 into a traffic pole. He was not critically injured and his car was towed due to damages. The Critical Precrash Event for Vehicle #2 was other vehicle encroached from opposite direction - over left lane line. He tried to avoid the crash but was unsuccessful. There was no Critical Reason coded for this vehicle. This driver had no associated factors coded for this accident and was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Drugs present problem 
+Vehicle 2:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

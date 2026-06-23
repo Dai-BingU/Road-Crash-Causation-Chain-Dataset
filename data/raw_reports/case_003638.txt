@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the intersection of two asphalt residential streets. It was on a weekend evening, with daylight and there were no adverse weather conditions. The speed limit for V1 was 32 kmph (20mph) and there was a 12% downhill grade with a stop sign at the intersection. The speed limit for V2 was 40 kmph (25mph) and there was a 12% downhill grade. Vehicle 1 was traveling east as it approached the intersection that was controlled by a stop sign. Vehicle 2 was traveling north as it approached the intersection. The front of Vehicle 1 contacted the left front wheel of Vehicle 2. Vehicle 1 came to rest heading north at the east curb just north of the intersection. Vehicle 2 came to rest heading northwest on the northwest corner. Vehicle 2 was towed due to damage and the occupant of vehicle 2 was transported to a medical facility. Vehicle 1 was a 1998 Ford Contour driven by a 20 year-old female. There was a 7 month-old passenger in a child seat in the right rear seat. The driver stated that she stopped at the stop sign and as she was turning right got hit on the right front of her vehicle. It is the researchers opinion that the driver of V1 was not telling the truth and did not stop at the stop sign and was intending to go straight across the intersection. The angle of the vehicles and the damage to both vehicles supports V1 going straight across the intersection. The Critical Precrash Event for Vehicle 1 was this vehicle traveling crossing over (passing through) the intersection. The Critical Reason for the Critical Precrash Event was an illegal maneuver (running a stop sign). A witness to the crash stated that he saw Vehicle 1 traveling at a high rate of speed and that the driver of Vehicle 1 did not slow for the stop sign. The driver of Vehicle 1 stated that she did stop for the stop sign and was traveling 24 kph (15 mph) The PAR states that the driver of Vehicle 1 did not have a valid driver's license at the time of the crash, although she did have one in the past. The driver stated that her license was reinstated just prior to the crash. Vehicle 2 was a 1999 Chevrolet Malibu driven by a 17 year-old male. There were no passengers in the car. He stated that he was going down the street with the right-of-way. He never saw the other car (it was coming down the street very fast) and he got hit on the driver's side. The Critical Precrash Event for Vehicle 2 was the other vehicle encroaching from crossing street, across path. No Critical Reason for the Critical Precrash Event was coded for this vehicle. The airbag system data module recorded the maximum velocity change as -7 kph (-4mph.) Because the driver of Vehicle 2 was inexperienced and familiar with the roadway, it is possible that this driver did not look to the left for crossing traffic because he had the right of way. This driver had only been driving for six months at the date of the crash. He indicated that he never saw Vehicle 1 approaching because of Vehicle 1's speed. He stressed the fact that he “had the right-of-way”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of a weekday in center lane of a one-way three-lane roadway. The bituminous roadway was dry and level and curved to the right. The northbound roadway had a posted speed limit of 80kmph (50 mph). The crash occurred just south of an intersection that was controlled by a properly functioning traffic signal. The traffic flow was heavy, but there were no adverse atmospheric conditions at the time of the crash. V1, a 2002 Buick Lesabre, was northbound approaching the intersection, where it intended to go straight. V2, a 1997 Dodge Dakota Pick-up, was also northbound in lane two behind V1. V3, a 1997 BMW 528i, was traveling behind V2 in the same lane and V4, a 1997 Suzuki Esteem, was traveling behind V3. As V1 approached the intersection the traffic control signal turned from green to yellow and V1 slammed on his brakes. The driver stated that he tried to stop by was hit by V2. V2 slammed on his brakes but was too close to V1 to avoid hitting him. V3 struck V2 in the back and V4 struck V3 in the back. All vehicles came to final near their respective points of impact. V2, V3, V4 were all towed from the scene. The driver of V1, a 17 year-old male, was on his way to school at the time of the crash. He said he saw the light at the intersection change and he braked than he was struck by V2. He was uninjured in the crash. The Critical Precrash Event was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason is not coded to this vehicle. The only associated factor was inexperience as he had only been driving for less than a year. The driver of V2, a 42-year-old male, was on his afternoon commute home traveling behind V1. He stated that he saw the light change from green to yellow and assume that V1 would continue through the intersection. When V1 stopped suddenly he slammed on his brakes but was unable to avoid the collision. He suffered minor injuries but refused treatment. The Critical Precrash Event was coded other motor vehicle in lane, traveling in same direction while decelerating. The Critical Event was coded as a driver related factor, following too closely to respond to unexpected actions of other driver. Associated factors coded to V2 include traveling too fast for conditions and following too closely (Keeping up with traffic) as well as a false assumption (assumed that other driver would continue to proceed). The driver of V3, a 45-year-old female was running an errand while traveling behind V2. She said she saw the two vehicles in front of her collide and she slammed on her brakes but could not avoid the crash. She was uninjured in the crash. The Critical Precrash Event was coded other, not involved in first harmful event. The Critical Reason is not coded to this vehicle. Associated factors coded to this driver include traveling too fast for conditions and following too closely (keeping up with traffic).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Speed/Distance present problem 
+Vehicle 3:  Decision, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+ 3 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

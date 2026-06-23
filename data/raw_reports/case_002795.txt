@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle collision occurred in a four-way controlled intersection. The roadway for all vehicles is bituminous and was lightly covered in snow due to a light snowfall. The main road is four-lanes with a posted speed limit of 56 kmph (35 mph). Eastbound traffic has a -15% slope. Northbound traffic has a -7% slope. Southbound traffic has a 7% slope. The intersecting road is two-lanes with a posted speed limit of 48 kmph (30 mph). This crash occurred during daylight hours with clouds and snow falling. Vehicle one (V1), a 2003 Hyundai Elantra was northbound with the intention of turning left from the second land. Vehicle two (V2), a 1990 Ford F350 pickup was southbound in the first lane. Vehicle three (V3), a 1999 Ford Taurus was westbound and stopped, with the intention of turning right, from the first lane. V1 turned left at the intersection and the front of V1 impacted the front of V2. V2 deflected and the front of V2 impacted the front of V3. V1 and V2 were towed due to damage. V3 was not towed due to damage. The driver of V1, a sixty-three year old female was coming from one store heading to a second store. This driver had been driving for about twenty minutes at the time of the crash. This driver had epilepsy and was taking Tegretol and Clorazepate as medications. This driver was very slow to answer the questions during the interview. This driver stated that she had stopped and when she went the light was green. This driver indicated that she never saw the other car. This driver drives this vehicle daily and over this road on a daily basis. The driver of V2, a forty-eight year old male was coming from a job site heading back to his office. This driver had only been driving for a few minutes at the time of the crash. This driver stated that vehicle one, never slowed and just turned left in front of him. This driver drives this vehicle daily and over this road on a daily basis. The driver of V3, a forty-eight year old female was heading home from the grocery store at the time of the crash. This driver had been driving for about ten minutes at the time of the crash. This driver never saw the first impact and was looking right at her intended turn direction. This driver drives this vehicle daily and over this road on a daily basis. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical pre-crash event was attributed to V1 and was coded as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction- over left lane line. The critical reason for the critical pre-crash event was not coded to this vehicle. V3 was not involved in first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+Vehicle 3:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

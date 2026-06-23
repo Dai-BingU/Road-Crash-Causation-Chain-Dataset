@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred just after noon on a weekday in the middle of an intersection between a five-lane east/west undivided roadway and two intersecting roadways (a two-lane roadway to the north and a three lane roadway to the south) controlled by properly functioning traffic signals. There were two lanes in each direction and a left turn only lane between them on the east-west bound roadway on which the crash vehicles had been traveling pre-crash. The road was bituminous, dry, and straight. West of the intersection the road had a 4% slope downhill to the east. East of the intersection the roadway was level. The posted speed limit was 64 kmph (40 mph). Traffic flow was light and the weather was clear. V1, a 1990 Chevy Lumina four-door with two occupants, was eastbound in lane two approaching the intersection. V2, a 2000 Ford Explorer four-door was stopped westbound in lane three (the designated left turn lane) preparing to turn left. As V1 approached the intersection it activated its right turn signal on as the driver prepared to move from lane two to lane one. V2 began its left turn maneuver as V1 entered the intersection and V1 struck the right front of V2 with its front left side causing V2 to rotate clockwise. V1 came to rest facing eastbound a short distance from impact. It had been moved to a wrecker prior to researcher arrival. V2 came to rest eastbound on the shoulder about 30m (98ft.) from impact. Both vehicles were towed due to damage. The driver of V1, a 34-year old male, was not injured. His 7-year-old passenger in the front right seat received minor injuries and was transported to a hospital. The driver advised that he was on his way home from a doctor's appointment and had been traveling about 64 kmph (40 mph) in lane two. He said he turned on his right turn signal to change from lane two to lane one as he approached the intersection. He added that when he noticed V2 start to turn left across his path he hit his brakes hard and skidded in a straight line before running into the right front side of V2 in the intersection. The Critical Precrash Event for V1 was coded other vehicle encroachment, from opposite direction over the left lane line. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors coded to V1 include the driver's health (he had a bad back and neck as well as a lung condition) and a false assumption; he assumed that V2 would yield the right of way. The driver of V2, a 58-year-old female, was not injured. She was on her way home from a drug store and had been stopped at the green light for more than 10 seconds. She stated that she turned left because she saw V1's left turn signal on and assumed that he was going to turn. She added that V1 struck her in the intersection causing her to spin around in a clockwise rotation. The Critical Precrash Event for V2 was coded this vehicle traveling, turning left at intersection. The Critical Reason was coded as a false assumption of others actions. In addition to the false assumption inexperience was coded as an associated factor as the driver rarely travels this route.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical present problem 
+Vehicle 2:  Decision, Driver Inexperience, Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

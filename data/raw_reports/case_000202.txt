@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred at the roadside of a north/south bound two lane undivided roadway. There was one lane in each direction of the asphalt, straight, level, dry roadway, which had drainage ditches on either side of the road. The posted speed limit was 64 kmph (40 mph). The crash occurred early on a weekend morning under clear skies and light traffic flow. V1, a 1991 Honda Accord four door with one occupant, was traveling southbound in lane one. The vehicle drove along the right edge of the roadway and then veered back to the left and across the roadway on the left side. It jumped the drainage ditch and struck the embankment on the opposite side of the ditch with its front left. It then rotated in a counterclockwise direction and rolled over to the right approximately six quarter turns. During the rollover sequence it struck and knocked down a fence and came to rest on its top facing east approximately 35 meters south and east of the roadway departure point in a dirt horse training field. V1, the Honda Accord, was driven by a 30-year old female who received non-incapacitating injuries and was transported to a hospital. The driver reported that she had driven about a mile, traveling at the speed limit, from a nearby motel on her way home. She said she was still a bit drowsy and felt the right tires hit the right edge of the road without going into the drainage ditch. She said she thought she hit the gas by mistake rather than the brakes and this caused her to veer to the left across the road to the left and off the left edge and ultimately roll over several times before coming to rest upside down. The Critical Pre-crash Event for V1 was this vehicle traveling off the left side of the road. The Critical Reason for the Critical Event was driver related incorrect evasive action. Associated factors were assigned to V1 for driver condition, fatigued (she admitted being drowsy); due to multiple prescribed medications for depression and allergies, and according to the medical report she had used crack cocaine two days earlier and had a history of methamphetamine use; for performance the driver overcompensated; and for vehicle tire deficiency due to low pressure in the lone tire that could be measured.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Performance, Drugs, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

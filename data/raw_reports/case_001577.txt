@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the northbound lanes of a four-lane roadway. There were two northbound and two southbound lanes. The southbound lanes had a curve to the right just before the intersection. There were no adverse weather conditions and the roads were dry. The speed limit was 48 kmph (30mph). The roadways were level and bituminous. It was mid afternoon and the traffic was light and the skies were clear. Vehicle 1 a 1996 Mazda Protege was traveling southbound on the roadway when he attempted to turn left (eastbound). Vehicle 2 a 2003 Saturn Vue was traveling northbound at a constant rate of speed. Vehicle 1 turned as Vehicle 2 was coming through the intersection, Vehicle 1's front contacted Vehicle 2's left front. Vehicle 1 pulled over to the southwest corner, it was not towed due to damage. Vehicle 2' final rest was in the middle of the intersection, it was towed due to damage. Vehicle 1 was driven by a 20 year old male with two passengers age 20 and 21. The driver stated that he was getting ready to turn left and the driver of V2 looked like she was stopping for the light, so he decided to turn since he was already in the intersection. He stated that she did not stop and hit him. The Critical Precrash Event for V1 “this vehicle traveling: turning left at intersection”. The Critical Reason for the Critical Precrash Event was coded “decision error: false assumption of others actions.” Vehicle 2 was driven by a 35 year old female with two passengers, ages 54 and 1. The driver of V2 stated that the driver of V1 tried to turn before she could continue straight, thus making V2 strike V1. The Critical Precrash Event for V2 “other vehicle encroachment: from opposite direction - over left lane line”. The Critical Reason was “not coded to this vehicle”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

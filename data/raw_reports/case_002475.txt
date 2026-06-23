@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a primary arterial road that ran north/south in the area of the crash and was intersected on the west side by a driveway. The roadway was divided by a concrete curb height median with a crossover to give driveway traffic access to northbound lanes. There were three southbound lanes with two through lanes and a right turn only lane for driveway traffic. The northbound lanes were not involved. The roadway had a negative 3.8% grade at 140m precrash but the road was level in the immediate area of the crash. The bituminous roadway also curved to the right with a radius of 321m and was super elevated to 5.6% at the curves apex, (about 75m north of impact). The driveway at the road entry was level (for about 8 meters west). There were no traffic controls present. Conditions at the time were daylight and dry in mid afternoon on a weekday. The speed limit on the arterial was 80 kmph (50mph). V1, a 2000 Chevrolet Silverado Z71 4x4 pickup truck with one occupant, was attempting to cross the arterial roadway from the driveway and turn left (north). When V1 crossed it stopped and a portion of the rear of V1 was left hanging out in the left southbound lane (3). V2, a 2007 Chevrolet Impala with one occupant, was southbound in the far left southbound lane when its driver recognized that V1 was hanging out in its travel path and began heavy braking. V2's front impacted the left rear side of V1. V1 rotated about 85 degrees counter clockwise and came to rest facing northwest within a few meters of impact in the crossover. V2 traveled completely through the intersection and came to rest facing southeast with its left front wheel on the median about 10 meters south of impact. Both vehicles were towed from the scene. The driver of V1, a 66-year-old belted female, had bent over to pickup an object that had fallen to the floor as she stopped abruptly in the crossover. Her airbag did not deploy as a result of the crash, but she did sustain minor injuries and was transported to a local hospital for treatment. The Critical Precrash Event for V1 was coded other, stopped perpendicular to road with rear overhanging into roadway. The Critical Reason was not coded to this vehicle. Associated factors include inattention due to a personal problem (her husband had died recently) as well as a performance error (driver misjudged vehicle size in stopping at crossover) and inexperience (first time on this particular road, and little experience with this vehicle). The driver of V2, a 68-year-old male, was not restrained, but his airbag did deploy in the crash. He was transported to an area hospital with non-incapacitating injuries. He was on his way home after paying respects to a loved one at an area cemetery. The Critical Precrash Event for V2 was coded other vehicle stopped in lane. The Critical Reason was coded as an incorrect avoidance maneuver. If the driver of V2 had steered right into the adjacent lane in addition to his slowing down the crash would not have happened. Associated factors include inexperience as the driver rarely travels this roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Physical, Drugs, Vehicle, Vision present problem 
+Vehicle 2:  Decision, Driver Inexperience, Driver Physical, Drugs, Vision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other- Other (specify) :
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Incorrect evasive action

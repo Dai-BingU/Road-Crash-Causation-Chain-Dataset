@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during early morning rush hour in daylight in the westbound lanes of a four-lane roadway divided by a grass median. There are two westbound and two eastbound lanes with shoulders and rumble strips on both sides. This is a straight, level bituminous roadway with a posted speed limit of 89 kmph (55 mph). The road was dry and the sky was clear. Vehicle flow was congested with rush hour traffic and stop-and-go activity. Vehicle one (V1), a 1999 Plymouth Neon two door driven by a 20 year-old female was traveling westbound in the second lane. Vehicle two (V2), a 2005 Mercury Monterey minivan driven by a 35 year-old female, was westbound in the second lane in front of V1. Traffic in the westbound lanes was backing up from a stoplight-controlled intersection approximately 100 meters (328 feet) ahead. V2 began to decelerate, then came to a full stop. V1 was following closely, and impacted V2 in the rear with its front end. Both vehicles came to final rest in the second westbound lane. V1 was towed from the scene V2 left under own power. The driver of V 1 advised that she was on her way to school, traveling 16 to 32 kmph (10 to 20 mph) when she noticed V 2 begin to decelerate. She stated that she didn't think that V2 was going to come to a complete stop (a false assumption). When V2 did come to a complete stop she didn't have enough room to stop without hitting V 2 (a misjudgment of gap & speed of vehicle two. The pre-event movement for V 1 was coded going straight, category Other Motor Vehicle in lane, Other Vehicle stopped. The Critical Reason for the Critical Event a driver related decision error: Misjudgment of gap or other's speed. One associated factor for the V1 driver was fatigue. The driver works a full time job and attends school full time also. Per the driver interview, she stated that she is always tired. Another associated factor is vehicle condition related. Per the interview, the driver expressed concerns about a braking system deficiency. She stated that she was planning on trading the vehicle in for another later that week due to this problem. This could not be ascertained during the vehicle inspection, but the condition may have been present during the pre-crash phase. The pre-event movement for V 2 was coded going straight, category Other Motor Vehicle in Lane, Traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Inexperience, Driver Stress/Emotion, Speed/Distance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

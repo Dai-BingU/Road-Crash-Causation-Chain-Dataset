@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the morning of a weekday on a two-way, two lane undivided roadway. The bituminous roadway featured a curve to the left in the southbound direction with a posted speed limit of 89kmph (55 mph). The radius of curvature was measured to be 1125 meters with a superelevation of .4%. Traffic flow was normal and conditions were clear, as there were no adverse atmospheric factors at the time of the crash. V1, a 1987 Volvo 740 station wagon, was southbound on the roadway negotiating the curve to the left. V1 drove off the right side of the roadway and struck a 30 cm pole with its front, shearing it at its base. V1 than rotated clockwise and came to final rest facing southwest. V1 was towed due to damage. V1 was driven by a belted 81-year-old male who claimed to be in good health despite a history of high blood pressure, which was treated with medication. He was wearing his prescription lenses that corrected a myopic (near-sighted) condition. He stated that he was on his way home after working from 10:00 pm until 7:00 am when he “fell asleep at the wheel”. He could not recall when he had slept last. He had been staying up longer to watch the hockey finals. He also stated that he was not in a hurry, but wanted to get home to let his dogs out. He advised that he was having trouble with his car and had stopped three times before the crash. He was treated at the scene, but refused transport. He would later seek treatment at a hospital, where X-rays reveled he had a fractured left clavicle. The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road on the right side. The Critical Reason for the Critical Precrash Event was coded as a critical non-performance error; sleeping, that is, actually asleep. This was chosen because the driver stated he had fallen asleep at the wheel. Associated factor coded to this driver include the use of prescription medications (he was taking blood pressure medication with possible side effects of fatigue and dizziness).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Performance, Driver Physical, Drugs, Vision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

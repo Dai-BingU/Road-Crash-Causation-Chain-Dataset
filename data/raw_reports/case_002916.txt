@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This is a three-vehicle rear end type crash that occurred in the westbound lane of a two way, four lane, dry asphalt roadway. The roadway has one westbound lane and one eastbound lane. There is a dedicated left turn lane and right turn lane for eastbound traffic. The westbound and eastbound lanes are separated by a raised median. There is also a bicycle lane for both directions of travel. The crash occurred during the morning rush hour in daylight. There were no roadway deficiencies and no sight line restrictions noted. The traffic at the time was congested with school traffic. The speed limit on the roadway is posted 40 kmph (25 mph) There were no adverse weather conditions that contributed to this crash. Vehicle one, (V1), a 2000 Chevrolet Tahoe, driven by a 30 year-old male with one passenger was traveling westbound at approximately 40 kmph (25 mph) when the vehicle traveled through a nearby intersection on a green light. The driver saw vehicle two (V2) traveling in the same lane and same direction. The driver then looked down at his son sitting in the right front passenger seat. The driver then looked up and saw V2 stopped in the traffic lane. The driver stated that he applied the brakes (no lock up) and struck the rear of V2. The impact caused V1 to rotate slightly counterclockwise coming to rest in the westbound lane. The driver, a 30-year old male, sustained a contusion to his left hand. The driver also complained of pain to his back and neck. The right front passenger, a 6-year old male, complained of pain to his knee. V1 was towed due to damage. Vehicle two (V2), 2003 Ford F-250 pick-up, driven by a 61 year-old male was traveling westbound and was stopped to the rear of vehicle three (V3). V2 was stopped for about 2-3 seconds behind V3 before V1 struck it from the rear. The impact caused V2 to be pushed forward striking the rear of V3 that was also stopped in the traffic lane. The driver stated that traffic was congested at the time of the crash. V2 was removed form the scene on it's own power. Vehicle three (V3), a 1991 Chevrolet Blazer, driven by a 17 year-old female with two passengers was traveling westbound to the front of V2 and stopped for traffic for about 2-3 seconds before V2 struck it from the rear. The impact caused the vehicle to come to rest in the traffic lane. The vehicle was moved from final rest and was not marked prior to researcher arrival. The driver stated that when she stopped the vehicle, the right front passenger turned around to talk to the rear passenger and did not know if that passenger said anything or not. The driver also said that traffic was heavy at the time of the crash and is always that heavy at the time the crash occurred. The driver of V3 and the right front passenger complained of pain to the back. V3 was removed form the scene on it's own power. The driver of V1 suffers from post traumatic stress syndrome and takes the medications: morphine and valium. The critical pre crash event for V1 was coded: other vehicle in lane, other vehicle stopped . The critical reason was coded to V1 as a driver related factor: internal distraction. The driver looked at the right front passenger prior to the crash and then looked up and saw V-2 stopped in front of him in his lane of travel. The critical pre crash event for V2 was coded: other motor vehicle in lane; traveling in same direction with higher speed . The critical reason was not coded to this vehicle. V3 was not involved in the first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Physical, Driver Stress/Emotion, Drugs, Surveillance, Traffic present problem 
+Vehicle 2:  Driver Inexperience, Drugs, Surveillance, Traffic present problem 
+Vehicle 3:  Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

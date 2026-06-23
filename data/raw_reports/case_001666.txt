@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a two-way, ten-lane overpass roadway, divided by a concrete raised curb median. The pre-crash westbound roadway consisted of five lanes, which widened to six near an intersection to include two left turn lanes. At the point of impact, there were six westbound lanes and four eastbound lanes. This was a straight, bituminous roadway with a posted speed of 72 kmph (45 mph). The pre-crash roadway slope was plus three percent. At the point of impact, the roadway slope was plus five percent. Conditions were early afternoon on a weekday with dry roads and clear skies. Traffic flow was normal. V1, a 1996 Chevy Cavalier with one occupant, was traveling westbound in lane five, approaching an intersection. V2, a 2004 Freightliner truck-tractor without trailer, was stopped in lane six, ahead of V1. V2 also had one occupant. Both V1 and V2 intended to turn left at the intersection. As the driver of V1 approached, he saw that V2 was stopped. The driver of V1 decided to pass V2 on the right and enter the fifth lane of travel, which was also a left turn lane. V2 was in the process of changing lanes when the driver noticed a non-contact vehicle entering lane five from lane four. The driver of V1 swerved back into lane six. The front left of V1 made contact with the back of V2. Both vehicles came to final rest within 5 meters (16 ft.) of each other. V1, the Chevy Cavalier, was driven by a 21-year old male who reported thermal burns from airbag deployment, but refused treatment. He advised that he had come from the bank, and was heading home. As he got closer to the intersection he began to decelerate, and decided to go around V2. As he changed lanes, he noticed a non-contact vehicle entering the same lane. The driver stated that he was traveling at about 48 kmph (30 mph) when he made the evasive action to avoid hitting the vehicle next to him. He successfully avoided the non-contact vehicle, but was unable to stop in time to avoid rear-ending V2. The Critical Pre-crash Event for the driver of V1 was another vehicle stopped in his lane. The Critical Reason for the Critical Event was a recognition error - external distraction. The driver was aware of V2, but became distracted by the non-contact vehicle as he attempted to change lanes. He tracked the exterior source by turning his head over his right shoulder. One associated factor for this driver could have been an internal distraction. The driver was singing out loud inside the vehicle. Another associated factor was that the driver's normal driving pattern is to be in a hurry while driving, thereby making a potentially hasty lane change. V2, the Freightliner, was driven by a 57-year old male who refused to be interviewed. The Critical Pre-crash Event for the driver of V2 was the other vehicle traveling in his lane at a higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. This driver had no associated factors for this crash and was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

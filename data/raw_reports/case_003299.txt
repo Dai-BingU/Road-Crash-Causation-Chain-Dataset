@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred just east of a three-legged, signal controlled, urban intersection with pedestrian crosswalks. The south/north roadway was composed of four lanes, while being undivided, straight and level. The east/west roadway was composed of two lanes, while being undivided, straight and level. The roadways were bituminous with a posted speed limit of 56 kmph (35 mph). The crash occurred in the early afternoon hours on a weekday when the conditions were clear, and the roads were dry. V1, a 2000 Lincoln LS four door with one occupant, was southbound in lane two. V1 made a left hand turn onto the eastbound road, while accelerating and leaving 13.5 meters (44 feet) of yaw marks in the westbound lane. V1 then steered right to return to the eastbound lane, leaving an additional 7.8 meters (26 feet) of yaw mark. V1 then departed the roadway to the right and struck a non-breakaway utility pole with the left and center front of vehicle (event 1). V1 then traveled 3.5 meters (11 feet) and contacted a wood fence with its right rear. V1 came to final rest facing northeast partially on the sidewalk and in the roadway. V1, the Lincoln LS was driven by 19 year-old male who reported no injuries in the crash. His friend and son of the owner of the vehicle provided a surrogate interview on-scene. The driver who is unemployed was at a friend's house playing video games. He had just left that friend's house to go to another friend's house for some unknown reason. The driver stated he was driving south in lane two and when he turned left onto the eastbound road, a "Jeep" traveling in the opposite direction "ran him off the roadway." V1 was towed from the scene with disabling damage. The owner of the vehicle who leant the driver his car doesn't believe the driver's story. He believes the driver took the left turn at a high rate of speed, lost control and struck the utility pole. Witnesses on scene confirmed hearing a car rapidly accelerating and tires squealing just prior to the crash. The driver was arrested after the crash for multiple criminal charges including hit and run and driving with a revoked license. The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road on the right side. The Critical Reason for the Critical Event was a decision error, traveling too fast for the turn. Although the driver was not speeding he was traveling too fast to control his vehicle while making the left turn. Associated factors include the fact that this was the first time the driver had ever driven this vehicle. His inexperience was also coded as the driver was 19 and it is unclear how long the driver has been driving any vehicle and for how long his license had been revoked.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

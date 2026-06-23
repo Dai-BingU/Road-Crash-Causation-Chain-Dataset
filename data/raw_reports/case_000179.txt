@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of a weekday in the northbound portion of a divided urban expressway. The north/south expressway consisted of three lanes in each direction divided by a curbed median and guardrails. The bituminous expressway was dry, straight, and level with a posted speed limit of 80kmph (50 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. Vehicle 1 (V1), a 1996 Mercury Sable, was eastbound in lane 3 traveling at a high rate of speed. V1's right front tire was missing one lug nut and the tread on all four tires was dangerously low. For unknown reasons V1 was weaving in and out of traffic by making frequent lane changes, as V1 changed from lane three to lane two its right front tire blew out causing the vehicle to roll over along its longitudinal axis to the right across lanes two and one before coming to final rest on its roof (straddling the right shoulder and lane one). V1 was towed due to damages. V1 was driven by an unknown male who along with his passenger fled the scene in a vehicle that was closely following V1. There were two witnesses present with V1 when police arrived. One witness actually saw the crash events while the other individual saw the immediate aftermath only. This second individual was listed in the police narrative and he was contacted. The individual reported that he was driving along when he noticed V1 on its roof. The witness stopped to see if could provided assistance and quickly noted that 2 individuals had blood on their faces, but declined help. The witness stated that the individuals were quickly removing large after-market speakers from the trunk of V1 and loading them into the second vehicle. After removing the speakers they fled the scene. Several unsuccessful attempts were made to contact the owner of V1. The Critical Event for V1 was coded this vehicle loss of control due to tire blow out. The Critical Reason for the Critical Event was coded as a vehicle related factor, tires/wheel failure. Associated vehicle factors coded to V1 include very worn tire-tread, a missing lug nut from the front right tire. Aggressive driving (speeding with rapid and frequent lane changes) was also coded as an associated factor. There were 4 citations (2 were for moving violations) found during the vehicle inspection with the oldest violation having occurred over twelve months ago.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Blow out/flat tire, (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Tires/wheels failed

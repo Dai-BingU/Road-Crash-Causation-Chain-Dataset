@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred at an intersection controlled by traffic signals. At the time, there was traffic congestion and road construction. The north/south roadway is a four lane, undivided, straight, level concrete roadway. Northbound lane one approaching the intersection was closed due to construction. The east/west trafficway is divided, straight and level. The westbound lanes consist of two through lanes and a left turn lane. The speed limit for both roadways is 56 kmph (35 mph). The crash occurred during early morning rush hour with no adverse environmental conditions. Vehicle one (V1), a Chevrolet G-series van, was traveling north in the single northbound lane approaching the intersection. Vehicle two (V2), a 2002 Mitsubishi Mirage, was traveling west in lane two approaching the intersection. Vehicle three (V3), a 2006 Ford ambulance, was stopped southbound in lane two. In the intersection, the front of V2 struck the right side of V1. V1 rotated clockwise and rolled onto its left side. The back of V1 struck the front of V3 as it came to rest. After impact, V2 rotated clockwise and came to rest in the intersection facing north. V1 and V2 were towed due to damage. The driver of V1 was a 30-year-old male who drives the route weekly and is familiar with the vehicle. He was enroute from a supplier to a job site. He was listening to the radio at the time. He stated that he saw V2 as he entered the intersection and accelerated in an attempt to avoid the crash. The critical pre-crash event for V1 was coded "other vehicle encroachment; from crossing street, across path." A critical reason was not coded to this vehicle. The driver of V2 was a 37-year-old female who drives the route monthly and drives the vehicle 2-5 times every three months. She was enroute from a friend's residence to her son's school. She was listening to the radio at the time. She did not detect V1 until she had entered the intersection and attempted no evasive maneuvers. The critical pre-crash event for V2 was coded "this vehicle traveling; crossing over (passing through) intersection." The critical reason was coded "inadequate surveillance (e.g., failed to look, looked but did not see)." The driver of V3 was a 38 year-old male employed as an EMT. He was enroute from one station to another. The critical pre-crash event for V3 was coded "not involved in first harmful event." A critical reason was not assigned to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance, Traffic present problem 
+Vehicle 2:  Surveillance, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

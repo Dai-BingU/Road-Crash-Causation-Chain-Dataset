@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during early morning hours on a freeway with three lanes north/south with a positive barrier. It was dark but lighted roadway surface asphalt,dry and free of defects. There were no adverse atmospheric conditions at the time. The posted speed limit 96 kmph (60 mph). Vehicle one (V1), a 1995 Toyota Corolla sedan driven by a 33 year-old male was traveling northbound in the first lane. Vehicle two (V2), a 1971 Chevrolet C10 Pick-up driven by a 21 year-old male was stopped on the shoulder of the same roadway. As V2 attempted to re-enter the roadway its rear was impacted by the front of V1. V2 rotated clock-wise and came to rest northward in an on ramp north of the collision. V1 continued forward and departing the roadway to the right and coming to final rest facing north. V1 and V2 was towed from the scene due to damage sustained in the collision. The driver of V2 was well rested and familiar with the area, he had run out of gas pulled onto the shoulder and to put gas from can in bed into truck, but has no recollection of the crash after returning to his truck. The driver of V1 was unwilling to speak with the researcher regarding the collision. The critical pre-crash event for V1 was coded: other motor vehicle in lane; traveling in same direction with lower steady speed. The critical reason was coded to V1 as a driver related factor: too fast to be able to respond to unexpected actions of others (specified as: V2 entered roadway from right shoulder directly in front of this vehicle and driver was unable to respond in time to avoid impact.). Additional factor, the medical records indicate the driver of V1 was possibly under the influence of both alcohol and cocaine at the time of the collision. The researched noted the presence of several alcoholic beverages in the vehicle at the scene. These items would affect the driver's reaction time to avoidance of V2. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical event was not coded to this vehicle. It is unknown if the driver of V2 was aware of V1's presence before pulling into the roadway from the right shoulder.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Leaving a parking position
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

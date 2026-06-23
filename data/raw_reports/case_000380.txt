@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle collision occurred just past noon on a three lane southbound divided interstate with a posted speed limit of 97 kmph (60 mph). North/southbound traffic is divided by a concrete median strip. The roadway has a slight curvature to the right. Vehicle one (V1), a 1992 Pontiac Sunbird driven by a 24 year-old male, was traveling southbound in lane one. V1 swerved right to avoid hitting a family of ducks and lost control of his vehicle. V1 crossed two travel lanes to the northwest leaving the road and hitting the Jersey barrier with it's left front rotating counterclockwise striking the barrier with the right rear and coming to final rest facing south. V1 was towed from the scene due to damage. The critical pre-crash event for V1 was coded: object or animal, animal(s) in roadway. The critical reason was coded to V1 as a driver related factor: overcompensation. An associated factor for V1 was that it had degraded brakes according to the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Driver Physical, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Animal in roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

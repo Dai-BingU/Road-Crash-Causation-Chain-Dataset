@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This is a four-vehicle rear end type crash that occurred in the number one lane of a five-lane roadway. There is also a continuous left turn lane on the roadway where the crash occurred. The speed limit on the roadway is posted 56 kmph (35 mph). There is a cross street near the area of the crash. This roadway is a north/south roadway that has one lane for each direction of travel. There is also a left turn on this roadway. The speed limit on this roadway is posted 40 kmph (25 mph). The weather at the time of the crash was clear and the roadway did not have any deficiencies on the roadway. There are no sight line restrictions or view obstructions in the area. Both roadways are constructed of asphalt and were dry at the time of the crash. Vehicle one, a 1996 Chevrolet Corsica was traveling eastbound in the number one lane. Vehicle two, a 2005 Ford Escape was stopped in the first lane ahead of vehicle one. Vehicle three, a 2000 Hyundai Sonata was stopped in the first lane ahead of vehicle two. Vehicle four, a 2000 Chevrolet Suburban was stopped in the first lane ahead of vehicle three. The front of vehicle one impacted the rear of vehicle two. The front of vehicle two impacted the rear of vehicle three. The front of vehicle three impacted the rear of vehicle four. All four vehicles came to rest in the area of impact. Vehicle one was towed due to damage. None of the remaining three vehicles were towed due to damage. The driver of vehicle one, a seventeen-year-old female stated that she looked up and saw the vehicle in front of her had stopped suddenly forcing her to slam on the brakes. This driver indicated that she was lost in an internal thought process. This driver had been up for about five hours. This driver drives this vehicle daily and over this road daily. The driver of vehicle two, a twenty-eight year old male was stopped. There is no known pre-crash information for this driver. This vehicle had four occupants. The driver of vehicle three, a forty-five year old female was stopped for traffic ahead. This driver was heading to a bank from home and had only been driving for about five minutes. This driver drives this road daily and this vehicle on a daily basis. The driver of vehicle four, a forty-five year old female was stopped waiting for a pedestrian to cross in front of her vehicle. This driver was intending to make a right turn onto the cross street. This driver stated that she was completely stopped for about 5-10 seconds waiting for the pedestrian to travel through the crosswalk before she was struck from behind. The critical pre-crash event for vehicle one was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical pre-crash event for vehicle one was coded as a driver related factor: inattention (i.e. daydreaming). The critical pre-crash event for vehicle two was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical pre-crash event was not coded to this vehicle. Vehicle three was not involved in the first harmful event. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

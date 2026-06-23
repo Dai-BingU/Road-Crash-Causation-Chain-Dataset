@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during morning daylight hours on a 2-lane, 2-way, straight, level, non-divided highway located in a rural area. The speed limit for the road is 88 kmph (55 mph). The crash occurred during daylight hours, the weather was clear, and there were no adverse weather or road conditions present. Both vehicles were initially traveling in the same direction in the #1 eastbound lane. Vehicle one (V1), a 2005 Ford F-150 pickup driven by 60 year-old male, was traveling eastbound in the number one lane following Vehicle two (V2). V2, a 2000 Volkswagen Jetta 4 door, was driven by a 35 year-old female who was in the number one lane and began to slow and signal to prepare to turn left onto a private business driveway. V1 had already changed into the oncoming lane in a passing zone to pass V2 on the left. As V2 made its left turn, the front right tire and side of V1 contacted the left side of V2 near the front bumper. After impact, V1 continued forward and pulled off the left side of the roadway and came to rest facing east. After impact, V2's driver moved the vehicle into the private drive facing north. V1 was not towed. V2 was towed due to damage. The critical pre-crash event for V1 was coded: other vehicle encroachment; from adjacent lane (same direction)- over right lane line. The critical reason was not coded to V1; however an associated factor coded was a false assumption of other's actions. The V1 driver assumed that V2 was going to continue to go straight. The critical pre-crash event for V2 was coded: this vehicle traveling, over the lane line on left side of travel lane. The critical reason was coded to V2 as a driver related factor: inadequate surveillance (e.g. failed to look, looked but did not see). The driver indicated she did not see V1 prior to the crash and indicated that V1 must have been in her blind spot of the mirror. She was busy looking in her intended turn destination prior to the crash. She was also thinking about a future event and had concerns with family and employment. She was on a work related trip and had driven 145 kilometers (90 miles) for this trip when the crash occurred. She was learning a new position at work.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Decision, Distraction, Driver Stress/Emotion, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

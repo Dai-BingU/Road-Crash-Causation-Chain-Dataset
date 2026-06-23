@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the westbound lanes of a divided, suburban roadway. The intersection was signal-controlled with pedestrian lights and crosswalks. The roadway had a posted speed limit of 72 kmph (45 mph) and a 1 percent downhill grade in the eastbound direction. The westbound approach was on a slight curve to the right and a 1 percent uphill grade. Conditions were daylight and dry with clear skies. The setting was dawn on a weekday. Vehicle one was a 1997 Lincoln Mark VIII coupe traveling eastbound in lane three preparing to turn left. Vehicle two was a 2000 Jeep Wrangler sport utility traveling westbound in lane two intending to go straight. Vehicle three was a 2000 Honda Civic coupe stopped at the light facing south waiting to turn right. V1 proceeded to turn left as V2 continued straight through the intersection. The front of V1 impacted the front of V2. V2 was equipped with very large aftermarket tires, which caused it to ramp up over the hood of V1. V2 then rolled over to the left three quarter turns, grazing the hood of V3 as it rolled. V2 came to rest in the northwest corner of the intersection. V3 pulled forward behind V2 to get out of the way and came to rest there. V1 came to rest at the point of impact in the intersection. The Lincoln Mark VIII (V1) was driven by a 16-year old male who was transported to a local hospital with non-incapacitating injuries. His mother stated that he had some pine tar on his windshield that smudged when he tried to clear it with the windshield wiper washer. The rising sun created a situation where he could not see out of the windshield. He did not stop before turning and was struck without warning. His estimated travel and impact speeds were 24 kmph (15 mph). The Lincoln coupe was towed due to damage. The Critical Pre-crash Event for V1 was this vehicle traveling, turning left at an intersection. The Critical Reason was an "other" decision error - turned while unable to see out of windshield. This driver was taking prescribed medication for Attention Deficit Hyperactivity Disorder. He had performed a strenuous weight lifting session the previous afternoon. He had only had his license for a period of two and a half weeks prior to the crash, though he had been driving for 14 months. The condition of the windshield and sun glare were also coded as associated factors. The Jeep Wrangler (V2) was driven by a 26-year old male who was transported to a local hospital with non-incapacitating injuries. He stated that he was heading to work when he noticed a car about to turn into his path with a foggy windshield. He steered right but couldn't avoid the collision, and subsequently rolled over on his path off the roadway. He estimated his travel and impact speeds to be 72 kmph (45 mph). The Jeep sport utility was towed due to damage. The Critical Pre-crash Event for V2 was other motor vehicle encroachment from the opposite direction over the left lane line. No Critical Reason was coded to this vehicle. This driver's vehicle was modified for off-road use via oversized tires and a heavy-duty suspension. The Honda Civic (V3) was driven by a 22-year old female who was heading from home to work. She stated that she was stopped at an intersection waiting to turn right when a crash occurred in front of her. One of the vehicles then rolled over the hood of her car. She was unable to respond in avoidance. The Honda coupe continued in service from the scene of the crash. No Critical Pre-crash Event or Reason was coded to V3 because it was not involved in the first harmful event. The tires on V3 had inadequate tread depth. No other associated factors were coded to V3.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Physical, Drugs, Vehicle, Weather/Environment present problem 
+Vehicle 3:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other decision error (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

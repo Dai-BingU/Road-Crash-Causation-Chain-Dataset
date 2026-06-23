@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle daylight collision occurred during mid-afternoon hours. The collision occurred in a controlled intersection with a stop sign for the north/south roadway and no stop sign for the east/west roadway. The pre-crash roadway for north/south roadway is straight and level paved with bituminous. The pre-crash roadway for east/west roadway is straight bituminous paving with a downhill grade of -10%. There is a posted speed limit of 48 kmph (30 mph) for legs of the intersection. Vehicle one (V1), a 1995 Mazda Mellenia sedan driven by a 41 year-old female, was attempting to make a left hand turn onto the westbound roadway after proceeding from the stop sign. Vehicle two (V2), a 1987 Mercury Cougar coupe driven by a 36 year-old male, was traveling eastbound in lane 2. V2 assumed V1 would yield the right of way, but V1 continued with her left-hand turn. The front of V2 hit the left side of V1, causing them to deflect in a northeast direction. V1 come to rest facing north on the westbound lanes. V2 came to rest in the intersection facing northeast. Both vehicles were towed from the scene. The driver of V1 was transported to a local medical facility. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at an intersection. The critical reason for the critical event coded was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver stated that the grade of the road could have been a factor that prevented her from seeing the other vehicle. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason for the critical event is not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

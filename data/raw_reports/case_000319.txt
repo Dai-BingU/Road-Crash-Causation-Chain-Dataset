@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary V1, a 2000 Plymouth Voyager minivan, was traveling westbound on a 2-lane undivided gravel/slag rural roadway. The roadway was dry, straight and level, and was bordered by a 40 cm deep ditch on its south side. There was no posted speed limit on the roadway, which by default in this State was 89 kmph (55 mph). The crash occurred in the early afternoon hours on a clear day. There was a minimum of loose gravel on this portion of the roadway. The driver of V1, a 25-year old female, drifted into the oncoming lane for an unknown reason. Once she realized she had done this, she steered hard to the right, driving her vehicle into the ditch on the side of the road. She then attempted to re-enter the roadway by steering left. As V1 began to re-enter the roadway, it rolled over to its right, striking a mailbox in the process. The van rolled over 4 quarter-turns, coming to final rest on its wheels, facing northwest. The driver and her two juvenile passengers were transported, treated, and released. V1 was towed due to damage. The Critical Pre-crash Event for the driver of V1 was when she traveled off the edge of the road on the right side. The Critical Reason for the Critical Event was coded as overcompensation, a performance error. An associated factor coded to this driver was an unknown non-driving activity. As per the police report and the crash investigation, it appears that the driver of V1 became distracted by something and let her vehicle drift into the oncoming lane. Once she realized that this had happened, she jerked the wheel to the right to return to her lane. The driver of V1 denied being distracted; however, this statement was not deemed credible, given the circumstances of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

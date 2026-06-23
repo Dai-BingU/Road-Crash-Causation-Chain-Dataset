@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred on a six-lane, divided, east/west roadway with a +1.6% grade at the intersection with a five-lane, one-way, northbound roadway. There are four travel lanes for westbound traffic. Both roadways were straight, dry and of concrete construction. Overhead traffic control lights control traffic at the intersection. The posted speed limit is 48 kph (30 mph) for westbound traffic and 64 kph (40 mph) for northbound traffic. Traffic was moderate at the time of the crash. This crash occurred during morning daylight hours with clear skies. Vehicle one (V1), a 2000 Mitsubishi Galant with one occupant, was westbound in the second travel lane. Vehicle two (V2), a 1997 BMW 318i with one occupant, was northbound in the second travel lane. V1 entered the intersection and the front of V1 impacted the right side of V2. V1 rotated clockwise and came to rest in the intersection facing southeast. V2 rotated clockwise, striking the curb with the left rear tire and wheel and came to rest partially off the roadway facing south. Both vehicles were towed from the scene. The driver of each vehicle was transported from the scene for medical attention. The driver of V1, a forty-six year old female, was heading from home to a support group. This driver had been driving for about two miles, drives the route daily and is familiar with the vehicle. The driver stated she blacked out at some time prior to the accident and has no recollection of the events leading to the collision. Her physician told her that she has a build-up of ammonia in her liver that caused her loss of consciousness. Past medical history includes cirrhosis of the liver and a shattered right ankle approximately three years ago. Medication/drugs include Lipitor, Ambien, Fosamax, Protonix, Thiamine, Folate, Carafate and Lasix. The critical pre-crash event for V1 was coded: this vehicle traveling - passing through intersection. The critical reason for V1 was coded: driver related factor-heart attack or other physical impairment of the ability to act. According to several witnesses, the driver was driving erratically prior to entering the intersection. The driver does not work and on disability. She has some personal problems she did not want to reveal. The driver of V2, a sixty-year-old female, was heading from home to a shopping center. This driver had been driving for about twenty-five minutes, drives the route weekly and is familiar with the vehicle. The driver stated the light was green. She did not detect V1 prior to impact and did not attempt any evasive action. She failed to look to the side and detect V1 prior to impact. The critical pre-crash event for V2 was coded: other vehicle encroachment - from crossing street, across path. The critical reason for V2 was coded: not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs present problem 
+Vehicle 2:  Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

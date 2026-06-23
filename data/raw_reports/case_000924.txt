@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle intersection type crash occurred in the afternoon on a clear day. The crash occurred in lane two of the northbound lanes of a four-lane bituminous, undivided, dry roadway. The northbound lanes are straight and level. The southbound lanes are level and curve to the left with a radius of 281m. Vehicle one (V1), a 1996 Ford F250 work truck with two occupants, was traveling south in lane two. The passenger wanted a pack of cigarettes so the driver was attempting to make a left turn into a convenience store packing lot. Vehicle two (V2), a 1999 Toyota Avalon was northbound in lane two with two occupants. V1 made the left turn in front of V2. The driver of V2 fully applied the ABS. The front of V2 struck the right side of V1. V1 was knocked off of the east road edge and came to final rest in the parking lot headed NW. V2 came to final rest in the northbound lanes headed NE. Both vehicles were towed due to disabling damage. The driver of V2 and the two occupant of V1 were transported to a local trauma center. A 32-year old male who reported no injuries drove V1. He advised that the passenger wanted to buy a pack of cigarettes before going to the shop to end the workday. He was looking into the parking lot for a place to park and did not see V1 approaching from the opposite direction in lane two. The driver is familiar with the vehicle and the route traveled. The critical pre-crash event for V1 was coded as: This vehicle traveling, turning left at intersection. The critical reason was coded as: Driver related recognition error, inadequate surveillance. A 20-year old male who was transported to a local trauma center drove V2. He advised that he and his cousin were going home when a white truck turned in front of them. He is familiar with the vehicle and the route traveled. The critical pre-crash event for V2 was coded as: Other vehicle encroachment-from opposite direction-over left lane line.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a highway off-ramp with a curve to the right, a downhill grade of 4.7 percent, and a posted speed limit of 48 KMPH (30mph). A yield sign was located at the bottom of the ramp. It was daylight and the weather was cloudy. This crash occurred on a weekday afternoon. Vehicle #1, a 1986 Chevrolet S10 pickup truck, was traveling south on the exit ramp. It stopped while waiting for a break in traffic. Vehicle #2, a 1990 Plymouth Acclaim 4dr-sedan was traveling south behind Vehicle #1. Vehicle #1 proceeded several yards forward and then came to a second stop awaiting a break in traffic. Vehicle #2 proceeded forward and impacted the rear of Vehicle #1 with its front. Vehicle #1 was driven by a belted 17-year old female who was not injured. There was a belted 21-year old male in Vehicle #1 who also was not injured. The driver stated at the scene that she did not take any avoidance actions as she already had her foot on the brake and did not see Vehicle #2 coming up behind her. This driver refused repeated requests for a complete interview and complete inspection of her vehicle. Vehicle #1 was not towed. Vehicle #2 was driven by a belted 79-year old male who was transported to an area hospital with chest pain. This driver could not be located for an interview. This vehicle was towed due to damage. The Critical Pre-crash Event coded to Vehicle #1 was: Other Motor Vehicle in Lane, Traveling in Same Direction with Higher Speed. The Critical Reason for Critical Pre-crash Event was not coded to this vehicle. Associated factors coded to this driver include an exterior factor in that she was looking at approaching traffic and driver inexperience. The Critical Pre-crash Event coded to Vehicle #2 was: Other Motor Vehicle in Lane, Other Vehicle Stopped. The Critical Reason for Critical Pre-crash Event was coded as: False Assumption of Other's Actions, because the driver of Vehicle #2 assumed that Vehicle #1 would merge without stopping. Associated factors coded to this driver include an exterior factor in that he was looking to his left at approaching traffic and inadequate surveillance. This driver had a history of hypertension, according to medical records. Police did not consider alcohol or illegal drugs to be a factor in this crash and ordered no tests for either driver. No summonses were issued in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience present problem 
+Vehicle 2:  Decision, Distraction, Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This four-vehicle crash occurred in the early evening during daylight hours on a busy interstate highway. The roadway surface is concrete divided, level and straight with four lanes in each direction. The posted speed limit is 97 kmph (60 mph). There were no adverse atmospheric conditions at the time of the crash. Vehicle one (V1), a 2003 Chevrolet Cavalier coupe, driven by a 43 year-old female was traveling southbound in lane four. Vehicle two (V2), a 1995 Toyota Camry sedan, driven by a 24 year-old female was traveling southbound in front of V1. Vehicle three (V3), a 1995 Land Rover Discovery, driven by a 48 year-old male was traveling southbound in front of V2. Vehicle four (V4), a 1997 Volvo 960 station wagon, driven by a 60 year-old male was traveling southbound in front of V3. V2, V3 and V4 decelerated for slowing traffic. The front of V1 struck the back of V2. V2 was pushed forward and the front struck the back of V3. V3 was pushed to the right and came to rest in lane three. The front of V2 then struck the back of V4. V1, V2 and V4 came to final rest in travel lane, V3 moved into lane three before coming to final rest. V1 and V2 were towed due to damage. The driver of V1 was well rested and on a familiar route on her way to a wedding rehearsal dinner. She takes several medications for bipolar disorder and a thyroid condition in addition to hormone medication. She stated that her medical conditions were stable and did not affect her ability to drive. She braked due to the slowing traffic, but was unable to slow down enough. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction while decelerating. The critical reason was coded to V1 as a driver related factor: too fast to be able to respond to unexpected actions of others (specified as: traffic in front slowing). The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. V3 and V4 were not involved in the first harmful event. The critical reason was not coded to these vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Speed/Distance, Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Traffic present problem 
+Vehicle 3:  Distraction, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred on a north/south four-lane urban highway with shoulders (two lanes each direction). It was intersected on the east side by a two lane residential road. South of the intersection, the highway was divided by a grass median; north of the intersection, a concrete barrier wall divided the lanes. Traffic counts from 2003 indicate the four lanes carry 47,223 vehicles per day in the crash area at a posted speed limit of 80kph (50mph). Conditions were dry and dark with streetlights present on a weekday night. Vehicle #1 was a 1998 Toyota Corolla traveling north on the highway in the right lane. Vehicle #2, a 2004 Nissan Frontier pickup, was northbound in the left lane just ahead of the Corolla (V1). Vehicle #3 was a 1996 Chevrolet Blazer in the left lane in front of the Frontier (V2). Traffic in the right lane ahead of Vehicle #1 slowed for a non-contact vehicle turning right onto the intersecting side street. To avoid slowing, Vehicle #1 switched lanes to the left lane and struck the left rear of V2 with its right front. This impact sent the Frontier pickup (V2) into a counterclockwise rotation and it struck the right side of Vehicle #3 with its front before rolling right four quarter turns. Vehicle #2 came to rest facing west across the northbound lanes approximately 48m north of initial impact with the Corolla (V1). After impact, Vehicle #1 rotated clockwise and came to rest facing east on the intersecting side street. Vehicle #3 came to a controlled stop several meters north of impact. Vehicle #1 and Vehicle #2 were towed due to damage; Vehicle #3 was driven away. Vehicle #1 was driven by a 32-year old male that was belted with deployed frontal airbags. He was not injured in the crash. A witness reported to police that the driver had been speeding and weaving through traffic prior to the collision. Police arrested the driver and charged him with careless driving, driving on a suspended license, and no registration. The Critical Pre-crash Event for Vehicle #1 was other vehicle traveling in same direction with lower steady speed. The Critical Reason for the Critical Event was too fast to be able to respond to the unexpected actions of others. The only associated factor that could be positively coded was inappropriate/unsuccessful evasive action. All other associated factors are unknown, as the driver refused an interview. Vehicle #2 was operated by a 44-year old female that was belted with no deployed airbags. She received possible injuries but was not transported to a hospital from the scene. She reported that she was traveling between 41-50mph in the left lane and was not braking when she was struck in the rear by the pickup. The Critical Pre-crash Event for Vehicle #2 was other vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. The only associated factor coded to this driver was work related stress; the driver had started a new job that day. Vehicle #3 was driven by a 50-year old female that was belted with no deployed airbags and not injured in the incident. No Critical Pre-crash Event and no Critical Reason were coded to Vehicle #3 because it was not involved in the first harmful event. The driver was a diabetic who takes two medications for the disease.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance present problem 
+Vehicle 2:  Driver Stress/Emotion present problem 
+Vehicle 3:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

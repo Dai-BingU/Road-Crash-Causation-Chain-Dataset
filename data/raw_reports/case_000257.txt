@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred in the middle of a four-way intersection. The southbound roadway (Vehicle 1) was a two lane undivided asphalt, and level roadway and the posted speed limit was 40kmph (25mph). The eastbound roadway (Vehicle 2) was also a two lane undivided roadway, and the posted speed limit was 56kmph (35mph). The intersection was controlled by traffic light without pedestrian crossing for all directions. The crash occurred in the early afternoon on a weekend. There was rain and the roadways were wet and traffic flow was normal. Vehicle 1, a 1997 Honda Accord was traveling southbound, speed unknown. The driver of V1, a 56-year old female said, she was going to make a left at the intersection. When she looked up she saw the light had turned red and applied her brakes and slid through the intersection. The researcher was unable to obtain any skid marks because of the wet surface. The driver of V1 suffered minor injuries and refused treatment. The Critical Pre-crash Event for Vehicle 1 was coded as traveling too fast for conditions. The Critical Reason was coded as weather related; rain. The driver of Vehicle 2, a 30-year old male, stated that he was stopped at the intersection waiting for the light to change to green when his vehicle was struck by V1. The driver of Vehicle 2 was not injured. The Critical Pre-Crash Event for Vehicle 2 crossing over (passing through) an intersection. The Critical Reason was not coded to the driver of Vehicle 2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

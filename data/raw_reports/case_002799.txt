@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, two-lane rural, straight and level roadway. The bituminous road had a statutory speed limit of 89 kmh (55 mph). Conditions at the time of the holiday evening crash were dark, unlighted, clear and dry. V1, a 2000 Lincoln Continental 4 door Towncar was driven by a 66 year-old female on her way from church, to her relatives home to spend the holiday evening together. V1 was westbound on the road and the driver stated that she activated her left blinker and slowed to 5-10 mph to look for her niece's home on the left hand side. The driver stated that she saw the driveway in the dark and began her turn. The driver saw the headlights of V1 for the first time through her right front passenger window approaching eastbound on the road just prior to the crash. V1 had no time for avoidance actions. The front of V1 was struck by the front of V2 in the eastbound lane. V1 was pushed rearward at impact and the back of V1 struck the front of V3. V1 came to rest across both lanes facing south. V1 was towed from the scene due to damage. The fully restrained driver refused treatment at the scene. V2, a 1991 Mercury Grand Marquis 4 door sedan driven by a 47 year-old male eastbound on the road on his way from home to pick up his son at a friend's home. The driver of V2 stated that he observed V1 on the road westbound. The driver of V2 saw V1 turn left ahead and applied the brakes, leaving 34 meters of skid marks on the road. After impact with V1, V2 left the road on the right side and came to rest facing east on the shoulder striking a wooden mailbox post with the front right corner of the vehicle. V2 was towed from the scene due to damage. The fully restrained driver denied injuries. V3, a 2000 Pontiac Grand Am GT 4 door sedan, driven by a 20 year-old female, was westbound on the road behind V1, on her way from her parent's home to her grandmother's home to spend the holiday evening. The front right passenger stated that V3 slowed almost to a stop as V1 slowed to look for the driveway. The driver of V3 decided to pass V1 on the right by crossing a driveway on the north side of the road next to V1. As the driver of V3 began to leave the road on the right side, V2 struck V1, pushing V1 backwards into V3. V3 came to rest in the driveway facing northwest. V3 was towed from the scene. The fully restrained driver, her 14 year-old sister in the front right seat, and 5 year-old brother in the second seat left side, were transported to a local trauma center. The Critical Precrash Event coded to the driver of V1 was 'this vehicle turning left at intersection.' The Critical Reason for the Critical Event coded to this driver was 'inadequate surveillance.' The driver stated that she did not initially see V2, and then by the time she was able to locate the driveway in the dark, while looking at the intended turn destination, V2 was suddenly there on the road. An Associated factor coded to this driver was a personal concern, as this was her first holiday season spent since the death of her husband during the prior year. The Critical Precrash Event coded to the driver of V2 was 'other vehicle encroachment from opposite direction over left lane line.' The Critical Reason was not coded to this driver. An Associated factor coded to this vehicle was the low tread on the front tires. There were no Critical Precrash Event or Critical Reason coded to V3, as it was not involved in the first harmful event. A Contributing factor coded to the driver of V3 was a 'driver related decision factor of false assumption-assumed V1 would continue to proceed.'
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Inexperience present problem 
+Vehicle 3:  Decision, Driver Inexperience, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

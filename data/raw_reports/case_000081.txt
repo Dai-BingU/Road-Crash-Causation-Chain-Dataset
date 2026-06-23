@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on a level two lane undivided roadway with a posted speed limit of 89 KMPH (55 MPH). The roadway was curved with a radius of curvature of 563 meters and a superelevation of 2.8%. The weather was clear, the roadway dry and it was daylight at the time of this afternoon weekday crash. Vehicle #1, a 1992 Toyota 4-Runner, was traveling south on the two-lane roadway negotiating the curve to the right. Vehicle #2, a 2005 Freightliner School Bus, was traveling north on the same roadway negotiating the curve to the left. Vehicle #1 crossed the centerline into the northbound lane. Vehicle #2 attempted to steer right onto the paved shoulder to avoid the collision. Vehicle #1 continued across the northbound lane onto the paved shoulder and struck Vehicle #2's front with its front. Vehicle #1 came to rest facing in a southeasterly direction on the east shoulder and Vehicle #2 came to rest facing in a northerly direction. Both vehicles were towed due to damage. The Toyota 4-Runner (Vehicle #1) was driven by a belted 27 year old male who received minor bruises, but refused medical treatment. He stated that as he was negotiating the curve at approximately 64-72 KMPH (40-45 MPH), when his truck pulled to the left and he thought it might have been a wind gust. He attempted to steer back into his lane, but the steering wheel would not turn. He was unable to return to his lane and continued to drift into the opposing lane. He observed the bus coming toward him, but was only able to brake in an attempt to avoid the collision. The truck left approximately 17 meters of pre-impact skids. The police issued him a citation for failure to keep right. He stated that he took no medications and did not wear corrective lenses. He indicated that he had gotten off work early and was not in a hurry. The Critical Precrash Event for Vehicle #1 was this vehicle traveling over the lane line on left side of travel lane. The Critcal Reason for the Critical Precrash Event was steering failure, a vehicle related factor. This was chosen because the driver stated he was unable to straighten the vehicle to return to his proper lane. No additional associated factors were coded to this driver. The 2005 Freightliner School Bus (Vehicle #2) was driven by a belted 61-year-old male who received a minor injury to his knee, but refused medical treatment. There were 5 additional unbelted occupants in the bus, none of which sustained any injuries. The driver stated that he was on a work related trip, saw the other vehicle drift into his lane, moved as far right as possible, but was unable to avoid the collision. There was no additional information obtained because the driver could not be re-contacted. The Critical Precrash Event for Vehicle #2 was other vehicle encroachment from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Steering failed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

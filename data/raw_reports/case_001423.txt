@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a two-way, three-lane, not physically divided roadway. The posted speed limit was 72kph (45mph). There were no atmospheric conditions at the time of the incident and the roadway was dry. Vehicle one (V1) was exiting a parking lot, which had a gradient of +2. Vehicle two (V2) was going straight on a level roadway, passing the parking lot from where V1 was exiting. There were no traffic control devices present at the location of this crash. V1 a 1996 Jeep Grand Cherokee was attempting to make a left onto the westbound roadway from a parking lot from a convenience store. V2 a 1992 Chevy Cavalier was traveling east on the main roadway at approximately 64kph (40mph). The front left of V2 made contact with the left rear of V1. The impact caused V1 to spin counter clockwise before coming to final rest in the westbound lane. V2 continued further ahead before coming to rest in between lanes one and two of the roadway. Vehicle two was removed from the scene due to moderate damage, whereas vehicle one suffered minor damage and was removed by the owner. Numerous attempts and messages could not generate an interview with the driver of V1 who had already departed the scene upon my arrival. However, through information collected by the police officer, it appears that the driver failed to look both ways before entering the roadway. Based on this information, the Critical Precrash Event was coded this vehicle traveling, turning left at intersection (from parking lot). The Critical Reason for the Critical Precrash Event was coded as recognition error, inadequate surveillance, in that the driver failed to look both ways. As far as the details of fatigue, medication, or possible distractions are concerned, this information remains unknown. The driver of vehicle one did not suffer any injuries as a result of this crash. The passenger of V2 was taken to the hospital for possible injuries, and the driver accompanied them before my arrival. An attempt was made to contact the driver of V2 using the number provided on the Police Accident Report. Unfortunately the person who answered claimed that it was not the residence of the driver in question. A match could not be found using sources such as the phone book or the Internet. Because no interview could be obtained, any other factors that may have contributed to this crash are unknown at this time. The Critical Precrash Event coded to this vehicle was other vehicle encroachment (from driveway, turning in opposite direction). There was no Critical Reason coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

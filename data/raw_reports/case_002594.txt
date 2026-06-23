@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during early evening hours The roadway is concrete, dry and free of defects. There were no adverse atmospheric conditions at the time, it was dark but lighted. Crash occurred at an intersection exit from parking lot, traffic flow from parking lot controlled by stop sign giving access to six lane divided roadway with a posted speed limit of 64 kmph (40 mph). Vehicle one (V1), a 1991 Mazda Protege sedan driven by a 21 year-old female with one passenger was traveling southbound in the second lane. Vehicle two (V2) a 1994 Ford Aerostar passenger van driven by a 44 year-old female was stopped at a stop sign facing eastbound in the first lane of a two-lane, two-way, concrete, undivided roadway. As the driver of V2 attempted a left turn the front of V1 it was struck the left front of V1. V2 rotated clockwise and the left side of V2 struck the right side of V1. V2 came to final rest in the roadway south of the point of impact. V1 continued south and stricking a utility pole on the median and coming to final rest against the pole. Both vehicles were towed from the scene due to damage sustained in the collision. The two occupants in vehicle one and the two occupants in vehicle two were transported to a local hospital with non-incapacitating injuries. Both drivers were cited for no driver's license and failure to maintain financial responsibility. The driver of V2 claimed to be drowsy at the start of this portion of the trip. She was familiar with the area and vehicle. The driver entered the intersection after stopping for the traffic control device. The driver did not see V1 prior to impact and took no evasive action. As V2 pulled into the cross street in an attempt to make a left turn she stopped reason why she stopped is not clear; possibly she was waiting for northbound traffic to clear the intersection although her daughter said traffic was clear for northbound traffic. This driver also stated she was waiting at the stop sign for a long time waiting for a gap in traffic. She also stated she was not in a hurry. The pre-event movement for V1 coded going straight, category this vehicle traveling crossing over passing through intersection. Critical reason not coded to this vehicle. The pre-event movement for V2 coded stopped in traffic lane, category this vehicle traveling turning left at intersection. Critical reason coded driver related factor "Inadequate surveillance".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue present problem 
+Vehicle 2:  Decision, Driver Fatigue, Driver Performance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a north/south two-lane rural residential roadway. The incident took place on a straight section of road, but 80 meters south of impact, the road curved to the west with a radius of curvature of 178m. In the curve, the road had a negative 4 percent grade as it traveled northward, but it leveled near impact. The posted speed limit was 48 kmph (30 mph). Conditions were daylight and dry on a weekend in the late morning. Vehicle #1 was a 1991 Ford Thunderbird traveling northbound. As the vehicle exited the left curve the driver lost control. The Thunderbird began to rotate counterclockwise and departed the right (east) side of the road. It struck a utility pole and large (70cm diameter) tree with its right side. After impact, the vehicle then started to rotate clockwise and struck a tree (40cm diameter) with its right front. Vehicle #1 continued rotating clockwise 360 degrees, returning to the roadway where it came to rest facing north in the southbound lane 30m north of initial impact. It was towed due to severe damage. Vehicle #1 was driven by a belted 17-year old male. He was transported to an area hospital with minor injuries. Apparently, he was reaching down to retrieve some coins that had fallen into the front right floorboard when he lost control and departed the road. The Critical Pre-crash Event for Vehicle #1 was this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was an internal distraction. Associated factors included the non-driving activity of retrieving objects from the floor. Too fast for conditions was coded, as the driver estimated his speed at 45 mph (72 kmph). The driver was also inexperienced and rarely drove that particular road.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Physical, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

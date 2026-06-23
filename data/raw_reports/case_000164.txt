@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a clear day during the mid-afternoon hours. The roadway is one-way, and has four lanes that are level and bituminous with a speed limit of 72 kmph (45 mph). There are no traffic controls. The roadway is intersected by a three-lane roadway that is controlled with stop signs. Vehicle one (V1), a 1990 Honda Accord driven by a 18 year-old female with two passengers, was southbound in lane three. The occupants were not from the area and were discussing the location of their destination, the bus station. The front right passenger told the driver to change lanes to the left and make the next left turn. The driver changed lanes from lane three to lane four, then braked and initiated the left turn. V1 was then struck in the back left corner by the front of vehicle two (V2). V1 went into a counter clockwise rotation and came to final rest in lane two of the westbound crossing street. V2, a 2003 Ford Windstar van driven by a 58 year-old female, was southbound in lane four. As V2 approached the intersection, V1 changed lanes to make a left turn. V2 braked but the front struck V1's left rear corner. V2 made a left turn and then parked in a restaurant parking area. V1 was towed from the scene, and the driver and both passengers were transported to a local medical facility. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: internal distraction, due to passengers giving directions. The critical pre-crash event for V2 was coded: other vehicle encroachment; from adjacent lane (same direction) - over right lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Distraction, Driver Inexperience, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

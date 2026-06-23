@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the morning of a weekend on a one-way urban roadway that served as an exit from an eastbound expressway. The eastbound roadway consisted of one-lane with a posted speed limit of 40kmph (25 mph). The bituminous roadway was straight and level. It was not raining at the time of the crash, however the roadway was wet from heavy rains that fell throughout the night and early morning, which had also caused the roadway to become immersed with puddles of standing water. It was still cloudy at the time of the crash and the traffic flow had been slowed due to the large puddles. V1, a 1988 Buick Park Avenue, was eastbound in the single lane. V2, a 2005 Ford Explorer, was stopped in the lane ahead of V1 in front of an 8.9 cm (3.5 in) deep puddle that stretched across the width of the street. V1 failed to stop and drove directly into the rear of V2. Upon impact V2 was pushed into the puddle while V2 came to rest at the beginning of the puddle. Officers had V1 pushed off of the roadway and onto a sidewalk and V2 remained functional and was driven through the puddle and pulled over. The driver of V1, a 22-year-old male, was transported directly from the scene to an emergency with non-incapacitating injuries, including a broken jaw. Many attempts were made to contact V1 driver but V1 driver could not be reached. It is known that V1 driver had a blood alcohol content of .131 fifty-five minutes after the crash occurred. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other motor vehicle stopped. The Critical Reason for the Critical Event was a driver related error, type of driver related error unknown. The only known associated factor that was coded to V1 was the fact that the driver was under the influence of alcohol while behind the wheel. The driver of V2, a 58-year old male, was taken directly from the scene to an emergency room after he suffered non-disabling soft tissue injuries to the lower back, left shoulder, and left elbow. V1 driver was willing to participate in the survey but upon his attorney's instructions stated that he could not discuss any details. V2 driver did say that he had stopped in front of the puddle as another vehicle was passing slowly through the puddle in front of him. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. There were no known associated factors that could be coded to the driver of V2 although he was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Physical, Drugs, Roadway, Traffic present problem 
+Vehicle 2:  Driver Physical, Drugs, Roadway, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

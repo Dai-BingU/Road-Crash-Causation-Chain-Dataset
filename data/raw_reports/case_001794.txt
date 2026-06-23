@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred eastbound lanes of a T- intersection composed of a 3-lane eastbound/westbound roadway and the northbound/southbound driveway access to a shopping center. The eastbound/westbound roadway was composed of two eastbound lanes and one westbound lane. All lanes were straight, level and bituminous with a posted speed of 80s kmph (50 mph). The northbound/southbound driveway was straight, level and bituminous with a posted speed of 40 kmph (25 mph). The northbound traffic was controlled by stop sign. It was midday on a weekday. The roads were dry and the sky was cloudy. Traffic flow was light. V1, a 1998 Dodge Dakota with one occupant, was traveling northbound in lane one when it turned left at the intersection after stopping at the stop sign. V2, a 2004 Mercury Grand Marquis with 2 occupants, was traveling eastbound in lane two as it passed the intersection. V1 struck V2 on the right rear door. V1 continued its turn and came to rest on the westbound shoulder, V2 veered off the roadway to the right, striking the curb and a tree before come to rest in a wooded area. V1 was driven by a 28-year-old male who reported no injuries. The driver states he was attempting to turn left out of a shopping center when he struck V2. He claims he did not see V2. The Critical Precrash Event for V1 was "this vehicle traveling-turning left at intersection". The Critical reason for the Critical Event was a "driver related factor-inadequate surveillance-looked but did not see". No other associated factors were assigned. V2 was driven by an 84-year-old male who reported bleeding from the lower arm/elbow/hand and was transported to the emergency room. Occupant one, an 83 year-old female, reported no injuries. Driver stated to the officer that he was traveling at approximately 80 kmph (50 mph), when he attempted to pass through the intersection when V1 turned left at the stop sign, striking his vehicle. V2 was unable to attempt any avoidance maneuver. The Critical Precrash Event for V2 was "other vehicle encroachment-from driveway, turning in opposite direction". No Critical Reason was coded to this vehicle. No other associated factors were coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

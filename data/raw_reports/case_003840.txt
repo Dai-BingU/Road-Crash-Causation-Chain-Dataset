@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This is two-vehicle crash occurred at the intersection of a two-lane road and a five-lane roadway. The east/west roadway does not have any traffic controls in the crash area and the road curves north to the east of the intersection area where the crash occurred. The north/south cross street is an access road to the shopping areas and to the south of the main road consists of one northbound and one southbound lane separated by a painted centerline strip. To the north of the intersection the lanes are not separated. The through street has a posted speed limit of 40 kmph (25 mph). The cross street does not have a posted speed limit. This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), 1999 Chevrolet Van, was traveling northbound and stopped at the stop sign for about three seconds. Vehicle two (V2), a 2004 Chevrolet pickup was traveling westbound in the first lane on the curved part of the roadway approaching the cross streets. V1 entered the intersection and the front of V2 impacted the right of V1. V1 came to rest in a grass area located off the northwest corner of the intersection. V2 traveled on a northwest trajectory and came to rest near the north edge of the intersection facing generally northwest. Both vehicles were towed due to damage. The driver of V1, a twenty-year old male was coming from the mall and heading to another store. This driver had just started driving and had only been driving for a few minutes at the time of the crash. This driver stated that he looked both ways but did not see V2. This driver drives this vehicle daily and over this road on a weekly basis. The driver of V2, a 30-year-old male, was coming from a store and heading to the bank at the time of the crash. This driver had only been driving for about a few minutes at the time of the crash. This driver stated that he saw V1 stopped and then it came out into the intersection. This driver drives this vehicle daily and over this road on a weekly basis. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over [passing through] intersection. The critical reason for the critical pre-crash event for V1 was coded as a driver recognition factor: inadequate surveillance (e.g., failed to look, looked but did not see). The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

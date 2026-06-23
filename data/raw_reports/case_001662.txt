@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary Case 2007-077 The crash occurred in the intersection of a four-lane north/southbound roadway divided by a left turn only lane with a two-lane undivided east/westbound roadway. The north/southbound roadway was straight, level, dry, asphalt. The east/westbound roadway was straight, dry, asphalt with a 4% downhill slope to the west. The posted speed limit for both roads was 64kph/40mph. There was a stop sign posted at the intersection for westbound traffic. The crash happened on a weekday during the morning rush hour while traffic was moderate under sunny skies. V1, a 2007 Jeep Wrangler, four-door SUV convertible with one occupant was traveling westbound in lane one. V2, a 2002 GMC Yukon four-door SUV with three occupants was traveling northbound in lane two. V1 turned left across the path of V2. V2 braked with lockup in an unsuccessful attempt to avoid a collision. V2 skidded and its front end struck the left side of V1. V1 rolled one quarter turn to the right and skidded about two meters landing on its right side facing northwest. V2 yawed to the left and came to rest about two meters from impact facing north. Both vehicles were towed from the scene due to damage. V1, the Jeep Wranger, was driven by a 36-year old female who was not injured. The driver was cooperative at the scene but later refused to respond to numerous attempts by the researcher to complete the interview. At the scene the driver reported that she was on her way from home to work. She said she had stopped at the westbound stop sign and looked both ways before she started to turn left to the southbound road. She said she never saw V2 prior to the impact and thus she took no evasive actions. The Critical Precrash Event for V1 was this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was inadequate surveillance failed to look, looked but did not see. Associated factors were assigned to this vehicle for driver behavior, recognition, driver inattention (thought focus unknown since the driver would not respond to questions), and for inadequate surveillance failed to look to the side. The researcher does not feel that the driver was being truthful when she said she stopped and looked both directions before turning. Photos of the scene indicate she had a clear unobstructed view to her left before she started to turn. V2, the GMC Yukon, was driven by a 39-year old female. Neither the driver nor the other occupants was injured. The driver reported that she was traveling about 64kph/40mph while traveling from home to a daycare center. She said she saw V1 turning left, from westbound crossing street across her path, about five seconds before impact. She said applied her brakes with lockup but was not able to avoid striking V1. She felt the pulsation of the ABS as she skidded. The Critical Precrash Event for V2 was other vehicle encroachment from crossing street turning into the opposite direction. The Critical Reason for the Critical Event was not coded for this vehicle. An associated factor was assigned to this vehicle for driver behavior, recognition, inadequate surveillance, failed to look far enough ahead.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

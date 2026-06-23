@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This rear end type crash occurred at approximately 0800 hours on a dry, straight level, four-lane, divided, bituminous roadway. This roadway runs north to south with a speed limit of 89kmph (55mph). Both vehicles were traveling north at the time of the crash. There are two traffic lanes in each direction of travel with no shoulders. There were no adverse atmospheric conditions at the time of the crash. Prior to the crash, there was a motorist stopped in the southbound side of the roadway, either in lane two or in the median. Vehicle two was traveling northbound and the driver stopped, partially off of the roadway, but mainly in lane two to determine if the motorist needed assistance. The vehicle, a 1996 Chevrolet K1500 pickup, was stopped for about one minute with its emergency flashers on. Vehicle one, a 1994 Chrysler Town and Country minivan, was traveling northbound in lane two. While vehicle two was stopped, the front of vehicle one contacted the back of vehicle two. Vehicle two rotated counter clock-wise and came to rest in the median facing southwest. Vehicle one deflected towards the right and came to rest in lane one of the northbound side of the roadway. Vehicle one contained three occupants. One of the passengers was transported to a local hospital by ambulance for treatment. Vehicle two contained one occupant who was transported by private vehicle to a local hospital for treatment. Both vehicles were towed due to damage. The driver of vehicle one was a 74-year-old female. She could not be contacted for an interview. This driver stated to the investigating officer she did not see vehicle two until she hit it. A witness also stated this driver never slowed down until it struck vehicle two. The pre-event movement for vehicle one was coded "going straight." The critical pre-crash event was coded " other motor vehicle in lane-other vehicle stopped." The critical reason was coded "unknown recognition error." The driver of vehicle two was a 62-year-old male who was on his way to work. A partial interview was conducted. He stopped his vehicle partially in the median, but mostly in lane two to determine if another stopped motorist needed assistance. There was no shoulder per AASHTO standards for this roadway. The pre-event movement for vehicle two was coded "stopped in traffic lane." The critical pre-crash event was coded "other motor vehicle in lane-traveling in same direction with higher speed." The critical reason was not coded to this vehicle. This driver exhibited poor judgment by stopping in the traffic lane when not required. He could have driven onto the sod median and stopped.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

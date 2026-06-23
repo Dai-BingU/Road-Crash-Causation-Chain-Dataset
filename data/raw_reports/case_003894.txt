@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a two-lane east/westbound roadway. The roadway was bituminous and level; with a posted speed limits of 80 kmph (50 mph). It was afternoon on a weekday. The roads were dry and the sky was clear. Traffic flow was congested with “stop and go” rush hour traffic. V1, a 2005 Ford E-250 cargo van with one occupant, was traveling east in “stop and go” traffic behind V2, a 2001 Nissan Sentra with two occupants, when V2 came to a stop in traffic. V1 was unable to take any avoidance action and struck V2 in the rear. V1, driven by a 35-year-old male who reported no injuries, stated that he was keeping up with traffic when he looked in the rearview mirror to check the vehicle behind him, and it was at this time that V2 came to a stop in front of him and he struck V2 in the rear. V1 made no avoidance maneuver. The Critical Precrash Event for V1 was “other motor vehicle in lane-other vehicle stopped”. The Critical Reason for the Critical Precrash Event was “driver related factor- external distraction”. The external factor was rearward approaching traffic that was tracked using the rearview mirror. The following associated factor was assigned “rush hour, heavy traffic”. V2, driven by a 29-year-old male who reported no injuries and one occupant a 32-year-old female that reported a complaint of pain in the neck but was not transport, stated that he was traveling in rush hour traffic when the car in front of him slowed and came to a stop. Driver 2 then came to a stop and was struck by V1. V2 made no avoidance maneuver. The Critical Precrash Event for V2 was “Other motor vehicle in lane - traveling in same direction with higher speed”. No Critical Reason was coded to this vehicle. The following associated factor was coded to this vehicle, “conversing with passenger”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Traffic present problem 
+Vehicle 2:  Distraction, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

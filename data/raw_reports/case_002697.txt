@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred on a high-occupancy, high-volume interstate with standard road widths of 3.7 meters. There were five lanes in each direction separated by a concrete median barrier with right and left side paved emergency shoulders. The conditions were dry and clear on a weekday night. The roadway was straight and level with a posted speed of 105 kmph (65 mph). Traffic flow was normal. The crash occurred on the northbound side in lane one. A 1998 International tractor-trailer (V2) that was driven by a 55-year old male came to a stop as traffic in front of him came to a stop. A 2001 Chevy Lumina (V1) that was traveling in the same lane behind V2 came upon the stopped truck and was unable to stop in time. V1 rearended V2. V1 was driven by a 21-year old male who was working as a security guard and was on his way from one job to another. The driver did not realize he was following too closely and slammed on his brakes in an attempt to stop but was not successful. After V1 impacted V2, a 1996 Yamaha FZR motorcycle (V3) that was driven by a 30-year old male struck V1 in lane 1. The driver of V3 did not see the crash obstructing the lane and could not stop in time without making impact with the Chevy Lumina. The driver was knocked off his bike and sustained minor road rash to his arms and was treated on scene by EMS. The Critical Pre-crash event for V1 was other motor vehicle stopped in lane. The Critical Reason for the Critical Pre-crash Event was a driver-related recognition error, driver inattention. An associated factor coded to this driver was fatigue, as he had only slept four hours. The driver works as a security guard during the graveyard shift and his sleep pattern was off. He stated in the interview that he tries usually to get eight hours of sleep, but on the day of the crash he had only slept half that amount and his reaction time was slowed if he was fatigued. His vehicle was towed due to damage but he was not injured. He was issued a ticket for careless driving. The Critical Pre-crash Event for V2 was other vehicle in lane traveling in the same direction with higher speed. The Critical Reason was not coded to this vehicle, and the driver was not thought to have contributed to the crash. The truck was not towed due to damage and the driver was not injured. No Critical Pre-crash Event and no Critical Reason were coded to V3 because it was not involved in the first harmful event. One associated factor coded to this driver was inattention, because he did not notice the crash ahead of him in his lane until it was too late. The motorcycle was towed due to damage and the driver was treated on scene due to road rash on his arms. The driver was issued a ticket for not having a motorcycle endorsement.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue present problem 
+Vehicle 3:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

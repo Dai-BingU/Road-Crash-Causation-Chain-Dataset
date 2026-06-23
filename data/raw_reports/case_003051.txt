@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in the westbound lanes of a 4-lane divided suburban highway. The roadway had two eastbound and two westbound lanes with a grass median dividing the roads. The roadway had a posted speed of 45 mph and the westbound lanes had a negative 3% grade. Conditions were daylight and dry with clear skies. The crash occurred in the mid afternoon hours on a weekend. Vehicle 1, vehicle 2, and vehicle 3 were all traveling west in sequential order in the left lane. V3, a 2000 Chevrolet Silverado, was the lead vehicle followed by V2, a 1993 Buick Regal and V1, a 2001 Hyundai Elantra. V3 came to a stop after the traffic ahead of it stopped. V2 was traveling at a higher rate of speed behind V3 and was unable to stop in time to avoid striking the back of V3. The front of V2 struck the back of V3 and both came to rest in their lanes. Immediately following the initial crash, V1 failed to stop and struck the back of V2. The 41-year-old male driver of the Chevrolet Silverado (V3) reported he braked for traffic ahead of him and was stopped for 2-4 seconds before the Buick struck the back of his truck. He was not injured in the crash and was able to drive his truck from the scene. The Critical Pre-crash Event for V3 was coded other motor vehicle in lane traveling in same direction while decelerating. The Critical Reason for the Critical Event was not coded to this vehicle. He wears eyeglasses for his myopic vision and takes medication for high blood pressure. This medication was thought not to have contributed to the crash. The 18-year old male driver of the Buick Regal (V2) reported he was following V3 when it suddenly stopped. He failed to stop in time to avoid striking V3. Neither he nor his right front passenger was injured. The Regal was towed do to damage. The Critical Pre-crash Event was other motor vehicle in lane stopped. The Critical Reason for the Critical Pre-crash Event was a recognition error: driver inattention. This driver was well rested and travels this road on a weekly basis. The Hyundai Elantra (V1) was driven by a 63-year old male driver who along with his wife was transported to a local trauma center for minor injuries. He stated the Buick (V2) ahead of him suddenly stopped causing him to slam on his brakes. He estimates there was a 2-3 car-length distance between him and the Buick and that his speed was approximately 35 mph. The Elantra was towed due to damage. No Critical Pre-crash Event and no Critical Reason were coded to the driver of the Elantra because he was not involved in the first harmful event (the impact between the front of the Regal and the rear of the truck). He admitted he had poor vision, and was wearing glasses to correct his hyperopic (far-sided) condition. His medical report detailed a history of Hypertension and Hypercholesterolemia. He was taking a blood cholesterol medication and a psychotic behavior medication that has a possible side effect of tiredness, agitation, nervousness, hostility, and dizziness. These medications were thought not to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Drugs present problem 
+Vehicle 2:  Decision, Distraction present problem 
+Vehicle 3:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other- Not involved first harmful event
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 3 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

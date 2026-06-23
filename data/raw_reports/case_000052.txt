@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred early evening dark hours on a two lane undivided curve left asphalt, snow and ice present roadway. With a posted speed limit of 48 kmph (30 mph) and an advisory limit of 32 kmph (20 mph). Vehicle one (V1) a 1994 Jeep Cherokee Laredo driven by a 17 year-old male with one passenger was traveling northeast in lane one, the driver had just finished negotiating a left curve when he lost control and traveled off the right side of the roadway. It's front contacted a wooden fence rotated counterclockwise and reentered lane one. It than began to rotate clockwise departed the roadway to the right and contacted the same fence, coming to final rest facing south. The critical pre-crash event for V1 was coded: this vehicle control loss due to- poor road conditions (ice& snow). The critical reason for the critical event was coded as an environment related factor: slick roads. Additional factor, speeding too fast for conditions, a police reported speed of 64 kmph (40 mph).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)

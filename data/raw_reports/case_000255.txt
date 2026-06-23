@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on the roadsides of a two-lane east/west roadway. The roadway was bituminous, straight, and level with a posted speed limit of 40 kmph (25 mph). It was late morning on a weekday. The road was mostly dry with sporadic patches of wet leaves and the sky was cloudy. Traffic flow was light. V1, a 1993 Volvo 850 with one occupant, was westbound when the driver lost consciousness due to a defective arterial stint. V1 drifted off the roadway to the right and struck a mailbox. V1 drifted back onto the roadway, crossed both lanes of travel and departed the roadway on the left, and struck a telephone pole where it came to final rest. V1 made no avoidance maneuvers prior to the first impact. V1 was towed due to damage. The driver of V1, a 71-year-old male, complained of chest pain and was transported to the hospital. He stated that he was driving normally when he felt a pain in his chest and blacked out, losing control of his vehicle. He recalled waking up in his car when being removed by emergency personnel. The Critical Precrash Event for V1 was coded this vehicle traveling, off the edge of the road on the right. The Critical Reason for the Critical Event was coded as a driver related factor, heart attack or other physical impairment of the ability to act (driver blacked-out due to a defective arterial stint). There were no other associated factors coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred during the early evening hours. The conditions at the crash scene were very icy, with blowing snow. The road conditions 200 m prior to the crash were dry, and no blowing snow. The speed limit on this rural country road was 89 Kmph (55 Mph). The roadway had a -6% downhill slope at the point where the vehicle left the roadway, but a +5.9% slope 200 m pre-crash. V1 a 1996 Chevy Cavalier was traveling east bound in the right curb lane traveling at approximately 80 Kmph (50 Mph). The driver of V1 stated that she crested the hill when all of a sudden it started to snow, and the road was covered with ice. The driver then stated that she started to fishtail so she applied full brakes. The vehicle was equipped with ABS. The driver then stated that she lost control of the car and left the roadway to the right, where she started to rollover. The rear tires had less than 1/32 of an inch of tread and the front tires had 3/32s tread depth. The Critical Pre-crash Event was coded this vehicle traveling - over the lane line on the right side. The Critical Reason for the Critical Pre-crash Event coded for this crash is slick roads (low friction road surface due to ice).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)

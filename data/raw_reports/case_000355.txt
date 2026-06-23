@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening hours on a roadside of a two-way, two-lane roadway. The dark, straight, roadway featured an uphill grade with a posted speed limit of 40kmph (25mph). It was snowing at the time the collision occurred, which had begun to cover the roadway, causing slippery conditions. V1, a 1989 Chevrolet Blazer, was northbound in lane one when it began to lose control. The vehicle then proceeded to cross over the opposite lane of travel, over the curb, and the front of V1 struck a tree where it came to final rest. V1 was driven by a 17 year-old male who did not suffer any injuries as a result of the collision. A surrogate interview was obtained from the father of the driver due to legal reasons. According to the surrogate, this was the first time the driver had ever driven in the snow. V1 was towed from the scene. The Critical Precrash Event coded to V1 was this vehicle control loss due to traveling too fast for conditions. The Critical Reason for the Critical Precrash Event was coded traveling too fast for conditions (snow). Associated factors for this crash include inexperience (the driver was only 17 and this was the first time he drove in the snow) and a highway related factor, slick surface (the road was snow covered).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :

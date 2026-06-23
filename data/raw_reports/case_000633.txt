@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle ran-off roadway crash occurred just past the intersection of a north/south, seven lane, divided, straight, level roadway with a speed limit of 64 kmph (40 mph) and an east/west, two lane, undivided, level roadway with a speed limit of 48 kmph (30 mph). This crash occurred during daylight hours with light traffic. There were no adverse weather conditions at the time of the crash. Vehicle one (V1), a 1999 Toyota Corolla with three occupants, was turning left from the eastbound lanes into the northbound lanes. V1 departed the roadway on the east side and the front of V1 struck a telephone pole. The vehicle came to rest adjacent to the pole. The vehicle was towed due to damage. The driver of V1, a fifty year-old female traveling with a twenty-five year-old female and a ten year-old male, was traveling from her son's school to home. She was well rested, in good health and comfortable with her vehicle. She drives this route daily. This driver stated that the steering on the vehicle "locked-up" as she was about to straighten out her turn and she lost directional control. She did not recall taking any other evasive action. The driver also stated all the vehicle components were in good condition. The critical pre-crash event for V1 was coded as: this vehicle traveling-off the edge of the road on the right side. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: poor directional control (e.g., failing to control vehicle with skill ordinarily expected.)
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

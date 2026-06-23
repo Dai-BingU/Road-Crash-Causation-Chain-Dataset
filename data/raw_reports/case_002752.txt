@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This accident occurred on a two-way, two-lane roadway. The roadway is not physically divided, and has traffic lights for each lane at this intersection. The conditions were as follows: early morning, dawn, clear skies, the roadway was dry and there were no atmospheric conditions. The gradient for vehicle one (V1) was 4%. The gradient for vehicle two (V2) was -4%. The gradient for vehicle three (V3) was level. The posted speed limit for V1 and V2 was 72 Kmph (45 mph). The posted speed limit for V3 was 64 Kmph (40 mph). V1 was a 2005 International Harvester 2 axle straight truck, traveling northbound, and he had a light that was changing to red at the intersection, but proceeded through. V3 was a 1990 Mercury Cougar traveling eastbound and was coming up to the intersection with a green light. V2 was a 1993 Ford Escort wagon that was stopped in the opposing traffic from V1. V1's left rear wheel struck V2 over the right front. V1 then struck the traffic light, for his lane. Then V1 went over the double yellow lines and struck the left side and rear of V2. V1 ended up on its left side across the roadway, down about 22 meters from the edge of the intersection. The driver of V3 was taken to a local Hospital via ambulance for possible broken bones. The Driver of V1, and V2 did not need treatment, because he did not suffer any injuries. The Critical Precrash Event for V1 was coded as: this vehicle crossing over (passing through) the intersection. The Critical Reason for the Critical Precrash Event was coded as: decision errors illegal maneuver. The driver of V1 gave his interview on scene to the researcher. Due to the damage V1 sustained in the crash, this vehicle needed to be towed from the scene. The Critical Precrash Event for V2 was coded as: not involved in first harmful event. The Critical Reason was not coded to this vehicle. The driver of V2 gave the researcher an interview, after a few attempts. The Critical Precrash Event for V3 was coded as: other vehicle encroachment, from crossing street, across path. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. The driver of V3 did not give the researcher an interview, due to no phone number available and trying to look up. The officer also stated that he could not talk to him, due to a language barrier.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical present problem 
+Vehicle 3:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other- Not involved first harmful event
+ 3 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

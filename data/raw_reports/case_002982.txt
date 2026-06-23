@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lane of a three-lane roadway with a median (shortly before the point of impact the northern shoulder becomes a fourth lane). Conditions were cloudy and dry in the afternoon on a weekend. The posted speed limit was 80 KMPH (50MPH). V1 was a 2000 Chevy Malibu sedan traveling westbound in the 2nd travel lane intending on changing lanes to the 1st travel lane. V2, a 2000 Honda Passport SUV, was traveling westbound in the 1st travel lane intending on going straight. V3, a 2002 Kia Rio sedan, was traveling westbound in the 3rd travel lane intending on going straight. The front right of V1 struck the left side of V2 in the 1st travel lane. As a result of the impact, V2 swerved left and the front of V3 struck the left side of V2 in the 3rd travel lane. V2 continued on and struck a curb, drove onto the center median and struck a fence. V1 and V3 came to final rest facing westbound and V3 came to final rest on the median facing westbound. V1 was driven by a 45-year-old male who was not injured. He stated that he was traveling westbound in the 2nd travel lane but wanted to change lanes over to the right and changed lanes too fast and struck V2. The driver of V1 did not take any avoidance actions and was traveling between 31-40 MPH at the time of impact. V1 was driven away from the scene. The critical precrash event for V1 was this vehicle traveling over the lane line on the right side of travel lane. The critical reason for the critical precrash event was a driver decision error, misjudgment of gap or other's speed. Associated factors coded to this driver were the driver conversing with the passenger, misjudgment of gap distance to other vehicle or speed of other vehicle and proceeded with insufficient clearance. V2 was driven by a 27-year-old male who was not injured. He stated that he was traveling westbound on the shoulder as it became the 1st travel lane. V1 changed lanes and struck the left rear of his vehicle. The driver of V2 did not take any avoidance actions and was traveling between 41-50 MPH at the time of impact. V2 was driven away from the scene. The critical precrash event for V2 was other vehicle encroachment from the adjacent lane-over left lane line. No critical reason for the critical precrash event was coded to this driver. V3 was driven by a 47-year-old male who was not injured. He stated that he was traveling westbound in the 3rd travel lane when V2 came into their lane and struck the right front of their vehicle. The driver of V3 braked but could not avoid V2. V3 was traveling between 11-20 MPH at the time of impact. V3 was towed due to damage. There is no critical precrash event for V3 as it was not involved in the first harmful event. No critical reason for the critical precrash event was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+Vehicle 2:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

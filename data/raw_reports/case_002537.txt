@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle, rear-end crash occurred in the southbound lane of a 2-lane undivided rural roadway. The road is straight, flat, and has a posted speed limit of 89 kmph (55 mph). The conditions this morning were clear, dry, and daylight. V1 and V2 were both traveling south when V2 stopped to make a left turn into a car dealership, and was struck in the rear by the front of V1. V1, a 2002 Toyota Camry, was towed from the scene due to damage but V2, a 1999 Chrysler Town & Country, was driven from the scene. V1 was driven by a 20-year-old female and full time college student who was on her way to the bank this morning when she was involved in this crash. Her class this morning was cancelled so she decided to run errands before the start of her afternoon class. She said she was driving south at a "good distance" behind the minivan when it stopped without signaling. She reports that she is a conscientious driver and "doesn't ever tailgate" nor was she thinking about any issues before the crash. She blamed the minivan for not using a turn signal before slowing down. She continued to cry throughout the interview and was difficult to understand until her mother arrived at the scene and helped answer some of the questions. She was not injured in the crash but was very upset with herself and the condition of her car. The Critical Precrash Event for this vehicle was coded: "other motor vehicle in lane stopped" and the Critical Reason for Precrash Event was coded: "inattention." V2 was driven by a 26-year-old male that was returning his 1999 Chrysler minivan this morning to the car dealership that sold him the van last month because there was an "airbag warning sign" flashing on his information center. Once he reached the dealership, he stopped in his southbound lane and waited for northbound traffic to pass so he could make a turn left. As he waited, he heard squealing tires and immediately looked in his mirror to see a car (V1-Toyota) behind him trying to slow down. He said he braced himself for a collision because there was nowhere or nothing he could do to avoid it. He does not remember the Toyota following him at any point and declines that he was being tailgated. He was not injured in the crash and was able to drive his vehicle to the shoulder of the road. The Critical Precrash Event for this vehicle was coded: "other vehicle in lane traveling in same direction with higher speed" and the Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Roadway present problem 
+Vehicle 2:  Driver Inexperience, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

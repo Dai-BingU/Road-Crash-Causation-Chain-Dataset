@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a straight four lane roadway with two lanes in each direction. The roadway was level. It was a clear weekday evening. The posted speed was 76 kmph (45 mph). V1 was stopped waiting on traffic to clear before entering the roadway. As V1 entered the roadway V2 was traveling south in lane 2 at posted speed. V2 could not stop or do an evasive action and then made contact to the left side of V1. V2 then traveled on to the next drive entrance and turned in to parking lot for final rest. V1 rotated counter clockwise and then going back into the store lot to final rest. V1 a 2000 Cavalier was driven by a 34 year-old male who stated that he had been to the store to return bottles and was on his way back to his grandmother's home. He had looked both ways and thought he had enough time and room to pull out into the roadway. He thought the other vehicle was speeding because as he pulled out he was hit and spun around. The car was knocked into nutral and ended up in on coming traffic. He also stated that he was in good health he wears glasses for hyperopic (far-sighted) and stated he was wearing them at the time of the crash. He also stated he was diagnosed as Bipolar Manic depressive. But he is on medication and has no problem at this time. The Critical Precrash Event for V1 was coded: This Vehicle Traveling: # 27 Crossing over (passing through) intersection. The Critical Reason for the critical event was coded: Recognition Error, #113- Inadequate surveillance (e.g., failed to look, looked but did not see.). An associated factor may have been the fact that the driver is Bipolar he seems to be very defensive about the crash and the traffic on the roadway. V2 a 2004 Explorer was driven by a 57 year-old male who stated he was on his way to visit his son. He stated that he had slowed in the area of the crash because of other crashes in that area. He was in lane 2 a little back of the car next to him in lane 1. The next thing the driver saw was a red car pulling out of the store lot. He locked the brakes and looked right to see if he could get over and steered right and hit the car pulling out . He spun around and swerved into lane one and turned into the next driveway. The driver stated he is in fair health he is off on medical disability due to having 1/3 of his lung removed due to isocyanate poisoning. This driver stated he was diagnosed with sleep apnea and does use a CPAP treatment. And he does wear glass for unknown condition. The Critical Precrash Event for V2 was coded: Other Vehicle Encroachment: # 70 from driveway, across path. No Critical Reason was coded for this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Inexperience, Driver Physical, Drugs, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From driveway, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

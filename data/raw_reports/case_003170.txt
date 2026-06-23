@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This crash occurred in the eastbound travel lanes of a six-lane, two-way, asphalt roadway that has a dividing median between the two-travel directions. The east and westbound travel lanes both had southbound turn lanes. Between the two traffic ways there is a four-lane, two-way roadway that allows westbound traffic to either turn eastbound, or southbound on to a urban roadway, and allows northbound traffic to turn east or west. Both eastbound and westbound traffic way have a traffic signal controlling the intersections, and at the time of the crash they were both functioning properly. This crash occurred in the intersection of the eastbound lanes and the southbound traffic ways. V1 a 1990 Buick Century was attempting to transfer from westbound to southbound by use of the median tuning lane. V1 tuned from the right lane in the westbound travel lane into left lane of the median roadway, and was attempting to travel though the intersection. The vehicle traveled into the intersection under a red light and made contact with two vehicles approaching in eastbound direction of travel. The female driver of V1 stated that the infant who was in the center of the 2nd row was fussing, and when she turned around to try to soothe the infant her foot must have slipped off the brake. V2 a 1999 Cadillac Escalade was in the middle lane of the eastbound travel way, traveling at a constant rate, when V1 entered the intersection and was contacted by V3. This impact caused V1 to rotate in a clockwise direction and contact the left side of V2. The driver of V2 stated that she was unable to apply any avoidance maneuvers, but upon download of this vehicle's EDR, it was found that the vehicle experienced a maximum change of -5 mph in its velocity during the crash events. V3 a 1998 Chevrolet C-series pick-up was traveling in the left lane of the eastbound traffic way. The driver stated that he saw V2 pull away from the intersection, and stated that it didn't look like she stopped at all. The driver was able to apply braking pressure, as well at attempt to steer the vehicle to the left all in an attempt to avoid the collision, but was unable to do so. The front of V3 contacted the rear of the right side of V1 causing it to spin and contact V2. The airbags of V3 deployed on impact. The pre-event movement of V1 was coded turning left, and the critical pre crash event was coded this vehicle crossing over intersection, with a critical reason being driver inattention. The fussing baby in the back seat was not coded as the critical reason because I do not feel that the driver of V1 was being truthful with this detail. The driver of V3 stated that it didn't look like V1 had attempted to make a stop, and placement of the crash places V1 well within the left lane of traffic. I also believe that since east and west bound traffic had a green light, that since she was turning from a westbound travel lane that she thought she still had the right of way. The pre-event movement of both V2 and V3 was coded going straight. No critical event was assigned to V2 since it was not involved in the first harmful event. The critical event for V3 was coded as other vehicle encroachment from a crossing street, across path. No critical reason was coded for either V2 or V3.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other- Not involved first harmful event
+ 3 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

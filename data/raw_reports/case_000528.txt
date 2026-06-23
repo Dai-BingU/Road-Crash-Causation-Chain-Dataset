@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle intersection crash occurred couple hours before mid-night on a northbound and southbound three lane, dry bituminous asphalt roadway. The intersection where the crash occurred is lighted and there no environmental factors that contributed to this crash. The roadway has one southbound and one northbound lane and has a left turn lane that separates the lanes. The cross street is not physically divided. The intersection is controlled by stop signs that requires traffic to stop and yield prior to entering the southbound or northbound lanes. The speed limit on the through street is posted 56 kmph (35 mph). The speed limit on the cross street is posted 40 kmph (25 mph) there were no sight line restrictions or obstructions noted. Vehicle one (V1) was a 1993 Plymouth Voyager passenger van driven by a 45 year-old male. V1 was traveling eastbound on the cross street and then stopped for the posted stop sign. The driver stopped the vehicle then proceeded across the through street and began to make a left turn onto the number one lane of the cross street. Vehicle two (V2) was a 1997 Dodge Stratus sedan driven by a 23 year-old male. V2 was traveling northbound in the number one lane going straight. As V1 made its left turn, the right front of V1 was struck by the front of V2. V1 came to rest in the intersection facing in an easterly direction. V2 came to final rest facing east on the south side of the intersection. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was attributed to V1 as a driver related factor: inadequate surveillance (e.g., failed to looked, looked but did not see). The driver of V1 either did not see or look to his right prior to initiating the left turn onto the through street. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, turning into same direction. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Driver Fatigue present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

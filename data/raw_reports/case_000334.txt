@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of an east/west four-lane undivided urban highway and a two-lane residential side street. The highway was straight and level for approximately two hundred meters on either side of the crash location. The side street intersected on the north side of the highway. Conditions were dark and dry on a weekday evening with a posted speed limit of 72kmph (45mph). V1, a 1988 Chevrolet 1500 series pickup, was eastbound on the highway traveling in the left (2nd) lane. Ahead V2, a 1993 GMC 2500 series pickup, was stopped eastbound in the left lane waiting for traffic to clear so it could turn left to the intersecting side street. V1 was unable to stop in time and rear-ended V2. Both vehicles came to rest just east of impact. V1 was towed due to damage; V2 was driven away. V1 was driven by a belted 39 year-old male who was transported to an area hospital with minor injuries. Based on his interview he apparently saw the other pickup stopped ahead and intended to change lanes to the right to avoid slowing down. When he checked the right lane over his shoulder other vehicles were present so he was forced to remain in the left lane. The driver applied his brakes but was unable to stop in time to avoid a collision. Police charged him with DUI, failure to maintain control, and driving on a revoked license. The Critical Precrash Event for V1 was coded other vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Event was a decision error, inadequate evasive action. The driver saw the other vehicle stopped ahead and it's believed he had sufficient time to avoid the collision had he decided to decelerate immediately rather than attempt to change lanes to avoid slowing. Associated factors included the presence of alcohol in the driver's system, which could have slowed his reaction time. Insufficient braking inputs were also coded. Other possible associated factors were unknown, the driver could not be located for a follow up interview after the initial interview was cut short in the hospital emergency room because the driver was being taken into police custody. V2 was operated by a belted 30-year old male who was transported to a local hospital with minor injuries. The driver was wearing glasses to correct a nearsighted condition. He indicated he'd been stopped waiting to turn left for 15-20 seconds prior to impact and never saw the other pickup approaching from behind. The Critical Precrash Event for V2 was other vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors coded to this vehicle and V2 was not thought to have contributed to this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate evasive action, e.g. braking only, not braking and steering
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

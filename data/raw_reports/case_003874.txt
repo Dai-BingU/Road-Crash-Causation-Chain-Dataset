@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred several hours before midnight on a dark, straight, divided, asphalt six-lane interstate. The interstate runs east and west at the location of the crash. There were three through lanes in each direction. The speed limit on the interstate is 105 kmph (65 mph) and there were no adverse weather conditions at the time. Vehicle one (V1), a 2000 Pontiac Trans Am coupe, driven by a 48 year-old male, was traveling westbound in lane one. An elk traveling from the north to the south entered lane one. The driver tried to avoid impacting the elk by applying the brakes. The front of V1 struck the elk. After the impact, the driver swerved to the left and entered lanes two and three and ran off the left side of the road into a grassy median. The elk fell off the vehicle and landed in lane one. The vehicle came to rest in the median on its wheels facing east. The vehicle was towed from the scene of the crash due to severe frontal damage. The critical pre-crash event for V1 was coded: object or animal in roadway. The critical reason for the critical event was coded as a driver related factor: incorrect evasive action. The driver had been driving for almost 2.5 hours when the collision occurred. He was traveling through this state to another state and rarely drives the route.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Speed/Distance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Animal in roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

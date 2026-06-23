@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred near an intersection on an east/west, undivided, straight, level roadway. The speed limit for this roadway is 64 kmph (40 mph). West of the intersection, this roadway consists of two through lanes in each direction with an eastbound right turn lane. East of the intersection, this roadway consists of two through lanes in each direction. There is a driveway on the south side of this roadway, east of the intersection. It was dark at the time of this crash with no adverse atmospheric conditions. Vehicle one (V1), a 1994 Honda Civic, was stopped northbound in the driveway. Vehicle two (V2), a 1995 Dodge Ram pickup, was eastbound in lane three. A non-contact vehicle was in eastbound lane one, turning right at the intersection. V2 traveled through the intersection. V1 turned left out of the driveway and the left side was struck by the front of V2. Both vehicles were towed due to damage. The driver of V1, a twenty-eight-year-old male, was on his way home from a store. He was healthy, well rested and familiar with his vehicle. He travels this route daily. This driver stated that he was looking at the non-contact vehicle and never saw V2. The driver of V2, a seventeen-year-old male, was traveling with a male passenger, from a golf course to a church. This driver was healthy, well rested and comfortable with his vehicle and passenger. He travels this route daily. This driver stated that he saw V1 in the driveway and assumed that the driver would wait until V2 passed by. The critical pre-crash event for V1 was coded as "other; leaving a driveway." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; external distraction." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from driveway, turning into opposite direction." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle." This driver's assumption that the driver of V1 would yield the right-of-way was an associated factor in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Leaving a parking position
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other- Other (specify) :
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

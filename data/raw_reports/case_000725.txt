@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during daylight hours on a dry, divided, eight-lane, level, straight highway. This roadway runs east and west at the location of the crash and has three straight through lanes and two right-curve entrance lanes from another highway. The speed limit on the roadway is 105 kmph (65 mph) and there were no adverse weather conditions at the time. Vehicle one (V1), a 1997 Toyota 4-Runner, was traveling southwest in lane two of the entrance ramp. Vehicle two (V2), a 1990 Airex recreational vehicle (RV), was westbound in lane two on the highway. V2's driver changed lanes to the left entrance lane due to engine trouble. V2 stalled in traffic, the driver got out and loosened the gas cap and then tried to restart his vehicle, without success. He again got out of his vehicle to detach the 1977 Handmade Dune Buggy Roadster from his vehicle and move it to the shoulder. As V1 traveled onto the highway, the driver noticed V2 stopped in his lane. The driver of V1 braked and steered right but the front of V1 struck the back of the Dune Buggy and then the back of the RV. V2 then struck the driver of V2, causing broken ribs and pelvis. V1 came to rest in the right lane facing southwest. V2 was at rest in lane two facing west. Both vehicles were towed due to damage. The pedestrian was transported to a trauma center and hospitalized with broken ribs and pelvis. The driver of V1, a forty-nine-year-old male, was driving from work to his ex-wife's house. He is very familiar with this roadway and comfortable with the vehicle but he was preoccupied with moving, his work pressures and his personal relationships. Additionally, he was fatigued and had recently seen a doctor for this condition. He was also not wearing his prescription glasses at the time of the crash. The critical pre-crash event for V1 was coded: other motor vehicle in lane; other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver was looking over his left shoulder to see if traffic was clear to merge left. When he turned he saw V2 , but too late. The rush hour congestion was also an associative factor. There was no driver in V2 at the time of the crash. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Physical, Driver Stress/Emotion, Drugs, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：No driver present
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

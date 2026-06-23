@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of two one-way roadways. The southbound roadway had two travel lanes, and the eastbound roadway had one travel lane. The roadway was straight and level, and it was clear with no adverse conditions. It was a weekend afternoon and the speed limit was 48kmph (30mph). V1, a Lincoln Town Car four door was traveling southbound. V2, a 1992 Toyota Land Cruiser was traveling eastbound. At the intersection, the front of V1 contacted the left side of V2, and causing V2 to roll over three quarter-turns. V1 came to a final rest south of the intersection and V2 came to a final rest on its left side approximately 25 meters east of the intersection. V1, the Lincoln Town Car was driven by a 28 year-old male who did not sustain any injuries. The driver advised that he was going home from work. He stated that he was traveling straight with the green light when the front of his vehicle was struck by V2. The Lincoln was driven from the scene. The Critical Pre-crash event for V1 was "Other vehicle encroachment, from crossing street across path". The Critical Reason for the Critical event was not coded to the driver. An associated factor coded was a Highway related factor, a sightline restriction caused by a building that was on the northwest corner of the intersection. No other factors were coded to the driver. V2, the Toyota Land Cruiser was driven by a 31 year-old male who sustained incapacitating injuries and was transported to a medical facility. The driver stated to the Police that V1 had run the light and struck his vehicle. The driver was issued a citation for driving without a license. No interview was obtained and the Toyota was towed due to damage. The Critical Pre-crash event for V1 was "This vehicle traveling, crossing over (passing through) intersection". The Critical Reason for the Critical event was coded as a Driver related error, illegal maneuver. An associated factor coded to the driver was a Driver related factor, traveling too fast for conditions for unknown reasons. A Highway related factor coded was a sightline restriction caused by the building on the northwest corner of the intersection. Other possible factors were coded unknown because no interview was obtained.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Roadway present problem 
+Vehicle 2:  Decision, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

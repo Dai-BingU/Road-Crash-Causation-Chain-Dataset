@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a four-lane, two way arterial road that was not physically divided. The road was straight and level, ran north/south, and had a posted speed limit of 72kph (45mph). The road runs through an urban business district with no access control and parking lots on both side of the road. The crash occurred on a weekday during the evening rush hour with dark, unlit, and congested conditions. Vehicle #1 was a 2003 Oldsmobile Alero turning left out of a parking lot on the east side of the road with the intent of heading south on the arterial road. A non-contact vehicle in the right northbound lane waved her all clear to proceed with the turn. Vehicle #2, a 2004 Subaru Outback, was slowing down for traffic up ahead in the left northbound lane when it was struck on the right side by the front of Vehicle #1. Both vehicles came to rest very close to impact. Vehicle #1 was driven from the scene before the researcher's arrival. Vehicle #2 was towed from the scene. Vehicle #1 was driven by a 20-year old belted female whose airbags did not deploy in the crash. She was uninjured. Police charged her with failure to yield. Unfortunately an interview for this driver was not obtained. The critical pre-crash event for Vehicle #1 was this vehicle turning left at intersection. The critical reason for the critical pre-crash event was coded as a false assumption of other road user's actions. Based upon police reported information, the driver stated that she was waived out by the non-contact vehicle and so she assumed that the way was clear for her to turn left. An associated factor coded was the non-contact vehicle as a sight restriction because it must have blocked her view of the left lane or she would not have pulled out. Rush hour congestion was also coded. Vehicle #2 was driven by a 69-year old belted female whose airbags did not deploy. She was transported to a local trauma center for treatment of possible injuries. The driver of Vehicle 2 had her attorney give the interview. The critical pre-crash event for Vehicle #2 was other vehicle encroachment, from driveway turning into opposite direction. The critical reason for the critical event was not coded to this vehicle. Due to first anniversary of husband's death approaching, other emotional factor was coded. Rush hour congestion was also a factor.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Driver Stress/Emotion, Drugs, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

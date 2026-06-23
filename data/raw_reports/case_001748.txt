@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred early evening daylight hours, on a dry, level, two-lane, bituminous roadway that runs north to south and has a posted speed limit of 89 kmph (55 mph). This roadway intersects with a dry, downhill, bituminous roadway that runs east to west. This intersection was controlled by a flashing caution light (yellow). There were no adverse atmospheric conditions present at the time of the daylight crash. Vehicle one (V 1), a 1989 Dodge Dakota pickup driven by a 59 year-old female was traveling southbound in lane one. Vehicle two (V 2), a 2002 Mercedes-Benz ML 320 SUV driven by a 62 year-old female with one passenger was stopped facing southbound in lane one attempting to make a left turn at the intersection. While V 2 was stopped, the front of V 1 contacted the rear . V 1 came to rest in lane one facing south and V 2 came to rest facing south on the west shoulder of the southbound side of the roadway. The driver of V 1 advised that she was traveling southbound in lane one and she guessed that V 2 was stopped and she hit V 2 from the rear. The driver of V 2 advised that she was stopped with her left turn signal on for about 20-30 seconds prior to the impact. The driver of V 1 was arrested after the crash for driving under the influence, however, no BAC was recorded. Both vehicles were towed from the scene. The pre-event movement for V 1 coded going straight, category other motor vehicle in lane other vehicle stopped. Critical reason driver related factor "misjudgment of gap or other's speed". The pre-event movement for V 2 coded stopped in traffic lane, category other motor vehicle in lane traveling in same direction with higher speed. Critical reason not coded to this vehicle. Associated factor- driver of V 1 had poor surveillance.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

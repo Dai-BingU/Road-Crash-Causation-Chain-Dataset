@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an urban four-way intersection inside an interchange area that was controlled by traffic signals. A four lane arterial road with left turn lanes runs east/west with a speed limit of 72kmph (45mph). It was divided by a raised concrete median on the east side of the intersection and a painted median on the west and had gravel shoulders. As the road traveled west it curved left with a radius of 536m. A two lane residential road with left turn lane intersected from the north with a speed limit of 48kmph (30mph). A three-lane entrance/exit ramp intersected on the south side. The intersection was recently redesigned and repaved. Conditions at the time of the crash were daylight and wet with rain on a weekday afternoon. Vehicle 1 was a 1996 Toyota 4 Runner traveling southbound on the two-lane road that intersected from the north. Vehicle 2, a 1987 Dodge Dakota pickup, was westbound on the arterial road. Vehicle 2 passed through the traffic control and its front struck the left side of Vehicle 1. After the initial impact they side slapped V2's right side hitting the left rear of V1. The 4 Runner (V1) came to rest facing east in the southwest corner of the intersection. The Dodge pickup (V2) came to rest facing southeast just off the north edge of the road 48m west of impact. Both vehicles were towed due to damage. Neither of the drivers received medical attention. Vehicle 1 was driven by a 21-year-old male that was belted with deployed frontal airbags. He entered the intersection with the traffic signal green driving behind another vehicle. He said he saw the pickup (V2) sliding into the intersection, but didn't have time to avoid a collision. The Critical Pre-crash Event for Vehicle 1 was other vehicle encroaching from crossing street across path. The Critical Reason for the Critical Event was not coded to this vehicle. The only associated factor listed was rain. Vehicle 2 was operated by a belted 20-year-old female. In her interview she indicated that she saw that the traffic light was red from approximately 100m back but was unable to stop in time due to poor braking performance. She said she applied her brakes but they didn't work appropriately but the researcher along with police believes it was a hydroplane situation. The vehicle was towed to the owner's residence, who refused to allow researcher a follow up inspection. The Critical Pre-crash Event for Vehicle 2 was this vehicle passing through intersection. The Critical Reason for the Critical Event was coded as a decision error, too fast for conditions. Associated factors were too fast for conditions, reason unknown and rain.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Weather/Environment present problem 
+Vehicle 2:  Decision, Drugs, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Too fast for conditions (specify) :

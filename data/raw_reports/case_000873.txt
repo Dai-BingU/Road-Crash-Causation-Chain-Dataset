@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the eastbound lanes several yards beyond the intersection. The roadway consisted of four lanes: two eastbound and two westbound that were non-physically divided, there was a wide center median dividing two-way directions of travel. There were shoulder areas on the right sides of both the east/ west lanes and there were no traffic control devices at this middle of the block location. The asphalt roadways were, level, and straight, and there were no adverse weather conditions. The speed limit for both directions of travel was 56 kmph (56 mph). The crash occurred on a weekday during the early afternoon daylight hours. The roadway was free of any defects and the traffic flow was normal for this roadway. Vehicle one, 2001 Acura 3.2TL 4/d00r sedan, was traveling westbound in lane two of the two lane westbound roadway when according to witness a green phantom vehicle exited a driveway from v1's right. Vehicle one attempted to avoid contact with this phantom vehicle, put on his brakes and steered left. Vehicle one continued traveling crossing over the center median and contacted with its front, the front of vehicle two, a 1996 Oldsmobile Eighty-eight 4/door sedan. After the initial impact vehicle one traveled several feet, rotated counter-clockwise where it came to final rest facing southward. Vehicle two, after the impact, also traveled a few feet, rotating clockwise coming to final rest facing southward straddling the curd. Both vehicles suffered severe damages and were towed from the scene. The driver of vehicle one, a 26-year old male, was transported to the hospital where he was later pronounced dead. A surrogate could not be reached for comment. The 'Critical Pre-Crash Event" coded to V1 is: this vehicle traveling, over the lane line on left side of travel lane. The 'Critical Reason' coded to this vehicle is: an unknown decision error. There were no interviews so there were no associated factors. The driver of vehicle two, a 74-year old male, was transported to the hospital from the scene with major injuries. He could not be located for an interview The 'Critical Pre-Crash Event" coded to V2 is: other vehicle encroachment: from opposite direction - over right lane line. The 'Critical Reason' was not coded to this vehicle. There were no associated factors because the driver could not be located. A witness on scene said he saw vehicle one try to avoid sticking a green car. He said, he saw the vehicles back lights so he must have put on his brakes. He saw the vehicle turn to the left and hit the other vehicle, V2, head-on. The other vehicle, V2, was traveling in the opposite direction, and probably didn't see the other driver, V1. He was standing facing the traffic talking to a friend.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Incorrect evasive action

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lane of a five lane, two way, roadway with three lanes headed north the third lane was a left turn only lane and two lanes heading south. This was a straight, level, bituminous roadway with a speed limit of 72 kmph (45 mph). It was in the afternoon on a weekend and the road was dry in daylight conditions. V1 a 1994 Geo Prizm was traveling north in lane three attempting to turn left into a business driveway. The driver of V1 waited as a couple of cars went by and then proceeded to turn. She did not see V2, a 2004 Chrysler Sebring convertible. V2 was traveling southbound in lane one on the same roadway, intending to go straight. The front of V2 contacted the right of V1 before they both came to final rest in the roadway. The driver of V1 was a 63- year old female who reported that she had been traveling between 2-16kmph (1-10mph) prior to the crash. She stated that she was waiting in the turn lane, and she saw a couple cars go by. She though it was clear so she turned and V2 hit her. V2 must have been speeding. She sustained minor injuries and was transported to a local trauma facility. The Critical Precrash Event for the driver of V1 was this vehicle traveling: turning left at intersection. The Critical Reason for the Critical Precrash Event was a driver related error: inadequate surveillance (e.g. Failed to look, looked but did not see). She was wearing her prescribed lenses that corrected a myopic (near-sighted) condition. The driver of V2 was a 26-year old female who had reported that she had been traveling between 50-64kmph (31-40mph) prior to the crash. She stated that she was heading south, V1 was waiting to turn left into the restaurant. V1 turned right in front of me, I couldn't stop in time. She sustained minor injuries but refused treatment. The Critical Precrash Event for the driver of V2 was other vehicle encroachment: from opposite direction over left lane line. The Critical reason for the Critical Precrash Event was not coded to the driver of V2 and she was not thought to have contributed to the crash. She was wearing her prescribed lenses that corrected a myopic (near-sighted) condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on a two lane undivided roadway with a posted speed limit of 55 MPH (89 KPH). The roadway was straight with a grade of -2.3%. There was a black on yellow “Y” intersection warning sign for both vehicles. The weather was clear, the roadway dry and it was daylight at the time of this weekday afternoon crash. Vehicle #1, a 1997 Plymouth Neon, was traveling north on the two lane roadway approaching the intersection. Vehicle #2, a 1987 Ford F-350 stake body, was stopped facing north waiting to make a left hand turn. Vehicle #1 struck Vehicle #2 in rear with front. Both vehicles came to rest facing north. Vehicle #1 was towed due to damage. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. The Plymouth Neon (Vehicle #1) was driven by a belted 76 year old female who was transported, treated and released for minor injuries. Both airbags deployed. She stated to police that she did not realize that Vehicle #2 was stopped. She attempted to brake, but not in time to avoid the collision. There was no interview obtained and no further information available. The Critical Precrash Event for Vehicle #1 was other motor vehicle in lane stopped. The Critical Reason for the Critical Event was coded as misjudgment of gap or other's speed, a decision error. This was chosen because of the driver's statement that she did not realize the other vehicle was stopped. An associated factor coded to this driver was the use of prescription medications. She was taking three medications: (a) a high blood pressure medication with possible side effects of dizziness, tiredness or headaches, (b) a calcium channel blocker with possible side effects of dizziness, light-headedness and headaches and (c) a beta-adrenergic blocking agent with relatively uncommon or mild side effects. The Ford F350 stake body (Vehicle #2) was driven by a belted 40 year old male who was treated at a local hospital the following day for shoulder pain. The belted 18 year old male passenger complained of pain, but declined medical attention. The driver stated that he was stopped with his directional on for approximately 1 minute waiting for traffic to clear prior to making a left hand turn. He advised that he caught the movement of Vehicle #1 just prior to impact in his side mirror, but was unable to take any avoidance maneuvers. He also stated that he was not in a hurry, had just finished lunch and was going to look at a vehicle with his passenger. He does not wear corrective lenses and does not take any type of medications. The Critical Precrash Event for Vehicle #2 was other motor vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. There were no additional associated factors coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

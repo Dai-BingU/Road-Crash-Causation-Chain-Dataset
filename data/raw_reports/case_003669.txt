@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred in the late afternoon hours on a clear day. The crash occurred on a five-lane, undivided, straight, level, bituminous, dry roadway that supports north to south traffic. Two lanes were designated for northbound traffic, two lanes for southbound traffic and one lane (between north and southbound) was designated as a turning lane. This roadway intersects with a two-lane, level, bituminous, straight, dry, roadway that supports two way traffic and travels east to west. This intersection was controlled by a traffic light (on signals) with no pedestrian controls. The roadway was dry and rush hour congestion present at the time of the crash. The posted speed limit for both streets was 72 kmph (45 mph). V1 was a black 2003 Mazda 6, 4 door sedan, traveling northbound in lane two. V2 was a light blue 2005 Hyundai Santa Fe 4 door SUV traveling westbound in lane one. V1 entered the intersection on a red signal, attempting to cross through the intersection; V2 proceeded into the intersection when her traffic signal turned green. The front of V1 contacted the left side of V2. Post impact, V1 rotated counterclockwise while V2 rotated clockwise; the right side of V1 struck the left side of V2 in a side-slap configuration. V1 came to rest in lane three (the turning lane) facing north. V2 came to rest with the front wheels just off the east side of the roadway and the rear wheels still in the number one travel lane, facing northeast. V1 contained one occupant, a 40-year-old female who was not injured in the crash. The driver of V1 advised that she was traveling home from work on a route that she rarely drives. She stated that she chose this route due to severe rush-hour congestion on her normal route. She also said that as she passed through the intersection she "zoned out" and was not attentive to the driving task. She stated that she did not have a specific thought focus at the time, her mind was just wandering. Her vehicle was towed due to disabling damage. V2 was driven by 69-year-old female who was not injured in the crash. The driver of V2 advised that she was stopped for more that 30-seconds prior to entering the intersection. She stated that as she entered the intersection, V1 failed to stop for the red light and struck her on the left side. Her vehicle was towed due to disabling damage. The critical event of this crash for V1 was coded as: this vehicle traveling passing through intersection. The critical reason for this crash was coded driver related error inattention. The driver's illegal maneuver was coded as a contributing factor. Also, the driver's seldom use of this roadway and the rush hour congestion were also taken in to consideration while coding this crash. The critical event for V2 was coded other vehicle encroaching, from crossing street across path. The critical reason was not coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Traffic present problem 
+Vehicle 2:  Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

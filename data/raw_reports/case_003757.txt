@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred just past dawn on a four-lane, downhill, dry, bituminous roadway that has two southbound lanes and two northbound lanes. This roadway is median divided and has a metal guardrail that separates the northbound and southbound lanes. The speed limit for this roadway was 113 kph (70 mph). There were no adverse atmospheric conditions at the time of the day lit crash. Vehicle one, a 1995 Nissan Maxima was traveling southbound in lane two at 109 kph (68 mph). Vehicle two, a 1999 Freightliner FLC120 was traveling southbound in lane one at 113 kph (70 mph). Vehicle one was attempting to pass vehicle two. As vehicle one passed vehicle two, vehicle two attempted a lane change into the left lane. The front of vehicle two contacted the back of vehicle one. Post-impact vehicle one deflected to the left and the back of vehicle one struck the metal guardrail. Vehicle one rotated and the front of vehicle one impacted the guardrail. Vehicle one came to rest in facing east in both of the southbound lanes. Post-impact, vehicle two skidded for 200 meters coming to rest in lane one of the southbound side of the roadway. Vehicle one contained one occupant who was transported to a local trauma center for incapacitating injuries. Vehicle two contained two occupants none of whom were injured. Vehicle one was towed due to disabling damage. Vehicle two was not towed due to disabling damage. The driver of vehicle one, a forty-one year old female, was driving to work where she was learning a new position. This driver stated that she was thinking about this new position. The driver indicated that vehicle one had moved back into lane one and this driver initiated a passing maneuver. The driver of vehicle two stated that vehicle one was in his blind spot and he did not see vehicle one as he attempted his lane change. There is no know sleep information for this driver. The critical pre-crash event for vehicle one was coded as “other motor vehicle in lane: traveling in same direction with higher speed”. The critical reason for the critical pre-crash event for vehicle one was coded as “not coded to this vehicle”. The critical pre-crash event for vehicle one was coded as “this vehicle traveling: over lane line on the left side of the roadway”. The critical reason for the critical pre-crash event for vehicle two was coded “driver related error: unknown recognition error”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion, Drugs present problem 
+Vehicle 2:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Changing lanes
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Unknown recognition error

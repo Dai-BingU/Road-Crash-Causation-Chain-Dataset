@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a traffic signal-controlled intersection in an interchange area. The east/west roadway was divided by a curbed median. The eastbound lanes are straight, have a 3.3% upgrade and consists of three through lanes and a left turn lane. The westbound lanes have a 2.5% downgrade and a slight curve to the left and consist of three through lanes. The speed limit on this roadway is 64 kmph (40 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1994 Toyota Camry, was eastbound in lane four (left turn lane). Vehicle two (V2), a 1995 Cadillac Deville, was stopped westbound in lane one. Non-contact vehicles were stopped in westbound lanes two and three. V1 turned left at the intersection at the same time as V2 started into the intersection. The right side of V1 was struck by the front of V2. V2 continued westbound and the front struck a utility pole. Both vehicles were towed due to damage. The driver of V1, an eighteen-year-old male, was on his way to a friend's home. This driver stated that his signal was a protected green arrow the last time he looked at it. He then was focusing on the traffic in the oncoming lanes. He noticed that the vehicles in lanes two and three had not started into the intersection and proceeded with his left turn. This driver refused to provide any further information. The driver of V2, a twenty-nine-year-old female, was traveling, with two young female passengers, from a relative's home to her home. She was healthy, well rested and comfortable with her vehicle and passengers. This driver travels this route weekly. She stated that she did not see V1 prior to the impact. The critical pre-crash event for V1 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from opposite direction - over left lane line." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

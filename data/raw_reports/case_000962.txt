@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a two-way, four-lane roadway, divided by a concrete curbed median. There were two northbound and two southbound lanes. This was a straight, level, bituminous roadway with a posted speed of 56 kmph (35 mph). Conditions were weekend morning with dry roads and clear skies. Traffic flow was normal. V1, a 2004 Volvo V70 with one occupant, was traveling in lane one. V2, a 2001 Dodge Neon with one occupant, was stopped in lane one, far ahead of V1. As V2 slowly accelerated from a stopped position, V1 began to overtake V2. At the last minute, the driver of V1 attempted to steer left and brake. The right front of V1 made contact with the left rear of V2. The vehicles came to final rest next to each other. Both vehicles were towed due to damage. V1, the Volvo V70, was driven by a 58-year old female who reported no injuries. She stated that she was driving home from work, traveling at about 56 kmph (35 mph). She said that she didn't know exactly what happened - she didn't know why she didn't realize that V2 was stopped and misjudged its slow speed. The driver commented that not seeing any brake lights on the vehicle in front of her led her to believe that the vehicle was moving at a normal rate of speed. By the time she realized how slow V2 was moving, it was too late. She applied her brakes and steered left, but still made contact with the back of V2. The Critical Precrash Event for V1 was other motor vehicle in lane, traveling in same direction with low, steady speed. The Critical Reason for the Critical Event was a misjudgment of other's speed. One associated factor could have been an internal distraction. It is strongly believed that the driver may have been using a cell phone at the time of the crash, although this was not revealed during the interview. A bystander stated that the driver exited the vehicle within seconds of the crash, with the phone to her ear. V2, the Dodge Neon, was originally driven by a 16-year old male with a learner's permit. The original driver of V2 had stopped in the traffic lane to let himself out for work. The original passenger of V2, a 50-year old female, then became the driver. She stated that she entered the vehicle through the driver's side door, put on her seatbelt, and put the vehicle in gear. She indicated that she was just beginning to accelerate, and was traveling at about 8 kmph (5 mph) when she was struck from behind. The Critical Precrash Event for V2 was other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. One associated factor was a decision error. The driver's son, who was the driver when the trip began, stopped the vehicle in a traffic lane when not required to do so, in order to exit the vehicle. He chose to do this rather than pull into the parking lot of the fast food restaurant where he worked.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

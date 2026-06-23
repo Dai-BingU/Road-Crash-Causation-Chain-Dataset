@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occured in the mid morning hours of weekday, at the offset intersection of two roadways. The north/south roadway was three lanes divided by a grass median and was not controlled by any traffic control devices. The east/west roadway was two lanes, two way undivided and controlled by a posted stop sign. Conditions were clear and the posted speed limit was 64kmph (40mph). V2, a 1998 Ford E250 Van, was traveling west in lane three approaching the intersection. V1, a 2005 Toyota Corolla, was stopped for the posted stop sign facing south. V1 entered the intersection and its left plane came into contact with the front plane of V2. V2 was deflected approximently 10 degees counter clockwise and came to rest near the median. V1 was deflected approximently 30 degrees clockwise and came to rest on the median after hitting the sign. V1 was driven by a 20 year-old female who stated that she was still upset from an earlier argument with her boyfriend. She was in the process of droping her daughter off at a babysitters so that she could take her boyfriend to get some job applications. This driver nor either of the two occupants were injured and the vehicle was towed due to damage. This vehicle's Critical Pre Crash Event was coded This Vehicle Traveling crossing over passing through intersection. The Critical Reason was coded Driver Related, Inadequate Surveillance. V2 was driven by a 53 year-old male who stated that he saw the other vehicle but did not think it would pull out into the intersection. He was not injured, and V2 was not towed due to damage. This vehicle's Critical Pre Crash Event was coded Other Vehicle in Lane in Crossover. A Critical Reason was not coded to this Vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion, Drugs, Speed/Distance, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Motor Vehicle in Lane- In crossover
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

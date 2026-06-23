@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the three straight, dry, and bituminous eastbound lanes of a divided urban roadway. There were three lanes featured a slight uphill slope greater than 2% with a posted speed of 72 kmph (45 mph). Conditions were daylight on a weekday morning with dry roads and clear skies. Traffic flow was normal. V1, a 2002 Nissan Altima, was traveling in lane one. V2, a 2004 Honda Civic, was also traveling in lane one, ahead of V1. Traffic began to slow down for a traffic light ahead. V2 gradually slowed down with the other traffic in the lane. V1 failed to stop in time. The front of V1 made contact with the back of V2. The driver of V2 was checked on scene for possible injuries, but was not transported. V1 was driven by a 22-year old male in good health and on his way to pick up a friend. He stated when traffic suddenly slowed and that he applied the brakes, but could not stop in time. The driver of V1 was uninjured but V1 was towed due to damage. The Critical Precrash Event for V1 was coded as other motor vehicle in lane, traveling in same direction while decelerating. The Critical Reason for the Critical Event was coded as inattention. The driver failed to perceive the critical situation, but the reason for the inattention could not be established. Associated factors were experience related. The driver was in a borrowed vehicle, and rarely drove on that roadway. In addition, the driver had no formal driver education. V2 was driven by an 18-year old female in good health. She stated that she was heading eastbound in lane one, approaching a red light. She slowed almost to a complete stop, and was immediately hit from behind by V2. She commented that she believed the other driver was simply not paying attention as the rest of traffic gradually slowed down. The Critical Precrash Event for V1 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

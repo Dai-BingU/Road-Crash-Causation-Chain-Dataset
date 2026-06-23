@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a four-legged, traffic signal-controlled intersection. The east/west roadway is level and straight. West of the intersection, this roadway consists of two lanes in each direction and a left turn lane. East of the intersection, this roadway is divided by a painted median and consists of two lanes in each direction. The speed limit on this roadway is 56 kmph (35 mph). The intersecting roadway is one-way in the northbound direction. This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2007 Toyota Tacoma, was eastbound in lane three. Vehicle two (V2), a 2003 Saab 9-3, was westbound in lane one. V1 turned left (north) in the intersection and the right side was struck by the front of V2. Both vehicles were towed due to damage. The driver of V1, a forty-nine-year-old male, was traveling between job sites. He was healthy, well rested and comfortable with his vehicle and cargo (construction equipment in the pickup bed). He rarely drives on this roadway. This driver stated that there were no sightline restrictions but he did not see V2 prior to the crash. The driver of V2, a forty-year-old female, was on her way from her home to a business lunch. She was well rested, healthy and familiar with her vehicle and the roadway. This driver stated that she was late for the appointment but was on the phone (hands-free cell phone) with the person she was meeting and was no longer in a hurry. She also stated that she applied the brakes when she saw V1 as it was turning in the intersection. The critical pre-crash event for V1 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V1 was coded as " driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from opposite direction - over left lane line." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle." This driver's use of a cell phone was an associated factor in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Cell Phone Use, Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on an undivided two-lane rural road that ran east/west, along a portion that curved left if westbound. The left (south) side of the road was bordered by a fence line that was overgrown with brush and small trees. The curve's radius was 107m and its superelevation was 2 percent. The roadway was level near the departure point but did have a +3 percent grade about 70 meters pre-crash. Conditions at the time of the crash were dusk, unlit and dry with a posted speed limit of 56kph/35mph. Vehicle #1 was a 2005 Ford Focus ZX4 westbound on the rural road negotiating the curve. A non-contact vehicle came around the curve traveling east and crowded Vehicle #1's lane. Vehicle #1 swerved right to avoid a collision then steered left in an attempt to regain control. Vehicle #1 then departed the left side of the road, running into the tree line and contacting a small tree. Vehicle #1 came to rest with its front against the small tree and underbrush facing southwest. Vehicle #1 was towed from the scene. Vehicle #1 was driven by a 16-year old female that was belted and uninjured in the crash. Vehicle #1's airbags did not deploy. The Critical Pre-Crash Event for Vehicle #1 was this vehicle traveling off the edge of the road on the left side. The Critical Reason for the Critical Event was overcompensation, a performance error. An associated factor coded to this driver was an internal distraction as the driver reported that just previous to encountering the non-contact vehicle, she had been adjusting the radio then "looked up" and saw the non-contact vehicle. A roadway-related deficiency was coded as an associated factor because as measured, the calculated radius of curvature was 107m. This does not meet the AASHTO standard of 128m for a curve with a posted speed of 35 mph. Driver inexperience was also coded as an associated factor.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Performance, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

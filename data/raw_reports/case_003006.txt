@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three vehicle daytime collision occurred just past noon at a four-leg intersection comprised of a west/east roadway and a north/south roadway. The north/south roadway consists of five lanes, including a left-turn pocket. The east/west roadway consists of seven lanes, including a left turn pocket. Both roadways are dry, level and made of asphalt. The intersection is controlled by a tri-light signal that was functioning properly at the time of the collision. Both roadways are designated as 56 kmph (35 mph) zones. Vehicle one (V1) a 1992 Honda Accord DX 4-door sedan driven by a 40 year-old female with one passenger was traveling north in the number one lane approaching the intersection. Vehicle two (V2) a 2003 Mercury Sable GS 4-door sedan driven by a 51 year-old female with two passengers was traveling west in the number two lane. Vehicle three (V3) a 2004 Infiniti G35 2-door coupe driven by a 36 year-old male was stopped in the southbound number two lane. As V1 passed through the intersection V2's front plane impacted the right side of V1. V1 rotated counter clockwise as V2 rotated clockwise which caused a second impact between V1's right plane and V2's left plane. V1 then continued west where it came to rest in the intersection. V2 continued northwest to impact V3 left side in the north crosswalk. The front plane of V2 impacted the left plane of V3. Both V2 and V3 came to rest at impact. V1 & V2 were towed due to damage, V3 was driven from scene. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason was attributed to V1 as a driver related factor: illegal maneuver (e.g. disregard for traffic signal). The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street- across path. The critical reason not coded to this vehicle. V3 was not involved in first harmful event. The critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Inexperience, Driver Stress/Emotion present problem 
+Vehicle 2:  Drugs, Roadway present problem 
+Vehicle 3:  Distraction, Driver Inexperience, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

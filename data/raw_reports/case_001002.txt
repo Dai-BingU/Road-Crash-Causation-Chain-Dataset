@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred shortly after the noon hour during daylight on a weekday. The crash occurred at the intersection of a north-south roadway and an east-west roadway; the intersection was controlled by a tri-light traffic signal without a protected left phase. The speed limit on the east-west roadway is 56 kmph (35 mph) in both directions. At the time of the crash, there were no adverse atmospheric conditions and the road surface asphalt and free of defects. Vehicle one (V1), a 1994 Geo Prizm four-door sedan driven by a 62 year-old female, was traveling westbound in the left turn lane approaching the intersection with the intention of turning left. Vehicle two (V2), a 1999 Toyota Tacoma pickup driven by a 18 year-old male, was traveling eastbound in the second lane of opposing traffic, approaching the intersection with the intention of passing straight through. As V1 made its turn, the front of V2 impacted the right side of V1. The two vehicles rotated towards each other and the left side of V2 impacted the right side of V1 in a side-slap configuration. The vehicles separated and traveled towards the southeast corner, where V2 came to rest. V1 departed the road onto the corner and impacted a short post with its front end, bringing V1 to rest. Both vehicles were towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason was attributed to V1 as a driver related factor: false assumption of other's actions. This driver reported that she entered the intersection and came to a stop to await an opportunity to turn left. She stated that she saw V2's approach, and she proceeded to turn after the light entered the red phase, assuming that V2 would stop and yield her the right of way. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction- over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+Vehicle 2:  Aggressive Behavior, Decision, Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

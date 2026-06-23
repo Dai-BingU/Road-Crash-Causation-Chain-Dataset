@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred early evening in a 3-way intersection. The east roadway is one-way, has one lane, and passes through the intersection without a traffic control; the north/south roadway is undivided, 2-way with one lane in each direction, and is controlled by stop signs at the intersection. The speed limit on both roadways was 40 kmph (25 mph). At the time of the crash, the roadways were dry and there were no adverse weather conditions. This crash occurred at dusk in the early evening hours. Vehicle one (V1), a 2000 Ford Taurus 4-door sedan was traveling northbound in the first lane. Vehicle two (V2), an unknown make/model/body type vehicle carrying an undetermined number of occupants, was traveling eastbound on the one-way roadway. V1 either did not stop at the stop sign, or had stopped, then entered the intersection at a low speed. Both vehicles entered the intersection at the same time and the front of V1 was contacted by an unknown plane of V2. During this first impact a snag occurred to the left front bumper corner of V1 and V1 was rotated clockwise. The left side of V1 was contacted by an unknown plane of V2 in a side slap. V1 came to rest just east of the intersection facing eastbound. V2 left the crash scene and no location information is available. The V1 driver was transported with unknown injuries and V1 was determined to be towed due to damage. All V2 driver and vehicle information is unknown. A police report was not available for this crash. The V1 driver was a 61 year-old male with a reported history of high blood pressure. He stated that he, "blacks out about every four months; I must have blacked-out in the intersection." At the crash scene, a container of prescription drugs was found inside of V1 labeled, "Toprol XL 50mg". The V1 driver verified that he uses this medication for hypertension. The driver stated that he remembered almost nothing about the crash and most answers to other interview questions were either "I don't know" or were very vague. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason for the critical pre-crash event was coded to V1 as a driver related factor: heart attack or other physical impairment of the ability to act - (e.g., black-out). The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Unknown
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

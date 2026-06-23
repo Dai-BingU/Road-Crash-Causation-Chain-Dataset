@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary Case 2007-43-116 This single-vehicle crash occurred in the early evening of a weekday on the roadside of a 4-lane undivided roadway. The roadway runs east/west through a suburban neighborhood, has an uphill grade over 2% and is curved to the right at the location of this crash. The bituminous roadway was wet and dark from a recent rainstorm, and has a posted limit of 56 kmph (35 mph). V1, a 1998 Saturn SC2 with one occupant, was eastbound negotiating the curve to the right when it departed the right side of the roadway and struck a tree (35 cm in diameter) with its front plane. V1 continued to strike a wooden fence while rotating from the tree impact and rolled backward into the roadway where it came to final rest. The EMS was dispatched to the scene but the driver refused treatment and he also refused to be interviewed for this case. The driver of V1 is a 36-year-old male that reported a phantom vehicle cut him off and he swerved to avoid the vehicle causing him to run off the road. The vehicle he was driving belonged to his roommate and was towed due to damage. The Critical Pre-crash Event for V1 was coded this vehicle control loss due to traveling too fast for conditions. The Critical Reason for the Critical Event was coded too fast for conditions since the road was wet from a recent rainstorm. Associated factors include a tire deficiency because the RF tire tread was 3/32.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :

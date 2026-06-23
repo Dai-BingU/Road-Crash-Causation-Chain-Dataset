@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This crash occurred in the southbound lanes of a divided roadway with a grass median. There were 2 sourthbound lanes that divided into five lanes at the signal. Two left turn lanes, two straight lanes and one right turn lane. The crash occurred just before the road divided on the two lane width. This road had a left curved, level, bituminous with a posted speed limit of 89 kmph (55 mph). It was early morning on a weekday and the roads were dry and the skies were a little cloudy. Traffic flow was minimal. V1, a 2004 Chevy Malibu 4-door with one occupant, was traveling southbound in lane 1. V2 was a 1986 GMC Truck with two occupants, stopped in lane 1 directly in front of V1. V3 was a 1984 Ford L9000 dump truck and was stopped for a traffic light directly in front of V2. V1 was traveling at a constant rate of speed. V1 struck V2 in the rear, then V2 struck V3 in the rear. All vehicles came to a rest in lane 1. All drivers and occupants were transported due to injuries. The Critical Precrash Event for V1 was "Other motor vehicle stopped in lane." The Critical Reason for Critical Precrash Event was coded "Type of driver error unknown". The Critical Precrash Event for V2 was "other motor vehicle in lane, traveling in same direction with higher speed”. The critical reason was not coded to this vehicle. V3 was not involved in the first harmful event. Therefore, no Critical Precrash Event or Critical Reason was coded to the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+ 3 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

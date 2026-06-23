@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred at night on a two-lane asphalt roadway. This roadway traverses a deep, wide canyon and has a downgrade of -6% when going west. The posted speed is 105 kmph (65 mph) with a warning speed reduction of 40 kmph (25 mph) posted just before the bottom of this grade. There is a sharp sweeping left hand curve at the bottom with a radius of 86.5 meters (284 feet) for 200 meters (656 feet) of roadway. This roadway had no obvious defects and no adverse weather. Vehicle one (V1), a 1997 GMC 1500 series pickup driven by a 24 year-old male, was traveling westbound negotiating the left hand curve when due to excessive speed it drifted right and over the right fog line. V1 continued thru the curve on the shoulder then steered left and back into its original travel lane. V1 then rotated counterclockwise and the driver applied right hand steering to correct the rotation. V1 then rotated clockwise and yawed right and off the right road edge. As V1 crossed the road shoulder it impacted a delineator with its left plane then traveled down into a dirt extended shoulder where it tripped with its left side tires and rolled over to the left onto its roof. V1 was towed due to damage. The critical pre-crash event was coded: this vehicle control loss due to, traveling to fast for conditions. The critical reason driver was coded as a driver related factor: poor directional control (i.e., failing to control vehicle with skill ordinarily expected). The driver stated he was fatigued when he started driving this last trip, which had been over an hour in duration by the time the crash occurred. He was commuting home from work at a job site. He travels the route several times per month. He stated his brakes were in proper working order.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Distraction, Driver Fatigue, Driver Performance, Driver Stress/Emotion, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This four-vehicle rear end type crash occurred during the end of morning rush hour traffic in daylight in the eastbound lanes of an interstate highway. There were no weather factors but there was road construction in the area during a time period of traffic congestion. For the eastbound lanes there are three through lanes with a right hand exit lane. Concrete traffic barriers line the outside of the road edge. The roadway was dry, level asphalt roadway that is straight. The posted speed limit is 97 kmph (60 mph). Because of the traffic congestion vehicle four (V4), a 1995 Honda Civic, was stopped in the eastbound exit lane. Vehicle three (V3), a 1993 Geo Prizm, was stopped behind V4. Vehicle two (V2), a 1998 Mercedes S420, was stopped behind V3. Vehicle one (V1), a 2003 Hino straight truck with a van type box was traveling in lane one and changed to the exit lane. The driver of V1 braked and steered right before the front left of V1 struck the rear of V2. V2 was pushed forward and came to rest. The right side of V1 then struck the concrete traffic barrier, was deflected back to the left where the front stuck the back of V3. V3 was pushed forward where the front of V3 struck the rear of V4. V1 continued forward where the front of V1 struck the rear of V4. V1 then struck the barrier a second time with its front before coming to rest against the barrier. All four vehicles were towed from the scene. The driver of V1 was a 24-year-old male who is familiar with the vehicle and drives the route weekly. He was attentive to the driving task, was traveling too fast for conditions, and failed to look far enough ahead. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: traveling too fast for conditions. The driver of V2 was a 32 year-old male who was not available for interview. This driver was stopped in heavy traffic congestion and did not contribute to the cause of the crash. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. The driver of V3 was a 20 year-old male who was not available for interview. This driver was also stopped in heavy traffic congestion and did not contribute to the cause of the crash. V3 was not involved in the first event of the crash. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

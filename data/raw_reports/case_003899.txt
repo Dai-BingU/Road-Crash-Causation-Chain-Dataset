@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary Case 2006-02-034 The crash occurred on a level two lane undivided roadway with a posted speed limit of 24 KPH (15 MPH). The roadway curved to the left with a radius of curvature of 27 meters and 0% superelevation. It was cloudy, the roadway was wet and it was daylight at the time of this early afternoon weekday crash. Vehicle 1, a 2001 Ford ZX2, was traveling east on the roadway approaching the curve to the left. Vehicle 1 negotiated the curve, then went off the right side of the roadway and struck a 13 cm high curb with its front. Vehicle 1 continued up onto the sidewalk and then came back onto the roadway. Vehicle 1 continued through the intersection and came to rest facing in a westerly direction. Vehicle 1 was towed due to damage. The Ford ZX2 (Vehicle 1) was driven by a belted 16-year-old female who had a minor injury, but was not transported. The belted 17-year-old female right front seat passenger was not injured. The driver stated that she and her friend had just come from eating lunch at the mall and were on their way home. She exited the parking aisle and entered the main roadway. She stated that she was traveling 20 MPH around the curve when her tire blew out. She tried to steer to the left, but the car went straight and struck the curb. When the airbags deployed she stated she couldn't see. She tried to slow down, but thinks she hit the gas instead of the brake. She advised that she had just gotten back from vacation in Florida the night before. She said she was not fatigued, took no medications and did not wear glasses. She also advised she has not had her driver's license long and had been driving less than a year. The Critical Precrash Event for Vehicle 1 was this vehicle traveling off the edge of the roadway on the right side. The Critical Reason for the Critical Precrash Event was poor directional control. This was chosen because the driver had negotiated the curve, but drove off the right side of the roadway. She also had been driving less than a year and recently got her driver's license. Associated factors coded to this driver were a combination of insufficient steering and braking inputs and wet roads, a roadway related factor. A possible additional factor may have been an internal distraction because the driver advised that she had been conversing with her passenger and may not have been focused on the driving task. The police indicated unsafe speed on the police report and a witness stated the Vehicle 1 was operating too fast.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

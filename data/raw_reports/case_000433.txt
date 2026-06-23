@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred in a controlled four-way intersection mid-afternoon on a Thursday. At the time of the crash, there were no adverse atmospheric conditions and there were no roadway defects. Vehicle one (V1), a 1999 Lincoln Continental four-door sedan, was traveling westbound in a 56 kmph (35 mph) zone, in the second lane of a five-lane, divided (seven lanes overall, divided by a raised median), dry, level, concrete roadway, approaching an intersection with the intention of passing straight through. Vehicle two (V2), a 1998 Mack Dump Truck, was traveling southbound in a 56 kmph (35 mph) zone, in the second lane of a three-lane, two-way, undivided, dry, level, concrete roadway, approaching the same intersection with the intention of passing straight through. V2 was equipped with four axles, axle number two was a drop axle and was not in use. V2 was fully loaded at this time. The driver of V1 failed to recognize the red traffic light. The driver realized too late that he was violating the traffic signal, and applied his brakes to avoid a collision with V2. As both vehicles crossed the intersection, the front of V1 impacted the left side of V2. V2 continued forward and came to rest in its original lane. V1 rotated counter-clockwise and came to rest alongside V2, facing southwest. The 85-year-old driver of V1 is elderly and diabetic, but his condition did not apparently contribute to the collision. He was well rested at the time of the crash. He reported that he thought he had a green light. A witness in the third lane of opposing traffic (same roadway) was stopped for a red light, but was unable to see V1. The critical pre-crash event for V1 was: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was attributed to V1, and was coded as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see).. The 24-year-old driver of V2 is in good health and was well rested at the time of the crash. He reported that he was in a hurry to keep his work schedule and drop off his load. He entered the intersection on a green light, and became aware of V1 while passing through the intersection. He engaged his brakes but was unsuccessful in stopping the truck before impact. The critical pre-crash event for V2 was: other vehicle encroachment; from crossing street, across path. The critical reason for the event is not attributed to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

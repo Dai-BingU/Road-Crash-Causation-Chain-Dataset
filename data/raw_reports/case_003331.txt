@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the intersection of two similar roadways, both being two-lane, two-way, non-divided asphalt rural roadways with a posted speed limit of 40 kpmh (25 Mph). The crash occurred during the daylight hours, and there were no adverse conditions present at the time of the crash. V1 a 2006 Ford 500 was traveling south in the right curb lane. V2 a 1995 GMC pickup was traveling westbound in the right curb lane. V1 who had the stop sign traveled through the intersection and was contacted in the left rear side by the front of V2. The impact sent V1 in a counter clockwise rotation and into a power pole. V2 went off the road after impact and stuck a private sign. The driver of V1 a 32yr old female driver stated that she thought that she had stopped for the stop sign and looked both ways. She then stated that she was on her cell phone and might not have stopped. I tried to get more info about the conversation but she would not elaborate any further. The Critical Pre-crash Event coded for V1 is this vehicle traveling "this vehicle crossing over passing through an intersection" the Critical Reason for the Critical Pre-crash Event coded for V1 is an "internal distraction" talking on a cell phone The driver of V2 a 35yr old male stated that he was going home from work when the vehicle to his right ran the stop sign and he hit it. Upon further talking with the driver he stated that he did not have time to react and that it happened so fast he could not avoid the collision. The Critical Pre-crash Event coded for V2 is "other vehicle encroachment from crossing street, across path" V2 was not assigned a critical reason.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

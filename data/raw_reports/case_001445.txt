@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred on a straight, downhill, four-lane, median divided, bituminous roadway with a positive barrier. There were two lanes of travel in this direction. The roadway does not have rumble strips and has guardrails on both sides that is protecting a drop off over a bridge. The speed limit for this roadway is 80 kmph (50 mph) and there is no advisory speed limit. There were no traffic control devices at the scene of the crash. Vehicle one (V1), a 2003 Ford F150 4x4 was pulling a dual axle trailer filled with firewood, 907 kg (2000 lbs) and traveling northbound in lane two at 89 kmph (55 mph). V1's trailer began to shift back and forth causing the driver to lose control. The driver braked but the trailing unit continued push V1 at a constant speed. V1 departed its lane of travel and then departed the right side of the roadway. The front left of V1 contacted the guardrail. V1 continued along the guardrail and came to rest in a jackknife position facing east. V1 was towed due to damage. The driver of V1 was a healthy 60-year-old retired male. The driver was fatigued due to 10 hours of intense physical activity (cutting firewood). The driver had ceased this activity approximately ½ hour prior to the crash. The driver had 44 years of experience driving this type of vehicle. He was also very comfortable with the vehicle and drives this roadway weekly. He was uncomfortable with the cargo load. The driver of V1 stated that he was traveling too fast for the cargo load. He estimated his speed at 72-80 kmph (45-50 mph). The critical pre-crash event for V1 was coded: this vehicle loss of control: jackknife. The critical reason for the critical event for V1 was coded as a driver related factor: poor directional control. The driver's fatigue and discomfort with the cargo load are considered to be contributing factors to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Inexperience, Driver Performance, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Jacknife Event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

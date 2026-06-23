@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lane of a two-lane non-divided roadway. There was one southbound and one northbound lane. This was a straight, level bituminous roadway with a posted speed of 72 kmph (45 mph). It was early afternoon on a weekday. The road was dry and the sky was clear. Traffic flow was congested with stop-and-go activity. V1, a 2001 Chevrolet G-series van with one occupant, was traveling southbound in lane one behind V2. V2, a 1999 Honda Accord four door with one occupant, was traveling southbound in lane one behind V3. V3, a 2001 Saturn SC three door with one occupant, was traveling southbound in lane one behind V5, a 1975 Chevrolet Nova. V2 and V3 were moving at a constant velocity when V1, moving at a higher velocity struck V2 from behind, pushing it into V3 and then left into oncoming traffic where it was struck by V4, a 2000 Dodge Ram. V2 continued southbound in lane one and collided with the back of V3, pushing it into the back of V5. V1 then swerved right striking the eastern curb and coming to rest. V2 came to rest in the northbound lane next to V3. V3 came to rest where it struck non-study vehicle V5. V1, the Chevrolet G-series Van, was driven by a 40-year-old male who reported contusion/bruise/abrasion to the shoulder-upper arm and was transported to the emergency room. He was traveling at a higher velocity then traffic in front of him, when he impacted V2 in the back, forcing it into oncoming traffic, impacting V3 in the process. V1 one then impacted V3 in the rear before swerving right and impacting the curb. The Critical Precrash Event for V1 was “Other motor vehicle in lane, traveling in the same direction with lower steady speed”. The Critical reason for the Critical Event was coded unknown recognition error. Although the driver of V1 may not have been speeding, he was traveling too fast for the congested, stop-and-go traffic flow. One associated was inadequate surveillance-failed to look far enough ahead, resulting in a misjudgment of both the gap between and the velocity of other vehicles. The final associated factor coded to this driver was traffic congestion/stop-and-go traffic. V2, the 1999 Honda Accord, was driven by a 26-year-old male who reported neck pain and was transported to the emergency room. He was traveling at a slow but steady velocity, approximately 40 kmph (25 mph), when he was impacted by V1 from behind and push into on coming traffic, impacting V3 in the process. V2 was then impacted on the left by V4. The Critical Precrash Event for V2 was “Other motor vehicle in lane, traveling in the same direction with higher speed”. The Critical Reason was not coded to this vehicle. The only associated factors coded to this vehicle were traffic congestion/stop-and-go traffic and following too closely during rush hour/heavy traffic. V3, the 2001 Saturn SC, was driven by a 21-year-old female who reported neck pain and was transported to the emergency room. She was traveling at a slow but steady velocity, approximately 40 kmph (25 mph), when she heard a crash behind her followed by an impact from behind as V2 was pushed into on coming traffic. Then she was impacted from behind again, this time by V1 and pushed into V5. V3 was not involved in the first harmful event. Therefore, no Critical Precrash Event or Critical Reason was coded to the driver. The only associated factor coded to this driver was traffic congestion/stop-and-go traffic. ***Case Note: Researcher unable to contact driver for V1 and V2. Phone number listed for V1 disconnected. Messages left at work number were unreturned. Attempts to contact at home resulted in no answer at the door. Multiple phone numbers listed for V2, all messages at all numbers were unreturned. Attempts to reach at address listed on Police Accident Report disclosed that driver no longer resided at listed address. Information on V1 and V2 were supplied from multiple on-scene Police and Rescue personnel.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

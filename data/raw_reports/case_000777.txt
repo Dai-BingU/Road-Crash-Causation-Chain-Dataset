@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary Case #2005-45-117 The crash occurred on an east/west two lane urban residential roadway. The lanes were undivided with drainage ditches and driveways on the north and south sides of the road. Depth of the ditches varied between 28 and 52cm and culverts allowed the drainage ditch to flow under each driveway. The road curved slightly to the right as it traveled from west to east with a radius of curvature of 937m at a -3 percent grade. Conditions were daylight and dry on a weekend morning. The posted speed limit was 48kmph (30mph). Vehicle #1 was a 2000 GMC Jimmy traveling east on the two-lane road. Apparently, a dog approached the road from the right and startled the driver. Vehicle #1 veered left off the left side of the road and into the ditch. It struck a culvert with its left undercarriage and crossed two driveways before contacting a utility pole with its front. The vehicle came to rest facing east against the pole 61m east of initial roadway departure. It was towed due to damage. Vehicle #1 was operated by a 22-year-old female that was belted with no deployed airbags. She was transported to an area hospital for treatment of non-incapacitating injuries. EDR information was extracted from the vehicle and indicated a vehicle speed of 71kmph (44mph) five seconds prior to algorithm enable, dropping to 26kmph (16mph) at one second prior to AE. The brake status was off the entire precrash sequence and the throttle percentage was at 0 during the five-second precrash phase. The Critical Precrash Event for Vehicle #1 was animal approaching roadway. The Critical Reason for the Critical Event was a decision error, Incorrect evasive action. Associated factors included chose inappropriate/unsuccessful evasive action, overcompensation, and too fast for conditions. Inexperienced driver was also coded, she had only been driving for one year.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Performance, Drugs, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Animal approaching roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

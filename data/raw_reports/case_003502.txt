@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred just before dawn during dark hours on a level, dry, left-curve asphalt six lane divided interstate with guardrail's in the median and outside the right shoulder. This interstate runs east and west at this location and has three lanes in each side with no traffic controls. Posted speed limit 105 kmph (65 mph). Vehicle one (V1), a 1997 Ford Escort sedan driven by a 31 year-old female, was traveling westbound in lane two. V1 drove into the number one lane and off the right side of the road onto a paved shoulder. V1 then impacted a guardrail with its front and rebounded back onto the road re-entered all three lanes and ran off the left side of the road impacting another guardrail with its front. After the second impact, V1 rotated counter clockwise and came to rest on its wheels facing southeast in the median. V1 was towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical event was coded to V1 as a driver related factor: internal distraction. The driver stated that she was looking to the right and reaching for her cigarettes and lighter on the front seat. The driver was in a crash three weeks prior to this crash and was taking the medications: ibuprofen, vicodin and ultram. For this trip she was on an errand going from a coffee shop top her mother's house.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

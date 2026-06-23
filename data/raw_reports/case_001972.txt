@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in an intersection of two 2-lane undivided roads. The eastbound roadway was an uphill grade of 5 percent, while the northbound roadway was a downhill grade of 14 percent. The intersection itself was level. The north/south roadway was controlled by stop signs; the east/west roadway had no traffic control device. All roadways were dry and bituminous with a posted speed limit of 40 kmph (25 mph). It was mid-morning on a weekday and conditions were clear. V1 was a 2003 Mitsubishi Gallant, driven by a 27-year-old male, traveling northbound in lane one. V2 was a 2000 Ford Ranger, driven by a 33-year-old male, that was traveling west. The driver of V1 stopped at the stop sign and then proceeded into the intersection as V2 was traveling westbound through the intersection. The front of V1 struck the left rear of V2, which sent V2 into a counterclockwise spin and its right rear struck a telephone pole on the side of the road. The Critical Pre-crash Event for V1 was "this vehicle traveling, crossing over intersection." The Critical Reason for the Critical Pre-crash Event was "driver related factor, inadequate surveillance." According to the driver's wife, there were cars parked along the street, blocking his view of the oncoming vehicle. There were no parked cars in this location upon researcher arrival. There was however, a significant amount of shrubbery at this location. After several attempts, the driver of V1 finally refused a complete interview. The Critical Pre-crash Event for V2 was "other vehicle encroachment, from crossing street, across path." The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. No associated factors could be coded to this driver due to the lack of an interview - the driver refused outright.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

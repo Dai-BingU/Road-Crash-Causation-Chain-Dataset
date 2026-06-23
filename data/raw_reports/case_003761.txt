@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred late in the evening on a clear night. The crash occurred at a four-legged intersection controlled with traffic signals with protected left turn arrows. Overhead lights illuminate the streets and intersection. Curbed sod medians separate the traffic flow on both roadways. For southbound traffic approaching the intersection, there are four lanes: a right turn only lane, two through lanes and a left turn only lane. For northbound traffic, there are five lanes of traffic; a right turn only lane, two through lanes and two left turn only lanes. Green left turn arrows protect traffic turning left. The road is straight and level and is bituminous asphalt. The speed limit is 72 kmph (45 mph). Vehicle one (V1), a 2000 Hyundai Accent was traveling southbound with one occupant in lane three. Vehicle two (V2), a 2002 Dodge Intrepid was northbound in lane four attempting to turn left and travel west. As V2 proceeded through the intersection it was struck in the right side by the front of V1. Post impact V1 rotated clockwise and came to final rest adjacent to the impact point facing west. An engine fire occurred post-crash in V1. V2 at impact rotated counterclockwise and also came to rest facing west southwest of the impact. Both vehicles were towed due to disabling damage and both drivers went to a local trauma center by private vehicles. A witness following V2 verified that V2 had the right of way, a protected left turn arrow. . V1 contained one occupant, a 21 year-old female. The driver advised that she had just got off from an eight-hour shift at work and was going to a billiards hall to meet with co-workers. She advised that as she approached the intersection the signal turned green and she entered the intersection and noticed V2 making a turn in front of her. She locked the brakes and steered right in an attempt to avoid the collision. She drives the route daily and is familiar with the vehicle. V2 contained two occupants, the driver, a 31 year-old female, and the rear seat passenger, a five year-old male. The driver advised she had just picked up her son and was on the way home when her vehicle was struck in the right side as she was making a protected left turn. The witness verified her statement. The driver does not have a valid driver's license, usually does not drive and had driven V2 2-5 times in the last three months. She saw V1 approaching from the opposite direction and assumed it would yield the right of way. The critical pre-crash event for V1 was coded: other vehicle encroachment-from opposite direction-over left lane line. The critical reason was coded: illegal maneuver. The driver ran the red light at the intersection. The critical pre-crash event for V2 was coded: this vehicle traveling-turning left at intersection. A critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+Vehicle 2:  Decision, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

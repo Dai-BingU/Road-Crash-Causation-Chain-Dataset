@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a two-way, ten-lane interstate roadway, divided by a concrete barrier wall. There were five northbound and five southbound lanes. This was a straight, level, bituminous roadway, with a posted speed of 105 kmph (65 mph). Conditions were late afternoon on a weekday with dry roads and clear skies. Traffic flow was congested, with stop-and-go activity. V1, a 2005 Acura TSX with one occupant, was traveling northbound in lane one. V2, a 2004 Honda Pilot with one occupant, was traveling northbound directly in front of V1. Traffic in lane one suddenly slowed. The driver of V2 applied his brakes, and was able to stop in time. The driver of V1 attempted to steer right and apply brakes, but was unable to avoid rear-ending V2. V1 was towed due to damage. V2 was not towed. V1, the Acura TSX, was driven by a 16-year old male who reported possible injuries, and was treated on-scene. He advised that he was coming home from his first day of work as a summer camp counselor. He had just gotten off the phone with his father. He was in the far right lane, preparing to take the next exit. The driver advised that he was traveling at about 105 kmph (65 mph) when he started to decelerate because he noticed traffic was slowing in his lane. Then traffic came to an abrupt halt. He could not change lanes to the left, due to traffic occupying that lane. He advised that he steered to the right and hit his brakes as hard as he could. When he realized he was not going to be able to stop in time, he braced himself using the steering wheel. The Critical Precrash Event for V1 was other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Event was a recognition error, driver inattention (thought focus unknown). One associated factor is inexperience. The 16-year old driver has only had a driver's license for three months. Another associated factor could have been an emotional factor. It was his first day of work as a camp counselor, and he was experiencing work related stress due to an adversarial relationship with the camp kids. He had been arguing with them just prior to driving home. One more associated factor is fatigue. The driver had just come back from a three-week family vacation to Spain. His sleep schedule had significantly shifted, due to the time difference. There were two other potential highway related associative factors for the crash: rush hour congestion and/or a nearby crash that occurred just ahead of V1 and V2, in the same lane. V2, the Honda Pilot, was driven by a 44-year old male who reported no injuries. The driver stated that traffic on the interstate was heavy, and he was traveling at about 80 kmph (50 mph). A vehicle in an adjoining lane changed lanes in front of him, and then suddenly slowed down. The driver said that he stopped and then looked in his rear view mirror to see if the Acura was going to be able to stop in time. It was apparent that the other vehicle was going to make contact, so he braced himself for impact. The Critical Precrash Event for V2 was other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Event was not coded to this vehicle. This driver had no associated factors, and was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Inexperience, Driver Stress/Emotion, Traffic present problem 
+Vehicle 2:  Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

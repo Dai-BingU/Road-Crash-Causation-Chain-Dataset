@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary Case 2007-088 The crash occurred on a two-lane north/south bound undivided roadway with one lane in each direction. The road was dry straight, level, asphalt with a posted speed limit of 32kph/20mph. There were no traffic control devices. The crash happened early on a weekday evening under clear skies and with light traffic flow. V1, a 2005 KIA Spectra four-door with one occupant was traveling northbound. The vehicle drove off the right edge of the road as the driver unsuccessfully tried to gain control. The undercarriage struck the ground (Event 1) and continued traveling north along the grassy edge of the road for approximately 27 meters until the undercarriage struck a concrete mile marker (Event 2). It then continued traveling north another 4 meters until the front right corner struck a 30cm utility pole (Event 3). The vehicle then veered to the left back onto and across the roadway where it departed the roadway on the left side and came to rest facing northwest straddling a drainage ditch. The final resting position of the vehicle was approximately 46 meters northwest of the original roadway departure. The vehicle was towed due to damage. V1, the KIA Spectra, was driven by a 55-year old male who was coded for non-incapacitating injuries and transported to a hospital. The driver reported that he was recovering from recent back surgery and was anxious to get back to work, so he decided to try to see if he could drive, while testing his reflexes. He said he had just left home and was going to turn around and go back. He advised that he was traveling below the speed limit when he felt the tires go off the right edge of the road. He added that he knew there was no shoulder so he unsuccessfully tried to steer to the left without braking to get back on the road. He did not recall hitting the mile marker or the utility pole before coming to rest on the other side of the road. The Critical Precrash Event for V1 was this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was driver inattention ( i.e., thinking about disability). Associated factors were assigned to this vehicle for driver other physical condition due to the fact that the driver was recovering from back surgery and had hypertension and was using several medications; for driver behavior, inadequate or insufficient steering and braking; and for other, highway, narrow roadway (the lanes were only 2.9 meters wide).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)

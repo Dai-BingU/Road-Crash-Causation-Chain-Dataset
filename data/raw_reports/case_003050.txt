@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary The crash occurred in the morning of a weekday near an interchange area in the southbound lanes of a physically divided (concrete barrier wall) two-way, ten-lane, interstate roadway. There were five southbound lanes with lane five serving as an HOV lane. The bituminous southbound lanes were dry and curved slightly to the right and featured a posted speed limit of 105kmph (65 mph). The pre-crash area was at the crest of an overpass, which was level. A two percent downhill slope characterized the crash and post-crash roadway. Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2000 Ford Ranger, was southbound in lane one traveling at the speed limit. V2, a 1994 Dodge Ram B350 van with eighteen occupants, was also southbound in lane one ahead of V1, but only traveling 55kmph (89 mph). V3, a 1997 Honda Civic, was traveling in lane five (the HOV lane), behind V1 and V2. V1 attempted to pass V2 but struck the left rear corner of V2 with its front right corner. After the initial impact V2 began to rotate in a clockwise direction and subsequently rolled left one-quarter turn, onto its left side. V2 continued to rotate in a clockwise direction as it traveled across all of the southbound travel lanes. V3 attempted to swerve around the overturned vehicle but its left side made contact with the top front of V2. All three vehicles were towed due to damage. V1 was driven by a belted 23 year-old male, who was transported due to incapacitating injuries. The driver could not be located therefore no interview was obtained. The Critical Precrash Event for V1 was coded other motor vehicle in lane, traveling in same direction with lower steady speed. The Critical Reason for the Critical Event was a decision error, misjudgment of gap or other vehicle's speed. The driver misjudged the space he had to successfully complete his passing maneuver. V2, the Dodge B350 Van, was driven by a 52-year old male, who refused medical treatment. He stated that he had just picked up coworkers from their jobs at the airport, and was taking them home. He explained that he used the vehicle to carpool approximately fifteen to eighteen passengers back and forth to work each day. The driver said he was traveling in the far right lane when another vehicle came from the rear and hit him from behind. Neither he nor his passengers noticed the vehicle approaching. The driver indicated that after impact, the back of the vehicle seemed to slide left for a moment, then rolled onto its left side. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. There were no associated factors coded to this driver. V3, the Honda Civic, was driven by a 57-year old male, who was not injured. The driver declined to be interviewed, pending litigation. V3 was not involved in the first harmful event. The Critical Reason was not coded to this vehicle. No associated factors could be determined for this driver due to lack of information.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

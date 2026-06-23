@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the southbound lanes of a four-lane roadway divided by a grass median just north of its intersection with a two-lane undivided east/west roadway. There were two lanes in each direction of the main roadway. It was straight, level, dry, and bituminous with a posted speed limit of 89 kmph (55 mph). The intersecting street was also bituminous, dry, straight, and level (it curved sharply to the right as it intersected with the main roadway). There was a stop sign for eastbound traffic on this roadway. The speed limit on that roadway was 64 kmph (40 mph). The crashed occurred on a weekday evening while the weather was cloudy but dry. The roadways and intersection were not lighted and very dark. V1, a 2002 Chevy Trailblazer SUV with two occupants, was traveling southbound in lane two. V2 was described as a Ford F250 pickup, towing an unknown flatbed trailer, with unknown occupants. It was eastbound crossing the southbound lanes apparently from lane one of the crossing street. There was no crossover present at the point where V2 was attempting to cross the main roadway. V1 saw V2 crossing its path and braked and steered right trying to avoid impact. The front right of V1 struck the left back of V2's trailer (towed unit). V2 did not stop and fled the scene driving across the median and then northbound. After impact V1 came to final rest on the right shoulder about 55m (180 ft.) from the point of impact facing south. V1 was towed due to damage. The driver of V1, a 56-year old male, was not injured. His 48-year old female passenger in the right front seat was transported to a hospital for non-incapacitating injuries. The driver advised that he was traveling at the speed limit in route from his mother's home to his own home when he suddenly saw V2 crossing his path possibly without lights. His evasive actions were unsuccessful and he struck the rear of V2's trailer. The Critical Precrash Event for V1 was coded other vehicle encroachment, from crossing street across path. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors include the driver's high blood pressure and diabetes as well as the dark, unlit road and intersection. Evidence and the scene configuration indicate to the researcher that V1 had been traveling eastbound in lane one of the intersecting road. The driver apparently did not see or follow the curvature of the road to the right at the stop sign. Instead V1 drove straight across the two southbound lanes and the path of V1, which struck V2's trailer. The Critical Precrash Event for V2 was coded this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Event was coded as an illegal maneuver, as V2 failed to stop for a stop sign and cross where there was not a legal crossing. In addition to the illegal maneuvers the only known associated factors that could be coded to V2 was the dark, unlit roadway and intersection.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

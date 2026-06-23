@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a fully controlled, divided with a grassy median, rural highway with two lanes in each direction with a posted speed limit of 113 kmh (70mph). The one-way eastbound lanes are bituminous, level, and curve to the right. Conditions at the time of the crash were daylight, clear and dry. V1, a 2000 Chevrolet Monte Carlo, driven by a 42 year-old female on a work trip, was eastbound in lane two negotiating the curve. The driver felt the vehicle hit something in the road "like a bump." V1 pulled to the left, leaving the roadway onto the paved shoulder and contacted the rumble strip. The driver stated that she overcompensated steered right and braked, and V1 crossed lane one and left the road on the right side. V1 crossed the right shoulder, and went into a ditch. The front of V1 struck the embankment on the far side. The left back corner of the Monte Carlo struck the embankment as V1 came to rest across the ditch facing southeast. V1 was towed from the scene due to damage. The fully restrained driver refused treatment. The Critical Precrash Event coded to V1 was 'this vehicle traveling off the edge of the road on the left side.' The Critical Reason for the Critical Event coded was 'driver related performance error-overcompensation.' The driver stated on-scene that if she had just steered right slightly when the vehicle went onto the left shoulder, she probably would not have crashed. There were numerous objects noted on the roadside grass during the scene inspection, possibly one that the driver initially contacted. An associated factor was coded for the driver's unfamiliarity with the road, as it was her first time on it. An additional factor was coded for her prescribed medication for her medical condition of Lupus, which has possible side effects of dizziness and sensitivity to sunlight.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary V1, a 1997 Chevrolet Cavalier 4dr, was southbound in lane 1 of a 2 lane, 2 way, bituminous, straight, rural roadway turning left (east) onto a rural, 2 lane, 2 way, straight, level roadway that turned into a gravel/slag roadway 30meters east of the intersection. At the time of the crash it was dark, unlit, snowing and the roadways were very snow covered. As V1 was turning left, it was unable to complete the turn, exiting the eastbound roadway to the right. The front of V1 struck a tree >10cm. Both occupants of V1 refused treatment. V1 was towed due to damage. A partial interview and a vehicle inspection were obtained for V1. The driver was found to be familiar with both the roadway and the vehicle as well as properly licensed for the vehicle. She had been working, stopped to pickup her child from babysitter's and was on her way home, (within a mile of the babysitter's), when the crash occurred. The driver did say that she was not in a hurry but indications are that she was driving too fast for road conditions. Her sleep and work habits as well as her medical, mental and stress factors are unknown but she was in an extreme agitated state at the scene. She seemed to be a single mother working full time. A successful download of the EDR was performed. The vehicle inspection revealed that the air pressure in all for tires exceeded the recommended pressure by at least 20lbs per tire. Tread depth for each tire was found to be 50 to 60%. This seemed to be the only mechanical defect found on the vehicle but the vehicle had over 150k miles (241k kilometers) on it at the time of the crash. V1's movement prior to recognition was turning left, the critical precrash event was this vehicle traveling off the edge of the road on the right side and the critical reason was attributed to a slick road surface condition. Associated factors assigned to this vehicle/driver included traveling too fast for conditions, being in a hurry, the snowy weather condition, and an over inflated tire condition. The driver was not cited in the crash but was advised that she had been driving too fast for conditions. The use of alcohol was not involved for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Stress/Emotion, Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)

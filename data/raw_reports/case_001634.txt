@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred during daylight hours with no adverse atmospheric conditions. The roadway has one lane in each direction and was dry at the time of the crash. There is a left curve with a 224 m radius of curvature and a 5% upgrade in the precrash area. The speed limit on this roadway is 72 kmph (45 mph). Vehicle one (V1), a 2004 Ford Explorer, was southbound in lane one. V1 traveled off the right side of the roadway and the front struck a tree. V1 was towed due to damage. The driver of V1, a thirty-three-year-old male, was traveling with a thirty-one-year-old female, from his mother's workplace to his home. He is familiar with his vehicle and drives this route daily. This driver stated that he has narcolepsy and a seizure disorder, but takes no medication. He also stated that he fell asleep and was still sleeping when his vehicle struck the tree. The pre-event movement for V1 was coded as "negotiating a curve." The critical pre-crash event for V1 was coded as "this vehicle traveling; off the edge of the road on the right side." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; sleeping, that is, actually asleep."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

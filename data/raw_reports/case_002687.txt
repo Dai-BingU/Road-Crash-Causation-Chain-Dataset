@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, five lane north/ south arterial roadway with the center (3rd) lane as a two way, left turn only lane. The roadway was straight and level at the crash location, but at 120 meters north of Point of Impact the roadway had a positive 3% grade for southbound traffic. The crash occurred in a business district with uncontrolled access and private drives on both sides of the road. The posted speed limit was 35 MPH / 56 KPH. Conditions were dark and lit on a weekend late in the evening. V1 was a 1993 Mazda 929 pulling out of a restaurant parking lot attempting to stop. It intended to stop at the intersection then proceed with a left turn when the brakes failed. V1 went into the right southbound lane on the arterial road and struck V2, a 2002 Toyota Highlander, on the right side with its (V1's) front. Vehicle #2 pulled into the parking lot; V1 came to rest within a few meters of impact. V1 was towed from the scene; V2 was driven from the scene (after researcher changed the right rear tire). V1 was driven by a 33-year old belted male, whose airbags did not deploy and was uninjured in the crash. The driver was in good health and on his way home. The driver was cited for the following violations: No drivers' license, no insurance, improper equipment. The Critical Precrash Event for V1 was coded as this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was coded as a vehicle related factor: brakes failed. An associated factor was possible inattention as the driver was eating at the time of the crash; an emotional factor was also coded but was not thought to have contributed to the crash (the driver driver's wife was diagnosed as terminally ill). The driver believes that his brake lines may have been damaged when his vehicle was towed earlier that week. V2 was driven by a 48-year old belted female whose airbags did not deploy. The driver was in good health and on a hormone regime. She was also wearing her prescription lenses that corrected a myopic (near-sighted) condition. She, nor either of her two passengers, was injured in the crash. The critical pre-crash event for V2 was other vehicle encroachment from driveway turning into opposite direction. The critical reason for the critical event was not coded to this vehicle. The driver was conversing with her passengers just prior to the crash, which was the only associated factor attributed to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion, Vehicle present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Brakes failed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

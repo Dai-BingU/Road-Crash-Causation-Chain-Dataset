@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during morning daylight hours on a curved, two-lane, t-intersection with no controls. The road runs north and south at the location and has one lane in each direction. The speed limit is 40 kph (25 mph) road surface level asphalt and there were no adverse weather conditions at the time. Vehicle #1 (V1), a red 1998 Dodge Stratus 4-door, driven by a 21 year-old female was traveling southbound in lane one. Vehicle #2 (V 2) a 1996 Ford Bronco driven by a 43 year-old female was traveling northbound in lane one. V 1 initiated a left turn just before the intersection the front of V1 collided with left side of Vi. The impact rotated V1 somewhat counterclockwise and pushed it back and V1 came to rest in the northbound lane facing generally southeast. V1 was towed due to damage. The V1 driver stated that she was on her way to get a key to a new apartment that she was planning to move into. She added that she was wearing sunglasses and had the V1 sun visor down, but did not see V2 because the sun glare was blinding her as she began to turn left. V 2 noticed V1 turning into her path and steered to the right but was not able to avoid the collision with V1. After the impact, V2 came to rest a few meters to the north of the intersection in the original lane of travel against the curb facing generally north. V2 was towed due to damage. The Pre-event Movement for V 1 was coded as "Negotiating a curve." The Critical Event was coded as "This Vehicle Traveling - turning left at intersection" The Critical Reason coded as "Environment Related Factor - Glare." The Pre-event Movement was coded as "Negotiating a curve." The Critical Event was coded as "Other Vehicle Encroachment - from opposite direction - over left lane line. The Critical Reason was not coded to this vehicle. Associative factors are: 1) The V1 driver was excited about moving from her parent's home into her own apartment; 2) Possible fatigue from packing and loading household goods the previous evening; 3) possible side effects from Synthroid; 4) the V1 driver was drinking a cup of coffee while driving.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Glare
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

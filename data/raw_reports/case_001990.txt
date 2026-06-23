@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash took place in the early afternoon of a weekday on a three lane undivided roadway. The roadway had two northbound lanes and a single southbound lane. Conditions were daylight and dry and the road was bitimous with a posted speed limit of 45mph (72kmph). V2, a 1998 Oldsmobile Intrigue, was traveling south negotiating a curve left and approaching a parking lot entrance on its left hand side. V1, a 1996 Oldsmobile Ciera, was also traveling south on this same route. V2 approached the driveway entrance, stopped and was awaiting a break in oncoming traffic to initiate a left turn into the driveway. V1's front plane came into contact with the back plane of V2. V1 was driven by a 75 year-old female who stated that she did not travel this roadway often, but was en route to the grocery store. She also stated that she never saw V2 until contact was made. This driver was transported with possible injuries and the vehicle was towed due to damage. The Critical Pre crash Event was coded Other Motor Vehicle in lane (stopped) and the Critical Reason was coded Inadequate Surveillance. V2 was driven by a 24 year-old female who stated that she was on her lunch break from work and en route to pick up a carry out order. She stated that she had come to a complete stop and was waiting to turn when V1 struck her from behind. This driver was not injured and this vehicle was not towed due to damage. The Critical Pre crash Event for this vehicle was coded Other Motor Vehicle in lane (same direction, higher speed).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Physical, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

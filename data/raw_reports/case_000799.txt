@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred a few hours before mid-night during dark hours at a tri-color traffic controlled, bituminous, roadway intersection during clear nighttime conditions. The north leg of the intersection is a driveway that goes into a parking lot. The south leg of the intersection runs on an angle in a southeast/northwest direction. It is comprised of five lanes; two lanes going southeast and two lanes going northwest that are not physically divided. The first lane becomes divided into two lanes by a concrete median island that separates a right turn lane and a lane that is marked to go straight into the parking lot or left onto the intersecting roadway. The second lane is intended only for left turns onto the roadway. The east leg of the intersecting path is comprised of five lanes; two lanes going eastbound, and three lanes going westbound with a right turn lane going into the parking lot. The west leg of the intersection is comprised of six lanes, two of these lanes going westbound. Eastbound there are four lanes; the right lane is intended for right turns only onto the intersecting road there is another median island that separates this lane from the second and third lanes that go straight, and the fourth lane is a left turn lane. The speed limit is 48 kmph (30 mph). Vehicle one (V1) a Ford Thunderbird coupe (year unknown) with one occupant, was traveling eastbound in lane two. Vehicle two (V2) a 2004 Toyota RAV-4 with two occupants, was traveling eastbound in lane three when its right side was struck by the left side of V1 as V1 left its original travel lane. After this first event V1, traveling at a high rate of speed, then crashed its front into a light pole that was on the eastern most median island of the intersection. V1 then spun around in a clockwise direction and came of a final rest facing northeast. The driver of V1 was transported to a hospital due to injuries sustained in the crash, and V1 was towed from the scene due to its damage. V2 was driven from the scene under own power. The critical pre-crash event for V1 was coded: this vehicle traveling over the lane line on left side of travel lane. The critical reason was coded: aggressive driving behavior- speeding, frequent lane changes and failure to control vehicle. There was no interview obtained for this driver, so it is unknown why this vehicle was being driven in this manner when it encroached into V2's travel lane. The critical pre-crash event for V 2 was coded: other vehicle encroachment from adjacent lane (same direction) over right lane line. The critical reason not coded to this vehicle. .
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Performance, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a north/south two-lane roadway divided by a double yellow line. This was a straight, level, bituminous roadway with a posted speed of 48 kmph (30 mph). It was early afternoon on a weekday and the road was dry and the sky clear. Traffic flow was light on this well traveled roadway. V1 was a 2007 Ford Ranger pick-up truck driven by a 28-year old male, the sole occupant. The driver, a technician with a national cable installation company, had just come from a service call and was traveling north in lane one to his next service call. V1 was following V2, a 2000 Mercury Sable. Driver 1's supervisor stated that the driver had his window open while driving and that the directions to his next location blew off the seat and onto the floor. The driver was bent down retrieving the directions when he struck the rear of V2 with the front of V1. Driver 1's office manager gave a different version of the crash. He stated that the driver did not take his eyes off the road, but that V2 stopped suddenly, appearing to attempt a U-turn across double yellow lines and the driver of V1 had no time to react. The Critical Pre-Crash Event for V1 was "Other motor vehicle stopped in lane." The Critical Reason for the Critical Pre-Crash Event was "Internal Distraction." Associated factors coded to the driver of V1 include work stress in that he was working 60 hours a week on a rotating shift. The vehicle's small cab area was packed with equipment and paperwork, making it difficult to retrieve an object. Although different versions of the crash were told, it was believed that the driver was looking inside his vehicle at the time of the crash. V2 was a 2001 Mercury Sable driven by a 41-year old female, the sole occupant. Driver 2 was visibly upset and complained of back pain, although she refused treatment. She stated that she had come from a personal meeting and had traveled about seven miles when she decided that she was traveling in the wrong direction and decided to turn left from the north lane one into a parking lot to review her directions. The driver stated that she had tracked V1 from her rearview mirror, seeing that he was more than two car lengths back, assumed that he would have time to react to her actions since she indicated the left turn using her left turn indicator far in advance to her decelerating to a stop. The Critical Pre-Crash Event for V2 was "Other motor vehicle in lane, traveling in same direction at higher speed." The Critical Reason for the Critical Pre-Crash Event was not coded to this vehicle. Associated factors for the driver of V2 include unfamiliarity with the road and general area. She stated that she only traveled this road every six months. She was also aware that V1 was behind her and decided to stop before making a left turn, although she could have turned into a parking lot on the right. The driver of V2 assumed that V1 would respond to her sudden actions by stopping quickly.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion present problem 
+Vehicle 2:  Decision, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

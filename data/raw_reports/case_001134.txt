@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of a weekday in the intersection of an east/west four-lane urban arterial roadway and a two-lane side street. Traffic approaching the intersection from the east had two through lanes; a left turn lane, and positive 5% grade. Traffic counts indicate east of the intersection the four-lane road carried 11,391 vehicles per day. On the arterial coming from the west it was level with one thru lane, a left turn lane, and right turn lane to the intersecting side street. The intersection was controlled by traffic signals. The posted speed limit was 56kmph (35mph). Conditions were dark with streetlights and wet with moderate to heavy rain falling. V1, a 1997 Ford Explorer, was stopped facing west at the intersection waiting to turn left. V2, a 2003 Nissan Sentra, was eastbound approaching the intersection in the lane one. In the eastbound lanes, lane one becomes a right turn only lane as it approaches the intersection so V2 switched to the lane two, which continues straight through the intersection. As V1 began its turn its right side was struck by V2 as it crossed the intersection. V1 came to rest facing south on the side street. V2 rotated 50 degrees clockwise and came to rest in the intersection near impact. Both vehicles were towed due to damage. V1 was driven by a belted 36 year-old female who claimed to be in good health despite suffering from Restless Leg Syndrome, which she treated with medication. The driver was wearing her prescription lenses that corrected a myopic (near-sighted) condition. She was not injured in the crash. The driver stated that the other vehicle (V2) was in the right turn lane and must have switched to the thru lane after she initiated the left turn. She stated she had the solid green light with no turn arrow. Police charged her with failure to yield. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was a driver related factor, a false assumption of others actions. Associated factors included rain and wet roads as well as the fact that the driver rarely drives this road. V2 was operated by a belted 59 year-old female who claimed to be in good health despite suffering from sleep apnea and narcolepsy, which go untreated. She was transported to an area hospital with minor injuries. She stated she saw V1, but could not determine if it was going straight or turning. Once she realized it was turning it was too late and they collided. The Critical Precrash Event for V2 was coded other vehicle encroaching from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors included rain and wet roads. The fact that the driver suffers from sleep apnea and narcolepsy were coded as associated factors as they are currently not being treated although they are not believed to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Drugs, Roadway, Weather/Environment present problem 
+Vehicle 2:  Driver Physical, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This four-vehicle crash occurred in lane two of a 5-lane undivided roadway on a weekday night. The roadway runs north and south, with two lanes for each direction and a center left turn lane, the posted limit is 72 kmph (45 mph). The conditions were clear, dry, dark and traffic was heavy. V1, V2, V3, and V4 were all traveling north when V2, V3, and V4 stopped for traffic. V1 failed to stop and the front of V1 struck the back of V2. Subsequently, V2 rotated counter clockwise and V2's right side struck the back of V3, then V3's front struck the back of V4. There were no injuries in the crash and V1 was towed due to damage. V1, a 2003 Acura MDX, was driven by a 17-year-old male that could not be reached for an interview. The Critical Precrash Event for V1 was coded: "other vehicle in lane stopped" and the Critical Reason for the event was coded: "following too closely to respond to unexpected actions". V2, a 2005 Toyota Highlander, was driven by a 47-year-old male that was struck from behind by V1 when he stopped. He was driving home this evening after working 50 hours this week. He said the traffic is normally heavy at that time and location. He was stopped for 1-2 seconds before he heard "tires squealing" and felt the collision. The impact pushed his vehicle forward and into the car (V3) ahead of him. The Critical Precrash Event for V2 was coded: "other vehicle in lane traveling in same direction with higher speed" and the Critical Reason for the event was not coded to this driver. V3, a 1994 Ford Escort, was driven by a 48-year-old male and full time Electrical Engineer that works 45-50 hours per week. He sleeps six hours per night and reports to be in good shape, other than an acid reflex condition that he takes Tricor to relieve. He was driving home this evening when he was struck from behind by V2. He is not certain if he was completely stopped at the time of the impact but he was certainly traveling less than 5 mph. He was not injured in the crash but his vehicle was towed from the scene because it would not start after the collision. The Critical Precrash Event and Critical Reason of the critical event was not coded to this vehicle. V4, a 2002 Toyota Tacoma, was driven by a 62-year-old male that was struck from behind after stopping in its lane.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Traffic present problem 
+Vehicle 2:  Drugs, Traffic present problem 
+Vehicle 3:  Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

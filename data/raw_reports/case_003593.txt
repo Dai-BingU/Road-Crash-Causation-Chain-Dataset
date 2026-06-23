@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during daylight hours on a four-way traffic signal controlled intersection. The roadways run north/south and east/west. The northbound section, south of the intersection is comprised of three lanes. These included a left-turn lane, a straight-only lane and a right-turn lane. The southbound portion, south of the intersection, is comprised of one lane and is physically separated from the northbound section by a wide garden median. North of the intersection, the northbound roadway is comprised of one lane that descends down a steep slope to a lower roadway. North of the intersection, the southbound roadway is initially comprised of one lane and turns into two lanes just before the intersection. The second lane is a left-turn only lane. This roadway inclines sharply as it approaches the intersection. The east/west roadways are comprised of two through lanes, a bicycle lane, a bus-only lane and left-turn lanes in each direction. Road surface wet asphalt. The speed limit on the roadway is 48 kmph (30 mph). At the time of the crash, it was raining and the roadways were wet. Vehicle one (V1), a 1996 Mercury Sable sedan driven by a 54 year-old female, was traveling northbound in the second (straight-only) lane. Vehicle two (V2), a 2003 Ford Focus sedan driven by a 20 year-old male with one passenger, was traveling southbound in the left-turn lane. In the third (left-turn) lane next to V1, a number of large red vans were turning (west) left. Both V1 and V2 had green lights, but V1 had the right of way because it was going straight through the intersection. The driver of V2 stated that as he entered the intersection, the red vans blocked his view of opposite direction traffic, but he proceeded to turn left. He did not see V1 until it was too late. The driver of V1 said that as she entered the intersection, V2 suddenly turned in front of her and she slammed on the brakes skidding into the right side with her front end. After the impact, both vehicles came to rest near the east side of the intersection, generally facing northeast. V2 was towed from the scene, no reported injuries. The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason was not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V2 as a driver related factor: turned with obstructed view.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Weather/Environment present problem 
+Vehicle 2:  Decision, Distraction, Roadway, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Turned with obstructed view

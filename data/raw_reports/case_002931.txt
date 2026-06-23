@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound left lane (3) of an interstate that ran east west. The interstate had one off ramp lane (1), and two through lanes (2,and 3). There were paved shoulders and the eastbound lanes were separated from westbound by a barrier wall. The road was straight and level with a speed limit of 89kph/55mph. Conditions at the time of the crash were dusk on a weekday evening with heavy rush hour traffic complicated by a backup for construction ½ mile east. V1 was a 2000 Nissan Sentra traveling east in lane 3 when it hit the back of V2, a 1998 Mercury Sable with its (V1's) front, pushing it forward to rear-end V3, a 1997 Plymouth Breeze. All three vehicles were in lane three at the time of impacts with V2 and V3 stopped at the time of the 1st harmful event. All 3 vehicles came to rest within a few meters of impact. V1 was pushed to the right shoulder by a DOT help truck for safety reasons and V2 and V3 were driven to the right shoulder. V1 was towed from the scene and V2 and V3 were driven away. V1 was driven by a twenty two year old belted female who was listed as sustaining possible injuries but only rode to the hospital with her child and was not transported for treatment. Her minor occupant (age 3) was transported with minor/possible injuries. She was on her way to a friends' house after work. The Critical Precrash Event for V1 was "other vehicle in lane same direction, other vehicle stopped". The Critical Reason was an "internal distraction". D1 looked down at her in car clock and was at impact on recognition of a problem. The driver did refuse to list medications/drugs for the interview. This driver was also coded as having failed to look far enough ahead. V2 was driven by a nineteen-year-old belted female who was uninjured in the crash as was her occupant in the right front seat. They were on their way to go on vacation at the time of the crash. The Critical Precrash Event for V2 was "other vehicle in lane in same direction, other vehicle traveling at a higher steady speed". The Critical Reason was not coded to this vehicle. No contributing factors were coded to this vehicle. V3 was driven by a twenty three year old belted female who was uninjured in the crash. She was on her way to a resort to also do some vacationing at the time of the crash. V3 was not involved in the 1st harmful event. The Critical Reason was not coded to this vehicle. No contributing actions were coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Surveillance, Traffic present problem 
+Vehicle 2:  Driver Inexperience, Drugs, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

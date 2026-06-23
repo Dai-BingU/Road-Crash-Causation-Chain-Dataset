@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the southbound lanes of a high-occupancy, high-volume interstate highway. The southbound direction of the highway consisted of five lanes (with a sixth lane designated as an HOV lane) flanked by paved shoulders and divided from northbound traffic by a concrete barrier wall. The bituminous highway was straight and level with a posted speed limit of 105kmph (65 mph). The road was slightly damp, as it had rained earlier that morning. Traffic flow was heavy as it was morning rush hour traffic. Vehicle 1 (V1), a 2006 Honda Accord, was southbound in lane five keeping up with the morning rush-hour traffic. Vehicle 2 (V2), a 2005 Nissan Murano was southbound in lane five directly ahead of V1. V1 failed to stop as traffic ahead came to a stop. The front of V1 struck the rear of V2. V1 sustained moderate front-end damage while V2 suffered very minor back end damage as well as the left tail pipe was pushed under the vehicle. After the impact both Vehicles pulled off the roadway onto the left side paved emergency shoulder. V1 was eventually towed from the scene while V2 was driven away. The driver of V1, a 27-year-old woman, who was on her morning commute to work. She stated in the interview that she was keeping up with the traffic and the traffic was starting to slow down. She hit her brakes to stop, but her brakes just locked up and her vehicle skidded into the back of V2. She stated in the interview that she was keeping up with the morning traffic and they all started to slow down. The driver claimed that the roads were a little damp as it was raining earlier that morning and suggested that caused her vehicle to skid into the back of V2 (no physical evidence was found to support this theory). The driver was uninjured in the crash. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason was a recognition error, driver inattention. In addition to the recognition error, the wet roads were coded as an associated factor. She was cited for the crash for failure to use due care and no proof of insurance. The driver of V2, a 30-year-old woman, had just dropped her boyfriend off at his office and was on her way home. She was keeping up with the rush hour traffic, which was stop and go. She stated that the traffic in front of her came to a stop and as she came to a stop she was hit from behind. The driver was injured in the crash. The Critical Precrash Event for V2 was coded other motor vehicle in lane, other vehicle traveling at a higher speed. The Critical Reason was not coded to this vehicle. The only associated factor coded to this vehicle was the wet roads.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Roadway, Traffic present problem 
+Vehicle 2:  Decision, Roadway, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

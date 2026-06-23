@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a two-lane, one way highway. This was a leveled roadway with a curve that went to the left slightly. It has a posted speed limit of 89 kmph (55 mph). It was the mid afternoon and the weather was clear with no adverse conditions. Traffic flow was average for this certain area. V1, a 2006 Jeep Wrangler with two doors and 4 occupants, was traveling northbound in lane two. V2 which was a 1997 Nissan Maxima 4-door had one occupant, was stopped for a traffic control device in the same lane in front of V1. Vehicle 1 had sped up to avoid an erratic driver that was in lane one, from cutting him off. Vehicle 1 had not paid attention to the traffic that was in front of him and struck Vehicle 2 in the rear. The impact pushed Vehicle 2 off the road and into the bushes on the left hand side of the road. V1, the Jeep Wrangler was driven by a 44 year old male who reported no injuries. He stated that there was an SUV that had cut him off previously down the highway and that it kept jumping in and out of his lane. He said the SUV caught up with him again and tried to cut him off a second time. He said that he sped up so the SUV wouldn't cut him off again. V1 didnt realize that traffic was stopped and he struck Vehicle 2 in the rear. The Critical Pre-crash Event for V1 is that there was "other motor vehicle in lane other vehicle stopped". The Critical Reason for the Critical Pre-crash Event was a driver related error "aggressive driving behavior". Driver did not want to be cut off again by the SUV so he sped up and failed to pay attention to the traffic. V2, the 1997 Nissan Maxima, was driven by a 24 year old male who was transported to the hospital for possible injuries. There has been no interview for this driver. He has stated that he doesn't want to give an interview, nor does he want anyone talking to his lawyer. The Critical Pre-crash Event for V2 was "other motor vehicle in lane, traveling in the same direction with a higher speed". The Critical Reason for Critical Pre-crash Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in the eastbound lane of a four-lane highway divided by a concrete barrier. This was a straight, level, asphalt roadway with a posted speed limit of 105 kmph (65 mph). It was early afternoon on a weekday and there was a heavy rainstorm. The traffic level was heavy but had a healthy flow to it. The right lane (lane one) did not have a shoulder because of road construction. V1, a 1998 Kenworth tractor-trailer loaded with a bulldozer, was traveling east in lane one. V2, a 1999 Lexus RX, was traveling ahead of V1. V3, a 2000 Pontiac Grand Am was stopped in the same lane, ahead of both V1 and V2. V1 struck the back of V2 as it tried to avoid it. V2 struck a concrete barrier and rolled onto the back of V3. The driver of V2 and all of its occupants were transported from the scene. V1 was driven a 35-year-old male that was operating a tractor-trailer when he was involved in this crash. He picked up a bulldozer earlier this morning and was returning to his company's office when another truck ahead of him suddenly changed lanes. Once that truck switched lanes, this driver realized there was a vehicle stopped in his lane so he immediately slammed on his brakes and tried to switch lanes. He was able to slow down a little bit but there was not enough space to make a complete lane change to avoid colliding with the Lexus in his lane. He said the conditions were wet and dark because of a rainstorm and that the disabled vehicle was unavoidable. The Critical Precrash Event for V1 was coded: "other motor vehicle in lane stopped" and the Critical Reason for the Critical Event was coded: "driver inattention" V2's driver could not be reached for an interview. The Critical Precrash Event for V2 was coded: "other motor vehicle in lane traveling in same direction with higher speed" and the Critical Reason for the Critical Event were not coded to this vehicle. V3 was driven by a 22-year-old male that works part-time as a telemarketer. He was headed to the airport this afternoon when he was involved in this crash. As he was driving east in lane one on this highway, his right rear tire blew out and his father told him to stop because he thought he saw a fire. Once they stopped in the lane, his father got out of the car and was going to change the tire when a tractor-trailer crashed into the back of an SUV and the SUV rolled into this driver's car. The driver was not injured in the crash but his father said the SUV struck him and he was transported from the scene. V3 was not involved in the first harmful event and the Critical Reason for the Critical Event was not coded to this vehicle. A tire/wheel deficiency was coded to this driver. Associated factors also coded to this crash include construction work zone, wet roads, and narrow shoulder.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Roadway, Speed/Distance, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Roadway, Traffic, Weather/Environment present problem 
+Vehicle 3:  Roadway, Traffic, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Disabled or parked in travel lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

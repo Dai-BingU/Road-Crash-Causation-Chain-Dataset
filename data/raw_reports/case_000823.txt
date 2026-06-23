@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the pre-dawn hours of the morning on a 3-lane undivided roadway near a driveway/gas station entrance. The roadway ran east and west with a center turn-lane for each direction. The road was flat and the posted speed limit was 72 kmph (45 mph). The conditions were clear, dry, and dark without lighting. V1, a 1992 Nissan Stanza with two occupants, was traveling west in lane one approaching a gas station entrance/driveway. V2, a 2001 Chevrolet Silverado with one occupant, was traveling east in lane two approaching the same entrance/driveway. V1 entered the left-turn lane and attempted a left turn across the path of V2. The front of V2 struck the right side V1 and the two vehicles subsequently side-slapped each other, coming to final rest off the right side of the road. Both vehicles had to be towed from scene but only the right front passenger in V1 suffered injuries. V1 was driven by a 20-year old male that moved here from Mexico five years ago and does not have a driver license nor did he ever take any driver education. He worked for a landscaping company about 45 hours per week. The driver reported that he woke up about an hour before and followed his usual routine. He left his home approximately 10 minutes before the crash occurred. His place of work was approximately 10-15 miles away from his home. He was driving on the same road he traveled everyday while talking to his passenger when they decided to stop for drinks at a gas station they frequented often. He entered a left turn lane and continued to turn left into the parking lot without ever considering a vehicle might be in the oncoming lane. He says he never saw the truck that struck his vehicle until the crash happened. This driver did not suffer any injuries in the crash but his right front passenger was transported for unknown injuries. The Critical Pre-crash Event for V1 was coded as this vehicle turning left at intersection. The Critical Reason for the Critical Pre-crash event was coded as inadequate surveillance (failed to look). Associated factors coded to this driver include conversation with the passenger and focusing on an exterior location (the gas station). V2 was driven by a 44-year old male who was also on his way to work. He left his home approximately 25 minutes before the crash and began the drive to work, which is 22 miles from his home. As he drove east on this roadway, he passed through an intersection with a green signal and continued to drive straight. He stated that once he passed the intersection and neared the gas station driveway, V1 turned left in front of him. This driver blew his horn and applied his brakes but the other driver never reacted and the two vehicles collided in his lane. This driver was not injured in the crash and refused EMS treatment. The Critical Pre-crash Event for V2 was coded as other vehicle encroachment from opposite direction over left lane line. The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. The only associated factor coded to this driver was the use of an over-the-counter medication used to treat acid reflux disease.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

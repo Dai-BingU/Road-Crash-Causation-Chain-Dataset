@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The single car crash occurred in the early afternoon on a weekday in the 2 curving eastbound lanes of a four lane, level, bituminous, limited access, interstate highway with a median with positive barrier. The posted speed limit was 113kmph(70mph), the roadway was wet, it was cloudy and daylight. Traffic flow was moderate. V1, a 2002 Ford Escort 2dr driven by a 38 year old female (the sole occupant), was traveling eastbound in lane one at approximately 105kmph (65mph) negotiating a curve to the right. The road was wet and it was raining lightly. The driver stated that the rear of v1 started to slide to the left. She steered left, right, then left again and lost control. V1 rotated 180 degrees counterclockwise, slid across lane 2 and struck the inside guardrail with it's back right side. V1 scraped along the guardrail while traveling backwards and came to rest facing west on the inside shoulder of the eastbound lanes. The driver stated that she was on her was to work, was not late or in a hurry and drove the roadway daily. She was not injured. V1 was towed due to damage. A complete driver interview and vehicle inspection was obtained for v1. The Critical Pre-crash Event for v1 was “ this vehicle traveling off the edge of the road on the left side”. The Critical Reason for the Critical Event was a driver performance error- poor directional control (e.g., failing to control vehicle with skill ordinarily expected). A vehicle condition related factor that may have contributed to the crash was found to be the condition of the rear tires. They were extremely worn with the wear bars showing that the tires had only minimal tread remaining. Another factor may have been the wet condition of the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Roadway, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

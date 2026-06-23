@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a straight one-way asphalt street with an uphill grade of 3% and a posted speed limit was 32 Kmph (20 MPH.) Each side of the street was lined with parked cars. It was late evening on a weeknight and there were no adverse weather conditions. The street was not lighted. Vehicle 1, a 1989 Jeep Wagoneer, was traveling East with the driver and one passenger inside. Vehicle 1 drifted to the left and the left front of the vehicle contacted an unoccupied 2003 Chevrolet Tahoe (Vehicle 2) that was legally parked at the left road edge. The Jeep pushed the Tahoe 1.7m east before both vehicles came to rest. Vehicle 1 was driven by a 25-year-old male. The driver and front right passenger were transported to a medical facility for treatment. The driver stated that he was looking at his wife as he was speaking to her. He stated that he was distracted and hit the other vehicle. The driver indicated that, he had recently had his brakes worked on and they weren't quite right. While he was not comfortable with the condition of his vehicle's brakes, he was uncertain if this contributed to the crash. The Critical Precrash Event for Vehicle 1 occurred when the vehicle traveled left, over the left edge of the travel lane and into the parking lane. The Critical Reason for the Precrash Event was an internal distraction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

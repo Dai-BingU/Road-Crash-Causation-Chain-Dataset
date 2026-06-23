@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a high occupancy, high volume interstate. There were four southbound lanes with paved emergency shoulders on both sides of the roadway. The roadway was straight and level, and the posted speed limit was 105 kmph (65 mph). The traffic flow was normal. Conditions were clear on a weekend morning. Vehicle #1 was a 2005 Ford Crown Victoria that was driven by a 65-year old male. He was traveling southbound in lane 3 going approximately 72 KPH. The driver was attempting a right lane change into lane 2. Vehicle #2, a 2006 Hino Flatbed tow truck driven by a 27-year old male, was traveling in lane 2. As Vehicle #1 changed lanes to the right, Vehicle #2 struck the right side back of Vehicle #1. When the truck made impact with Vehicle #1, the driver of Vehicle #2 hit the brakes and steered to the left, cutting across lanes 3 and 4. As the Hino truck cut across lane 3, Vehicle #3, a 1990 Dodge Dynasty driven by a 32-year old female, impacted the left side of Vehicle # 2, which was the truck's gas compartment. After this impact, another vehicle, a 1993 Toyota Corolla that was also traveling in lane three, impacted the cargo that the Hino truck was transporting. The Critical Pre-crash Event for Vehicle #1 was this vehicle traveling over the lane line on the right side of the travel lane. The Critical Reason was a recognition error - inadequate surveillance, as the driver stated in the interview he did not see the tow truck as he attempted to make the lane change. He was not injured but his vehicle was towed due to damages. Associated factors coded to this driver include unfamiliarity with the roadway and the vehicle (a rental). The Critical Pre-crash Event for Vehicle #2 was other vehicle encroachment from adjacent lane over the left lane line. The Critical Reason was not coded for this vehicle, as the driver was not thought to have contributed to the crash. There were no associated factors coded to the driver. The tow truck was towed due to damages but the driver was not injured. No Critical Pre-crash Event and no Critical Reason were coded for Vehicle #3, as it was not involved in the first harmful event (the impact between the Hino and the Ford). No associated factors were coded to the driver. The vehicle was towed due to damages but the driver was not injured.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Surveillance present problem 
+Vehicle 3:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in a signalized T-intersection. The north-south roadway had two lanes in each direction and the east-west roadway had one lane in each direction. The roadway was straight and level, and it was clear with no adverse conditions. It was dark but lighted, and the speed limit was 48kmph (30mph). Vehicle # 1 was a 2003 Toyota Corolla that was traveling northbound. Vehicle # 2 was a 1997 Ford Escort Wagon that was traveling southbound and attempting to make a left turn. At the intersection, the front of V1 impacted the front of V2. A 54 year-old female who did not sustain any injuries drove the Toyota Corolla. An 86-year-old female in the right-front seating position also did not sustain any injuries. The driver and passenger both declined to participate in the study. The Toyota was towed due to damage. The Critical Pre-crash Event for Vehicle # 1 was coded as: Other vehicle encroaching into lane, from opposite direction, over the left lane line. The Critical Reason for the Critical Pre-crash Event was not coded to the driver. A 55-year old male who did not sustain any injuries drove the Ford Escort. The driver stated that he was at the intersection waiting to make a left turn after the traffic light turned red, and the driver of V2 ran the red light prior to impact. The Ford was towed due to damage. The Critical Pre-crash Event for Vehicle # 2 was coded as: This vehicle traveling, turning left at intersection. The Critical Reason for the Critical Pre-crash Event was coded as a Driver related factor, false assumptions of other's actions. An associated factors coded to the driver was a decision factor, a false assumption that the driver of V2 would stop for the traffic control device (Red light).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

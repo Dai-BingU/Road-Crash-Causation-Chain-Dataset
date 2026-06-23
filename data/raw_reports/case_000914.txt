@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-car rear-end type crash occurred at a traffic signal-controlled intersection, on a weekday during early afternoon hours. The north/south roadway is divided and straight. The southbound lanes have an uphill grade, consist of three through lanes and a left turn lane. The speed limit is 80 kmph (50 mph) for the north-south direction. It was rush hour with medium traffic. The weather was clear and the roads dry. Vehicle one (V1), a 1998 Plymouth Neon, was traveling south in the first lane of traffic. Vehicle two (V2), a 1993 Ford Taurus, was traveling ahead of V1. Both vehicles were approaching a large intersection. An ambulance with siren and lights activated was westbound on the intersecting roadway. Although the traffic signal was green for southbound traffic, the driver of V2 decelerated as she heard and saw the westbound ambulance approach and pass thru the intersection. As V2 decelerated, the driver of V1 applied the brakes (skidding 42 meters {138 feet}) but the front of V1 struck the rear of V2. Both vehicles came to rest just south of the area of impact. V1 was towed due to damage. A 20-year old female drove V1. She was heading home from work. She is in good health and does not take any medications. She stated she was traveling at around 48 kmph (30 mph) when V2 in front of her suddenly hit the brakes for no apparent reason. She estimated the distance between her vehicle and V2 at two car lengths. The driver was not aware of the ambulance approaching and crossing the intersection. The critical pre-crash event for V1 was coded "other motor vehicle in lane - traveling in same direction while decelerating." The critical reason was coded "following too closely to respond to unexpected action." A 59-year old female drove V2. She was heading from work to her home. She takes unspecified medication for high blood pressure but is otherwise in good health. She was not in a hurry. She stated he saw the ambulance coming from her left (east) with lights and sirens activated. The ambulance was already in the intersection and about to cross her intended path. She said the light was green and she slowed down but did not come to a complete stop before the crash. The critical pre crash event for V2 was coded "this vehicle traveling - this vehicle decelerating". No critical reason for the critical event was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance, Traffic present problem 
+Vehicle 2:  Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：This Vehicle Traveling- This vehicle decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

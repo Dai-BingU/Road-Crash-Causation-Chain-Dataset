@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the late evening hours in the middle of a four-way intersection, with three-way traffic signals. The north/south roadway upon which vehicle one (V1) was traveling consisted of two one-way lanes. The east/west roadway upon which vehicle two (V2) was traveling consisted of two lanes, one lane in each direction. The roadway surfaces were bituminous, with level grades for V1 and V2. There was an adverse atmospheric condition at the time of the crash, a heavy rainstorm, and the roadway was wet. The posted speed limit for V1 was 40 kmph (25 mph), and the posted speed limit for V2 was 56 kmph (35 mph). V1, a 2005 Dodge Caravan, was traveling east approaching the intersection. V1 entered the intersection and impacted the left tire well area of V2, a 2000 Toyota Camry. The impact caused V1 to rotate counterclockwise, coming to an uncontrolled final rest facing north, completely blocking the westbound lane and partially blocking the eastbound lane. The impact caused V2 to also rotate counterclockwise, mounting the northeast curb, striking and knocking down the traffic control signal with its back end. V2 came to an uncontrolled final rest position in the northbound curb lane facing in a southeast direction. The driver of V1, a 40-year-old female, sustained unknown injuries, and was transported by ambulance to the local hospital for treatment. There were no other occupants present in the vehicle at the time of this crash. No interview could be obtained from the driver; therefore it was uncertain if any fatigue or health-related issues contributed to this crash. Based on the crash scene evidence, vehicle damage, manner of rotations, final rest positions, and the partial interview of driver two, the Critical Pre-Crash Event was coded as this vehicle crossing over (passing through) intersection. The Critical Reason for the Critical Pre-Crash Event was coded as an illegal maneuver. Associated factors coded to the driver of V1 include the weather (rain) and the wet roadway. The driver of V2, a 22-year-old male, sustained no injuries. No other occupants were present in the vehicle when this crash occurred. This driver stated to the Investigating Officer and the researcher on-scene that he had the steady green light at the intersection and that the van (V1) ran the red light. The Critical Pre-Crash Event assigned to this vehicle was: other vehicle encroachment-from crossing street, across path. The Critical Reason for the Critical Pre-Crash was not coded to this vehicle. Associated factors coded to the driver of V2 include the weather (rain) and the wet roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

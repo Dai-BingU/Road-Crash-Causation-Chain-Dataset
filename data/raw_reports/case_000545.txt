@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in lane 6 of a 2-way roadway with 3-lanes of travel going west and 2-lanes of travel going east and a left turn lane in the center. The posted speed was 72 kmph (45mph) the roadway was dry asphalt and level. The crash occurred during the mid day rush hour. The driver of Vehicle #1 was stopped in the left turn lane-facing west waiting to turn into a gas station. A none-contact vehicle traveling in the opposite direction came to a stop and waved the driver of V1 to go ahead and make his left turn. After a short glance the driver of V1 started across the eastbound lanes of travel then being contacted by V2 who could not come to a stop in time. V2 then contacted V1 on the right side of his vehicle rotating V1 counter clockwise and coming to final rest with the rear of the vehicle on the curb. V2 rotated clockwise with final rest still in the lane of travel. Vehicle #1 a 2000 Toyota Echo was driven by a 25 year-old male who stated he had come to a stop in the left turn lane and was waiting for traffic to clear. After waiting for several minutes an eastbound vehicle stopped and waved the driver of V1 through. The driver stated that he did not check the traffic like he should have and started his turn. This driver stated he was in good health and was not on any medications at the time of the crash. The Critical Precrash Event for V1 was coded, this vehicle traveling: turning left at intersection. The Critical Reason for the Critical Precrash Event was coded recognition error: inadequate surveillance (e.g., failed to look, looked but did not see). Vehicle #2 a 2002 Chevrolet Venture Van was driven by a 28 year-old male who stated he and his family were traveling home after picking up birthday party supplies. He also stated he had just left the traffic light at the last intersection and did not feel he was to full travel speed for the roadway due to heavy traffic. The traffic was stopped in the second lane and in the turn lane. There was a truck in lane 2 blocking his view, the next think he knew a car crossed in front of his vehicle. He didn't have much space to stop, he does remember locking up his brakes and glancing left and right. There was no space to try for the left lane and the big interstate sign was on his right. After we hit he just went forward and to the right just a little to final rest. This driver stated he is in good health and he stated he works 3rd shift. The Critical Precrash Event for V2 was coded, other vehicle encroachment from opposite direction-over left lane line. There was no Critical Reason coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Inexperience, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

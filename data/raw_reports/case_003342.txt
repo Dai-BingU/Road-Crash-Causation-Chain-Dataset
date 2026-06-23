@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the evening hours of a weekend on the intersection of two two-way roadways. The intersection consisted of a north/south roadway and an east/west roadway. The intersection was controlled by a traffic control signal. Both roadways were wet, straight and level, and had a speed limit of 48kmph (30 mph). V1, a 1999 Lincoln Town Car, was traveling northbound approaching the intersection where it intended to go straight. V2, a 1987 Toyota Camry, was traveling eastbound and approaching the same intersection. As V2 approached the intersection, it failed to stop for the traffic control signal and the front of V2 impacted the right side of V1. Both vehicles came to a final rest in the intersection near the point of impact. V1 was driven by a 24 year-old male who sustained minor injuries and was transported to a hospital. The passengers, a 32 year-old male and a 36 year-old male also sustained minor injuries and were transported to a hospital. The Lincoln was towed due to damage. The Critical Pre-crash Event for V1 was coded as other motor vehicle encroachment, from crossing street, across path. The Critical Reason for the Critical Event was not coded to the driver. The wet roads were coded as a roadway related factor. The other possible associated factors were coded unknown because no interview was obtained. V2 was driven by a 66 year-old male who sustained minor injuries and was transported to a hospital. The Toyota was not towed due to damage. The Critical Pre-crash Event for V2 was coded as this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Event was coded as an unknown reason. An associated factor coded to the driver was a Decision Factor, an illegal maneuver because he disregarded the traffic control signal. Wet roads were coded as a roadway related factor, and the other possible associated factors were coded unknown because no interview was obtained.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway present problem 
+Vehicle 2:  Decision, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Unknown Reason - Unknown reason for critical event

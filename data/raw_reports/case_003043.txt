@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a two-way, seven-lane roadway, divided by a concrete curbed median. There were three eastbound lanes. This was a straight, level, asphalt roadway with a posted speed of 56 kmph (35 mph). Conditions were daylight on a weekday afternoon with dry roads and clear skies. Traffic flow was normal. V1, a 1996 Ford E-Series Van with two occupants, was traveling in lane three. V2, a 2003 Ford Focus with three occupants, was stopped for backed up traffic far ahead of V1 in the same lane. V3, a 2003 Ford Crown Victoria marked police car with one occupant, was stopped directly in front of V2. V1 applied the brakes, leaving tire skids, but failed to stop in time. The front of V1 made contact with the rear of V2. The front of V2 then made contact with the rear of V3. All three vehicles were towed due to damage. V1, the Ford Van, was driven by a 28-year old male, who was not injured. The driver was on his way back to the office from a job site. He stated that he saw the vehicle in front of him, but when he tried to apply the brakes they failed, and his foot went to the floor. When asked about the skid marks he replied that he pumped the brakes many times before the brakes activated. The Critical Precrash Event for V1 was "other motor vehicle in lane, other vehicle stopped". The Critical Reason for the Critical Event was a recognition error, internal distraction. The driver was involved in a conversation with the passenger, and had his head turned to the right, looking at the other occupant. One associated factor was experience related. The driver's boss had given him a different fleet vehicle for the day, one that he had never driven before. The driver also had a relatively low frequency of driving on that particular roadway. V2, the Ford Focus, was driven by a 29-year old female, who was transported with possible injuries. She stated that she had just come from shopping, and was taking her passengers site seeing. She had stopped behind backed up traffic for about five to ten seconds when she looked in her rear view mirror and saw the van coming toward her. As the van got closer, she could see that the driver was not looking forward. She remembered seeing a side profile of the driver's face. He appeared to be looking and talking to his passenger. The Critical Precrash Event for V2 was "other motor vehicle in lane, traveling in same direction with higher speed". The Critical Reason for the Critical Event was not coded to this vehicle. One associated factor was the presence of conversation between the driver of V2 and one of the passengers. V3, the Ford Crown Victoria, was driven by a 55-year old male, who was transported with possible injuries. He could not be contacted for an interview. He was not involved in the first harmful event. The Critical Reason was not coded to this vehicle, and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

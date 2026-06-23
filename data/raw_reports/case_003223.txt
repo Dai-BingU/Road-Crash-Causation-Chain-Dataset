@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary A two vehicle daytime collision occurred during daylight hours on a weekday. The collision occurred on the westbound lanes of a west/east roadway, on approach to a traffic light controlled, four-leg intersection. At the time of the collision, there were no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 1995 Chevrolet S-10 regular cab pickup, was traveling westbound in a 56 kmph (35 mph) zone, in the first lane of a seven lane, two-way, undivided, dry, level, bituminous roadway, approaching the intersection. Vehicle two (V2), a 2000 Mercedes E320 four-door sedan, was stopped ahead of V1 in the second lane. As V1 approached the intersection, the driver applied the brakes but the brakes did not function. To avoid a collision, the driver veered right off the road over the raised curb, impacting the curb with the front wheels. On the concrete sidewalk, the front of V1 contacted a small tree in a sideswipe motion, then continued forward and impacted a support wire for a utility pole. V1 rode up the wire and flipped over onto its left side, then to its top. During the rollover, the left side of V1 struck a fire hydrant, and then the front of V1 contacted the utility pole. As V1 was coming to rest (inverted) the back of V1 contacted the right side of V2, causing minor damage. The 40-year-old male driver of V1 was on his mid-day lunch break from work, and was in a hurry to get lunch and back to work within the allotted time. Approximately a month ago he began court hearings to gain full custody of his children, but he was not thinking about this issue while driving. The driver claimed during the interview that his brakes did not respond upon application. In order to avoid entering the intersection on the red light he made the decision to veer to the right as he attempted to stop. According to the driver, his vehicle received new brake pads and calipers approximately six months prior to the collision. The critical precrash event for V1 was: this vehicle traveling, off the edge of the road to the right side. The critical reason for the event was attributed to V1 as a vehicle related factor: brakes failed. The 57-year-old male driver of V2 was returning to work from lunch. He had driven only a few yards prior to the collision. The driver suffers from high blood pressure and type-two diabetes. He takes Lipitor for the high blood pressure. He also takes a diet pill, named Glucovance, once a night after meals. Doctors permanently implanted lenses in both his eyes to correct his cataracts. The driver was stopped at the light. The critical precrash event for V2 was: other motor vehicle encroachment, from adjacent lane over right lane line. The critical reason for the event is not attributed to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Stress/Emotion, Speed/Distance, Vehicle present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Brakes failed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

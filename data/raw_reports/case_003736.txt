@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a primary arterial road that ran east/west, was two-way/two lane and in a suburban area. The road was slightly curved about 80m east of the crash location with a radius of 662m. The road was straight from that point and west. There was a negative three percent grade if westbound and the road had a paved shoulder on the both sides of the road. The road was intersected from the north by a private drive. Conditions at the time of the crash were dusk, raining and wet with a speed limit of 72kph (45mph) on a weekday evening. Vehicle #1 was a 2002 Chevrolet Blazer that was turning left from a private drive to head east on the arterial road. Vehicle #2, a 1996 Plymouth Voyager was traveling west on the arterial road. The police report states that there was a vehicle in front of V2 that was turning right into the same driveway that V1 was exiting. "The driver of V1 reported that she thought she could pull out in the same amount of time that the non-contact vehicle could turn right." As V1 made her left turn V1's front left hit V2's front left. Both vehicles came to rest near impact still generally facing their intended travel directions although Vehicle #2 was partially straddling the north fog line at final rest. Vehicle #1 was driven from the scene and Vehicle #2 was towed from the scene. Vehicle #1, was driven by a restrained 69 year-old female whose airbags did not deploy and who was uninjured in the crash. The Critical Precrash Event for Vehicle #1 was this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Precrash Event was coded as a misjudgment of gap based on the statement the driver gave police, as an interview with this driver was unable to be obtained. Crossed with obstructed view was also coded as there was a non-contact vehicle that was turning into the driveway from the westbound lane that would have partially obstructed her (driver V1) view of oncoming westbound traffic. A Vehicle as a sightline restriction and rain were also coded. Vehicle #2, was driven by a 52 year-old belted female whose airbags also did not deploy and who was uninjured in the crash as was the 11 year-old right rear passenger. She stated that she was on her way home and V1 pulled out in front of her from her right like she was going to head towards town. She got on the brakes hard and slid into V1. The Critical Precrash Event for Vehicle #2 was other vehicle encroachment from a driveway turning into the opposite direction. The Critical Reason was not coded to this vehicle. The non-contact vehicle was coded as a sightline restriction and rain was also coded for this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

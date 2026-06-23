@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of a weekday in the middle of an undivided, limited access, four-lane roadway. The east/west roadway consisted of two lanes in each direction with an expressway access ramp on the north side of the roadway. The bituminous roadway was straight with a grade greater than 2% and a posted speed limit of 56 kmph (35 mph). The roadway was dark but lighted and wet from a rain that was falling at the time of the crash. The traffic flow was normal. V1, a 2000 Dodge Ram with one occupant, was eastbound in lane two after turning onto the roadway from an intersecting roadway and preparing to make an illegal left hand turn onto the entrance ramp on the north side of the roadway. V2, a 2001 Lexus RX300 with two occupants, was westbound in lane two. As V1 made its illegal left turn it's right side was struck by the front of V2. The vehicles then side slapped together before traveling to their final rest positions. V1 came to rest in the gore just beyond the entrance ramp while V2 drove to a semi-controlled stop on the entrance ramp. Both vehicles were towed due to damage. The driver of V1, a 46-year-old male, reported no injuries. He advised on scene that he had exited a near-by expressway and pulled over because his stomach hurt. He later decided to get back on the road and he merged into traffic and saw the only way to reenter the expressway was to make an illegal left. This driver failed a field sobriety test and was taken to the hospital for a blood draw. He could not be located to complete the interview. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason was a driver related error, an illegal maneuver. The only associated factors that could be coded for V1 was the rain and wet roads. The presence of alcohol was also coded. The driver of V2, a 35-year-old male, was transported along with his passenger for treatment of minor injuries. He stated he was on his way home when V1 had tried to cross the road in front of him. The driver applied his brakes, but could not avoid hitting V1. He also explained there was a vehicle in front of V1 whose headlights had prevented him from seeing V1. The Critical Precrash Event for V2 was coded other vehicle encroachment, from opposite direction, over left lane line. The Critical Reason was not coded to this vehicle. Associated factors coded to V2 include an internal distraction (the driver was conversing with his passenger), the headlight glare of on-coming vehicles and the rain and wet roads that also affected V1.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Roadway, Weather/Environment present problem 
+Vehicle 2:  Distraction, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred on a 2-lane rural roadway on a weekday morning. The conditions were dawn and dry with a slight fog. The roadway runs north and south with a posted limit of 72 kmph (45 mph) and an advisory "Deer Crossing" sign near the location of the crash. V1, a 1989 Pontiac Grand Prix with two occupants, was traveling north when two deer appeared on the roadway. This driver swerved to avoid the deer and lost control of his vehicle. His vehicle spun clockwise off the right side of the road and struck a tree with his front bumper. His vehicle was towed due to damage and both occupants received minor injuries. The driver left his car at the scene and hitched a ride to work from a passing vehicle. V1 was driven by a 32-year-old male that was driving to work this morning when he was involved in this crash. He said the deer suddenly appeared in the roadway and he tried to avoid it by steering left, right, and braking. He lost control of his car and veered off the roadway into the path of a tree. The Critical Precrash Event for this driver was coded: "animal in roadway" and the Critical Reason for the Critical Event was coded: traveling too fast for conditions (i.e., dawn with light fog). Associated factors coded to this case were poor directional control and inadequate/incorrect evasive action: "combination of insufficient steering and braking."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Animal in roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :

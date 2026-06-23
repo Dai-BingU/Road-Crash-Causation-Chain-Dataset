@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred during daylight hours on a weekday. The crash occurred at the four-leg intersection of a north-south roadway and an east-west roadway. The intersection is controlled by a tri-light traffic signal. The speed limit for north-south traffic is 56 kmph (35 mph), and the limit for east-west traffic is 64 kmph (40 mph). At the time of the crash, there were no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 1991 Chevrolet Astro Van, was traveling southbound in the first lane of a five-lane, two-way, undivided, dry, level, bituminous roadway, approaching the intersection with the intention of passing straight through. Vehicle two (V2), a 1996 Chevrolet Lumina four-door sedan, was traveling eastbound in the third lane of a seven-lane, two-way, undivided roadway, approaching the same intersection with the intention of passing straight through. As both vehicles entered the intersection, the front of V2 impacted the right side of V1. Both vehicles rotated clockwise and came to rest in the intersection. The unlicensed 33-year-old female driver of V1 has never received any driver training. She was traveling with six passengers. V1 passed through the tri-light on the red phase. The driver was on her way to a clinic for the passenger's appointment, but was not in a hurry. The witness at the scene reported that the driver of V1 appeared to be distracted in some way, possibly conversing with passengers. She did not appear to recognize that she had run the red light. The driver reported that she passed through the intersection on a green light, but also said "the light changes too quickly." The critical pre-crash event for V1 was: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the event was attributed to V1, and was coded as a driver related factor: illegal maneuver. The 25-year-old male driver of V2 reported that he saw V1 enter the intersection as he approached and he applied the brakes, but was unable to avoid a collision. V2 was equipped with a supported EDR, from which data were recovered. No pre-crash data are included in the reading. The critical pre-crash event for V2 was: other vehicle encroachment; from crossing street, across path. The critical reason for the event is not attributed to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance present problem 
+Vehicle 2:  Driver Physical, Vision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

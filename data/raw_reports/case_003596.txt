@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of a weekday on a two-way, two-lane, divided residential roadway. The bituminous east/west roadway featured one lane in each direction (with wide shoulders for parking) divided by a grass median. The roadway was dry, straight, and level, with a posted speed limit of 40kmph (25 mph). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2000 Ford Focus hatchback, was eastbound in lane one. V2, a 2001 Chrysler PT Cruiser, was legally parked on the right side of lane one. As V1 continued eastbound it began drifting to the right and struck V2 in the rear. After impact V2 rolled approximately 7m (23ft.) before coming to final rest. V1 came to final rest near the point of impact. V1 was driven by a 42 year-old male who spoke minimal English. He only responded to police officers and would not participate in an interview. It was determined however that he was working as a delivery person for a local restaurant and was on his way to make a delivery. It is believed he was looking for an address when he drifted into the parking lane and struck V2. The driver was not injured but V1 was towed due to damage. The Critical Precrash Event for V1 was coded as this vehicle traveling over the lane line on the right side. The Critical Reason was coded as driver related factor, an external distraction as the driver was looking for an address when he drifted behind V2. The driver also had a map on the passenger seat of his car and may have been looking at directions and not paying attention to his driving prior to the crash. V2 while legally parked was occupied by a 17 year-old female in the driver's seat who was waiting to pick up a passenger to go get the car repaired from a previous accident. She stated that the driver of V1 was speeding down the roadway and seemed to have just glided over and struck them in the rear. The stated that her leg was hurting and she would be going to the emergency room to have it looked at.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction

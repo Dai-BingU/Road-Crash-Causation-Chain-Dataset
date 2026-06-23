@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle intersection occurred at T- intersection. The main road is a divided five-lane concrete roadway. This roadway is straight with a negative five percent slope and has a posted speed limit of 72 kmph (45 mph). The intersecting roadway is an undivided, two-lane, curved, concrete roadway and has a posted speed limit of 40 kmph (25 mph). The intersecting road is controlled by a stop sign. The radius of the curve is 143 meters. This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one, a 2000 Buick Le Sabre was traveling north in lane one with the intention of going straight. Vehicle two, a 2003 Honda Accord was traveling west in lane one with the intention of turning left. Vehicle two turned left at the intersection and was impacted on its left plane by the front plane of vehicle two. Vehicle one rotated counterclockwise and came to rest in the left turn lane for south bound traffic. Vehicle two continued westbound, departed the T-intersection and impacted three small trees with the front plane. Vehicle two came to rest off the road facing west. Both vehicles were towed due to damage. The driver of vehicle one, a sixty-seven year old male was driving home from a doctor appointment. It is unknown how long this driver had been driving at the time of the crash. This driver indicated that he was focused on a non-contact vehicle that turned left in front of vehicle two. This driver stated that right before the crash his wife yelled about another car coming. This driver is taking vitamins and Enalapril as medications. This driver drives this vehicle daily and over this road only rarely. The driver of vehicle two, an eighty-two year old male was leaving an assisted living center returning home at the time of the crash. This driver had only been driving for a few minutes at the time of the crash. This driver indicated that he was just following the vehicle ahead of him through the intersection. This driver indicated that he had been stopped for about two minutes behind the other vehicle before he started. This driver was taking Lipitor, Avandia, Trimterene/HCTZ, Norvasc, Nitrostat, Aspirin, Amaryl, Vitamins, Potassium Chloride, Furosemide, Allopurinol, Zetia, Tetracycline, Timolol as medications. This driver stated that he has astigmatism but is not required to wear glasses. He also indicated that he has a lenses restriction on his driver's license. This driver drives this vehicle daily and over this road on a weekly basis. The critical pre-crash event for vehicle one was coded as "other vehicle encroachment: from crossing street, turning into opposite direction". The critical reason for the critical pre-crash event for vehicle one was coded as "not coded to this vehicle". The critical pre-crash event for vehicle two was coded as "this vehicle traveling: turning left at the intersection". This critical reason for the critical pre-crash event for vehicle two was coded as "driver related factor: inadequate surveillance".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Drugs, Surveillance present problem 
+Vehicle 2:  Decision, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred on a weekday during late morning hours. The location was a major highway. The highway was slightly curved right (curvature unknown) and had five lanes. Lane three split into two lanes to form lane one of the southbound lanes and lane three of an on ramp to a southwest highway. The weather was clear and the roads dry. The posted speed limit for the highway was 97 kmph (60 mph). Vehicle one (V1), a 2003 Honda Civic with two occupants, was traveling south in the third lane of traffic. A non-contact vehicle, driving in lane four, passed V1 on the left and entered lane three immediately in front of V1, with the intention to enter the on ramp of the southwest highway. The driver of V1 steered to the right to avoid a collision with the vehicle. V1 started to rotate clockwise as the vehicle ran off the right side of the roadway and struck the guardrail located west of the southbound lanes. V1 bounced off the guardrail, continued to rotate and the left side of the vehicle struck the guardrail again. V1 re-entered the roadway and departed it to the left. V1 came to rest on the east side of the roadway. V1 was towed from the scene. A 21-year old female, who claimed light injuries, was the driver of V1 She was well rested, is in good health and does not take any medication. She drives on the roadway on a daily basis and is familiar with her vehicle. She was heading from a restaurant to a nearby school. She met her friend for lunch (the right front occupant) and was about to drop off her friend at school. She stated she was driving at about 89 kmph (55 mph) when the non-contact vehicle cut into her lane. The driver of the non-contact vehicle, a van, was interviewed as a witness. He stated he was traveling at 97 kmph (60 mph) in lane three, when he saw the crash in his rearview mirror. Police on-scene determined there was no damage to this vehicle. According to this driver there was enough space between him and V1. He said he did not pass V1 prior to the crash events. He said he stopped and pulled over to the left to call for help after he saw the crash. The critical per-crash event for V1 was coded: this vehicle traveling: off the edge of the road on the right side. The critical reason was coded as a driver related factor: overcompensation.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

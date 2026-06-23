@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred just past noon. The location was a rural area at a four-way intersection with stop signs for east/west traffic. North/south roadway is an undivided, level arterial roadway, with one lane in each direction. The road surface is bituminous and the weather conditions were wet and raining. It was daylight and traffic was light. The speed limit on the arterial is 56 kph (35 mph). Vehicle one (V1), a 1996 Honda Accord LX four door sedan driven by a unknown driver with two passengers was traveling westbound on a two-lane, two way, urban roadway with a posted speed limit of 40 kmph (25 mph) and was approaching the intersection. When V1 reached the intersection it continued into the intersection without stopping for the stop sign and struck the right front corner of vehicle two (V2), who was traveling northbound. On impact V1 was redirected in a northeast direction off the roadway just north of the intersection where it struck a tree with the right front bumper. V1 stopped on impact. The driver and passengers fled the scene on foot. Vehicle one was towed due to damage. V2, a 2000 Mitsubishi Galant ES four door sedan driven by a 18 year-old female with one passenger, was traveling northbound approaching the intersection. As V2 passed through the intersection, V1 entered westbound and struck the right side front of V2. On impact vehicle two continued northbound and the driver was able to make a controlled stop on the right shoulder approximately fifteen meters north of vehicle one's final rest location. Vehicle two was towed due to damage. The pre-event movement for vehicle one coded going straight, category this vehicle traveling turning right at intersection. Critical reason driver related factor "Illegal maneuver (disregard for traffic signal). The pre-event movement for vehicle two coded going straight, category other vehicle encroachment from crossing street,turning into same direction. Critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Weather/Environment present problem 
+Vehicle 2:  Driver Physical, Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

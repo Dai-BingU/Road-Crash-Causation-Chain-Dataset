@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at an intersection between a bituminous, two-way roadway and a driveway to a commercial shopping plaza. The straight and level east/west roadway featured a single lane in each direction, a continuous left turn lane, and a right lane into shopping in the eastern direction. The roadway had a posted speed limit of 80kmph (50 mph). At the time of the crash the roadway was dark and unlit and wet as it was raining. V1, a 2000 Ford Taurus, was exiting a commercial drive facing north, attempting to turn left onto the roadway. V2, a 2004 Honda Pilot, was eastbound in lane two (the through lane for eastbound traffic) intending to pass through the intersection. As V1 pulled out to turn left it was contacted on the left side by the front of V1. The driver of V1 was transported to a treatment facility after suffering non-incapacitating injuries. The three occupants of V2 were uninjured. Both vehicles were towed due to damage. V1 was driven by an 80 year-old female who refused to be interviewed. The driver was properly licensed for the vehicle and lives a short distance from the shopping complex she was exiting suggesting that she was familiar with the roads. Witnesses interviewed on-scene said a non-contact vehicle turned into the shopping center from the right turn lane just prior to V1 entering the intersection. This non-contact vehicle could have obstructed her view of V2. The Critical Precrash Event was coded this vehicle traveling, turning left at intersection. The Critical Reason for Critical Precrash Event is an unknown decision error. The only known associated factors coded to this vehicle were the rain and the wet roads at the time of the crash. V2 was driven by a 37 year-old male who was properly licensed and familiar with both the vehicle and the roadway. The driver was in good health and wearing his prescription lenses that corrected a myopic (near-sighted) condition as well as astigmatism. The driver stated that he was eastbound in lane two (the through lane); he too indicated the presence of a non-contact vehicle ahead of him in the right turn lane turning into a commercial driveway. He observed V1 stopped, than pull out into the intersection turning left. He braked and steered left but could not avoid V1 and they collided in the roadway. The Critical Precrash Event was coded as other vehicle encroachment, from driveway, turning into opposite direction. The Critical Reason was not coded to this vehicle. Associated factors for this crash include the environmental and road conditions faced by V1 as well as additional emotional factors as the driver was under increased work related stress at the time of crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Roadway, Weather/Environment present problem 
+Vehicle 2:  Driver Stress/Emotion, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown decision error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

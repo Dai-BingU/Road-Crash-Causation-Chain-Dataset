@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a two lane undivided roadway with a posted speed limit of 89 KPH (55 MPH). The roadway had a 2.9% grade. The weather was clear, the roadway dry and it was daylight at the time of this weekday afternoon crash. V1, a 1998 Dodge Neon, was traveling north on the two-lane roadway on an upgrade. A squirrel crossed into the path of V1. Operator of V1 steered to the right and began to rotate clockwise. V1 continued to rotate, went off the right side of the road, down a slight slope and struck a dirt embankment with its left side. V1 continued to rotate and struck the embankment again with its left side. V1 came to rest facing in a southwesterly direction. V1 was towed due to damage. The Dodge Neon (V1) was driven by a belted 19-year-old female who was not injured. The right front belted 17-year-old male passenger was also not injured. Driver advised police that she swerved to avoid a squirrel that was crossing the roadway. No additional information was obtained as the driver could not be contacted or located. The Critical Precrash Event for V1 was this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Precrash Event was overcompensation, a driver related performance error. This was chosen because the driver over steered to the right. An associated factor coded to this driver was that she chose inappropriate/unsuccessful evasive action. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Animal in roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

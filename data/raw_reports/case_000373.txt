@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the northbound lane of a eight-lane roadway divided by a grass median and a guardrail. There were five northbound and three southbound lanes. This was a straight, level, bituminous roadway with a posted speed limit of 89 kmph (55mph). It was late evening on a weeknight and the road was dry and the sky was clear. V1 a 2003 Jeep Sahara was traveling eastbound in lane three proceeding to turn left at the intersection. V2 a 1994 Pontiac Bonneville was traveling northbound in lane two at a constant rate of speed. V1's front contacted V2's left side. Final rest for V1 and V2 was in lane one of the northbound lane on the northeast corner of the intersection. V1, a 2003 Jeep Sahara was driven by a 17 year-old female. The driver of V1 stated that she was looking at the wrong light when she entered into the intersection. She stated that the light she was looking at was green so she proceeded to turn into the intersection. As a result, V1 struck V2 on its left side causing severe damage to V2. The Critical Pre-crash Event for V1 is "this vehicle traveling turning left at intersection". The Critical Reason for the Critical Pre-crash Event was coded "inadequate surveillance". V2, a 1994 Pontiac Bonneville was driven by a 20 year-old male that is physically handicapped, the gas and brake is operated by a special instrument for the handicapped. The driver of V2 stated that he doesn't remember what happened at the time of the crash. The driver of V2 was transported to the hospital due to injuries and his vehicle was towed due to severe damage. The Critical Pre-crash Event for V2 is "other vehicle encroachment: from crossing street turning into same direction". The Critical Reason was not coded for this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Driver Inexperience, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

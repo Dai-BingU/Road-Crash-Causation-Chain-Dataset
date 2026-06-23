@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekend in the center median and roadside of the northbound lanes of a high occupancy, high volume, expressway. The northbound direction featured five lanes flanked by paved emergency shoulders with concrete barrier wall (in the center median) and a guardrail (on the right shoulder). The bituminous expressway was dry, straight, and level with a posted speed limit of 105 kmph (65 mph). The traffic flow was normal and there were no adverse atmospheric conditions. Vehicle 1 (V1), a 2000 Nissan Maxima, was northbound in lane three. As V1 continued north the right rear tire blew out causing the driver to lose control. V1 departed the roadway to the left and struck the left concrete wall. V1 bounced off the wall, spun across the five lanes of traffic and struck the right side guardrail. V1 came to final rest against the guardrail. The driver was not injured but his vehicle was towed due to damages. The driver of V1, a 44-year-old male was traveling to visit his friends new born baby. He had been traveling for about 35 minutes going the speed limit when he experienced a right rear tire blow out. He stated that as he was driving he felt the tire blow out and the vehicle start to lose control making him head towards the left side concrete barrier wall. He tried to regain control by steering to the right and left as well as braking. It was noted during the vehicle inspection that his back right tire suffered complete tread separation. The driver did not know when he last replaced the tires or how old the tires were. The right rear tire had a 5mm of tread and was flat. The Critical Precrash Event for V1 was coded vehicle control loss, due to a tire blow out. The Critical Reason was a vehicle related factor, tires/wheels failure. The only associated factor coded to V1 was a tire deficiency as the right rear tire was worn in several areas and the threads were exposed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Blow out/flat tire, (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Tires/wheels failed

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This five-vehicle crash occurred a few hours after noon in the middle of a straight, level, and bituminous asphalt urban three-way intersection. The weather at the time of the crash was clear and dry and the road had no visible deficiencies. The northbound and southbound roadways consist of one through lane each on both sides of the intersection. The westbound roadway consists of a one-way through lane on both sides of the intersection. The roadways are controlled by stop signs and the designated speed limit is 48 kmph (30 mph). Parallel parking is allowed on both roadways. Vehicle one (V1), a 1997 four-door Toyota Camry carrying four teenage occupants, was traveling westbound in lane one at a high rate of speed and ignored the stop sign entering the intersection without the right of way. Vehicle two (V2), a 2006 Aston Martin DB9 Volante carrying one 51 year-old male occupant, was traveling southbound in lane one. V2 approached the stop sign on the north side of the intersection, stopped and then proceeded into the intersection. Vehicles three, four and five were parked on the south side of the street facing east. The front of V1 impacted the left side of V2. The impact caused V1 to rotate counter clockwise, head southwest where the right side of the vehicle contacted the back of vehicle three (V3), an unoccupied 2003 Volkswagen Jetta parked on the south side of the street. V1 came to final rest facing southwest, three quarters of the vehicle being off the roadway. The second event caused the front of V3 to rear-end the back of vehicle four (V4), an unoccupied 2002 Honda Odyssey mini-van which in turn rear-ended the back of vehicle five (V5), an unoccupied 1999 Mercury Villager mini-van. Vehicles three, four, and five were non-case vehicles and were parked legally. The driver of V1 was taken to the hospital for unknown injuries and vehicles one, two, and three were towed due to extensive damage. The driver of V1, a 17-year-old male, was not available for an interview. At the scene, several occupants mentioned a delivery van had blocked their view of V2. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical pre-crash reason for the event was coded a driver related decision error: illegal maneuver (failing to stop for a traffic control device, in this case a stop sign). The driver of V2 is familiar with the vehicle but rarely drives the route. He was looking for a particular address on the street he was driving. He was not in a hurry and had stopped for 1-2 seconds at the stop sign before proceeding into the intersection. A parked delivery van obstructed his view of V1. The critical pre-crash event for V2 was coded: other vehicle encroachment-from crossing street, across path. The critical reason was not coded to this vehicle. Case Note: Per NMVCCS coding conventions: V4 and V5 are legally parked vehicles and were not impacted one of the first three in-transport vehicles involved in the crash; they are not required to be structured into the case by NMVCCS coding conventions. Because of this the images for these two vehicles were categorized in the On-scene/ Other category.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Roadway present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

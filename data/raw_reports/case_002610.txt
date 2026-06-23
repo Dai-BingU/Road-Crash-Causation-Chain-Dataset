@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred mid-afternoon during daylight hours on a two-lane asphalt constructed roadway. with a posted speed limit of 89 kmph (55 MPH). It has a sweeping left hand curve with a positive superelevation. It also has a downgrade of -4 percent for the northbound travel lanes. The travel lanes were wet due to a light rain. Vehicle one (V1), a 1997 Toyota Avalon sedan driven by a 50 year-old male was traveling northbound negotiating the left hand curve when V1 exited the right road edge. The driver returned V1 onto the roadway and crossed the center line. The driver then steered V1 back across the center line to the right and then departed the right road edge. V1 departed the road edge where it impacted a vertical dirt embankment then rolled over and fell back onto the roadway on its roof. V1 slid across the roadway and came to rest off the left road edge in a pull-out area heading south. This driver was noted to be under the influence of alcohol by the investigating officer and was issued citations: under the influence; and, under the influence with a BAC of 0.18 or more. V1 was towed for damages. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical event was coded as a driver related factor: poor directional control. Associative factors include: alcohol, speed, wet roads.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Driver Performance, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

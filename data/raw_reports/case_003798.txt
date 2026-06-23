@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a secondary arterial that ran east/west and was a two-way, two-lane road. The road was curved to the left/north if traveling east. The curve radius was 217 meters with its super-elevation measuring 2.5%. The road had a +6% grade if eastbound. There were no shoulders on the roadway and the south road edge had a 16cm drop off to grass and brush. The roads edges were also somewhat deteriorated. The side slope between the 2nd run off road point and final rest measured negative 31.3%. The posted speed limit on the road was 64kph/40mph. Conditions at the time of the crash were daylight and dry on a weekday morning during rush hour. V1 was a 1998 Honda Civic traveling east on the road, passing through the curve when its right wheels departed the right side of the road. V1 then regained the road and crossed partially into the westbound lane before crossing right again and departing the right side of the road again and tripping to roll 2/4 turns to its left coming to rest facing west while overturned in the roadside brush. V1 was towed from the scene. V1 was driven by an eighteen-year-old, belted male who was not injured in the crash. He was running a bit late for work that morning and told the researcher that he had leaned to reach his hat in the right side (passengers) door pocket when his vehicle departed the right roadside the 1st time. The critical precrash event for V1 was this vehicle traveling off the edge of the road on the right side. The critical reason was Overcompensation. The driver had a personal/emotional problem on his mind that morning. Too fast reason unknown was coded because the driver did say that he was traveling at 89kph/55mph when he entered the curve. Chose unsuccessful evasive maneuver was coded to this vehicle and can be attributed in part anyway to the driver's inexperience. The driver was also coded as having poor directional control.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance, Driver Stress/Emotion, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary V1, a 2004 Volkswagen Beetle, was traveling northbound on a five-lane, undivided dry, asphalt roadway in daylight conditions. There were three northbound lanes and two southbound lanes. V1 was traveling in the second lane of travel, intending to go straight through a 4-way signalized intersection. V2, a 1997 Pontiac Sunfire, was traveling westbound on a three-lane undivided dry, asphalt roadway. V2 was intending to turn right at the intersection. The posted speed limit on both the northbound and westbound roadway was 56 kmph (35 mph). V2 failed to stop for the red light and the front of V2 contacted the right side of V1. V1 came to final rest in the roadway. V2 departed the roadway to the left and came to final rest off the west side of the roadway. The driver of V1 was a 45-year old female who was not available for an interview. She did not sustain any injuries from the crash and refused treatment. The Critical Pre-crash Event for the driver of V1 was other motor vehicle encroachment from crossing street turning into same direction. The Critical Reason for the Critical Precrash Event was not coded to the driver of V1 and she was thought not to have contributed to the crash. The driver of V2 was a 65-year old female who had reported that she had been traveling between 2-16 kmph (1-10 mph) prior to the crash. She had a history of seizures and had taken an unknown medication for her condition prior to the crash. She was rested and traveling to the store. She was wearing her corrective lenses that corrected a myopic (near-sighted) condition. She sustained minor injuries in the crash but refused treatment. The Critical Pre-crash Event for the driver of V2 was this vehicle turning right at intersection. The Critical Reason for the Critical Pre-crash Event was an internal distraction, because the driver reported that she had been trying to open a beer prior to the crash. Additional associated factors coded to this driver include inadequate surveillance (failure to look either side ahead) and an illegal maneuver (failure to stop for traffic control device).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Distraction, Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+ 2 ：This Vehicle Traveling- Turning right at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Internal distraction

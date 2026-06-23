@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a four-lane, divided, urban roadway with a raised concrete median. There were four westbound lanes, two eastbound lanes and an uphill grade of 5% for westbound traffic. The roadway had a posted speed of 72 kmph (45 mph). Conditions were daylight and dry with cloudy skies. The crash occurred in the mid-morning hours of a weekday. Vehicle one was a 1996 Subaru Legacy wagon. Vehicle two was a 2004 Chevrolet Colorado pickup. Vehicle three was a 2003 Honda Accord sedan. Vehicle one was traveling west in lane four approaching a line of stopped cars at a traffic light. Vehicles two and three were stopped in lane four at the light. V1's front impacted the rear of v2. V2's front was pushed into the rear of v3. All three vehicles came to rest in lane four. V1 was driven by a 50-year old female who was uninjured. She stated that her foot brake was not working as she approached the stopped cars, so she pulled the emergency brake and steered left. She was unable to avoid the collision. She estimated her travel and impact speeds to be 45 and 30 mph respectively. V1 was towed due to damage. The Critical Precrash Event for V1 was other vehicle stopped in lane. The Critical Reason was degraded braking capability. Associated factors included sleep apnea and the use of a prescription antidepressant. V2 was driven by a 35-year old male who was transported to a local hospital with possible injuries. He stated that he was struck in the rear without any warning while stopped at a light. V2 was not towed due to damage. The Critical Precrash Event for V2 was another motor vehicle in the same lane traveling in the same direction with higher speed. The Critical Reason was not coded to this driver. No associated factors were coded to this driver. V3 was driven by a 29-year old female who was uninjured. She stated that she was sorting through her purse while stopped at a light when she was struck without warning from behind. V3 was not towed due to damage. No Critical Precrash Event or Reason were coded for v3 because she was not involved in the first harmful event. An associated factor for this driver was her focus on an interior object at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Vehicle present problem 
+Vehicle 3:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Degraded braking capability
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

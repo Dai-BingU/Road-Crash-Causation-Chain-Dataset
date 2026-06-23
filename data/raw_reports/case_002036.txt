@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during early evening hours on a five-lane, undivided, asphalt roadway. The roadway surface was dry and lighted. There were no adverse atmospheric conditions at the time of the crash. The crash occurred at an intersection with the traffic controlled by overhead tri-color traffic control signals. Motorists turning left at the intersection must yield to oncoming traffic; there are no protected turns at the intersection. The speed limit for both vehicles is 48 kmph (30 mph). Vehicle one (V1) a 1998 Ford F-150 pick-up, driven by a 29 year-old male with one passenger was traveling northbound in lane 3, attempting a left turn at an intersection. Vehicle two (V2) a 1985 Mercedes-Benz 380SE sedan, driven by a 35 year-old male was southbound in the second lane of the same roadway approaching the intersection. The front left of V2 impacted the front-left of V1. V2 came to rest south of the point of impact along its intended path of travel. V1 rotated counter-clockwise and came to rest south of the point of impact. The driver of vehicle two applied the brakes prior to impact but was unable to stop. Both vehicles were towed from the scene. The driver of V2 was injured but refused ambulance or medical care. The driver of vehicle one was cited for no operator's license and for failure to maintain financial responsibility. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver also failed to yield the right of way to V2. The critical pre-crash event for V1 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Driver Fatigue present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

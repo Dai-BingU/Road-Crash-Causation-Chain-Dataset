@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at the intersection of a six-lane roadway and a two-lane roadway. The six-lane road is divided with three lanes in either direction. The speed limit for both roadways is 54 kmph (35 mph). At the intersection the two-lane road is controlled by a stop sign. Both roads are straight and level with no defects. This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one, a 2001 Ford Focus was westbound in the first lane attempting to cross the northbound lanes and turn left into the southbound lanes of traffic. Vehicle two, a 2006 BMW 750 was northbound in the third lane. Vehicle one turned left at the intersection and the front of vehicle two impacted the right side of vehicle one. Both vehicles came to rest in the intersection. Vehicle one was towed from the scene. Vehicle two was not towed due to damage. The driver of vehicle one, a twenty-two year old male was heading home from a work site. This driver stated that he stopped at the stop sign and entered the intersection as the first two lanes had left a gap for him. This driver stated that he did not see vehicle two when he entered the third lane. This driver drives this vehicle daily and over this road only rarely. The driver of vehicle two, a sixty-three year old male was heading home from work at the time of the crash. This driver indicated that there was no stopped traffic ahead of him and he never saw vehicle one. This driver drives this vehicle daily and over this route on a weekly basis. The critical pre-crash event for vehicle one was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical pre-crash event was attributed to vehicle one and was coded as a driver related decision factor: other decision error (specified as: turned with obstructed view. The critical pre-crash event for vehicle two was coded: other vehicle encroachment; from crossing street, across path. The critical reason for the critical pre-crash event for vehicle two was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Roadway, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

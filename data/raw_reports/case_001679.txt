@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This incident occurred in the late morning hours of a weekday in an intersection between a north/south highway and a two-lane roadway. The intersection is controlled by traffic lights. The dry, straight, and level highway is divided by a grassy median with four bituminous lanes in each direction. The speed limit for that highway is 89kmph (55mph). There was no adverse weather in the daylight conditions. V1, a 1998 Nissan Altima, was northbound in lane four (the designated left turn lane) intending to turn left at the intersection. V2, a 2000 Mazda 626 was southbound in lane two approaching the same intersection. As V1 commenced its turn it was struck in the right front corner by the front plane of V2. V1 rotated counter-clockwise and came to final rest facing south in lane two of the southbound lanes. V2 traveled off the roadway and struck a telephone pole located on the southwest corner of the intersection before coming to final rest. V1 was driven by a 28 year-old female who could not be located for an interview. She was transported to a treatment facility with incapacitating injuries and V1 was towed due to damage. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Precrash Event was a decision error, misjudgment of the gap distance and speed of the other vehicle. There were no other associated factors coded for this vehicle. V2 was driven by a 17 year-old male who also could not be located for an interview. He was transported to a treatment facility with non-incapacitating injuries and V2 was towed due to damage. The Critical Precrash Event for V2 was other motor vehicle encroachment from opposite direction over left lane line. The Critical Reason was not coded to this vehicle. The only associated factor for this crash was the inexperience of the driver as he was only 17 years old.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

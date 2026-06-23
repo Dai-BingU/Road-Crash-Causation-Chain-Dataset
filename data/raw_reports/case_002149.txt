@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred in the evening on a divided, bituminous, urban roadway that consists of two through lanes and a right turn only lane for westbound traffic and two through lanes, one right turn only lane and one left turn only lane for eastbound traffic. A raised concrete divider separates eastbound and westbound traffic and there is a left turn access bay in the divider that allows eastbound vehicles to turn left and cross the westbound lanes. Directly north of the exit from the access turn bay is a private driveway to a local restaurant. The westbound lanes have a slight upgrade equal to 5/122 cm; the eastbound lanes have an equal downgrade. The roadway is illuminated by streetlight's. At the time of the crash, the weather was clear and the roads were dry but there was heavy traffic congestion. Vehicle #1, a 1995 Buick Roadmaster 4 door (V1) was westbound in the number one lane, which is a right turn only lane for access to a freeway. There was a non-contact vehicle ahead of V1 about two car lengths and traffic was moving in a stop-and-go manner. The V1 driver had entered the number one lane intending to enter the freeway and accelerated to about 30 mph when traffic cleared. Upon noticing V2, the V1 driver applied the brakes without lockup and the left side of V1 and front of V2 collided. V1 came to a controlled stop next to the curb in the number one westbound lane. Vehicle #2, a 1995 Dodge Intrepid 4 door (V2) was eastbound in the third lane, turned into the left turn access bay, and stopped for oncoming traffic. Traffic in the number three and number two lanes stopped and left space for V2 to cross in front of them. The V2 driver turned left, accelerated to about 10 mph, crossed the number two and three westbound lanes, and the front of V2 and left side of V1 collided. The driver of V-2 made no avoidance efforts. V2 came to final rest in the driveway, facing north. The V1 driver, a 73-year-old male, employed as a bus driver with a CDL, was traveling from his home to go shopping. He had no illnesses or physical disabilities. He was wearing prescription eyeglasses and using the available lap and shoulder restraint. There were five occupants, including the driver, in V1. The V2 driver, an unlicensed 50-year-old male, was traveling from home to go to a wedding party. He had no illnesses or physical disabilities. This driver indicated that he had stopped and waited for ten or fifteen seconds before proceeding. This driver stated he looked but did not see the other car. This driver drives this vehicle daily and over this road on a monthly basis. The critical pre-crash event for vehicle one was coded as "other vehicle encroachment, turning across path". The critical reason for the critical pre-crash event for vehicle two was not coded to this vehicle. The critical pre-crash event for vehicle two was coded as "this vehicle traveling -turning left at intersection". The critical reason for the critical pre-crash event for vehicle two was coded as "driver related factor-inadequate surveillance".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic present problem 
+Vehicle 2:  Decision, Distraction, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

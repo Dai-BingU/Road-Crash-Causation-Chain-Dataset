@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a two-way, two-lane, straight, bituminous, rural road with a posted speed limit of 80kmph (50 mph). Conditions at the time of the weekday afternoon crash were clear, daylight and dry. An interview was obtained on-scene and V1 was inspected. V1, a 2001 Dodge Durango, was eastbound on the road at approximately 72kmph (45 mph) on a downhill slope. V1 hit a small pothole and the Durango jerked to the right. V1 rotated counterclockwise, crossed the eastbound lane and left the road on the left side with the front leading into a ditch. The front left contacted a guide wire, continued forward striking a 20cm diameter tree with it front left, shearing it just above the ground. The tree struck the windshield, roof and right “A” pillar and then fell across both lanes of the road. V1 continued through brush until it's front right struck a 48cm diameter tree. V1 rotated clockwise to final rest facing north. V1 was driven by a 58 year-old male nearing the end of a 34-mile commute home. He stated he was in fair health despite a history of numerous health problems including diabetes, high blood pressure, and various allergies for which he took several medications. The driver stated that he was startled when he hit the pothole and overcorrected when he steered to the left. The Durango was towed from the scene due to damage. Both front airbags deployed and the fully restrained driver was treated at the scene and denied any injuries. The Critical Precrash Event coded to V1 was this vehicle traveling, off the edge of the road on the left side. The Critical Reason coded to V1 was a driver related factor, a performance error, overcompensation. Associated factors include a highway related factor, small pothole in road. The driver's inattention (thought focus unknown) was also coded, as the driver was startled when he struck the pothole causing him to overcorrect his steering. The five prescribed medications the driver takes for various medical problems were also coded as associated factors as their possible side effects include drowsiness, dizziness, and fatigue.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance, Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

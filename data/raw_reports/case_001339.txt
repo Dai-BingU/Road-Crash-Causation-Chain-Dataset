@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the early evening of a weekday in the eastbound lanes of an urban roadway. The roadway consisted of three eastbound and two westbound lanes divided by a two-way center turn lane. The bituminous roadway was dry and straight, with a posted speed of 72 kmph (45 mph) and a slight downhill grade. The traffic flow was congested due to rush hour traffic, but there were no adverse atmospheric conditions at the time of the crash. V1, a 1991 Dodge Dynasty with one occupant, was stopped facing westbound in the turning lane, preparing to turn left into a restaurant. V2, a 1999 Dodge Dakota with one occupant, was eastbound in lane one. Traffic up ahead was stopped for a light. A few cars saw V1 trying turn and let her in so she could. Neither V1 nor V2 could see each other due to the other vehicles blocking their view. V1 proceeded to turn and was struck by V2. The front of V2 contacted the right of V1 and they both came to final rest in the roadway. Neither vehicle had time to attempt an avoidance action. The driver of V1, a 19-year old female, reported no injuries. She advised that she had just left one restaurant and was on her way to another. She stated that she had been stopped for a few seconds in the turn lane prior to her proceeding. She never saw V2 as she began her turn. V1 was towed from the scene. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Precrash Event was a driver related factor, false assumption of other's action. Associated factors include the facts that the impending problem was masked by the traffic flow and she crossed with an obstructed view as well as the fact she rarely travels this roadway. The driver of V2, a 62-year old male, reported no injuries. He advised that he had just left home and was on his way to his friend's house. He never saw V1 until she turned in front of him. The Critical Precrash Event for V2 was coded other motor vehicle encroachment, from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. An associated factor for both vehicles was the rush hour traffic congestion.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Drugs, Roadway, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

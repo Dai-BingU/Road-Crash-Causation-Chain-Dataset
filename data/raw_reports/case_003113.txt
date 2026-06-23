@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary A three-vehicle collision occurred during dark hours on a Thursday evening before midnight. The collision occurred in the southbound lanes of a divided highway, in lane one. The pre-crash roadway for all three vehicles is a straight and level, dry concrete roadway. The roadway has a posted speed limit of 96 Kmph (60 mph). V 1, a 2002 Chevy pickup, driven by a 47 year-old male was traveling southbound on the roadway in lane one. V 2, a 2001 Volkswagen Golf driven by a 44 year-old female was traveling southbound in lane one. V 3, a 2002 Ford Explorer, driven by a 32 year-old female was traveling southbound in lane one ahead of V 2. V 2 & V 3 slowed for heavy traffic ahead and the front of V 1 impacted the rear of V 2, pushing V 2 into the rear of V 3. All three vehicle's can to final rest in travel lane. V 2 was towed to damage. V 1 and V 3 were both driven from the scene. The pre-event movement for V 1 coded "going straight." The critical pre-crash event was coded "Other motor vehicle in lane; traveling in the same direction while decelerating." The critical reason for the critical event assigned to this vehicle is a Driver Related Factor, Unknown critical non-performance error." (no interview obtained) The pre-event movement for V 2 was coded "decelerating in traffic lane." The critical pre-crash event was coded "other vehicle in lane, traveling in the same direction at a higher rate of speed." The critical reason for the critical event is not coded to this vehicle. The pre-event movement for V 3 decelerating in traffic lane "not involved in first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown critical non-performance
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

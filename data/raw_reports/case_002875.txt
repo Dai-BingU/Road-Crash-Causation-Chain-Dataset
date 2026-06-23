@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in the morning on a three-lane, level, bituminous, dry, roadway that curves to the left. The posted speed limit for this roadway is 56 kmph (35 mph). This roadway intersects with a three-lane, downhill, straight, bituminous roadway that had a posted speed limit of 56 kmph (35 mph). The intersection was controlled by a traffic light on colors with no pedestrian signals. Vehicle one (V 1), a 1993 Chevrolet Corsica driven by a 27 year-old male was traveling westbound in lane one. Vehicle two (V 2), a 1996 Saturn SC sedan driven by a 57 year-old female was traveling southbound in lane two. Vehicle three (V 3), a 1998 Toyota Camry driven by a 50 year-old female was stopped facing eastbound in lane one. As V 1 passed through the intersection the front struck the left side of V 2. Post-impact V 1 deflected to the left and the front struck the front of V 3. V 2 came to rest facing west in lane one. V 1 came to rest facing south. And V 3 came to rest facing east in lane one. V 1 and V 3 were towed from the scene the driver of V 2 was transported to a local medical facility. V 3 was driven from the scene. The pre-event movement for V 1 coded negotiating a curve, category this vehicle traveling crossing over passing through intersection. The critical reason driver related factor "illegal maneuver" (disregard of traffic control signal, witness driving behind V 2 stated they had the green light). The pre-event movement for V 2 coded going straight, category this vehicle traveling turning left at intersection. Critical reason not coded to this vehicle. Pre-event movement for V 3 coded stopped in traffic lane, category not involved in first harmful event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：This Vehicle Traveling- Turning left at intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

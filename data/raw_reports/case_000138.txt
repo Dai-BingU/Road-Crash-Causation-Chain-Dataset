@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a weekend evening in the southwest corner of an urban T-intersection. The intersection consisted of a north/south divided (curbed median) 8-lane roadway intersected by an east/west two-lane roadway. The bituminous north/south roadway was dry, straight, and level with a posted speed limit of 56kmph (35 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. Vehicle 1 (V1), a 2005 Hyundai Accent, was southbound in lane two traveling at speed limit as it approached the intersection. V1 swerved right to avoid a pedestrian crossing the roadway. The driver over-steered and lost control of his vehicle. V1 departed the roadway over the southwest corner of the intersection and struck the concrete base of an overhead traffic light. V1 came to final rest against the pole at the point of impact. After contact the driver and any passengers all fled by foot. The police on scene chased only the driver down about 50 feet from the crash site at a local firehouse. V1 was towed due to damage. The driver of V1, a 44-year-old male, was transported for treatment of head injuries. He was tight lipped about why he fled and any passengers that were in the vehicle. The police on scene searched his vehicle but found nothing illegal. The driver gave a partial interview basically describing the crash events but refused to give any more information. There was no witnesses on scene it is unknown if there really was a pedestrian in the roadway like the driver stated in the interview. It is also unknown how many passengers were in the vehicle. The Critical Precrash Event was coded as a pedestrian in the roadway, swerved to avoid hitting the person. The Critical Reason was coded as a driver related error overcompensation, as it believed he could have avoided hitting the pole if he did not steer to the right as much. The only known associated factor that could be coded to V1 was tire deficiency as the tread depth was dangerously low.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Pedestrian, Pedalcyclist- Pedestrian in roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

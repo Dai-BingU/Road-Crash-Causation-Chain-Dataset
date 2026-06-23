@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a four-leg, traffic signal-controlled intersection. The north/south roadway is undivided, level and straight and consists of two lanes in each direction and a left turn lane. The east/west roadway is divided, level and straight. The westbound lanes consist of three through lanes and a left turn lane. The speed limit on these roadways is 72 kmph (45 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1992 Toyota Camry, was westbound in lane one. Vehicle two (V2), a 1998 Ford Mustang, was stopped northbound in lane one and then entered the intersection when his signal turned green. In the intersection, the front of V1 struck the right side of V2. The vehicles rotated and the left side of V1 struck the right side of V2. Both vehicles were towed due to damage. The driver of V1, a seventeen-year-old female, was healthy and well rested. She drives on this roadway daily, but has been driving for only a year. She stated that she did not see V2 prior to the crash. The driver of V2, a nineteen-year-old female, was healthy and well rested. This driver travels this route weekly. This driver stated that he did not see V1 prior to the crash. The critical pre-crash event for V1 was coded as "other vehicle encroachment; from crossing street, across path." The critical reason for the critical pre-crash event for V1 was "not coded to this vehicle." This driver's inexperience and inadequate surveillance were associated factors in this crash. The critical pre-crash event for V2 was coded as "this vehicle traveling; crossing over (passing through) intersection." The critical reason for the critical pre-crash event for V2 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

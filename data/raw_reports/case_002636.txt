@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary V1, a 2000 Buick Century was traveling eastbound on a two-lane, two way dry asphalt roadway in daylight conditions. V2 a 2005 Chevrolet Silverado was also traveling eastbound on the same roadway. V2 stopped to allow a non-contact vehicle in front of him to turn left onto an adjacent road. The front of V1 contacted the back of V2 before they both came to final rest in the roadway. The driver of V1 was a 17-year old male. The driver of V1 stated that V2 stopped suddenly and he could not avoid hitting him. He did not sustain any injuries and refused treatment. The Critical Precrash Event for the driver of V1 was other motor vehicle in lane: other vehicle stopped. The Critical Reason for the Critical Precrash Event was an internal distraction. He was wearing his prescribed lenses that corrected a myopic (near-sighted) condition. Associated factors were that he was talking to his passengers and he was an inexperienced driver. The driver of V2 was a 36-year old male who was not available for an interview. He did not sustain any injuries and refused treatment. The Critical Precrash Event for the driver of V2 was other vehicle in lane: traveling in same direction with higher speed. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2 and he was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

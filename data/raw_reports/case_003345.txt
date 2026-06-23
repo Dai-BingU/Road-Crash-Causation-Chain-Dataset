@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the late evening of a weekday in the intersection of an eight-lane undivided roadway and a three-lane undivided roadway. The intersection was controlled by traffic lights. There were five lanes running northbound with lane five being a left turn only lane. There were six lanes running south bound with lane two being a bike lane and lane one being a right turn only lane. There were three straight lanes running south and northbound. There were three lanes running east and west. The bituminous roadway was dry, straight, and level with a posted speed limit of 72kmph (45 mph). There were no adverse atmospheric conditions and traffic flow was normal at the time of the crash. V1, a 2000 Honda Accord Coupe, was southbound in lane three, traveling approximately 72kmph intending to travel through the intersection. V2, a 2000 Dodge Neon, was northbound in lane five (the left turn lane) traveling approximately 56kmph (35 mph) intending to turn left at the intersection. As V2 commenced its turn its front contacted the front left corner of V1. After impact both vehicles came to final rest in the intersection. V1 was driven by a 20 year-old female who was on her way home from visiting her cousin in the hospital. She stated she saw the traffic light change to yellow, and decided to continue through the intersection but never saw V2. This driver was not wearing her seatbelt, which may have contributed to her sustaining non-incapacitating injuries for which she was transported for treatment. During the vehicle inspection an open McDonalds bag was found on the drivers side floor with food scattered about. Further investigation produced a time-stamped receipt indicting the purchase just minutes before the crash (see vehicle pictures for documentation). It is believed that the driver was eating at the time of the crash (although she did not admit it). V1 was towed due to damage. The Critical Precrash Event for V1 was coded other vehicle encroachment, from opposite direction - over left lane line. The Critical Precrash Event was not coded to this vehicle. Associated factors include an internal distraction, as the driver was eating at the time of the crash. This could explain why she did not see V2. V2 was driven by a belted 56 year-old male on his way home from work. He stated in the interview that he had a yellow light and attempted to complete a left turn when he was impacted by V1, who he stated he did not even see her vehicle coming. The driver was uninjured but V2 was towed due to damage. The Critical Precrash Event for V2 was coded this vehicle traveling, turning left at the intersection. The Critical Precrash Event was coded as a driver related factor, a recognition error, of inadequate surveillance (failed to look far enough ahead). There were no associated factors coded in addition to the inadequate surveillance.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

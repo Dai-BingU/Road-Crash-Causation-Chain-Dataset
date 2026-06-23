@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in the eastbound lane of a two-way, three-lane, dry, straight, level, bituminous asphalt roadway that consists of one westbound and one eastbound lane that are separated by a continuous left turn lane. The roadway has a posted speed limit of 56 kmph (35 mph). At the time of the crash, it was daylight, the weather was clear and there were no road defects or sight line restrictions. Vehicle one, a 2003 Ford F-150 pickup was traveling eastbound in the first lane. Vehicle two, a 1993 Ford Aerostar van was stopped eastbound ahead of vehicle one in the first lane. Vehicle three, a red 1997 Mercury Tracer 4 door, was stopped eastbound at a red traffic signal. The front of vehicle one impacted the back of vehicle two. The front of vehicle two impacted the rear of vehicle three. Vehicle one and two were towed due to damage. Vehicle three was not towed due to damage. The driver of vehicle one, a forty-two year old male was driving to school from home at the time of the crash. This driver had been driving for about thirty-eight minutes at the time of the crash. This driver stated that he reached down to pick up his cell phone from left floorboard of the vehicle. The driver of vehicle one stated that he had noticed vehicle two in front of him before his cell phone fell on the floorboard. This driver was taking Pamelor as a medication. This driver drives this vehicle daily and over this road on a daily basis. The driver of vehicle two, a nineteen-year old male stated that he had been stopped for approximately ten to fifteen seconds, approximately two car lengths behind vehicle three, before being struck from the rear by vehicle one. This driver was on his way to school at the time of the crash. This driver had been driving for about forty-five minutes at the time of the crash. This driver drives this vehicle daily and over this road on a daily basis. The driver of vehicle three, a thirty-year old female stated that she had been stopped for about five seconds prior to the crash. This driver was driving to drop her daughter at school. This driver had been driving for about thirty minutes at the time of the crash. This driver had only driven this vehicle a couple of times in the last three months. It is unknown how often this driver drives this roadway. The critical pre-crash event for vehicle one was coded as: Other motor vehicle in lane-other vehicle stopped. The critical reason for the critical pre-crash event for vehicle one was coded as: Driver related factor-internal distraction. The critical pre-crash event for vehicle two was coded as: Other motor vehicle in lane-other vehicle traveling in same direction with higher speed. The critical reason for the critical pre-crash event for vehicle two was coded as: not coded to this vehicle. The critical pre-crash event for vehicle three was coded as: not involved in first harmful event. The critical reason for the critical pre-crash event for vehicle three was coded as: not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs present problem 
+Vehicle 3:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

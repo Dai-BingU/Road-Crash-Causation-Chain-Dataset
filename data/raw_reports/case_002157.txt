@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This collision involved two passenger cars that crashed at an intersection just before the early dawn hour. This crash occurred during darkness with no street lighting in a rural area. The thru street is a bituminous roadway with two traffic lanes, one east and one west separated by a double yellow line with no traffic controls. The cross street is a hard-pack gravel roadway with an emulsion sprayed surface. It is not paved. Traffic crossing the thru street is controlled by stop signs located at the southeast and northwest corners of the intersection. The center of the intersection is slightly elevated above the four legs leading into it to accommodate an irrigation canal that passes under the intersection. The weather was clear with no adverse conditions. The headlights were in use by both vehicles at the time of the crash. The posted speed limit is 80 kmph (50 mph) for both roadways. Vehicle one (V1), a 1993- Ford Taurus 4 door sedan, was traveling east on the thru street in the eastbound lane approaching the intersection. Vehicle two (V2), a 1991 Honda Accord LX 4 door sedan, that was traveling north on the cross street approaching the stop sign at the intersection. V2 made a rolling stop, accelerated and proceeded into the intersection to attempt a left turn to travel westbound. The driver of V1, a 21-year old male with 14-year old male right front passenger, applied the brakes with lock-up, leaving 41.8 meters (137 feet) of skid marks before the front of V1 struck the left side of V2. The impact caused V2 to rotate counterclockwise, exit the thru street in the northeast quadrant of the intersection, and come to final rest facing south. V1 after impact rotated counterclockwise and came to final rest with the left rear wheel off the south side of the thru street and the remaining three tires on the pavement in eastbound lane one. V1 was facing northwest at final rest. Both vehicles were towed from the scene. The driver of vehicle two was a 42-year old female who sustained fatal injuries. The right front passenger of V2 was a 29-year old male. The driver & passenger of V1 were listening to the radio and were not conversing at the time of the crash. Police estimate the driver was traveling about 32 kmph (20 mph) above the posted speed limit. Since he had the right of way this was not in and of itself considered an act of aggressive driving on this driver's part, but could possibly have factored into the driver of V2 misjudging the gap and speed of V1. The critical pre-crash event for V1 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason was not coded to V1. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. Due to lack of interview and additional information for the driver of V2, the critical reason for the critical reason for the critical event was assigned to the driver of V2 as: type of driver error unknown. It is unknown why this driver pulled from the stop sign and encroached into V1's travel lane who had the right of way.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Speed/Distance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary CASE #2006-11-060 V1, a 2003 VW Jetta driven by a 43 year old male, was eastbound pulling out of a commercial driveway turning left onto a 5 lane roadway that curved left. V2, a 2001 Pontiac Grand Am driven by a 22 year old male, was southbound in lane 1 of the 5 lane, bituminous, dry, level roadway curving right that v1 was pulling out on. The speed limit on the 5-lane roadway was 56kmph/35mph. V1 was across the southbound lane 1 when v2 came around the curve. The driver of v2 braked and tried to steer left but could not avoid hitting v1. V2, front, contacted v1, left. V1 was facing east at final rest and v2 was facing southeast at final rest. At the time of the early afternoon crash the roadway was dry and the weather clear. V2 was towed but neither driver was injured. A complete driver interview and vehicle inspection was obtained for v1. The Pre-event movement of v1 was stopped in traffic lane, the critical Pre-crash event was This vehicle traveling turning left at intersection and the Critical reason for the critical pre-crash event was the driver's inadequate surveillance (failed to look, looked but did not see). Some factors leading to the cause of the crash on the part of the driver of v1 include his unfamiliarity with the roadway (it was his first time on it) and his failure to look left again before pulling out. A complete driver interview and vehicle inspection was obtained for v2. The Pre-event movement of v2 was negotiating a curve, the Critical pre-crash event was Other vehicle encroachment from driveway, turning in opposite direction and the Critical reason was not coded to this vehicle. V2 was found to be going just above the posted speed limit but otherwise not doing anything that contributed to the cause of the crash. A complete witness interview was obtained which supports the above description of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

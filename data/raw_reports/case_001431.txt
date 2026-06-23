@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection (T-intersection) of two rural roads near an industrial park. One road ran north south with three lanes (not physically divided). Lane one ran northbound with lanes 2 and 3 being southbound lanes. This road was straight and level on the northbound approach to the intersection until just north of the curb return for the east leg of the intersection where the road begins a curve left, with a measured radius of 97m and was super-elevated to 3.8%. The east leg of the intersection consisted of a road that ran east/west, had a positive grade of 3.9% and was curved right with a radius measuring 173.6m and was super-elevated to 2.4%. The speed limit on both roads was 56kph/35mph. The intersection was controlled by one stop sign for westbound traffic only. Conditions at the time of the crash were daylight and dry on a weekday in the late afternoon. V1 was a 1995 Acura Integra that came to a stop at the stop sign, then proceeded to make a left turn to head south on the north/south road when it (V1) was struck on the left side (near its front) by V2's front. V2 was a 2004 Ford Freestar that was traveling north on the north/south road. V1 spun about 95 degrees clockwise and came to rest facing north in lane 1, northbound about 16m north of impact. V2 veered slightly left into southbound lanes then after regaining control was brought to a stop in lane 1 northbound about 47m north of impact. Both vehicles were towed from the scene. V1 was driven by a belted-seventeen-year-old-female who was on her way home from school with her similarly restrained sixteen-year-old-female passenger. They were both uninjured in the crash. The interview was conducted in the presence of D1's mother. D1 said she was “following” her boyfriend home and trying to keep up with him when the crash occurred. The critical precrash event for V1 was this vehicle traveling, turning left at an intersection. The critical reason was inadequate surveillance, failed to look to the side. In a hurry and inexperienced driver were coded as contributing factors. She was also conversing with her passenger. V2 was driven by a twenty-eight-year-old-belted-male who was taking his five- year-old-male passenger who was in a child safety seat at the time of the crash home from school. Neither occupant was injured in the crash. D2 was cited by police for driving on a suspended license. The critical precrash event for V2 was other vehicle encroachment from crossing street, turning into opposite direction. The critical reason was not coded to this vehicle. This driver falsely assumed that V1 would yield the right of way based on her initial stop and was also coded for insufficient braking because the researcher believes had he slowed a bit more or reapplied his brakes (D2 had slowed for her/D1's boyfriends left turn) he could have avoided the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Stress/Emotion, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

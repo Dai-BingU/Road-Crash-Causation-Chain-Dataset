@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred shortly afternoon during daylight hours at the tri-color traffic signal controlled intersection of a North/South six lane raised median divided roadway and a two lane, two way East/West roadway. The roadways are bituminous, straight , level, and dry. The time was early afternoon. The weather was clear. The only roadway deficiencies noted were that the lane lines were very worn. The speed limit Southbound is 64 kmph (40 mph) and the Northbound limit is 56 kmph (35 mph). Vehicle one (V1), a 1999 Cadillac Deville sedan driven by a 63 year-old male, was traveling Southbound in the third lane approaching the intersection. Vehicle two (V2), a 2004 GMC Savanna Van driven by a 71 year old female, with one passenger, was traveling Northbound in the second lane approaching the intersection. When the traffic signal turned green for North/South traffic V1 entered the intersection. Driver stated he waited approximately ten seconds to see if there was any Northbound traffic approaching, He then proceeded to make a left turn in front of V2. The front of V2 impacted the right side of V1. V1 began a counterclockwise rotation and the right side of V1 contacted the left side of V2. V1 and V2 came to final rest in the first Northbound lane North of the intersection. V1 and V2 were towed from the scene due to damage. The driver of V2 was transported to a local trauma center for treatment. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related recognition factor: inadequate surveillance. The critical pre-crash event for V2 was coded: other vehicle encroachment, from opposite direction- over left lane line. The critical reason was not coded to this vehicle. An associated factor for V2 driver included a conversation with her passenger at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+Vehicle 2:  Distraction, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in the third lane of a four-lane eastbound expressway during the early evening rush hour. A concrete barrier separates the westbound lanes and the westbound lanes are not involved in this crash. This roadway is straight and made up of concrete and has no visible deficiencies. The speed limit for the roadway is 89 kmph (55 mph). There was traffic congestion at the time of the crash and the weather conditions were clear. Vehicle one (V1), a 1991 Chevrolet Caprice with one occupant, was traveling eastbound in lane three of the expressway at an unknown speed. Vehicle two (V2), a Toyota Corolla with one occupant, was traveling eastbound in lane three of the expressway ahead of V1. Vehicle three (V3), a 1996 Nissan Sentra with one occupant, was traveling ahead of both V2 and V1 in the third lane of the expressway. Traffic slowed and V3 and V2 slowed with it. V1 did not respond in time and rear-ended V2, who in turn rear-ended V1. The driver of V2 was transported with an unknown injury and the vehicle was towed due to significant front and rear-end damage. The drivers of V1 and V3 were not cooperative and pre-crash information could not be obtained in later attempts as well. The drivers of V1 and V3 were not transported and their vehicles were not towed, though V1 had severe front-end damage. The driver of V1 was a 21-year-old male for which no interview was obtained. It is surmised from the police report that the driver was conscious during the collision because the driver was uninjured and had no physical impairments according to the investigating officer. It is unknown if this driver was distracted prior to the collision, was following too close to respond to the forward traffic slowing down or misjudged the gap and/or speed of the forward traffic. There were no known vehicle factors. V1 did have a temporary license plate on the vehicle so it is possible the driver also lacked experience driving it. The Critical pre-crash event for vehicle one was coded as other motor vehicle in lane, traveling in same direction while decelerating. The Critical pre-crash reason for the critical pre-crash event for vehicle one was coded as a driver related factor: type of driver error unknown. The Critical pre-crash event for vehicle two was coded as other motor vehicle in lane, traveling in same direction with higher speed. The Critical pre-crash reason for the critical pre-crash event was not coded to this vehicle. The Critical pre-crash event for vehicle three was coded as other, not involved in first harmful event. V3 was not involved in the first harmful event and the Critical pre-crash reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

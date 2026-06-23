@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred in the morning of a weekday on a divided two-way east/west roadway. The roadway featured two lanes in each direction with a posted speed limit of 72kmph (45 mph). The bituminous, straight, and level roadway was wet at the time of the crash as it was raining. V1, a 1993 Lexus SC400, was eastbound in lane two approaching an intersection controlled by a stoplight. V2, a 1996 Toyota Camry, was stopped at the intersection waiting for the light to turn green in lane two. V3, a 2004 Toyota Corolla, was also stopped at the intersection in lane one ahead of V2. V1 failed to stop for the traffic in front of him and collided with V2. V2 was pushed into lane one and struck V3. There were no injuries and V1 and V2 were towed due to damage. V3 was able to be driven from the scene. V1 was driven by a 32 year-old male who stated that he had been at a party the evening before and had been drinking heavily. He stated that he was so intoxicated that he decided to sleep off the alcohol in the parking lot. He then stated that he woke up realizing he was late picking up his girlfriend to drop her off at work, which caused him to be in a hurry. The Critical Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason was coded as a driver related factor, a recognition error of inattention as the driver stated he was thinking about how he was late to pick up his girlfriend. Associated factors for this crash include the fact that he was upset and in a hurry. It was also his first time driving this roadway so inexperience was a factor in this crash. The rain and wet roads were also coded as associated factors. V2 was driven by a 35 year-old female in good health on her morning commute. She stated that she was stopped at the intersection waiting for the light to turn green in lane two. She said that she was tuning her radio to a different station when she saw out of the corner of her eye V1 rapidly approaching her from behind. The next thing she knew was that she was struck. She stated that her car was pushed into lane one where she struck V3. The Critical Event for V2 was coded other vehicle in lane traveling at higher speed. The Critical Reason was not coded to this vehicle. The only associated factors coded for V2 include possible inattention as the driver was adjusting her radio as well as the same road and weather conditions effecting V1. V3 was driven by a 62 year-old male who stated he saw what was unfolding and attempted to avoid the crash by moving forward a few feet. He was unable to successfully avoid the collision and was struck by V2 in the rear. The driver refused to participate in the rest of the interview. The Critical Event for V3 was coded as other, not involved in first harmful event. The Critical Reason was not coded to this vehicle. Other than the environmental and roadway factors there were no additional associated factors coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Inexperience, Driver Stress/Emotion, Roadway, Weather/Environment present problem 
+Vehicle 2:  Distraction, Roadway, Weather/Environment present problem 
+Vehicle 3:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a two lane state road with both lanes northbound, just before it merged with a two lane westbound state road. The asphalt roadway was dry, level, and curved to the left (radius of curvature 333m and super-elevation 2%). The posted speed limit was 72kph/45mph. There wer rumble strips on either side of the road. The crash occurred early on a weekday morning during the rush hour while traffic was heavy. V1, a 1991 Ford Explorer four-door SUV with one occupant was northbound in lane 2. As it approached the interchange with the other road, V1 braked when the vehicle ahead of him braked for heavy traffic ahead. V1 was able to avoid striking the vehicle ahead of him but departed the roadway on the left driving onto gravel and grass roadside. The vehicle then skidded sideways in a clockwise rotation back onto the road and across both lanes. As V1 departed the right side of the road its left side tires tripped on the shoulder and the vehicle rolled two quarter turns longitudinally to the left. The vehicle landed on its top facing east in the painted gore between the two merging roads about 4m north of the trip point. V1, the Ford Explorer, was driven by a 19-year old male who received possible injuries and was transported to a hospital. The driver reported that he was commuting from home to school traveling about 72kph/45mph as he negotiated the curve to the left. He added that he noticed traffic slowing ahead where the roads merged so he began to slow down. When the vehicle directly in front of him slammed on its brakes, the driver reported that he also slammed on his brakes in a successful attempt to avoid striking that vehicle. As a result of his braking, the driver added that he drove off the left side of the road. He added that he tried to steer back to the right while braking without lockup. He overcompensated causing the vehicle to yaw in a clockwise direction and rollover longitudinally to its left. The Critical Precrash Event for V1 was this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was driver related, overcompensation. Associated factors were assigned to V1 for driver physical, drugs due to the presence of several medications for allergies; for driver behavior, decision - following too closely in traffic congestion; for driver behavior, performance - overcompensation, after he was able to successfully avoid the first critical event; and for other, highway - traffic congestion.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

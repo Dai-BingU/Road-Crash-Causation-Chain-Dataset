@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary V1, a 1997 Dodge Ram pickup, was traveling eastbound on a three-lane, two-way, dry asphalt roadway in daylight conditions. V1 was approaching a T-intersection intending to turn right. V2, a 2003 Pontiac Grand Am, was traveling southbound on a four-lane, two-way, dry asphalt roadway approaching the same intersection. V2 was intending to go straight. The posted speed for both roadways was 89 kmph (55 mph). Eastbound traffic was controlled by a stop sign; south and northbound traffic had no traffic control device. V1 stopped at the stop sign for 10 seconds or more. V1 then made a right-hand turn. The front of V2 contacted the left of V1 before they both came to final rest in the roadway. The driver of V1 was a 68-year old male who reported that he had been traveling between 2-16 kmph (1-10 mph) prior to the crash. He had no health-related problems and had taken no medication prior to the crash. He was rested and traveling to the store. He did not wear corrective lenses. He was uninjured in the crash and refused treatment. The Critical Pre-crash Event for the driver of V1 was: this vehicle traveling, turning right at intersection. The Critical reason for the Critical Pre-crash Event was a recognition error: inadequate surveillance (e.g. failed to look, looked but did not see) because he stated that he had looked both ways but did not see V2. The driver of V2 was a 49-year old female who reported that she had been traveling between 82-97 kmph (51-60 mph) prior to the crash. She had no health-related problems and had taken no medication prior to the crash. She was rested and traveling to work. She was wearing her prescribed lenses that corrected a hyperopic (far-sighted) condition. She sustained minor injuries from the crash and sought her own treatment. The Critical Pre-crash Event for the driver of V2 was: other vehicle encroachment from crossing street, turning into same direction. The Critical Reason for the Critical Pre-crash Event was not coded to the driver of V2 and she was not thought to have contributed to the crash. She took appropriate avoidance actions.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in lane one of the southbound lanes of an urban roadway with five lanes. There were two lanes running southbound with lane three being a turn lane for both south and northbound traffic. There were two lanes for northbound traffic. The conditions were dry and clear on a weekday afternoon. The roadway was straight and level and was the start of rush-hour traffic. The posted speed was 56 KPH (35 MPH). V1 was a 1990 Chevy 1500 Truck that was driven by a 46-year-old male who was pulling a trailer behind the truck. He was in lane one on his cell phone when the traffic slowed in front of him and he was unable to stop before hitting the back of V2, a 1993 Chevy Geo Metro that was driven by a 60-year-old female who had come to a stop due to rush hour congestion. V2 was then hit from behind and was pushed into the back of V3 a 2005 Chevy Impala that was driven by a 23-year-old female who had also stopped due to traffic. All vehicles were on scene and V2's driver was transported due to injuries. V1, the 1990 Chevy Truck was driving along in lane one on his cell when the traffic started to slow. He was trying to do 2 things at once and then the traffic in front of him came to a sudden stop. He tried to hit the brakes but was unable to stop in time due to the cargo trailer he was pulling. He was not injured and his vehicle was not towed due to damages. The Critical Pre-crash Event for V1 was other motor vehicle in lane, stopped. The Critical Reason for the Critical Pre-crash Event was driver related, an internal distraction being on his cell. There were no associative factors related to the driver. He was not injured and his vehicle was not towed due to damages. V2, the Chevy Metro was stopped in lane one when she heard a loud screech and was then hit from behind and was pushed into the back of the vehicle that was stopped in front of her. The driver was sandwiched in-between V1 and V3 and was unable to avoid the crash. The driver was transported due to injuries and the vehicle was towed due to damages. There were no other factors related to the driver. The Critical Pre-crash Event was other motor vehicle in lane traveling at a higher rate of speed. The Critical Reason was not coded to this driver, as she was not though to have contributed to the crash. V3, the 2005 Chevy Impala was driven by a 23-year-old woman who had just dropped off her boyfriend at work. She stated in her interview that she was fully stopped and then heard a loud crash and was hit from behind. She was unable to avoid the crash, as she didn't see it coming until it was too late. There were no associative factors related to this driver and she was not thought to have contributed to the crash. She was not injured and her vehicle had minor scratches on the bumper. The Critical Pre-crash Event was not coded, as she was not involved in the first harmful event. The Critical Reason was not coded to this vehicle. The driver was not injured and the vehicle was not towed due to damages.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Decision, Distraction, Traffic present problem 
+Vehicle 2:  Decision, Traffic present problem 
+Vehicle 3:  Decision, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

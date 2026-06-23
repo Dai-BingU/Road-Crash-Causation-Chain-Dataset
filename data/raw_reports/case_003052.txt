@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred shortly after noon on a clear day. The crash occurred on a four-lane divided bituminous, dry highway without a positive barrier that is intersected by a county road. The county road is controlled with stop signs. The speed limit on all the roadways is 72 kmph (45 mph). Vehicle one (V1), a 1999 Ford F-250 pickup, was eastbound in lane one. Vehicle two (V2), a 2000 Ford Explorer, was westbound in lane one. Vehicle three (V3), a 2003 Pontiac Grand Prix, was southbound stopped at a traffic control sign waiting for traffic to clear. V1 entered the intersection and the front struck the left side of V2. V2 rotated counterclockwise and the right side struck the left side of V3. V2 then traveled off the northeast corner of the intersection and rolled over to the right four quarter-turns, coming to rest on its wheels facing west. V1 came to rest in the northeast corner of the intersection facing west-northwest. V3 rotated clockwise and came to rest facing north. All three vehicles were towed due to damage. The driver of V1, a twenty-seven-year-old male, was traveling with a forty-seven-year-old male passenger, from a job site to a restaurant. This driver was well rested, healthy and comfortable with his vehicle and passenger. He travels this route weekly. This driver stated that never saw V2 prior to the crash and he proceeded forward because another motorist waved him to go. The driver of V2, a thirty-five-year-old male, was not interviewed. No further information is available for this driver. The driver of V3, was a thirty-five-year-old female, was on her way home from a friend's house. She was healthy, well rested and familiar with her vehicle. She travels this route daily. This driver stated that she saw the crash between V1 and V2 but could not attempt any avoidance maneuvers. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was attributed to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver proceeded forward because another motorist waved him to go. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle. V3 was not involved in first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 3:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

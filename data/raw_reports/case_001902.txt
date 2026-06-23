@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lane of a four-lane roadway with a T-intersection. Conditions were cloudy with rain in the morning on a weekday. The posted speed limit was 50 MPH. V1 was a 1998 Hyundai Sonata sedan traveling southbound in the 1st travel lane approaching a T-intersection. A deer was crossing the roadway from left to right and the left side of V1 struck the deer. The deer then rolled over onto V1's windshield then coming to rest on the southwest corner of the T-intersection. V1 came to final rest facing southbound. V1 was driven by a 19-year-old female who sustained moderate injuries and was transported to a local hospital. She stated that she was traveling southbound when the deer ran into the left side of her vehicle. The driver of V1 did not have time to take any avoidance actions. V1 was traveling between 41 and 50 MPH at the time of impact. V1 was towed due to damage. The critical precrash event was the animal approaching the roadway. The critical reason for the critical precrash event was inadequate surveillance, failed to look. No associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Animal approaching roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the early evening of a weekend just west of a suburban “T” intersection. The crash took place in the westbound lanes of a 5-lane undivided roadway that features two lanes in each direction divided by a center left turn lane. At the location of this crash, the roadway is curved and there is an intersecting side street from the south. The roadway is bituminous and dry with a posted speed limit of 72 kmph (45 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2006 Honda Accord EX with one occupant, was turning left from the intersecting side street into the westbound lanes. V2, a 1993 Acura Vigor with one occupant, was westbound in lane one traveling at an excessive speed. As V1 completed its turn and entered V2's lane it was struck in the rear by the front of V2. Both vehicles traveled forward a short distance before coming to final rest in (westbound) lane one. The driver of V1, a 68-year-old male, was on a leisurely drive when he was involved in this crash. This driver states he stopped in the left-turn only lane and looked east and west for traffic before he proceeded to enter the intersection and make a left turn. He reports that once he entered the westbound lanes he heard a car slamming the on brakes. He was immediately struck from behind by a vehicle that he claimed he never saw before making his left turn. This driver is familiar with this intersection and admitted there were two vehicles making right turns at the same time he was making his left turn. He said those two vehicle may have obstructed his sightline of westbound traffic but he believes the vehicle that struck him was traveling too fast for that roadway. The driver of V1 suffered minor injuries and was transported to a local hospital for treatment. The Critical Precrash Event for V1 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. An associated factor coded to this driver was sightline restriction created by the vehicles turning right, as he was turning left. The driver of V2, a 20-year-old male, was on his way to visit a friend when the crash occurred. This driver states he clearly saw V1 enter the roadway and downshifted to fourth gear when he saw V1 turn into his direction. After realizing V1 was not stopping and was moving into his lane, this driver slammed on his brakes and tried to avoid a collision but he could not stop from crashing into the back of V1. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with lower speed. The Critical Reason was coded as traveling too fast to respond to unexpected actions of others.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :

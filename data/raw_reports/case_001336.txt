@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred just after noon on a weekday in the middle of a four-way residential intersection. The intersection consisted of a north/south two-lane roadway and an east/west two-lane roadway that was control by stop signs. Both roadways were bituminous, dry, straight, and level with a speed limit of 89kmph (55mph). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2004 Jeep Grand Cherokee, was stopped facing west at the intersection where it intended to turn left. V2, a 1999 Ford F350 was eastbound stopped at the same intersection where it intended to go straight. As traffic cleared on the north/south roadway both vehicles entered the intersection. As V1 began its left turn its front struck the front of V2. The force of impact pushed V1 back a few meters in a southwest direction, where it came to final rest near the point of impact. V2 continued forward a few meters before coming to final rest also near the point of impact. There were no injuries andV1 was towed due to damage while V2 was driven from the scene. V1 was driven by a 29-year-old female in good health who had just left a rummage sale and was now on her way to a friend's home. She stated that she had came to the intersection and stopped and did not originally see any vehicle across from her. Even after a vehicle (V2) stopped across the way she thought she still had the right of way when traffic cleared. She stated that as the traffic cleared she started to make her left turn and she collided with V2. The Critical Precrash Event for V1 was coded this vehicle traveling turning left at intersection. The Critical Reason for the Critical Event was coded as a driver related factor a false assumption of the vehicle's action. The driver assumed that V2 would yield the right of way. Associated factors coded to the driver include the fact that she was conversing with her son in the backseat about their afternoon plans, and the driver's inexperience with this roadway as she rarely drives it. V2 was driven by a 54-year-old male in good health despite being a diabetic (which is treated with medication). He stated he and his employees were in the area for a state exam and were on their way to a local restaurant for lunch. He claimed he waited for several minutes for traffic to clear at the intersection. As it cleared and he entered the intersection V1 turned suddenly in front of him and he could not avoid her. The Critical Precrash Event for V2 was coded other vehicle encroachment from opposite direction - over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. The associated factors coded to this driver include the distraction of conversing with his passenger about the test they had just taken and the fact that they have rarely driven this road before.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Drugs present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

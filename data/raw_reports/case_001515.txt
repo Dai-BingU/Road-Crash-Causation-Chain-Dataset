@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a two lane undivided roadway, at a curve. The pre-grade for Vehicle #1 was -6.7%. The super-elevation was 1.1%. The roadway was wet with oil slicks in spots, and it was drizzling rain. This crash occurred on a weekday afternoon. Vehicle #1, a 2001 Dodge Ram Pick-up, was traveling in a northerly direction, on the two lane roadway, down a -6.7% grade, when it started skidding after the driver applied his brakes while approaching a curve to the right. Vehicle #2, a 1992 Plymouth Voyager, was traveling in a westerly direction, on the same roadway, approaching the curve to her left. Vehicle #1 skid across its left lane line and impacted with the front of Vehicle #2, with its front at the curve. Both vehicles came to rest close to the impact point, partially in the roadway, in Vehicle #2's original travel lane. The Driver of Vehicle #1 (2001 Dodge Ram Pick-up) a belted 48 year old male, stated he was not speeding and that his brakes locked up. He stated he tried to steer his vehicle left, then right, but the vehicle would not respond, as he continued to slide. He stated he tried to take his foot off the brake but the truck continued to slide. The Critical Precrash Event coded to Vehicle #1 was: This Vehicle Traveling, Over the Lane Line on the Left Side. The Critical Reason for the Critical Precrash Event was coded as: Driver Related Factor: Too Fast for Conditions specified as wet, slick roadway. He traveled this roadway several times a month. The driver of Vehicle #2 (1992 Plymouth Voyager), a belted 66 year old female, stated she had seen the truck coming down the hill, going too fast, and realized it would make the curve too wide. She, therefore, braked hard and steered right, but could not avoid impact. The Critical Precrash Event coded to Vehicle #2 (1992 Plymouth Voyager) was coded as: Other Vehicle in Lane, Traveling in Opposite Direction. The Critical Reason for the Critical Precrash Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Roadway, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Drugs, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Motor Vehicle in Lane- Traveling in opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

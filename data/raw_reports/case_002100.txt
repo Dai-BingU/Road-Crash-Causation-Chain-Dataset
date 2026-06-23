@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred a few hours before mid-night during dark hours. It involved an intersection controlled by tri-color traffic signal. North/South four lane two way roadway and an East/West four lane two way roadway. The roadways were lighted at the time. The roadways are bituminous, level, straight and were dry at the time of the crash. The speed limit on both roadways is 32 kmph (20 mph). Vehicle one (V 1), a 2006 Ford Crown Victoria Police Interceptor driven by a 30 year-old male was southbound in the second lane approaching the intersection. Vehicle two (V 2), a 1990 Ford E-100 Conversion Van driven by a 22 year-old male with one passenger was Westbound in the second lane approaching the intersection. The driver of V 1, proceeding Southbound answering a burglar alarm call, turned on his lights and siren as he approached the intersection at a high rate of speed, in order to request the right of way thru the intersection. Per the interview, driver of V 2 was proceeding west in the second lane and did not realize that V 1 was approaching from his right until he was already in the intersection. At this point driver of V 2 swerved to left attempting to avoid V 1. Per conversation with County Sheriff's Crash Reconstructionist at the scene, driver of V 1 thought that driver of V 2 was going to yield right of way to V 1. When it became evident that V 2 was going to proceed across the intersection the driver of V 1 braked and steered right in an attempt to avoid V 2. The front of V 1 struck the right side of V 2. After impact V 1 began a clockwise rotation and came to final rest on the roadway in the intersection, facing Northwest in the first Southbound lane. V 2, after being struck in the right side by front of Vi, rolled to the left two quarter turns onto it's top and slid off the roadway at the Southwest corner of the intersection, striking a fire hydrant and coming to final rest there facing North. V 1 and V 2 were towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason for the critical pre-crash event was coded as a driver related factor: false assumption of other's actions. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street- across path. The critical reason not coded to this vehicle. Associated factors: V 1 assumed V 2 would stop for his emergency vehicle. V 2 might have had a sight line situation with a house on the corner.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Stress/Emotion, Speed/Distance present problem 
+Vehicle 2:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

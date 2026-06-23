@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a primary arterial road that ran north/south, had 5 level and straight lanes and had businesses with private driveways and lots lining both east and west sides. The road had paved shoulders. There were two northbound lanes, two southbound lanes and lane 3 was a left turn lane for use by either travel direction. The speed limit was 64kph/40mph. The crash occurred under daylight and dry conditions at mid-day on a weekday. V1 was a 1999 Ford Escort that started on the west side of the roadway in a private drive and proceeded to cross the road attempting to enter a driveway on the east side. As it (V1) was crossing it was struck on the right side by V2, a 1998 Nissan Altima that was traveling north on the roadway in lane 2 and had steered right, skidding longitudinally into lane 1 and struck V1 with its front at the east edge of the road. V1 then went into yaw and while steering right went through some landscape bushes (event 2) with its front and struck a light pole (event 3) with its right front corner. V1 came to rest facing south in a private lot on the east side of the road about 21 meters south of event 3. V2 came to rest about 10 meters east of event 1 facing east in a private drive. V1 was towed from the scene and V2 was driven away. V1 was driven by a belted eighteen-year-old-female who was uninjured in the crash. She was on her way to the grocery store and said she was looking to her left when she attempted to cross the arterial. The critical precrash event for V1 was this vehicle traveling, passing through an intersection. The critical reason was coded as inadequate surveillance, failed to look to side (right). V1 was also coded as looking at approaching traffic, and inexperienced driver. V2 was driven by a belted twenty-two-year-old female who was also not injured in the crash. She was on her way to meet some friends after lunch and said she had just looked over her right shoulder and was beginning to change lanes from left (lane 2) to right (lane 1) when V1 pulled in front of her. The critical precrash event for V2 was other vehicle encroachment from driveway across path. The critical reason was not coded to this vehicle. An exterior factor of looking back over right shoulder to check if clear to make lane change was coded to V2. Traveling too fast to be able to respond to unexpected actions of others was also attributed to V2 because the driver said she was traveling at between 45mph and 50mph before she saw a problem.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Distraction, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Starting in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From driveway, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

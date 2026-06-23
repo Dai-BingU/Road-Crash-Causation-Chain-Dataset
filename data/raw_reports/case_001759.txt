@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of weekday on a two-way, two-lane residential roadway. The north/south roadway was consisted of a lane in each direction with a posted speed limit of 40kmph (25 mph), as it was a school zone (with school zone signs). The bituminous roadway was dry, straight, and level. Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1998 Mercury Mystique, was southbound entering the school zone. V2, a 1994 Chevy Astro Van, was backing out of a driveway ahead of V1. As V2 completed backing out and began accelerating southbound it was struck in the rear by the front of V1. After contact V2 traveled around the corner onto a side street while V1 came to final rest in the original travel lane near the point of impact. V1 was driven by an 18-year-old female in good health who was on her way home from a restaurant at the time of the crash. The driver stated she had noted the van starting to back out of the driveway and thought it would stop at the curb and not back onto the roadway. The driver also stated she was in the middle of a social conversation with her passenger. The driver was uninjured, but the passenger in the right front seat and the two small children were transported for minor injuries and V1 was towed due to damage. The Critical Precrash Event for V1 was coded other motor vehicle in lane, traveling in same direction with lower speed. The Critical Reason for the Critical Event was coded as a driver related factor internal distraction, as the driver was not completely focused on the driving task. Associated factors for this driver include inattention, traveling too fast for conditions, a false assumption of other's actions and inexperience. V2 was driven by a 50-year-old female who stated she was on her way to pick-up her granddaughter at the time of the crash. She stated her older sister was in the van with her. She stated that she had looked to the north before backing out of the driveway. She stated she saw V1 back at a stop sign down the road. She assumed that based on the school zone speed limit she had enough time to complete her backing up maneuver. She stated after impact she drove a few more feet to turn the corner onto a side street. The driver of the van and its passenger were not injured by the crash and V2 was driven from the scene. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. The associated factors to this vehicle were that this drive was fatigued and dealing with several family issues.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Speed/Distance present problem 
+Vehicle 2:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred in the evening in the westbound lanes of a wet, non-divided, straight, level, bituminous roadway consisting of two travel lanes in each direction and a two-way center turn lane. The roadway has a posted speed limit of 56 kmph (35 mph). At the time of the crash it was dark, overcast and raining and there was stopped traffic in the number one westbound lane that presented a sight restriction for both vehicles. Vehicle one (V1), a light gray 1991 Chevrolet Lumina 4-door sedan driven by a 18 year-old female, was stopped facing southbound in a private driveway. She was intending to enter the roadway and turn left to travel east. A non-contact vehicle in lane one, stopped and left a gap for V1 to pass through. V1 initiated the left turn and the left side of V1 was contacted by the front of vehicle two (V2) in the number two lane. The impact rotated V1 clockwise on a generally west trajectory and V1 came to rest facing generally southeast with the L/R tire on the North sidewalk, and the L/F tire in lane on of the westbound lanes. V2, a gold 1999 Chevrolet Lumina 4-door sedan driven by a 25 year-old female, was westbound in the number two lane. After impact with V1, V2 rotated counterclockwise and had an unknown acceleration issue that caused V2 to depart the impact on a generally south trajectory and come to rest facing southeast in lane one of the eastbound lanes. V1 and V2 were both towed due to damage. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was assigned to V1 as a driver related decision error: turned with obstructed view. The critical pre-crash event for V2 was coded: other vehicle encroachment; from driveway, turning into opposite direction. The critical reason for the critical event was not coded to V 2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Roadway, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Roadway, Surveillance, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

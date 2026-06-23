@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the middle of an intersection of a 2-lane undivided street and a one-lane one-way street. The north/south roadway (the two-lane two-way street) was controlled by stop signs, while the eastbound roadway had no traffic control device. The crash took place during the late evening hours, and there were streetlights present. There were no adverse weather conditions and the roadways were dry. The gradient for vehicle one (V1) was a slight positive and the grade for vehicle two (V2) was level. The posted speed limit for both vehicles was 40 kmph (25 mph). Vehicle one, a 1997 Chrysler Concorde, was traveling north intending to continue straight through the intersection with a facing stop sign. Vehicle two, a 2002 Toyota RAV-4, was traveling east, intending to continue straight through the intersection with no facing stop sign. The right front of V2 made contact with the left front side of V1. The impact caused V1 to rotate slightly clockwise before coming to final rest facing in a northeasterly direction. Vehicle two continued forward in an easterly direction before coming to final rest. Vehicle one was towed from the scene due to damage. Vehicle was drivable and was driven from the scene by Driver #2 prior to the researcher's arrival. The driver of V1, a 20-year-old male, sustained minor injuries. There were no other occupants present in the vehicle at the time of the crash according to the police accident report. An interview from the driver could not be obtained; therefore, it was uncertain whether any other factors contributed to this crash. Through evidence observed at the scene, as well as information contained in the police report, the Critical Pre-Crash Event coded to this vehicle was: this vehicle crossing over (passing through) intersection. The reason for the Critical Pre-Crash Event was coded as an illegal maneuver because V1 failed to stop for a stop sign. No associated factors could be coded to the driver of V1 due to the lack of an interview. The driver of V2, a 23-year-old female, sustained no injuries. There were no other occupants present in the vehicle when this crash occurred. An interview with the driver was not obtained and therefore, it was not known if any other factors played a part in this crash. The Critical Pre-Crash Event coded for this vehicle was: other vehicle encroachment from crossing street, across path. The Critical Reason was not coded to this vehicle. No associated factors could be coded to the driver of V2 due to the lack of an interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

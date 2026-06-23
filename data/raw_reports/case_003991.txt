@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This motor vehicle crash occurred on a major highway. That day there were no adverse conditions, it happened around sunset, and there were no streetlights on at the time. The highway is a twelve-lane highway that runs north/south - six lanes in each direction, with the six lanes divided into groups of three by grassy medians with curb edges that border the roadside. The crash involved only one vehicle, a 2005 Ford Escape Sport Utility Vehicle, which rolled over. It was traveling in lane two of the center southbound lanes. The Ford lost control and struck the curb at the edge of the roadway, causing it to trip over onto the grass median. The vehicle came to rest on its roof leaning against a tree. The driver of V1, a 51-year old female, stated that she was driving in the center southbound lane (lane two) when a vehicle in lane three tried to encroach into V1's lane. After two attempts by the vehicle in lane three to try to enter V1's lane, it entered into V1's lane of travel, forcing V1 to change lanes abruptly to lane one. The driver of V1 stated that she tried to regain control but was unsuccessful. She believes she rolled over 2-3 times before waking up upside down inside the vehicle and someone asking her to get out of the vehicle. The driver could not recall exactly when the vehicle started its rollover sequence and feels that she may have blacked out as a result of the forces being applied by the rollover sequence. The driver of V1 was wearing her seatbelt and refused treatment initially but was then transported to the hospital for a check-up. The Critical Pre-Crash Event was coded as "This vehicle loss of control due to other cause of control loss," specified as "avoidance maneuver." This was chosen because a witness verified to police the presence and actions of the no-contact vehicle (cutting off V1). The Critical Reason For the Critical Pre-Crash Event was coded as overcompensation, a performance error. The driver in the interview stated that she had waited for traffic to die down before heading home because she hates all the traffic on the highway. She also stated that she tries to avoid this highway as much as she can. This was coded as an experience-related associated factor. Another factor coded to this driver was the use of a prescription allergy medication.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Other cause of control loss (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

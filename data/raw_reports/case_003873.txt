@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during nighttime conditions on a westbound expressway. The expressway consists of four, bituminous, lanes that are straight and level with no noted deficiencies. The roadway also consists of shoulders on each side, and a concrete barrier separating the expressway from eastbound traffic. At the time of the crash, the weather conditions were clear and the speed limit is 89 kmph (55 mph). Vehicle one, a 1994 Pontiac Bonneville was westbound in an unknown lane. When vehicle one ran off the road on the left side of the road and struck the concrete barrier with its left side. It then swerved across four lanes, with its right side hitting the left side of vehicle two. Vehicle two, a GMC armored truck was westbound in the first lane when it was struck. According to the reporting officer the driver of vehicle one fled the scene on foot with unknown injuries, vehicle one was towed due to its damage. Vehicle two was not towed due to damage. The driver of vehicle one, an unknown driver was not interviewed. The driver of vehicle two, a male driver of unknown age was on his way from picking up some cargo to dropping off some cargo. This driver indicated that he saw the other vehicle coming up in his side mirror. This driver drives this vehicle daily and over this road on a daily basis. The critical pre-crash event for vehicle one is "this vehicle traveling: off the edge of the road on the left side". The critical reason for the critical pre-crash event for vehicle one is coded as "driver related factor: type of driver error unknown". The critical pre-crash event for vehicle one is coded as "not involved in first harmful event". The critical reason for the critical pre-crash event for vehicle two is coded as "not coded to this vehicle".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Unknown
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

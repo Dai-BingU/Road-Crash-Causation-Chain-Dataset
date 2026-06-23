@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, four-lane, straight, bituminous road with a posted speed limit of 72 kmh (45 mph) where it intersects at a T intersection with a driveway from an apartment complex controlled by a stop sign. The driveway is two-way, two-lane, straight and bituminous with a posted speed limit of 18 kmh (11 mph). Conditions at the time of the weekday, afternoon crash were daylight, cloudy and dry. V1, a 2004 Kia Optima LX 4 door sedan, driven by a 26 year-old female on her way home from a friend's apartment was eastbound, stopped at the stop sign for 4-5 seconds, waiting to turn left out of the driveway. Traffic was backed-up southbound on the four lane road due to rush hour congestion. A witness vehicle in lane one stated that she stopped short of the driveway on the north side so as not to block the driveway. The witness driver waved to the driver of V1 to pull out onto the road. The driver of V1, who was talking on her handheld cell phone, looked right and then left, and then proceeded out of the driveway. The driver of V1 could not clearly see lane two due to the vehicles stopped on the road in lane one. When V1 crossed into lane two the left front of v1 was struck by the front of V2. V1 took no avoidance actions. V1 rotated clockwise and came to rest in lane two facing southeast. V1 was towed from the scene due to damage. The fully restrained driver refused medical treatment. V2, a 2002 Kia Sedona minivan driven by a 29 year-old female on her commute home from work, was southbound on the four-lane road in lane two. The driver stated she was traveling 56 kmh (35 mph) when v1 came out from a driveway on the right. The driver of V2 did not see V1 until it was right in front of her due to the stopped vehicles in lane one. The driver of V2 braked, but the front of V2 truck the left front of V1 in lane two. V2 rotated counterclockwise and came to rest straddling lane two and the northbound lane two facing south/southeast. V2 was towed from the scene due to damage. The fully restrained driver denied injuries. The children of the driver, a 3 year old male in a child safety seat in row two left side, a 1 year-old male in a child safety seat in row two center seat, and an 8 year-old female in row three fully restrained in the right seat, were uninjured in the crash. The Precrash Critical Event coded to the driver of V1 was 'this vehicle traveling turning left at intersection.' The Critical Reason for the Critical Event coded to V1 was a 'driver-decision error-turned with obstructed view.' A Contributing Factor coded to this driver was 'a driver distraction-talking on cell phone.' An Associated Factor of 'driver related-emotional-thinking about financial concerns' was also coded to the driver of V1. The Critical Precrash Event coded to the driver of V2 was 'other vehicle encroachment from driveway turning into opposite direction.' The Critical Reason was not coded to this vehicle. Contributing Factors of 'rush hour congestion', 'impending problem masked by traffic flow', and 'sight line restriction due to stopped vehicles southbound in lane one' were coded for both drivers.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Decision, Distraction, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Roadway, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

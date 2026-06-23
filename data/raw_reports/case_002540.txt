@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the intersection of a two-lane, two-way, roadway, with a posted speed limit of 89 kmph (55 mph), and a public drive into a wastewater treatment facility. The traffic exiting the treatment facility is controlled by a functioning stop sign. At the time of the crash the weather was snowing and blowing with no accumulation, and it was still during dawn hours, but no sight restriction were found. V1 a 1994 International 4900 Medium/Heavy truck being used as a septic hauler was exiting the wastewater treatment facility after emptying its tanker container. V2 a 2006 Ford E350 15 passenger van was northbound approaching the intersection. The front of V1 contacted the right rear of V2 sending V2 into a clockwise rotation. During the rotation V2 then exited the roadway to the right side. V2 then contacted a guardrail that was off the right side of the road with the left rear tire, the van then traveled on top of the guardrail causing damage to the undercarriage, and then rolled on to the left side contacting the ground and continued to roll onto its top where it contacted a fence. The driver of V1 stated that he was exiting the drive to the wastewater treatment facility, stopped at the stop sign and was waiting for traffic to clear so he could complete a left turn and travel southbound. The driver stated that he had looked both right and left and saw no vehicle, but he claimed that his foot slipped off the clutch pedal, and he said that he was surprised when he turned back to the left to see V2 approaching. The driver stated that when he did see V2 they were already attempting evasive maneuvers to avoid the crash, by veering into the southbound travel lane. The Critical Pre-crash Event being this vehicle traveling, turning left at an intersection. The Critical Reason for Critical Pre-crash Event is this coded inadequate surveillance; looked but didn't see because the driver of V1 stated that he didn't see V2 approaching from the south. The driver of V2 stated that he was northbound approaching the intersection, when he noticed a big white truck (V1) decelerating while approaching the stop sign but never coming to a complete stop. The driver stated that he observed the truck entering the travel lane and began to pull into the oncoming traffic to avoid running into the left side of the truck. He stated that his van was then pushed into a clockwise rotation, then off the road to the right side where the van rolled onto the top. The Critical Event is coded other vehicle encroaching from a crossing street, turning into opposite direction. No critical reason could be coded for this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Decision, Drugs, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

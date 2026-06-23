@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash happened at night on an urban roadway that runs north and south. At the location of the crash, there are three northbound lanes and four southbound lanes with a grass median dividing the two directions. The southbound road is straight and the northbound road is curved to the right. V1, a 1994 Honda Civic, was traveling north and V2, a 1996 Chevrolet Lumina, was traveling south. As V1 rounded the curve, it departed the left side of the road and entered a downhill slope of the grass median. Once V1 tripped in the median, it became airborne, struck a small tree, and traveled into the southbound lanes where it was struck by V2. The driver of V1 was killed instantly and the driver of V2 was transported from the scene for observation. V1 was driven by a 22-year-old male. The brother of the driver declined to be interview and the only information coded for this driver is from the police report and medical examination. The Critical Precrash Event for this driver was coded: this vehicle traveling off the edge of the road on the left side and the Critical Reason for the Precrash Event was coded: too fast for curve. V2 was driven by a 30-year-old male. She was returning home from work tonight when she saw V1 rolling toward her. She immediately steered to the right and braked hard. She did not report to have any emotional, physical or fatigue factors related to this crash. The Critical Precrash Event for this driver was coded: Not involved in the first harmful event and Critical Reason was not coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Speed/Distance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

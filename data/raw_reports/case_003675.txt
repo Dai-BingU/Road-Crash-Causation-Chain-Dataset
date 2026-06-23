@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of a secondary arterial road and a residential side road. The arterial road ran east/west, and was two-way, two-lane with solid double yellow stripes. The arterial road was straight with a positive 2% grade 80 meters east of the intersection and was level at the intersection. The residential road was also a two-way, two-lane road with double yellow stripes. It ran north/south and had a negative 18% grade 10 meters before (north of) the intersection. Where the north portion of the residential road intersects the arterial the road was scored with pavement gouges from vehicles bottoming out there regularly. This portion of road also showed a rather large “rainbow” of oil on the road at the bottom of the hill where the road levels off into the intersection. The intersection was controlled by stop signs (2-way) for the residential road. Conditions were daylight and raining on a weekday morning (after rush hour) with the speed limit for both vehicles on both roads at 48kph (30mph). Vehicle #1 was a 1992 GMC Jimmy traveling south toward the intersection on the residential road. Vehicle #2, a 2000 Pontiac Sunfire, was traveling west on the arterial road. Vehicle #1 slid through its stop sign into the intersection and then accelerated in an attempted avoidance maneuver when it was struck on its left rear by Vehicle #2. After impact the Jimmy (V1) spun around 180 degrees and came to rest facing north on the south side of the intersection. Vehicle #2 swerved right just before impact and sustained left front damage in the crash before coming to rest facing west on the right side of the arterial road on the west side of the intersection. Vehicle #1 was driven from the scene and Vehicle #2 was towed from the scene. Vehicle #1 was driven by a twenty-two year old, belted, female. She was uninjured in the crash. The critical pre-crash event for vehicle #1 was this vehicle passing through an intersection. The critical reason was coded as too fast for conditions on the basis of wet roads, steep grade, oil on road, and very low tread on the front tires of Vehicle #1. Associated factors included roadway factors wet road, slick surface, and a shrubbery sight line restriction. Rain and low tread on front tires was also included. Vehicle #2 was driven by a twenty nine year old, belted, female who was only slightly injured in the crash but refused EMS transport. The critical pre-crash event for Vehicle #2 was other vehicle encroachment from crossing street, across path. The critical reason was not coded to this vehicle. The only associated factors were rain and a shrubbery sight line restriction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Drugs, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

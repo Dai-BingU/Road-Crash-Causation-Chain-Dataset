@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the middle of a controlled intersection of two five-lane, non-divided roadways. Both roadways were similar, both being five-lanes wide, two-way traffic separated by a left turn lane, both were straight and level in their design, and both were dry asphalt at the time of the crash. This crash occurred in the late morning on a weekday, the conditions were dry, and sunny. V2 was heading eastbound approaching the controlled intersection, on her way home. V1 was waiting underneath the traffic control device headed west waiting for traffic to clear so he could complete a left turn and travel south. The driver of V1 noticed that the light had changed so he wanted to complete his turn before he had to stop, so he accelerated trying to turn. While completing his southbound turn V1 was contacted by the front of V2. V1 a 2002 Chevrolet Cavalier being driven by a 41 year-old male driver was attempting to make a left turn and travel south. The driver stated that he looked and saw V2 approaching, but thought that he would have time to complete the turn. He was unable to complete the turn in time, and got struck in the right side by V2. V1 was towed due to damage, but the driver was uninjured. The Critical Precrash Event for this vehicle is coded that this vehicle traveling, and turning left at an intersection. The Critical Reason for this Critical Precrash Event is a misjudgment of gap, or other vehicles speed. The 17 year-old female driver of V2 a 2001 Honda Civic was on her lunch break from a local High school and was traveling home for lunch. She stated that when she was approaching the light there was a vehicle in the right lane, turning right, and a vehicle in the left lane, turning left, she stated that she saw V1 in the intersection, but thought that he would wait because there wasn't enough time for him to turn. She stated that she saw V1 attempt the turn, and in an attempt to avoid the collision applied her brakes and steered to the right. V2 was towed due to damages with dual air bag deployment. The Critical Precrash Event for this vehicle is coded other vehicle encroaching from opposite direction, over left lane line. The Critical Reason was not coded for this vehicle, and no associative factors could be determined for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

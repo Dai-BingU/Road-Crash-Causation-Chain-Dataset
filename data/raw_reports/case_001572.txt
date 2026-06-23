@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at an intersection between a two-way, four-lane roadway that runs north and south and a two-way, two-lane crossing street that is controlled by a stop sign shortly after noon on a weekday. The roadways were straight, dry, level, and asphalt with a speed posted at 56kmph (35mph). As V2, a 2000 Chevrolet Tracker, traveled north in lane two; V1, a 1998 Chrysler Sebring was sitting facing West waiting to turn left and travel South. As a non-contact vehicle in lane one passed the intersection V1 started to make it's left turn onto the southbound lanes of the roadway. As it entered the intersection V1 front left corner contacted V2 front right side corner. V2 rotated counter-clockwise slightly to come to final rest alongside V1 facing northwest. Although both vehicles sat side-by-side they did not side slap after the first impact. V1 was driven by a 26 year-old male in good health but he does wear glasses to correct a myopic (near-sightedness) condition. He stated that he had just left a customers home about a block away from the crash and was on his way to another appointment. He was not in any hurry and felt well rested before the crash. This driver also states that he sat at the intersection waiting to turn left for some extra time because of the elevated R/R crossing to his right, which makes southbound traffic difficult to see. This driver stated that he looked to the right and then left where he saw a white van northbound in lane 1 but did not see the red SUV in lane 2. He claimed that as the van he had been looking at passed he looked back to the left and started his turn. He saw V2 and applied his brakes but it was too late and he could not avoid the SUV. They both rotated and went towards the northwest corner to final rest. The driver suffered no injuries and V1 was towed due to damage. The Critical Pre-crash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was coded as a recognition error- inadequate surveillance (looked but did not see). The associated factors to this crash were the driver preoccupation with the threat of southbound traffic that he could not see as well as his inattention that stemmed from his concern over his an appointment schedule set for the day. V2 was driven by a 43 year-old female in good health but does wear glasses for a myopic (near-sightedness) condition. She stated that her daughter had had a half-day of school so they went for lunch and were now on their way home. She stated they had driven about ½ mile when the crash occurred. She stated that she saw V1 sitting at the stop sign, as it started to move forward her thoughts were that she hoped it would not pull out. She stated they made contact and rotated to face the North West corner. Both driver and occupant suffered minor injuries and were not transported. V2 was towed due to damage. The Critical Pre-crash Event for V2 was coded other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason for the critical event was not coded to this vehicle. The associated factor to this vehicle was that the driver was conversing with the passenger just before the crash occurred and may have been inattentive to the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Stress/Emotion, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

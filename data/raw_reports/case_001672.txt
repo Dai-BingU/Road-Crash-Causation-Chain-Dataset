@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at an intersection between a 4-lane north/south roadway and a two-lane intersecting roadway controlled by a stop sign. The roadways were level, dry, straight, and asphalt. As V1, a 2002 Buick LeSabre, traveled eastbound it failed to stop for the stop sign and entered the intersection. V2, a 1998 GMC G-Series Van, contacted V1 left with it's front as it traveled through the intersection. V1 began rotating slightly counter-clockwise then the left front wheel assembly snapped off causing the vehicle to rotate back clockwise across the roadway, off the road and up a hill coming to final rest in some small trees. V2 rotated around to the south side of the road coming to final rest on the southwest shoulder. V1 was driven by a 58 year-old female who was believed to have been in fair health however her sister who gave the interview stated that her sister was on many medications for allergies, asthma, and seizer disorder. The sister also stated that the driver had an open candy bar that contained nuts in her hand despite the fact she had a severe allergy to nuts (this allergy is believed to have contributed to the crash as a reason V1 ran the stop sign). The sister states that the driver was on her way home from a shopping center and she rarely drives this roadway but was forced to because of the construction going on in the area. The Critical Precrash Event for V1 was coded as this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Event was coded as a decision error, illegal maneuver. The associating factors were the allergies she had to peanuts and there physical effects. V2 was driven by a 49 year-old male in good health on his way home from his cabin up north. His map did not show this roadway on it but he did not want to turn onto a roadway that he did not know. He was hoping that the roadway would cross the roadway he was looking for. He had stated he had never driven the roadway before and was not familiar with it. The Critical Precrash Event for V2 was coded as other vehicle encroachment from crossing street, across path. The Critical Reason was not coded to this vehicle. The associated factors where the fact that the driver was unfamiliar with the area and had never driven this roadway before. He may have been talking to his wife who was looking at the map and may have been looking at the map also. This driver stated that he was driving in lane two on the roadway and that there was a Motor Cycle next to him. As he started to try to do an avoidance maneuver he remember that the motorcycle was next to him. When this researcher interviewed the motorcycle rider she stated that she was in lane 2 and that V2 was in lane 1. She claimed she was right next to the driver of V2 even with his front bumper. She stated the driver of V1 appeared to be looking to her right as to be dialing a cell phone.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Physical, Driver Stress/Emotion, Drugs present problem 
+Vehicle 2:  Distraction, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

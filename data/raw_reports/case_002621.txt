@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a two lane divided highway in the morning rush hour. The weather conditions were normal. There were no traffic signals at the intersection. The highway has a speed limit of 89 kmph (55 mph). State Troopers on the scene also did not want the crash scene tampered with so he requested that distance be kept. The crash happened on the Northbound lane of the highway. V1 a 2005 Peterbuilt Truck was turning left from the southbound lane of the highway onto a eastbound roadway. V2 a 2005 Toyota Corolla was traveling northbound on the same roadway. V1 pulled into the intersection causing V2 to strike it in the right side. The driver of V1 did not want to be questioned and did not want any pictures taken of his vehicle. The Critical Precrash Event for V1 is this vehicle traveling - turning left at intersection. The Critical Reason for the Critical Precrash Event is unknown reason for critical event. Upon arrival at the scene, the driver of V2 was sitting on the curb. The EMS that was dispatched checked her and she refused treatment. Upon questioning, she stated that she was going straight on the northbound lane of the highway going the speed limit when the truck had pulled into the intersection and just slowed down. She also stated that she did not know that there was a turning lane there. She said she slammed on the brakes but by that time it was to late and she had struck V1. Driver of V2 stated that her Drivers License requires her to wear glasses and she was wearing them at the time of crash. V2 was towed due to damage. The Critical Precrash Event for V2 is other vehicle encroachment from opposite direction-over left lane line. The Critical Reason was not coded to this vehicle. Owners of the gas station where the crash occurred stated that there are crashes at that particular intersection on a weekly basis.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown decision error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in an intersection of an undivided four-lane roadway and a private driveway. There were two northbound lanes and two southbound lanes. There was also a four-way intersection controlled by a stoplight just to the south of the point-of-impact. The roadway was straight, had a down slope of 1 percent south, and was bituminous. It was dusk with no adverse atmospheric conditions, and traffic was moderate. The posted speed limit was 56 kmph (35 mph). V1 was a 2003 Mitsubishi Lancer driven by a 23-year-old male. The vehicle was traveling south in lane one at an apparent high rate of speed. V1 crossed into the second lane in front of another vehicle, apparently so quickly that this vehicle needed to brake very hard. V1 then made a sharp left hand turn into a gas station in front of V2, which was traveling in the curb lane. V1 then struck V2 in the front. The Critical Pre-crash Event for V1 was "this vehicle turning left at intersection." The Critical Reason for the Critical Pre-crash Event was inadequate surveillance, a driver-related factor. According to witness statements, V1 was driving aggressively - weaving in and out of traffic and speeding. One witness stated that V2 did not have its lights on at the time, which, at dusk could have contributed another factor to the driver of V1 not seeing V2. Associated factors coded to the driver of V1 were alcohol use (the driver was cited for DUI) and aggressive driving. V2 was a 1993 Jeep Cherokee driven by a 27-year-old male. There were two occupants in this vehicle. The Critical Pre-crash Event for V2 was "other vehicle encroachment, from opposite direction - over left lane line." The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. One associated factor coded to the driver of V2 was a failure to turn on his headlamps.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Alcohol, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

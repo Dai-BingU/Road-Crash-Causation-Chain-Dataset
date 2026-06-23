@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in a four-way intersection of a five-lane urban roadway that is controlled by traffic lights. There were three eastbound lanes, with lane three being a left-turn only lane. There were two eastbound lanes with lane two, being a left turn only lane. All were controlled by traffic lights. Conditions were afternoon on a weekday with clear skies. The roadway was level and the traffic flow was normal. Vehicle # 1 was a 2002 Ford Mustang that was traveling in lane two heading northbound going approximately 48 KPH through the intersection. She stated in the interview that she was looking at the car in front of her and by accident shifted into a higher gear and ran the red light. As she ran the red light she impacted Vehicle # 2, a 1990 Dodge Caravan who was traveling eastbound through the intersection. Although neither driver was injured both vehicles were towed due to damages. The critical precrash event for Vehicle #1 was this vehicle traveling passing through an intersection. The critical reason was a recognition error, an external distraction, as she stated in the interview she was following the car in front of her and accidentally ran the red light. The driver was a 46-year-old female who had recently had knee surgery (a torn ACL) and was on hylan (an injection for swelling and pain), Xanax, and Wellbutrin, all of which have drowsiness and confusion listed as possible side effects. She was cited for running the red light. The critical precrash event for vehicle #2 was other vehicle encroachment from Crossing Street, across path. The critical reason was not coded for this vehicle as he was thought to have not contributed to the crash. The driver was a 56-year-old male who was not injured and had no other associative factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Performance, Driver Physical, Driver Stress/Emotion, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

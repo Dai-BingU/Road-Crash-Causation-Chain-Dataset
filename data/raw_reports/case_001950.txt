@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred at a T-intersection regulated by two stop signs. One stop sign regulated the southbound lane. The other stop sign regulated the traffic coming from the eastbound lanes that could turn either north or south. There were no regulations on northbound traffic. The southbound lane was straight, had a downhill grade of greater than 6 percent, and had a posted speed limit of 56 kmph (35 mph). The eastbound lane was straight, level, and had a posted speed limit of 40 kmph (25 mph). Both roadways were bituminous. The roadways were dry and conditions were clear. The crash occurred in the mid-afternoon hours on a weekday. V1 was a 1996 Subaru Legacy station wagon driven by a 66-year-old female. V2 was a 2000 Ford Ranger pickup truck, driven by a 50-year-old male. V1 was traveling southbound in lane one approaching the T-intersection and did not stop for its stop sign. V2 was traveling eastbound and stopped for its stop sign. The driver of V2 looked both ways and noticed V1 traveling towards the intersection. Since V1 had a stop sign, V2 began to proceed into the intersection, intending on turning left and then traveling in the northbound lane. As V2 entered the intersection, V1 contacted it in the driver's side door. The collision caused V2 to roll one-quarter turn to the right and skid into the northbound lane where it came to final rest. The driver of V1 had attempted to apply her brakes and steer to the right but was unable to avoid the collision. After the vehicles made contact, V2 went off of the roadway to the right and went through a fence near the roadside where it came to final rest. The Critical Pre-crash Event for V1 was "other vehicle encroachment from crossing street, turning into opposite direction." The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle; however, there were associated factors coded to the driver. First of all, the driver of V1 was inattentive to the driving task. As related by the driver, her mother was in a personal care home, and she was on her way to the bank to take care of her mother's finances. The circumstances with her mother were heavy on her mind and she was not fully concentrating on driving. She also related that she drove this road frequently and knew that this particular stop sign was there. The driver said that she never noticed V2 until it was already in the intersection. Other associated factors coded to the driver of V1 were failure to stop for the stop sign (an illegal maneuver) and being upset about her mother. The Critical Pre-crash Event for V2 was "this vehicle traveling-turning left at intersection." The Critical Reason for the Critical Pre-crash Event was coded as "false assumption of other road users actions," because the driver of V2 stated that he saw V1 approaching but assumed that it would stop for its stop sign.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Stress/Emotion present problem 
+Vehicle 2:  Decision, Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

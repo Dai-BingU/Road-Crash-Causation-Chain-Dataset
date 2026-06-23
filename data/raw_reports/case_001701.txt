@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of a weekend in the eastbound lanes of a suburban roadway. The east/west roadway consisted of two lanes in each direction divided by a two-way center left-turn lane. The bituminous roadway was dry, straight, and level with a posted speed of 72 kmph (45 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1996 Mercury Sable four door with one occupant, was eastbound in lane one. V2, a 1999 Buick LeSabre four door with one occupant, was also eastbound in lane one ahead of V1. As V2 approached a driveway that it intersected the roadway it began to decelerate in preparation to turn. V1 failed to slow down behind V2 and the front of V1 struck the back of V2. V1 rotated clockwise nearly 90 degrees and came to final rest in the roadway. V2 crossed the driveway and departed the roadway before coming to final rest partially on the roadway past the driveway. Both vehicles were towed due to damage. The driver of V1, a 44-year-old female, reported minor injuries. She claimed that she was traveling between 50-64 kmph (31-40 mph) prior to the crash. She had just left the bank and was on her way home, but rarely drives this roadway. She stated that she had dropped her cell phone and was looking down in an attempt to retrieve it. When she looked back up she saw V2 stopping in front of her. She applied the brakes but was unable to avoid contacting V2. The Critical Precrash Event for V1 coded was other motor vehicle in lane, traveling in same direction while decelerating. The Critical Reason for the Critical Precrash Event was a driver related factor, an internal distraction. An associated factor coded to V1 was inexperience as she rarely drove this roadway. The driver of V2, a 78-year-old male, died as a result of the crash. He had left his home and was on his way to his friend's house when the crash occurred. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. No Critical Reason was coded for the driver of V2. There were no known associated factors coded to V2 and the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

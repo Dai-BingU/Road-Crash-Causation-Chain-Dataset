@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The three-vehicle crash occurred at mid block several feet from the intersection. The one-way northbound roadway was asphalt, level, and wet, it had just begun to rain a half hour prior to the crash. The posted speed limit was 48 kmph (30 mph). There were no traffic control devices at this mid block location. The crash occurred in the early afternoon on a weekday. The traffic flow was light and the roadway was slippery and it was raining. Vehicle one, a 2003 Mercury Marauder, was traveling northbound on a one-way roadway when on the wet slippery road, it contacted its front with the rear of vehicle two (V2), a 1995 Dodge Ram, parked on the west side curb edge. The impact caused V2 to move forward a few feet and to rotate 15 degrees clockwise, where it came to final rest facing eastward. Vehicle two (V2), after the initial impact, contacted its front with the rear of vehicle three (V3), a 1986 Ford Aerostar, causing minor damage. Vehicle one, before coming to final rest, rotated 180 degrees, hit the right rear with the right front of V2 and came to final rest facing southward. The damage disabled (V2). However, police recorded the crash as a non-reportable crash. The driver of V1, a 20-year old male, traveled on the roadway daily. He said while traveling northbound at approximately 56 kmph (35 mph). A vehicle suddenly stopped in front of his vehicle and he slammed on the brakes, steered left and lost control of his vehicle causing him to impact vehicle two. The impact to V2 caused it to impact V3, also parked. The police on scene did not record any evidence of a stopped vehicle neither were there any scene evidence or witnesses to support this phantom vehicle. The police issued the driver a citation for reckless driving/ speeding. However, his exact speed is unknown. The driver was transported to the hospital with injuries. The driver said he was comfortable with this borrowed vehicle. He slept six hours the previous night, however, normally sleeps eight hours a night. He said that he was not fatigue. The Critical Pre-Crash Event for V1 was this vehicle traveling over the lane line on the left side of the travel lane. The Critical Reason was coded as incorrect evasive actions. Associated factors coded to this driver include aggressive driving; reason unknown, inadequate actions; a combination of braking and steering.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

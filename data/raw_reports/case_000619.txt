@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in northbound lanes of a 3-lane divided highway during the late morning of a weekday. The road was flat, dry, and had posted speed limit of 45 mph. V1, a 2002 Ford F250 with an attached trailer and 2 occupants, was traveling north in lane and V2, a 2005 Acura TSX with one occupant was traveling behind V1 in the same lane. V1 attempted a left turn into a public parking lot and its trailer was struck by the front of V2. V2 attempted to pass V1 in lane one as V2 made its turn. V1 was not towed due to damage but its trailer was left behind because of disabling damage caused by the crash. V2 was towed from the scene because of damage. None of the occupants suffered injuries and nobody was transported from the scene. V1 was driven by a 27-year-old male works that for a construction company which operates its business from a shop 70 miles from this crash site. For this trip today, he was driving toward a new job site that he began working at yesterday. He states he was driving north on this 3-lane divided roadway and drove passed a turn he was supposed to make. Once he realized he missed the intended exit, he tried to cross through a parking lot so he could get in the southbound direction. He reports that he turned on his left-turn signal, slowed down, and checked all of his mirrors before attempting a left turn from the second lane. This driver claims that halfway through his turn, he heard a car "smash into his trailer" and that was the only time he ever saw the Acura that struck him. He claimed that there was little to no traffic on the road and he never saw the Acura at anytime before the crash. He admits he was asking his passenger (co-worker) about where he was supposed to go and where they were headed. The Critical Precrash Event for V1 was coded: (20) this vehicle over the lane line on left side of travel and the Critical Reason for the Critical Precrash was not coded to this vehicle. V2 was driven by a 22-year-old female that is a recent college graduate that is currently working part-time at a department store until she finds a job in her career. She reports to be in good health, has excellent vision and does not have any emotional or fatigue related issues. She woke this morning, after a 10-hour sleep, at 09:30 and left her home at 10:15. She was driving to work for a shift that started at 10:45 and claimed that she had plenty of time to make it to work on time. As she drove north in lane 2 behind a truck (V1), she decided to pass it on the left side because it was driving slowly. She reports that as she attempted to overtake the truck it suddenly made a left turn across her lane. She slammed on her on brakes but could not avoid striking the left side of the truck's trailer. She said that she never observed a turn signal for the truck or trailer. She was upset that she ruined her father's vehicle but she did not suffer any injury. The Critical Precrash Event for V2 was coded as Passing or overtaking and the Critical Reason for the Critical Precrash was coded: False assumption. This driver's false assumption was believing that V1 would continue forward rather that turn left while this driver attempted to pass on the left.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

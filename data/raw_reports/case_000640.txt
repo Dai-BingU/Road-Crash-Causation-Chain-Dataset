@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during morning daylight hours in the four-leg intersection of a six-lane road and a seven-lane road.. The crash occurred on the seven-lane east-west road. This road has four lanes in the east direction and the three west lanes are divided by a raised concrete curb. The north leg of the intersection is comprised of one lane northbound and five lanes southbound. This intersection is controlled by a traffic light which was working at the time of the crash. The weather was cloudy after a morning of several rain showers. The roads were slick from the rain. It was not raining at the time of the crash. Vehicle one (V1), a 1993 Infinity I 30, was stopped in the westbound number two lane when the light turned green, the Infinity proceeded into the intersection. Vehicle two (V2), a 1997 Toyota Tacoma Pick up, was stopped ahead of the Infinity also in the westbound number two lane and proceeded to enter the intersection on the green light. As the driver of V2 entered the intersection, he noticed a fire truck responding to an emergency call traveling south on the cross street. The fire truck approached the intersection. Although the traffic light was green, the driver of V2 stopped to let the fire truck pass through the intersection. The driver of V1 had just started from a stop behind V2. The driver applied her brakes but could not avoid impacting the rear of V2 with her front end. V1 was towed from the scene. Neither driver was injured. The driver of V1, an 18-year-old woman with a driving experience of 1 year, was well rested and on a daily commute between a local high school and a college. She drives this road every day, using the same vehicle. The tires of the vehicle were not worn out and had sufficient profile for these road conditions. A few seconds prior to the crash event, both vehicles were stopped in the lane (the exact distance could not be remembered) for at least a second. V1 started to move again when V2 in front of it moved. The driver's view was to the right was too limited to recognize the fire truck early enough. The driver of the V2, who was well rested, not in a hurry and had clear eyesight (20/20 vision) as well as clear vision (no dirty window or obstruction of sight) told the researcher he saw the fire truck out of the corner of his eyes and reacted immediately. The critical pre crash event for V1 was coded: other motor Vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related decision factor: misjudgment of gap or other's speed. This driver also failed to recognize the approaching emergency vehicle coming from the right. The critical pre crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. No critical event was coded to this vehicle. The emergency vehicle approaching from the right was also considered a highway factor for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Driver Physical, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Starting in traffic lane
+ 2 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

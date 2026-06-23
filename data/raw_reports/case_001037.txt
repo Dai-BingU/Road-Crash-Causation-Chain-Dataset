@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a six-lane interstate highway divided by a concrete barrier. There were three lanes in each direction of the straight, level, dry, asphalt roadway. There were no traffic control devices and the posted speed limit was 88kph (55mph). The crash occurred on a weekend afternoon while skies were cloudy and traffic was moderate. V1, an unknown tractor/trailer with at least one unknown occupant was traveling westbound in lane two. V2, a 2001 Ford Mustang two-door convertible with one occupant was westbound in lane one ahead of V1. V1 started to change lanes to the right without sufficient clearance. Its right side struck the left rear of V2 (Event 1) causing V2 to go out of control in a counter-clockwise rotation while traveling west and to the left across the three westbound lanes. V2's back left struck the concrete barrier about 64 meters west of the first impact point (Event 2) and skidded along the barrier while continuing to rotate in a counter-clockwise direction. V2's front left then struck the barrier about 9 meters west of the second impact point (Event 3) and the vehicle came to rest facing southwest across the shoulder and lane three. V2 was towed from the scene. V1 stopped briefly on the right shoulder but then fled the location westbound. V2, the Ford Mustang, was driven by an 18-year old female who was not injured. The driver reported that, while she was traveling at the speed limit from home to work in lane one, she glanced into her rearview mirror and saw V1 trying to change from lane two to lane one from her left rear. She described V1 as an 18-wheeler but could not be more specific other than the color of the tractor and the trailer. The driver said that the right front of V1 struck her left rear causing her to lose control. Tire marks on V2's left back indicate that the right front tire of V1 made first contact with V2. After the first impact the driver said her vehicle spun in a counter-clockwise direction across the westbound lanes. She advised that she did not have time to take any avoidance maneuvers prior to the first impact, and that afterwards, she just tried to regain control by steering before she struck the concrete barrier. The Critical Precrash Event for V1 was this vehicle traveling over the lane line on the right side of the travel lane. The Critical Reason for the Critical Event was coded driver related, misjudgment of gap or other's speed. The Critical Precrash Event for V2 was other vehicle encroachment from adjacent lane, same direction over the left lane line. The Critical Reason for the Critical Event was not coded for this vehicle. There were no associated factors for V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

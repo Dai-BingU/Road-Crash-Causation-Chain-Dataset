@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This four-vehicle crash occurred mid-afternoon on a on-colors controlled three-way intersection. No adverse weather conditions present and traffic was heavy. Road surface dry, level concrete, posted speed limit 64 kmph (40 mph). Vehicle one (V1), a 1995 Ford Windstar minivan, driven by a 70 year-old male was traveling northbound approaching intersection with the intention of turning left without stopping. V1 was struck on right rear side by Vehicle two (V2), a 1998 Mercury Mystique sedan driven by a 33 year-old female that was traveling southbound in the first lane with the right front bumper. V2 had just departed from another traffic signal controlled intersection located over 60 meters (197 feet)north from the harmful event intersection. V2 driver responded to impending danger by applying brakes and steering to the left. Despite V2 evasive maneuver, V2 right front bumper impacted V1 and proceeded across lane 2 of southbound traffic, though center left turn lane, and came to rest in lane 2 of northbound traffic after striking V4 with left front bumper. After impact with V2, V1 left rear side struck Vehicle three (V3) a 2002 Buick LeSabre sedan driven by a 48 year-old male with one passenger. V3 was struck on the left front bumper, V1 continued traveling east, departed roadway, returned to roadway, and came to final rest 98 meters (322 feet) from first harmful event in lane one. Vehicle four (V4) a 1991 Ford Tempo sedan driven by a 47 year-old female was traveling northbound in the second lane when the front of V2 struck the left rear side. V4 rotated counterclockwise coming to final rest in the intersection. All four vehicles were towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: false assumption of other's actions. Associative factors,driver of V1 stated that he noticed oncoming vehicle upon initiating left turn at intersection, but assumed driver would stop due to light changing yellow at the time of left turn initiation. V1 driver was not in a hurry and takes 4 different medications daily for heart and arthritis condition. Medications apparently do not interfere with driving. The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical crash event was not coded to this vehicle. V2's driver made the false assumption that V1 was going to stop at intersection (yield right-of-way). V3 and V4 were not involved in the first harmful event. The critical reason was not coded to either vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+Vehicle 2:  Decision, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, straight, level, concrete north-south road at an intersection with a road on the west. The conditions were clear and dry on the weekday afternoon, on the road posted with a 56kmh (35mph) speed limit. V1, a 1997 Toyota Camry, was traveling northbound at approximately 15 mph, in lane 2 trying to decide whether to go straight in lane 2 or to get into lane 3 and turn left. The 25 year-old female driver of v1 decided to turn left at the last minute, switched to lane 3, the left turn lane, and proceeded to turn. V2, a 200l Chrysler PT Cruiser, driven by an 84 year-old man, was southbound in lane two approaching the same intersection. The front of v1 struck the front of v2 in the intersection. The driver of v1 saw v2 approaching but thought that he was far enough away so that she could turn in front of him. The driver of v1 stated that v2 appeared to be moving very fast, and that he saw her and should have stopped to let her proceed. The v1 driver stated repeatedly during the on-scene interview that she did not understand why she received a citation for “failure to yield right of way”, when v2 had adequate time to stop and instead hit her. A witness traveling behind v2 stated that v1 was clearly moving from lane to lane traveling down the road pre-crash, and then moved at the last minute into the left turn lane and turned left right in front of v2. The witness stated that v2 was traveling about 15-20mph pre-crash, and locked up his brakes trying to avoid striking v1. V1 and v2 were towed from the scene due to damage. The front airbags deployed in both vehicles and both drivers were fully restrained. The driver of v2 was treated on-scene for a slight facial injury and both drivers refused further treatment at the scene. The critical Pre-crash Event coded to the driver of v1 was “this vehicle traveling turning left at intersection.” The Critical Reason for the Critical Event coded was “false assumption of other road users actions.” The driver believed that v2 would stop to avoid a crash. Contributing Factors coded to this driver are “misjudgment of velocity of other vehicle,” as the driver also thought v2 was traveling slower than he was. A “performance error-other” was also coded as the driver has a misunderstanding of a basic driving law that states that traffic turning left must yield the right of way to oncoming traffic. The driver has had Basic Driver's Education and holds a valid license with no restrictions. There were no mechanical defects found during the vehicle inspections. Police did not consider illegal drugs or alcohol to be involved and ordered no tests.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs present problem 
+Vehicle 2:  Driver Inexperience, Driver Physical, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

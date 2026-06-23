@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This is a two-vehicle crash that occurred at 1256 hours on a four-way intersection that is controlled by a traffic light on colors that was in proper working order at the time of the crash. The intersection has a north/south roadway. There are two southbound and two northbound lanes that are separated by a continuous left turn lane. The east/west roadway has two eastbound and two westbound lanes that are separated by a continuous left turn lane. There is a westbound dedicated right turn lane at the east side of the intersection. The speed limit on the east/west roadway is posted 56 kmph (35 MPH). The weather at the time of the crash was clear and there were no sight line restrictions or obstructions noted at the scene. V-1, a 1988 Ford Mustang coupe, was traveling westbound in the #2 lane. The vehicle entered the intersection on a green light and stopped for about 10 seconds. The driver stated that he saw V-2 traveling eastbound approaching the intersection. The traffic light turned yellow and the driver of V-1 began to make the left turn. The driver, a 29-year old male, stated that he thought V-2 was going to stop when he made his left turn. The front of V-1 struck the left side of V-2. The impact caused V-1 to continue off the right side of the roadway in a southwesterly direction. The vehicle came to rest off the west edge of the north/south roadway facing in a southerly direction. The vehicle was towed due to damage. V-2, a 1996 Ford Explorer 4X4, was traveling eastbound in the #2 lane approaching the intersection on a green light at approximately 56 kmph (35 MPH). The driver of V-2, a 19-year old male, stated that he saw V-1 stopped in the intersection to turn left. The driver stated that he began to slow down. Just prior to entering the intersection, the traffic light turned yellow. V-1 then made a left turn into the path of V-2. The driver of V-2 stated that he steered to the right and applied his brakes (no lock up) to avoid the crash. The front of V-1 struck the left side of V-2. The impact caused V-2 to rotate counterclockwise and travel in a southeasterly direction. The vehicle continued to rotate until it traveled off the edge of the roadway near the southeast corner of the intersection. The rear of V-2 struck a traffic light cabinet. The vehicle had an after market suspension lift. The vehicle was towed due to damage. The pre event movement for V-1 was coded turning left . The critical pre crash event was coded this vehicle traveling-turning left at an intersection . The critical reason was coded driver related factor-false assumption of other's actions . (The driver of V-1 stated that he saw V-2 approaching the intersection. The light turned yellow and though V-2 was going to stop prior to entering the intersection). The pre event movement for V-2 was coded going straight . The critical pre crash event was coded other vehicle encroachment-from opposite direction over the left lane line . The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

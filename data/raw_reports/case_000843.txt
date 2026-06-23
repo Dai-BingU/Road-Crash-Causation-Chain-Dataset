@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the late morning of a weekday in the middle of a 4-way intersection. The intersection consisted of two divided multi-lane roadways controlled by a properly functioning traffic signal. Both roadways were bituminous, dry, and straight with a posted speed limit of 72 kmph (45 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2000 Honda Civic LX with one occupant, was stopped at the intersection in the left turn only lane (lane two). V2, a 1997 Chrysler Town & Country with four occupants, was northbound toward the same intersection. As the light turned green V1 began its left turn as V2 entered the intersection. The front of V2 struck the right side of V1. Both vehicles were towed due to damage. The driver of V1, a 33-year-old female, was returning home this afternoon when she was involved in this crash. She states that she was traveling south in the left-turn only lane and stopped at the intersection for two minutes while waiting for her signal to change to green. She claims that once her signal turned green, she looked to see if the intersection was clear before she proceeded to make a left turn. As she was in the course of making her turn, she was struck by V2, which she never saw before entering the intersection. She denied that she was distracted or fatigued but she did mention how dangerous the intersection is and how she hates driving through it. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at the intersection. The Critical Reason for the Critical Event was coded inadequate surveillance (looked but did not see). In addition to the inadequate surveillance the driver's general discomfort with the intersection was coded as an associated factor. The driver of V2, a 39-year-old male, took this day off work so he could bring his mother-in-law to the hospital for a doctor's appointment when the crash occurred. He was driving north through this intersection when V1 turned left in front of him. He stated that he did not have time to react or avoid colliding with the southbound car. He claimed to be traveling about 45 mph and had a green light as he approached and entered the intersection. He reports that he saw the V1 before the crash (because the traffic level was low and he had a clear vision of the whole intersection) but thought that it would yield or at least slow down. The Critical Precrash Event for V2 was coded other vehicle encroachment, from opposite direction - over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors coded to this driver include a false assumption, as the driver assumed V1 would yield the right of way and inexperience as he rarely travels this road.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Decision, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

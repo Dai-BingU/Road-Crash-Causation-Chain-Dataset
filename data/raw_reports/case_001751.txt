@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a traffic signal controlled four-way intersection. No adverse weather conditions present during dusk hours. Bituminous roadway for both vehicles is a dry, undivided two-lane, two-way roadway. Northbound approach to the intersection level and straight. Westbound approach to the intersection was straight and with a -3% slope. The posted speed limit for both roadways was 48 kmph (30 mph) Vehicle one (V1), a 1995 Ford Explorer 4x4 driven by an 19 year old female with another female passenger, was northbound in lane one. V1 was approaching the intersection with the intention to go straight through. V2, a 1992 Ford Taurus wagon driven by an 18 year old male, was westbound in lane one. V2 was also approaching intersection with the intention of going straight. Both vehicles entered the intersection and V1, without any avoidance actions, contacted V2's left plane with its front bumper and then traveled to the northwest corner where it impacted and came to rest against a traffic signal pole. After impact, V2 vehicle rotated counterclockwise before coming to rest on the west side of intersection facing southwesterly. The driver of V1 stated she was engaged in minimal conversation with front passenger while en-route to her boyfriends house. She was returning from eating and had to wake up her boyfriend in order to take him to work. This driver stated she was feeling fine despite of being pregnant 3 ½ months. She saw a green light while on approach to the intersection. According to witness statements, V1 driver violated the traffic signal and impacted with V2 on left side. The V1 driver was in a hurry to wake up boyfriend in order to take him to work. This driver failed to properly re-survey intersection despite having stated that she had seen a green traffic signal on approach to intersection. Driver may have been also distracted while engaged in conversation with front passenger. She may have initially sighted correct traffic signal device then may have looked at passenger while the traffic signal changed and later sighted different traffic signal located lower and further up the road. Ultimately, driver's tardiness and inadequate surveillance, led to traffic signal violation and collision. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver of V2 stated that he had a green light and did not see V1 until after entering the intersection. This driver performed no avoidance maneuvers. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Stress/Emotion, Speed/Distance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

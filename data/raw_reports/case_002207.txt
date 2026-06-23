@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle collision involved a left side road departure and 3 contacts to two fixed objects. The roadway on which this crash occurred runs east/west, is 2-way, undivided, dry, straight, level, is of concrete construction, and has a posted speed limit of 40 kph (25 mph). At the time of the crash, it was dark, but clear, and the roadway was illuminated by streetlights. There were no adverse weather conditions, road defects or sight-line restrictions in the pre-crash area. Vehicle #1 (V1), a 1987 Toyota Tercel 2-door coupe, was traveling east and the V1 driver, a 51 year old male who was driving on an expired license, stated that a vehicle was encroaching into his travel lane and that he swerved to his left to avoid a collision. As a result of the avoidance maneuver, V1 departed the roadway to the left, traveled across a grassy field and had frontal events with a fence pole and a chain link fence, then a left sideswipe event with a fence pole. V1 came to rest against the fence facing generally northwest. According to witness statement, no other vehicles or pedestrians were observed on the roadway at the time of the crash, however, there was a parked vehicle facing west in the pre-crash area in the eastbound lane. Associative factors: The V1 headlights may have reflected off the parked vehicle's headlights, which may have caused the V1 driver to assume that the parked vehicle was moving toward him. According to driver's sister, the V1 driver was not supposed to be driving because of his medical condition (epileptic seizures). The V1 driver stated that this was his first time driving V1, but also stated that he is familiar with the roadway and has driven it on a weekly basis. The V1 driver has a history of seizures and believes that he experienced a seizure which resulted in the collision. He takes Dilantin and Tegretol for his seizures. Both the V1 driver and his sister stated that he has experienced side effects from his medication including mental confusion, mood swings, and irritability. The Pre-event movement for V1 was coded as: "Going straight". The Critical Pre-crash event was coded as: "This Vehicle Traveling - Off the edge of the road on the left side." The Critical Reason was coded as: "Driver Related Factor - Incorrect evasive action" because the V1 driver did recognize the non-contact vehicle in his lane and made an avoidance maneuver, but the action was inappropriate. The PAR indicated that the V1 driver "appeared to be having a seizure", but this antecdotal observation was made after a considerable time after the crash occurred.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

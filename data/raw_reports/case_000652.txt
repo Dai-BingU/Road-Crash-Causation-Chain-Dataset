@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred just after noon on a weekend on a two-lane undivided residential roadway as it intersected with a side street (forming a “T” intersection). The east/west roadway consisted of one lane in each direction with a posted speed limit of 64kmph (40 mph). The bituminous roadway was dry and straight with a slight positive grade (1.8-2%) in the eastbound direction and a negative grade in the westbound direction. There were intersecting side streets on the north and south sides of the road. Traffic flow was normal and it was overcast at the time of the crash. V1, a 1994 Oldsmobile Delta 88 was eastbound on the roadway approaching an intersecting roadway where it intended to turn left. V2, a 2005 Lexus ES330, was westbound approaching the same intersection where it intended to go straight. V1 attempted to make a left turn to travel north on the side street and struck V2's front left corner with its front. After the initial impact, V2 rotated 90 degrees clockwise and rolled right one-quarter turn. It came to rest on its right side facing north partially off the northwest corner of the intersection. V1 rotated counterclockwise 90 degrees and came to rest facing north across both lanes. Each of the vehicles was towed due to damage. V1 was operated by a belted 74-year-old female who was on her way to a friend's house. She was transported to an area hospital with non-incapacitating injuries. She stated that she didn't see the other vehicle approaching. Police charged her with failure to yield. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was inadequate surveillance. No other associated factors could be identified. The driver was taking medications for a heart condition, arthritis, and cholesterol, however these did not contribute to the crash. She stated that she only requires corrective lenses for reading and was not wearing any at the time of the crash. V2 was operated by a belted 45-year old female who was transported to an area hospital with minor injuries after a lengthy extrication process. The driver apparently attempted to brake and steer right but was unable to avoid a collision. After several attempts an interview could not be obtained with this driver. The Critical Precrash Event for V2 was coded other vehicle encroachment, from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. No associated factors could be positively coded, as the driver could not be located for a follow up interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

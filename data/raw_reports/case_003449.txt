@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a lightly traveled two lane urban residential roadway. The road curved to the left as it traveled southeast with a radius of curvature of 76m. It did not have any painted lane lines and the width of the road varied between 5.8 and 5.4 meters. The south edge of the road was tree lined and there were curve-warning signs present. The posted speed limit was 48kph (30mph). Conditions were daylight and dry on a weekday morning. Vehicle #1 was a 2000 Kia Sephia traveling southeast. As the vehicle negotiated the left curve the driver lost control and departed the right (south) side of the road. The car struck a tree and a sign with its right side. The vehicle continued southeast and then struck a large tree with its front. After impact the vehicle rotated ninety degrees clockwise and came to rest facing south partially off the road. The Kia (V1) was towed due to damage. Vehicle #1 was driven by a 23-year old male that was not belted. He initially left the scene but later returned and was transported to an area hospital with minor injuries. Although the frontal impact was relatively severe the frontal airbags did not deploy. The driver had just left his house (0.8km away) and was on his way to work when the crash occurred. Police charged the driver with failure to maintain control, no proof of insurance, and violation of state vehicle registration law. The Critical Precrash Event for Vehicle #1 was this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was too fast for curve. The driver estimated his precrash speed at 64kph (40mph). Associated factors included non-driving activities, he was adjusting the defrost controls and checking to make sure he had his keys for work. He had emotional factors from work related stress. The driver was also coded as being in a hurry. He was approximately thirty minutes from work and depending on traffic would have been arriving just on time or late for work. A vehicle condition factor was included, there was some frost on the windshield that might have obstructed his view and increased the brightness of sun glare that was present as he negotiated the curve.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion, Speed/Distance, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

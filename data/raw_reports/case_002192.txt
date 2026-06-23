@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred during the hours of darkness with no adverse atmospheric conditions. The roadway is straight, level and grass median-divided. The eastbound lanes consist of two through lanes. The speed limit on this roadway is 105 kmph (65 mph). Vehicle one (V1), a 1981 Chevrolet Blazer, was eastbound in lane one. V1 traveled off the right side of the roadway. The driver of V1 steered left and V1 returned to the road, rotating counterclockwise. V1 rotated off the left side of the roadway and the front struck a ditch in the median. V1 was towed due to damage. The driver of V1, a thirty-five-year-old male, was traveling from a friend's house to his home. This driver was healthy, well rested and familiar with his vehicle. He drives this route daily. This driver stated that he was upset at the time of the crash because his favorite team lost a game earlier in the day. He was arrested at the scene and charged with driving under the influence of alcohol. The pre-event movement for V1 was coded as "going straight." The critical pre-crash event for V1 was coded as "this vehicle traveling; off the edge of the road on the right side." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; overcompensation."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Distraction, Driver Performance, Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

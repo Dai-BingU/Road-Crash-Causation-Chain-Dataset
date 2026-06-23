@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred in a four-way controlled intersection during mid-afternoon daylight hours on a Tuesday. At the time of the collision, there were no adverse atmospheric conditions and the roadway was free of defects. Vehicle one (V1), a 1999 Chevrolet Venture minivan, was traveling eastbound in a 64 kmph (40 mph) zone, in the second lane of a three-lane, divided (five lanes overall, divided by a raised median), dry, uphill, concrete roadway. V1 was approaching an intersection with the intention of passing straight through. Vehicle two (V2), a 1992 Ford Tempo four-door sedan, was traveling northbound in a 40 kmph (25 mph) zone. V2 was in the first lane of a two-lane, two-way, undivided, dry, concrete roadway, cresting an uphill grade and approaching the same intersection with the intention of passing straight through. The driver of V2 failed to recognize the red traffic light. As both vehicles entered the intersection, the front of V2 impacted the right side of V1. V2 spun clockwise and came to rest in the intersection, facing east. V2 rotated clockwise as it continued forward, moving southeast towards the south curb. V1 departed the road over the south curb and traversed the sidewalk, where the front wheels of V1 impacted a short concrete wall. V1 fell off the short drop-off on the opposite side of the wall, and came to rest facing generally east in the grassy roadside. The 34-year-old female driver of V1 is in good health and was well rested and alert at the time of the collision. She was on her way to the zoo with two passengers. She attempted to avoid the collision by steering left. The critical precrash event for V1 was coded: other motor vehicle encroachment, from crossing street, across path. The critical reason for the event was not attributed to V1. The 20-year-old female driver of V2 is in good health and was well rested and alert at the time of the crash. Her view of eastbound traffic was obscured by the hillcrest in the roadway. Her view of eastbound traffic is also partly blocked by a fence, a pole, and a trash bin on the southeast corner. She attempted to avoid the collision by steering right. The critical precrash event for V2 was: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the event was attributed to V2, and is coded as a driver related factor: inattention (i.e., daydreaming). Inadequate surveillance was considered an associative factor for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+Vehicle 2:  Decision, Distraction, Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inattention (i.e., daydreaming)

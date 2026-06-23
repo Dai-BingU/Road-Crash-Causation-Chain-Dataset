@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on the northbound straight section of the intersection where it meets with a four-lane eastbound curved roadway. The asphalt roadway was dry and level. The posted speed limit was 56 kmph (35 mph) for all directions of the roadway. There were signalized traffic devices controlling all directions of the roadway. The crash occurred on a weekday during the early morning daylight hours. The roadway was free of any defects and the traffic flow was normal for this roadway. Vehicle one, a 2000 Ford Expedition was traveling eastbound in lane two on the four-lane roadway negotiating a leftward curved passing through the intersection when it contacted with its front the left rear side of vehicle two, a 1997 Chevrolet Tahoe, traveling northbound through the intersection in lane one of the three lane straight roadway. After the impact vehicle one rotated counter clockwise where it came to final rest facing northward. Vehicle two after the initial impact also rotated counter clockwise where it came to final rest facing north/west. Both vehicles were towed due to damages. The driver of vehicle one stated that there were no view obstructions. The driver of vehicle two was not available for comments. Vehicle one driver, a 31-year-old female, said she was traveling eastbound, at approximately 50 kmph (31 mph) in lane two when as she crossed through the intersection on the green light negotiating a leftward curve while talking and possibly looking right at her passenger, caught sight of vehicle two speeding across her intended travel path. She said she steered to her left to avoid contacting the vehicle crossing her path but it was too late. The front of her vehicle contacted the left rear of vehicle two. She said although she may have been distracted by the commotion inside her vehicle that was not the reason for the crash. The reason was vehicle two speeding in front of her. She was taking her children to the daycare center, which she does daily, and then she goes to work. She's very familiar with the busy intersection and was very careful as she traveled through it, she said. She and two of her passengers were transported to the hospital with injuries. The Critical Pre-Crash Event coded to V1 is “this vehicle traveling crossing over (passing through intersection”. The Critical Reason for V1 is “internal distraction”, a recognition error. Associated factors for this driver include: conversing with passengers, listening to the radio, looking at movements of other occupants and assumed other driver would yield to her right of way. The driver of vehicle two, a 28-year old female, could not be reached for an interview or comments. The police report, however, states that the driver said she was driving northbound when her vehicle was struck on the left side by V1. She was transported to the hospital directly from the scene. The Critical Pre-Crash Event coded to V2 is “other vehicle encroachment from crossing street across path”. The Critical Reason was “not coded to this vehicle”. There was no interview and no associated factors for this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

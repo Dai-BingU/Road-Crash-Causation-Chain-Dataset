@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the intersection of a 4-way crossroad. The intersection is controlled by a pretimed traffic signal and the posted speed limit is 56 kmph (35 mph) for all four directions. The conditions were cloudy but dry and daylight. V1, a 1998 Toyota Tacoma, was traveling east in lane two approaching the intersection. V2, a 2001 Mercedes-Benz, was traveling west in lane three (left-turn lane) attempting to turn left. Both vehicles entered the intersection and the two vehicles collided head-on. Both vehicles were towed from the scene due to damage and both drivers were transported to a hospital where they were treated and released. V1 was driven by a 31-year-old male that refused to be interviewed because he said he was going to sue V2's driver. The Critical Precrash Event for this driver was coded: other vehicle encroaching from opposite direction - over left lane line and the Critical Reason was not coded to this vehicle. V2 was driven by a 36-year-old female that was on her way to work, she entered an intersection that she travels each day and waited for traffic to clear so she could turn left. While stopped in the intersection, she claims V1 drove into the front of her car. She swears she was not turning and that she was stopped in her original lane. She suffered a small bruise on her left knee when it contacted the instrument panel and she was transported to a hospital for an examination. The Critical Precrash Event was coded: this vehicle turning left at intersection and the Critical Reason was coded: inadequate surveillance because the scene evidence indicates that V1 was braking and steering right in an effort avoid V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

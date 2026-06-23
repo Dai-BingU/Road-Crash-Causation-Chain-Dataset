@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of a two-way north/south road with two lanes in each direction and an east/west road with one lane in each direction. The roadways were straight and level and each had a speed limit of 48 kmph (30 mph). It was daylight and clear with no adverse conditions. The crash occurred in the morning hours on a weekday. Vehicle #1 was a 2004 Acura MDX that was traveling southbound in the right lane. Vehicle #2 was 1995 Dodge Neon that was traveling westbound. At the intersection, the front of Vehicle #1 impacted the right side of Vehicle #2. The Acura MDX (Vehicle #1) was driven by a 29-year old female who did not sustain any injuries. She stated that she had come to a rolling stop at a red light and then when her light turned green, she accelerated into the intersection. She stated that Vehicle #2 came from nowhere. The Acura was not towed. The Critical Pre-crash event for Vehicle #1 was coded as: Other vehicle encroachment, from crossing street across path. The Critical Reason for the critical event was not coded to the driver of Vehicle #1. An associated factor coded to the driver was that she does experience work related stress and pressure relating to her occupation. The driver stated that she does work many hours but did not appear to be fatigued. The Dodge Neon (Vehicle #2) was driven by a 31-year old male who did not sustain any injuries. He stated that he was going straight and had the green light at the intersection when the driver of Vehicle #1 went through the red light. The Dodge Neon was towed due to damage. The Critical Pre-crash event for Vehicle #2 was coded as: This vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical Event was coded as an illegal maneuver, a decision error. Based on vehicle damage, it is believed that the driver of Vehicle #2 entered the intersection when the lights on the traffic control devices were changing to red. No additional associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Stress/Emotion present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

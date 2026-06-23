@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a rural east/west four-lane median divided highway with shoulders. Private drives and intersecting residential side streets are intermittently located along both sides of the highway. Median crossovers are spaced sporadically along the highway to allow access to them. The road was straight with a -2% downgrade for eastbound travelers. Traffic counts from 2003 indicate the four highway lanes carry 23,260 vehicles per day at the crash location. Conditions were daylight and dry on a holiday afternoon. Vehicle #1 was a 1985 Ford F-150 pickup traveling eastbound in the left lane. Traveling ahead of the pickup in the left lane was Vehicle #2, a 1994 Toyota Celica. Vehicle #2 slowed to make a left turn into a crossover when it was rear-ended by the pickup (V1). After impact Vehicle #1 continued east and came to rest in a private drive off the south side of the road 196m east of impact. The collision caused the Celica (V2) to rotate counterclockwise through the crossover and it came to rest facing west in the westbound lanes 17m northeast of impact. Vehicle #1 was driven by a belted 36-year old male that was uninjured. He stated that he reached down for a cigarette lighter and when he looked back up the other vehicle had slowed in front of him. The pickup (V1) left 9m of pre-impact skids before striking the Celica (V2). The driver had been drinking alcohol but passed a police administered field sobriety test. Police issued the driver citations for not driving with due care, suspended license, and failure to provide proof of insurance. The Critical Precrash Event for Vehicle #1 was other vehicle in lane traveling in same direction while decelerating. The Critical Reason for the Critical Event was an internal distraction. Associated factors included alcohol presence, and retrieving object from floor and/or seat. Following too closely, and the false assumption that the other driver would continue to proceed were also included. The driver was in a hurry when the crash occurred; he was late for a social appointment. Other emotional factors were coded as well, the driver said his life in general was in disarray and he reportedly had just completed a drug rehabilitation program. Vehicle #2 was operated by a 20-year old female that was belted with no deployed airbags. She was taken later to a local hospital for treatment of possible injuries. She stated that the pickup had been tailgating her approximately ½ a mile. She signaled and even went up one crossover further than she intended to turn since Vehicle #1 was following so closely. The Critical Precrash Event for Vehicle #2 was other vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Decision, Distraction, Driver Inexperience, Driver Stress/Emotion present problem 
+Vehicle 2:  Driver Inexperience, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

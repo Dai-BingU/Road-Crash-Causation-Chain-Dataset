@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on an undivided 4-lane roadway, just prior to a controlled intersection. There were two westbound lanes and two eastbound lanes. This bituminous roadway was straight, level, and wet with a posted speed limit of 64 kmph (40 mph). The crash occurred in the early morning on a weekday. There was an on-off light rainfall and the skies were dark. The roadway however, was still well lit. Traffic flow was congested with morning rush hour traffic and there was stop-and-go traffic activity. V1, a 1992 Honda Accord 4-door with one occupant, was traveling westbound in lane one. V2, a 1999 Ford Contour 4-door with two occupants, was also traveling westbound in front of V1. As both vehicles approached the intersection, the light controlling the intersection changed from green to yellow. When V2 applied his brakes, the driver of V1 did as well. However, V1 did not slow down in time and the front of V1 struck the rear of V2. Both vehicles came to rest in lane one and close to the point of impact. V1 was driven by a 22-year-old male who reported no injuries. According to the statement given to the police, he was traveling westbound behind V2. He saw V2 brake lights activate when the light controlling the intersection changed to yellow from green. He slammed on his brakes, but due to the wet road conditions he was unable to successfully stop in time and struck the rear of V2. The driver of V1 refused both an interview and vehicle inspection. The Critical Pre-crash Event for V1 was "other motor vehicle in lane, traveling in the same direction while decelerating." The Critical Reason for the Critical Event was coded as "traveling too fast to response to the unexpected actions of others." The driver was traveling too fast in the rain and rush hour traffic to response to the vehicle in front of him stopping for the light. Due to the lack of interview, the only associated factors that could be coded to this driver were the wet roadway, following too closely for traffic flow, traffic congestion due to rush hour traffic, and the weather (rain). V2, the 1999 Ford Contour, was driven by 30-year-old male who reported a complaint of pain and was transported to the hospital. His other occupant, his 4-year-old daughter, was transported to the hospital for observations. The driver was traveling westbound on the roadway and was slowing down for the yellow light ahead. The driver was struck in the rear by V1 as he was decelerating. The Critical Pre-crash Event for V2 was "other motor vehicle in lane, traveling in the same direction at higher rate of speed." The Critical Reason for the Critical Event was not coded to this driver. Associated factors coded to this driver include conversation with his passenger, the rush hour traffic congestion, the wet roadway, and the weather (rain).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Speed/Distance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Distraction, Roadway, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

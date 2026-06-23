@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle mid morning crash occurred on a two-lane northbound asphalt roadway that runs north to south and is divided by a dirt median from two southbound lanes. The roadway has various curves and grades, has a 6 percent downgrade, guard rails on the west side of the travel lanes, and the posted speed limit is 105 kmph (60 mph). The right side is open and has a narrow dirt drainage ditch then a steep dirt/rock embankment that run parallel to the roadway. At the time of the crash, the weather was clear and the road was without defects. Vehicle one (V1), a 1999 Ford F150 extended cab pickup, was northbound negotiating a curve when the left rear tire tread separated. V1 drifted left, departed the roadway, and struck a guardrail with the left plane. V1 bounced off the guardrail, crossed both lanes of travel in a clockwise rotation. V1 departed the road edge, impacted a vertical embankment with the rear bumper plane, rolled over and rolled back down the embankment and came to rest on its wheels facing generally north. The driver was a 23 year old male, and right front seat occupant was a 24 year old female. They were on their way to their honeymoon trip from home. Both occupants were in use of the lap and shoulder belts and were slightly injured but not transported. V1 was disabled and towed from the scene. V1's tires were over-inflated to 75-psi average. The critical pre-crash event for V1 was coded: this vehicle control loss due to, blow out/flat tire (specified as left rear tread separation). The critical reason for the critical event was coded as a vehicle related factor: tires/wheel failed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Blow out/flat tire, (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Tires/wheels failed

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred during mid-afternoon daylight hours. The location was a five-lane divided (with a positive barrier) straight highway. Road surface level concrete. The weather was clear and the roads dry. The posted speed limit for the roadway was 97 kmph (60 mph). Vehicle one (V1), a 2001 Dodge Stratus sedan driven by a 20 year-old male, was traveling north in the fifth lane of the roadway. The driver fell asleep. V1 drove to the right and partially entered lane four. The driver woke up and realized he about to rear end a vehicle in lane four. In an attempt to prevent a rear end collision, the driver made a steering movement to the left and departed the roadway. The vehicles' left front corner impacted the concrete median. V1 ricocheted off the median barrier and rotated clockwise. The left rear sideswiped the median barrier before the vehicle crossed the lanes to its right. V1 came to rest partially in lane one and partially on the east shoulder of the roadway, facing east. The vehicle was towed from the scene. The driver was briefly treated at the scene and released. The critical per-crash event was coded as: this vehicle traveling, off the edge of the road to the left. The critical reason was coded driver related factor - asleep, that is actually asleep. Associative factor is the driver fell asleep. He is working night shifts and was on his way to an afternoon shift. He did not get any sleep the night before. He started the trip being already fatigued due to the lack of sleep the previous night.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

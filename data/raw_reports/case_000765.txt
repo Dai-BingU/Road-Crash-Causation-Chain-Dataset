@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 1994 Oldsmobile Cutlass, was traveling northbound on a four-lane undivided wet asphalt roadway in the mid-evening hours. V2, a 1993 Ford Aerostar minivan, was stopped in lane one on the same roadway. V1 was traveling in lane one and coming up on V2. The roadway was level and had a posted speed limit of 56 kmph (35 mph). It was dark out, but the roadway was illuminated by intermittent streetlamps. The driver of V1, a 32-year old female, stated that she had been arguing with her sister, the right front seat passenger. While arguing, she was looking at her sister. Her sister suddenly yelled for her to look out. The driver of V1 hit the brakes but could not avoid striking the rear V2. The driver of V2, a 56-year old female, had stated that she saw a man that she knew walking down the sidewalk next to her so she slowed down to talk to him. The driver of V1 reported that she had been traveling between 50-64 kmph (31-40 mph) prior to the crash. She had no health-related problems and had taken no medication prior to the crash. She was rested and traveling home. She was wearing her prescribed lenses that corrected a myopic (near-sighted) condition. She sustained injuries from the crash and was transported to a local trauma facility. A toxicology screen conducted at the hospital revealed that the driver of V1 had a BAC of .233 less than one hour after the crash. The Critical Pre-crash Event for the driver of V1 was other vehicle stopped in lane. The Critical Reason for the Critical Pre-crash Event was coded as an internal distraction. Associated factors coded to this driver include alcohol use, conversation with the passenger, inadequate surveillance, low tread on the tires, and a wet roadway. The driver of V2 reported that she had been traveling between 18-32 kmph (11-20 mph) prior to the crash. She had a history of asthma and carpal tunnel and had taken a muscle relaxant and used an inhaler prior to the crash. She was rested and traveling to the passenger's house. She does not wear corrective lenses. She was uninjured and refused treatment. The Critical Pre-crash Event for the driver of V2 was other vehicle in lane, traveling in same direction with higher speed. The Critical Reason was not coded to V2. Associated factors coded to this driver include conversation with a pedestrian, looking at an outside person, and an "other" decision error in that she decided to stop on the roadway in the travel lane to talk to a pedestrian.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Distraction, Driver Inexperience, Driver Stress/Emotion, Roadway, Surveillance, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Decision, Distraction, Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

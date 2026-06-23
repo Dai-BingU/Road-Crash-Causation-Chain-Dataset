@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lane of a two-lane roadway with an adjacent T-intersection. Conditions were daylight and dry and EMS was dispatched in the early evening of a weekday. The roadway had a posted speed of 40 MPH and a 1% uphill grade. V1 was a 2002 Lexus RX 300 SUV that was initially traveling before coming to a complete stop at the intersection and intending on turning left. V2 was a 1994 Ford Taurus sedan directly in back of V2 intending on going straight. The driver of V2 was looking to the left then looked straight ahead. V2 tried to steer left and brake to avoid V1. The front of V2 struck the back of V1 in the westbound lane. Both vehicles came to final rest facing west. The driver of V1 was 68 years old and was transported to a local hospital with minor injuries. The driver of V1 stated that he was stopped at the intersection for a minute and didn't see V2. The impact pushed V1 a few feet forward. V1 was towed due to damage. The Critical Pre-crash Event coded to V1 was other motor vehicle was in lane, traveling in same direction with higher speed. The Critical Reason was not coded to V1. The driver of V1 does take a medication everyday for his high blood pressure. The driver of V2 was 25-years-old and was transported to a local hospital with minor injuries. The driver of V2 stated that he was going straight, saw V1 at the last minute and tried steering left in order to avoid the collision. V1 was towed due to damage. The Critical Pre-crash Event for V2 was when V1 was stopped in the travel lane - other vehicle stopped. The Critical Reason for the Critical Pre-crash Event was a recognition error - inadequate surveillance. The driver admitted to looking at approaching traffic and down the side street on the left. Associated factors coded was fatigue due to a busy work schedule, driver recognition factor - looking at approaching traffic from the left side, and driver experience factors - had driven this vehicle only 4 times. Contributory factors include talking to passenger and falsely assuming that the other vehicle would continue straight.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+Vehicle 2:  Decision, Distraction, Driver Fatigue, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

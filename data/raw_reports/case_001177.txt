@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle collision occurred during daylight hours on a weekday morning. At the time of the crash, there were no adverse weather conditions. The roadway was dry and level. The crash occurred adjacent to a construction zone with a posted speed limit of 56 kmph (35 mph). The construction zone has pre-warning signs posted, a lighted arrow board and numerous barricades, cones and barrels. The roadway is a two-lane, divided (four lanes overall, divided by a raised median), bituminous surface, curving leftward. Due to construction, the southbound roadway narrows into a single right-hand lane and then traverses a T-intersection as it straightens. Vehicle one (V1), a 1991 Chevrolet Astro passenger van, was traveling southbound in the first lane adjacent to the construction zone. As V1 traversed the intersection, it departed the road to the right side, traveling a short distance across the muddy roadside, and then impacted a two-car garage with its front plane. As V1 came to rest in contact with the garage, bricks fell from overhead and damaged the hood and windshield. The 55-year-old male driver of V1 reported that V1's brakes were in poor condition and he was planning to conduct repairs. Vehicle inspection revealed that the front brake rotors of V1 were glazed and/or grooved and in need of replacement. A new brake rotor was found in the front floor pan. Since the driver was the registered owner of the vehicle this indicates he was aware of the brake problem before taking the vehicle on this trip. The driver reported that as he applied his brakes he felt no pressure. Because of the perceived brake failure he departed the road to the right rather than drive further down the road into an intersection. The driver has been a diabetic for 15 years and takes Glucophage, but denies any diabetic related illness at the time of collision. The driver slept an adequate number of hours the night prior and felt rested at the time of collision. The critical precrash event for V1 was coded: this vehicle loss of control due to/ disabling vehicle failure (specified as-brake failure). The critical reason for the precrash event was attributed to V1 as: Vehicle related factor - brakes failed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway, Traffic, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Disabling vehicle failure (e.g,  wheel fell off) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Brakes failed

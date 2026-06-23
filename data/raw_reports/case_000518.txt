@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound left turn only lane of a suburban arterial road. The road ran east/west and had five lanes with a raised concrete median separating east and westbound directions of travel. The westbound lanes consisted of two through lanes and one left turn only lane. The road was intersected on the north side by a two lane, one-way interstate exit ramp that continued on the south side of the intersection as a two-lane, one-way access road to a business district. The intersection was controlled by traffic lights with no pedestrian signal. The arterial road was straight and level with a posted speed limit of 48kph/30mph. The crash occurred in the predawn hours of a weekend morning with clear skies. Vehicle #1 was a 1997 Ford F-150 pickup truck that was traveling westbound on the arterial road. Vehicle #2, a 1989 Ford Aerostar, was traveling ahead of the pickup (V1) in the left turn westbound lane. Vehicle #1 moved to the left turn lane and rear-ended Vehicle #2 while it was decelerating for a red light. Both vehicles came to rest facing west in the left turn only lane. Both vehicles were towed from the scene. Vehicle #1 was driven by an 18 year-old male who was belted and with deployed airbags. He had some very minor injuries and was not transported from the crash scene. An interview was not obtained from this driver as he told the researcher his dad said not to say anything to anyone but the police. The critical pre-crash event for Vehicle #1 was other vehicle in lane while decelerating. The critical reason was internal distraction. The researcher during the on scene vehicle inspection found a CD holder and miscellaneous music CD's on the floor of the driver's side of the vehicle. The driver of Vehicle #2 also stated in his interview that “he (Driver V1) told me he had looked down into his seat to get something right before he hit me but I don't remember what.” The driver was also coded as failing to look far enough ahead and in a hurry. Per the driver's boss he was supposed to punch in at 0700 and the crash occurred very close to that time. Too fast and inexperienced driver were also coded. Vehicle #2 was driven by a 59 year-old male who was belted and was uninjured in the crash. His passenger was also belted and was coded by police as sustaining possible injuries although neither she nor the driver were transported from the scene. The critical pre-crash event for Vehicle #2 was other vehicle in lane traveling in same direction with higher speed. The critical reason was not coded to this vehicle. No associated factors were coded. The driver was on medication to control his asthma but this was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Stress/Emotion, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the intersection of a two lane, two-way, non-divided rural roadway with a posted speed limit of 56Kmh (45Mph). The crash occurred during daylight hours, and there were no adverse conditions present at the time of the crash. V1, a 2003 Oldsmobile Bravada was stopped in the eastbound right curb lane preparing to turn left. V2, a 1998 Buick Regal was traveling westbound in the right curb lane approaching the intersection. V1 turned in front of V2, and was contacted in the left front by the front of V1. The driver of V1 a 66 year-old female stated that she made a complete stop at the intersection, and then proceeded to turn left. She then stated that she did not remember seeing V2 at all. The Critical Pre-Crash Event coded for V1 is "this vehicle traveling turning left at an intersection". The Critical Reason for the Critical Pre-Crash Event coded for V1 is "inadequate surveillance". The driver of V2 a 51 year-old male driver stated that he saw that V1 was stopped. The driver then stated that by the time he realized that there was going to be a crash he did not have time to react. The Critical Pre-Crash Event coded for V2 is "other vehicle encroachment from opposite direction over the left lane line". V2 was not assigned a Critical Reason.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

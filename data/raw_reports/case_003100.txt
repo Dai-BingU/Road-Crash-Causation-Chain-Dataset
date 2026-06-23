@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary Case note: V1 had only minor damage and was driven from the scene prior to the researcher's arrival. The driver of V1 is not the owner and both the inspection and interview were refused. The crash occurred in the northbound lane of a four-lane undivided roadway. Conditions were daylight and dry in the afternoon on a weekday. The roadway was dry, straight, and level. The posted speed limit was 64 kmph (40 MPH). V1 was a 1993 Cadillac DeVille traveling northbound in the right lane. V2 was a 1999 Honda Odyssey minivan traveling directly behind V1. V3 was a 2002 Hyundai XG350 sedan traveling directly in back of V2 and V4 was a 1988 Cadillac sedan traveling directly in back of V3. For reasons unknown, V1 braked several times and the front of V2 struck the back of V1 in the northbound lane. The front of V3 then struck the rear of V2 in the northbound lane. The front of V4 then struck the back of V3 in the northbound lane. All vehicles came to final rest facing northbound. V1 was driven by a 63-year old male who was not injured. V1 was driven away from the scene. The Critical Pre-crash Event for the driver of V1 was when there was another vehicle in his lane, traveling in the same direction with higher speed. The Critical Reason was not coded to the driver of V1. Associated factors coded to this driver were following too closely and the traffic flow interruption in the form of heavy traffic. V2 was driven by a 28-year old female who was not injured. She stated that the vehicle in front of her kept braking then slammed on its brakes and the front of V2 struck the back of V1 in the northbound lane. V2 was traveling between 1 and 10 MPH at the time of impact. V2 braked prior to impact but was unsuccessful. V2 was driven away from the scene. The critical precrash event for the driver of V2 was when there was another vehicle stopped in her lane. The Critical Reason for the Critical Pre-crash event was coded as “Following too closely to respond to unexpected actions of other road users.” Associated factors coded to this driver were following too closely and the traffic flow interruption in the form of heavy traffic. The driver of V2 also had her three children in the vehicle and this may have served as a distraction. The driver is familiar with the area and drives on this road daily. The driver does not work and does not have any pre-existing medical ailments. V3 was driven by a 62-year old male who was not injured. He stated that he saw V2 slam on its brakes so he did the same but was unsuccessful. The front of V3 struck the back of V2 in the northbound lane. The driver of V3 reported that he was traveling between 41 and 50 MPH at the time of impact. V3 was towed due to damage. No Critical Pre-crash Event and no Critical Reason were coded to the driver of V3 because he was not involved in the first harmful event. One associated factor coded to this driver was excess speed, because by his own admission he was exceeding the posted speed limit. Another associated factor coded to this driver was the traffic flow interruption in the form of heavy traffic. The driver of V3 drives this road several times a month and is comfortable with the roadway. The driver is retired and does not have any pre-existing medical ailments.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Traffic present problem 
+Vehicle 2:  Decision, Traffic present problem 
+Vehicle 3:  Speed/Distance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

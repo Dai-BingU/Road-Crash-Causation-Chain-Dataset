@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a six-lane roadway divided by a concrete median. There were three westbound and three eastbound lanes. This was a straight, level, and asphalt roadway. The posted speed limit was 56 kmph (35 mph). It was afternoon on a weekday and the road was dry and the sky was clear. Traffic flow was heavy, but moving. There was a regulatory sign located in the median prohibiting a left turn. Vehicle one (V1), an unknown year Dodge Ram two door with an unknown number of occupants, was traveling westbound in lane three. Vehicle two (V2), a 1995 Mercury Tracer four door with two occupants, was stopped in lane three. Vehicle three (V3), a 2005 Cadillac CTS four door with one occupant, was stopped in lane three, directly in front of V2. For an unknown reason, the front of V1 struck the back of V2. V2 was then moved forward where the front of V2 struck the back of V3. V1 then fled the scene without exchanging information with the other drivers. V2 and V3 came to final rest within 5 meters (16 feet) of each other - both in lane 3. A male who fled the scene without exchanging any information drove V1, the Dodge Ram. The Critical Pre-crash Event for V1 was "other motor vehicle in lane, other vehicle stopped." The Critical Reason for the Critical Event was unknown. It could not be determined if it was a human error or vehicle condition related. A 17-year old female who reported possible injuries drove V2, the 1995 Mercury Tracer. She stated that she was stopped in the third lane behind V3. She had no awareness of V1 prior to being hit from behind. She was then pushed into the back of V3. The Critical Pre-crash Event for V2 was "other motor vehicle in lane, traveling in same direction with higher speed." The Critical Reason was not coded to this vehicle. The driver stated that she had been driving for one year, was unlicensed and had no driver training. A 61-year old female who reported possible injuries drove V3, the 2005 Cadillac CTS. She stated that she was stopped waiting to turn left. She heard a crash behind her, followed immediately by an impact from behind. V3 was not involved in the first harmful event. Therefore, no Critical Pre-crash Event or Critical Reason was coded to the driver. The only associated factor coded to this driver was turning left when a regulatory sign was posted indicating a left turn was prohibited.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Decision, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Unknown Reason - Unknown reason for critical event
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

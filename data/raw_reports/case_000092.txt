@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the evening of a weekday on a straight, level, and urban roadway with a posted speed limit of 72 kmph (45 mph). The east/west bituminous roadway consisted of two lanes in each direction divided by a two-way center left turn lane. The roadway was and unlighted as well as wet from a rain that was failing at the time of the crash. The traffic flow was heavy due to rush hour traffic. V1, a 2005 Dodge Neon 4 door, driven by a 23 year-old female was westbound on the road in lane two. V1 moved into the center left turn lane (lane three), intending to turn left into a driveway. The driver of V1 entered the left turn lane in advance of the designated lane markings for turning left at the intersection. The front of V1 struck the front of V2 in the left turn lane. V1 came to rest after impact in lane three facing west. V1 was towed from the scene due to damage. The fully restrained driver was transported to a local trauma center due to injuries. The Critical Precrash Event for V1 was coded other motor vehicle in lane, traveling in opposite direction. The Critical Reason was coded as an illegal maneuver (entering the turn lane too soon). In addition to the illegal maneuver, the rain, wet roads, and heavy rush hour congestion were coded as associated factors. V2, a 1999 Pontiac Grand Prix 4 door driven by a 25 year-old female on her way home from visiting her mom, was eastbound on the road in lane two. The driver of V2 pulled into the left turn lane to turn into a side street east of the main intersection. V2 came to rest facing east in lane three following the impact. V2 was driven from the scene after the crash. The fully restrained, five month pregnant driver was transported to a local trauma center. The fully restrained 39-year-old male passenger in the front right seat denied injuries. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in opposite direction. The Critical Reason was not coded to this vehicle. The rain, wet roads, and rush hour congestion were coded as associated factors for this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway, Traffic, Weather/Environment present problem 
+Vehicle 2:  Drugs, Roadway, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in opposite direction
+ 2 ：Other Motor Vehicle in Lane- Traveling in opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

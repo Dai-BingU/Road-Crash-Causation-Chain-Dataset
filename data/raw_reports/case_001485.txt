@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lane of a three-lane, urban roadway with a raised, concrete median. There were three northbound lanes and four southbound lanes. The roadway had a posted speed limit of 72 kmph (45 mph) and a downhill grade of 3% in the northbound direction. Conditions were dark but lighted with clear skies and dry roads. The setting was early evening hours on a weekend. Vehicle one was a 1994 Honda Civic coupe traveling northbound in lane two. Vehicle two was a 2002 Nissan Xterra sport utility traveling northbound in lane three ahead of v1. V1 approached v2 and began changing lanes from lane two into lane three. V1 then braked with lockup and slid into the back of v2, striking it with its front (Event 1). Both vehicles came to rest in lane three just north of impact. The Honda Civic (v1) was driven by an 18-year old male who was uninjured. He stated that he was heading home from the movies when another vehicle pulled out from a gas station on the right. He says he was traveling in lane three at 104 kmph (65 mph) when the other vehicle pulled in front of him. He braked with lockup, but could not avoid the collision. His estimated impact speed was 56 kmph (35 mph). The Honda coupe was towed due to damage. The Critical Precrash Event for v1 was this vehicle traveling over the lane line on the left side of the travel lane. The Critical Reason was a driver related factor of misjudgment of gap or other's speed. Associated factors assigned to this driver included poor directional control and the misjudgment factors. The Nissan Xterra (v2) was driven by a 23-year old female who was transported to a local trauma center with unknown injuries. She could not be located for an interview. The investigating officer estimated her travel and impact speeds to be 72 kmph (45 mph). The Nissan sport utility was driven from the scene by the passenger. The Critical Precrash Event for v2 was other vehicle encroachment from the adjacent lane (same direction) over the right lane line. No Critical Reason was coded to this vehicle. No other associate factors could be coded.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Performance, Speed/Distance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

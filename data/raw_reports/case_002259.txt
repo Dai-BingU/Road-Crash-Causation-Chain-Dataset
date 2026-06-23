@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred on a seven-lane, divided, north/south roadway at the intersection with a two-lane, undivided, east/west roadway. There are three travel lanes, a -5.7% grade and a right curve for northbound traffic. There are four travel lanes and +6.6% grade for southbound traffic. The roadway was dry and of asphalt construction. Traffic control lights control traffic at the intersection. The posted speed limit is 64 kmph (40 mph). Traffic was light at the time of the crash. This crash occurred during daylight hours with clear skies. Vehicle one (V1), a 1997 Chevrolet Suburban with three occupants, was northbound in the first travel lane. Vehicle two (V2), a 1999 Infinity Q45 with four occupants, was southbound in the fourth travel lane (a left turn only lane with a protected arrow). V1 entered the intersection as V2 was turning left and the front of V1 impacted the right of V2. V1 rotated clockwise, departed the roadway on the northeast corner and came to rest off the roadway facing north. V2 rotated counterclockwise and came to rest facing north in the northbound lanes. Both vehicles were towed due to damage. The driver of V1 was transported from the scene. The driver of V1, a twenty-nine year old female, could not be interviewed. The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction - over left lane line. A critical reason was not assigned to V1. This driver ran the red light at the collision intersection. The driver of V2, a forty-three year old female, was heading from home to a golf course. This driver had been driving for about ten minutes, drives the route weekly and is familiar with the vehicle. She had been stopped more than ten seconds before the green allowed her the right of way to complete the left turn. She did not detect V1 until impact and did not attempt any evasive maneuvers. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason was coded to V2 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver did not see V1 prior to impact.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

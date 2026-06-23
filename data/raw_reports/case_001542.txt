@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a north/south urban arterial business roadway. It had two lanes in each direction with a center two-way left turn lane. Business private drives intersected intermittently both sides of the road. A two lane residential road intersected from the east 30 meters north of a private drive located on the east side of the road. Another private drive on the west side of the road was 16 meters north of the one on the east, 14 meters south of the intersection with the residential road. The arterial road was straight with a negative 4% grade as it traveled north towards the intersection. The intersection of the arterial and residential road was controlled by a traffic signal. The posted speed limit was 72kmph (45mph). Conditions were daylight and dry on a weekday evening. Vehicle #1 was a 1998 Ford Explorer attempting to cross from the private drive on the east side of the road to the private drive on the west side. Vehicle #2, a 1996 Chevrolet Corsica was northbound in the left lane of the four-lane road. When Vehicle #1 attempted to cross the arterial road its left front was struck by the front right of Vehicle #2. After impact the Explorer (V1) rotated 180 degrees clockwise and rolled two quarter turns, coming to rest on its top facing east in the northbound lanes. The Corsica (V2) continued north 92 meters and came to a controlled stop in a parking lot off the east side of the road. Vehicle #1 was towed due to damage. Vehicle #2 suffered only minor damage and was driven away. Vehicle #1 was driven by a 20-year old male that was belted with no deployed airbags. He was not injured in the crash. He stated to avoid waiting at the traffic signal at the intersection of the arterial and residential roads, he was cutting through the parking lot on the east side of the road with the intention of entering the parking lot on the west side of the arterial road. He said he stopped and waited for traffic from the south to clear before attempting to cross the five lanes in a 'S' path, traveling in a northwesterly direction. Police charged the driver with failure to yield. The Critical Precrash Event for Vehicle #1 was this vehicle crossing intersection. The Critical Reason for the Critical Event was inadequate surveillance. Associated factors included in a hurry, normal driving pattern. The driver was wearing contacts to correct an unknown condition. Vehicle #2 was operated by a 55-year old female that was belted with no deployed airbags. She was accompanied in the car by a 44-year old male in the front row, and an 8-year old male and 49-year old male in the second row. All of the occupants were reportedly belted. The only injury was to the 49-year old male in the second right seat, who was transported to an area hospital with minor injuries. She stated she was traveling north in the left lane when the Explorer (V1) pulled in front of her. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from driveway across path. The Critical Reason for the Critical Event was not coded to this vehicle. The only associated factor was driver conversing on phone with unknown party. In the interview the driver was unsure if she was still on the phone at the time of the collision, however the researcher felt by her demeanor that she was in fact talking on a cell phone at impact.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Cell Phone Use, Distraction, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From driveway, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

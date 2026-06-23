@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash involving two vehicles occurred shortly before noon at the intersection of a two-way, four lane (seven overall), divided roadway without a positive barrier and a two-way, two lane, undivided roadway. Both roads were dry, traveled, level concrete. The posted speed limit is 48 kmph (30 mph) for the north/south roadway and 56 kmph (35 mph) for the east/west roadway. Traffic flow controlled by a traffic signal. Traffic was light at the time of the accident. There were no adverse weather conditions. V 1 a 2005 Dodge Magnum station wagon driven by a 22 year-old female was northbound in the first travel lane. V 2 a 2005 GMC Straight Truck driven by a 63 year-old male with one passenger was eastbound in the first travel lane. V 1 entered the intersection without the right of way and it's front struck the right side of V 2. V 1 rotated clockwise and came to rest facing southeast partially off the roadway. V 2 came to rest facing east in it's original travel lane. V 1 was towed from the scene, there were no reported injuries. Driver of V 1 was looked at by EMS at scene. The pre-event movement for V 1 coded going straight, category this vehicle traveling crossing over passing through intersection. The critical reason driver related factor "illegal maneuver" (failed to stop for traffic control device). The pre-event movement for V 2 stopped in traffic lane, category other vehicle encroachment from crossing street across path. The critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

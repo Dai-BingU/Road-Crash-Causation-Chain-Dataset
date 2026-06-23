@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the eastbound lanes of a four-lane interstate highway divided by a concrete barrier. There were two lanes in each direction. The roadway was curved (radius of curvature: 738m, 8% super-elevation), level, dry, asphalt with a posted speed limit of 105 kmph (65 mph). The crash occurred just before dawn and the scene was dark and unlit. The skies were clear and traffic flow was moderate. V1, a 1993 Volkswagen Cabriolet two-door with one occupant, was eastbound in lane one. V1 drove off the roadway on the right side and struck a guardrail with its right front corner (first point of impact). It then veered back to the left crossing over the roadway and struck the concrete barrier wall head on. It bounced off the barrier and came to rest facing north about 3m from the second point of impact. The vehicle was towed due to damage. The driver of V1, a 20-year old female, suffered incapacitating injuries as a result of the crash and was transported to an area hospital. She told police that she was on her way home from a friend's home and that she did not remember what happened. The driver refused numerous attempts by the researcher to get an interview. Police noted the presence of alcohol and discovered a partially consumed bottle of whiskey (as well as drug paraphernalia) on the driver's seat. According to medical records the driver tested positive for alcohol (ETOH, unknown BAC) and also indicated that she had a history of marijuana use. The Critical Precrash Event for V1 was coded this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was coded as a driver related factor, poor directional control. The researcher could not determine if the driver had fallen asleep or lost consciousness due to intoxication since the driver refused the interview. Associated factors assigned to V1 include the presence of alcohol, and marijuana use.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Performance, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

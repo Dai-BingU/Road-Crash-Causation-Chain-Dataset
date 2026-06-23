@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of an undivided two-way roadway, with two lanes of travel in each direction. The roadway was straight and level and had a posted speed limit of 48 kmph (30 mph). It was dark out but the roadway was lighted and it was dry. Vehicle #1 was a 2002 Dodge Stratus, which was traveling southbound on the two-way roadway in the right lane. Vehicle #2 was a 1993 Nissan Altima that was traveling southbound on the two-way roadway in the left lane. On this roadway, Vehicle #1 was attempting to make a U-turn to travel northbound when it was contacted on its left plane by Vehicle #2's frontal plane. The crash occurred on a non-junction roadway with no traffic signs or signals. Both vehicles came to final rest on the sidewalk of the northbound lanes. A 27-year old male drove Vehicle #1, with no other occupants present. He sustained minor injuries but was not transported to a medical facility. The Dodge Stratus was towed due to damage. The Critical Pre-Crash Event for Vehicle #1 was coded as: this vehicle traveling over the lane line on left side of travel lane. The Critical Reason for the Critical Pre-Crash Event was coded as an illegal maneuver, a decision error. The illegal maneuver was the attempted U-turn. An associated factor coded to the driver of Vehicle #1 was inadequate surveillance. Vehicle #2 was driven by a 22-year old male who had two occupants with him, a 15-year old female in the front-right position and a 16-year old female in the back-right seat. All three occupants sustained minor injuries and were transported to a medical facility. The Nissan Altima was also towed due to damage. The Critical Pre-Crash Event for Vehicle #2 was coded as: other vehicle encroachment, from adjacent lane (same direction)-over right lane line. The Critical Reason for the Critical Event was not coded to this vehicle. No associated factors were coded to this driver. The driver of Vehicle #2 could not be located for an interview. He was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

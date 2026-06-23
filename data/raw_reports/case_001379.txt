@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a four-way intersection controlled by a traffic signal. The north/south roadway is straight, level, dry, undivided and has four lanes. Due to active road construction, this roadway was reduced to two lanes, clearly delineated by traffic barrels and barricades. The speed limit for this roadway is 48 kmph (30 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2005 Ford F-250 pickup, was northbound, preparing to make a left turn at the intersection. Vehicle two (V2), a 1995 Buick Regal, was southbound intending to continue traveling straight through the intersection. In the intersection, as V1 turned left, the front of V2 impacted with the right side of V1. V1 rotated clockwise and came to rest facing north/northwest. V2 rotated clockwise and came to rest facing southwest. Both vehicles were towed due to damage. The driver of V1, a fifty-five-year-old male, was driving from his sister's home to his home. His passenger was a five-year-old female. He was well rested and familiar with his vehicle and his route. He takes Metoprolol Tartrate for a heart condition as well as Insulin and vitamins. At the time of the crash, he was thinking about his heart condition, but was attentive to his driving. He saw V2, but did not realize that it was speeding and thought he had plenty of time to complete his turn safely. The driver of V2, a thirty-eight-year-old male, was driving from his home and had no intended destination. He was familiar with his vehicle and his route. He was speeding through the intersection at the time of the crash. This driver stated at the time of the crash that he had been drinking beer and taking sleeping pills to try to kill himself. He had taken five 30 mg Restoril (generic name Temazepam), a medication prescribed as a sleeping pill. He also drank a beer before leaving his home. He was having personal problems with his girlfriend and his son just prior to this crash. Additionally, he had a minor crash a short time before this crash. Also, he had shoulder surgery three weeks prior to the crash. He was transported for medical treatment after the crash. At the hospital, he was treated for a minor injury. It was determined that he was suicidal and had Tetrahydrocannabinol (marijuana) and Benzodiazepines in his system. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical pre-crash event for V1 was coded as a driver decision error: misjudgment of gap or other's speed. The critical pre-crash event for V2 was coded: other vehicle encroachment, from opposite direction- over left lane line. The critical reason for the critical pre-crash event not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Traffic present problem 
+Vehicle 2:  Aggressive Behavior, Alcohol, Decision, Distraction, Driver Fatigue, Driver Physical, Driver Stress/Emotion, Drugs, Speed/Distance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

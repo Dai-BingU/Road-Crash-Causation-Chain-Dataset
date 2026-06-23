@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred three and one half hours before midnight on a dark unlit roadway. The roadway is two-lane with no lane strips in a rural location. The bituminous roadway was wet but it was not raining at the time of the crash. The pre-crash roadway is a down hill curve to the right with a superelevation of 2%. Vehicle one (V1), a 1999 Dodge Durango, was eastbound negotiating a right hand curve down a hill at approximately 72 kmph (45 mph). The driver is a healthy 29 year old male and is very familiar with the vehicle and the roadway. A deer ran into the roadway from the left. The driver fully applied the ABS and steered right in an attempt to avoid a collision. The vehicle departed the right road edge and struck a timber power pole with the front plane. Animal in the roadway was coded for the critical pre-crash event. Poor directional control was coded for the critical reason for the critical pre-crash event.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Animal in roadway
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

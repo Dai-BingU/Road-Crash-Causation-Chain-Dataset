@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred just after noon on a weekday in the center of a residential "T" intersection. The intersection was composed of a four-lane east/west roadway (2 lanes in each direction), and a two-lane north/southbound roadway. All roadways were bituminous, straight, and level. The east/west roadway had a posted seep limit of 80 kmph (50 mph) and the north/south roadway had a posted speed limit of 40 kmph (25 mph). It was afternoon on a weekday. The roads were wet and it was raining. Traffic flow was moderate. V1, a 1993 Mercury Sable with one occupant, was westbound in lane two approaching the intersection where it intended to go straight. V2, a 1997 Chevrolet G-Series van with two occupants, was also westbound ahead of V1, approaching the same intersection where it intended to turn left. As V2 came to a stop in preparation for its turn, V1 attempted to stop but lost traction on the wet road and slid into the rear of V2. V1 was towed due to damage, while V2 was driven from the scene. The driver of V1, a 73-year-old female, reported no injuries. She stated she saw V2 slowing to make the left turn and she than glanced in her rearview mirror to check following traffic. When her focus returned forward she was closer then she thought to V2 and applied her brakes. V1's brakes locked and it slid on the wet pavement striking V2. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical reason for the Critical Event was a driver related factor, an external distraction. The driver looked in her rearview mirror at the approaching traffic. Associated factors coded to V1 include a false assumption as the driver assumed V1 would turn without stopping and a driver related experience factors since she was uncomfortable driving with the weather conditions. The rain and wet roads were also coded. The Driver of V2, a 79-year-old male, complained of chest pain after the crash (the passenger complained of neck pain and were both transported). The driver stated that he had come to a stop in lane two in order to make a left turn. While he was waiting for traffic to clear he was struck from behind by V1. V2 made no avoidance maneuvers. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. Associated factor include possible inattention as the driver was conversing with his wife as well as the rain and wet roads.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Physical, Drugs, Roadway, Weather/Environment present problem 
+Vehicle 2:  Distraction, Driver Physical, Drugs, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred just past noon during daylight hours at a four leg intersection, with five lanes north/south and two lanes east/west. East/west traffic controlled by stop signs. The road surface is dry, level asphalt. South traffic limited to curb lane, lanes two and three closed due to construction. Posted speed limit 56 kph (35 mph). Vehicle one (V1) a 2005 Chrysler PT Cruiser driven by a 52 year-old male with two passengers was traveling north making a left turn at intersection. Vehicle two (V2) a 1979 Buick Park Avenue Coupe driven by a 31 year-old female with four passengers was traveling south in the curb lane. As V1 was making a left turn the front of V2 contacted the right side of V1,after impact V1 rotated clockwise coming to final rest north, V2 continued south coming to final rest in lane to facing south. Both vehicles were towed from the scene. The pre-event movement for V1 coded stopped in traffic lane, category this vehicle traveling turning left at intersection. Critical reason for the critical event coded driver related factor "inadequate surveillance". The pre-event movement for V2 coded going straight, category this vehicle traveling crossing over passing through intersection. Critical reason for the critical event not coded to this vehicle. Additional factor for V1, possable view obstruction from construction equipment.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Roadway, Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Roadway, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

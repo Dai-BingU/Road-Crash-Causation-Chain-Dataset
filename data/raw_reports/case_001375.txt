@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash happened at a four-way intersection in the morning of a weekday. The intersection, which is controlled by a pretimed traffic signal, connects an east-west highway with a north-south secondary roadway. The east-west highway has a posted speed limit of 89 kmph (55 mph) and the secondary road of 72 kmph (45 mph). The weather conditions were clear, dry and daylight. V1, a 1986 dump truck, was traveling north and V2, a 2000 Ford Aerostar, was traveling east. V1 was stopped at the intersection waiting for its signal to turn green. V2 never slowed as it entered the intersection at the same time as V1. The front of V1 struck the right side of V2 and both vehicles came to rest in the intersection while still engaged from the collision. A witness that was stopped at the intersection (opposite of V2) reported that he saw the driver of V2 talking on a cell phone before the crash. He reports there was almost no traffic at the time of the crash and he cannot believe each driver failed to see each other. V1 was driven by a 56-year-old male that was headed to a rock quarry when he was involved in this crash. He has been driving a dump truck for eight years and says his workload changes every week. He said that business has been slow lately but he maintains his normal routine regardless of the workload. For this trip today, he made one delivery and was returning to the rock quarry to pick up another load of gravel. After stopping at an intersection and waiting for his traffic signal to turn green, he proceeded forward and struck a minivan that had crossed in front of him. He said he was looking straight the entire time and never noticed the minivan until they collided. At first, he refused treatment but after consulting with his brother, he decided to go to the hospital for treatment on his right knee. The Critical Precrash Event for V1 was coded: other vehicle encroaching from crossing street, across path and the Critical Reason was not coded to this vehicle. V2 was driven by a 31-year-old female that was on her way to her relative's home when she was involved in this crash. She works as a personal trainer and reports to be in good health, however she does take three different medications for: ADHD and sinus antibiotic. She said she woke up this morning at her normal time and worked at the fitness club for three hours. She left work around 09:00 am to visit her family who lives almost 80 miles from where she works. She was driving east, on a roadway she rarely travels, when she was struck by a dump truck as she entered an intersection. She said her traffic signal was green when she approached the intersection and she does not remember seeing the dump truck before the crash. She suffered some minor scratches and small bruises and was treated and released from a local trauma center. The Critical Precrash Event for V2 was coded: this vehicle passing through an intersection and the Critical Reason for the precrash event was coded: internal distraction per the witness stating that this driver was talking on a cell phone before the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical present problem 
+Vehicle 2:  Cell Phone Use, Distraction, Driver Inexperience, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Internal distraction

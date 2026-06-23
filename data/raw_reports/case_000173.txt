@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred late in the afternoon on a four-lane, level, dry asphalt, median divided, straight roadway with no positive barrier. The speed limit for this roadway is 113 kmph (70 mph). There were construction zone warning signs present at the location of this daytime crash. There were no adverse atmospheric conditions present at the time of the crash. Vehicle one (V 1), a 1994 Jeep Cherokee towing a vehicle, driven by a 20 year-old male was traveling southbound in lane two. Vehicle two (V 2), a 1993 Dodge Caravan towing another vehicle driven by a 45 year-old male was traveling southbound in lane two. V 2 was traveling directly behind V 1. A large truck attempted to change lanes from lane one to lane two. V 1 steered left off of the roadway into the median in an attempt to avoid striking the large truck. As V 1 made its avoidance maneuver, V 2 steered left into the median to avoid striking the large truck. V 1's trailer began to shift and V 1 lost control rotating 360 degrees and stopping in the median facing north. As V 1 came to a stop, the front of V 2 struck the front of V 1. At impact, V 2's cargo came unattached and V 2 came to rest in the median facing north. Neither of the drivers was injured in the crash. Both vehicle's were towed due to disabling damage. The critical event for V1 was coded traveling off the edge of the road to the left. Critical reason not coded to this vehicle. The critical event for V2 was coded this vehicle control loss due to traveling too fast for conditions. The critical reason driver related factor "following too closely to respond to unexpected actions" (The cargo of both vehicles was inadequately secured by using crude towing devices, chains, and duct tape. This contributed to the cargo shift of V 1 and the subsequent post-impact loss of cargo of V 2. Both driver's stated that they had purchased the vehicles at a salvage auction earlier that day. This was the first time both driver's had driven the vehicles. This was also the first time either of the drivers had driven on this roadway).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cargo Shift, Driver Fatigue, Driver Inexperience, Driver Performance, Speed/Distance, Traffic present problem 
+Vehicle 2:  Decision, Driver Inexperience, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+ 2 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Following too closely to respond to unexpected actions

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred a few hours before mid-night during dark hours at the intersection of a three-lane, north-south, asphalt, undivided roadway with a -6.6% grade and a four-lane (seven overall), east-west, concrete, divided, level roadway without a positive barrier. The intersection was controlled with tri-color traffic signals. The posted speed was 56 kph (35 mph). The roads were straight and dry and the sky was clear. Traffic flow was moderate. Vehicle one (V 1), a 1999 Ford F-150 pick-up driven by a 27 year-old male was traveling northbound in lane one. Vehicle two (V 2), a 1994 Ford Crown Victoria sedan driven by a 21 year-old male with one passenger was traveling eastbound in lane two. V 1 entered the intersection without the right of way and was struck on the left side by the front of V 2. V 1 rotated counterclockwise and came to rest in intersection facing south. V 2 rotated counterclockwise came to final rest in the intersection facing north. The driver of V 1 advised that he was on his way home from work. He advised that he was traveling at between 48-64 kph (30-40 mph) when he entered the intersection. He did not see V 2 prior to the crash and made no attempt to avoid the collision. The driver of V 2 stated that he was traveling from one friend's house to another's. He advised that he was traveling at between 64-80 kph (40-50 mph) when he entered the intersection. He did not see V 1 prior to the crash and made no attempt to avoid the collision. Both vehicles were towed from the scene. The pre-event movement for V 1 was coded going straight, category this vehicle traveling crossing over passing through intersection. The critical reason driver related factor "illegal maneuver" (disregard of traffic signal). The pre-event movement for V 2 was coded going straight, category "other vehicle encroachment, from crossing street, across path." The Critical Reason for the Critical Event was not coded to this vehicle. Associated factor could be inadequate surveillance- the driver of V 2 did not report seeing V 1 prior to the collision even though he had a clear view of V 1. The driver also advised that he was talking to the passenger at the time of the accident.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+Vehicle 2:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

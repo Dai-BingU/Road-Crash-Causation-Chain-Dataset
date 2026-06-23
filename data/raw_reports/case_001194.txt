@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This motor vehicle crash happened on a roadway. This roadway travels east/west, with two travel lanes westbound and two travel lanes and one left turn lane eastbound. The roadway is not physically divided. The crash took place mid-block about 9 meters west of the traffic control signal. The driver of V1 was stopped at a traffic light, when the light turned green the driver proceeded to accelerate, traveling in lane two, in the westbound lanes. V2 entered the roadway from a parking lot and crossed the path of V1, trying to turn onto the eastbound lanes. V1 contacted V2 with its left front. Both cars came to rest at impact. V1's driver was coming from work and states that they did not see V2 until V2 crossed the path of V1. The driver states that they were traveling about 40-48 kmph (25-30 mph) at time the of impact and tried to avoid contacting V2 but could not stop in time. The Critical Pre-Crash Event was coded for this vehicle as: Other vehicle encroachment, from driveway, turning into opposite direction. The Critical Reason for the Critical Pre-Crash Event was not coded to this vehicle. The driver of V2 states that they were stopped about 10-15 minutes waiting for traffic. The driver then states that when the light turned green that they proceeded to cross over the westbound lanes of travel, intending on going eastbound on the roadway. “That's when the guy came out and hit us on the left side.” The Critical Pre-Crash Event was coded to this vehicle as: This vehicle traveling, turning left at intersection. The Critical Reason for the Critical Pre-Crash Event was coded to this vehicle as: Decision error, misjudgment of gap or other's speed. ASSOSIATIVE FACTORS: The driver of V2 was following another vehicle that was not involved in the motor vehicle crash. The driver of V2 also works in construction which could have contributed cause of the strenuous labor involved in the driver's job.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Misjudgment of gap or other's speed

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound side of a six lane physically divided north/southbound highway, three southbound and three northbound lanes. During the time of the crash the highway was under construction, approaching a work zone, lane three was closed allowing access to lanes one and two. There were traffic barricades blocking lane one. The concrete highway was dry, level, and there was no adverse weather conditions. The posted speed limit was 89kmph (55mph). The crash occurred early afternoon and the full access controlled highway had a consistent flow of traffic. V1, a 2005 Mitsubishi Lancer was traveling north and had entered lane two of the work zone when its front-end struck the rear of V2, a, 1999 Ford F-350 pick-up. The driver of V1,a 56 year old male stated that he had merged into lane two and preceded driving several feet when V2 suddenly stopped in front of him causing V1 to rear-end V2. The driver of V2, a 49-year-old female said that she was traveling at a consistent speed of approximately 64 kmph (40 mph) when she was rear-ended by V1. V1 was towed due to damages and all three occupants were transported to the hospital for minor injuries. The Critical Precrash Event for V1 was coded other motor vehicle in lane stopped, and the Critical Precrash reason was coded inadequate surveillance (failed to look far enough ahead). The Critical Precrash Event for V2 was coded traveling in the same direction with higher speed. The Critical Precrash reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance, Traffic present problem 
+Vehicle 2:  Driver Fatigue, Driver Stress/Emotion, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Changing lanes
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

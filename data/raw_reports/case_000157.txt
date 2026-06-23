@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred at dusk of a weekday in the center median of a 4-lane roadway in a suburban neighborhood. The east/west roadway consisted of two lanes in each direction divided by a raised grass median. The bituminous roadway was level with a slight curve to the right and a posted speed limit of 72kmph (45 mph). The traffic flow was normal but the roadway was wet, as a light rain had begun to fall. V1, a 2001 Chevrolet Cavalier with one occupant, was westbound when the driver fell asleep and departed the left side of the roadway. V1 continued to travel approximately 140m (459 ft.) on the grass median before it struck a tree (17 cm in diameter) with its front, rotated clockwise and rolled over four quarter turns before coming to final rest on wheels. V1 was towed due to damage. The driver of V1, a 24-year-old male, suffered minor injuries and was transported to a trauma center for treatment. He was driving home after work tonight when he fell asleep and crashed into a tree. He claimed to have worked over 60 hours that past week and was fatigued all day. He also added that he was working in the Pacific Time Zone last week and returned to the Eastern Time Zone only two days ago. He said he did not sleep very well at the hotel last week and his sleep schedule has not yet adjusted since he returned from that job assignment. He said he worked as many as 16 hours per day last week and that today was his shortest workday in over a month. Because he fell asleep, he could not recall any details of the crash sequence and his last memory is of being in a grocery store buying food. The Critical Precrash Event was coded this vehicle traveling, off the edge of the road on the left side. The Critical Reason for the Critical Event was coded as a driver related factor, driver sleeping. The associated factors for this crash include driver fatigue, jet lag and various sources of work related stress.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Driver Stress/Emotion, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

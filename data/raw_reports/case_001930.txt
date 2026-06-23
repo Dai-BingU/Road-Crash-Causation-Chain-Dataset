@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred in the late afternoon of a weekday on an exit ramp of an interstate highway. The exit ramp consisted of one westbound lane that curved to the right and was flanked by paved shoulders and grassy embankments. The interstate highway had a posted speed limit of 105 kmph (65 mph) but the exit ramp had an advisory speed of 40 kmph (25 mph). The bituminous roadway was wet from a rain that was falling at the time of the crash. V1, a 2003 Dodge Ram truck with one occupant was exiting the interstate via the curved exit ramp. As V1 exited the interstate and began negotiating the curve it failed to slow down and V1 began to hydroplane on the wet roads. The driver of V1 steered left and shifted the vehicle into neutral. V1 began rotating counter-clockwise and departed the roadway to the left. V1 continued rotating down the embankment until its left side wheels stuck in the soft ground. V1 rolled left one-quarter turn and came to final rest on its left side approximately 12m (40 ft.) off the roadway. V1 was towed due to damage. The driver of V1, a 26-year-old male, was not injured in the crash. He claimed to be on his way from school to a barbershop and rarely drove this way. He had just put new tires on the front of his vehicle but the rear tires were old. He stated that he steered hard left and than took his foot off the gas and put his vehicle in neutral as it began to hydroplane. The Critical Precrash Event for V1 was coded this vehicle control loss due to traveling too fast for conditions. The Critical Reason was coded too fast for conditions, the wet curved roads, as V1 was travel at nearly 97 kmph (60 mph) on the exit ramp. Associated factors include a tire deficiency as the tires on the front were new but the rear tires were old and worn. The rain and wet roads were also coded as associated factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :

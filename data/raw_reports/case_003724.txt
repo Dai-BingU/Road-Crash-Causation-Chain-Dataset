@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle afternoon crash occurred during mid-afternoon daylight hours on an urban, 4 lane, dry, straight, level, concrete expressway with full control and a posted speed limit of 89 kmph (55 mph). There is a paved shoulder to the right of the four westbound lanes and a concrete jersey barrier to the left that separates westbound lanes from four eastbound lanes. At the time of the crash, the weather was clear and there were no sight restrictions or road defects, but there was rush hour traffic congestion. Vehicle one (V1), a 1994 Chevrolet S-10 compact pickup driven by a 37 year-old male was westbound in lane three. Vehicle two (V2), a 2005 F-150 large pickup driven by a 22 year-old male was westbound in lane three ahead of V1. V2 slowed for traffic ahead and the front of V 1 and back of V 2 collided. Both vehicles came to rest in their original lanes of travel near the point of impact. Driver of V1 stated that he had been driving approximately 40 kmph (25 mph) and was unable to avoid colliding with V2 upon noticing that V 2 had slowed down. The driver of V2 stated that he had been traveling approximately 55 kmph (35 mph) and had turned to look at a previous crash on the right side of the roadway and was also looking at a building on the right side. Upon directing his attention back to the roadway, he noticed the traffic ahead, and braked hard in order to avoid a crash. Shortly after braking, V2 was struck in the rear by the front of V1. The Critical pre-crash event for V1 was coded: Other Motor Vehicle in Lane - Traveling in same direction while decelerating. The Critical Reason for the Critical Pre-crash Event was coded to V1 as a driver related factor: following too closely to respond to unexpected actions. The Critical pre-crash event for V2 was coded: this vehicle traveling; this vehicle decelerating. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Speed/Distance, Traffic, Vision present problem 
+Vehicle 2:  Distraction, Driver Fatigue, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：This Vehicle Traveling- This vehicle decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

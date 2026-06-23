@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary Case 2007-43-181 This single-vehicle crash occurred in the late evening on a 2-lane divided roadway, which acts as the main thoroughfare for a subdivision. The east/west road has a posted speed limit of 56 kmph (35 mph) and is curved to the right at the location of the crash. There were no adverse weather conditions and there was no traffic. V1, a 1998 Infiniti I-30 with one occupant, was westbound fleeing the police when it departed the left side of the road and crashed into three small trees. V1 rotated counter-clockwise after the impact and ejected its driver. V1 came to final rest facing south and its driver was hospitalized. The driver of V1, a 26-year-old male, was fleeing the police after a failed burglary attempt. He was hospitalized with serious injuries and was not interviewed for this case. The Critical Precrash Event for V1 was coded this vehicle traveling off the edge of the road on the left side. The Critical Reason for the Critical Event was coded too fast for curve.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

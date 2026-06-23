@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, A 2004 Buick LeSabre, was attempting to enter a five lane, two way, asphalt north/south roadway in daylight conditions. The roadway was dry, straight and level. The posted speed limit was 64 kmph (40 mph). V2, a 1988 Pontiac Bonneville, was traveling southbound on the roadway, intending to go straight. V1 began to make a left hand turn out of a driveway onto the roadway when the front of V2 contacted the left side of V1. Both vehicles came to final rest in the roadway. The driver of V1 was a 90-year old male who reported that he had been traveling between 2-16 kmph (1-10 mph) prior to the crash. He had no health related problems and had taken no medication prior to the crash. He was rested and traveling home. He was wearing his prescribed lenses that corrected an unknown condition. He did not sustain any injuries and refused treatment. The Critical Pre-crash Event for the driver of V1 was when he began to turn left. The Critical Reason for the Critical Pre-crash Event was a recognition error - inadequate surveillance (failed to look, looked but did not see). The driver of V2 was a 62-year old male who reported that he had been traveling between 67-80 kmph (41-50 mph) prior to the crash. He had no health related problems and had taken no medication prior to the crash. He was rested and traveling home. He did not wear prescribed lenses. He was uninjured in the crash and refused treatment. The Critical Pre-crash Event for the driver of V2 was when another vehicle encroached into his lane from a driveway, turning into the opposite direction. The Critical Reason for the Critical Pre-crash Event was not coded to the driver of V2. One associated factor coded to the driver of V2 was excess speed. As per the interview, the driver of V2 reported that he had been traveling between 41-50 mph prior to the crash. The posted speed limit was 40 mph.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Decision, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

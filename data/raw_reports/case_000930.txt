@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred during daylight hours on a weekday. The crash occurred at the T-intersection of a north-south main road and an east-west side street intersecting the west side of the main road. The main road is bordered on both sides by parking lanes, and eastbound traffic on the side street is controlled by a stop sign. At the time of the crash, there were no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 2001 Toyota Corolla four-door sedan, was traveling eastbound in the first lane of a two-lane, two-way, undivided, dry, level, bituminous roadway, about to turn left at the T-intersection. Vehicle two (V2), a 1999 Dodge Grand Caravan, was traveling southbound in the second lane of a five-lane, two-way, undivided, dry, level, bituminous roadway, approaching the T-intersection on its right. As V1 made its turn, the front of V2 impacted the left side of V1. Both vehicles moved south to final rest in the southbound lanes. The 18-year-old male driver of V1 reported that he glanced both ways as he approached the stop sign, then he moved slowly forward as he watched an approaching northbound vehicle to his right. Parked vehicles along the west curb of southbound traffic blocked the driver's view of southbound crossing traffic. He never saw V2 before the impact. The critical precrash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the event was attributed to V1, and was coded as a driver related recognition error: inadequate surveillance (e.g., failed to look, looked but did not see). The 39-year-old, pregnant driver of V2 reported that she was in good health and alert at the time of the crash. She did not see V1's approach to the intersection; the parked cars along the west curb blocked her view of crossing traffic. She attempted to brake when V1 executed the turn, but did not have sufficient time. The critical precrash event for V2 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason for the event was not attributed to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Roadway, Surveillance present problem 
+Vehicle 2:  Decision, Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a three-lane, four-leg, urban intersection. The roadway had a posted speed of 40 kmph (25 mph) westbound with a 4% uphill grade, and 56 kmph (35 mph) northbound with a 3% downhill grade. Conditions were daylight and dry with clear skies. The crash occurred in the early afternoon hours on a weekday. Vehicle one was a 1997 Dodge Intrepid sedan traveling westbound in the second lane intending to go straight. Vehicle two was a 1999 Chevrolet Venture minivan traveling northbound in the first lane. Both vehicles proceeded into the intersection at the same time. The left side of V1 was contacted by the front of V2. Both vehicles came to rest in the intersection northwest of the point of impact. Vehicle one was driven by a 20-year old male who was transported to a local hospital with minor injuries. He could not be located for an interview. The officer reported that he drove into the intersection with a green light and estimated his speed to be 25 mph. V1 was towed due to damage. The Critical Precrash Event for the driver of V1 was the other vehicle encroaching into his lane from a crossing street going across his path. No Critical Reason was coded to this driver. No associated factors could be coded since the interview could not be obtained. Vehicle two was driven by a 30-year old female who was transported to a local hospital with minor injuries. She could not be located for an interview. The officer reported the she stated she was attending to her kids and accidentally drove through the red light. Her speed at impact was estimated to be 40 mph. V2 was towed due to damage. The Critical Precrash Event for the driver of V2 was crossing over the intersection. The Critical Reason was an internal distraction in her vehicle. No associated factors could be coded since the interview was not obtained.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Internal distraction

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a two-way, eleven-lane interstate roadway, divided by a concrete traffic barrier. There were six northbound lanes, with a posted speed of 105 kmph (65 mph). Conditions were daylight on a weekday afternoon with dry roads and clear skies. Traffic flow was interrupted by a previous crash. V1, a 2007 Freightliner tractor-trailer with one occupant, was traveling northbound in lane one. V2, a 1998 Nissan Sentra with one occupant, was traveling ahead of V1, in the same lane. V3, a 2006 International Harvester tractor-trailer with one occupant, was traveling behind V1, in the same lane. A non-contact vehicle crashed into the concrete traffic barrier just ahead of the other three vehicles. The non-contact vehicle was redirected into lane one. V2, the lead vehicle, came to a sudden and immediate stop, avoiding the non-contact vehicle. The front of V1 rear-ended the back of V2. The front of V3 subsequently rear-ended the back of V1. V1 and V2 were towed due to damage. V1, the Freightliner, was driven by a 36-year old male who was not injured. He stated that he was on his way back to the warehouse from delivering a cargo load. He noticed a vehicle in front of him having some problem controlling her vehicle. Just as he started to slow down, the SUV lost control, hitting a wall and bouncing back into lane one. The car in front of him slammed on his brakes. The driver indicated that the tractor-trailer could not stop in such a short distance. The Critical Pre-crash Event for V1 was "other motor vehicle in lane, other vehicle stopped." The Critical Reason for the Critical Event was a driver decision error, following too closely to respond to unexpected actions. One associated factor for this driver was the highway related crash prior to this crash. V2, the Nissan Sentra, was driven by a 47-year old male who was transported to the hospital with injuries. He could not be reached for interview. The Critical Pre-crash Event for V2 was "other motor vehicle in lane, traveling in same direction with higher speed." The Critical Reason for the Critical Event was not coded to this driver. One associated factor for this driver was the highway related crash prior to this crash. V3, the International Harvester, was driven by a 40-year old male who was not injured. This driver was not involved in the first harmful event. The Critical Reason for the Critical Event was not coded to this vehicle. One associated factor for this driver was decision related - following too closely to respond to unexpected actions of other drivers. Another associated factor was the traffic flow interruption caused by the previous crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Decision, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Avoidance maneuver to a previous critical event
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

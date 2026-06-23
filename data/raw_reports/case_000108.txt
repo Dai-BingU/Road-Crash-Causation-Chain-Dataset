@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a straight, physically divided, six-lane, state highway. The highway runs east and west at the location of the crash and has three through lanes on each side. The speed limit on the highway is 105 kph (65 mph) and there were no adverse weather conditions at the time. Vehicle one, a 2000 Chrysler LHS was westbound in lane two. Vehicle two, a 2001 International tractor pulling one trailer was westbound in lane three. Vehicle one started to change lanes into lane three and was impacted on its left side by the front of vehicle two. Vehicle one rotated counter clockwise and was impacted on the left side by vehicle two's front. Vehicle one rotated off the left side of the road into a physically divided median and impacted a guardrail with its front. Vehicle one bounced off the guardrail and impacted it again with its back. Vehicle one bounced off the guardrail again and came to rest on its wheels facing northwest on the left shoulder. Vehicle one was towed due to damage. Vehicle two was not towed due to damage. The driver of vehicle one, a seventy-eight year old male had just left his house driving to his cabin in the mountains. This driver had been driving for less than one half hour on this trip. This driver stated that he was westbound and wanted to change lanes to the left. He pulled ahead of the truck and was impacted. This driver stated that vehicle two suddenly accelerated. This driver was taking as a prescription Verapamil SR, Lisinopril, Aspirin and Aciphex. This driver has a hearing deficiency but was not wearing a hearing aid. This driver drives this vehicle daily and over this road on a daily basis. The driver of vehicle two, a forty-three year old male was westbound and had just picked up a load and was headed out of state for the delivery. This driver drives this vehicle daily and over this road on a monthly basis. This driver had eleven and one half hours of sleep the previous night and had been up for almost two hours at the time of the crash. The critical pre-crash event for vehicle one was coded as “this vehicle traveling: over the lane line on the left side of travel lane”. The critical reason for the critical pre-crash event was attributed to vehicle one and was coded as “driver related factor: misjudgment of gap or other's speed”. The critical pre-crash event for vehicle two was coded as “other vehicle encroachment: from adjacent lane [same direction] - over right lane” and the critical reason for the critical pre-crash event for vehicle two was coded as “not coded to this vehicle”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Physical, Drugs present problem 
+Vehicle 2:  Distraction, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

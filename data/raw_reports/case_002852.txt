@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This four vehicle crash occurred mid morning during daylight hours on a clear day at an intersection controlled by operating overhead traffic signals. The north/south roadway was a 4-lane, two-way undivided roadway. The east/west roadway was comprised of a two-way undivided roadway with 6 travel lanes in total. All travel lanes were asphalt, level, and with no deficiencies. The posted speed limit was 56 kmph (35 mph). Vehicle one (V1) was a 2003 Chevrolet Venture mini van that was modified as a medical transport vehicle. V1 was driven by a 24 year-old male with one passenger who was traveling north in lane two. Vehicle two (V2) was a 2003 Chevrolet Malibu 4-door sedan driven by an 82 year-old female. V2 was traveling west in lane two. Vehicle three (V3) was a 2000 Honda Accord sedan driven by a 26 year-old male who was stopped in lane two facing south. Vehicle four (V4) was a 2002 Ford Explorer SUV driven by a 41 year-old female. V4 was stopped in lane two behind V3 facing south. As V1 was crossing through the intersection on a red light, it was impacted on the right side by the front of V2. The impact caused V1 to rollover onto it's left side rotating clockwise and moving in a northwesterly direction into the southbound lanes. V1 then contacted V3's left front fender, which had been stopped in it's traffic lane. V1 then rotated counterclockwise striking the left front of V4 with V1's top of the front hood, V1, V3 and V4 came to final rest at their impact locations. V2, after the first impact, rotated clockwise coming to final rest at the northeast corner. V1 & V2 were towed from the scene, V3 & V4 were driven from the scene. For this trip the driver of V1 had picked up a patient and was delivering them to a nursing home. He claimed not to be in a hurry and attentive to the driving task. He entered the intersection traveling at a constant velocity and did not stop. He claimed that he had a green light, but that was later learned not to be true. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was attributed to V1 as a driver related factor: Illegal maneuver. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle. V3 and V4 were not involved in first harmful event. The critical reason was not coded to either of these vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Performance present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

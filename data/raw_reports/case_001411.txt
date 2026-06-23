@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of two two-lane residential roadways. Both roadways had one lane in each direction and were asphalt, straight and dry. The east-westbound roadway had a 4% slope uphill toward the east. The posted speed limit was 56kph (35mph). The crash occurred on a weekday early afternoon under dry, cloudy skies while traffic was light. V1, a 2001 Chevy Impala four-door with two occupants was eastbound in lane one and slowed to make a left turn. Before the vehicle could complete the turn it hit the curb on the northeast corner of the intersection blowing out the right front tire and coming to rest facing northeast with the right front wheel on the sidewalk. V1 was driven by an 86-year old female. Both she and her right front seat passenger were coded for non-incapacitating injuries and transported to a hospital. The driver reported that she had just left home on her way to a doctor's appointment and was traveling about 32kph (20mph). She said that as she approached the intersection to make a left turn she applied her brakes to decelerate. She added that her vehicle slid into and struck the curb. The Critical Pre-crash Event for V1 was "this vehicle traveling turning left at intersection". The Critical Reason for the Critical Event was driver related "poor directional control failing to control the vehicle with the control ordinarily expected". The driver reported having high blood pressure and taking medication but the researcher did not feel that this contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

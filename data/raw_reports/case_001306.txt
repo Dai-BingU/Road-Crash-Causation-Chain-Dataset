@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This 2-vehicle crash occurred in the westbound lane of a 2-lane divided suburban roadway with intersecting city side streets to the north and south. The westbound travel lanes had a divided grass median and a left turn lane that began 70 meters back from the city street. The road had a negative 3% grade and a posted speed of 72 KMPH (45 MPH). The intersecting southbound side street was controlled by a stop sign and had a negative 3% grade; its posted speed was 40 KMPH (25 MPH). Conditions were daylight and dry with cloudy skies. The crash happened in the early afternoon on a weekday. Vehicle 1 was a 1994 Ford F250 work truck that was traveling west in lane one. Vehicle 2 was a 1993 Acura Integra stopped at the crossing street waiting for V1 to pass. Vehicle 1 was driving at a slow rate of speed as it passed by the side street. Vehicle 2 pulled forward into the intersection and struck V1 in the right rear. Following the impact V1 drove 10 meters to the side of the roadway and V2 drove to a nearby parking lot. Both vehicles were towed from the scene. The Ford F250 was driven by a 32-year old male who was transported to a local hospital with minor injuries. He refused to discuss the crash without the presence of his attorney. He said "foreigners can't drive" and that we should "ask the other driver what happened." The Critical Precrash Event for V1 is other vehicle encroachment from crossing street, across path. The Critical Reason for the Precrash Event was not coded for this vehicle. The medical records show that he was taking medication for anxiety the possible side effects are mild drowsiness during the first few days of therapy, weakness or confusion may occur. The Acura Integra was driven by a 19-year old male that was returning to his dad's garage after completing a work-related errand. He was stopped at the intersection waiting for traffic to clear so he could continue south. He was looking left and saw V1 slowly approach the side street with its right-turn signal turned on. This driver reports that after he assumed V1 was turning right, that he turned his head forward and began to proceed ahead. The Critical Precrash Event for V2 is this vehicle traveling, crossing over (passing through) the intersection. The Critical Reason for the Precrash Event was a decision error, false assumption of other road user's actions. This driver was woken up an hour and a half earlier this day because his car alarm was tripped, but he was not thought to have been fatigued at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

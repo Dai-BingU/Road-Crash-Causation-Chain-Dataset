@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This crash occurred early evening hours involving one passenger car and teo pick-up trucks on a two lane (two-way traffic) bridge. The speed limit for the roadway is 72 kmph (45 mph). The road surface concrete and dry and there were no detrimental atmospheric conditions at the time of the crash. The bridge is illuminated at night. V 1 a 2001 Chevrolet Silverado Pick up driven by a 30 year-old male and V 3 a 1992 Chevrolet Pick up driven by a 38 year-old male were traveling west in the first lane of the eastbound lanes. V 2 a 2002 Honda Civic driven by a 68 year-old male with two passengers was traveling east in the first lane. At the curvature of the roadway, V 1 attempted to pass V 3 which was traveling at a slow pace in front of V 1. V 1 changed into the oncoming traffic lane. The left front corner of V 1 impacted the left side of V 2. Both vehicles sideswiped each other before they disengaged. The rear axle of V 1 became dislocated. V 1 reentered lane one and continued to drive for about 25 meter before it slightly impacted the rear of V 3. V 1 and V 3 both came to rest in lane 1, facing west. V 2 came to rest in the eastbound lane, facing east. V 1 and V 2 were towed from the scene. V 3 was able to drive off the scene with minor damage. The left rear occupant in V 3 was treated at the scene by EMS. The pre-event movement for V 1 coded negotiating a curve . The category this vehicle traveling over the lane line on the left side of travel, Critical reason driver related factor "inadequate surveillance" This vehicle tried to pass in a no-pass zone. The passing zone on this bridge started near the final rest of this vehicle. Prior to that, there was a particular sign declaring this part of the road a no passing zone. The crash happened at night and the sign was not lighted. The driver was very familiar with the area and this bridge. He claimed he lived two thirds of his live in this area and would use this roadway every day. The pre-event movement for V 2 coded negotiating a curve, The category other vehicle encroachment from opposite direction over left lane line, critical reason not coded to this vehicle to this vehicle. The pre-event movement for V 3 negotiating a curve, category other not involved first harmful event. Critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Surveillance present problem 
+Vehicle 3:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+ 3 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

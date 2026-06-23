@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This early evening two-vehicle crash occurred in the middle of a four-way intersection controlled only by stop signs in all directions. The east/west and north/south roadways were each undivided two-lane roads. Both roadways were dry, straight and level. There were no adverse atmospheric conditions at the time of the crash. The posted speed limit on both roadways was 40 kmph (25 mph). Vehicle one, a 2003 Cadillac CTS, was traveling in lane one of the westbound roadway approaching the intersection. Vehicle two, a 1999 Honda Civic, was traveling in lane one of the northbound roadway approaching the same intersection. Both vehicles entered the intersection at approximately the same time. The front right of V2 struck the left front of V1. The impact caused V2 to rotate counterclockwise slightly in the middle of the intersection. After impact, V1 veered through the intersection at an angle and mounted a curb before coming to an uncontrolled final rest facing westbound. V2 was moved from its final rest position in the intersection prior to the researcher's arrival. The driver of V1, a 29-year old female, sustained no injuries. There were no other occupants in the vehicle when the crash occurred. There was no on-scene interview because V1 was drivable and departed the scene while the other driver was being interviewed. Both drivers claimed that they stopped at the stop sign before proceeding into the intersection. Both drivers claimed that the other driver ran the stop sign. Based on vehicle damage and final rest of both vehicles, it was determined that V1 went through the stop sign without stopping. The Critical Pre-crash Event coded to this vehicle was this vehicle crossing over (passing through) intersection. The Critical Reason for the Critical Pre-crash Event was coded as an illegal maneuver. An associated factor coded to this driver was inadequate surveillance because it was believed that she failed to look to her left where she would have observed V2 also entering the intersection. The driver of V2, a 17-year old male, sustained no injuries. There was a front right seat passenger in the vehicle when the crash occurred who also sustained no injuries. The driver was interviewed at the scene. The driver stated he was traveling eastbound approaching the four-way intersection controlled by a stop sign and stopped. As the driver began to accelerate, V2 proceeded into the middle of the intersection and was struck by V2. The Critical Pre-crash Event coded to this vehicle was other vehicle encroachment from crossing street, across path. The Critical Reason was not coded to this vehicle. One associated factor coded to this driver was inexperience, as he had only been driving less than one year.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the northbound lanes of an eight-lane urban roadway. The roadway had a posted speed limit of 72 kmph (45 mph) and was sloped 2% downhill for northbound traffic. The southbound approach was curved left with a positive superelevation of 3%. Conditions were dusk and dry with clear skies. The crash occurred in the early evening hours of a weekday. Vehicle one was a 1984 Jeep CJ-7 compact SUV traveling northbound in lane three. Vehicle two was a 2001 Ford Mustang convertible facing southbound in lane four waiting to turn left. Both vehicles proceeded through the intersection. The front of V1 impacted the right plane of V2. Both vehicles came to rest in the intersection. V1 was driven by a 31-year old male who was reported to have possible injuries, but was not transported. He stated that he was heading home after dinner when an oncoming car turned in front of him. He braked hard but did not lockup his wheels due to the large size tires equipped on his vehicle. He was unable to estimate his speed, but the investigating officer estimated his travel and impact speeds to be 32 kmph (20 mph). V1 was towed due to damage. The Critical Precrash Event for V1 was other vehicle encroachment from opposite direction over left lane line. No Critical Reason was coded to this driver. V2 was driven by a 61-year old female who was transported to a local trauma center with non-incapacitating injuries. She stated the while she was waiting to turn left at the intersection, an impatient driver behind her was honking the horn and rushing her. After approximately a one minute wait, she turned left when it appeared the roadway was clear. She also reported that V1 was speeding and did not have his headlights on at the time of the crash. She noted that a previous vision impairment caused by a detached retina may have made it difficult for her to see the oncoming vehicle. She estimated her travel and impact speeds to be 8kmph (5 mph). V2 was towed due to damage. The Critical Precrash Event for V2 was this vehicle traveling turning left at the intersection. The Critical Reason was inadequate surveillance as this driver looked but did not see. This driver was taking an antidepressant medication, the possible side effects are blurred vision, tiredness, dizziness and nervousness. She also wears corrective lenses for a nearsighted condition.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Driver Physical, Driver Stress/Emotion, Drugs, Surveillance, Vision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

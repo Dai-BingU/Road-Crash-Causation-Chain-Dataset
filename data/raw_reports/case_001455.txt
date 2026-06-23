@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a two-lane undivided roadway. There was one eastbound lane and one westbound lane. The roadway had an uphill grade of 8 percent, curved to the left, was bituminous, and had a posted speed limit of 40 kmph (25 mph). It was early in the morning on a weekday, the road was icy, and the sky was clear. V1 was a 1995 Volkswagen Jetta III driven by a 22-year-old female. V2 was a 1985 Oldsmobile Delta 88 that was legally parked off of the road on the left side. V1 was traveling westbound negotiating a left hand curve when it hit a patch of ice. The ice caused V1 to rotate in a counterclockwise direction, crossing over the lane line to the left and then off the left side road edge where it impacted V2. The Critical Pre-crash Event was "this vehicle control loss due to poor road conditions (icy roads)." The Critical Reason for the Critical Pre-crash Event was an environmental factor - slick roads. The ice accumulation on the road was caused by poor drainage, as related by an officer on the scene. According to the officer this was a common occurrence. Several attempts were made to contact the driver of V1, without success. Without an interview, no additional associated factors could be coded to the driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lane of a one-way, cement, urban street that curved to the left as it passed a commercial driveway entrance to a hotel. This roadway had a posted speed limit of 72kmph (45mph) and the noontime crash occurred on a weekday when the road was dry and traffic conditions were moderate. V1, a 2006 Mazda 5 4door solely occupied by the 27-year-old female driver, was westbound in lane one of the roadway descried above. V2, a 1997 Chevrolet 1500 pickup truck pulling an 8 foot long 2 wheeled trailer with approximately 500lbs of construction scrap was westbound in lane two of the same roadway. V2 was solely occupied by the 39-year-old male driver and was about 1-2 car lengths behind V1. Both vehicles were traveling at or below the posted speed limit. V1 attempted to turn left into the entrance from the right lane. V1's left struck V2's front. V1 then exited the roadway to the left and came to rest on a level grassy area south of the roadway facing west. V2 exited the roadway to the left, crossed the hotel driveway, struck a sign with its front left, a tree with its right then another tree with its front and came to rest against that tree facing west. Both vehicles were towed. Both drivers' sustained minor injuries but neither one was transported. The driver of V1 stated that she was meeting someone at the hotel for lunch. She was not late but was taking a different route than she had taken before to get there. She did not realize that the driveway went off from the left lane. She saw the driveway and looked into her side mirror and did not see V2. She then attempted to turn left into the driveway and never saw V2 until it hit her car. The Critical Precrash Event for V1 was “this vehicle traveling turning left at the intersection”. The Critical Reason for the Critical Event was a decision error-illegal maneuver. Some factors on the part of V1 include the recognition factors of inadequate surveillance, looked but did not see, (V2 in blind spot of mirror), the driver looking for the driveway/destination. Other factors include the driver's performance of an illegal maneuver (turning left from the right lane) her unfamiliarity with the road (her first time taking that route to the hotel) and a lack of driving experience in this country. The driver did not speak/read or write English and had been in this country for only 6 months. She did have a valid driver's license. The driver of V2 stated that he was traveling westbound in lane two behind and to the left of V1 when V1 suddenly turned left into his lane. He steered left and braked but was unable to avoid V1. He then advised that he ran off the road to the left and just “held on” until he hit/came to rest against a tree. He was familiar with roadway and drove it daily. The Critical Precrash Event for V2 was “other vehicle encroachment from adjacent lane (same direction)-over right lane line”. The Critical Reason for the Critical Event was not coded to this vehicle. A factor on the part of V2 may have been the fact that even though the brakes on the older vehicle may have been adequate, the extra weight of the trailer may have hampered the efforts of the driver to stop the vehicle in time to avoid the events following the first crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

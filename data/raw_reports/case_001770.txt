@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred on a north/south four-lane median divided urban highway that was intersected on the west by a two-lane side street. Southbound on the highway there were two travel lanes and a shoulder, northbound there were two through lanes, a left turn lane and a shoulder. Several private drives intersect the highway on both sides. Traffic counts indicate the highway carries 36,000 vehicles per day near the intersection with a speed limit of 72 kmph (45 mph). The east/west side street had a stop sign with a posted speed of 48 kmph (30 mph). Although there was no traffic signal at this intersection, there were traffic signals at intersections 0.25km north and south of the crash site. Vehicle #1 was a 1992 Buick Riviera traveling southbound in the right lane of the highway. Vehicle #2, a 2001 Nissan Quest minivan, was stopped eastbound on the side street at the intersection. Vehicle #1 departed the right side of the road 48m north of the intersection and went through a ditch that was under construction striking a large pile of dirt. The Buick (V1) then entered the intersecting side street and struck the left side of minivan (V2) with its front. Vehicle #1 came to rest facing southwest near impact. Vehicle #2 was pushed counterclockwise and came to rest facing northeast against Vehicle #1. Both vehicles were towed due to damage. Vehicle #1 was driven by a 50-year-old male that was not belted, but was the beneficiary of a deployed frontal airbag. He fled the scene on foot but was apprehended about three blocks away thirty minutes after the collision and taken into custody. He refused to cooperate with police or researcher other than to say he fell asleep. Police charged him with several offenses including hit and run, failure to maintain lane, no insurance, suspended license, drug possession (crack cocaine and marijuana in pants pockets), and possession of drug paraphernalia. He also had three outstanding warrants (two for simple possession, one for shoplifting). No drug or alcohol test was performed but the investigating officer coded both drugs and alcohol present. The Critical Precrash Event for Vehicle #1 was "this vehicle traveling off edge of road on right side." The Critical Reason for the Critical Event was an "other" critical non-performance error, specified as "passed out due to drugs and alcohol." All other information is unknown due to the lack of an interview. Vehicle #2 was operated by a 35-year-old female that was belted with no deployed frontal airbag. She was transported to an area hospital where she was hospitalized. Two children ages 15 and 12 that were seated in the front right and second right seats respectively were treated and released with minor injuries. In her interview she stated she was stopped at the stop sign waiting for traffic to clear so she could turn left when struck by the other vehicle. She said she never saw Vehicle #1 approaching. No Critical Precrash Event and no Critical Reason were coded to the driver of Vehicle #2 because she was not involved in first harmful event. She was wearing glasses to correct a nearsighted condition that was thought not to contribute to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Fatigue, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other critical non-performance (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

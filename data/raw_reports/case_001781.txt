@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the middle of a five-way intersection. The roadways for both vehicles were asphalt, dry, and level. The posted speed limit was 56kmph (35 mph) for both directions and signalized traffic devices controlled all directions. The crash occurred in the early afternoon on a weekday. The traffic flow was normal and the weather was clear. V1, a 1991 Mazda MPV Sports Van, was traveling northbound through the intersection when it contacted, with its front, the right side of V2, a 2000 Mercury Grand Marquis, traveling southbound through the same intersection. Both vehicles had the green light. V2 was attempting to make a left turn, cutting in front of vehicle one. After the initial impact, V2 rotated clockwise traveling several feet and making contact with a pole located on the northeast curb edge where it came to final rest. V1 rotated counter-clockwise and came to final rest a few feet from the impact facing east. According to both drivers there weren't any view obstructions. The driver of V1, a 31 year-old female, was aware of the oncoming traffic. Due to the fact she rarely travels on this roadway she was traveling below the speed limit at 40kmph (25 mph). She remembered traveling northbound, at a relatively slow speed, through the intersection, when suddenly V2 cut in front of her before she had a chance to react. The driver was not injured but V1 was towed due to damage. The Critical Pre-Crash Event for V1 was coded as other vehicle encroachment, from opposite direction - over the left lane line. The Critical Reason was not coded to this vehicle. Associated factors include inexperience as the driver rarely drove this road. The driver of V2, a 64-year old male, stated he was traveling southbound and while attempting to make a left turn was struck by V1 traveling northbound. He said that he didn't mean to cut in front of V1 but there was a lot of traffic at this busy intersection and thought he could quickly make the turn. He lives in the neighborhood and travels the roadway daily. The passenger was transported to the hospital and V2 was towed due to damage. The Critical Pre-Crash Event for V2 was coded this vehicle traveling, turning left at the intersection. The Critical Reason for V2 was coded as a decision error, misjudgment of gap or other vehicle's speed. Associated factors include inattention as the driver was talking to his passenger as well as the misjudgment of the gap distance.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience present problem 
+Vehicle 2:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Misjudgment of gap or other's speed

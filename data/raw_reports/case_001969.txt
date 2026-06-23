@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a curved two lane suburban roadway in the afternoon on a weekday. The roadway was wet from rain earlier in the day. The speed limit was 40kmph (25mph) with an advisory limit of 24kmph (15mph). The grade was 10/61 with a super elevation of -4/61. V1, a 2004 Volvo XC90 SUV, was southbound proceeding uphill negotiating a curve when V2, a 2000 Honda Civic 4dr, traveling in the opposite direction crossed the centerline and struck V1. V1 was driven by a 37 year-old female who claimed to be in good health despite taking hormones. She stated that she saw V2 as soon as she rounded the bend and attempted to avoid the crash by braking and steering to the right. She could not avoid V2 and was struck. The driver was uninjured and V1 was towed from the scene. V2 was driven by a 74 year-old female who claimed to be in good health and was delivering for Meals-on-Wheels. She stated she was not familiar with the area and usually has a navigator to assist her. She was looking for an address when she began to lose control of her vehicle. She panicked and slammed on her brakes, causing full lock up, and skidded into the path of V1. She suffered minor injuries and was transported for treatment and V2 was towed from the scene. The Critical Precrash Event for V1 was coded as other vehicle encroaching from opposite direction - over left lane line. The Critical Reason was coded to this vehicle. Associated factors include driver inattention as she was focused on previous argument. The roadways were also wet and the shrubbery lining the roadway caused a sightline restriction. The Critical Precrash Event for V2 was coded this vehicle control loss due to - traveling too fast for conditions. The Critical Reason for the Critical Precrash Event was a driver related factor of traveling too fast for the conditions of the wet downhill turn. Associated factors include driver inattention, as she was focused on an exterior factor (looking for a street address) as well as traveling too fast for conditions as she did not realize that caution was required. The driver also had a performance error when she panicked making the situation worse. The driver was also unfamiliar with the area and normally had a navigator to assist her. The roadways were also wet and the shrubbery lining the roadway caused a sightline restriction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Roadway, Weather/Environment present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Driver Performance, Driver Stress/Emotion, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Too fast for conditions (specify) :

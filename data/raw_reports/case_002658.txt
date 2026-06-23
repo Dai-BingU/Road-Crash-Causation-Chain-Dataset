@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a two lane undivided roadway slightly curving to the left with no grade and a posted speed limit of 72KMPH (45MPH). This crash occurred on a weekday afternoon. Vehicle #1, a 1988 Ford Mustang, was traveling westbound on the two lane undivided roadway when it observed Vehicle #2, a 1985 Kawasaki motorcycle, in its westbound lane traveling east. Vehicle #1 crossed over the left lane line into the eastbound lane. The motorcycle returned to its original eastbound lane whereupon Vehicle #1 impacted with Vehicle #2 with its front. Vehicle #1 came to rest in the eastbound land facing west Vehicle #2 was knocked backwards 33meters coming to rest on its side, in the center of the roadway, facing eastward. This crash occurred on a two lane undivided roadway slightly curving to the left with no grade and a posted speed limit of 72KMPH (45MPH). This crash occurred on a weekday afternoon. Vehicle #1, a 1988 Ford Mustang, was traveling westbound on the two lane undivided roadway when it observed Vehicle #2, a 1985 Kawasaki motorcycle, in its westbound lane traveling east. Vehicle #1 crossed over the left lane line into the eastbound lane. The motorcycle returned to its original eastbound lane whereupon Vehicle #1 impacted with Vehicle #2 with its front. Vehicle #1 came to rest in the eastbound land facing west Vehicle #2 was knocked backwards 33meters coming to rest on its side, in the center of the roadway, facing eastward. The Ford Mustang (Vehicle #1) was driven by a 17 year old belted male who was uninjured. The driver of stated he moved into the southbound lane to avoid impacting with Vehicle #2 assuming the motorcycle would stay in the wrong lane. The Critical Precrash Event coded to Vehicle #1 was: This Vehicle Traveling Over the lane line on the left side of the travel lane. The Critical reason for the Critical Pre-crash Event was coded as : Driver Related Factor False Assumption of Other Actions. It should be noted here that this driver was inexperienced. The Kawasaki Motorcycle, (Vehicle #2) was driven by a helmeted 19 year old male who was transported to an area trauma center. The driver of this vehicle refused to be interviewed, however, a surrogate interview revealed this driver did not remember any part of the crash. It should be noted here that the driver of this vehicle was cited for not having a motorcycle license. Both Vehicles were towed from the scene. The Critical Precrash Event coded to this vehicle was: Other Motor Vehicle in Lane Traveling in Opposite Direction. No Critical Reason for Critical Precrash Event was coded to this vehicle. The Police cited both drivers for Driving to the Left of the Pavement markings. The police did not consider illegal drugs or alcohol to be involved and ordered no tests for either driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Motor Vehicle in Lane- Traveling in opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

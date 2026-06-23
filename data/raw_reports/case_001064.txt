@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a five-lane non-divided asphalt constructed roadway. This roadway runs east to west with a posted speed of 56 kmph (35 mph). This roadway has a painted center-left turn lane and a driveway entrance on the south side. This crash occurred during daylight hours with no adverse weather conditions. Vehicle one (V1), a 2004 Pontiac MPV was stopped in the driveway. Vehicle two (V2), a 1996 Dodge Intrepid was eastbound in the first lane. V1 turned left from the driveway and the front of V1 impacted the front of V2. V1 and V2 then side slapped, with the right side of V2 impacting to the left side of V1. Both vehicles came to rest in the first lane of travel. V1 was not towed due to damage. V2 was towed due to damage. The driver of V1, a sixty-seven year old female was not interviewed. There is no known pre-crash information for this driver. The driver of V2, a seventy-four year old male was coming from the drug store heading home. This driver had been driving for about ten minutes at the time of the crash. This driver is taking Vicodin, Coumadin and Lasix. This driver drives this vehicle daily and over this road on a weekly basis. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: type of driver error unknown. The critical pre-crash event for V2 was coded: other vehicle encroachment; from driveway, turning into opposite direction. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

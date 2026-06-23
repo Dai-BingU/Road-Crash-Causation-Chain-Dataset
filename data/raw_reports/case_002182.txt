@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle, rear end crash occurred on a weekday during the early afternoon hours. The location was a five-lane undivided (two-way traffic) straight asphalt roadway. The point of impact was 24 meters (78 feet) west of an intersection controlled by traffic signals. The traffic was moderate at this hour. It was raining and the roads wet. The speed limit is 48 kmph (30 mph). Vehicle one (V1), a 1993 GMC Sierra pickup with one occupant, was traveling west in the second lane of traffic. Vehicle two (V2), a 1999 GMC Yukon with one occupant, was traveling in the same lane, ahead of V1. After passing through an intersection, V2 slowed to make a left turn into a business parking lot. The front of V1 struck the back of V2. V2 moved forward and came to rest. V1 moved forward and came to rest partially in the left turn lane of the eastbound traffic. V1 was towed due to damage. A 29-year old male drove V1, the 1993 GMC Sierra. He was very agitated at the scene and refused to be interviewed. Shortly before leaving the scene, the driver mentioned to the police officer he was not in a good mood. Physical evidence indicates that the driver of V1 applied the brakes and moved to the left prior to impact. The police officer at the scene indicated that V2 made a sudden and unannounced stop after a spontaneous decision to enter the bank business lot. The critical pre crash event for V1 was coded: other motor vehicle in lane-traveling in same direction while decelerating. The critical reason for the critical event was coded: type of driver error unknown. A male of unknown age drove V2, the GMC Yukon. Police on scene provided the researcher with a name and said it was possible that the driver was from Canada. The officer did not know what province and did not research the license plate. The critical pre crash event for V2 was coded: this vehicle traveling-this vehicle decelerating. The critical reason for the critical event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：This Vehicle Traveling- This vehicle decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

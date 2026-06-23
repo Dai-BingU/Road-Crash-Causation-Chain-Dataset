@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary 2006-060 The crash occurred on a level, bituminous two lane undivided roadway with a posted speed limit of 89 KPH (55 MPH). The roadway curved to the right with a radius of curvature of 281 meters and a superelevation of 2% and approached a 4-leg intersection. There was a black on yellow intersection warning sign for both drivers with a suggested speed of 72 KPH (45 MPH). The weather was clear, the roadway dry and it was daylight at the time of this early afternoon weekend crash. The traffic flow was normal for that time of day. V2, a 2005 Landrover LR3 SUV, was traveling north on the roadway, approached the intersection and stopped to make a left hand turn. V1, a 1993 Subaru Legacy station wagon, was traveling north on the same roadway behind V2. V1 struck the back of V2 with its front. Both vehicles came to rest in the roadway facing north. V1 was towed due to damage. V2 was driven off the roadway and then from the scene. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. The Subaru Legacy (V1) was driven by a belted 18-year-old female who was transported, treated and released for a complaint of pain. The belted 17-year-old female right front seat passenger was also transported, treated and released for a complaint of pain. The right second seat passenger, a 1 year old male secured in a child safety seat, was not injured. The driver could not be contacted or located for further information. The driver stated to the police that she did not see any turn signal activated or brake lights on V2. Per scene evidence the driver did attempt to avoid the collision by braking and steering right. The Critical Precrash Event for V1 was other vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Precrash Event was an unknown type of driver error. This was chosen because the police indicated that contributing factors were inattention and possible sun glare. It is also possible that since the driver stated she did not see a turn signal or brake lights that she may have assumed that the other driver would continue to proceed and/or misjudged the velocity of the other vehicle. The Landrover LR3 (V2) was driven by a belted 50-year-old female who was transported, treated and released for a complaint of pain. The driver could not be contacted or located for further information. The Critical Precrash Event for V2 was other vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Precrash Event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Weather/Environment present problem 
+Vehicle 2:  Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on the Southbound part of a 3 lane highway with a grassy median. There were two turn lanes. One for a left turn and one for a right turn that began about 50 meters from the traffic light. The highway had a posted speed limit of 88 kmph (55 mph). Conditions were nighttime and dry. The crash occured in the late part of the evening. Vehicle 1 was a 2005 Kia Sedona driven by a 69 year old male who was in the left turn only lane at the intersection. Vehicle 2 was a 2005 Acura RL driven by a 22 year old female who was traveling southbound on the highway at a constant rate of speed. Vehicle 1 made an illegal manuever by turning right from the left turn only lane, crossed over 3 lanes resulting in Vehicle 2 striking Vehicle 1 on its right side making it overturn onto its left side. The critical pre-crash event for V1 was 'This vehicle traveling over the lane line on right side of travel lane. The critical pre-crash event was 'Decision error: Illegal Manuever. Several attempts have been made to get in contact with both drivers with negative results.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

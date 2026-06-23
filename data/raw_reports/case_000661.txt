@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred mid-morning involving one passenger vehicle on a two-way, three lane (seven overall), divided roadway without a positive barrier. The road was dry, traveled, level concrete. The posted speed limit was 64 kmph (40 mph). There were no adverse weather conditions. V 1 a 2005 Chevrolet Malibu driven by a 28 year-old female was southbound in the first travel lane. The driver of V 1 stated that tractor trailer attempted to encroach onto her lane from the left and she steered to the right to avoid a collision. V 1 struck the west curb with the right front tire and came to rest facing south in a nearby intersection. The pre- event movement coded going straight, category this vehicle traveling over the lane line on the right side of travel lane. The critical reason for the critical event driver related factor "inadequate evasive action" (driver steered right without braking)
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate evasive action, e.g. braking only, not braking and steering

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a four lane undivided roadway (two lanes each direction) with a posted speed of 48 kmph (30 mph). This was a straight bituminous, dry roadway with an uphill grade of 5 percent. It was early afternoon on the weekend with clear skies. Traffic was minimal at this business park. A 38-year old male drove V1, a 2005 Suzuki Forenza sedan with one passenger. After negotiating the entrance ramp, V1 attempted to cross over the first southbound lane, apparently attempting a U-turn. The driver stated (as told by his lawyer) that when he saw V2 "barreling" down the hill towards him it was too late for him to react and froze, resulting in an accident. Both occupants were trapped in the vehicle and required emergency service's assistance to exit the vehicle. Both occupants were transported due to injuries. The five-year old male occupant, sitting in the rear left position four, was in a child safety seat and received non-incapacitating injuries. The injuries to the driver were incapacitating. Information from the driver's lawyer was incorrect; both vehicles were traveling uphill. A 30-year old uninjured male drove V2, a 1994 Freightliner Day Cab tractor without a trailer. He stated that he had just left the post office, 0.75 north of the accident, traveling southbound in lane one at a speed of 56 kmph (35 mph) en route to his office up the road for a cargo pick-up. He saw that V1 had merged from a southbound on-ramp into lane one, then began to cross over the left lane line of lane one into lane two, in what appeared to be an attempt to make a U-turn. The driver of V1 did not appear to see V2's approach. The driver of V2 braked hard, unsuccessfully, in an attempt to avoid a collision. Skid marks from V2 verify his attempt. V2 collided with the left rear portion of V1 with the left front portion of V2. The impact rotated V1 counterclockwise, causing the left front portion of V1 to strike the left side cab of V2. V2 veered right off the road on the right, coming to rest across the merge lane and the sidewalk, facing west. V1 continued to rotate counterclockwise one full rotation, coming to rest across the south and northbound lanes two, facing south. The Pre-Crash Event for V1 was "This vehicle traveling over the lane line on the left side of the travel lane." The Critical Reason for the Critical Pre-Crash Event was coded as inadequate surveillance because the driver of V1 did not see V2 until after he had crossed the lane line. An associated factor coded to the driver of V1 was "panic/freezing," a performance error, because the driver of V1 told his lawyer that once he saw V2 approaching, he froze up and took no further action. The Pre-Crash Event for V2 was "Other vehicle encroachment from adjacent lane, same direction, over the right lane line." The Critical Reason was not coded to this vehicle. No associated factors were coded to the driver of V2. He stated that if he had been towing a trailer the additional braking ability may have enabled V2 to avoid the collision with V1. A witness listed on the PAR did not see the actual events but stopped to provide aid to the drivers.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Merging
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred on a five lane straight roadway. This road is separated by a painted median with two lanes in either direction and a center turn lane. This asphalt road is straight and level with no roadway deficiencies. The speed limit is 56 kmph (30 mph). This crash occurred during rush hour and had heavy congestion. This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 2000 Mack straight truck with cement mixer, was traveling southbound in the second lane. Vehicle two (V2), a 2000 Nissan Sentra was stopped in the second lane in front of V1. Vehicle three (V3), 1999 Cadillac Eldorado was stopped in front of V2. The front of V1 impacted the rear of V2. The front of V2 then impacted the rear of V3. V1 and V3 were not towed due to damage. V2 was towed due to damage. The driver of V1, a forty-one year old male, was driving from a concrete plant to a job site. This driver had been driving on this trip for about twenty-five minutes at the time of the crash. This driver has been driving this class of vehicles for twenty years. He had also experienced a shift in sleeping and work patterns three days before the crash. This driver is never assigned to one particular truck, and according to him the truck that was in the crash had bad brakes. The driver of V2, a fifty-two year old male, was stopped for several seconds due to backed up traffic. This driver had been driving for about ten minutes on this trip. This driver drives this vehicle daily and over this road on a daily basis. The driver of V3, a sixty-two year old male was stopped when he was impacted. This driver had just picked up his wife and was on the way to lunch when the crash occurred. This driver was conversing with his wife at the time of the crash. This driver drives this vehicle daily and over this road on a daily basis. The critical pre-crash event for V1 was coded: other motor vehicle in lane: other vehicle stopped. The critical reason for the critical pre-crash event was attributed to V1 and was coded as a vehicle related factor: degraded braking capability. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical event was not coded to this vehicle. V3 was not involved first harmful event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic, Vehicle present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Distraction, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Degraded braking capability
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

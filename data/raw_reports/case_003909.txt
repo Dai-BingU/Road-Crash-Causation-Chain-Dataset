@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V2, a 2003 Pontiac Grand Am, was traveling northbound in the right lane on a fully controlled, divided highway. The grassy median sloped downward and had a center metal guardrail. The two-lane, straight, level, bituminous roadway was wet at the time of the daylight (mid-morning) crash. A non-contact vehicle moved from lane two into the right lane in front of V2. V2 swerved into lane two to avoid contact with this non-contact vehicle. V1, a 2001 Buick Century, was traveling northbound in lane two of the same roadway, and had no time for avoidance maneuvers. The left back of V2 struck the right front of V1. V2 spun counterclockwise and went off of the roadway on the left with the right side leading. V2 rocked up onto the right side wheels and continued to rotate until the back of V2 contacted the guardrail. The left front of V2 sustained damage from contact with the ditch. V2 rotated to the left and came to rest facing northwest near the guardrail. V1 steered left at impact with V2 and lost control. V1 steered right and rotated clockwise and went off of the road to the left. V1 rotated back to the left and came to a stop facing north near the guardrail, past the final rest of V2. V2 was towed from the scene due to damage. V1 was towed from the ditch and to a tow facility, but was drivable. No airbags deployed during the crash. Both drivers declined medical treatment. The driver of V1 was a 51-year old female. The Critical Precrash Event for this driver was when another vehicle encroached into her lane from an adjacent lane (same direction) over the right lane line. The Critical Reason was not coded to the driver of V1 and she was not thought to have contributed to the crash. She had taken no medications on the day of the crash and was wearing her prescription lenses that corrected both myopic and hyperopic conditions. The driver of V2 was a 26-year old male. The Critical Precrash Event for this driver was when he traveled over the lane line on the left side of his travel lane. The Critical Reason for the Critical Event was coded as inadequate surveillance, a recognition factor. This was chosen because the driver reported that he was looking at the non-contact vehicle and in avoiding that vehicle, he changed lanes without looking over to his left. His focus on the non-contact vehicle was coded as an associated factor, as an "other" recognition factor. There were no reported alcohol, drugs, sleep, emotional, health, environmental, or mechanical factors contributing to the crash. Both drivers were familiar with their vehicles and with the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Roadway present problem 
+Vehicle 2:  Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

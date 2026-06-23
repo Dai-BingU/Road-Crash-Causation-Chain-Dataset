@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle jackknife crash occurred mid afternoon on a clear but windy day in the northbound lanes on an interstate highway. The crash occurred on a dry level, straight roadway with a bituminous surface. There are four northbound lanes where lane one ends at the beginning of the crash sequence. The posted speed limit for this roadway was 113 kph (70 mph). There were no traffic control signals present at the location of the crash. It was windy with strong gusts at the time. Vehicle one (V1), a 1989 Chevrolet 1500 pick up pulling a travel trailer with dual axles, was traveling northbound in lane two. The driver stated he was accelerating and getting up to speed when the trailer started to fishtail. The driver tried to maintain control as the vehicle departed the travel lanes to the right before returning to the travel lanes where the vehicle jackknifed. As the truck left the right side of the roadway, the trailer rolled one-quarter turn to the left before coming to rest. The two occupants were not injured. The vehicle was towed from the scene. The driver of vehicle one was a healthy, well-rested, 41-year-old male. He advised that the wind gust caused the trailer to fishtail. He lost control and the vehicle jackknifed. He rarely drives the vehicle but drives the route daily The critical pre-crash event for V1 was coded “this vehicle control loss due to-jackknife event”. The critical reason was coded “environment related factor-wind gust”. The trailer started to fishtail initiated from the wind gusts. The driver eventually lost control when the vehicle jackknifed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cargo Shift, Driver Inexperience, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Jacknife Event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Wind gust

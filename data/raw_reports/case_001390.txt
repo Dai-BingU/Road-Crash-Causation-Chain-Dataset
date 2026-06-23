@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 2005 Chevrolet Trailblazer was traveling northbound on a 4-lane, 2-way, dry asphalt roadway in daylight conditions. V1 was approaching the intersection intending to go straight. V2 a 2004 Jeep Grand Cherokee was also traveling northbound on the same roadway also intending to go straight. The font of V1 contacted the back of V2 before they both came to final rest in the roadway. The driver of V1 was a 69-year old male who had reported that he had been traveling between 18-32kmph (11-20 mph) prior to the crash. He stated that he was looking to the left at a vehicle, when he looked up the car ahead of him was stopping. He didn't have time to stop and ran into the back of V2. He was wearing his prescribed lenses that corrected a myopic (near-sighted) condition. He did not sustain any injuries and refused treatment. The Critical Precrash Event for the driver of V1 was Other motor vehicle in lane: traveling in same direction while decelerating. The Critical Reason for the Critical Precrash Event was a recognition error: external distraction, because stated that he had been looking to the left at another vehicle and did not see V2 stopping. He had no health related problems and had taken asprin and medication for diebetes before the crash. The driver of V2 was a 54-year old male who reported that he had been traveling between 2-16kmph (1-10mph) prior to the crash. The driver stated that he was slowing down for the light, he was not completely stopped when he was hit from behind. He sustained minor injuries but refused treatment. The Critical Precrash Event for the driver of V2 was Other motor vehicle in lane: traveling in same direction with higher speed. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2 and he was thought not to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Surveillance present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

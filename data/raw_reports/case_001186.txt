@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during daylight hours on a weekend. The crash occurred at a tri-light controlled, four-leg intersection. Both intersecting roadways are designated 56 kmph (35 mph) zones. At the time of the crash, there were no adverse atmospheric conditions, and the concrete roadway in the intersection was in generally poor repair, marked by large cracks and uneven spots. The view of westbound and southbound crossing traffic is partially blocked by a building on the northeast corner of the intersection. Vehicle one (V1), a 2000 Saturn SL2 four-door sedan, was traveling southbound in the second lane of a five-lane, two-way, undivided, dry, level, concrete roadway, approaching an intersection with the intention of passing straight through. Vehicle two (V2), a 2000 Chevrolet Malibu, was traveling westbound in the second lane of a five-lane, two-way, undivided dry, level, bituminous roadway, approaching the same intersection with the intention of passing straight through. The east/west bituminous roadway becomes concrete as it intersects the north-south concrete roadway. As both vehicles entered the intersection, the front of V2 impacted the left side of V1. Both vehicles rotated counter-clockwise and deflected southwest. Both vehicles came to rest in the intersection near the southwest corner. The 23-year-old male driver of V1 reported that he was lost in thought concerning an undisclosed family problem, and that he did not recognize that he was passing through the intersection on the red phase of the tri-light. He also reported that he was emotionally upset because he attends school part time in addition to working forty hours per week. Fatigue was considered a factor for this driver. The critical pre-crash event for V1 was: This vehicle traveling, passing through intersection. The critical reason for the event was attributed to V1 and is coded as a driver related recognition error: inattention (i.e., daydreaming). The 31-year-old-female driver of V2 was engaged in a social conversation with the passenger as she approached the intersection on a green light. As she was about to enter the intersection, she observed V1 entering the intersection from her right, and she engaged the brakes, but was unable to sufficiently slow the vehicle. Inspection revealed that the tires of V2 were all under-inflated. The critical pre-crash event for V2 was: other vehicle encroachment, from crossing street, across path. The critical reason for the event was not attributed to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Fatigue, Driver Stress/Emotion, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Distraction, Roadway, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

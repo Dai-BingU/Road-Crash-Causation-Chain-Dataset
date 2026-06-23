@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This mid-day, two-vehicle collision occurred at an intersection controlled by traffic control signals. No adverse weather conditions were present at the time. The east/west roadway is a one-way, four-lane, level, bituminous roadway with a posted speed limit of 48 kmph (30 mph) with traffic flow westbound only. The north/south roadway is a one-way, three-lane, 4% grade, bituminous roadway with a posted speed limit of 48 kmph (30 mph) with traffic flow southbound only. . Vehicle one (V1), a 2001 Volkswagen Jetta sedan with two occupants, was traveling west in lane four with the intention of going straight. Vehicle two (V2), a 2006 Mitsubishi Eclipse 2-door coupe with one occupant, was traveling south in lane two with the intention of going straight. The driver of V2 stated he was stopped behind a couple of vehicles in lane two and changed lanes into lane one when vehicles were not moving forward after the signal turned green. As both vehicles entered the intersection, the front of V1 struck the left side of V2. Both vehicles were redirected in a southwesterly direction where both vehicles ran off the roadway. The front of V1 struck a pole where it came to rest facing southwest. The right side of V2 also struck a pole where it came to rest facing south. Both vehicles were towed due to damage and no one was transported due to injuries. A restrained 17-year-old male driver and a restrained 41-year-old male front passenger occupied V1. The driver takes no medication, was familiar with roadway on a weekly basis, and was on a leisure trip to lunch after having left work approximately 10 minutes prior to the collision. The driver and passenger were engaged in a conversation while on approach to the intersection. Driver had turned onto roadway and stated the traffic signal at the intersection where collision occurred had been green for about 2 seconds. According to witness, who was in the southbound lanes, the southbound traffic light had turned green for southbound traffic. The critical pre-crash event for V1 is coded as "this vehicle traveling: crossing over (passing through) intersection" and the critical reason for the critical pre-crash event is coded as "internal distraction". A restrained 20-year-old male occupied V2. This driver takes no medication. He was commuting to work after leaving his residence at an unknown time and is familiar with roadway on a weekly basis. At the time of collision, V1 was traveling in lane one after having changed lanes from lane two when light changed to green. Driver stated he was stopped behind a couple of vehicles in lane two and changed lanes into lane one when vehicles were not moving forward after the traffic signal turned green. The critical pre-crash event for V2 is coded as "other vehicle encroachment: from crossing street; across path" and the critical reason for the critical pre-crash event is coded as "not coded to this vehicle".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

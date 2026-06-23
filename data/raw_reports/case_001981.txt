@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a five-lane urban highway divided by a raised curb median barrier at a signalized intersection. There were three eastbound lanes, with lane one being a right turn-only lane. On the other side of the intersection, there were three westbound lanes, with lane three being a left turn-only lane. All were controlled by traffic lights. Conditions were early evening on a weekday with wet roads and cloudy skies, as it had been raining off and on all day. Vehicle #1 was a 1993 Chevy Geo Prism that was traveling westbound in lane three, trying to make a left hand turn. Vehicle #2 was a 2004 Volkswagen Touareg that was traveling in lane two going straight with a green light. The driver of vehicle #2 stated she had a green light and had the right of way. The driver of Vehicle #1 stated that the light was yellow. The driver of V#1 was transported to a local hospital with injuries as she was pregnant and her car was towed due to damages. The Volkswagen was not towed and its driver was not injured. The driver of V#1 was a pregnant 18-year old female. She stated that as she approached the intersection the light changed to yellow and she initiated her left turn. The driver of Vehicle #1's was cited failure to use due care and operating a vehicle with a learner's permit without a adult in the car. The critical pre-crash event for Vehicle # 1 was when it began to turn left at the intersection. The Critical Reason was a decision error - false assumption of the other road user's actions, as the driver of V#1 stated that she saw that Vehicle #2 had a yellow light and assumed it was going to stop for the red light. Associated factors coded to this driver were her focus on an extraneous vehicle (she was following a friend who was driving another vehicle) and inexperience. The driver stated that she had only been driving for about a year. The 25-year old female driver of Vehicle #2 reported that V#1 made a sudden turn in front of her and she could not avoid the impact. The left front corner of the Volkswagen made contact with the left front of the V#1. The driver of V#2 was not injured and her car was not towed due to damages. The critical precrash event for Vehicle #2 was when another vehicle encroached from the opposite direction, over the left lane. The critical reason was not coded to this vehicle. The driver had no associated factors coded for this accident and was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Physical, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

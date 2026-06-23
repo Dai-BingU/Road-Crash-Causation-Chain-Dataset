@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred shortly before midnight on a clear Friday night. The roadway is a level, six-lane, median divided, and bituminous roadway that is lit. There are three lanes in the direction of travel. This crash occurred at night with no adverse atmospheric conditions. Vehicle one, a 1995 Ford Mustang, was westbound in lane two. For an unknown reason Vehicle one departed the road and impacted the curb with its right front tire. Vehicle one struck a timber power pole then a wooden privacy fence and came to final rest off of the north road edge facing west. This driver was out “cruising around” with two other occupants in the vehicles. The driver, a nineteen year old male, admitted to consuming a beer before driving but passed all field sobriety tests, no breath or blood test was performed. This driver claimed a non-contact vehicle forced him off the road and caused him to lose control. The skid marks indicate that this vehicle tracked off the roadway. There is no know sleep data for this driver. The front tires of vehicle one have very low tread depths. The critical pre-crash event for vehicle one was coded “ This vehicle traveling: off the edge of the road on the right side”. The critical reason for the critical pre-crash event was coded as “Driver related factor: poor directional control”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Performance, Speed/Distance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

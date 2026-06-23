@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the early afternoon near a crossover of a multi-lane highway divided by a grass median. The southbound side had three lanes including a left-turn lane; the northbound side had four lanes that included a right and left turn lane at a T-intersection. The posted speed limit for both directions was 89 kmph (55 mph) and weather conditions were cloudy and dry. V1, a 1996 Chevrolet Cavalier driven by a 17-year old male, was traveling south in lane three approaching the T-intersection. V2, a 1995 Honda Accord driven by a 32-year old female, was traveling north in lane 3 approaching the same intersection. V1 entered the crossover area and then initiated a left turn. As V1 crossed into the northbound lanes, it was struck on the right side by the front of V2. V1 came to final rest in northeast roadside of the intersection and V2 came to rest in the same lane it was originally traveling. The driver of V1 was returning home from work and was attempting to make a left turn when he turned in front of the Honda Accord. He reported that there were other vehicles obstructing his view of oncoming traffic but he decided to turn left anyway. He said he never saw the Honda that struck him so he never tried to avoid the collision. He was not injured in the crash. The driver of V2 was returning home from running errands and was going straight in lane 3. She saw V1 waiting to turn across her path and anticipated the car to make the move. She took her foot off the accelerator as she drew closer to V1 and braked when it turned in front of her. She struck the right side of the Cavalier and came to final rest approximately 8 meters north of the impact area. She suffered minor injuries and was transported to a local hospital for an examination. The Critical Pre-crash Event for V1 was when it began to turn left at the intersection. The Critical Reason for the Pre-crash Event was coded as an "other" decision error; specifically, the driver of V1 decided to initiate his left turn with an obstructed view. Associated factors coded to this driver include inadequate surveillance for failing to look again as he entered the northbound lanes and a sightline restriction in the form of the non-contact vehicles. The Critical Pre-crash Event for V2 was when another vehicle encroached from the opposite direction over the left lane line. The Critical Reason for the Pre-crash Event was not coded to this vehicle. Associated factors coded to this driver were fatigue and the use of a prescription allergy medication.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Driver Fatigue, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Other decision error (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

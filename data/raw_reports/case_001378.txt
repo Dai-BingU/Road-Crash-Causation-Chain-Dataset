@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west arterial road that was straight and level. The arterial road had two westbound lanes and a third left turn lane to an intersecting secondary road. The arterial road is one way (westbound) along the portion that the crash occurred. The speed limit on the arterial road was 72 KPH / 45 MPH. The intersecting secondary road was a two-way, two-lane road that runs north / south with a minus 3 % grade on the north side. The secondary road had a speed limit of 48 KPH / 30 MPH and was controlled at the intersection by a stop sign. The arterial road did not have any traffic control. Conditions were daylight and overcast with a light drizzle of rain at mid-afternoon on a weekday. Vehicle 1, a 2001 Kia Sportage, was traveling south on the secondary road. It stopped at the stop sign and then proceeded to cross the arterial road. Vehicle 2, a 1999 Nissan Sentra, was traveling west on the arterial road in the second lane when the front of Vehicle 2 contacted the left side of Vehicle 1. Vehicle 1 then rotated ninety degrees clockwise and came to rest about ten meters west of impact facing west, and was partially up on the curb in the grass. Vehicle 2 rotated ninety counterclockwise and came to rest facing south 3 meters west of impact. Both vehicles were towed due to damage. Vehicle 1 was driven by a 54-year-old male that was belted and whose frontal airbags did not deploy. He was transported to a local trauma center for treatment of minor injuries. The critical pre-crash event for Vehicle 1 was this vehicle traveling: crossing over (passing through) intersection. The critical reason for the critical pre-crash event was a decision error: misjudgment of gap or others speed. The driver was wearing glasses to correct a farsighted condition. Vehicle 2 was driven by a 24 year-old female, who was belted, and whose frontal airbags deployed. She was transported to a local trauma center for treatment of minor injuries. The critical pre-crash event for Vehicle 2 was other vehicle encroachment: from crossing street across path. The critical reason for the critical pre-crash event was not coded to this vehicle. Associated factors included the assumption that the other driver would yield right of way.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Weather/Environment present problem 
+Vehicle 2:  Decision, Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of two roadways. The east/west street was a two-way, seven-lane roadway divided by a concrete curbed median. There were no traffic controls for east/west traffic. The north/south street was a two-way, two-lane undivided roadway controlled by a stop sign. Conditions were daylight on a weekday afternoon with dry roads and clear skies. Traffic flow was normal. V1, a 2003 Mercedes-Benz E320W with two occupants, was traveling westbound in lane four (the left turn lane). V2, a 1997 Toyota Avalon with two occupants, was traveling eastbound in lane one. Both vehicles were approaching the same intersection. Eastbound traffic in lanes two and three had backed up for a light ahead, leaving an opening for V1 to make the left turn. As V1 and V2 entered the intersection, the front right corner of V1 made contact with the front left corner of V2. There were no injuries. V1 was towed due to damage. V1, the Mercedes E320W, was driven by a 72-year old female. She stated that as she approached the intersection, eastbound traffic prohibited her from making a left turn. She said that soon after coming to a complete stop, traffic in two of the westbound lanes backed up, stopping short of the intersection to allow her to turn. She admitted that she could not see approaching traffic beyond the stopped vehicles, but insisted that the other driver "must have been speeding". The Critical Precrash Event for V1 was "this vehicle traveling, turning left at intersection". The Critical Reason for the Critical Event was a decision error, turned with obstructed view. Associated factors for this driver included turning with an obstructed view, and a vehicle-related sightline restriction. V2, the Toyota Avalon, was driven by a 54-year old male. He stated that he was going to lunch with a client, when a vehicle turned left in front of him. He said that he steered to the right and braked, but could not stop in time. The Critical Precrash Event for V2 was "other vehicle encroachment, from opposite direction, over left lane line ". The Critical Reason for the Critical Event was not coded to this vehicle. As with V1, there was the presence of a sightline restriction. There was also the presence of conversation between the driver and passenger. Additional associated factors could not be determined due to limited interview data.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Surveillance present problem 
+Vehicle 2:  Distraction, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

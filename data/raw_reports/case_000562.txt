@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred a few hours past noon on an asphalt east/west expressway that has three lanes in each direction, and is divided by a barrier. The road is level and there were no adverse weather conditions at the time of the crash but there was heavy traffic congestion due to rush hour. The posted speed limit is 89 kmph (55 mph). Vehicle one (V1), a 2004 Volkswagen Golf four door hatchback driven by a 31 year-old female, was traveling westbound in the third lane of the road. Vehicle two (V2), a 1995 Chevrolet Blazer SUV driven by a 20 year-old male, was traveling ahead of V1. V2 came to a stop due to rush hour traffic congestion and the driver of V1 impacted with the back of V2. The driver of V1 was not injured or transported and the driver of V2 was treated and released for a non-evident injury. Both vehicle's came to final rest in the traffic lane, V1 was towed from the scene V2 left the scene under its own power. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: too fast to be able to respond to unexpected actions of others. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction while decelerating. The critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a two lane, rural, north/south U.S. Highway. The road has several curves and elevation changes as it winds through a rugged area. Near the crash site the highway makes a sharp curve to the right as it travels northward and then straightens for about two hundred meters before the next curve. This particular crash took place on the straight portion with vehicle roadway departure 77m from the end of the sharp right curve. The highway has no shoulders, only a 0.8m area between the painted lane lines and steep drainage drop offs, 52cm on the east, and 67cm on the west side of the road. Conditions were daylight, cloudy, and dry on a weekday afternoon. Posted speed limit was 72kph (45mph) with a road downgrade increasing from 8.7% to 10.2%. Vehicle #1 was a 2000 Chevrolet Cavalier traveling north on the highway. While the driver was apparently talking on a cell phone and the right side tires edged off the right (east) side of the road. She then overcorrected, steering left and going into a yaw before leaving the left (west) side of the highway. The lengths of the yaw marks were 32m and 35m from right road departure to road left departure. Vehicle #1 went into the 67cm deep ditch and up a 38% grade embankment and rolled over on its top. The Cavalier came to rest on its top facing north just off the west edge of the road against a southbound curve warning sign. The EDR information was retrieved from the vehicle. The second (west) departure apparently woke up the unit for the non-deployment event. It indicated 5 seconds before algorithm enable (AE) the vehicle was traveling 85kph (53mph) with no braking. In fact there is no braking during the entire five-second pre crash sequence. The speed drops to 77kph (48mph) at 4 seconds prior to AE. The speed data from 3 seconds on down to AE verifies that the vehicle begins to yaw during the overcorrection since it drops considerably even though the car is traveling on a downgrade with no braking input. Vehicle #1 was driven by a 31-year old female that refused medical transport although she complained of minor injuries. EDR information confirms that she was not belted and the airbags did not deploy in the rollover. The driver was familiar with the roadway and on her way home from work when the crash occurred. In her initial statement to police and NASS researchers she denied even owning a cell phone. When police questioned her a second time the next day regarding license validity and inconsistencies in her statement she admitted to police that she was using a cell phone when the crash took place. The Critical Precrash Event for Vehicle #1 was off the edge of the road on the left side. The Critical Reason for the Critical Event was coded as a performance error- overcompensation. An associated factor was internal distraction- cell phone usage.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Distraction, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

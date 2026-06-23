@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This is a two-vehicle T-bone intersection crash that occurred at a four-way intersection that is controlled by a traffic light on colors. The intersection consists of a south/north bound roadway and a west/east bound roadway. The north/south roadway has one southbound and one northbound lane that are separated by a continuous left turn lane. The speed limit on this roadway is posted 56 kmph (35 mph). The east/west roadway has one westbound and one eastbound lane that are separated by left turn lane at the intersection. The speed limit on this roadway is posted 46 kmph (25 mph). There were no environmental factors that contributed to this crash. There were no sight line restrictions or obstructions noted at the scene. The crash occurred at mid-afternoon during the hours of daylight. Vehicle one (V1), a 1998 Ford Escort 2 door coupe, driven by a 17 year-old female was traveling southbound in the number one lane approaching the intersection on a green light. The vehicle entered the intersection at approximately 56 kmph (35 mph), when the driver of V1 looked to her right and saw vehicle two (V2) traveling eastbound through the intersection. The driver of V1 did not make any avoidance maneuvers. The front of V1 struck the left side of V2. The impact caused V1 to rotate counterclockwise and travel in an easterly direction. The vehicle continued to rotate until the right rear area of V1 side slapped the left rear area of V2. V1 came to rest near the east side of the intersection facing in a northwesterly direction. The driver of V1, was transported from the scene and sustained abrasions and contusions to her right forearm. The vehicle was towed due to damage. Vehicle two (V2), a 1982 Chevrolet Caprice 4 door, driven by a 32 year-old male was traveling eastbound approaching the intersection. The vehicle then entered the intersection on a red light and was struck by V1 on the left. The impact caused V2 to slightly rotate clockwise until left rear area side slapped the right rear area of V1. The vehicle continued through the intersection in a southeasterly direction until it traveled off the edge of the roadway. The vehicle then struck a power pole near the left front corner of the vehicle. V2 then struck a tree at the left front of the vehicle. The rear of the vehicle rotated clockwise until the left side of the vehicle struck two different power poles. The vehicle then came to rest facing in a southeasterly direction. The driver was transported form the scene by EMS where he sustained abrasions to his head and complained of pain to his neck. The vehicle was towed from the scene due to damage. The critical pre crash event for V1 was coded: other vehicle encroachment ; from crossing street, across path. The critical reason was not coded to this vehicle. The critical pre crash event for V2 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason for the critical event was coded to V2 as a driver decision factor: Illegal maneuver. Witnesses at the scene did state that V2 failed to stop for a traffic control device.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Illegal maneuver

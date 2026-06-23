@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a four lane roadway. There were four westbound lanes, lane 1 was right turn and straight, lane 2 was straight only, lane 3 was straight and left turn, and lane 4 was left turn only. All four lanes were controlled by a traffic signal at the intersection. Conditions were nighttime and raining in the early evening on a Holiday. Vehicle #1 was a 2002 Dodge Intrepid who was traveling west going approximately 48 KPH (30 MPH) in lane 2 of a four lane urban highway. He was attempting a right lane change into lane 1. As he changed lanes Vehicle #2, a 1995 Mitsubishi eclipse, was in his path traveling at a higher rate of speed. Thus causing a minor sideswipe and deflecting Vehicle #2 over the north/south concrete median crashing into Vehicle #3, 2004 Pontiac GTO, which was heading south stopped at a traffic light. Vehicle #1 was able to pull off the roadway due to minor damages. Vehicle #2 came to final rest on the concrete north/south median. Vehicle #3 came to final rest in the left turning lane of the north/south lane 5. V1 was cited for improper lane change. The Dodge Intrepid, Vehicle #1, was driven by a 34-year-old male who had no injuries and minor damages to his car. He had his car towed due to the fact that it was a company car. He stated he was changing lanes and was struck on the right side by Vehicle #2 who was traveling in the curb lane at a higher rate of speed. The Critical Precrash Event for Vehicle #1 was this vehicle traveling over the lane line on the right side of the travel lane. The Critical Reason for the Critical Event was a decision error, misjudgment of gap or others speed. There were no associated factors related to this driver except the rainy/wet road conditions. The 19-year-old female driver of the Mitsubishi eclipse, Vehicle #2, stated she was trying to make a right hand turn, and as she pulled up to the intersection Vehicle #1 was making a lane change, therefore deflecting her over the concrete median into opposite stopped traffic (Vehicle #3). She was not injured but, her car was towed due to damages. The Critical Precrash Event was other vehicle encroachment, from adjacent lane (same direction) - over left lane line. The Critical Reason was not coded to this vehicle. I believe that drivers inexperience also played a part in the crash as well as going to fast for rainy/wet road conditions. The 22-year-old driver of the Pontiac GTO, Vehicle #3 , was stopped at a red light when Vehicle #2 hit the concrete median and crashed into her left side. She was transported from the scene to a local emergency room with injuries. The driver of the Pontiac was not thought to have contributed to the crash. No Critical Precrash Event and no Critical Reason were coded for the driver of the Pontiac because she was not involved in the first harmful event (the impact between the Intrepid and the Mitshibishi).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Weather/Environment present problem 
+Vehicle 2:  Weather/Environment present problem 
+Vehicle 3:  Distraction, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Starting in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

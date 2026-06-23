@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred on a four lane highway intersection that is divided by a grassy median and is operated by traffic lights. There were no adverse weather conditions. The speed limit for that highway was (40 mph). V1 was a 1994 Articulated truck towing a trailer carrying construction waste. V1 was turning left at the intersection heading south. V2 was a 1998 Mercedes C-230. V2 was going straight heading eastbound on the highway. V1 turned left not yielding to V2. V1 then struck V2 on its left front side. V2 was towed due to damage and the driver was transported for injuries. The driver of V1 a 37 year old male didn't appear to speak any English, so no interview could be conducted. The Critical Precrash Event for V1 was this vehicle traveling turning left at intersection. The Critical Reason for the Critical Precrash Event was a decision error, aggressive driving behavior. The driver of V2 was a 39 year old male. The driver stated that he was driving sown the street and saw the truck at the intersection. He thought that the driver of V1 saw him coming but he continued to turn left in front of him. The driver of V2 swerved to the left and jammed on the brakes. He thought that the trucker might have fallen asleep because after we hit, he kept going and dragged his car. The Critical Precrash Event for V2 was other motor vehicle encroachment from opposite direction - over left lane line. The Critical Reason was not coded to this case.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

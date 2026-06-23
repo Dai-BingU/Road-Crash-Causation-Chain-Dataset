@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred at dawn with no adverse atmospheric conditions. The roadway is divided, level and straight, and was wet at the time of the crash. The southbound lanes consist of two through lanes and a left turn lane. The speed limit on this roadway is 72 kmph (45 mph). Vehicle one (V1), a 2004 Dodge Ram pickup, was southbound in lane one. V1 traveled off the right side of the roadway and the front struck a gas main pipe and a building. V1 continued into the building and the left side struck the building. V1 was towed due to damage. The driver of V1, a twenty-seven-year-old male, was not interviewed at the scene and could not be located later. At the scene, this driver told a police officer that his vehicle was home in his garage. An EMS technician on the scene stated that the driver had a hypodermic needle in his arm, injecting a substance believed to be methamphetamines, at the time of the crash. The pre-event movement for V1 was coded as "going straight." The critical pre-crash event for V1 was coded as "this vehicle traveling; off the edge of the road on the right side." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; internal distraction."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance, Roadway, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

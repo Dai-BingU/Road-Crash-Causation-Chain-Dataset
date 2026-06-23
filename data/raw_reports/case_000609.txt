@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lane of a two-way roadway with one lane in each direction. The roadway was straight and level and had a speed limit of 48kmph (30 mph). It was the evening hours and the roadway was dark, but lighted. It was dry with no adverse weather conditions. V1, a 2000 Lincoln Town Car taxi, was parked northbound in the right lane and discharging a female passenger. V2, a 2002 Mercedes-Benz M class SUV, was traveling northbound on the same roadway. As V2 passed alongside V1 the right front of V2 contacted the rear left of V1. A 42-year old male drove V1 and he did not sustain any injuries. The passenger a 37 year-old female seated in the right rear position sustained minor injuries but was not transported to a medical facility. The driver stated that he was struck from behind as he was discharging the passenger from his vehicle. V1 was not towed due to damage. The Critical Precrash event for V1 was the other vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. No associated factors were coded to this driver. The driver was not thought to have contributed to the crash. A 25-year old male drove V2 and he did not sustain any injuries. The Mercedes was towed due to damage. He stated that he thought the taxi was about to perform a U-turn and steered to avoid it. V2 was towed due to damage. The Critical Precrash event for V2 was coded as other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Event was coded as a driver related factor, a performance error of poor directional control. An associated factor was the presence of alcohol (driver had an alcohol odor about him when interviewing). No other associated factors were coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience present problem 
+Vehicle 2:  Alcohol, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

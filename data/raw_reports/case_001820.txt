@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a three-lane T-intersection. Conditions were daylight and dry in the late afternoon on a weekday. The posted speed limit was 45 MPH with a 5% downhill grade and a curve-left. V1 was a 2004 Jeep Cherokee SUV traveling westbound in the right travel lane approaching the T-intersection intending on turning left. V2, a 1990 Mitsubishi Galant sedan, was traveling eastbound in the right lane intending on going straight. The front of V2 struck the right side of V2 in the eastbound lane. V1 came to final rest facing southbound and V2 came to final rest facing eastbound. V1 was driven by a 51-year-old female who was not injured. She stated that she was turning left and thought there was enough space to turn. V1 did not take any avoidance actions. V1 was traveling between 11 and 20 MPH at the time of impact. V1 was driven away from the scene. The critical precrash event for V1 was this vehicle turning left at the intersection. The critical reason for the critical precrash event was a decision error; misjudgment of gap or other's speed. V2 was driven by a 46-year-old female who sustained moderate injuries and was transported to a local hospital. She stated that she was traveling eastbound when the other vehicle turned directly in front of her. V2 braked but was unable to avoid contact with V1. V2 was towed due to damage. The critical precrash event for V2 was other vehicle encroachment from opposite direction-over left lane line. No critical reason for the critical precrash event was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at a three-legged urban intersection of a two-way, two-lane road and a one-way, one-lane exit ramp from a highway. The bituminous roads were straight, with the ramp having a >2% negative slope. The other road was level, with a 56kmh (35mph) posted speed limit. Conditions at the time of the weekday, late morning crash were daylight, cloudy and dry. V1, a 1990 Mercury Cougar 2 door, driven by a 16 year-old male, returning to his sister's after running an errand, was exiting the northbound highway onto the exit ramp. The driver of V1 applied the brakes to slow down for the stop sign at the end of the ramp, but stated that the brakes did not work. The driver steered left at the end of the ramp to aim into a parking lot driveway, on the far side of the cross street. The right side of V1 was struck by the front of V2 in the intersection. The right back of V1 then stuck the left passenger area of V2. V1 rotated counter-clockwise to final rest in the driveway across the road. V1 was towed from the scene due to damage. The fully restrained driver and three male occupants, aged 21, 17 and 15 years old, were treated at the scene. V2, a 2004 Volvo XC station wagon, driven by a 41 year-old female on her way from home to lunch, was westbound on the two-lane road when V1 suddenly was crossing the road in front of her from the left. The driver of V2 had no time for avoidance maneuvers. Neither driver saw the other prior to the crash. Tall shrubbery at the southeast corner of the intersection prevented the V2 driver from seeing V1. After the side slap, V2 rotated clockwise to final rest in the parking lot on the right side of her road. V2 was towed from the scene due to damage. The fully restrained driver denied injuries at the scene. The Critical Precrash Event coded to V1 was 'this vehicle traveling turning left at intersection.' The Critical Reason for the Critical Precrash Event coded was 'vehicle related factor-brakes failed.' Associated factors coded for this driver include inexperience as the driver had only been driving for 6 months, and unfamiliarity with the road as he had only driven in the area monthly during that time. Additional factors of site obstruction due to the shrubbery at the corner, and a vehicle factor of low tread tires were also coded. Due to the damage on the vehicle the police were unable to confirm the brake capability. The Critical Precrash Event coded to the driver of V2 was 'other vehicle encroachment from crossing street turning into same direction.' The Critical Reason was not coded to this vehicle. The site obstruction at the corner was coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway, Vehicle present problem 
+Vehicle 2:  Driver Physical, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Brakes failed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

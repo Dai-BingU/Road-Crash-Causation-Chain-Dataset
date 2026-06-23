@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in the mid-afternoon on a northbound urban expressway. A positive barrier wall divided the expressway. The southbound lanes do not play into this incident. The northbound roadway consisted of three traffic lanes, with a posted speed of 89 kmph (55 mph). The roadway surface was bituminous asphalt, straight, and level. At this time there was rush hour congestion with stop and go traffic patterns, which was a factor for all three vehicles involved in this collision. Vehicle one (V1), a white 2005 Mercury Mountaineer carrying one occupant was traveling in the fourth lane behind vehicle two (V2), a black 2004 Ford Explorer carrying one occupant, and vehicle three (V3), a red 2002 Ford Explorer carrying one occupant as well. V3 was traveling in the lead position; it slowed to a stop because of congested traffic and V2 slowed to a stop as well. The driver of V1 did not recognize the stopped traffic ahead and impacted the rear of V2 with the front of the vehicle. This impact then caused the front of V2 to impact the rear of V3, which in turn caused the front of V3 to graze or slightly impact the barrier wall on the front left corner. V1 and V2 were both towed with significant front-end damage. V3 was not towed. The occupants in V1 and V2 had no indications of injury while the driver of V3 suffered a possible injury but was not transported. The driver of V1 was a 35-year-old male. He indicated he was looking forward and had no internal or external distractions. He did state that he was listening to the radio and had left a meeting before this trip started. The driver stated he rarely drives this route, so he may have been unfamiliar with the rush hour traffic patterns that occur on this roadway at this time of the day. It is surmised that the driver was lost in internal thoughts either concerning the meeting he had just attended, or by listened to the radio. This diverted the driver's attention from the driving task and he failed to react to the vehicle stopped in front of him. The driver inattention caused the driver to fail to look far enough ahead, and he did not recognize that forward traffic had stopped. By doing this he misjudged the speed and gap distance to the forward vehicle. Vehicle one's critical pre-crash event was coded as: Other Motor Vehicle in Lane/ Other vehicle stopped. The Critical reason for the critical pre-crash event was coded as a driver Recognition Error: Inattention. The driver of V2 was a 47-year-old male who was on his way home after attending a business meeting. This driver indicated that he rarely drives this route and had been stopped in the rush hour traffic for about 5 seconds. He then noticed V1 coming up behind his vehicle in his rearview mirror and tried to avoid the impact by steering to the left. V2's critical pre-crash event was coded as: Other Motor Vehicle in Lane/ Traveling in same direction with higher speed. The Critical reason for the critical pre-crash event was not coded to this vehicle. The driver of V3 was a 37-year-old female on her way home from work. She indicated that her lane of traffic was initially moving at the posted speed limit but then it slowed and she decelerated to a stop. She then heard the sounds of brakes and skidding behind her vehicle just prior to impact. V3's critical pre-crash event was coded as: Other/ not involved in first harmful event. The Critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

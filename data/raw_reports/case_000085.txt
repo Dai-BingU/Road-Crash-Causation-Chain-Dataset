@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a traffic signal-controlled intersection. The north/south roadway is level and straight. The lanes south of the intersection are undivided and the northbound lanes consist of two through lanes, a left turn/through lane and a left turn lane. The lanes north of the intersection are divided by a curbed median and the southbound lanes consist of four through lanes and a right turn lane. The speed limit on this roadway is 64 kmph (40 mph). It was dark with streetlights lit at the time of the crash, the roadway was congested due to rush hour and there were no adverse atmospheric conditions. Vehicle one (V1), a 1994 Mazda 626, was southbound in lane two. Vehicle two (V2), a 1998 Volvo S70, was stopped northbound, waiting to turn left at the intersection. As V2 turned left, the front struck the front of V1. The vehicles rotated and the right side of V2 struck the left side of V1. Both vehicles were towed due to damage. The driver of V1, a twenty-six-year-old male, was traveling from his home to his wife's workplace. He was healthy, well rested and familiar with his vehicle. He drives on this roadway daily. This driver was listening to the radio but stated that he was not otherwise distracted. He stated that his traffic signal was green. The driver of V2, a sixty-year-old male, was traveling from a coworker's home to his home. He was well rested, healthy and comfortable with his vehicle. He drives on this roadway monthly. This driver stated that he waited at the intersection until the traffic signal turned to a left-turn arrow. The pre-event movement for V1 was coded as "going straight." The critical pre-crash event for V1 was coded as "other vehicle encroachment; from opposite direction - over left lane line." The critical reason for the critical pre-crash event for V1 was "not coded to this vehicle." The pre-event movement for V2 was coded as "stopped in traffic lane." The critical pre-crash event for V2 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V2 was coded as "driver related factor; false assumption of other's actions."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance, Traffic present problem 
+Vehicle 2:  Decision, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

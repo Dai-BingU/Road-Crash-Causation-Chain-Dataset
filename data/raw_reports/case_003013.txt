@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The three-vehicle crash occurred on a four-lane, undivided, north/south roadway at the intersection with a two-lane, undivided, east/west roadway. Both roadways were straight, level, dry and of concrete construction. Overhead traffic control lights control traffic at the intersection. The posted speed limit is 48 kph (30 mph). Traffic was light at the time of the crash. This crash occurred during daylight hours with clear skies. Vehicle one (V1), a 2005 Ford F-150, was northbound in the second travel lane. Vehicle two (V2), a 1997 Mercury Tracer, was southbound in the first travel lane. Vehicle three (V3), a 2003 Chevrolet Suburban, was stopped eastbound in the first travel lane. Non-contact vehicles were stopped southbound in lane two waiting to turn left. V1 attempted a left turn across the path of V2. The front of V2 struck the right side of V1. V1 rotated slightly counterclockwise as it moved forward and the left side struck the front of V3 . V1 came to rest west of the intersection facing west. V2 rotated clockwise and came to rest facing southwest in the intersection. V3 came to rest at the point of impact. Both V1 and V2 were towed due to damage. The driver of V1, a forty-eight year old male, was heading to work from home. This driver had been driving for about ten minutes, drives the route daily and is familiar with the vehicle. The driver stated the arrow was green and he believed that southbound traffic had a red light. (There is no protected left turn arrow on the traffic light.) The driver also stated that a large SUV in the second southbound lane was obstructing his view of V2. The driver stated he did not see V2 after he had cleared the SUV that was stopped waiting to turn left from the opposite direction and did not attempt any evasive maneuvers. The critical pre-crash event for V1 was coded: this vehicle traveling-turning left at intersection. The critical reason for V1 was coded: driver related factor-turned with obstructed view. The driver of V2, a forty-two year old female, was heading from home to a babysitter's residence. This driver drives the route daily and is familiar with the vehicle. The driver stated the light was green. The driver also stated that a large SUV in the second southbound lane was obstructing her view of V1. The driver saw V1 just as it passed across the front of the non-contact vehicle stopped in lane two. She did not detect that V1 was not going to yield the right-of-way until impact and did not attempt any evasive maneuvers. The critical pre-crash event for V2 was coded: other vehicle encroachment-from opposite direction, over left lane line. The critical reason for V2 was coded: not coded to this vehicle. The driver of V3, a thirty-nine year old male, was heading from home to work. This driver had been driving for about four minutes, drives the route daily and is familiar with the vehicle. The driver was not able to attempt any evasive maneuvers. The critical pre-crash event for V3 was coded: other-not involved first harmful event. The critical reason for V3 was coded: not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway present problem 
+Vehicle 2:  Decision, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

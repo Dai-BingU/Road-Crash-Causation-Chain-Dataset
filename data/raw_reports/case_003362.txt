@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred mid-afternoon on a two lane non-divided rural asphalt roadway. This roadway has a grade of +6 percent going north with a right hand curve. The curve has a superelevation of +2 percent with no emergency shoulder on the right and a 2 meter (6.6 feet) wide bar ditch on the left. This crash occurred during daylight with no adverse weather. Posted speed limit 88 kph (55 mph). Vehicle one (V1), a 1999 Nissan 4 door sedan driven by a 67 year-old female was traveling northbound entering the right hand curve when it drifted right and off the right road edge. V1 then steered left back onto the roadway and crossed the centerline where it's front left corner impacted the left side of vehicle two (V2), a 2004 Chevrolet Tahoe SUV driven by a 52 year-old male which was traveling in the opposite direction. V1 crossed the southbound lane then exited the west road edge, crossed through a bar ditch and impacted a rising dirt embankment with the front bumper. V1 the rode the embankment hitting two large rocks with its undercarriage. V1 traveled down the embankment to the bar ditch where it came to rest heading in a northeasterly direction. V2 after impact continued south coming to a controlled stop. V1 was towed from the scene V2 let under own power. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical event was coded to V1 as a driver related factor: overcompensation. Associated factors: the driver of V1 distracted by looking in rearview mirror. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction-over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Driver Performance, Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred on a weekday morning in the southbound lanes of a high-volume, high occupancy, high-speed interstate highway. There were five lanes running southbound flanked by paved shoulders and concrete barrier walls. The bituminous lanes are straight and level with a posted speed limit of 56kmph (65 mph). The traffic flow was heavy and slow due to rush hour and the road was wet from a rain that was falling at the time of the crash. V1, a 2000 Ford Mustang convertible, was traveling the speed limit in lane three. V2, a 2003 Chrysler PT Cruiser, was southbound in lane four slightly ahead of V1. V3, a 2003 Toyota Camry, was southbound in lane five (the HOV lane) behind V1. V4, an unknown vehicle was southbound in lane four directly ahead of V2. V1 made a lane change to the left into lane four behind V2. As V1 changed lanes the traffic in front of him came to a sudden stop. V1 was unable to stop in time and struck the back of V2. After the initial contact V1 continued left over the paved shoulder and struck the left concrete barrier wall. V1 bounced off the wall and back into traffic where it was struck by V3 as it continued southbound in lane five. After its initial impact with V1, V2 was pushed forward into the back of V4 before coming to final rest. V1 and V3 came to final rest in lane five. V1, V2, and V3 were towed due to damage while V4 was driven from the scene. The driver of V1, a 24-year-old male, stated that he was running late for work as he traveled southbound. It had just started to rain and he was attempting to change lanes as the traffic in lane three was starting to slow. As he changed lanes to the left when the traffic in lane four came to a sudden stop and he was not able to stop in time. He slammed the brakes and tried to steer to the left but was unable to avoid hitting the rear of V2. He suffered no injuries as a result of the crash. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Precrash Event was coded as a driver error as he was traveling too fast to respond to unexpected actions of other drivers. Associative factor coded to V1 include being in a hurry (he was late for work) as well as the rain, wet roads and rush hour traffic. The driver of V2, 63-year-old male, was a bus driver on his break. He came to a stop and then by habit looked into his rear view mirror to make sure the cars behind him were able to stop. He stated that's when he saw V1 approaching his vehicle at a high rate of speed. He braced his wheel and prepared for the impact. He was struck in the rear and pushed forward into the car in front of him. He suffered no injuries as a result of the crash. The Critical Precrash Event for V2 was coded as another motor vehicle in lane, traveling in the same direction with higher speed. The critical pre-crash reason was not coded to this vehicle. The only associated factors coded to V2 were the rain, wet roads and rush hour traffic. The driver of V3, 85-year-old male and his wife, were driving in lane five on their way to an immigration appointment. He stated in the interview that he was driving along when the Mustang hit the wall and bounced into his lane. He was unable to stop before contacting the back of V1. Neither the driver nor his passenger suffered any injuries as a result of this crash. The Critical Precrash Event for V3 was not coded to this vehicle, as he was not involved in the first harmful event. The Critical Reason was not coded to this vehicle. Associated factors coded to V2 include an internal distraction; as the driver was conversing with his passenger as well as the rain, wet roads and rush hour traffic. V4 was not on scene when this researcher arrived and no other information regarding the vehicle or its occupants could be obtained.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Stress/Emotion, Roadway, Speed/Distance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Roadway, Traffic, Weather/Environment present problem 
+Vehicle 3:  Decision, Distraction, Drugs, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

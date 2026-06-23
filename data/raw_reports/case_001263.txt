@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred during dawn hours on a weekday. The crash occurred at a four-leg intersection controlled by a tri-light traffic signal. At the time of the crash, there were no adverse atmospheric conditions and the roadway was free of defects. Vehicle one (V1), a 1993 Ford Thunderbird two-door, was traveling northbound in a 40 kph (25 mph) zone, in the first lane of a two-lane, two-way, undivided, dry, level, bituminous roadway, approaching an intersection with the intention of turning left. Vehicle two (V2), a 2004 Toyota Tundra double-cab pickup, was traveling eastbound in a 56 kph (35 mph) zone, in the second lane of a five-lane, two-way, undivided, dry, level, bituminous roadway, approaching the same intersection with the intention of passing straight through. As V1 made its turn, the front of V2 impacted the left side of V1. The vehicles rotated toward each other, and the right side of V2 impacted the left side of V1 in a side-slap configuration. The vehicles separated and came to rest a few meters northeast of impact. Both vehicles were towed due to damage. The 25-year-old male, unlicensed driver of V1 reported that he was engaged in conversation with other passenger, with whom he was carpooling. This driver had been driving for about twenty minutes at the time of the crash. His statement to the police is inconsistent with information obtained during the interview. He said that the light turned yellow, and then he turned, and he also said that he approached a red light, and it turned green so he turned without slowing. As he approached the intersection, he looked left and saw V2, then proceeded to turn. This driver stated that he saw the other vehicle but assumed it would stop. This driver drives this vehicle daily and over this road on a daily basis. The 36-year-old male driver of V2 was on his way to work. This driver had been driving for about fifteen minutes at the time of the crash. He reported that he was approaching the intersection on a green light, and as he passed through the intersection, he saw V1 make its turn. He activated brakes, but was unsuccessful in stopping the vehicle. This driver drives this vehicle daily and over this road on a daily basis. The critical pre-crash event for V1 was coded as “This vehicle traveling, turning left at intersection”. The critical reason for the critical pre-crash event was attributed to V1, and is coded “Driver related decision error, false assumption of other's action”. The critical pre-crash event for V2 was coded as “Other vehicle encroachment, from crossing street, turning into opposite direction”. The critical reason for the event is not attributed to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Stress/Emotion present problem 
+Vehicle 2:  Driver Stress/Emotion present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

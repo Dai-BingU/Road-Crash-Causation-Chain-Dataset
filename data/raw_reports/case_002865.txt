@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west urban interstate that was straight with three lanes in each direction. The area was undergoing construction and had barrier walls on both sides of the travel lanes with no shoulders. It had a -2.5 percent grade from west to east. Traffic counts from 2003 indicate the six interstate lanes carry 147,590 vehicles per day at the location. Conditions were daylight and dry during a weekday rush hour with a posted speed limit of 72kmph (45mph) and construction warning signs present. Vehicle #1 was a 2003 Peterbilt 379 series conventional tractor towing a semi trailer loaded with 25,000 pounds of hazardous chemicals (Chlorine) eastbound in the right lane. Vehicle #2, a 2000 Ford Explorer, was ahead of the truck (V1) in the right lane. Vehicle #3 was a 1997 Honda Accord eastbound in the right lane behind the other vehicles. Vehicle #2 was forced to come to a stop due to congestion in the construction zone and was rear-ended by Vehicle #1. Subsequently, Vehicle #3 was unable to stop in time and rear-ended Vehicle #1. Vehicle #3 was towed due to damage; the other vehicles were driven away with minor damage. Vehicle #1 was driven by a 30-year-old male that was belted and not injured in the collision. He had six years of truck driving experience and had only gone approximately ten miles after stopping at a truck stop for the night. He stated that the SUV changed lanes in front of him just moments before traffic came to a stop and he was unable to stop in time. Police charged the driver with following too closely. The Critical Precrash Event for Vehicle #1 was other motor vehicle in lane stopped. The Critical Reason for the Critical Event was following too closely to respond to unexpected actions. Associated factors included inadequate surveillance-failed to look far enough ahead. Following too closely-rush hour, heavy traffic. A traffic flow interruption-construction work zone and rush hour congestion was also coded. The driver was wearing contact lenses for a farsighted condition. Vehicle #2 was operated by a 23-year-old female that was belted and not injured. She stated that she had to stop due to congestion and had been stopped 2-3 seconds prior to impact. Police issued her citations for no vehicle registration and no proof of insurance. The Critical Precrash Event for Vehicle #2 was other vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors included traffic flow interruption-construction work zone and rush hour congestion. Vehicle #3 was driven by a 42-year-old female that was belted. Her daughter, an 18-year-old female that was nine months pregnant, was belted in the right front passenger seat. The daughter was transported to an area hospital with possible injuries. No airbags deployed in the vehicle. The driver reported that traffic came to an abrupt stop and she was unable to stop in time. Police charged her with following too closely. The Critical Precrash Event for Vehicle #3 was not involved in first harmful event. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors included traffic flow interruption-construction work zone and rush hour congestion. The driver was wearing contacts for a farsighted condition and took medications for anxiety and depression.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Decision, Distraction, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

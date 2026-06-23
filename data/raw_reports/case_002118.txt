@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the eastbound lane of a two-lane, rural roadway. The intersection was controlled with stop signs in the north and south directions only. The roadway had a posted speed limit of 88kmph (55 mph) in all directions. The eastbound approach of v1 was on level ground and curved to the right, while the southbound approach of v2 was on a 4% downhill grade. Conditions were daylight and dry with clear skies. The setting was early afternoon hours on a weekend. Vehicle one was a 2003 Acura 3.2TL sedan traveling eastbound negotiating a slight right curve. Vehicle two was a 1992 Nissan Sentra sedan stopped facing south. Both vehicles proceeded through the intersection. The front of v1 impacted the right side of v2. V1 traveled off the southeast corner of the intersection, impacting a stop sign with its front and coming to rest against the sign. V2 rotated clockwise 180 degrees before coming to rest on the east roadside several car lengths down the southbound roadway away from the intersection. The Acura sedan (V1) was driven by a 29-year old female who was accompanied by three passengers. She was reported to have possible injuries, but was not transported from the scene. She stated that she was heading home from the veterinarian when the other vehicle pulled in front of her from the left. She didn't have a chance to react before the collision. Her estimated speed was 50 mph. The Acura sedan was towed due to damage. The Critical Precrash Event for v1 was other vehicle encroachment from a crossing street across the path of this vehicle. No Critical Reason was coded to this driver. This driver was looking at people mowing the lawn on the right roadside. She was engaged in casual conversation with her passengers. She was upset about both family and pet issues at the time of the crash. She was taking medication for birth control. The driver was unemployed at the time. The Nissan sedan (V2) was driven by a 17-year old female with one other passenger. She and her passenger were transported to a local hospital with possible injuries. She stated that she was heading to her grandma's house on a road she drives daily. She claims to have looked both ways but was not able to see the oncoming vehicle due to roadway curvature and trees. Images from the scene reconstruction dispute this claim. This driver estimated her speed at 5 mph, and was also not able to react before the collision. The Nissan sedan was towed due to damage. The Critical Precrash Event for v1 was this vehicle traveling and crossing over the intersection. The Critical Reason was inadequate surveillance (looked but did not see). Associated factors include driver inexperience, as she had only been driving for a period of 12 months and a tire deficiency, as the tread on the tires was dangerously low.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion, Drugs present problem 
+Vehicle 2:  Driver Inexperience, Drugs, Surveillance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

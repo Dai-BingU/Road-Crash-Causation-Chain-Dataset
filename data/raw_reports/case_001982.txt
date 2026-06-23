@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in a four-legged, traffic signal-controlled intersection. The east/west roadway is undivided and consists of two lanes in each direction. The eastbound travel lanes are curved to the left (radius of curvature is 563 meters and the superelevation is four percent) and have a five percent uphill grade. The westbound travel lanes are curved to the right (radius of curvature is 563 meters and the superelevation is four percent) and have a two percent downhill grade. The speed limit for this roadway is 72 kmph (45 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Traffic was congested at the time of the crash. Vehicle one (V1), a 2005 Hyundai Sonata, was eastbound in lane two. Vehicle two (V2), a 2002 Dodge Intrepid, was westbound in lane two. V1 turned left in the intersection and the front struck the front of V2. Both vehicles were towed due to damage. The driver of V1, a forty-one-year-old female, was traveling from her home to drop her twenty-year-old daughter off at work. This driver rarely travels this roadway. She stated that she felt comfortable with her vehicle and passenger. She also stated that she did not see V2 prior to the crash. The driver of V2, a twenty-eight-year-old female, was traveling with a male passenger to pick her brother up from work. She was healthy, well rested and comfortable with her vehicle and passenger. This driver stated that she saw V1 as it turned in front of her. The critical pre-crash event for V1 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from opposite direction - over left lane line." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle." This driver's inadequate surveillance was an associated factor in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Surveillance, Traffic present problem 
+Vehicle 2:  Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

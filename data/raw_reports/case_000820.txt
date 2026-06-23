@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during late morning daylight hours on a straight, dry, physically divided, eight-lane highway. The highway runs east and west at the location of the crash and has three through lanes for westbound traffic, three through lanes and two left turn lanes for eastbound traffic. At the time of the crash, westbound lane one was closed down with orange cones for work being done on the highway. The speed limit for the highway is 64 kph (40 mph) and there were no adverse weather conditions at the time. Vehicle one (V1), a 1994 Ford Explorer was westbound in lane two behind vehicle two and had just crossed a four-leg intersection. Vehicle two (V2), a 2002 Saturn SL was westbound in lane two in front of V1 stopped in traffic to change to lane three because there was a construction cone in lane 2. There was a line of cars in lane three so he stopped to let the vehicles pass. Driver one tried to avoid the impact by braking and steering right but was unsuccessful. The front of V1 impacted with the rear of V2. V1 was driven into lane one and came to rest on its wheels. V2 was pushed into lane three and came to rest on its wheels facing southwest. V1 was driven from the scene while V2 was towed. Neither driver was injured. The driver of V1 was a 57-year-old male who is familiar with the vehicle and the route traveled. He was distracted by the vehicles to his right and did not detect V2 stopped in his lane of travel ahead of him. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other motor vehicle stopped. The critical reason was coded to V1 as a driver related factor: external distraction, for looking at the vehicles to the right and not looking far enough ahead. The driver of V2 was a 63-year-old male who was on his way to a store. He was stopped in traffic when his vehicle was struck in the rear. Road construction impeded traffic flow at the time. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs, Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

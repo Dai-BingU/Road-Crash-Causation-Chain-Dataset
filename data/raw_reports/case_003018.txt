@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred in the early evening of a weekday in the westbound lanes of a divided urban roadway. The east/west roadway consisted of three lanes in each direction divided by a positive median barrier. The bituminous roadway was dry, straight and level with a posted speed limit of 80 kmph (50mph). The traffic flow was congested as it was rush hour, but there were no adverse atmospheric conditions at the time of the crash. V1, a Nissan Maxima four door with one occupant, was westbound in lane three. V2, 1996 Isuzu Rodeo SUV with one occupant, was westbound in lane three ahead of V1. V3, a 1995 Buick LeSabre four door with three occupants, was westbound in front of V2. V4, a 2006 Lincoln Town Car four door (serving as a taxi) with one occupant, was also westbound ahead of V3. V5, a 2006 Subaru Impreza four door with three occupants, was westbound in front of V4. The heavy rush hour traffic began to slow and V2, V3, V4, and V5 began to decelerate. V1 failed to slow down sufficiently behind V2 and struck the rear of V2. The impact pushed V2 into the rear of V3, who was pushed into the rear of V4, which was subsequently pushed into the rear of V5. All vehicles came to final rest near the point of impact. V1 fled the scene after impact, V2 was towed, and all other vehicles were driven from the scene. The driver of V1 was an unknown female who fled the scene immediately after the accident occurred. No further information regarding the driver or the vehicle was uncovered. The lack of contact information made an interview impossible to obtain. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle decelerating. The Critical Reason was coded as an unknown driver error. The only associated factor that could be coded to V1 was the heavy rush hour traffic. The driver of V2, a 35 year-old female, reported no injuries. She was on her evening commute home from work. She stated that she was slowing for traffic when she was rear-ended by a vehicle causing a chain reaction. She than watched V1 flee the scene. The Critical Precrash Event for V1 was coded other motor vehicle in lane, traveling in the same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. The rush hour traffic was coded as an associated factor. The driver of V3, a 74 year-old male, reported no injuries. The two female occupants also reported no injuries. The driver declined to participate in the study and no interview was obtained. The Critical Pre-Crash Event for V3 was coded as other, not involved in the first harmful event. The Critical Reason for the Critical Event was not coded to this vehicle. The only known associated factor was the rush hour traffic. The drivers and passengers in V4 and V5 also reported no injuries. They reported that they were slowing for traffic when they were hit from behind.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

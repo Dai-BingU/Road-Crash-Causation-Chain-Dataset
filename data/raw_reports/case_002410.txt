@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 2005 Chevrolet Aveo 4dr, was westbound in lane 2 of 2 westbound lanes of a bituminous, interstate roadway, having a center median with a positive barrier, curving left. V1 was overtaking v2, a 2001 Freightliner medium/heavy truck tractor pulling a single semi trailer, in lane 1 of the same roadway. At the time of the crash it was daylight and the roadway was dry but the shoulders were icy. As v1 was beginning to pass v2, v2 drifted to the left crossing the line-separating lane 1 from lane 2. V1 braked and steered left, went onto the left shoulder, lost control on the ice, re-entered the roadway to the right and impacted the left rear wheel of v2's trailer with it's front. It then spun clockwise onto the inside shoulder where it struck the median guardrail with it's right rear and came to rest on the shoulder facing east. V1 was towed due to damage. Neither driver was injured. A complete driver interview and vehicle inspection was obtained for v1. The driver stated that v2 drifted into her lane just as she was beginning to pass and she had to take evasive actions. She was properly licensed for and familiar with her vehicle but only traveled on the roadway monthly. The Pre-event movement of v1 was passing or overtaking another vehicle, the Critical pre-crash event was Other Vehicle Encroachment from adjacent lane (same direction) - over right lane line and the critical reason was not coded to this vehicle. A complete driver interview and vehicle inspection was obtained for v2. The driver only had 2 years experience driving a semi tractor-trailer truck but he seemed very professional and like his job. I do believe that the reason he tracked the actions of v1 before the impact was because he drifted left out of his lane and quickly checked his side mirror to see if any traffic was there. The Pre-event movement of v2 was negotiating a curve, the Critical pre-crash event was This vehicle traveling over the line on the left side of travel lane and the Critical reason for critical pre-crash event was the driver's performance error of poor directional control. Factors contributing to the crash may include the roadway's curvature to the left coupled with his poor directional control while negotiating it.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Roadway present problem 
+Vehicle 2:  Distraction, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

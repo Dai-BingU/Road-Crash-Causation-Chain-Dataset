@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a six-lane highway divided by a positive barrier. There were three northbound lanes and three southbound lanes. This was a level, concrete roadway that curved right and had a posted speed limit of 112 kmph (70 mph). It was early evening and the road was dry and the sky was cloudy. Traffic flow was steady. V1, a 1992 Mercury Grand Marquis four door with four occupants was traveling in lane two. V2, a 2005 Chevrolet Aveo four door was also traveling in lane two. A vehicle up ahead had a tire blow out. This non-contact vehicle crossed all three lanes of traffic. All the vehicles ahead of V1 and V2 slowed down rapidly to avoid it. V2 was able to avoid the vehicle in front of him but V1 could not stop in time. The front of V1 contacted the back of V2 before they both came to final rest off the right side of the highway. V1, the Mercury Grand Marquis, was driven by a 24-year old female who reported minor injuries. She advised that she had just come from picking up her children and was on her way home. She advised that she was traveling between 98-112 kmph (61-70 mph) when she made the evasive action to avoid rear-ending V2 that had suddenly slowed down in front of her but she could not avoid him. The Critical Precrash Event for the driver of V1 was other motor vehicle in lane: traveling in same direction while decelerating. The Critical Reason for the Critical Precrash Event was a driver related factor: following too closely to respond to unexpected actions, because if she were following at a safe distance she would have been able to stop in time. V2, the Chevrolet Aveo was driven by a 45-year old male who reported no injuries. He advised that he had just left home and was on his way to a yoga class. He advised that he had been traveling between 67-80 kmph (41-50 mph) at the time of impact. The Critical Precrash Event for the driver of V2 was other vehicle in lane: traveling in same direction with higher speed. The Critical Reason was not to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Following too closely to respond to unexpected actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

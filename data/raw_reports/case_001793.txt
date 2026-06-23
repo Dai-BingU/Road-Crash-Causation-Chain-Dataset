@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of a two-way roadway with one lane in both the north and south direction and an eastbound one-way roadway. The roadway was straight and level and had a speed limit of 48 kmph (30 mph). The road was wet and it was cloudy and raining. Vehicle # 1 was a 2002 Mitsubishi Montero that was traveling eastbound on the one-way roadway and stopped at the stop sign and proceeded through. Vehicle # 2 was a 1998 Ford E-Series Van that was traveling southbound. At the intersection, the front of Vehicle # 2 impacted the left side of Vehicle # 1. A 25 year-old female drove the Mitsubishi Montero (Vehicle # 1) and she did not sustain any injuries. The 15-month old passenger seated in the second-row center position also did not sustain any injuries. The driver stated that she was stopped at the stop sign when the driver of Vehicle # 2 was speeding and impacted her vehicle on the left side. Vehicle # 1 was towed due to damage. The Critical Pre-crash event for Vehicle # 1 was this vehicle traveling, crossing over (passing through) intersection. The Critical Reason for the Critical event was a Driver related error, inadequate surveillance. The associated factors were the wet roadway and the rain. A 50 year-old male drove the Ford E-Series Van (Vehicle # 2) and he did not sustain any injuries. There were four male occupants who did not sustain any injuries but were transported due to being minors, and one male occupant who was not transported because a parent was on-scene. He stated that the driver of Vehicle # 1 did not stop at the stop sign, but she stopped in the middle of the intersection. Vehicle # 2 was towed due to damage. The Critical Pre-crash event for Vehicle # 2 was other vehicle encroaching into lane, from crossing the street, across path. The Critical Reason for the Critical Event was not coded to the driver of Vehicle # 2. The associated factors coded to the vehicle were that he was traveling too fast for conditions, and did not realize that caution was necessary. The atmospheric conditions were cloudy and raining, and the roads were wet.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

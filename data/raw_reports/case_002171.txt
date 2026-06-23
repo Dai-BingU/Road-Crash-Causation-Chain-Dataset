@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This is a two vehicle crash that occurred at 1720 hours on a five lane, north/south dry asphalt roadway. The roadway consists of two southbound and two northbound lanes that are separated by continuous left turn lane. There were no adverse weather conditions. The speed limit on the roadway is posted 56 kmph (35 mph). Vehicle one (V1), a 2000 Chevrolet S-10 pickup, driven by a 51 year-old female The vehicle was traveling southbound in the number two lane at approximately 32 kmph (20 mph) indicated by the police report and the statements made by the driver at the scene. Vehicle two (2) a 1998 Dodge Stratus driven by a 61 year-old male with one passenger crossed from a driveway in the path of V1. The front of V1 struck the right side of V2. The driver of V1 came to a stop in lane 2 facing in a southerly direction. The driver of V1 stated that there was a line of vehicle stopped in the northbound lanes and the left turn lane prior to the crash. There were no injuries reported by the driver of V1. V1 was towed from the scene there were no reported injuries. The critical pre-crash event for V1 was coded: other vehicle encroachment; from driveway, across path. The critical reason was not coded to this vehicle. The critical pre-crash event for V2 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critcial event was coded to V2 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver did look to his right prior to the crash and did not see V1 coming from his right. The driver's line of sight was restricted due to vehicles being stopped in the northbound traffic lanes. (The passenger stated look out there is another vehicle).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Stress/Emotion, Drugs present problem 
+Vehicle 2:  Decision, Distraction, Driver Physical, Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

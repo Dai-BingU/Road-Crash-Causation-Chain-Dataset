@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the southbound lanes of a four lane divided (dirt and grass median) roadway. There were two lanes in each direction. The roadway was bituminous, dry, straight, and level with a posted speed limit of 64 kmph (40 mph). The crash occurred during the early morning rush hour on a weekday when the traffic was congested with stop-and-go activity. Weather conditions were cool and clear at the time of the crash. V1, a 2005, Nissan Altima four door with one occupant, was southbound in lane one. V2, a 1995 Toyota Tacoma pickup truck with one occupant, was stopped southbound in lane one ahead of V1. Traffic in both southbound lanes was stopped due to heavy volume. V1 failed to stop behind V2 and struck the rear of V2 with its front. The vehicles came to rest near the point of impact in lane. They were moved onto the shoulder and V1 was eventually towed due to damage, while V2 was driven from the scene. The driver of V1, a 25-year old female, sustained minor injuries and was transported to a hospital by her spouse. The driver and her spouse refused the interview. The spouse said only that she ran into the back of V2. The Critical Pre-crash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Event was coded as an unknown driver error. It was noted by the researcher that the driver of V1 was probably eating due to the presence of remnants of food and possible vomit being observed on the passenger side floorboard. The only known associated factor was the rush hour congestion present at the time of the crash. The driver of V2, a 35-year old male was not injured. The driver was commuting to work from home. He reported that he had been stopped behind heavy traffic with his foot on the brake for about four seconds when he suddenly felt a jolt when the front of V1 struck the rear of his vehicle. He said he did not hear or see anything and was not aware that he was going to be struck by V1. The Critical Pre-crash Event for V2 was coded other motor vehicle in lane, traveling in the same direction with higher speed. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors coded to this driver include the presence of an ulcer, eating and drinking while driving and the rush hour congestion.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Traffic present problem 
+Vehicle 2:  Distraction, Driver Physical, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

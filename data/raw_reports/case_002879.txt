@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred in a five-legged, traffic signal-controlled intersection. The east/west roadway is level. East of this intersection, this roadway curves to the right (the radius of curvature is 563 meters and the superelevation is seven percent) in the eastbound direction. On the west side of this intersection, this roadway consists of two lanes in each direction and an eastbound left turn lane. On the east side of this intersection, this roadway consists of two lanes in each direction and a westbound right turn lane. There are two roadways on the north side of this roadway. The eastern roadway is straight, level and consists of two lanes in each direction. The speed limit for these roadways is 72 kmph (45 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1998 Chevrolet Cavalier, was westbound in lane three. Vehicle two (V2), a 2003 Toyota Camry, was southbound in lane two. Vehicle three (V3), a 2000 Oldsmobile Silhouette, was eastbound in lane one. V2 entered the intersection turning left and the left side was struck by the front of V1. V1 continued through the intersection and the front struck the left side of V3. V1 and V2 were towed due to damage. The driver of V1, a twenty-three-year-old female, was traveling to school (college) from her home. She was healthy, well rested and familiar with her vehicle. She travels this route daily. This driver stated that she was looking down in her vehicle, searching for her book and notebook for her class. She did not realize that the traffic signal turned red and she did not see V2 prior to the crash. The driver of V2, a thirty-five-year-old female, was on her way to work from her home. She was healthy, well rested and familiar with her vehicle. She travels this route daily. This driver stated that she was stopped at the intersection and entered the intersection to make the left turn when her traffic signal turned green. She did not see V1 prior to the crash. The driver of V3, a forty-six-year-old male, was traveling with a female passenger, from a shopping center to another store. He was well rested, healthy and comfortable with his vehicle and passenger. He travels this route daily. The critical pre-crash event for V1 was coded as "other vehicle encroachment; from crossing street, turning into opposite direction." The critical reason for the critical pre-crash event for V1 was "not coded to this vehicle." This driver's focus on finding her book and notebook and disregarding the traffic signal were associated factors in this crash. The critical pre-crash event for V2 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V2 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)." The critical pre-crash event for V3 was coded as "other; not involved first harmful event." The critical reason for the critical pre-crash event for V3 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

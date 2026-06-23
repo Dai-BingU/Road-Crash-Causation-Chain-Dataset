@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two lane undivided roadway with a posted speed limit of 48 KPH (30 MPH) and a -2.2% grade. There was an intersecting driveway to the right with a -13.3% grade. The weather was clear, the roadway dry and it was daylight at the time of this early morning weekday crash. Vehicle 1, a 1996 Chevrolet Blazer, was traveling north on the two lane undivided roadway approaching the driveway. It should be noted that there was a large sign, small hill and telephone pole to this driver's right, which may have obscured the approach of Vehicle 2. Vehicle 2, a 2000 Toyota Corolla, was traveling west on the driveway approaching the main roadway. Vehicle 2 entered the main roadway and was struck in the left side by the front of Vehicle 1. Vehicle 2 was rotated counterclockwise off the left side of the roadway, over a small curb, onto a private lawn and came to rest facing east. Vehicle 1 continued and came to rest in the southbound lane facing north. The Chevrolet Blazer (Vehicle 1) was driven by a belted 50-year-old male who was transported, treated and released for a complaint of pain. Vehicle 1 was traveling north on the roadway and saw Vehicle 2 coming down the driveway off to the right. He put on his brakes and steered right but hit Vehicle 2 on the left side. Vehicle 1 was towed due to damage. The Critical Precrash Event for Vehicle 1 was the encroachment of the other vehicle from a driveway, intended path not known. The Critical Reason for the Critical Event was not coded to this vehicle. A possible contributing factor to this crash may have been the sign, small hill and pole to this driver's right, which may have limited his sight of Vehicle 2's approach. No other associated factors were coded to the driver of the Blazer and he was not thought to have contributed to the crash. The Toyota Corolla (Vehicle 2) was driven by a belted 23-year-old female who was transported, treated and hospitalized for 1 day due to a head injury. The driver of the Corolla stated that she had "blacked out" and did not recall the accident or the events preceding the accident. Vehicle 2 was towed due to damage. The Critical Precrash Event for Vehicle 2 was its unknown travel direction. This was chosen due to no indication of turning left or right and the incapacitating illness of the driver. The Critical Reason for the Critical Event was the physical impairment of the ability to act of the driver. An associated factor coded to this driver was the use of prescription medications. She was taking two medications: a birth control pill and an antihistamine. They did not contribute to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Weather/Environment present problem 
+Vehicle 2:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, intended path not known
+ 2 ：This Vehicle Traveling- Unknown travel direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred on a two-lane, undivided roadway. In the eastbound direction, this roadway is level and curves to the right (the radius of curvature is 94 meters and the superelevation is two percent). The speed limit for this roadway is 72 kmph (45 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Vehicle one (V1), a 1988 Toyota Corolla, was eastbound in lane one, reportedly traveling at 121 kmph (75 mph). V1 traveled off the left side of the roadway and the left side struck a tree. V1 rotated slightly counterclockwise and the front struck a tree. V1 continued rotating and rolled to the right two quarter-turns. V1 was towed due to damage. The driver of V1 left the scene prior to police arrival. No information is available for this driver. The critical pre-crash event for V1 was coded as "this vehicle control loss due to traveling too fast for conditions." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; too fast for curve/turn."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Performance, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

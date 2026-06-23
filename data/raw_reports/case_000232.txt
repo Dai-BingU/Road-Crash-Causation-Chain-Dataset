@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in an intersection on a five-lane roadway, with two-way traffic separated by a middle turning lane, and a driveway. The roadway is straight, level, bituminous and has a posted speed limit of 56 kmph (35 mph). At the time of the crash the roadway was clear and dry, with moderate traffic flow that was backed-up due to a traffic control beyond the scene. The intersection of the roadway and the drive was not controlled by a traffic signal. V1 a 1990 Oldsmobile Cutlass Calais was exiting a drive on the south side of the road attempting to turn left. V2 a 1999 Oldsmobile Cutlass was traveling in the left lane headed east. Traffic in the right lane was stopped backed up passed the driveway and was obstructing the view for both vehicles. Traffic in the right lane was backed-up due to a traffic signal, and a vehicle waiting in that line allowed V1 to cross the trafficway where it entered the left lane in the path of V2. V2's front contacted V1's left side. Both vehicles came to rest in the westbound lanes facing north. V1, a 1990 Oldsmobile Cutlass Calais was driven by a 51 year-old male who refused to give an interview. The police report states that he was making a left out of the driveway, the vehicles in the curb lane were waving for him to go. He pulled out to complete his left turn and was struck by V2 in the left side. The Critical Pre-crash Event was coded this vehicle turning left at an intersection. The Critical Reason for the Critical Pre-crash Event is coded drivers inadequate surveillance, because the driver failed to look, before he entered the left travel lane. The driver was taking medication for high blood pressure, asthma and depression. V2, a 1999 Oldsmobile Cutlass was driven by a 50 year-old female who stated she was traveling eastbound when V1 came from her right into her lane. She said that V1 accelerated to try to get out of the way and she applied the brakes and turned to the left. She said she heard that a truck in the right lane waved V1 across from a driveway. The Critical Pre-crash Event was coded other vehicle encroached, from driveway turning into opposite direction. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

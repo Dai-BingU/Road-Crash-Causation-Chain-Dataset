@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a two-lane, divided roadway which was under construction. Lane one in the northbound direction and lane two in the southbound direction were closed to traffic and blocked off by orange construction barrels. Lane two in the northbound direction and lane one in the southbound direction were open to traffic. The roadway had a posted speed of 80 kmph (50 mph) and was on a level grade. The roadway was divided by a curbed grass median. Conditions were dark and dry with clear skies. The setting was mid-evening hours on a weekday. Vehicle one was a 2001 Toyota Corolla sedan traveling northbound in lane two. Vehicle two was a 1997 GMC 338 Chassis Cab medium/heavy truck stopped in lane one, which was under construction. V2 began accelerating and moving into lane two. The front plane of V1 impacted the left plane of V2. V1 rotated counterclockwise and contacted two unknown objects one on the roof and one on the right rear. V1 came to rest facing south in the median. V2 returned to lane one before coming to rest. The Toyota Corolla (V1) was driven by a 42-year old male who was uninjured. He stated that he was running an errand at the store and was returning to a friend's house. He said V2 began pulling into his lane approximately 50 feet ahead of him. He braked and steered left, but was unable to avoid a collision. His estimated travel and impact speeds were 72 kmph (45 mph) and 56 kmph (35 mph), respectively. The Toyota sedan was towed due to damage. The Critical Precrash Event for V1 was "other vehicle encroachment from adjacent lane over right lane line". No Critical Reason was coded to this driver. The driver had diabetes and wears corrective lenses for nearsightedness. He is currently unemployed. Three of his tires were flat upon inspection; the fourth tire was under inflated. The GMC medium/heavy truck (V2) was driven by a 36-year old male who was uninjured. He stated that he had just finished up for the day at his roadwork jobsite and was returning to his company's shop. He pulled over to check something and then began accelerating forward. He claims V1 veered into him at this point. He estimated his travel and impact speeds to be 8 kmph (5 mph). The GMC medium/heavy truck was towed, but not due to police-reported damage. The Critical Precrash Event for V2 was "this vehicle traveling over the lane line on the left side of the travel lane". The Critical Reason was a driver related factor of "poor directional control". The driver saw the other vehicle approaching but lost track of where his vehicle was located on the roadway. This driver was working a high number of weekly hours, having completed 60 hours of work the week prior to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic present problem 
+Vehicle 2:  Driver Stress/Emotion, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

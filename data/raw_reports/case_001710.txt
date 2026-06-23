@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The two-vehicle crash occurred on a six-lane, divided, north/south roadway at the intersection with a two-lane, undivided, east/west roadway. There are three travel lanes for southbound traffic. Both roadways were straight, level, dry and of concrete construction. A stop sign for the eastbound lanes controls traffic at the intersection. The posted speed limit is 56 kmph (35 mph) for north/south traffic and 48 kmph (30 mph) for east/west traffic. Traffic was light at the time of the crash. This crash occurred before sunrise on a lighted road with clear skies. Vehicle one (V1), a 2000 Oldsmobile Alero with one occupant, was eastbound in the first travel lane. Vehicle two (V2), a 2003 Ford F-250 with one occupant, was southbound in the first travel lane. V1 entered the intersection to turn left and the front of V2 impacted the left side of V1. V1 rotated clockwise and came to rest south of the intersection facing south. V2 rotated clockwise, momentarily departed the roadway on the west side, struck a utility pole, continued rotating and partially departed the west side of the roadway and came to rest facing southwest. Both vehicles were towed due to damage. The driver of both vehicles received treatment at the scene. The driver of V1, a thirty-five-year-old male, was heading from home to work. This driver had been driving for about thirteen minutes, drives the route daily and is familiar with the vehicle. The driver stated he had looked to the left and right prior to entering the intersection, but did not see V2. He stated he had been stopped for 3-4 seconds before entering the intersection. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for V1 was coded: driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver of V2, a thirty-six-year-old male, was heading from home to work. This driver had been driving for about four minutes, drives the route daily and is familiar with the vehicle. The driver stated that he first saw V1 approximately 3-4 car lengths prior to the intersection. He stated his cell phone was ringing but he was not using it. The critical pre-crash event for V2 was coded: other vehicle encroachment-from crossing street-turning into opposite direction. The critical reason was not coded to this vehicle. The driver failed to look far enough ahead to detect V1 earlier.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

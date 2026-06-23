@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred mid-morning on an eight-lane, asphalt, straight, physically divided, wet, uphill, interstate highway. The highway generally runs east/west; however, runs southwest/northeast at this location. Westbound traffic consists of four through lanes. The paved shoulder on the south side of the road contains a rumble strip and has a three-foot cement barrier that separates east and westbound lanes. The speed limit on the highway is 105 kph (65 mph) and it was raining heavily at the time. Vehicle one, a 1995 Acura Integra GS-R coupe, driven by a 17 year-old male was traveling westbound in lane two. Vehicle one began to rotate counterclockwise due to the wet roads and crossed all lanes of westbound traffic. Vehicle one entered the paved shoulder and its front contacted the cement barrier. It continued counterclockwise and its right side contacted the same barrier. The vehicle separated from the barrier and continued to rotate counterclockwise. Then its back contacted the cement barrier again as it continued to rotate. The front of vehicle one then contacted the barrier. The vehicle separated from the barrier and came to rest facing south in lane four. Vehicle one was towed due damage. The pre-event movement for vehicle one coded going straight, category this vehicle control loss due to poor road conditions (wet). Critical reason for the critical event driver related factor - too fast for conditions (wet roadway). Additional factor, the rear tires on the vehicle only had 1/32 of an inch tread on both tires.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Driver Stress/Emotion, Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :

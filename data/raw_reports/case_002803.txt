@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred early in the morning during daylight hours at a four-way intersection, which was not physically divided. The east/west roadway consisted of four lanes on the east side, and five lanes on the west side of the intersection. All three vehicles involved were traveling on the east/west roadway, which was controlled by traffic signals in all directions. The bituminous roadway was straight and had an uphill grade for vehicles heading west. The posted speed limit for the east/west roadway was 56kmph (35mph). There were no adverse atmospheric conditions at the time of the crash and the roadway was dry. Vehicle one (V1), a 1999 Nissan Altima, was heading west in lane three intending to make a left at the intersection. Vehicle two (V2), a 1996 Cadillac Deville, was heading east in lane two intending to continue straight through the intersection. Vehicle three (V3), a 1992 Honda Accord, was stopped in lane three, behind V1. As vehicle one proceeded to turn left, the front right of the vehicle made contact with the front left of V2. After the initial impact, V1 was pushed back and spun counter clockwise approximately 90 degrees before the left side of the vehicle made contact with the front of V3. Vehicle one came to final rest in lane three of the westbound roadway facing south. Vehicle two continued forward slightly before coming to final rest in the intersection facing east. Vehicle three was pushed back slightly before coming to final rest in the westbound turning lane not far from where it was struck. Both vehicles one and two had to be towed from the scene due to damage. Vehicle three was able to be driven from the scene, before the researcher's arrival. The driver of V1, a 53 year-old female, did not suffer any injuries as a result of the crash and didn't require any medical attention. There were no other occupants in the vehicle when the crash occurred. She related that she was stopped in the intersection waiting to make a left turn, when the light had turned to yellow. She looked for any oncoming traffic but did not see any. When she proceeded to make the turn, the next thing she saw were the airbags that had deployed. No fatigue or health related issues were coded for this driver and she was fairly familiar with the roadway. The Critical Precrash Event coded to this vehicle was: “this vehicle traveling turning left at intersection”. The Critical Reason was coded as: “inadequate surveillance - looked but did not see”. One associated factor coded for this vehicle was rush hour traffic. The driver of V2, a 62 year-old female, had unknown injuries and was taken to the hospital for treatment. There were no other occupants in the vehicle when the crash occurred. After numerous attempts at trying to contact this driver, an interview could not be obtained. For this reason, it is unknown if any fatigue or health related factors contributed to this crash. The Critical Precrash Event coded to this vehicle was: “other vehicle encroachment from opposite direction, over left lane line”. The Critical Reason was not coded to this vehicle. One associated factor that was coded for V2 was rush hour traffic. The driver of V3, a 52 year-old female, suffered non-incapacitating injuries as a result of the crash, but did not require transport to a medical facility. There were no other occupants in the vehicle when the crash occurred. The driver, as well as the vehicle had already left the scene by the time the researcher arrived. Numerous attempts could not produce an interview, nor could a vehicle inspection be obtained. It is therefore unknown if any fatigue or health related issues contributed to this crash. It is also uncertain if any mechanical problems should have been coded for this vehicle. There was no Critical Precrash Event coded to this vehicle because it was not involved in the first harmful event. Therefore, no Critical Reason was coded for this vehicle. One associated factor that was coded for this vehicle was rush hour traffic.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

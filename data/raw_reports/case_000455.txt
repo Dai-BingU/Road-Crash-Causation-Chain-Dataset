@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred during early afternoon daylight hours at an intersection controlled by a traffic signal with pedestrian controls. The east/west roadway is a four-lane, dry downhill, bituminous roadway that curves to the right for westbound traffic. This roadway intersects with a two-way, two lane, dry, straight, level bituminous roadway that runs north/south. The speed limit for both roadways is 56 kmph (35 mph). There was no detrimental atmospheric conditions or view obstructions at the time Vehicle one (V1), a 2005 Jeep Liberty was traveling westbound in lane one approaching the collision intersection. Vehicle two (V2), a 2002 Lexus RX-300 was traveling southbound in lane one. V2 stopped at the intersection for 5-10 seconds prior to the crash waiting for the traffic control signal to turn green. When it turned green the driver proceeded to cross the intersection and the front of V1 struck the left side of V2. Both vehicles came to rest in the roadway and the driver of vehicle one drove the vehicle to an adjacent lot. Vehicle two was towed from the scene. No one was injured. The driver of V1 was a 21 year old female who was healthy, did not claim any distractions and entered the intersection at a constant velocity. She made no evasive actions to the impact with V2. Based on the crash configuration, the driver entered the intersection on a red light and did not obey the traffic controls The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason for the critical event was coded to V1 as a driver related factor: aggressive driving behavior. V2 was also driven by a 21 year old female. There was one additional front seat male passenger in the vehicle and they were having a social conversation. There were no additional factors for this driver. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Aggressive driving behavior
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

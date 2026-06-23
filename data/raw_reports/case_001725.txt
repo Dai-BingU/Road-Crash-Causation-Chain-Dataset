@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the center of a four-way intersection composed of a 2-lane north/southbound roadway, and an east/westbound 2-lane roadway. The all roadways were bituminous and level; with a posted speed limit of 40 kmph (25 mph). The north/southbound roadway was controlled by stop signs on each corner. It was afternoon on a weekday. The roads were dry and the sky was cloudy. Traffic flow was heavy. V1, a 2003 Ford E-series Van with one occupant, was traveling south when it entered the intersection without observing the stop sign and struck V2 in the front right side. V2, a 2004 Toyota Camry with 1 occupant, was traveling east. As V2 passed through the intersection it was struck on the right side by V1. V1, was driven by a 71-year-old male who reported no injuries, stated that as he approached the intersection he looked but did not see any approaching vehicles, so he proceeded past the stop sign without stopping. V1 attempted to avoid the crash by braking and steering right. The Critical Precrash Event for V1 was “this vehicle traveling-crossing over (passing through) intersection”. The Critical Reason for the Critical Precrash Event was “driver related factor- inadequate surveillance-looked but did not see”. The following associated factor was assigned. Decision errors illegal maneuver- failed to stop for TCD. The Driver of V2, a 66-year-old male, reported a complaint of pain in the chest and was transported. Driver stated to on scene personnel that he was traveling at approximately 40 kmph (25 mph), as he entered the intersection, when V1 ran the stop sign and struck his car. It is unknown if any avoidance was attempted. The Critical Precrash Event for V2 was “other vehicle encroachment-from crossing street, across path”. No Critical Reason was coded to this vehicle. No associated factors were coded to this vehicle ***Case Note: Driver of V2 was advised by legal counsel not to answer interview question. Driver 2 information provided by on-scene personnel and medical transcripts.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

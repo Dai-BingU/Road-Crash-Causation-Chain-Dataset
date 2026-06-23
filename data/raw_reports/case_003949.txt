@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred mid-morning during daylight hours in a rural area on an asphalt 4-lane roadway with an extended median. The southbound roadway consisted of 2 lanes and was separated from the 2 northbound lanes by a shallow uphill embankment 15 meters wide. The #1 lane had a downhill slope of -5.7% and a super-elevation of +4%. The #1 lane is bordered on the right by a dirt shoulder 2 meters wide, then an uphill embankment. It had been raining the entire night before th crash and continued to rain when the crash occurred, standing water was present in some uneven areas of the roadway. The speed limit 104 kph (65 mph). Vehicle one (V1), a 1998 Nissan Altima 4-door sedan driven by a 24 year-old male was traveling southbound in the #1 lane when its front tires contacted a standing puddle of water. V1 began to hydroplane while rotating clockwise towards the embankment. The driver let off the gas pedal and steered left. V1's front tires then regained traction which caused the vehicle to suddenly rotate clockwise more violently and with its front end plane contacted the dirt embankment for a length of 3.5 meters before it separated from the embankment. V1 continued to rotate clockwise one complete time as it returned to the roadway and came to rest in the center of the southbound lanes facing south. V1 was towed due to damage. The pre-event movement coded going straight, category this vehicle control loss due to poor road conditions (standing water). Critical reason coded environment related factor "slick roads (low friction due to water). Contributing factor, too fast for conditions, poor directional control.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Drugs, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- Slick roads (low friction road surface due to ice, loose debris, any other cause)

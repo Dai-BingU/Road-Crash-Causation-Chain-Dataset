@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekday afternoon in the middle of a busy four-way urban intersection. The intersection consisted of an east/west two-lane roadway and a north/south twelve-lane divided roadway (that contained by local and express lanes) controlled by a properly function traffic signal. Both roadways were bituminous, dry, straight, and level. The east/west roadway (where the crash occurred) had a posted speed limit of 64 kmph (30 mph). The traffic flow was heavy through the intersection due to rush hour congestion but there were no adverse atmospheric conditions at the time of the crash. V1, a 1993 Chevrolet Lumina with the driver as only occupant, was eastbound in lane one approaching the intersection where it intended to turn right. V2, a 2004 Honda Civic four door with the driver as only occupant, was westbound in lane two approaching the same intersection where it intended to turn left. V1 and V2 entered the intersection from opposite directions with the intentions of making a turn into the same direction (south). As V2 just began to make a left turn onto the southbound roadway, V1 started its right turn and the front of V2 struck the front V1. Upon impact V2 rotated slightly counter-clockwise and came to its final rest in the intersection. V1 came to final rest at the point of impact. V2 was removed from the intersection due to damage while V1 remained operational and was driven off to the side of the roadway. The driver of V1, a 29-year old male, was (upon researcher's arrival) being placed under arrest for scofflaw violations. The driver of V1 chose not to take part this study. The driver reported no injuries. The Critical Precrash Event for V1 was coded this vehicle traveling, turning right at intersection. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors coded to V1 include over-inflated tires, with insufficient tread depths on three of the vehicle's four tires as well as the rush hour congestion at the time of the crash. The driver of V2, a 72-year old male, was with relatives who were already at the crash scene and was anxious to leave the scene. Subsequent attempts to contact him later went unanswered. He had small amounts of blood on his face, presumably from when the airbag deployed, but the severity of any injuries sustained were unknown. The Critical Precrash Event for V2 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was a driver related factor - type of driver error unknown. The only known associated factors coded to V2 were a tire deficiency (the tread on the tires were worn dangerously low) and the rush hour congestion present at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Traffic, Vehicle present problem 
+Vehicle 2:  Traffic, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning right at intersection
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

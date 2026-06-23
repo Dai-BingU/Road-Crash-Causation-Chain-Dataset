@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash involving two vehicles happened during late afternoon hours. The location was in the four northbound lanes of a freeway divided by a cement Jersey barrier. The roadway was straight, level and rain grooved concrete . In the median area there was on-going road construction to expand the number of travel lanes. There were showers of rain in the entire study area spread during the day. It was not raining at the time of the crash and the roads were wet. Posted speed limit 96 kmph (60 mph). Vehicle one (V1) was a 2000 Ford Focus driven by a 35 year-old male. He was traveling north in the fourth lane of traffic. Vehicle two V2 was a 1995 Dodge Ram Pick up driven by a 61 year-old male. He was traveling north in lane four forward of V1. V2 slowed down and came to a stop. The driver of V 1 applied his brakes, but was not able to stop the vehicle in time due to the weather and road conditions. The front of V1 impacted the rear of V 2. V1 under rode the rear of V2. Both vehicles came to rest in lane four, facing north. V1 was towed from the scene. V2 was driven from the scene. The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason was attributed to V1 as a driver decision factor: too fast to be able to respond to unexpected actions of others. The driver of V1 was driving too fast for rain and wet road conditions when the forward vehicle stopped in the #4 travel lane. The driver of V1 stated he was going about 50 -60 mph (80-100 kph) before he approached a puddle of standing water in the roadway. He slowed down, drove over the puddle of water and speed up again. V2 unexpectedly stopped in front of his vehicle and he could not avoid the collision. The critical precrash event for V2 was coded: other vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle. The driver of V2 stated there was a vehicle in his lane, slowing down to a stop. His vehicle came to a total halt, too. The severity of the under ride indicates the driver of V1 was going too fast for the wet roadway conditions at the time of the crash. The driver of V1 said it was raining at the time of the crash, the driver of V2 said it was not. At the time the crash was dispatched as major crash, the researcher was driving 16-kilometers (10-miles) east of the crash site. No rain was experienced at that moment, but the roadways were wet.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway, Speed/Distance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Roadway, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

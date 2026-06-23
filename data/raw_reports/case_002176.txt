@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred noon during daylight hours. At an intersection controlled by on-colors traffic signal. The roadway is concrete dry and free of defects. There were no adverse atmospheric conditions at that time. The posted speed limit 64 kmph (40 mph). Vehicle one (V1), a 2003 Lexus GS-300 sedan driven by a 38 year-old male, was traveling northbound in the third lane of a four-lane, two-way, divided, concrete roadway without a positive barrier. Vehicle two (V2), a 1994 Cadillac Deville sedan driven by a 27 year-old male was stopped facing westbound in the third left turn lane. The driver of V1 stated he was looking down at a map as he entered the intersection. When V1 entered the intersection, its front struck the left side of V2. V1 rotated counter clockwise and came to rest in the intersection, facing west. V2 rotated clockwise and came to rest in the intersection, facing northwest. V1 and V2 were towed from the scene due to damage sustained in the collision. Neither driver was transported to the hospital for treatment. The 38-year-old male driver of V1 was well rested and unfamiliar with area. It was his first time on this roadway. There was no indication of drug or alcohol use as a factor for this driver. He stated that he did not see V2 until he was in the intersection. He braked and steered to the left, but was unable to avoid the collision. He received no citations. He stated that he was in a hurry because he was late for a business appointment. The critical pre-crash event for V1 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason for the critical event was attributed to V1 and was coded as a driver related factor: internal distraction. This coding was chosen based on the statement of the driver that he was looking at a map as he entered the intersection. The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street - across path. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Stress/Emotion, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

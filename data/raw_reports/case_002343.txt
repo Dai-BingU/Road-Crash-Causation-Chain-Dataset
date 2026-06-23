@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a barrier divided urban north/south interstate that carries 60,967 vehicles per day on its six lanes based on 2002 traffic counts. Southbound the interstate had three lanes and shoulders with the right lane being an exit only lane between interchanges. The interstate makes a sharp curve to the right as it travels southward with a radius of 281.5m and has a speed limit of 89kph (55mph). The curve initially has +2% grade with 4% superelevation to the right, before beginning a -2% downhill grade and 8% superelevation to the right. The area is notorious for crashes during inclement weather and the interstate has grooves cut into the pavement in the curve to increase traction. Conditions were dark, wet and raining on a weekday evening. Vehicle #1 was a 1997 Acura 2.2CL traveling southbound in the center lane. Near the apex of the curve the driver lost control and began to fishtail on the wet pavement. The driver attempted to steer to the right before overcorrecting to the left and rotating counterclockwise. The Acura departed the travel lanes and struck the center barrier wall with its front. The vehicle continued to rotate counterclockwise and struck the wall again with its right back corner. It came to rest facing west in the southbound emergency lane and left travel lane against the wall. The driver of Vehicle #1 was a 20-year-old male college student. He was belted with deployed frontal airbags and refused medical treatment. The driver was familiar with the vehicle and reportedly traveled that section of the interstate a couple times a week. He told researchers and police that a tractor-trailer in the left lane beside him began to change lanes to the right towards his vehicle forcing him to slow and steer right to avoid a collision and eventually lose control. He was unable to give any sort of description of the truck so the researcher feels it was a 'phantom vehicle'. The Acura's tires had adequate tread and pressure and the wipers were in use on the low constant setting. The vehicle was towed from the scene with moderate damage. The Critical Precrash Event was this vehicle loss of control due to traveling too fast for conditions. The Critical Reason for the Critical Event was poor directional control, a performance error. Associated factors were rain, wet road, and too fast for conditions.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

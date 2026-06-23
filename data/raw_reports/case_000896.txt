@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a 2-way, 5 lane, divided, urban, asphalt roadway. The road is straight and level and has three eastbound lanes, which includes a left turn lane. Travel lanes were dry, free of congestion/sight restrictions, and road deficiencies at the time of the collision. The posted speed limit is 72 kmph (45 mph). The crash involved vehicle one (V1), a 2000 Peterbilt Model 379 straight dump truck that was pulling a dump trailer; and vehicle two (V2), a 2001 4 door Oldsmobile Alero. Both vehicles were eastbound, V1 traveling in lane two and V2 traveling in lane one adjacent to V1. The driver of V1 attempted to change lanes to lane one and did not detect V2 located to the right front of V1. V2 was slowing down to make a right turn at the next intersection. As V1 changed lanes, the front right corner and bumper of V1 contacted the left front of V2. The right front of V1 then side swiped the left passenger side of V2. V2 then departed the road to the right where the front left struck a street sign and the front right struck a wooden utility pole. V1 then rotated clockwise and the rear of the vehicle re-entered the roadway where the leading edge of the first set of tires on the trailer struck the right rear of V2. V2 came to rest facing north adjacent to the intersection. V1 came to a controlled stop in lane one past the intersection. V2 was towed while V1 was driven from the scene. The driver of V1 is a 62 year-old male who has been driving trucks for 40 years. He is familiar with the vehicle and the route traveled. He was attentive to the driving task, however he could not see V2 as it was in his blind spot near the right front corner. The driver claimed he checked his mirrors and did not detect any vehicles as he attempted to change lanes to his right. He heard and felt something and when he checked his right outside mirror, he saw V2 bounce off the wooden utility pole and the tires from his trailer strike the vehicle. The critical pre-crash event for V1 was coded: this vehicle traveling, over the lane line on right side of travel lane. The critical reason was coded to V1 as a vehicle related factor: other vehicle failure (specified as: lack of front mirrors). The driver was attentive and checked the available mirrors before attempting to change lanes. V2 was in his blind spot and was undetected. Mirrors located in the front of the vehicle would have helped prevent this crash. The critical pre-crash event for V1 was coded: other vehicle encroachment; from adjacent lane (same direction) - over left lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Performance, Surveillance, Vehicle present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Other vehicle failure (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

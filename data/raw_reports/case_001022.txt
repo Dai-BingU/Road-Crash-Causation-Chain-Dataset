@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a three-lane, divided, urban roadway with a concrete median. There were three northbound lanes, one divided left turn lane, and three southbound lanes. The roadway had a posted speed of 89 kmph (55 mph) and an uphill grade of 3 percent in the northbound direction. Conditions were daylight and dry with clear skies. The crash occurred in the early afternoon hours of a weekday. Vehicle one was a 1992 Toyota Cressida. V2 was a 2002 Ford Explorer Sport Trac pickup. V1 was traveling northbound in lane one approaching a crossing intersection, intending to continue straight through the intersection. V2 was traveling southbound in a left turn lane preparing to cross the northbound lanes. Both vehicles proceeded into the intersection. The front of V1 struck the right side of V2. The vehicles then rotated and side slapped, such that the left of V1 struck the right of V2. Both vehicles came to rest in the northbound lane one. V1 was driven by a 77-year old female who was transported to a local hospital with possible injuries. She stated that the other vehicle was suddenly in her lane, and she slammed on the brakes. She estimated her travel and impact speeds to be 20 and 15 mph. V1 was towed due to damage. The Critical Pre-crash Event for V1 was other vehicle encroachment from the opposite direction over the left lane line. No Critical Reason was coded to this driver. An associated factor was this driver's infrequent travel of this roadway. The driver was taking vitamins and two prescription medications for high blood pressure and thyroid hormone replacement. V2 was driven by a 27-year old female who was reported to have non-incapacitating injuries, but was treated on the scene. She stated that she was turning left across traffic and was struck. There was a bit of a language barrier for this interview. She estimated her travel and impact speeds to be 5 mph. V2 was not towed due to damage. The Critical Pre-crash Event for V2 was this vehicle turning left at intersection. The Critical Reason was an unknown driver error. Associated factors included no driver's license, first time driving this vehicle, and first time driving this roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Drugs present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Unknown
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three vehicle daytime crash occurred during daylight morning hours in the number one lane of an urban, southbound, two lane, one-way expressway. The pre-crash roadway is a partially enclosed underpass, was straight, level, and of concrete construction. The posted speed limit for the roadway was 97 kmph (60 mph). A combination of outside and artificial light illuminate the roadway. The roadway was congested with rush hour commuting traffic, but there were no adverse weather conditions, sight restrictions or road defects present at the time of the crash. Vehicle one (V1), a light gray 1996 Honda Accord 4 door, driven by a 24 year-old male was traveling southbound in lane one. Vehicle two (V2), a silver 2000 Toyota Celica 2 door, driven by a 28 year-old male was stopped in lane one. Vehicle three (V3), a 1995 Freightliner pulling an unloaded flatbed trailer driven by a 34 year-old male were all southbound in the number one lane. V3 had stopped for stopped traffic ahead. V2 came to a stop behind V3. V1 did not stop and the front of V1 collided with the back of V2, which was propelled forward by the impact and the front of V2 collided with the back of the V3's trailer. V1 and V2 were towed due to damage; V3 was driven from the crash scene. The V2 driver, stated that when he looked in his rear view mirror, the V1 driver was looking down at something. The V1 driver stated that he was looking down at his cell phone to check the time and when he redirected his attention to the roadway, he did not have time to brake to avoid the collision but did steer to the left as an avoidance maneuver. The V1 driver's military employment causes him to work varied and sometimes long hours. In the past 7 days he did not work a long number of hours overall, but had worked as long as 7 hours in a single day. At the time of the crash, he was on his way to visit family and had been driving for approximately an hour and a half. These factors, considered together, may have been a source of mental fatigue and contributed to inattention. The critical pre-crash event for V1 was coded: other vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: internal distraction. The V1 driver stated that he was looking down at his cell phone. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical event was not coded to this vehicle. V3 was not involved in the first harmful event. The critical reason for the critical event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Stress/Emotion, Speed/Distance, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

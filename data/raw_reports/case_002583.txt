@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lane of a two-lane non-physically divided north/southbound roadway. The asphalt roadway was dry, level, and there were no adverse weather conditions. The posted speed limit was 56 kmph (35mph). The crash occurred at an intersection of a one-way street heading west. It was nighttime and the roadway was light by overhead streetlights. The crash occurred during the middle of the week and the traffic was consistent. V2, a 1994 Oldsmobile 88 Royale LS, left its parking position, on the right side of the road, entered the roadway drove approximately 100 feet and suddenly stopped to make a left hand turn onto an intersecting small street when it was struck in the rear by V1, a 1989 Dodge Ram van with its front end. The driver of V1, 40year old male, states that V2's sudden stop, happened so suddenly that he was unable to stop in time. The impact by vehicle #1 pushed V2 several feet beyond its intended left turn intersection. The driver of V1 said that his travel speed was 40 kmph (25 mph) and that he could see the vehicle clearly and wasn't sure if his full attention was on the roadway, He may have looked for a moment at the vehicles radio. The Critical Pre-Crash Event was coded other motor vehicle in lane other vehicle stopped. The Critical Reason for the Critical Pre-Crash Event was coded decision error - too fast to be able to respond to unexpected action of others. The driver of V2, a 28 year old female, said that her travel speed was less than 32 kmph (20 mph) because she new her intended turn and was familiar with the roadway. She also stated that V1 was probably traveling too fast although she didn't see V1's approach from behind. The Critical Pre-Crash Event was coded this vehicle traveling turning left at intersection. The Critical Reason was not coded to this vehicle. She was taking medication for seasonal allergies that had possible side effects of drowsiness, fatigue and dizziness.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Leaving a parking position
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

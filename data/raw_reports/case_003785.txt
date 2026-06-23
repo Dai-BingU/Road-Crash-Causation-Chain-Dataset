@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at the intersection of a four lane median divided road and a two lane one way interstate frontage road that travels between entrance/exit ramps. The intersection was controlled by a traffic signal. The four-lane road travels north/south and was straight with a slight grade and a speed limit of 48kph (30mph). Conditions were daylight and dry during a weekday rush hour. Vehicle #1 was a 1999 Mazda 626 traveling south on the four-lane road in the left turn lane. Vehicle #2, a 2000 Chevrolet S-10 pickup, was northbound in the right lane. Vehicle #1 attempted to turn left to go east on the two lane interstate frontage road and its left front was struck by the front of Vehicle #2. After impact, the Mazda (V1) rotated 90 degrees counterclockwise and came to rest partially off the northeast corner of the intersection facing northeast. The S-10 pickup (V2) came to rest facing north in the northeast corner of the intersection just north of impact beside Vehicle #1. Both vehicles were towed due to damage and no injuries were reported. Vehicle #1 was driven by a 26-year-old male that was belted with no frontal airbag deployment. He was very familiar with the roadway and the vehicle. In the interview he stated that the light was green as he approached and that he only came to a rolling stop before attempting the left turn. He believes he misjudged the pickup's (V2) speed. Interestingly, midway through the intersection Vehicle #2 honked its horn as it approached and Vehicle #1's driver said he reacted by slamming on his brakes as opposed to accelerating on across the intersection. Police charged him with failure to yield. The Critical Precrash Event for Vehicle #1 was this vehicle turning left at intersection. The Critical Reason for the Critical Event was a decision error, misjudgement of gap or others speed. Associated Factors included misjudgment of velocity of other vehicle, and an emotional factor (the driver had broken up with his girlfriend that day). Some factors not thought to contribute to the crash were the drivers corrected vision and participation in strenuous recreational activities. Vehicle #2 was operated by a 42-year-old male that was belted. Initially, a female occupant claimed to be driving the vehicle, but a witness told police that the male was driving at the time of the crash. The driver refused a blood alcohol test, failed the field sobriety test and was charged with DUI. In observing police administer the test the driver didn't appear to be flagrantly intoxicated, but had obviously been drinking. The EDR data was retrieved from the pickup and indicated that it was traveling 55kph (34mph) five seconds prior to algorithm enable with no braking. The pre-graph data shows that the brakes were applied between two and three seconds prior to AE with the vehicle still traveling 56kph (35mph). Vehicle #2's speed dropped to 14kph (9mph) at one second prior to AE. Maximum velocity change in the deployment event was 21kph (13mph). The passenger airbag did not deploy, its switch was in the off position. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. The only known associated factor was alcohol presence; the driver could not be located for a follow up interview
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Stress/Emotion present problem 
+Vehicle 2:  Alcohol present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

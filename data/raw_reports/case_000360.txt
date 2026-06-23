@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the southbound lanes of a two-way, five-lane, undivided roadway. There were two southbound lanes, two northbound lanes, and a center two-way left turn lane. This was a straight, level, bituminous roadway with a posted speed of 64 kmph (40 mph). Conditions were early morning daylight, with dry roads and clear skies. Traffic flow was normal. V1, a 1996 Chevy C1500 pickup truck with one occupant, was traveling southbound in lane one. The driver lost control of the vehicle, traveling off the right side of the roadway. The front right side of the vehicle sideswiped some hedges. As the vehicle continued to travel southbound, the front left side of the vehicle sideswiped a wooden utility pole. The truck continued to travel southbound, into an empty parking lot. The front of the vehicle struck some more hedges, where it then stopped. The vehicle was towed due to damage. The driver was transported to the hospital, but not due to injuries. V1, the Chevy pickup truck, was driven by an 18-year old Black male who reported no injuries. He advised that he was heading home from dropping his father off at work. He stopped in the far right lane of an intersection for a traffic light. When the signal turned green, he began to accelerate. The driver stated that he suddenly lost consciousness due to an epileptic seizure. He could not recall any of the crash events. A witness to the crash approached the vehicle and turned off the ignition. The Critical Precrash Event for V1 was this vehicle traveling off the edge of the road on the right side. The Critical Reason for the Critical Event was a critical non-performance error, physical impairment of the ability to act. Specifically, the driver lost consciousness due to an epileptic seizure. It had been approximately one year since the driver had experienced a seizure. He takes Carbamazepine to control his condition. However, his prescription had run out two weeks prior, and he had not refilled the medication. There were no associated causal factors assigned to the driver. His lack of driving experience and possible fatigue did not contribute to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act

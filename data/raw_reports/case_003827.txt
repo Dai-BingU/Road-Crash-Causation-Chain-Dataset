@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekday in the middle of a suburban “T” intersection. The intersection consisted of an east/west two-lane roadway, and a north/south two-lane roadway (that terminated at the intersection) controlled by a properly functioning traffic signal. Both roadways that formed the intersection were bituminous, dry, straight, and level with posted speed limits of 56kmph (35mph). Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash V1, a 2006 Chevrolet Cobalt, was stopped in the eastbound lane, waiting to make a left turn at the intersection. V2, a 1995 Chevrolet Blazer, was westbound in lane one, approaching the same intersection where it intended to continue straight. As V1 turned left the front of V1 contacted the left side of V2. The impact caused V2 to rotate clockwise and roll right one-quarter turn before coming to final rest in the westbound lane on its right side. V1 rotated slightly counter clockwise before coming to final rest near the point of impact. Both of the vehicles had to be removed from the scene due to damage. The driver of V1, a 63 year-old female, did not suffer any injuries and did not require any medical attention. There were no other occupants in the vehicle when the crash occurred. After numerous attempts an interview could not be obtained with this driver. For this reason, it is uncertain whether any fatigue or health related issues contributed to this crash. The Critical Precrash Event for V1 was coded as this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was coded as a false assumption of other driver's actions. This was chosen based on the driver's statements to police where she thought V2 would yield the right-of-way as the traffic light turned yellow. In addition to the false assumption, proceeding with insufficient clearance was coded as an associated factor. The driver of V2, a 36 year-old male, did not suffer any injuries as a result of the crash, and did not require any medical treatment. There were no other occupants in the vehicle when the crash occurred. A partial interview was conducted with this driver while on-scene. He stated that he was intending to continue through the intersection when the other vehicle made a left, striking his vehicle. The Critical Precrash Event for V2 was coded other vehicle encroachment, from opposite direction over left lane line. The reason for the Critical Precrash Event was not coded to this vehicle. There were no associated factors coded to V2 and the driver was not thought to have contributed to this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

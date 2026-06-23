@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary A two-vehicle head-on crash occurred mid-afternoon during daylight hours on a two-lane non-divided asphalt constructed roadway. This roadway is in a rural area with various grades and curves. At the area of this crash the roadway has a crest with up-hill grades for both directions. The posted speed limit is 89 kmph (55 mph) in for both directions. There are posted warning signs indicating this curve. good visibility and no adverse weather conditions. Vehicle one (V1) a 1995 Geo Metro 4 door sedan driven by a 28 year-old male was third in line of vehicles traveling west and had just crested this grade. Just after this crest the roadway curves right for westbound traffic. As the line of vehicles crested this grade V1 steered left and across the centerline to pass the vehicles in front. As V1 entered into the eastbound travel lane in contacted the front plane of Vehicle two (V2) a 1990 Isuzu pick-up driven by a 51 year-old male with two passengers with its front plane. V1 then rotated clockwise and came to a rest in the eastbound travel lane heading in a southwesterly direction. The driver of V1 stated that he was trying to pass the vehicles in front of him and that as he moved across the centerline that a vehicle suddenly appeared in front of him. He stated that he tried to steer back into the westbound lane but was unable to avoid V2. V2 after the impact with V1 came to rest facing northwest on the shoulder. Both vehicles were towed for disabling damage. The critical pre-crash event for V1 was coded: this vehicle traveling over the lane line, on the left side of travel lane. Critical reason driver related factor "Illegal maneuver". The driver was hung-over and fatigued due to just 3 hours of sleep. The roadway curved right with the sight line restricted. Medical records indicate the driver tested for blood alcohol with a BAC result of 0.234. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in opposite direction. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Alcohol, Decision, Distraction, Driver Fatigue, Speed/Distance, Surveillance present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Passing or overtaking another vehicle
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Motor Vehicle in Lane- Traveling in opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred at the intersection of a five lane, east-west roadway and a driveway. The east west roadway has two lanes in either direction with a two-way center turn lane. The east west road is straight and level with no defects. The driveway is exiting an apartment complex. There are no traffic control devices for the driveway. This crash occurred during daylight hours with no adverse atmospheric conditions. The speed limit on the east west road is 56 kmph (35 mph). Vehicle one (V1), a 2000 Honda Accord was southbound in the driveway. Vehicle two (V2), a 1996 Ford Taurus, was westbound in the second lane. V1 was stopped waiting to turn left. A non-contact vehicle in the number one lane of the Eastbound roadway stopped to the left of V1 and waived V1 to turn left. The front of V1 impacted the right side of V2. V1 was not towed due to damage. Vehicle two was towed due to damage. None of the occupants were transported for injuries. The driver of V1, a twenty-five year old female, was just leaving the apartment complex enroute home. The driver had stopped at the intersection for about five second when the non-contact vehicle stopped to wave her through. The driver of V2 indicated that she thought that the non-contact was turning right into the driveway. The driver of V1 indicated that she did look left and right and proceeded. This driver drove this road daily and in this vehicle daily. This driver had three occupants in the vehicle. The driver of V2, a forty-seven year old male, was driving home from shopping. This driver had seen the non-contact vehicle stop but could not see V1. This driver drove this road daily and in this vehicle daily. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the pre-crash event was attributed to V1 and was coded as a driver related factor: turned with an obstructed view. The critical pre-crash event for V2 was coded: other vehicle encroachment; from driveway, turning into opposite direction. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Starting in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

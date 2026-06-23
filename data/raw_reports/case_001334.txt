@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred in the afternoon of weekday on an interstate highway. The bituminous roadway had 5 northbound lanes and 3 southbound with a grass median and cable guardrail separating the two directions. Near the location of this crash there was a two-lane interchange ramp that dumped all westbound traffic onto the northbound lanes. The roads were flat, dry and straight. The conditions were clear, dry, daylight. The posted speed limit was 105 kmph (65 mph). V1, a 2004 Ford Mustang with one occupant, was northbound in lane 3 intending to go straight. A non-contact 2004 Ford E350 box truck was northbound in lane 2 of the ramp intending to merge left. The truck merged across V1's path and the driver of V1 swerved into the grass median where it struck a cable guardrail. V1 never made contact with the truck. V1 was towed from the scene due to disabling damage. The driver of V1 was a 48-year-old female who had left her office during her lunch break and was driving to the utility company to pay her monthly bill when she was involved in this crash. She reported that she was driving west in lane one approaching an entrance ramp when a white box truck, traveling on that entrance ramp, cut in front of her and caused her to spin out of control. She said she saw the truck merging into her lane so she also began to change lanes, but the truck kept moving across the lanes and she had to make an aggressive steer to the left. She said she drove into the grass median while spinning counterclockwise and could not stop before crashing into the guardrail. The Critical Pre-crash Event for V1 was coded this vehicle traveling off the edge of the road on the left side. The Critical Reason for the Critical Event was coded incorrect evasive action. It was believed that the driver of V1 could have prevented the crash by braking rather than subsequent lane changes. Associated factors coded to the driver include the use of prescription medication to control high blood pressure and poor directional control.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Incorrect evasive action

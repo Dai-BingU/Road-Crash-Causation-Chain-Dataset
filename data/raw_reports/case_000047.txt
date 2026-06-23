@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary Case #2005-45-119 The crash occurred on an east/west rural four-lane highway. The highway had two travel lanes and a right shoulder in each direction divided by a grass median. A two-lane residential side street controlled by a stop sign intersected from the north and there was a crossover in the median at the intersection. The road had a -3 percent grade from east to west on the east side of the intersection and a +2 percent grade on the west side of the intersection. Conditions were dry at dawn on a weekday morning. The posted speed limit on the highway was 89kmph (55mph). Vehicle #1 was a 1999 GMC K-1500 Series Sierra pickup traveling westbound on the highway. Vehicle #2, a 2000 Oldsmobile Intrigue, was westbound in the left lane ahead of the pickup (V1). Vehicle #1 was initially traveling in the right lane, but changed to the left lane due to a slower moving non-contact vehicle that made a right turn from the side street into the right westbound lane. Soon after Vehicle #1 completed the lane change, a separate non-contact vehicle that was westbound in the left lane ahead of Vehicle #2 slowed to make a left turn at the crossover. Vehicle #2 decelerated until the non-contact car made the turn and began to accelerate again. Approximately two seconds later (based on edr data) the pickup (V1) rear-ended the Oldsmobile (V2) just west of the crossover. Vehicle #1 was driven away, but Vehicle #2 had to be towed due to damage. Vehicle #1 was driven by a 30-year-old male that was belted and uninjured with no deployed airbags. He stated traffic slowed immediately after he changed lanes to the left and he could not slow in time to avoid a collision. The Critical Precrash Event for Vehicle #1 was other vehicle in lane traveling in same direction while decelerating. The Critical Reason for the Critical Event was a decision error, too fast to be able to respond to unexpected actions of others. Associated factors included inadequate surveillance, failed to look far enough ahead. Too fast for conditions, reason unknown, was also coded. Vehicle #2 was operated by a 27-year-old male that was belted and uninjured with no deployed airbags. EDR data was retrieved from the vehicle and indicated 5 seconds prior to algorithm enable it was traveling 80kmph (50mph) with brakes on. The brakes status switched to off and the throttle engaged between -3 and -2 seconds prior to AE, with the vehicle slowed to 61kmph (38mph) -2 seconds prior to AE. At -1 second Vehicle #1's speed had increased to 85kmph (52mph). The Critical Precrash Event for Vehicle #2 was other vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. Vehicle #1 did not have any associated factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

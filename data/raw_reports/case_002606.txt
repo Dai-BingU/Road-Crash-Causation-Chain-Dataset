@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in a residential area at an intersection consisting of a two lane, unmarked, north/south, undivided road where the southbound lane had a negative grade of 8% with no traffic controls. The cross street runs east\west, and was also a two lane, undivided and unmarked road but level with stop signs on the approaches to the intersection coming from either direction. Both roads had posted speed limits of 40kph (25mph) and were both straight. Conditions were daylight with light snow flurries but dry pavement. The crash occurred in the morning hours on a weekday. Vehicle #1 was a 2002 Chevrolet Tracker traveling in the eastbound lane of the cross street with a stop sign. Vehicle #2 was a 1991 Mazda 626 traveling southbound with no traffic controls. Vehicle #1 passed through the intersection and Vehicle #1 struck Vehicle #2 on the right side on the rear passenger door and right rear wheel. Vehicle #2 then spun approximately 210 degrees clockwise and came to final rest in the southbound lane facing northeast about 15 meters south of the intersection. Vehicle #1 was moved away from final rest before the researcher arrived on scene. Vehicle #1 was driven by a 48 year old female who was belted, uninjured and refused any treatment by EMS. She stated that she knew she had gone through the stop sign without noticing it or even slowing down. She also stated that this was her first time on this roadway and while not lost was not at all familiar with the area. She guessed she was doing the speed limit. Vehicle #1 was driven from the scene with no airbags deployed. The driver of Vehicle #1 was charged with disregarding a stop sign. The Critical Precrash Event for Vehicle #1 was this vehicle traveling/crossing over (passing through) intersection. The Critical Reason was recognition error, inadequate surveillance, as she did not see the stop sign. Other associated factors assigned to Vehicle #1 include the driver takes antidepressants due to diagnosed depression, some of the possible side effects are dizziness, migraines, rapid heart rate, anxiety, tremors and nervousness. The driver wears bifocal lenses, and has never been on that road or in that part of town before. Vehicle#2 was driven by a 26 year old female who was belted but was transported by EMS to a local hospital for minor injuries. There were 2 other occupants in the vehicle both belted and uninjured. The driver stated that she saw the other vehicle and assumed it would stop at the stop sign and really did not have time to react except that she hit the brakes and steered left at impact. She said she was traveling at about 48kph (30mph). Vehicle #2 was towed from the scene due to damage and had no airbags. The Critical Precrash Event for the Mazda was other vehicle encroachment from crossing street, across path. The Critical Reason for the Critical Event was not coded to Vehicle #2. Some associated factors were that the driver may have been somewhat inattentive due to the fact that she was to attend the funeral of a loved one later in the day and was in a hurry due to being late bringing her brother to school.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Physical, Driver Stress/Emotion, Drugs, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Decision, Driver Stress/Emotion, Drugs, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

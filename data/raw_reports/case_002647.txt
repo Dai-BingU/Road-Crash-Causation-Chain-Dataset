@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred just after the noon time hour where the entrance ramp from a north/south interstate merges with the eastbound lanes of another interstate. The ramp had a 5% down hill grade with a 160.9 radius of curvature to the right. The eastbound lanes were straight and level. It was lightly raining and the roadways were wet. The speed for the ramp was posted at 113 kmph (70mph) with an advisory speed of 64kmph (40mph) and the interstate lanes had a speed of 113 kmph (70mph). As V1, a 1997 Pontiac Grand Am, was negotiating the right curve of the ramp (traveling between 51-60 mph) it lost control and began rotating clockwise. The driver then attempted to regain control which caused his vehicle to rotate counter-clockwise crossing the two lane lines to the left before contacting the right rear corner of V2, a 2000 Jeep Cherokee. V2 rotated clockwise one complete rotation swerving across three lanes of traffic before coming to final rest off the road in the ditch on the south side of the interstate. V1 after contacting V2 rotated clockwise and then contacted the center median wall with the front of the vehicle. Then rotated counter-clockwise to contact the median wall with the right back corner of the vehicle before rolling to final rest in lane two of the interstate. V1 was driven by a 20 year-old male in very good health on his way home from a relative's house. The driver stated as he negotiated the down hill curve the rear of his vehicle rotated clockwise and as he attempted to counter steered he lost control of his vehicle crossing all lanes of travel to contact V2 then contacted the center wall of the interstate. The driver was uninjured and his vehicle was towed due to damage. The Critical Pre-crash Event for V1 was coded this vehicle control loss due to traveling too fast for conditions. The Critical Reason for the Critical Event was coded as a driver related error- decision Error, too fast for conditions (too fast on a wet, curved road). The associated factors were the speed of the vehicle, the wet roads, and low tread depth of the rear tires. V2 was driven by a 36 year-old female in good health that was traveling home with the other occupant of the vehicle. She stated they had been on the road for about 11/2 hours. She stated that she never saw the other vehicle coming until it was too late and did every thing she could to keep her vehicle under control. No injuries were suffered and V2 was able to be driven from the scene once it was pulled from the ditch back onto the road. The Critical Pre-crash Event for V2 was coded as other vehicle encroachment from adjacent lane (same direction) - over right lane line. The critical reason for the critical even was not coded to this vehicle. The only associated factor coded to this vehicle the driver's inexperience with the road as she stated she only drove it rarely.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+Vehicle 2:  Driver Inexperience, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Merging
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

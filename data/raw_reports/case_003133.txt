@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary The crash occurred in an intersection, controlled by a traffic light. The north/south roadway was a two-way, eight-lane street divided by a curbed median. The roadway leading eastbound into the intersection was a two-way, three-lane undivided street. The posted speed for north/south traffic was 72kmph (45mph). The roads were slightly curved, level, and made of asphalt. Conditions were dark with streetlights on a weekday evening. Skies were clear and the roadway was dry. Traffic flow was normal. V1, a 2002 Nissan Xterra with one occupant was traveling northbound in lane five (left turn lane). V2, a 2002 Ford Explorer with four occupants, was traveling southbound in lane two. V3, a 2003 Toyota Camry with two occupants, was stopped at the traffic light, facing eastbound in lane two. All three vehicles were approaching the same intersection. V1 attempted to make a u-turn in the intersection. The front of V2 struck the right side of V1. V1 then rolled two quarter turns as it began to travel in a southwest direction toward V3. V1 made minor contact with V3 before coming to final rest on its rooftop. V1 was driven by a 41-year old male, who refused treatment. He stated that he picked up a few groceries and was heading home. He turned north out of the paring lot and immediately got into the left turn lane. He said that even though his light was green, he had to wait for southbound traffic to clear. When his light turned yellow, he could see that southbound traffic was slowing down, so he started to make a left turn (it was determined that he was actually making a u-turn). According to the driver, he assumed that all southbound traffic was coming to a complete stop. He did not see or hear V2 until impact. The Critical Precrash Event for V1 was coded this vehicle traveling, over the lane line on left side of travel lane. The Critical Reason for the Critical Event was a decision error, false assumption of other's actions. The driver falsely assumed that all oncoming traffic in the southbound lanes was coming to a halt. An associated factor for this driver was an illegal maneuver. There was a clearly posted "No U-Turn" sign at the intersection. V2, the Ford Explorer, was driven by a 37-year old female, who refused treatment. She stated that she had just come from the movies with her children. Like V1, she had turned north out of the parking lot. However, she traveled north for two blocks before finding a location where she could make a legal u-turn. She then began to head southbound. She said that as she approached the intersection, she could see V1 make what appeared to be a u-turn. She initially thought he might make it. She slowed a bit and honked her horn. When the other vehicle hesitated, she knew she was not going to be able to avoid the collision. She pushed down harder on the brakes and braced herself for impact. The Critical Precrash Event for V2 was coded other vehicle encroachment, from opposite direction over the left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. The associated factors were the presence of a social conversation between the driver and her children. Also an inadequate evasive action of insufficient braking, the driver recognized the impending danger, however failed to brake sufficiently to prevent the crash or lessen the severity. V3, the Toyota Camry, was driven by a female of unknown age, who was not injured in the crash. The driver could not be reached for interview as the vehicle was driven away before the researcher's arrival. She was not involved in the first harmful event, and was not thought to have contributed to the crash. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision, Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

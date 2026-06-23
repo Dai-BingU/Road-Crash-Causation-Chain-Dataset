@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred during early evening hours at a controlled intersection with a tri-color traffic signal. The road surface was dry and it was dark but lighted. The posted speed limit is 64 kmph (40 mph). There were no adverse atmospheric conditions at the time. Vehicle one (V1) a 2002 Cadillac Escalade SUV was traveling southbound in the left turn lane of a seven lane, divided roadway without a positive barrier. Vehicle two (V2) a 2000 Chevrolet Corvette coupe was traveling northbound in the second lane of the same seven-lane roadway. The roadway curves to the left for the driver of V2. Traffic at the intersection is controlled by control signals (on colors) that were functioning at the time. V1 was attempting a left turn, there is a protective turn arrow, and then a green light that means she must yield the right-of-way to oncoming traffic before proceeding with the left turn. According to a witness the light was green for V2. V1 while making the left turned crossed the path of V2 and was struck on the right side by the front of V2. V1 then rolled onto it's left side and, slid eastward, struck a curb, tripped back to an upright position and came to rest in the roadway. V2 came to a stop in the right lane of its original travel direction past the intersection. Both vehicles were towed from the scene due to damage sustained in the collision. The driver of V1 is a 31 year-old female with a current and valid driver's license. The license has no endorsements and the restriction was complied with. She had taken a defensive driving course. She is familiar with the vehicle and drives the route daily. She is employed as a nurse and works 12 hour shifts three days a week. She was on her way from work when the crash occurred. She wears corrective lens to correct for a myopic condition. She claimed to be in good health, not taking any medication, not conversing, had not been involved in any arguments and had no hearing deficiency. She had slept nine hours the night before and had not been involved in any strenuous activities. She claimed to be attentive to the driving task and not distracted. During the interview, the driver stated she was stopped at the intersection waiting for the green arrow. She stated she had been stopped for more than 10 seconds. She saw V2 approaching, started her left turn, heard an engine revving up, accelerated, let off gas and got hit. She claimed she had the right-of-way. The driver of V1 approached the intersection, was not stopped prior to attempting a left turn, saw V2 approaching, accelerated to complete the left turn and the vehicle was struck on the right side. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded as a driver related factor: misjudgment of gap or other's speed. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred mid-afternoon on a six-lane, dry, median divided, bituminous, uphill, roadway that runs east to west and intersects with a two-lane, dry, level, bituminous roadway that runs north to south. The intersection was controlled by a stop sign. There were no adverse atmospheric conditions at the time of the crash. Vehicle one, a 1998 Ford contour was driving north at 24 kmph (15 mph) and attempting to turn left and go westbound. Vehicle two, a 2004 Toyota pickup was traveling westbound at 56 kmph (35 mph) in lane three of the westbound side of the roadway. Vehicle one turned left and its right plane was impacted by vehicle two. Post impact, vehicle one rotated counterclockwise and came to rest on the median facing south. Post impact, vehicle two continued on its pre-crash path and came to rest facing west in lane one. The driver of vehicle one was a healthy, unlicensed 18-year-old male who was familiar with the vehicle and the roadway. The driver of vehicle one was unemployed and maintained a regular sleep schedule of 9 hours per night and was rested at the time of the crash. There were four occupants in vehicle one at the time of the crash, two young adults and two infants. Vehicle one's driver stated that he was talking to the occupant in right front seat just before impact. He stated that as they were pulling into the intersection the other occupant told him to watch out for the truck. The driver of vehicle two was a healthy 35-year-old male. He was on a work related trip delivering paper products. The critical pre-crash event for vehicle one was coded as "this vehicle traveling: turning left at intersection". The critical reason for the critical pre-crash event was attributed to vehicle one and was coded as "Driver related factor: inadequate surveillance". This driver stated in his interview that he looked left and saw that the light was red and thought he could go. This driver never looked to the right. The critical pre-crash event for vehicle two was coded as "other vehicle encroachment: from crossing street, turning into same direction". The critical reason for the critical pre-crash event for vehicle two was coded as "not coded to this vehicle".
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into same direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

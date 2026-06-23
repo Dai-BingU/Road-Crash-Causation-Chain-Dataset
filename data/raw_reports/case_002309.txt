@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of two roadways. The east/west street was a two-way, seven-lane roadway divided by a concrete curbed median. There were no traffic controls for east/west traffic. The north/south street was a two-way, two-lane undivided roadway controlled by a stop sign. Conditions were daylight on a weekday afternoon with dry roads and clear skies. Traffic flow was normal. Posted speed for the roadway was 56 KPH (35 mph). Vehicle 1 was a 2004 Mercedes Benz SUV ML 500 that was driven by a 68-year-old woman who was stopped at the north/south intersecting roadway waiting to pull across the intersecting roadway. She stated in the interview that she looked both ways and proceeded to go across the lanes. As she pulled into the intersection she looked to the left and saw V2, a 1996 Dodge Ram 1500 Truck that was driven by a 30-year-old male traveling in lane two heading westbound. The driver of V2, the Dodge Ram Truck stated that he saw the SUV pull into the intersection and tried to avoid hitting her and swerved left. He stated that she then accelerated right into him. He made contact with her left drivers side door panel. The SUV went up on to the curb and made final rest facing westbound in lane three. The Truck, V2 made final rest facing westbound in the middle of the intersection. V1, the 2004 Mercedes Benz was driven by a 68-year-old female who was on her way home from picking up her husband's dinner. She stated in the interview that she looked both ways and proceeded into the roadway. As she looked left she sated that she saw the Red Truck coming at her. She then hit the gas to avoid him but he then steered left and hit her in the front of the truck. She stated that she was pre-occupied by making sure her husband's food was all there. She was not injured and her Vehicle was towed due to damages. The Critical Pre-crash Event for V1 was "this vehicle traveling across, passing through the intersection". The Critical Reason for the Critical Pre-crash Event was a driver related recognition error, "inadequate surveillance, looked but did not see". An associative factor was being pre-occupied by the take out in the vehicle. She was so concerned that it became an internal distraction. Another associative factor was she chose the wrong evasive action, as she accelerated when she saw the truck, if she had stopped the crash could have been avoided. She was cited for the crash with a failure to yield right of way ticket. A 30-year-old male who was in lane two heading westbound drove V2, the Dodge Ram Truck 1500. There was 1 occupant in the truck as well. He stated in the interview that he saw the SUV pull out into the intersection and he tried to steer left to avoid the crash. He stated that she just “hit the gas” and crashed right into his path. The truck was towed due to damages. The driver and his passenger were not injured. The Critical Pre-crash Event was "other vehicle encroachment from crossing street across path". The Critical Reason was not coded to this driver, as he was not thought to have contributed to the crash. There were no associative factors related to the driver. He was cited a ticket for no proof of insurance.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Surveillance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

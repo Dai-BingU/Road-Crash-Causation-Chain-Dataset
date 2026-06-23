@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred during daylight hours on a weekend. The crash occurred on a straight stretch of a five-lane, two-way, undivided, dry, level, bituminous, north-south roadway. The speed limit on this road is 56 kmph (35 mph) in both directions. The first lanes in each direction are bordered by parking lanes. At the time of the crash, there were no adverse atmospheric conditions and the roadway was free of defects. Vehicle one (V1), a 1997 Mitsubishi Eclipse two-door coupe, was parked along the east curb, facing north and preparing to enter traffic. Vehicle two (V2), a 1990 Toyota Corolla four-door sedan, was traveling northbound in the second lane, approaching V1's position ahead on its right. V1 executed a U-turn from the parked position, entering the second lane. As V1 entered the second lane, the front of V2 impacted the left side of V1. V1 rotated counter-clockwise, and both vehicles came to rest in the northbound lanes. The 23-year-old female driver of V1 reported that she checked her mirrors, but did not see V2's approach. She executed the U-turn believing that traffic was clear behind her. The critical precrash event for V1 was: This vehicle traveling, over the lane line on the left side. The critical reason for the event was attributed to V1, and was coded as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The 25-year-old male driver of V2 saw V1 execute the turn unexpectedly, and engaged his brakes with full lockup. He reported that he also sounded the horn as he was skidding forward. The critical precrash event for V2 was: other vehicle encroachment, from parking lane. The critical reason for the event was not attributed to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Physical, Surveillance, Vision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Leaving a parking position
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From parking lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

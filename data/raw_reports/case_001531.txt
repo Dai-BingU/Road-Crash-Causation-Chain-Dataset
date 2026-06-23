@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred on a weekday morning off the left shoulder of a westbound, four-lane, interstate roadway. All four westbound lanes were featured an 8% downhill grade. The posted speed limit was 96kmph (60 mph). Conditions were daylight and dry with cloudy skies. V1, a 1997 Toyota 4-Runner sport utility, was westbound in lane three when a non-contact vehicle in lane two began merging into lane three. The driver of V1 steered left in avoidance, then realized a second non-contact vehicle was positioned in lane four. The driver of V1 steered right in reaction, and subsequently lost control of the vehicle. A third steering movement in the left direction caused V1 to rotate counterclockwise 80 degrees and travel over the left shoulder into the median wall. After impacting the wall with its front plane, V1 rotated counterclockwise further 180 degrees before rolling left one-quarter turn. V1 came to rest on its left plane in lane four facing west. V1 was driven by a 48 year-old female who was treated on scene for non-incapacitating injuries. She was wearing her prescription lenses that corrected a myopic (near-sighted) condition. She stated that she was heading to work from home on a typical workday, and was actually running a bit ahead of schedule this morning. She described a van from her right merging into her lane and her subsequent reactions resulting in overcompensation. She estimated her travel and impact speeds to be 96kmph. Her vehicle was towed due to damage. The Critical Precrash Event for V1 was this vehicle traveling off the edge of the road on the left side. The Critical Reason was a performance error of overcompensation. The driver wore glasses for a nearsighted condition. In addition to the performance error a vehicle related factor was also coded for this crash. The left rear tire was measured to be 10 psi, well below the recommended inflation of 29 psi causing a tire deficiency.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

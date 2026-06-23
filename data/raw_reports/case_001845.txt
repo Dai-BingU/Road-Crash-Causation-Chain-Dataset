@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two lane undivided roadway with a posted speed limit of 72 KPH (45 MPH) and a -3.2% grade. The roadway curved to the right with a radius of curvature of 592 meters and a superelevation of 4.4%. The weather was clear, the roadway dry and it was daylight at the time of this weekday afternoon crash. V1, a 2006 Freightliner tractor pulling a dump semi-trailer (fully loaded with 60,000 pounds of sand), was traveling south on the roadway. V1 approached a driveway lot area, pulled forward and then began to back-up. V1 was across both lanes of travel as it continued to back-up. V2, a 1993 Mercury Tracer, was traveling south on the roadway and struck V1 in the left side with its front. V1 came to rest across both lanes facing east. V2 rotated slightly clockwise and came to rest facing south. V1 drove from the scene. V2 was towed due to damage. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. The Freightliner (V1) was driven by a belted 46-year-old male who was not injured. He stated that he had driven approximately 250 miles to his destination to drop his load of sand. He said that he has been driving heavy trucks for 11 years and had professional training. He advised that this was only the second time that he had been at this site and he backed in the same way as he had the first time. It should be noted that there had been a large pile of sand blocking the turn around area the first time that the driver was there. This had been moved so trucks could make their back-up maneuver without going out onto the roadway and blocking traffic. The hauling company had been notified, however, this had not been passed on to this driver. He said that he was in the process of backing up into the lot, heard the squealing of brakes and heard the crash. The driver considered himself in good health and takes over the counter vitamins. The Critical Precrash Event for V1 was this vehicle “other” (backing). The Critical Reason for the Critical Precrash Event was not coded to this vehicle. The Mercury Tracer (V2) was driven by a belted 85-year-old male who complained of pain, was evaluated on scene, but refused transport to a medical facility. He stated that he drove the road daily and was on his way home from grocery shopping. He had been thinking about the day's events, getting home and what he was going to do later. He advised that he didn't know where the truck came from. He attempted to brake, but was unable to avoid the collision. He considered himself in good health and takes prescription medications for high cholesterol, high blood pressure and a heart condition. The Critical Precrash Event for V2 was other vehicle in lane, backing. The Critical Reason for the Critical Precrash Event was inattention, a driver recognition error. This was chosen because the driver stated he was thinking about the day's events, getting home and what he was going to do later. He also stated he did not know where the truck came from. Associated factors coded to this driver were the use of prescription medications for high cholesterol, high blood pressure and 3 heart medications for a heart condition. Also coded to this driver were insufficient braking maneuvers and inadequate surveillance, failure to look far enough ahead.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Drugs present problem 
+Vehicle 2:  Decision, Distraction, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other- Other (specify) :
+ 2 ：Other Motor Vehicle in Lane- Backing
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inattention (i.e., daydreaming)

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary V1, a 1995 Ford Thunderbird, was southbound in lane 1 of a 2-lane undivided straight, bituminous roadway. V2, a 1994 Ford Ranger pickup, was northbound in lane 1 of the same roadway. At the time of the crash it was daylight, clear, and the roadway was dry. The posted speed limit was 89 kmph (55 mph). V1 drifted to the left over the centerline, across the northbound lane, and then partially onto the northbound shoulder. The driver of V2 saw V1 coming into his lane, locked up his brakes and steered right, driving partially onto the northbound shoulder also. V1's front contacted V2's front, knocking V2 backward. Both drivers were injured and transported. Both vehicles were towed due to damage. A partial driver interview and a complete vehicle inspection were obtained for V1. According to surrogate interviewees, the driver of V1 cannot remember details about the crash or much at all. The driver suffered a stroke prior to the crash and was not in control of the vehicle. He took no evasive actions to avoid V2. The Pre-event Movement of V1 was going straight, the Critical Pre-crash Event was this vehicle traveling off the road on the left side, and the Critical Reason for the Critical Pre-crash Event was a physical impairment of the ability to act (the stroke). Associated factors may include the driver's age (84 years) and his state of health (fair with the regular use of 8 prescribed drugs). A complete driver interview and vehicle inspection was obtained for V2. V2 was driven by a 39-year old male. The driver was found to be observing the speed limit, properly licensed for his vehicle and familiar with the roadway. The Pre-event Movement of V2 was going straight, the Critical Pre-crash Event was other vehicle encroachment from the opposite direction-over left lane line and the Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. The driver took appropriate evasive actions and was almost stopped at the time of the crash but could not avoid V1. No associated factors were coded to this driver. Two witness interviews were obtained. Witness one was following V1 and verified its speed and actions. This witness reported that V1 was traveling erratically just before crossing the centerline. Witness two was traveling in front of V2 and narrowly avoided contacting V1 as it crossed the centerline. She looked directly into the eyes of the driver of V1 as they passed each other and then observed the crash in her rearview mirror as she pulled onto the northbound shoulder to avoid V1.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Heart attack or other physical impairment of the ability to act
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred on a dry, straight, bituminous, three-lane one- way roadway approaching a stoplight controlled intersection. The roadway has a speed limit of 72 kmph (45 mph). The crash occurred in daylight with no adverse atmospheric conditions. Vehicle one, a 1991 Chevrolet C1500 pickup truck was westbound in the second lane approaching the stopped traffic. Vehicle two, a 1999 Chevrolet Monte Carlo was stopped in traffic in the second lane ahead of vehicle one. Vehicle three, a 1993 Pontiac Grand Prix was in the second lane stopped in traffic at the intersection ahead of vehicle two. Vehicle one impacted the back of vehicle two with its front plane. Vehicle two was pushed into the back of vehicle three. All three vehicles came to rest near the point of impact. Vehicle one and two were towed due to damage. Vehicle three was not towed due to damage. The driver of vehicle one, a fifty-eight year old male had just left his daughters home and was heading home. This driver had been driving for about thirty-five minutes at the time of the crash. This driver had an argument with his daughter before he left about the disposition of some old water heaters. This driver stated that he just did not see the vehicles stopped. This driver is taking insulin as a medication. This driver does not work. This driver had a stroke about four years ago and has had his vehicle adapted with a left foot gas pedal. This driver drives this vehicle daily and over this road several times a month. The driver of vehicle two, a fifty-six year old female was not interviewed. There is no known pre-crash information for this driver. The driver of vehicle three, a forty-seven year old male was heading to a friends house at the time of the crash. This driver had been driving for about fifteen minutes at the time of the crash. This driver was taking Wellbutrin SR as a medication. At the time of the crash this driver was having a conversation with the passenger and extinguishing a cigarette. This driver drives this vehicle daily and over this road on a daily basis. The critical pre-crash event for vehicle one was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical pre-crash event was coded to vehicle one and was coded as a driver related factor: Inattention (i.e., daydreaming). The critical pre-crash event for vehicle two was coded: other motor vehicle in lane, traveling in same direction while decelerating. The critical reason for the critical pre-crash event was not coded to this vehicle. Vehicle three was not involved in the first harmful event. The critical reason for the critical pre-crash event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Stress/Emotion, Drugs, Surveillance, Vehicle present problem 
+Vehicle 3:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

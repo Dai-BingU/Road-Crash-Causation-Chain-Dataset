@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This is a single vehicle crash involving a bicyclist that occurred mid-morning on a two way, five-lane dry, bituminous asphalt roadway. there were no roadway deficiencies and there was a sight line restriction by a vehicle stopped in the number one lane of the eastbound lanes of the roadway at the time of the crash. The lanes are separated by a two way left turn lane. There were no adverse weather conditions and the weather was clear. The speed limit on the roadway is posted 56 kmph (35 mph). Vehicle one (V1) was a 1992 Jeep Wrangler driven by a 32 year old male. He was the sole occupant of the vehicle. V1 was traveling eastbound in the number two lane of the roadway at an estimated speed of 59 kmph (37 mph), indicated by the skid marks left at the scene. There was a large pickup, slowing down in the number one lane of the eastbound roadway next to V1. The driver of V1 looked to the right at the vehicle slowing down and then looked straight ahead and saw a bicyclist directly in front of his vehicle. The driver then steered to the left and locked up his brakes. The right front corner of the vehicle struck the bicyclist near the lane line of the left turn lane and the number two eastbound lane. V1 then skidded for approximately 20 meters (65.6 feet) before coming to rest partially in the left turn lane and the number two westbound lane facing in a northeasterly direction. V1 was towed due to damage. The critical pre-crash event for V1 was coded: pedestrian, pedal cyclist; pedalcyclist or other non motorist in the roadway (specified as: pedalcyclist crossing the roadway from a non-crosswalk location). The critical reason for the pre crash event was coded as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Roadway, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Pedestrian, Pedalcyclist- Pedalcyclist or other nonmotorist in roadway (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

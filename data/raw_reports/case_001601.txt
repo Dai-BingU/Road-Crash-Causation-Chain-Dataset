@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle collision occurred during evening hours on a weekend. The crash occurred near the exit to a private drive on a six-lane, east-west roadway around dusk. At the time of the crash, there were no adverse atmospheric conditions, and the roadway is free of defects. Vehicle one (V1), a 2004 Honda Civic, was traveling northbound out of the private drive, entering traffic and turning left into westbound traffic, with the intention of entering the fourth westbound lane, which was a left-turn lane on approach to an intersection. Vehicle two (V2), a 2005 Jeep Grand Cherokee, was traveling eastbound in a 56 kmph (35 mph) zone, in the second lane of a six-lane, two-way, undivided, dry, level, bituminous roadway. V2 had just traversed an intersection, and was approaching the private drive on its right. As V1 made its turn, the front of V2 impacted the left side of V1. V2 continued on its path and came to rest in its original lane. V1 rotated counter-clockwise and came to rest facing generally south in the westbound lanes. The 20-year-old female driver of V1 reported that she had spent the day and previous night camping at the beach. The passenger was a 21 year-old male. During the day she had engaged in the strenuous activity of body boarding, and had driven approximately 40 miles before stopping for fuel immediately before the collision. This was her first time to use this roadway. She saw V2's approach prior to making the turn. The critical pre-crash event for V1 was: This vehicle traveling, turning left at intersection. The critical reason for the event was attributed to V1, and is coded: driver related factor, misjudgment of gap or other's speed. The 17-year-old-male driver of V2 reported that he was on vacation with his family, and was unfamiliar with the roadway. The driver and four other occupants were on their way to a restaurant when the crash occurred. He was also tired from jetlag, having traveled from the east coast to the west coast the previous night. He has been driving for one year, and was unfamiliar with the vehicle, a rental. When he saw V1 enter traffic, he applied the brakes, but was unable to stop in time. The critical pre-crash event for V2 was: Other vehicle encroachment, from driveway, turning into opposite direction. The critical reason for the event was not attributed to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Inexperience present problem 
+Vehicle 2:  Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Starting in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

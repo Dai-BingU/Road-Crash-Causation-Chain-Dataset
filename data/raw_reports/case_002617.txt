@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 1995 Ford F250 pick-up truck pulling a horse trailer, was traveling eastbound on an undivided two-lane straight and level roadway. V2, a 2002 Pontiac Grand Prix, was traveling on the same road in front of V1. At the time of the crash it was clear and dry in the early afternoon hours. The posted speed limit was 80 kmph (50 mph). The driver of V2, a 54-year old female, began to slow in response to backed-up traffic ahead of her that was waiting to turn left onto an intersecting street. The driver of V1, a 35-year old male, was traveling approximately 19 feet behind V2, and was looking out of his right side window at a store. When the driver of V1 looked forward again at the road ahead, V2 was almost stopped in front of him. The driver of V1 attempted to brake and steer to the right, but stated that the vehicle did not seem to respond. The front of V1 struck the back of V2, overriding the rear bumper. The trailer towed by V1 was fully loaded with 112 bags of pine shavings that did not shift during the crash. The total weight of the cargo was 2,000 lbs. V1 and V2 both came to a stop on the shoulder of the road facing east. Both vehicles were towed from the scene due to damage. The Critical Precrash Event for the driver of V1 was when another vehicle was in his lane in front of him traveling in the same direction while decelerating. The Critical Reason for the Critical Event was an external distraction (looking at a store) that was coded to this vehicle. An associated factor coded to this driver was inadequate surveillance, in that he failed to look far enough ahead prior to the crash. If he had done so, he would have noticed that traffic ahead of V2 was in the process of slowing. Also, traffic was heavy at the time of the crash, and he should have expected slow-downs. Another associated factor coded to V1 was that the driver of V1 had helped to load the cargo, but had failed to utilize the available brakes on the trailer. The driver of V1 was familiar with the roadway and his vehicle, and was wearing his prescription lenses at the time of the crash, which corrected a myopic (nearsighted) condition to a level of 20/20. He was not fatigued and was taking no medications. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests. The Critical Precrash Event for the driver of V2 was when another motor vehicle was in the same lane behind V2, traveling at a higher speed. The Critical Reason was not coded to the driver of V2 and she was not thought to have contributed to the crash. The driver of V2 was being treated for hypertension and irregular heartbeat and was taking a medication with no known performance-impairing side effects. She was wearing glasses at the time of the crash that corrected an unknown condition. An associated factor coded to both drivers was the traffic congestion on the roadway that caused traffic ahead of V1 to slow down.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance, Traffic, Vehicle present problem 
+Vehicle 2:  Driver Physical, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 1998 Oldsmobile Intrigue, was traveling northbound on a 5-lane, 2-way, dry, asphalt roadway in daylight conditions. V1 was intending to make a left-hand turn at a 4-way signalized intersection. V2, a 2004 Pontiac Bonneville, was traveling southbound on the same roadway intending to go straight through the intersection. V2 initiated a left turn and the front of V2 contacted the right of V1 before they both came to final rest on the roadway. The driver of V1 was a 50-year old male who had reported that he had been traveling between 2-16 kmph (1-10 mph) prior to the crash. He had no health related problems and had taken no medication prior to the crash. He was rested and traveling home from work. He does not wear corrective lenses. He did not sustain any injuries and refused treatment. The Critical Precrash Event for the driver of V1 was this vehicle turning left at intersection. The Critical Reason for the Critical Precrash Event was a misjudgment of gap or other's speed because he thought that the other vehicle was going slower and he could make the turn in time. No additional associated factors were coded to this driver. The driver of V2 was an 83-year old male who had reported that he had been traveling between 18-32 kmph (11-20 mph) prior to the crash. He had no health related problems and had taken no medication prior to the crash. He was rested and was on his way home from the store. He was wearing his prescribed lenses that corrected an unknown condition. He did not sustain any injuries and refused treatment. The Critical Precrash Event for the driver of V2 was other vehicle encroachment from opposite direction-over the left lane line. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2. An associated factor coded to this driver was a false assumption of other road users actions, because the driver of V2 saw V1 signal a left turn but didn't think that V1 would turn in front of him. Subsequently, he did not begin braking until one second prior to impact.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

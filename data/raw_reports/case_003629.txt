@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred mid-day near the end of the week. The weather was raining the roadway was wet. There were 5-lanes of travel two in each direction with a left turn lane. The roadway is straight and level. The roadways were heavily congested with traffic at the time of the crash. As Vehicle 1 a 1994 Chevrolet 1500 pick-up was exiting a plaza parking lot, it entered the roadway as a non-contact vehicle was entering the plaza parking lot. Vehicle 1 was then contacted by Vehicle 2 a 1998 Buick Century that was traveling east in lane two. The drivers of both vehicles were not injured but both vehicles were towed from the scene due to damage. A 74 year-old male that stated he is in fair health and is taking medications, he had bypass surgery 6 years ago, he is on dialysis and is on oxygen therapy. He also stated that he wears corrective lenses for reading only he does not wear them while he drives. He had stated that he was leaving the bank and was on his way to the post office. He stated as he was leaving the bank parking lot the roadway had heavy traffic in both directions. He stated, as a vehicle started to pull into the parking lot the lane he wanted to move into was clear. The vehicle pulling into the parking lot blocked his view of lane two traveling east. As he pulled out to go west V2 in lane two contacted his vehicle. He stated that his vehicle rotated clockwise as V2 went down the side of his vehicle. He came to final rest on the other side of the roadway. The Critical Pre-crash Event for V1 was coded "this vehicle traveling turning left at intersection". The Critical Reason for the Critical Event was coded "view obstructed by other vehicle". The associated factor to this vehicle was the heavy traffic and that it was raining. A74 year-old female states that she is in good health but does take medication, monopril. She also stated that she does wear corrective lenses for reading only and was not wearing them at the time of the crash. She stated that she had just left her Doctors office and was on her way to the bank at the time of the crash. She stated that her view was obstructed by a vehicle pulling into the parking lot and she did not see V1 pulling out of the lot. The Critical Pre-crash Event for V2 was coded "other vehicle encroachment from driveway turning into opposite direction". The Critical Reason for the Critical Event was not coded to this vehicle. The associated factor to this vehicle was the heavy traffic and the rain.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Physical, Drugs, Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Drugs, Roadway, Surveillance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Environment Related Factor- View obstructed by other vehicles
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

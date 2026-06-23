@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle rollover crash occurred at night on a 2-lane undivided roadway in a rural area. The roadway runs east and west with a posted speed limit of 72 kmph (45 mph) and is curved to the left at the location of this crash. The weather conditions were dark, dry, and clear. V1, a 1987 Oldsmobile Cutlass Ciera with one occupant, was traveling east when it drove off the right side of the roadway onto a grass roadside for 40 meters before it re-entered the road. V1 was rotating counterclockwise when it spun across the roadway and departed the left side of the road. V1 continued to travel east, while striking a plastic cable post, toward an embankment where it rolled one-quarter turn onto its roof. The driver waited in her vehicle for 45 minutes before she walked to the nearest home for assistance. She was transported to a trauma center for observation of her minor injuries. The driver of V1 is a 33-year old female that was unable to be reached for an interview. She has a restriction on her driver's license that requires her BAC to be below .04 and her vehicle to be equipped with an ignition interlock. The trooper on scene said the interlock had been removed from the steering assembly when he arrived. The crash report says that BAC test was performed with the results unknown and medical report states the driver said she consumed "a couple mixed drinks" earlier in the evening. The medical report also states that the driver has a history of arthritis and depression. The Critical Precrash Event for this driver was coded: this vehicle traveling off the edge of the road on the left and the Critical Reason for the Precrash Event was coded: too fast for curve/turn.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Roadway, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

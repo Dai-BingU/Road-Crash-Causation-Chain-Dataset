@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This four-vehicle collision occurred in the morning during daylight hours in a busy 4-way intersection controlled by traffic and pedestrian signals. The three northbound lanes are straight and have a 2% downhill grade. The two eastbound lanes have an 8% uphill grade and are separated from westbound lanes by a 2-way center turn lane. There is one southbound lane. None of the roadways are divided; all were dry at the time of the crash and are of bituminous construction. The speed limit for both sections of roadway is 56 kmph (35 mph). At the time of the crash, the weather was clear, traffic was moderately congested and there were no road defects or sight restrictions. Vehicle one (V1), a light blue 1984 Mazda pickup, was northbound in lane one. Vehicle two (V2), an unknown hit and run vehicle was entering the northbound roadway from a private drive located on the west side of the roadway. V2 collided with the left side of V1 aft of the left rear axle, then left the scene; no further information is available on either the driver or vehicle. After impact with V2, V1 entered the oncoming lane, proceeded into the intersection, and the front of V1 and left side of vehicle three (V3), forward of the left front axle. V1 completed the left turn, entered the oncoming eastbound lane, and collided front to front with vehicle four (V4) that was stopped facing east. Both vehicles came to rest near the impact point. V3, a 1999 Pontiac Montana, was traveling northbound in lane two. V3 came to a controlled stop on the side of the westbound lanes after the impact with V1. V4 a 1985 Oldsmobile Fierenza was stopped facing eastbound in lane three. V4 came to rest near the point of impact with V1. V1 and V4 were towed due to damage. V2 was a hit and run vehicle and V3 was driven from the crash scene. The V1 driver, a 77-year-old male, stated that he was in the far right lane when V2 hit him and caused him to lose control. He is reportedly in good health, with no hearing restrictions, and his sight is corrected with glasses for an unknown condition, he was well rested, and only takes vitamins, aspirin, and metformin. He was on his was to a swimming aerobics class and he was not in a hurry. He is familiar with the roadway as he drives it regularly. The critical pre-crash event for V1 was coded: other vehicle encroachment; from driveway, turning into same direction. The critical reason was not coded to V1. There is no interview obtained for the hit and run driver of V2. The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V2 as a driver related factor: type of driver error unknown. The V3 driver, a 56 year-old male, is reportedly in good health with no hearing restrictions. He does wear corrective lenses for a near-sighted condition, and he was wearing his lenses at the time of the collision. He was on his way from home to a business meeting at the airport, and he was not in a hurry. He is familiar with the road as he drives it weekly. V3 was not involved in first harmful event. The critical reason was not coded to this vehicle. V4 was not one of the first 3 vehicles and was therefore not coded as a case vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Traffic present problem 
+Vehicle 2:  Traffic present problem 
+Vehicle 3:  Driver Stress/Emotion, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Other (specify) :
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into same direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

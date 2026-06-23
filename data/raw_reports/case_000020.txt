@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred just afternoon on a weekday in the parking lane of a one-way urban roadway. The southbound roadway consisted of two undivided lanes and featured a posted speed limit of 48kmph (30 mph). The bituminous roadway was dry and straight with a downhill grade of -2/61. Traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 1990 Honda Accord was southbound in lane one. V2, a 1987 International refrigerated M/H Truck was legally parked on the right hand side parking lane of the roadway. A non-contact vehicle merged from lane two into lane one. In order to avoid being struck by the non-contact vehicle V1 steered right and braked. As V1 steered into the parking lane, the front of V1 struck the rear of V2. Both vehicles came to final rest at the point of impact. V1 was towed due to damage, but V2 was driven from the scene. V1 was driven by a 49 year-old male who sustained minor injuries and was transported to a medical facility. The driver stated that he was cut off by another vehicle, which caused him to crash into the back of V2. The Critical Pre-crash event for V1 was coded as this vehicle traveling, over the lane line on the right side of travel lane. The Critical Reason was coded as a driver related factor, an insufficient avoidance maneuver. This was chosen due to the fact that the driver of V1 could have braked as soon as the non-contact vehicle entered his lane, which would have prevented V1 from striking V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate evasive action, e.g. braking only, not braking and steering

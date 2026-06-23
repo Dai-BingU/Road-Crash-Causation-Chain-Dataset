@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west two-lane suburban residential roadway. The road curved to the north just east of impact with a radius of curvature of 489 meters, but was straight west of impact. The grade was <2% in the collision area. The posted speed limit was 64kph (40mph) and conditions were daylight and dry on a weekday morning. Vehicle #1 was a 2000 Mazda Millenia traveling west on the two-lane road. Vehicle #2, a 2003 Chevrolet Impala, was eastbound. The Mazda (V1) crossed over into the oncoming lane as it exited the curve and struck the Impala (V2) head-on. After impact, Vehicle #1 came to rest facing north in the east lane. Vehicle #2 departed the noth side of the road, rotated clockwise and came to rest facing northeast near impact. Both vehicles were towed due to severe damage. Vehicle #1 was driven by a 29-year old male that was belted with deployed frontal airbags. He was transported to an area hospital with minor injuries. He stated that he looked down to change a CD momentarily and when he looked forward again he was in the oncoming lane. He attempted to return to his original lane but was unable to avoid a collision. Police charged him with driving on the wrong side of the road. The Critical Precrash Event for Vehicle #1 was this vehicle traveling over lane line on left side of travel lane. The Critical Reason for the Critical Event was an internal distraction. Associated factors included fatigue. The driver said he got about 5½ hours sleep the night before, which is normal for him, but he appeared tired and 'hung over' during the interview. The driver also takes a medication for pain regularly but said he hadn't taken it the day of the crash. Vehicle #2 was operated by a 34-year old male that was belted with deployed frontal airbags. He was transported to a local hospital with moderate injuries. He said that the other vehicle came around the curve in his lane and he steered left in an attempt to avoid the crash. However, Vehicle #1 attempted to return to its initial lane and impact took place just north of the lane line. The Impala's (V2) speedometer stuck at impact at 64kph (40mph). A witness substantiated the drivers' statements that Vehicle #1 crossed the centerline. The Critical Precrash Event for Vehicle #2 was other vehicle encroaching from opposite direction over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. The only associated factor coded was chose incorrect/inappropriate evasive action. Although the driver was only instinctively attempting to avoid a head on crash, if he'd had stayed in his original lane the impact might have been avoided or severity lessened. He takes a medication to control cholesterol.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Drugs present problem 
+Vehicle 2:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

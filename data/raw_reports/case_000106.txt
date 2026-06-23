@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lanes of a two-way, ten-lane interstate roadway, divided by a concrete traffic barrier. There were five northbound lanes, with a posted speed of 105 kmph (65 mph). This was a straight, level, asphalt roadway. Conditions were daylight on a weekday afternoon with dry roads and clear skies. Traffic flow was normal. V1, a 1999 Volkswagen Passat with one occupant, was traveling northbound in lane one. V2, a 1992 Honda Accord with two occupants, was traveling the same direction in lane four. A phantom vehicle in lane two abruptly changed lanes in front of V1. The driver of V1 steered to the right and applied the brakes. The driver then steered left to avoid hitting the right guardrail. V1 veered left, across three lanes of traffic. The left side of V1 made contact with the right side of V2. V2 was able to pull onto the left emergency shoulder. V1 veered out of control to the right. V1 went through a guardrail and struck a tree with the front of the vehicle. V1, the Volkswagen Passat, was driven by a 40-year old female, who was not injured. She stated that she was on her way home from church. She indicated that she was in the right lane when another vehicle cut her off. According to the driver, she lost control of her vehicle as she avoided a collision with the phantom vehicle. The driver did not realize until later that she had made contact with V2. The driver only remembered crashing through the guardrail and hitting the tree. The Critical Precrash Event for V1 was "this vehicle traveling, over the lane line on the left side of travel lane." The Critical Reason for the Critical Event was a driver performance error, overcompensation. The driver overreacted to a situation which required some adjustment to the path or velocity of her vehicle. Associated factors included driver inexperience, unfamiliarity with the roadway, and comfort with the vehicle. The driver was in a borrowed vehicle, which she had never driven before. She was on a roadway which she rarely drives. In addition, the driver stated that she had not been behind the wheel of a vehicle for months, and that she does not own one. V2, the Honda Accord, was driven by a 23-year old female, who was not injured. She stated that she was on her way to her sister's house with her cousin, when a lady appeared to changes lanes very quickly into her. The driver did not know from which lane the other driver came. She said that she managed to keep control of her vehicle. The driver indicated that when she got out of her vehicle, she could not see the other car because it had gone through the guardrail, into some bushes. The Critical Precrash Event for V2 was "other vehicle encroachment, from adjacent lane over the right lane line." The Critical Reason for the Critical Event was not coded to this vehicle. One associated factor for this driver was the presence of a social conversation with the passenger at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance present problem 
+Vehicle 2:  Distraction present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

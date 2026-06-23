@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in a four legged urban intersection controlled by an on-colors traffic signal with a left turn green arrow following the green cycle. The roads are two-way, five lanes, straight, <2% downhill slope, and concrete. The posted speed limit on the east leg is 72 kmh (40mph), and the posted speed limit on the west leg is 64 kmh (40 mph). Conditions at the time of the weekday nighttime crash were dark and dry. Interviews were obtained from both drivers on-scene, and the vehicles were inspected the following day. V1, a 2002 Dodge Durango, driven by a 31 year-old male on his way to the airport to pick up his relatives, was traveling eastbound in the left turn lane. V1 stopped on the green signal to wait for traffic to clear. The driver stated that the light turned yellow, he thought it was clear, so he proceeded into the intersection and began to turn left. The driver stated that he looked but did not see the other car and had no time for avoidance maneuvers. The right front of v1 struck the front of v2. V2, a 1995 Ford Probe driven by a 38 year-old female running an errand, was traveling westbound in lane two at about 45 mph. V2 proceeded into the intersection on the green light. V1 turned left in front of v2, and the driver of v2 had no time for avoidance maneuvers. Both vehicles were towed from the scene due to damage, with the front airbags in v2 deployed. The fully restrained driver of v1 denied injuries. The fully restrained driver of v2 was treated at the scene. The adult female front right passenger of v2 was transported to a local trauma center due to injuries. The Critical Precrash Event coded to v1 was 'this vehicle traveling turning left at intersection.' The Critical Reason for the Critical Event coded was 'inadequate surveillance-looked but did not see.' An associated factor was coded for the driver's unfamiliarity with his brother's vehicle which he had only driven 2-5 times in the prior three months. The Critical Precrash Event coded to v2 was 'other vehicle encroachment from the opposite direction-over the left lane line.' The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

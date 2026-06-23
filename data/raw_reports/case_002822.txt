@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a two-way roadway with two lanes going eastbound and three lanes going westbound. The roadway was straight and level and it was daylight and clear with no adverse conditions. The roadway was wet from previous rain and the speed limit was 48kmph (30mph). Vehicle # 1 was a 2003 Dodge Neon that was traveling on the left lane and stopped to make a left into a parking lot. Vehicle # 2 was a 2001 Chevrolet Astrovan that stopped behind Vehicle #1. Vehicle # 3 was a 1999 International Bus that was traveling on the left lane behind Vehicle # 2. The front of Vehicle # 3 impacted the back of Vehicle # 2, and caused the front of Vehicle # 2 to impact the back of Vehicle # 1. The Dodge Neon (Vehicle # 1) was driven by a 28 year-old female who did not sustain any injuries. The Dodge was driven from the scene. The Critical Pre-crash event for Vehicle # 1 was coded as: Other vehicle in lane, traveling in the same direction with higher speed. The Critical Reason for the Critical event was not coded to the driver. An associated factor coded was that the roads were wet. The other possible associated factors were coded unknown because no interview was obtained. The Chevrolet Astrovan (Vehicle # 2) was driven by a 44 year-old male who did not sustain any injuries. An 18 year-old male passenger also did not sustain any injuries. The Chevrolet was towed due to damage. The Critical Pre-crash event for Vehicle # 2 was coded as: Other vehicle in lane, traveling in the same direction with higher speed. The Critical Reason for the Critical event was not coded to the driver. An associated factor coded was that the roads were wet. The other possible associated factors were coded unknown because no interview was obtained. The 1999 International Bus (Vehicle # 3) was driven by a 48 year-old male who did not sustain any injuries. A 68 year-old female occupant sustained minor injuries and was transported to a medical facility. The driver was issued a citation for failure to produce identification of insurance. The International Bus was driven away from the scene. The Critical Pre-crash event for Vehicle # 3 was coded as: Other Motor Vehicle in Lane, other vehicle stopped. The Critical Reason for the Critical Pre-crash event was coded as an unknown driver related error. The associated factor coded was that the roads were wet and the other possible associated factors were coded unknown because no interview was obtained.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway present problem 
+Vehicle 2:  Roadway present problem 
+Vehicle 3:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other- Not involved first harmful event
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Driver Related Factor- Type of driver error unknown

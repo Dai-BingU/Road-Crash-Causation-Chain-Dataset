@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred just past noon involving one passenger car at a signalized intersection with protected left turn signals. The speed limit for the roadway is 48 kmph (30 mph). The road is a 4-lane divided concrete roadway. The road surface was dry and there were no detrimental atmospheric conditions. Lanes three and four of the southbound lanes are left turn lanes only. Vehicle one (V1), a 1991 Honda Accord was traveling south in the first lane. The driver had just left a college campus one mile north of the intersection. Another vehicle entered the intersection from the northbound left turn lane. A green arrow protected the left turn lane. At the time of the crash the light turned green before the protective arrow turned green. The other vehicle attempted to make a left turn into the westbound lanes of traffic. V1 avoided a possible collision in the intersection by steering to its right. The driver also applied the brakes without lock up. V1 passed through the intersection and drove off the roadway to it's right. The front of V1 impacted a traffic light pole located west of the southbound lanes. It came to rest at the light pole. The other vehicle did not have any contact with V1 and was released as a non-contact vehicle by the police at the scene. V1 was towed from the scene. None of the two occupants received any medical treatment. The driver of V1 is a 19-year-old male who claimed to be well rested and in good health. He possesses a valid motor vehicle license with no restrictions or endorsements. He was not in a hurry, no previous arguments not conversing, and was attentive to the driving task. He takes no medication at all. There was no indication of alcohol/drug involvement. He slept 8 hours the night before the crash. He drives the route daily and is very familiar with the vehicle. He had just left a college campus located a mile from the crash site. The critical event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical event was coded as a driver related factor: overcompensation.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

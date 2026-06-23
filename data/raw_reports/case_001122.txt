@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the late morning of a weekend in the middle of a rural T-intersection. The intersection consisted of a north/south, two-lane roadway intersected by an east/west two-lane roadway controlled by a properly functioning traffic signal. The roadways were bituminous, dry, and straight with the east/west roadway having a positive grade greater than 2%. The speed limit for the east/west roadway was 56 kmph (35mph) while the speed limit for the north/south roadway was 64 kmph (40mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. Vehicle one (V1), a 2002 Mercedes ML500 with one occupant, was northbound on the roadway approaching the intersection. Vehicle two (V2), a 2006 Ford Explorer with two occupants, was stopped at a red light, facing west waiting to make a left turn. When the light turned green, V2 proceeded to make the left turn. V1 failed to stop for the light and the front V1 contacted the left front of V2. Both vehicles came to final rest near the point of impact; both vehicles were towed due to damage. The driver of V1, a 57 year-old male, was not injured as a result of the crash and did not require any medical attention. The driver of this vehicle refused to be interviewed citing pending litigation. Information in the Police Report revealed that the driver of V1 was conversing on a cell phone and did not notice the light had changed as he proceeded through the intersection. The Critical Precrash Event for V1 was coded this vehicle traveling, crossing over (passing though) intersection. The Critical Reason was not coded to this vehicle. The only known associated factors that could be coded to V1 were an internal distraction as the driver was conversing on a cell phone and a sightline restriction. The driver of V2, a 71 year-old male, suffered non-incapacitating injuries and was taken to a medical facility for observation. The other passenger located in the right front seat that suffered possible injuries but was not taken to a treatment center. The driver stated that as the light turned green he inched out into the intersection, as he could not see around the trees and shrubbery growing on the corner of the intersection. As he inched out further and began his turn he was struck by V1. The Critical Precrash Event for V2 was coded other vehicle encroachment, from crossing street, across path. The Critical Reason was coded as inadequate surveillance. Associated factors include driver inattention (focused on future events), and the sightline restriction that existed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Distraction, Roadway present problem 
+Vehicle 2:  Distraction, Driver Physical, Drugs, Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

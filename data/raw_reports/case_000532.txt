@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lane of a four lane, two way roadway, the conditions were dry concrete and asphalt roadway in daylight. V1, a 1999 Buick Century was traveling northbound in lane two intending to go straight. V2, a 1994 Pontiac Grand Am was traveling north on the same roadway in front of V1. V2 stopped in lane two waiting to make a left turn. The front of V1 contacted the back of V2 before they both came to final rest in the roadway. The driver of V1 was a 76-year old female who reported that she had been traveling between 50-64kmph (31-40mph) prior to the crash. She stated that she was coming down the street and there was a vehicle in the lane ahead of her. They had no brake lights or turn signals. She did not know that V2 was stopped in the lane. When she got closer she realized they were stopped and she hit her brakes. She didn't think her brakes were working because they felt stiff. She hit V2 in the back. She had a history of high blood pressure, heart problems and arthritis, and had taken salate, alobessor, and accuretic prior to the crash. She was rested and traveling home. She was wearing her prescribed lenses that corrected an unknown condition. She was uninjured in the crash and refused treatment. The Critical Precrash Event for the driver of V1 was other vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Precrash Event was a driver related error, inattention. The driver of V1 stated that she did not realize that the car was stopped in the lane until it was too late to stop. The driver of V2 was a 18-year old female who reported that she had been stopped in lane two to turn left. She was waiting for a car to pass so she could make her turn. The lady behind me just slammed in the back of me. She saw her when she was a ways back but thought she would have stopped. She had no health related problems and had taken no medication prior to the crash. She was rested and traveling to a doctor's office. She does not wear prescription lenses. She sustained minor injuries and was transported to a local trauma facility. The Critical Precrash Event for the driver of V2 was other vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2, and she was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

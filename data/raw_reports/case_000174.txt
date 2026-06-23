@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle early afternoon crash occurred on a two-way, two-lane north/south road with a posted speed limit of 48 kmph (30 mph) approaching a 4-way tri-color controlled urban intersection. This roadway was wide enough for the travel lane plus a parking lane in each direction. At the time of the crash, the weather was clear and there were no sight restrictions or road defects. Vehicle one (V1), a 2000 Pontiac Grand Am with two occupants, was stopped at the stoplight facing southbound in the first lane behind V2. Vehicle two (V2), a 1998 Mazda 626 with one occupant, was stopped at the stoplight facing southbound ahead of V1. The V1 driver, a 20 year old female and the V2 driver, a male (age unknown) both stated that there was a non-contact SUV at the stoplight ahead of the two vehicles, which was signaling intent to turn left. The light turned green and both V1 and V2 accelerated and steered right to pass the non-contact vehicle to the right. The left side of V1 and right side of V2 had two separate impacts then V1 departed the road to the right and the front of V1 collided with a fire hydrant located off the west side of the road. V1 was towed due to damage; V2 was driven from the crash scene. V1 came to rest at the point of impact with the fire hydrant and V2 came to rest in the original lane of travel just past the second point of impact with V1 and was facing generally south. The V1 driver was attempting to pass two vehicles within his travel lane on the right. The driver of V1 not able to respond to the unexpected actions of V2, which had also decided to pass the forward vehicle on the right. This driver assumed the forward vehicle would stay in its original travel lane. The critical pre-crash event for V1 coded: this vehicle traveling over the lane line on the left side of travel lane. The critical reason for the critical pre-crash event was coded to this vehicle as a driver related decision error: too fast to respond to unexpected actions of other road users (specified as: The V1 driver was attempting to pass two vehicles within his travel lane on the right, V1 not able to respond to the unexpected actions of V2). Aggressive driving was considered a factor for the driver for passing on the right and making a rapid lane change. The driver of V2 was attempting to pass the forward vehicle within her original travel lane on the right. She failed to realize the vehicle behind her would do the same maneuver at a faster rate of speed. The critical pre-crash event for V2 was coded: other motor vehicle encroachment; from adjacent lane (same direction) - over right lane line. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Speed/Distance present problem 
+Vehicle 2:  Decision, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Changing lanes
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast to be able to respond to unexpected actions of others (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

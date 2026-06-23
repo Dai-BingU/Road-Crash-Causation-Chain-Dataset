@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the northbound lanes of five-lane divided roadway with a curbed grass median. There were two northbound lanes, a left turn lane, and two southbound lanes. The northbound roadway had a posted speed of 72 kmph (45 mph) and a 1% uphill grade. The east/westbound roadway was undivided and had three lanes (two westbound and one eastbound) and had a posted speed limit of 56 kmph (35 mph). Conditions were daylight and dry with clear skies. The crash occurred in the early afternoon hours of a weekday. Vehicle one was a 1996 Dodge Dakota pickup traveling northbound in the first lane. Vehicle two was a 1972 Datsun 1200 coupe traveling westbound in the first lane. V1 and V2 both proceeded into the intersection at the same time. The right side of V1 was contacted by the front of V2. V1 continued traveling north, striking a street sign with its left side. V1 came to rest next to the median. V2 came to rest in the intersection. A 76-year old male who declined treatment for possible injuries drove vehicle one. He stated that he and his wife were heading to the bowling alley. They drove through a green light at an intersection and noticed a vehicle from the right running the red light. He steered left and braked but was struck, and subsequently struck a street sign. He estimated his speed to be 40 mph at impact. V1 was towed, but not due to damage. The Critical Precrash Event for V1 was V2's encroachment from a crossing street, across his path. The Critical Reason was not coded to this vehicle. Associated factors included a casual conversation with the driver's wife and several medical conditions. The driver has existing health conditions of asthma, high blood pressure, and type II diabetes. The driver was taking several prescribed medications for these conditions. A 21-year old female who declined treatment for possible injuries drove vehicle two. She stated that she was heading back to school after lunch and was taking a new route. She was confused and looking to the right to try to identify the street signs. She entered the intersection without really knowing where she was going when the crash occurred. She estimated her speed to be around 35 mph at the time of impact. V2 was towed, but not due to damage. The Critical Precrash Event for the driver of V2 was when she began crossing over the intersection. The Critical Reason was an external distraction of the street signs. Associated factors included inattention, drinking a soda, hurrying back to school, emotional distress surrounding work, school, and family, unfamiliarity with the roadway, an illegal maneuver, and a malfunctioning brake system.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs present problem 
+Vehicle 2:  Decision, Distraction, Driver Inexperience, Driver Stress/Emotion, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- External distraction

@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle vehicle rear-end type crash occurred at a four-legged, traffic signal-controlled intersection. The east/west lanes have a center left turn lane and right turn lanes. This roadway is straight with a slight down grade in the eastbound direction. It was dark with streetlights on at the time of the crash with no adverse weather conditions. Vehicle one (V1), a 1979 Dodge D-50 pickup, was eastbound in lane two, approaching the intersection. Vehicle two (V2), a 1994 Chevrolet Suburban, was stopped in lane two. The front of V1 struck the back of V2. V1 came to rest in the west entrance heading in a northerly direction.V2 came to rest to the east of this intersection facing east. Both vehicles were towed due to damage. The driver of V1 was a 32-year-old male who was not interviewed. All information for this driver is from the police report and medical record. This driver tested positive for methamphetamine and cannabinoids. The police report indicated inattention as a factor for the driver of V1, but gave no further details concerning the inattention. There was no physical evidence of skid marks or other avoidance actions taken by the driver of V1. The critical pre-crash event was coded: other motor vehicle in lane, other vehicle stopped. The critical reason was coded: driver factor; type of driver error unknown. The driver of V2 was a 38-year-old female in her third trimester of pregnancy. She stated that she was stopped at the red light for about 15 seconds when the impact occurred. The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs present problem 
+Vehicle 2:  Distraction, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

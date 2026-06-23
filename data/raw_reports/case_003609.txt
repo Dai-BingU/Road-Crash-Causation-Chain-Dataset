@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the northbound lane of a two way, two lane, undivided roadway, with a right curve and a 7.4% downhill grade in the northbound direction and a speed limit of 48 kmph (30 mph). The north/south roadway curves to the east with a radius of 137 meters (450 feet). This crash occurred during daylight hours with light traffic. There was a light rain at the time of the crash and the road surface was wet. The view of both drivers was obstructed by shrubbery/trees located on the east side of the roadway. There were no road surface markings indicating a two-way roadway. Vehicle one (V1), a 2008 Chevrolet Colorado with four occupants, was southbound in lane two (the northbound lane). Vehicle two (V2), a 1998 Buick Century with one occupant, was northbound in lane one. Both vehicles were entering the curve. V1 was traveling on the wrong side of the road and the front of V1 struck the front of V2. Both vehicles came to rest on the roadway. Both vehicles were towed from the scene. The driver of V1, a forty year-old female traveling with three other female passengers, was not interviewed. The driver told the police at the scene that she believed the road to be a one-way street to explain why she was traveling southbound in the northbound lane The critical pre-crash event for V1 was coded as "this vehicle traveling-over the lane line on left side of travel lane." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; unknown recognition error." There were no roadway surface markings indicating the roadway as a two-way roadway. The view obstruction limited the driver's view of oncoming traffic. The driver of V2, a twenty-six year-old male, was not interviewed. The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in opposite direction." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+ 2 ：Other Motor Vehicle in Lane- Traveling in opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Unknown recognition error
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

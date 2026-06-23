@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekday in the middle of a rural “T” intersection. The intersection consisted of an east/west two-lane roadway (separated by a painted median) intersected by a north/south three-lane undivided roadway. The intersection was controlled by a properly functioning traffic control signal. Both roadways were bituminous with posted speed limits of 72 kmph (45 mph). The westbound approach of V1 and the southbound approach of V2 were on a 3% downhill grade. The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2004 Ford Crown Victoria police cruiser, was westbound in lane one. V2, a 2003 Jeep Liberty, was stopped at the signal-controlled intersection facing south in lane two preparing to turn left. As V2 began turning left through the intersection V1 failed to stop for the red light and was struck on the right side by the front of V2. Both vehicles came to final rest in the intersection southwest of the point of impact. The driver of V1, a 28-year old male, was transported to a local trauma center with minor injuries. He was unwilling to give an interview. The investigating officer estimated his travel and impact speeds to be 80 kmph (50 mph). The police cruiser was towed due to damage. The Critical Precrash Event for V1 was coded other vehicle encroachment from crossing street, turning into opposite direction. The Critical Reason was not coded to this vehicle. The only known associated factor that could be coded to V1 was an illegal maneuver as the driver failed to stop for a traffic control device. The driver of V2, a 46-year old female, was also transported to a local trauma center with minor injuries. She stated that she was heading home from work when she was struck by V1, as she turned left. She estimated her travel and impact speeds to be 8 kmph (5 mph). The compact utility was towed due to damage. The Critical Precrash Event for V2 was coded this vehicle traveling, turning left at intersection. The Critical Reason was coded as a driver related error, false assumption of other's actions, as the driver assumed V1 would yield the right of way. There were no other associated factors coded to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision, Driver Physical, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This crash occurred in the morning of weekday in the eastbound lanes of a divided four-lane roadway. The bituminous north/south roadway featured two lanes in each direction and a posted speed limit of 80kmph (50 mph). The roadway was dry, straight, and level. It was daylight and there were no adverse atmospheric conditions at the time of the crash. V1, a 1985 Lincoln Town car, was traveling north in lane one of the roadway. V2, a 1987 Chevrolet Pick-up was also traveling north in lane one ahead of V1. As V1 continued northbound its water pump burst causing windshield to cloud up. The driver was unable to see in front of ahead of him and struck V2 in the rear. Both vehicles rolled forward slightly before coming to final rest in the roadway near the point of impact. V1 was being driven by a 19 year-old male on his morning commute to work. He stated he heard a loud pop when he turned on the heat in his car and the windshield quickly fogged up. The next thing he knew he had rear-ended the truck in front of him. He was uninjured, but his vehicle was towed due to damage. The Critical Precrash Event for V1 was coded other motor vehicle in lane, traveling in same direction with lower steady speed. The Critical Reason for the Critical Precrash Event was coded as a vehicle related factor, a burst water pump, which caused the windshield to cloud-up. Associated factors include a decision error as the driver continued in the roadway without attempting to pull over onto the shoulder, as well as inexperience as the driver had only been licensed for a year. V2 was driven by a 44 year-old male who became agitated during the interview and refused to cooperate further. Before ending the interview he stated that he saw V1 out of his rearview mirror come up behind him and fail to stop before crashing into him. The driver of V2 was not injured but the back window of V2 was shattered rendering the car disabled and it was towed from the scene. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. There are no associated factors coded to V2, as the driver was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with lower steady speed
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Other vehicle failure (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

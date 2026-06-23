@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the early evening hours while still daylight at a T-intersection. The main street was an east/west two-lane two-way roadway with no traffic control. The posted speed limit was 40 KMPH (25 MPH). The crossing street ran north/south and ended at the T-intersection. The north/south roadway was a two-lane two-way roadway controlled by a stop sign. The east west roadway had a shoulder on either side, which diminished as it neared the intersection. The roadway was divided by two solid yellow lines. There were no adverse weather conditions that day and both roadways were dry. V1, a 1998 Ford Taurus station wagon, was driven by a 20-year old female. V1 was traveling west on the east/west roadway. V2, a 1994 Pontiac Grand Am, was driven by a 24-year old female. V2 was traveling south on the north/south roadway. According to police and witness reports, the driver of V2 came to a complete stop at her stop sign, facing south. The driver of V2 then entered the intersection and attempted to turn left to travel east on the east/west roadway. As V2 entered the intersection, its left side was struck by the front right of V1. The momentum of V1 pushed V2 off of the roadway and down the east/west roadway traveling westbound, coming to rest approximately 51.6m from impact in the eastbound lanes. V1 rolled off of the sidewalk and came to rest facing south in the middle of the two east/west lanes. The Critical Pre-Crash Event for V1 was coded as "other vehicle encroachment from crossing street, turning into opposite direction." The Critical Reason For the Critical Pre-Crash Event was not coded to V1, although excess speed was coded as an associated factor. A witness who had been traveling behind V1 reported that V1 was traveling at a high rate of speed prior to impact. The extent of damage to V2 and the post-impact trajectory of the vehicles supported the claim of excess speed, as the posted speed limit was 40 KMPH (25 MPH). All other information was unknown due to the lack of an interview with the driver of V1. The Critical Pre Crash Event for V2 was coded as "this vehicle traveling - turning left at intersection." The Critical Reason for the Critical Pre-Crash Event was coded as "Type of driver error unknown," due to the lack of an interview.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

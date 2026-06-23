@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary A two-vehicle collision occurred during the morning daylight hours on a weekday. The crash occurred at the intersection of a north-south roadway and an east-west roadway. The intersection is controlled by a tri-light traffic signal, and both roadways are designated 56 kmph (35 mph) zones. At the time of the crash, there were no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 2003 Hyundai Santa Fe four-door SUV, was traveling eastbound in the fourth lane of a seven-lane, two-way, undivided, dry, level, bituminous roadway. V1 was stopped in the intersection and awaiting an opportunity to turn left into northbound traffic. Vehicle two (V2), a 1992 Toyota Camry four-door sedan, was traveling westbound in the first lane of opposing traffic, approaching the same intersection with the intention of passing straight through. As V1 made its turn, the front of V1 impacted the left side of V2. V2 deflected right and departed the road over the northwest corner, where it came to rest. V1 spun counter-clockwise from impact and came to rest in the intersection, facing southwest. The 36-year-old female driver of V1 reported that she was on her way to school after having driven her daughter to school. Her thoughts were directed towards her work on her master's thesis as she approached the intersection on the green phase of the tri-light. The opposing traffic lanes were stacked up with stopped traffic at the intersection due to heavy congestion. The driver of V1 was unable to see opposing traffic in the first westbound lane as she turned. The critical precrash event for V1 was: this vehicle traveling, turning left at intersection. The critical reason for the event is attributed to V1, and is coded as a driver related decision error: turned with obstructed view. The 76-year-old male driver of V1 reported that he is in fair health, although he takes several medications each day. He is diabetic, and is schedule for surgery soon for an abnormal prostate. As he approached the intersection, he was unable to see opposing traffic due to stopped traffic in the adjacent lanes. The critical precrash event for V2 was: Other vehicle encroachment, from opposite direction, over left lane line. The critical reason for the event was not attributed to V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Drugs, Surveillance, Traffic present problem 
+Vehicle 2:  Decision, Driver Physical, Drugs, Surveillance, Traffic, Vision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle evening crash occurred during the early evening in the express lanes of an urban, southbound, straight, level, two-lane, bituminous expressway that is bordered by paved shoulders and short concrete jersey barriers. The pre-crash roadway curves right then becomes straight before the crash area. After the crash area, the roadway merges with another two-lane roadway to form a four-lane expressway. The expressway has a posted speed limit of 72 kmph (45 mph). At the time of the crash it was dark, but the roadway was illuminated by street lights and there was moderate to heavy rainfall. Vehicle one (V1), a 1997 Nissan Sentra was southbound in the number two lane. The driver of V1, a twenty-five year old female, stated that she was traveling at about 80-89 kmph (50-55 mph), when her left rear tire blew out, causing her to lose control. The driver steered left then right as V1 fishtailed toward lane one. V1 departed the road to the right and had a front impact with the jersey barrier, departed the barrier in a clockwise rotation on a southeast trajectory, crossed back over then departed the roadway to the left, contacted the left jersey barrier with the rear right corner, then came to rest on the left shoulder facing generally north. V1 was towed due to damage. The driver of V1 and her three-year-old daughter were transported to a local hospital with reported possible injuries. The driver of V1 had been driving for approximately nine years and was experienced with both the vehicle and the roadway. She stated that she was not aware of a tire problem. The police report indicated that V1 traveled over a patch of standing water and lost control. The right front and right rear tires were under-inflated by greater than 28 kPa (4 psi) so the left rear tire may also have been under-inflated and failed as V1 rotated clockwise. Also, under-inflated tires increase the probability of hydroplaning and decrease directional control on wet roads. The driver stated that the left rear blowout may have been a result of a nail in the tire. However, during the vehicle inspection the tire appeared just to be deflated, possibly due to a nail. The driver recalled being somewhat fatigued which may have contributed to her failure to control V1 after the critical event. The critical pre-crash event for V1 was coded: this vehicle control loss due to - poor road conditions, (e.g., Standing water on roadway & under inflated tires caused initial control loss- hydroplane). The critical reason for the critical pre-crash event was coded to V1 and was coded as a driver related factor: poor directional control (e.g., failed to control vehicle with skill ordinarily expected).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Driver Performance, Roadway, Speed/Distance, Vehicle, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Poor road conditions (puddle,pot hole,ice,etc.) (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

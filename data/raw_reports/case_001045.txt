@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary V1, a 2000 Chevrolet Silverado was turning left out of a commercial driveway onto a five lane, two way, wet asphalt roadway in daylight conditions. V1 was attempting to pull out into the left-hand turn lane to merge into traffic V2, a 2001 BMW 325I was traveling westbound on the same roadway. The front of V1 contacted the right of V2 before they both came to final rest in the roadway. The driver of V1 was a 27-year old male who had reported that he had been traveling 2-16 kmph (1-10 mph) prior to the crash. He had no health related problems and had taken no medication prior to the crash. He was rested and traveling to work. He did not wear corrective lenses. He was uninjured and refused treatment. The Critical Precrash Event for the driver of V1 was this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Precrash Event was a recognition error, inadequate surveillance (e.g. failed to look, looked but did not see), because the driver of V1 stated that he did not see V2. The driver of V2 was a 44-year old female who had reported that she had been traveling between 50-64 kmph (31-40 mph) prior to the crash. She had no health related problems and had taken no medication prior to the crash. She was rested and traveling to a tanning place. She did not wear corrective lenses. She sustained incapacitating injuries and was transported to a local trauma facility. The Critical Precrash Event for the driver of V2 was other vehicle encroachment, from driveway, across path. The Critical Reason for the Critical Precrash Event was not coded to the driver of V2 and she was not thought to have contributed to the crash. Some associated factors were the snow and the driver of V2 talking on the cell phone.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Cell Phone Use, Decision, Distraction, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Accelerating in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

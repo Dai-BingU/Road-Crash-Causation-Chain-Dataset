@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash occurred at night at approximately 2230 hours on a five lane, divided, straight, concrete freeway with paved shoulders on both sides, and a positive 1% grade. The road surface was dry, and not illuminated. At the time of the crash, the weather was clear, it was dark and the speed limit was 97 kmph (60 mph). Vehicle one (V1), a 2002 Mitsubishi Eclipse 2 door convertible, was northbound in the number one lane. The V1 driver, a 22-year-old female, stated that she felt something hit the left front wheel. V1 departed the roadway to the right in a clockwise rotation, traveled through a shallow ditch, struck a dirt embankment with the front, continued to rotate clockwise, struck the embankment again with the left side, and came to rest off the roadway in the ditch facing generally west. V1 was towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical pre-crash event was coded as a driver related factor: poor directional control (e.g. failing to control vehicle with skill ordinarily expected). The driver stated the left front wheel may have hit something in the roadway, but there was no visible damage to the tire or wheel. Yaw marks on the shoulder indicated the tires were inflated as the vehicle left the paved surface. Based on the V1 driver interview, she was well rested, was not ill, and was not taking any prescription or non-prescription drugs.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

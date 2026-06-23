@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred just past dawn during daylight hours in a rural mountainous area on a two-lane roadway with various curves and elevations. The roadway involved was under construction and there were warning signs and flags present for both directions of travel. Warning signs for a bump in the road were also posted. The posted speed limit for the construction area was 56 kmph (35 mph). The westbound roadway curved left and was on a slight uphill elevation prior to the area of impact. The eastbound roadway also curved left with a downhill elevation. Vehicle one (V1) was a 1999 Ford F-Series van-based motor home with an 2.4 meter long (8 feet) box trailer in tow. V1 driven by a 45 year-old male who was traveling eastbound when the towed trailer became unhitched after traveling over a bump in the road. V1 continued east, unaware of the event. The trailer continued east, departed the eastbound lane and crossed over into the westbound lane where it contacted the left front bumper of Vehicle two (V2), a 1995 Jeep Wrangler driven by a 59 year-old male. V2 had been traveling westbound when it was contacted by the trailer. After the initial impact, V2 rotated counter-clockwise then tripped and flipped to the right 2 quarter turns. V2 came to rest on it's top partially on the guardrail and partially on the paved shoulder. The trailer from V1 came to rest in the eastbound lane facing north. V2 and the trailer were towed from the scene. The critical pre-crash event for V1 was coded: this vehicle control loss due to, non-disabling vehicle problem (specified as: trailer became detached from V1 ). The critical reason for the critical event was coded to V1 as a vehicle related factor: trailer attachment failed. Since the trailer detachment from V1 was considered the first event of the crash, V2 was not involved in the first event. The critical reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cargo Shift, Roadway present problem 
+Vehicle 2:  Driver Physical, Drugs, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Non-disabling vehicle problem (e.g., hood flew up) (specify) :
+ 2 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Trailer attachment failed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

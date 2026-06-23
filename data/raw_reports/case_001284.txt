@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary ***Case Note: Driver of V2 refused interview on scene and during follow-up. No V2 interview. V2 PAF completed without V2 interview information. The crash occurred in the center of a four-way intersection. The east/westbound roadway consisted of one eastbound and one westbound lane. The north/southbound roadway consisted of one northbound and one southbound lane. Both roadways were straight, level bituminous with a posted speed of 40 kmph (25 mph). It was early afternoon on a weekday. The roadways were dry and the sky was clear. There was no other traffic at the time. V1, a 2004 Lexus GX470 SUV with one occupant, was traveling eastbound in lane one. V2, a 1998 Ford Explorer with one occupant, was traveling southbound in lane one. V1 entered the intersection after failing to stop for a posted Stop sign and was struck on the driver's side by V2. V2 pushed V1 laterally until it struck the curb at the southeast corner of the intersect, at which time V1 rolled-over 2 quarter turns before coming to rest. V1, the 2004 Lexus GX470 SUV, was driven by a 17-year-old male who reported no injuries, but was transported to the emergency room. He stated that he had just dropped his daughter off at the park and was on his way to a friend's house. The driver stated that this had been his first time on this road and failed to observer the posted Stop sign before entering the intersection. The Critical Precrash Event for V1 was “This Vehicle Traveling/Crossing over (passing through) intersection”. The Critical reason for the Critical Event was a “Driver Related Factor/Inadequate surveillance-looked but did not see”. The following associated factors were also coded. Illegal Maneuver/Failed to stop for TCD. Experience/Frequency of driving road-First time on road. Other driver related experience/Inexperienced driver, due to the short time that the driver had his license. V2, the 1998 Ford Explorer, was driven by a 33-year-old male who reported no injuries. V2 was southbound in lane one when it entered the intersection and struck V1, pushing it laterally until it struck a curb and rolled-over. The Critical Precrash Event for V2 was “Other Vehicle Encroachment/From crossing street, across path”. The Critical Reason was not coded to this vehicle. No other associated factors were coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Driver Physical present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

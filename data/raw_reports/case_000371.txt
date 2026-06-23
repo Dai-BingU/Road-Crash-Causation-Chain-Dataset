@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This crash took place during the afternoon hours of a weekday on a four lane divided roadway. There were two eastbound lanes and two westbound lanes that were divided by guardrails and a grass median. The westbound road had a curve to the left. The posted speed limit was 80kmph (50mph). There were no adverse conditions at the time of this crash. V1 was traveling west in lane two. V1 departed the roadway to the left, and struck the end of a guardrail with its front plane. V1 then went up and over the guardrail. Then rolled off the guardrail and came to rest in the grass median on its top plane. V1, a Chevy 1500 P/U, was driven by a 40 year-old male who was en route to his night job and stated that he was running a little late. He stated that he remembers being in the left lane. He must have fallen asleep because when he woke up he was on top of the guardrail. The truck rolled and ended on the roof. This driver stated that as well as being in poor health, he also suffered from insomnia. The Critical Pre crash Event for this vehicle was coded: off the edge of the road on the left side, the Critical Reason for the Critical Pre crash Event was coded: Sleeping.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Physical, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

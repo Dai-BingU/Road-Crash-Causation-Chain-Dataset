@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of a weekend in an intersection of two, two-lane bituminous roadways. Both undivided roadways were dry, straight, and level. The north/south roadway was uncontrolled while the east/west roadway was controlled by stop signs at this intersection. There were no adverse weather conditions during the daylight hours. V1, a 1997 Chevrolet Monte Carlo, was stopped in the intersection occupying the northbound lane intending to turn left. V2, a 1999 Ford Windstar minivan, was also northbound approaching the intersection behind V1. V3, a 2005 Ford Focus, was southbound approaching the same intersection intending on going straight. As V2 approached the intersection it failed to stop behind V1 and contacted its left rear corner and crossed into the southbound travel lane. When V2 entered the southbound travel lane its front collided with the front of V3. All vehicles came to final rest in the intersection. V1 was driven by a 25 year-old female who was on her way a friend's home. She stated that she was waiting for V3 to pass through the intersection so she could complete a left turn and continue west. She stated that she was waiting for a while (10-15 sec.) when she looked in her rearview mirror and saw V2 approaching from behind. She stated that V2 appeared to turn to the right, then to the left where he made contact with the rear of her vehicle. She stated that she saw V2 approaching at a high rate of speed, but was unable to avoid the collision. The driver was uninjured and V1 was driven from the scene. The Critical Precrash Event for V1 was coded other motor vehicle in lane traveling in the same direction with higher speed. The Critical Reason for the Critical Event was not coded for V1. There were no associated factors coded to V1 and the driver was not thought to have contributed to the crash. V2 was driven by a 59 year-old male in good health who was wearing his prescription lenses that corrected a myopic (near-sighted) condition. He stated the rear of the right side of V2 made contact with the back of V1 as he was exiting the travel lane as he attempted to avoid V1. V2 then entered the southbound travel and struck V3. The driver suffered minor injuries but was not transported, however the 10 year-old passenger in the second row left position was transported with incapacitating injuries as V2 was towed due to damage. The Critical Precrash Event for V2 was coded other motor vehicle in traffic lane, other vehicle stopped. The Critical Reason for the Critical Event is a driver related factor, a recognition error of inattention. In addition to the inattention, inadequate surveillance (failure to look far enough ahead) was coded as an associated factor. V3 was driven by a 53 year-old female in good health and wearing her prescription lenses to correct a myopic (near-sighted) condition. The driver was unable to speak directly after this crash, but did manage to tell her husband what happened. She stated she was going through the intersection when her airbags deployed, that is when her husband told her that she was in a crash. The driver was transported with incapacitating injuries and V3 was towed due to damage. The Critical Event for V3 was not coded to this vehicle, as it was not involved in the first harmful event. The Critical Reason for the Critical Event was not coded to this vehicle. There are no associated factors coded to this driver and the driver was not believed to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Drugs present problem 
+Vehicle 2:  Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

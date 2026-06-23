@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary The crash occurred on an east/west five-lane urban business roadway that was not divided. There were two eastbound lanes, two westbound lanes, and a center two-way left turn lane. The road was level and straight. Traffic signals were located every two blocks and the crash occurred midway between two controls (approximately 150m). Recent traffic counts indicate the road carries 30,499 vehicles per day at a posted speed of 72 kmph (45 mph). Conditions were daylight and dry in the mid-afternoon on a weekday. Vehicle #1 was a 1993 Chevrolet S-10 pickup traveling west in the right lane. Vehicle #2, a 1995 Nissan Pathfinder, and Vehicle #3, a 2006 Honda Ridgeline pickup, were stopped westbound in traffic in the right lane ahead of Vehicle #1. Vehicle #1 was not able to stop in time and rear-ended Vehicle #2. This impact pushed Vehicle #2 into the rear of Vehicle #3. All vehicles came to rest at impact. Vehicles #1 and #2 were towed; Vehicle #3 was driven away. None of the participants were transported to a medical facility from the scene. Vehicle #1 was driven by a 50-year old male that was belted. The vehicle was not equipped with airbags. In his statement, the driver of Vehicle #1 was unsure why he rear-ended the other vehicle. Police charged him with following too closely and for not having a driver's license (it had been suspended). The Critical Pre-crash Event for Vehicle #1 was other vehicle stopped in lane. The Critical Reason for the Critical Event was inattention, a recognition error. Associated factors coded to this driver include fatigue (the driver had worked eleven days in a row and appeared tired at the scene), inadequate surveillance, (failed to look far enough ahead), unfamiliarity with the roadway, and a traffic flow interruption factor - congestion. The driver had a fractured left arm, which was in a cast, but he didn't believe it contributed to the collision. He also takes an asthma medication and wears glasses for a farsighted condition. Vehicle #2 was operated by a 38-year old female that was belted with no deployed airbags. She reported that traffic had been stopped for more than 10 seconds when she was rear-ended by Vehicle #1. The Critical Pre-crash Event for Vehicle #2 was other motor vehicle in lane traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. The only associated factor coded was a traffic flow interruption factor - congestion. The driver also takes an unknown medication for a thyroid condition. Vehicle #3 was driven by a 37-year old male that was belted with no deployed airbags. The driver stated he was stopped waiting for traffic to continue when he was struck in the rear. No Critical Pre-crash Event and no Critical Reason were coded to Vehicle #3 because it was not involved in first harmful event. The only associated factor coded was a traffic flow interruption factor - congestion.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Fatigue, Driver Inexperience, Drugs, Surveillance, Traffic present problem 
+Vehicle 2:  Drugs, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

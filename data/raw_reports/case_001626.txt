@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary A crash involving two vehicles occurred a few hours before midnight at an intersection without traffic lights. The speed limit for the roadway is 56 kmph (35 mph). The road is a 4-lane divided (no positive barrier) concrete roadway with dry travel lanes. It was dark but lighted and there were no detrimental atmospheric conditions at the time of the crash. Vehicle one (V1) was a 2002 GMC Yukon driven by a 51 year-old male with one passenger. It was traveling north in the fourth lane attempting a left turn onto the on-ramp of a highway. Vehicle two (V2) was a 1992 Volvo 940 driven by a 38 year-old female with one passenger. It was traveling south in lane two of the southbound lanes, attempting to pass through the intersection. At the intersection, the front of V2 impacted with the right side of V1. V2 came to rest within the intersection, facing southwest. V1 continued to drive about 50 meters (164-feet) from the point of impact onto the on-ramp before it stopped. Both vehicles were towed from the scene. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason was coded to V1 as a driver related decision factor: misjudgment of gap or others speed. The driver thought there was enough time to complete turn. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction over left lane line. The critical reason not coded to this vehicle.. The driver of V2 stated there were two vehicles driving in front of her blocking her view of V1. Despite this, she was sure she observed that V1 did not stop at the left turn lane but kept going, initiating its left turn.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision, Driver Inexperience, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

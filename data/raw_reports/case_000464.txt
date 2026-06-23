@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash happened mid-afternoon on a divided, dry, straight, asphalt seven-lane state highway going through a controlled four-left intersection. Southbound traffic consisted of a right turn lane, two through lanes and a left turn lane. The speed limit on the highway is 64 kph (40 mph) and there were no adverse weather conditions at the time. The crash occurred during early evening rush hour. Vehicle one, a 1992 Dodge Ram 350 pick-up driven by a 44 year-old male was southbound in lane two going straight through the intersection. Vehicle two, a 2004 Ford Expedition SUV driven by a 38 year-old female was in front of vehicle one going straight through the intersection. The traffic was stopped at a red light farther down the road and vehicle two stopped. Vehicle one impacted with its front to vehicle two's back. Vehicle one came to rest at impact on its wheels facing south. Vehicle two was pushed forward and came to rest on its wheels facing south next to the curb. The vehicle one was towed due to moderate damage to the front. Vehicle two was driven from the scene. The pre-event movement for vehicle one coded going straight, category other motor vehicle in lane, other vehicle stopped. Critical reason for the critical event coded driver related "internal distraction". The pre-event movement for vehicle two coded stopped in traffic lane, category other motor vehicle in lane traveling in same direction with higher speed. Critical reason not coded to this vehicle. Additional factor, inattention reaching for cell phone.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience, Surveillance present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

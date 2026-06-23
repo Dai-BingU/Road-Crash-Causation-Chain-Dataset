@@ -1,0 +1,23 @@
+Case Summary:
+1    Case Summary This four vehicle daytime collision occurred just before noon. The collision occurred at a four-leg intersection comprised by an east/west roadway and a north/south roadway. Both east/west and north/south roadways are undivided, dry, level, and made of asphalt. Both roadways are designated 56 kmph (35 mph) have left turn pockets and are controlled by a tri-light signal that was functioning properly at the time of the collision. Vehicle one (V1) a 2005 Toyota Corolla sedan driven by a 25 year-old female with one passenger was traveling eastbound in the left turn pocket making left turn to head north. Vehicle two (V2) a 1988 Jeep Cherokee 4x4 suv driven by a 33 year-old female with one passenger was traveling westbound in the number one lane. Vehicle three (V3) a 2003 Toyota 4-runner 2x4.suv was stopped in the number two lane heading south. Vehicle four is (V4) an unknown full size light truck. V4 was stopped in the left turn pocket heading south. No indications of mechanical problems with any of the vehicles involved. As V1 attempted its left turn to head north its right side was impacted by the front of V2. This caused V1 to rotate counter clockwise and side slap V2's left side with V1's right side. V1 continued in a northwesterly direction and contacted the front of V3. V2 continued in a northwesterly direction where it contacted V4's front with its front V1 came to rest facing northwest in the north crosswalk and was towed due to damage. V2 came to rest facing northwest in the north crosswalk and was towed due to damage. V3 came to rest at impact facing south and was driven to the right curb after the crash. V4 came to rest at impact and was driven to an unknown location after the crash. The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded to V1 as a driver related factor: misjudgment of gap distance of other's speed. The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction, over the left lane line. The critical reason was not coded to this vehicle. V3 and V4 were not involved in the first harmful event. The critical reason was not coded to either of these vehicles.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Performance present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

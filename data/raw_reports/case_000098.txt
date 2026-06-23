@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred off the right side of the roadway of a two-lane roadway with a curve-right. Conditions were cloudy with rain earlier in the day in the afternoon on a weekday. The posted speed limit was 55 MPH. V1 was a 1999 Nissan Altima sedan traveling northbound in the first travel lane negotiating the curve. The driver of V1 does not recall what happened. The driver of V1 departed the lane towards the left, then departed the roadway toward the left then returned to the road towards the right then departed the right side of the roadway and the front of V1 struck a tree. The driver of V1 does not recall his travel speed prior to impact. V1 came to final rest facing northbound. V1 was driven by a 22-year-old male who sustained moderate injured and was transported to a local hospital. He stated that he does not recall what had happened and does not recall being involved in a motor vehicle crash. V1 was towed due to damage. The critical precrash event for V1 was coded as This vehicle traveling off the edge of the road on the left side.. The critical reason for the critical precrash event was a driver related factor, Sleeping, that is, actually asleep. The driver was in good health and does not take any medications. The driver of V1 was comfortable with his vehicle. An associated factor may include that this was the first time the driver was on this roadway
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Fatigue, Driver Inexperience, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the left side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Sleeping, that is, actually asleep

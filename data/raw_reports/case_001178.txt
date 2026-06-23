@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the afternoon of a weekday in the middle of a five-way intersection. The intersection consisted of an east/west five-lane roadway divided by metal trolley tracks and a north/south six-lane roadway that was divided into two separate roadways on the southern side of the intersection. The intersection was controlled by properly functioning traffic signals. The roadways were bituminous, dry, straight, and level with posted speed limits of 56 kmph (35 mph). The traffic flow was heavy but there were no adverse atmospheric conditions at the time of the crash. Vehicle one (V1), 2000 Honda Accord, was westbound in lane one approaching the intersection where it intended on going straight. Vehicle two (V2), a 2005 Toyota Sienna, was eastbound in lane two approaching the same intersection where it intended to make a left turn northbound. As V1 entered the intersection with the green light it was struck on the left front corner by the front of V2. After the initial impact, V1 rotated clockwise before coming to final rest facing north in the intersection near the point of impact. After the impact V2 continued along its intended northward direction for a few meters while rotating slightly clockwise before coming to final rest. Both vehicles were towed due to disabling damages. The driver of V1, a 23-year old female, claimed she was traveling 48 kmph (30 mph) in lane one nearest the curb intending to go straight through the intersection when her vehicle was struck by V2. She stated that she had a steady green light and travels on this roadway weekly and is familiar with it. She added that she knew enough to be careful because it is a busy intersection. She braked and steered right in an attempt to avoid V2 but could not. Both she and her passenger were injured and transported to the hospital for treatment. The Critical Precrash Event for V1 was coded other vehicle encroachment, from opposite direction - over left lane line. The Critical Reason was not coded to this vehicle. Associated factors for this driver include possible inattention as she was talking with passenger, as well as the heavy congestion at the time of the crash. The driver of V2, a 45-year old female, was very reluctant to comment on the events of the crash and only answered selected questions. She said she was traveling eastbound in lane two and needed to make a left turn northbound. She claimed she did not see the posted overhead sign for 'no turns' and began her maneuver and struck V1. She was running late form an appointment with her daughter. She would not answer the question on how long she'd been a license driver or how many hours she slept. She was given a citation for making an illegal left turn. She and her passenger were injured and transported to the hospital for treatment. The Critical Precrash Event for V2 was coded this vehicle traveling, turning left at intersection. The Critical Reason for V2 was driver related factor, inadequate surveillance. Associated factors coded to this driver include possible distraction, (conversing with her passenger), an illegal maneuver, (made a left turn on a no turn roadway), and the fact she was in a hurry (late for a social appointment). The heavy congestion was also coded as an associated factor.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs, Traffic present problem 
+Vehicle 2:  Decision, Distraction, Driver Fatigue, Driver Stress/Emotion, Surveillance, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

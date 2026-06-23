@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lanes of a two-way, four-lane, urban roadway. There were two lanes each in the east and westbound directions. There was a shopping center parking lot with entrances on the south side of the roadway. The roadway had a posted speed limit of 56 kmph (35 mph) and the eastbound lanes were on a 3% downhill grade. The approach to the roadway from the parking lot was on a 1% uphill grade. Conditions were daylight and dry with clear skies. The setting was early afternoon hours on a weekend. Vehicle one was a 2002 Toyota Camry sedan stopped facing north in the parking lot waiting to turn left onto the roadway. Vehicle two was a 2007 Nissan Versa 5-door hatchback traveling east in lane two. There was a non-contact vehicle traveling east in lane one next to V2. V1 proceeded to turn left across the path of V2. The left plane of V1 was impacted by the front plane of V2. Both vehicles came to rest in the roadway near the point of impact. The Toyota Camry (V1) was driven by a 22-year old male who was uninjured. He refused to be interviewed for the study. In fact, he refused to speak to the police officer on-scene. The investigating officer estimated his travel and impact speeds to be 24 kmph (15 mph). The Toyota sedan continued in service after the crash. The Critical Precrash Event for V1 was "this vehicle traveling turning left at an intersection". The Critical Reason was unknown. V1 had a tire deficiency due to low tread depth and an under-inflated tire. No other associated factors could be coded. The Nissan Versa (V2) was driven by a 31-year old female who was transported to a local trauma center with possible injuries. She stated that she was taking her family from lunch to church when another vehicle pulled out in front of her from a parking lot. There was a vehicle on the right which blocked the view of this vehicle. She did not have a chance to react in avoidance. She estimated her travel and impact speeds to be 40 kmph (25 mph). The Nissan hatchback was towed due to damage. The Critical Precrash Event for V2 was other vehicle encroachment from driveway turning into the opposite direction. The Critical Reason was not coded to this driver. This driver drives this road on a weekly basis. She has only had this rental vehicle for one day prior to the crash, and rated her comfort level as neutral. She had four passengers at the time which she was "comfortable" with as related to vehicle handling.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Roadway, Vehicle present problem 
+Vehicle 2:  Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Leaving a parking position
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Unknown Reason - Unknown reason for critical event
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

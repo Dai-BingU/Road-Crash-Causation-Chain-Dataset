@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the late evening of a weekday in the southbound lanes of a two-lane divided highway bridge. The concrete, straight, and level bridge featured a speed limit of 72kmph (45 mph). Atmospheric conditions at the time were below freezing with moderate snowfall covering the road. There was a crash being cleared from the roadway roughly 30 meters ahead of the point of impact. V1, a 2005 Suzuki Reno was southbound in lane two preparing to slow down for a crash that had occurred up ahead. As V1 began to slow the vehicle slipped and spun approximately 120 degrees to the right and came to rest blocking both lanes of travel. V2, a 2003 Acura RSX, was approximately 15 meters behind V1. The driver of V2 also began to slow down for the upcoming accident but could not stop before hitting V1 in the middle of the road. V1 was driven by a 34 year-old male in good health and wearing his prescription lenses that corrected a myopic (near-sighted) condition. The driver stated he slowing down for the crash when he lost control of his vehicle and came to rest straddling both lanes. The driver was not injured and V1 was towed due to damage. The Critical Precrash Event for V1 was coded other vehicle in lane, traveling at higher speed. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. Associated factors in a trafficway restriction, other crash nearby, as well as a slick road surface, and the blowing snow. V2 was a 2003 Acura RSX driven by a 25 year-old female in good health on her way home. She stated she tried to avoid V1 by braking and steering right but could not and collided with V1. The driver was not injured but V2 was towed due to damage. The Critical Precrash Event was coded as other vehicle stopped in lane. The Critical Reason for this vehicle was coded as traveling too fast for conditions (poor road conditions). The associated factors include a trafficway restriction, other crash nearby, as well as a slick road surface, and the blowing snow.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Traffic, Weather/Environment present problem 
+Vehicle 2:  Roadway, Speed/Distance, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Too fast for conditions (specify) :

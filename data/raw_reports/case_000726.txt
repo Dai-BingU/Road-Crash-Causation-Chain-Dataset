@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of two one-way streets. The southbound roadway consisted of three undivided lanes. The westbound roadway was also comprised of three undivided lanes. These were straight, level, bituminous roads. Southbound posted speed was 56 kmph (35 mph). Westbound posted speed was 40 kmph (25 mph). Conditions were daylight, during the early evening of a weekend. The roadway was dry with clear skies. Traffic flow was normal. V1, a 2004 Jaguar X-Type with one occupant, was traveling southbound in lane three. V2, a 2004 Mitsubishi Endeavor with one occupant, was traveling westbound in lane one. Both vehicles were approaching the same intersection, which was controlled by a traffic light. V2 had been stopped at an intersection just east of the railroad tracks. When V2's light turned green, the driver proceeded over the tracks and entered the next intersection. V1's light had changed to red. As the two vehicles crossed through the intersection, the front of V1 made contact with the right side of V2. V2 began to rotate clockwise as the vehicle continued heading westbound. V2 then rolled two quarter-turns, coming to final rest on its roof. Both vehicles were towed due to damage. Both drivers refused treatment. V1, the Jaguar X-Type, was driven by a 65-year old White male who reported no injuries. He stated that he had a green light, and that he was traveling at between 24 to 32 kmph (15 to 20 mph). He believed that the driver of V2 was speeding. The Critical Precrash Event for V1 was “this vehicle traveling, crossing over (passing through) intersection”. The Critical Reason for the Critical Event was a inadequate surveillance. The driver failed to stop for the traffic control device. One associated factor for this driver was a recognition error, inadequate surveillance. The driver failed to look ahead to either side as he approached the intersection. Another associated factor was a view obstruction. Shrubbery partially blocks the view of approaching westbound traffic. V2, the Mitsubishi Endeavor, was driven by a 17-year old Hispanic male who reported no injuries. He advised that he was coming from his house to visit a friend. He was stopped at a light. When his light turned green, he proceeded over the railroad tracks. He stated that a row of hedges partially blocked his view of V2 until he began to enter the intersection. When he was able to see the approaching vehicle, he assumed that the driver of V2 was going to stop for the red light. The driver stated that by the time he realized the other vehicle was going to hit him, it was too late. His last minute avoidance actions of steering left and accelerating were unsuccessful. The Critical Precrash Event for V2 was “other motor vehicle encroachment, from crossing street across path”. The Critical Reason was not coded to this vehicle. One associated factor was a view obstruction. Shrubbery partially blocks the view of approaching southbound traffic. Another associated factor was a decision error, false assumption of other road user's actions. V2's driver assumed that the other driver would yield the right-of-way. A third possible associated factor could be experience related. The driver had only driven the vehicle three to four times, and may not have been comfortable with the vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway, Surveillance present problem 
+Vehicle 2:  Decision, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

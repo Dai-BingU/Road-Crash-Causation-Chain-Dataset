@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the eastbound lane of a 2-lane undivided roadway just prior to a T-intersection. There was one eastbound lane and one westbound lane. Both lanes of the roadway were straight, level, and bituminous with a posted speed limit of 64 kmph (40 mph). The other leg of the T-intersection was a 2-lane undivided roadway with one northbound lane and one southbound lane. It was early afternoon on a weekday; the traffic flow was moderate with stop and go activity. The skies were clear and the roads were dry. V1, a 2007 Chevrolet Impala 4 door with two occupants, was traveling east in lane one, directly behind V2. V2, a 1993 Ford Explorer sport utility vehicle with two occupants, was traveling east in lane one, directly in front of V1. Traveling in front of V2 was a school bus. The school bus was on its traditional route and stopping to let children off. After V2 slowed down and came to a stop for the school bus letting children out at the T-intersection, it was struck from behind by V1. Both vehicles' final rest was at approximately where the point of impact occurred. V1 was towed due to damage and V2 was driven away from the scene with rear end damage. V1, the Chevrolet Impala, was driven by a 17-year-old female who reported no injuries. She stated that she was on her way from school to the mall to finish up her Christmas shopping with her friend. As she was driving, she and her friend were having a social conversation. Then the driver saw a vehicle in the other lane that she wanted and pointed it out to her friend. When the driver of V1 looked back in her lane, she noticed that V2 was stopped behind the school bus. The driver of V1 hit the brakes but she did not have enough time to avoid the accident and her front hit into the rear of V2. The Critical Pre-crash Event for V1 was "other motor vehicle in lane, other motor vehicle stopped." The Critical Reason for the Critical Pre-crash Event was coded as a driver related factor, external distraction. The driver of V1 was distracted by a vehicle in the opposing lane and was not paying attention to her own lane and what the car in front of her was doing. Another associated factor that was coded to this driver was conversation with her passenger. The driver and her passenger were engaged in a social conversation while driving. The other associated factor coded to this driver was inexperience. The driver had only been driving for approximately 4 months at the time of the accident. V2, the Ford Explorer, was driven by an 18-year-old female. She and her passenger reported "C" injuries but refused medical treatment. The driver stated that she and her sister were driving from a local store to go to the gym. She was traveling behind a school bus that had stopped multiple times already on this road to let off kids. The driver said that she was at a full stop when she was struck from behind by V1. She did not hear braking or anything to even realize that an accident was going to occur. The Critical Pre-crash Event for V2 was coded as "other motor vehicle in lane- traveling in the same direction with higher speed." The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. Two associated factors coded to this driver were conversation with her passenger and driver inexperience.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Inexperience present problem 
+Vehicle 2:  Distraction, Driver Inexperience, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

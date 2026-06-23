@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the early afternoon of a weekday in the eastbound lane of a residential roadway. The east/west roadway consisted of one lane in each direction and featured construction barrels along it shoulders as the road was recently repaved. The bituminous roadway dry with a slight grade and curved slightly right as one traveled east but straightened out in the area where the crash occurred. The roadway featured a posted speed limit of 89 kmph (55 mph). The traffic flow was normal and it was cloudy at the time of the crash. V1, a 2006 Chevrolet Impala, was eastbound in lane one of the roadway negotiating the curve. Towards the end of the curve V1 drifted left and crossed the double yellow centerline into the oncoming lane. V2, a 1992 Toyota Camry, was westbound in lane one of the same roadway approaching the curve. The driver of V1 braked hard and steered right in an attempt to re-enter his original lane of travel. The driver of V2 attempted to avoid V1 by braking and steering left (into the opposing lane of travel). V1's front impacted the right front of V2 while both were entering the eastbound lane. V1 rotated clockwise and came to rest in the middle of the roadway facing northeast. V2 rotated clockwise and slid to rest just off the east shoulder facing west. Both vehicles were towed due to damage. The driver of V1, a 49-year-old male suffered minor injuries as a result of the crash, but did not require transport. He refused to be interviewed and participate in this study. He had left his vehicle after the crash and hidden a partially consumed bottle of liquor on the roof of a building next to the scene of the crash and was found to be driving under the influence. The driver was arrested at the scene. The Critical Precrash Event for V1 was coded other vehicle encroachment, from opposite direction over the left lane line. The Critical Reason was not coded to this vehicle. Associated factors coded to V1 include the ongoing construction of the roadway as well as the vehicle's speed, the driver's BAC of at least .17 and his overall poor directional control. The driver of V2, a 37-year-old male stated that as he was traveling westbound and saw V1 cross the centerline into his lane. It did not appear that V1 was going to return to it's own lane. The driver of V2 was not in a hurry and was traveling at 72 kmph (45 mph). He steered to the left and had just enough time to begin to brake when he struck by V1. He was not injured. The Critical Precrash Event for V1 was coded this vehicle traveling, over the lane line, left side. The Critical Reason was coded as a driver related error, incorrect evasive action. In addition to the driver's inappropriate evasive action his unfamiliarity and construction on the roadway were coded as associated factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Alcohol, Driver Performance, Speed/Distance, Traffic present problem 
+Vehicle 2:  Decision, Driver Inexperience, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Incorrect evasive action

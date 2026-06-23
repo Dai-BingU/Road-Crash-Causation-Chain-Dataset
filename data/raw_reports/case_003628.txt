@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single-vehicle crash occurred in the late evening of a weekday on a 4-lane divided highway. At the location of this crash, the eastbound highway splits from an intrastate to an interstate with two lanes for each direction. The concrete roadway is dry, slightly curved to the right and level with a posted speed limit of 89 kmph (65mph). This driver is a 30-year-old male that works as an automotive mechanic 40-hours each week and goes to church once a week. He was returning home from church this evening when he reports the differential or drive shaft on his 1996 Ford Ranger failed, causing the wheels to lock-up. He put the gearshift in neutral but it did not unlock the wheels and he could not control his vehicle. His truck veered off the right side of the highway and into a guardrail where it rolled over and came to rest on its wheels. He reports that he never had trouble with his transmission prior to the crash and the last maintenance performed on the truck was an oil change last month. He was able to exit his truck under his own power and only suffered minor bruising across the neck and chest from the seat belt. The Critical Precrash Event for V1 was coded “this vehicle traveling off the edge of the road on the right side”. The Critical Reason for the Critical Event was coded vehicle related factor, “transmission failure”.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Transmission/engine failure

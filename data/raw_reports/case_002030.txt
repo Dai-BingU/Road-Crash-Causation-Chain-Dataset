@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle crash occurred during morning daylight hours on a two-lane, level, dry, bituminous roadway that curves to the right and runs north to south. The posted speed limit for this roadway was 72 kmph (45 mph). There were no adverse atmospheric conditions present at the time of the crash. Vehicle one (V1), a 2001 Chevrolet Malibu sedan driven by a 19 year-old female, was traveling southbound in lane one negotiating the curve. V1 departed the roadway to the right, then re-entered the roadway, then departed lane one to the left, then re-entered lane one and began to rotate clockwise. V1 then departed the right side of the roadway and rolled two quarter turns upon its longitudinal axis towards its left. The right side of vehicle one then struck a tree and V 1 came to rest on its top facing north. V1 was towed from the scene the driver was transported to a local medical facility. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical event was coded as a driver related factor: too fast for curve. Police estimated V1's speed to be 112 kmph (70 mph). The driver's overcompensation in steering left and then right after the initial road departure and the insufficient tread of just 1 to 2 mm (1 to 3/32") on the rear tires were contributing factors in this crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Driver Performance, Speed/Distance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

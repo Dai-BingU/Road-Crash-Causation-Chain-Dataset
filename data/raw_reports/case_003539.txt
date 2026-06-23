@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lane of a two lane residential roadway. The roadway had a posted speed limit of 35 mph and the northbound lane had a 1% uphill grade. Conditions were dark with light rain and wet roadways. The crash occurred in the early evening hours of a weekday. Vehicle one was a 1992 Nissan Maxima sedan traveling north on a two-lane roadway negotiating a left curve. Vehicle two was a 1988 Oldsmobile Cutlass Ciera sedan traveling south on the same roadway negotiating a right curve. V2 lost control for unknown reasons and traveled partially off the right side of the road. V2 then returned to the roadway crossing into the oncoming lane of travel. The front of V1 impacted the front of V2. Both vehicles came to rest partially off the east side of the roadway. V1 was driven by a 46-year old male who was transported to a local trauma center with possible injuries. The driver stated that he saw V2 in his lane and began honking the horn. He then braked and steered to the right, but was unable to avoid the collision. He estimated his speed at impact to be 32 kmph (20 mph). V1 was towed due to damage. The Critical Precrash Event for V1 was V2 encroachment from opposite direction - over left lane line. A Critical Reason was not coded to this driver. The driver was taking two medications - one for diabetes and one for high blood pressure that has possible side effects of dizziness and fatigue. It was determined that the roadway did not meet AASHTO minimum standards for curvature. V2 was driven by a 23-year old female who was transported to a local trauma center with possible injuries. This driver was unable to be located for an interview. The investigating police officer estimated V2's travel speed to be 56 kmph (35 mph). V2 was towed due to damage. The Critical Precrash Event for V2 was traveling over the lane line on the left side of the travel lane. The Critical Reason coded to the driver of V2 was an unknown driver error. No associated factors could be coded directly to the driver because she was unable to be located. It was determined that the roadway did not meet AASHTO minimum standards for curvature.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Drugs, Roadway, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

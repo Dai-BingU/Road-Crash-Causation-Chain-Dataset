@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This crash occurred in the intersection of two residential roadways on a clear dry weekday afternoon. There were two lanes in each direction for each roadway. The east/west roadway was straight and level. Both roadways were dry asphalt. The speed limit was 64 kmph (40 mph) for east/west travel and 48 kmph (30 mph) for north/south travel. Traffic was moderate. The intersection was controlled by an on-colors traffic control signal without pedestrian signals. V1, a 1990 Chevy Lumina 4-door with one occupant, was westbound. V2, a 1995 Ford Taurus 4-door with one occupant, was eastbound. V3, a 2001 Ford Escape SUV with one occupant, was northbound stopped at a red light. The traffic control signal was working properly. V1 approached the intersection, stopped and then started to turn left onto the southbound roadway. V1 turned into the path of V2. V2 braked without lock-up but ran into the right back side of V1 with its right front. The impact (Event 1) caused V1 to spin in a clockwise rotation. The right rear of V1 then impacted the left front of V3 (Event 2). Meanwhile, after the initial impact, V2 continued eastbound where it struck and jumped the south curb with both right side wheels (Events 3 and 4). V1 was driven by an 83-year old female who was transported to the hospital with possible injuries. The driver said she was headed home from the pharmacy and that she was not sure if the light was green or red but said she stopped to yield before turning left. She said she saw another westbound vehicle make a right turn to her right. She said she did not see V2 approaching her vehicle so she initiated her left turn. She said after starting to turn she saw V2 coming towards her vehicle and that V2 struck her right rear. She said she spun around and her vehicle struck V3. The Critical Pre-crash Event for V1 was this vehicle traveling-turning left at intersection. The Critical Reason for the Critical Event was inadequate surveillance, looked but did not see. During the interview, the driver said this was her first accident and indicated that she was now afraid to drive. She admitted seeing V2 only after she started to turn and after she had been stopped to yield the right of way. An associated factor coded to this driver was the use of prescription medications to treat high blood pressure and cholesterol. V2 was driven by a 23-year old female who was not injured. She said that she had a green light and admitted seeing V2 stopped. She thought V2 was yielding to her so she continued straight. When V2 turned across her path she hit her brakes but was unable to avoid colliding with V2 and then striking the curb. The Critical Pre-crash Event for V2 was other vehicle encroachment from the opposite direction over the left lane line. The Critical Reason for the Critical Event was not coded for this vehicle. Associated factors coded to the driver of V2 were a false assumption in that she assumed that the other driver would yield the right of way, inattention due to a family problem, a vision impairment because she was not wearing her prescribed lenses to correct a myopic condition, and the driver's inexperience with her new vehicle. V3 was completely stopped at the northbound red light. The driver saw V1 stop and then start to turn. She said V1 turned into the path of V2, which struck V1, which then struck the left front of her vehicle. The Critical Pre-crash Event for V3 was "other - not involved in the first harmful event." The Critical Reason for the Critical event was not coded to this vehicle. Associated factors coded to the driver were work stress and unfamiliarity with the roadway.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Decision, Distraction, Driver Physical, Vision present problem 
+Vehicle 3:  Driver Inexperience, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

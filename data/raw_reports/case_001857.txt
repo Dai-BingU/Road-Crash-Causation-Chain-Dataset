@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle rollover occurred on a four-lane divided roadway. This roadway runs north to south and is in mountainous terrain with various curves and grades. This roadway had a dirt median with guardrails on both sides. The grade for this area is -6 percent with a right hand curve and a super-elevation of +6 percent. This crash occurred during daylight with good visibility and no adverse weather condition. The posted speed limit for this roadway is 105 kmph (65 mph) with warning signs 0.8 of kilometer (0.5 mile) prior to the crash area. Vehicle one (V1), a 2001 Chevrolet Tahoe was southbound pulling a trailer of 8.5 meters (28 feet) in length. The trailer began to jackknife. V1 departed the right side of the road, reentered the roadway and departed the left lane line. V1 rolled over two quarter turns coming to rest on its roof. The vehicle and trailer were both disabled and towed from the scene. The driver of V1, a sixty-year old male, was taking this trailer to his winter home. This driver had been driving for about three hours at the time of the crash. This driver stated that he noticed the trailers electrical brakes were not working and that he noticed this about 24 kilometers (15 miles) back. This driver is required to wear glasses for a myopic condition, but was not wearing them at the time. He takes the medication Glucophage for diabetes, and also has high blood pressure and takes Zestril. The critical pre-crash event for V1 was coded: this vehicle loss of control due to- jackknife event. The critical reason for the critical pre-crash event for V1 was coded as a vehicle related factor: jackknifed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Driver Physical, Drugs, Vehicle, Vision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Jacknife Event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Jackknifed

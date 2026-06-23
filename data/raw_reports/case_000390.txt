@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the northbound lanes of a two-way, eight-lane roadway, divided by a curbed median. There were five northbound lanes. The bituminous roadway was dry, straight, and level with a posted speed limit of 72 kmph (45 mph). Conditions were daylight and clear skies on a weekday afternoon with normal traffic flow. V1, a 2002 Dodge Durango with two occupants, was traveling northbound in lane three. V2, a 2001 Honda CR-V with one occupant, was stopped at a traffic light in front of V1. When the light changed to green V1 accelerated before V2 and the front of V1 struck the back of V2. V1 was driven from the scene while V2 was towed. The driver of V1, a 49-year old female, was not injured. She declined to be interviewed, but stated that she was stopped behind V2, waiting for the light to turn green. She advised that when her light turned green, she began to move forward, rear-ending V1, who did not immediately move forward when the light turned. The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason for the Critical Event was a driver related decision error, false assumption of other's actions. The driver falsely assumed that the other driver would immediately proceed when the light turned green. No additional associated factors could be determined for this driver. The driver of V2, a 39-year old male, was transported to the hospital with minor injuries. He stated that he was on his way home from Best Buy with a television he had just purchased. The driver indicated that he was the fourth vehicle back at a stoplight. He was talking to a friend on a cell phone as he waited for the light. When the light turned green, he was hit from behind. The driver advised that he did not see V1 approaching, as his view was blocked by the television he was transporting. The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors for this driver include an internal distraction (a cell phone conversation), and a view obstruction in the form of cargo inside the vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Cell Phone Use, Distraction, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

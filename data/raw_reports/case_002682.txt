@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the morning of a weekday on a 4-lane undivided roadway near an intersecting side street. The main thoroughfare runs east/west with two lanes for each direction and has a posted speed limit of 56 kmph (35 mph). The bituminous roadway was dry, straight and had a negative 2% slope for the direction of this crash. The conditions were clear, daylight and there were no adverse weather conditions. V1, a 1997 Land Rover Range Rover with one occupant, was westbound in lane two intending to straight. V2 was traveling ahead of V1. V2, a 2000 Volkswagen Jetta GLS with one occupant, was stopped in westbound lane two intending to turn left. The front of V1 struck the back of V2 and pushed both vehicles into the eastbound lanes where they came to final rest. The driver of V2 was transported from the scene to a hospital for minor injuries but the driver of V1 was not injured. The driver of V1 is a 26-year-old male that was driving to the doctor's office this morning, to get examined for poison ivy, when he was involved in this crash. He states he was traveling west in lane 2 of this 4-lane undivided roadway when for "some unknown reason" he failed to notice that V2 ahead of him stopped and he crashed into the back of it. He claims he was not distracted, in hurry, daydreaming or focused on anything other than driving to his doctor's office. He said this morning was a normal day, he is very familiar with the roadway and that "it all happened so fast" he cannot give a good a reason for crashing into the back of the Volkswagen. He remembers driving behind the car but he cannot recall if it had its turn signal on. He only remembers the Volkswagen being stopped the "half-a-second" before he tried to brake. The Critical Precrash Event for V1 was coded other motor vehicle in lane stopped. The Critical Reason for the Critical Event was coded inattention (daydreaming), thought focus unknown. An associated factor coded to this driver was failing to look far enough ahead. The driver of V2 is a 31-year-old female that reports she was returning home from work to pick up something that she forgot earlier this morning. While she was stopped in traffic at the intersection she was struck from behind by V1. She said she saw the Land Rover "at the last second" after she noticed "something big" in her rear-view mirror approaching her. The Critical Precrash Event for V2 was coded other motor vehicle in lane traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Driver Physical, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inattention (i.e., daydreaming)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

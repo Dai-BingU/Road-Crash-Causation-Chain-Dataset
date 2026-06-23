@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a divided, straight roadway near a hillcrest. The northbound lanes consist of five travel lanes. The speed limit on this roadway is 96 kmph (60 mph). This crash occurred during morning daylight hours with moderate traffic. There was no inclement weather at the time of the crash. Vehicle one (V1), a 1997 Mack truck with a single trailer, was northbound in lane four. Vehicle two (V2), a 1997 Mercedes-Benz C230, was northbound in lane three slightly ahead of V1. V1 attempted to merge into the third lane and the front of V1 struck the left side of V2. V2 began to rotate counterclockwise and the left side of V2 was struck by the front of V1. V2 continued to rotate and the right side struck the concrete traffic barrier. V1 then rotated across the roadway and the front struck the guardrail. V2 came to a controlled stop on the right shoulder. V2 was towed due to damage while V1 was driven. Neither driver was transported. The driver of V1, a sixty-two year-old male, was traveling back to his office after dropping off his payload. He was healthy, well rested and familiar with his vehicle. This driver had never driven on this roadway previously. This driver stated that he looked into his rearview mirror and thought that lane three was clear. He did not see V2 prior to impact although the driver checked for traffic in lane three before attempting to change lanes to the right. View obstruction due to vehicle design was a contributing factor. The critical pre-crash event for V1 was coded: this vehicle traveling: over the lane line on the right side of travel lane. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: inadequate surveillance (failed to look, looked but did not see). The driver of V2 was forty-seven year-old female. Some of the interview questions were not answered due to a language barrier. She was well rested, in good health and comfortable with her vehicle. This driver has driven on this roadway daily. The critical pre-crash event for V2 was coded: other vehicle encroachment; from adjacent lane-over left lane line. The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Surveillance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Over the lane line on right side of travel lane
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

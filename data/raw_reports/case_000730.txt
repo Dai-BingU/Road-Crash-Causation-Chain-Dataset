@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the intersection of a five-lane, two-way undivided road with a center turning lane heading east/west and a five-lane, two-way divided roadway heading north/south. The signals at this intersection were new (about 3 weeks) and were set to blink red for the north/south and yellow for the east/west traffic. The northbound lanes were recently expanded from 2 lanes to 3 lanes within the past month. The conditions of the roadway was wet asphalt V1 a 2003 Buick Rendezvous was exiting the shopping mall in lane 2 attempting to turn left and travel westbound. V1 was unable to see clearly down the street and proceeded to turn left. As V1 turned V2 contact him in the left side. V1 was driven by a 40 year old male. He stated that he was pulling out of the mall parking lot trying to turn left. He stated that traffic was backed up entering the mall from eastbound lane 1 and it was blocking his view. He pulled out, got to the middle of the intersection and was struck by V2. The Critical Pre-crash Event for V1 was this vehicle turning left at intersection. The Critical Reason for the Critical Pre-crash Event was Inadequate surveillance. V2 a 2000 Toyota Rav-4 was westbound in the second lane approaching the intersection, V2 proceeded into the intersection where she struck V1 in the front left corner. The driver of this vehicle refused to answer any questions about the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Fatigue, Roadway, Surveillance, Traffic, Weather/Environment present problem 
+Vehicle 2:  Drugs, Roadway, Traffic, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

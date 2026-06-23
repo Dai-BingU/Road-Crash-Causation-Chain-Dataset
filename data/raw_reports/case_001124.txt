@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the southbound lane of a two-lane north/south roadway near its intersection with a two-lane east/west roadway. The bituminous roadway was dry, straight, and level with a posted speed limit of 48kph (30mph). There was a stop sign for southbound traffic. It was early afternoon on a weekday under clear sunny skies with light traffic activity. V1, a 2002 Mazda Protégé four-door with two occupants was southbound in lane one. V2, a 1996 GMC Yukon, four-door SUV with one occupant was preparing to enter the roadway (turning left to go northbound) from the driveway of a convenience store. V1 had the right of way and was decelerating while approaching the intersection and the stop sign. V2 started to turn left from the driveway to the northbound lane. V2's front end struck the right front of V1. Both vehicles stopped within a meter or two of impact. V1 was towed while V2 remained operable. The driver of V1, a 25-year old male was not injured but his female passenger in the right front seat received minor injuries and was transported to a hospital. The driver advised that he was transporting his wife from lunch back to work. He was traveling about 16kph (10mph) decelerating as he approached the stop sign. He said he was looking ahead and to the left for traffic approaching from the east. The driver reported that before he could stop his vehicle was struck by V2, which he never saw. He added that he made no avoidance maneuvers. The Critical Precrash Event for V1 was coded other vehicle encroachment, from driveway, turning into opposite direction. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors include of inadequate surveillance, failed to look to side and conversing with passenger. The driver of V2, a 25-year old male was not injured. This driver reported that he was leaving the convenience store headed home. He claimed he was stopped in the driveway for more than 10 seconds. He said he looked to his left before starting forward. He added that he did not see V1 approaching because a delivery truck was parked on the convenience store lot to his left, parallel to the roadway, about 20 meters away. The driver pulled forward and just prior to impact he saw V1 and hit his brakes without lockup in an unsuccessful attempt to avoid striking V1. The Critical Precrash Event for V2 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was inadequate surveillance failed to look to side. The researcher feels that the driver was not being truthful in his interview. The truck that he claimed was blocking his view of V1 was a sufficient distance from him so as not to be that great of a factor. Associated factors include a possible sightline restriction from the parked truck as well as the fact the driver was not licensed.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Roadway, Surveillance present problem 
+Vehicle 2:  Roadway, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From driveway, turning into oppsite direction
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)

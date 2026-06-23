@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the southbound lanes of a five-lane urban roadway with a raised concrete median. There were three southbound lanes and two northbound lanes. There was no stop sign at the eastbound cross street, which was an exit from a parking lot. The roadway had a posted speed of 56 KMPH (35 MPH) and was level. Conditions were daylight and dry with clear skies. The crash occurred in the early afternoon hours on a weekday. Vehicle one was a 1993 Ford Aerostar minivan. Vehicle two was a 1997 Plymouth Neon sedan. V1 was stopped facing east at the intersection in the second lane, waiting to turn left. V2 was traveling south in the first lane intending to go straight. V1 proceeded to turn left and was struck in the left side by the front of v2. Both vehicles came to rest in the intersection. A 32-year old female drove V1 with six passengers. She was unable to be located for an interview. The officer estimated her speed to be 10 mph at the point of impact. The Critical Precrash Event for V1 was this vehicle turning left at an intersection. The Critical Reason was unknown due to no interview. An associated factor for this driver was the absence of a stop sign at the intersection in her direction of travel. A 20-year old female drove V2 with no other passengers. She stated that the other car suddenly pulled in front of her at the last moment. She estimated her travel and impact speed to be 40 mph. The Critical Precrash Event for V2 was the other vehicle encroaching from a crossing street turning into the opposite direction. No Critical Reason was coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway present problem 
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Starting in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Unknown Reason - Unknown reason for critical event
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

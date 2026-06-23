@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lane of a two-lane roadway with a curve-left. Conditions were daylight and dry with cloudy skies at 1:29 pm. The roadway had a posted speed of 40 MPH and the radius of the curvature equaled 225.25m. V1 was a 1990 Lexus 400S driven by a 41-year-old female. V1 was negotiating a curve and drifted off the right side of the roadway and the front of V1 struck a tree. The driver of V1 stated that she was traveling around 30 MPH and did not know why she hit the tree. She stated that her steering wheel was not working properly and this may have contributed to the crash. She sustained minor injuries and refused medical treatment. V1 was towed due to damage and had a CDC of 12FZEW1. The critical precrash event for V1 was when this vehicle was traveling off the edge of the road on the right side. The critical reason for the critical event was when the steering failed. The driver of V1 had to leave the crash scene therefore we had a partial interview and a partial inspection. She refused to be interviewed at a later time.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Steering failed

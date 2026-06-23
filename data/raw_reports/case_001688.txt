@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred in the eastbound lane of a straight two lane undivided roadway with a posted speed limit of 64 KPH (40 MPH). The roadway is a narrow country road with numerous small hills and no lane delineations. The weather was clear, the roadway dry and it was daylight at the time of this early afternoon weekday crash. Vehicle #1, a 2004 Honda Civic, was traveling east on the roadway and approaching a hillcrest with limited sight distance. As Vehicle #1 crested the hill another non-contact vehicle was slowing or stopped in her lane. The Driver of Vehicle #1 took evasive maneuvers by steering to the left and braking. The Driver of Vehicle #1 then observed an oncoming vehicle and braked and steered to the right. Vehicle #1 continued off the right side of the roadway, up a small embankment striking it with its front. Vehicle #1 then rolled over to the left two ¼ turns and came to rest on its roof facing west. Vehicle #1 was towed due to damage. The Honda Civic (Vehicle #1) was driven by a belted 16 year old female who sustained an abrasion on her hand, but refused any medical transport. It should be noted that she had only had her license for 6 months. She was familiar and comfortable with the vehicle. She was not fatigued and not taking any type of medications. She was wearing contacts to correct a myopic condition. The Critical Precrash Event for the driver of Vehicle #1 was when the vehicle traveled off the edge of the road on the right side. The Critical Reason for the Critical Event was coded as overcompensation, a performance error. This was chosen because the driver was able to go around the first non-contact vehicle, but then corrected abruptly to the right to avoid the second non-contact vehicle. An associated factor for this driver may be driver inexperience. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience, Driver Performance, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Avoidance maneuver to a previous critical event
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Poor directional control (e.g., failing to control vehicle with skill ordinarily expected)

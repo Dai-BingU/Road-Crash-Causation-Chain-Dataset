@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred during the early afternoon hours in the middle of an 4-leg intersection. The roadways were all straight and level made of bituminous asphalt, dry with no visible deficiencies, and controlled with traffic control lights with pedestrian signals. The speed limit for all roadways was 56 kmph (35 mph). The westbound roadway consisted of one right turn only lane and one left turn/straight lane prior to the intersection and one lane afterwards. The eastbound roadway consisted of two through lanes before and after the intersection. The northbound roadway consisted of two through lanes and a center left-turn lane prior to the intersection and two lanes after. The southbound roadway consisted of two through lanes and a center left-turn only lane before and two lanes after the intersection. Walls at the southeast corner of the intersection that supports a light rail overpass border the pre-crash travel lanes. These walls created a sight line restriction for all three drivers as they approach the intersection. Vehicle one (V1), a four-door 1997 Dodge Grand Caravan mini van carrying a 40 year-old female occupant, was traveling westbound in lane two when the driver did not stop for the traffic control device and entered the intersection. Vehicle two (V2), a four-door 2002 Nissan Xterra carrying a 42 year-old male occupant, was traveling northbound entering the intersection in lane one. Vehicle three (V3), a four-door 2002 Chevrolet Tahoe carrying a 32 year-old female occupant was traveling northbound to the rear of V2 in lane two of the roadway entering the intersection. The front of V2 impacted the left plane of V1 near the rear axle. V2 was directed Northwest into the number two travel lane and the front of V3 impacted with rear bumper corner of V2. This impact caused V2 to rotate counterclockwise and rollover along the right longitudinal axis two quarter turns coming to rest on the vehicles roof. All vehicles were towed due to damage and none of the occupants were transported for injury. No interview was conducted with the drivers of V1 and V2 due to language barriers. The police report mentioned that the driver of V1 stated that her brakes failed and she could not stop her vehicle from entering the intersection. The police report also indicate this driver was not impaired, nor was their vision obscured. It does list brakes as being defective and the primary contributing factor to the collision. The driver of V3 indicated that both he and V2 entered the intersection on a green light and his vehicle was in the number two lane traveling slightly behind V2. He claimed his view of V1 was blocked by V2's presence in addition to his vision being partially obscured due to the change from coming out of the shadows of the overpass into the bright sunlight. Both V2 and V3 were traveling at a constant velocity when they entered the intersection. The Critical pre-crash event for vehicle one was coded as: this vehicle traveling; crossing over (passing through) intersection. The critical pre-crash reason for the pre-crash event was coded as a vehicle related factor: brakes failed. The police report was the primary source of information for coding the critical reason. The Critical pre-crash event for vehicle two was coded as: other vehicle encroachment; from crossing street, across path. The critical pre-crash reason for the pre-crash event for vehicle two was coded as not coded to this vehicle, critical reason not coded to this vehicle. The Critical pre-crash event for vehicle three was coded as: other, not involved in first harmful event. The critical pre-crash reason for the pre-crash event for vehicle three was coded as not coded to this vehicle, critical reason not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Roadway, Vehicle present problem 
+Vehicle 2:  Roadway present problem 
+Vehicle 3:  Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+ 3 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Brakes failed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

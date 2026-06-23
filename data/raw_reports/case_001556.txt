@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a residential road that ran north/south, had two lanes and had no physical divider but did have a double yellow stripe. The road curved left (if southbound) with a radius of 87.9m. The southbound lane was super elevated to 3.2% and the northbound lane was super elevated to 6.1% with both measurements taken at the curves apex. The road had a negative precrash grade of 2.7%. The crash occurred in the early morning on a weekday under dark, unlit conditions with light mist type rain and wets roads. The posted speed limit was 56kph/35mph. V1 was a 2005 Mazda RX-8 traveling south on the road when it lost traction near the end of the curve and departed the right side of the road and struck a mailbox constructed of stone. The mailbox measured 1.5mx1.5m at the base and was 2m tall. V1 then rotated clockwise and came to rest about 14m south of impact facing north in the southbound lane. V1 was towed from the scene. The driver of V1, a 40-year-old belted female, suffered minor injuries as a result of the crash. She was transported from the crash scene to an area hospital for treatment. The driver of V1 was on her way to work at the time of the crash. The Critical Precrash Event for V1 was coded this vehicle traveling, off the road on the right side. The Critical Reason was coded as traveling too fast for conditions; road was wet/traveled asphalt and curved with negative grade (estimated 0.45 coefficient of friction). The driver was being treated for a medical condition with medications she took regularly but this was not thought to have contributed to the crash. The road and environment conditions were also coded as associated factors.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Physical, Drugs, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :

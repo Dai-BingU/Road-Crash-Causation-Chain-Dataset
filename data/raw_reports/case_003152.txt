@@ -1,0 +1,22 @@
+Case Summary:
+1    Case Summary V1, a 1994 Saturn SL1 4dr, was eastbound in lane two of a bituminous, three-lane, straight, flat, urban roadway. V2, a 1992 Ford Crown Victoria, was eastbound in lane two behind V1. V3, a 1992 Ford Taurus, was eastbound in lane two behind V2. The roadway had two eastbound lanes and one westbound lane. At the time of the daylight crash, the roadway was dry and there were no adverse weather conditions. Vehicles 1 and 2 had just started accelerated from an intersection controlled by a traffic light when they saw a police car with lights and siren activated coming at them in lane one westbound. They both decelerated with V1 changing lanes to the right and V2 preparing to do the same. V3 had slowed when approaching the light and then accelerated when the light turned green. Past the intersection, V3, front, contacted V2, rear. V2, front, then contacted V1, rear. V3 was towed due to damage. Vehicles 1 and 2 were drivable. The driver of V3 was injured and transported from the scene. A complete driver interview and vehicle inspection was obtained for V1. The Critical Pre-crash Event was not involved in first harmful event; the Critical Reason was not coded to this vehicle. A complete driver interview and vehicle inspection was obtained for V2. The driver was found to be familiar with both the vehicle and the roadway and was properly licensed for the vehicle. The Critical Pre-crash Event was other vehicle traveling in the same direction with higher speed; the Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. A complete driver interview and vehicle inspection was obtained for V3. The driver was found to be familiar with both the roadway and the vehicle and was properly licensed for the vehicle. She was not late or in a hurry but did report that she was irritated and upset about family issues. She had been fighting a cold and had taken Tylenol the night before the crash. She had begun to accelerate when the light turned green and then begun to cough, closing her eyes. Her cell phone rang while it was lying on the passenger seat and she reached for it even though her eyes were closed. As she hit the answer button and looked up she saw that V2 was coming to a stop in front of her and she had no time to react. The Critical Pre-crash Event wasother motor vehicle in lane traveling in same direction while decelerating; the Critical Reason for the Critical Pre-crash Event was the distractions of coughing with eyes closed and reaching for the cell phone. Associative factors for this crash were the driver was irritated when she awoke and was thinking about a family problem at the time of the crash. A witness interview with a school crossing guard substantiated the crash events detailed within this summary.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 3:  Cell Phone Use, Distraction, Driver Stress/Emotion, Drugs, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Decelerating in traffic lane
+ 3 ：Accelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other- Not involved first harmful event
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other Motor Vehicle in Lane- Traveling in same direction while decelerating
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Driver Related Factor- Internal distraction

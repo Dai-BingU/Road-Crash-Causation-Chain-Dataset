@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle daytime collision occurred just before noon. The collision occurred in a controlled intersection with a stop sign for the east/west roadway and no stop sign for the north-south roadway. The pre-crash roadway for both vehicles straight and level,dry paved with bituminous for east/west and concrete for north/south roadway. There is a posted speed limit of 40 kmph (25 mph) for e/w and 48 kmph (30 mph) for n/s. Vehicle one (V1), a 2005 Toyota Camry, driven by a 49 year-old female with two passengers was traveling westbound in lane 1, with the intent on going straight through the intersection. Vehicle two (V2), a 1992 Honda Accord, driven by a 89 year-old female with two passengers and was traveling northbound in lane 1. V1 had stopped at the stop sign and proceeded to roll forward to see if it was clear. V2 assumed V1 would yield to the right of way but realized she continued forward. The front of V1 hit the right side of V2, and both vehicles rotated into a side slap. V1 came to rest facing north and V2 came to rest facing northwest. Both vehicles were towed from the scene. Driver of V2 stated she didn't think V1 had stopped at stop sign and thought she was moving too fast. V1 stated she had stopped at the stop sign but needed to roll forward to make sure it was clear, she didn't have time to go or reverse to get out of her way. The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through)intersection. The critical reason for the critical event was coded to V1 as a driver related factor: false assumption of other's actions. An associative factor was an illegal maneuver (failure to stop for traffic control device). The critical pre-crash event for V2 was coded: other motor vehicle encroachment; from crossing street, across path . The critical reason for the critical event was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+Vehicle 2:  Decision, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Crossing over (passing through) intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, across path
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

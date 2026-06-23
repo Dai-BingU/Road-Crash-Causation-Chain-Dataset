@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a roadway intersection with 3-lanes traveling west, 1 was a left turn lane, 1-lane went straight east and 1 lane was a right turn lane. The 3 westbound lanes were, 2-lanes went west and , 1-lane was parking. The intersection was level and had a slope of +5/122 the roadway was dry asphalt. It was just afternoon-time and the weather was clear. As V1 approached the intersection she proceeded to make a left turn and did not see other vehicle coming. V1 was then contacted by V2. The contact was to the right front wheel area V1 slid to the right to the southeast corner to final rest. V2 rotated counter clockwise to face in a southwest direction for final rest. V1 was a 1993 Buick Century that was driven by an 83-year-old female who was transported to a local trauma center with minor injuries. She reported that she was on her way home from bible study and was traveling at a speed of 32 kmph (20 mph) and stated that she was glad bible study was over and she would not have to drive on that road way at that time of day anymore. As she came to the light she saw the other vehicle but thought the other vehicle was back further from the intersection. She did not slow down or brake hard, she just turned left in front of the other vehicle. She thought the other vehicle could get around her without hitting her car. The Critical Precrash Event for V1 was coded as this vehicle traveling turning left at intersection. The Critical Reason for the Critical Precrash Event was Decision errors misjudgment of gap or other's speed. She also reported that she had good health. The only past health history was a stint placed in an artery. She is taking medication for pain and high blood pressure that have possible side effects of dizziness, sleepiness and light headedness, she also takes an anti-inflammatory, thyroid, GERD and high cholesterol medication. She wears prescribed glasses that corrects hyperopic (far-sightedness) She also has a hearing deficit with 50% loss. She does wear hearing aids. V2 was a 1998 Pontiac Grand Prix that was driven by a 26-year-old female who was not injured and stated she was in good health. She stated that she just picked up lunch and was going back to the office. As she came to the intersection the light turned yellow and she was too close to stop. The vehicle traveling west turned left in front of her, she put on the brakes and steered left trying not to hit the other vehicle. The Critical Precrash Event for V2 was coded other vehicle encroachment from opposite direction-over left lane line. The Critical Reason for the Critical Precrash Event was not coded for V2. There were associating factors the driver stated she had taken cold & sinus medication and she had also stated that she was in a little hurry to get back to work after lunch.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Distraction, Driver Inexperience, Driver Physical, Drugs, Surveillance present problem 
+Vehicle 2:  Decision, Driver Stress/Emotion, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Misjudgment of gap or other's speed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

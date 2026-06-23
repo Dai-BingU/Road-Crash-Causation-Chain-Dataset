@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle rear-end type collision occurred during morning daylight hours during rush hour on a weekday. The crash occurred on a straight stretch of a four-lane, dry, level, bituminous, positively divided expressway. In the area of the crash, the speed limit is 97 kmph (60 mph). At the time of the crash, there were no adverse atmospheric conditions, and the roadway was free of defects. Vehicle one (V1), a 1991 Cadillac DeVille four-door sedan, was traveling northbound in the fourth lane (reserved for high occupancy vehicles), approaching congested traffic ahead. Vehicle two (V2), a 1978 Chevrolet half-ton regular cab pickup, was stopped ahead of V1 in the third lane. Vehicle three (V3), a 2005 Volkswagen Jetta, was stopped ahead of V2 in the third lane. V1 veered right to avoid colliding with the stopped traffic in the fourth lane, and entered the third lane, where its front plane impacted the back of V2. V2 moved ahead and impacted the back of V3. All three vehicles came to rest in the third lane. The 50-year-old male driver of V1 did not provide an interview. The critical pre-crash event for V1 was: Other vehicle in lane, other vehicle stopped. The critical reason for the event was attributed to V1, and was coded type of driver error unknown. The 42-year-old male driver of V2 was on his way to work. He reported to be in good health, with sight impairments that are corrected with lenses. He was well rested, and takes no medication. He heard the screeching of tires, and saw (in the rear-view mirror) V1 enter the third lane and impact the back of his vehicle. The critical pre-crash event for V2 was: Other vehicle in lane, traveling in same direction with higher speed. The critical reason for the event was not attributed to V2. The 56-year-old female driver of V3 did not provide an interview. The critical pre-Other-not involved in first harmful event. The critical reason was not attributed to V3.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Surveillance, Traffic present problem 
+Vehicle 2:  Distraction, Driver Stress/Emotion, Traffic present problem 
+Vehicle 3:  Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning right
+ 2 ：Stopped in traffic lane
+ 3 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

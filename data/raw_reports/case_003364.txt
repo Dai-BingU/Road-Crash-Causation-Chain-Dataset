@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred at an intersection in the southbound lanes of a four-lane suburban roadway with a raised concrete median. There were four southbound lanes, including left and right turn lanes, as well as three northbound lanes. The roadway had a posted speed of 72kmph (45 mph), and the southbound lanes had a 2% uphill grade. Conditions were dark but lighted and dry with clear skies. The setting was mid-evening hours on a weekday. V1 was a 1997 Ford Econoline chassis converted to a large delivery van. V2 was a 1995 Ford Escort sedan. V1 was traveling south in lane three approaching the intersection intending to go straight. V2 was traveling north in lane four approaching the intersection intending to turn left. Both vehicles proceeded through the intersection. The front of v1 impacted the right side of v2. Both vehicles came to rest in the intersection. V1 was driven by a 46-year old male who was uninjured. He refused to be interviewed. The investigating officer estimated his travel speed at impact to be 40kmph (25 mph). V1 was not towed due to damage and continued in service. The Critical Precrash Event for V1 was other vehicle encroachment from opposite direction over left lane line. The Critical Reason was not coded to this vehicle. The driver works for a commercial delivery service. Judging from the time of the crash, it is likely he was out late on his shift. V2 was driven by a 17-year old male who was treated on scene for possible injuries. He stated that he was picking up some food during his work shift for his co-workers. He was returning to work and attempting to turn left at an intersection. The light was green and he didn't realize he needed to yield the right of way. He estimated his speed at impact to be 8kmph (5 mph). There was no opportunity to react. V2 was towed due to damage. The Critical Precrash Event for V2 was this vehicle traveling turning left at an intersection. The Critical Reason was a decision error, false assumption of vehicles action as the driver assumed that V1 would yield the right of way. This driver was inexperienced and had only had his license for three weeks at the time of the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Driver Inexperience present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Turning left
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 2 ：This Vehicle Traveling- Turning left at intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

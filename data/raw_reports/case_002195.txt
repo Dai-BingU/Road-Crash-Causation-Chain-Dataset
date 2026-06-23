@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred in the afternoon of a weekday in the middle of a four-way intersection. The intersection consisted of an east/west seven-lane divided roadway intersected by a north/south four-lane roadway controlled by a properly functioning traffic control signal. The east/west roadway was bituminous, dry, and level it curved slightly to the right in the westbound direction as it approached the intersection but straightened out after it. The posted speed limit was 56 kmph (35 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash. V1, a 2005 Buick Terraza minivan with 4 occupants was stopped facing east in lane four (the designated left turn lane) waiting for traffic to clear so it could turn left. V2, a 2003 Honda Civic with one occupant, was westbound in lane two approaching the intersection where it intended on going straight. V1 began its turn as V2 entered the intersection. The front of V2 struck the right side of V1. The force of the impact caused V1 to begin rotating clockwise until it rolled left one-quarter turn onto its left side before coming to final rest in the northbound lanes of the intersecting roadway. V2 came to final rest in the middle of the intersection. Both vehicles were towed due to damage. The driver of V1, a 16-year-old female was transported due to non-incapacitating injuries. Her parents would not an interview unless an attorney gave approval. The attorney has since denied the interview for his clients. The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was an unknown driver error. The only known associated factor was driver inexperience. The driver of V2, a 28-year-old male, was uninjured in the crash. He stated that he was in the intersection when the light turned yellow, so he continued. He saw V1 stopped as he approached the intersection and believed it would have waited until he passed through before it proceeded. The next thing he knew V2 turned in front of him. The Critical Precrash Event for V2 was coded other vehicle encroachment, from opposite direction, over the left lane line. The Critical Reason was not coded to this vehicle. The only associated factor coded to this driver was a false assumption as the driver assumed that V1 would yield the right of way.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Inexperience present problem 
+Vehicle 2:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Type of driver error unknown
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

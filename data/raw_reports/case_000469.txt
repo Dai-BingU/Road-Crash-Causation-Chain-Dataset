@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the westbound lanes of a five-lane, suburban roadway with a center turn lane. The roadway had a posted speed limit of 72 kmph (45 mph) and the westbound lanes had a 4 percent downhill grade. Conditions were dark and dry with clear skies. The setting was early morning on a weekday. Vehicle one was a 1995 International tractor hauling a refrigerated beverage trailer traveling west in lane two. Vehicle two was a 2001 Chevrolet Cavalier coupe traveling west in lane one. V2 changed lanes to the left in front of V1. The front of V1 struck the left side of V2. Both vehicles came to rest in the center turn lane at an intersection. V1 was driven by a 40-year old male who was uninjured. He stated that he had left the warehouse to begin his shift distributing soft drinks. He was driving next to V2 on this roadway when the other driver began driving erratically, slowing as if to turn right and then re-accelerating. He said V2 then swerved in front of him. This driver braked, and estimated his travel and impact speeds to be 45 and 30 mph. The tractor-trailer continued in service. The Critical Precrash Event for V1 was other vehicle encroachment from the adjacent lane over the right lane line. The Critical Reason was not coded to this vehicle. No associated factor were coded to this driver. This driver averages 55 hours of work a week. He said he felt rested this morning. V2 was driven by a 37-year old female who was transported to a local trauma center with incapacitating injuries. She was unable to be located for an interview, as her phone number had been changed and she did not live at the address reported on the police and medical reports. The investigating officer estimated her travel and impact speeds to be 35 and 25 mph. V2 was towed due to damage. The Critical Precrash Event for V2 was this vehicle traveling over the lane line on the left side of the travel lane. The Critical Reason was coded as an unknown driver error. Associated factors included the use of two anti-psychotic prescription medications.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+ 2 ：This Vehicle Traveling- Over the lane line on left side of travel lane
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Type of driver error unknown

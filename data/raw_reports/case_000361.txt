@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occurred on a two-lane undivided roadway with a posted speed limit of 89 kmph (55 mph). The roadway was curved to the right with a radius of curvature of 352m and a superelevation of 1.6 percent. It was cloudy, the roadway was wet, and it was daylight at the time of this morning weekend crash. V1, a 1994 Volkswagen Jetta, was westbound on the roadway negotiating the right curve. A non-contact vehicle was following V1. V2, a 2003 Ford E-250 Econoline van, was following the non-contact vehicle. V1 pulled onto the right shoulder, but did not come to a stop. The non-contact vehicle crossed partially into the eastbound lane to go around V1, and successfully passed V1. V1 then came back onto the roadway, re-entering the westbound lane to attempt a U-turn. As V1 crossed the westbound lane, its left side was struck by the front of V2. V1 rotated slightly clockwise and its left side struck the right side of V2. V1 and V2 remained in contact as they traveled off the left side of the roadway before both vehicles came to rest facing in a southwesterly direction. Both vehicles were towed due to damage. V1 was driven by a belted 30-year old male who sustained severe head injuries and was transported for treatment. No interview could be obtained from the driver as he still remains in a coma. An interview obtained from a relative revealed that the driver had recently purchased the vehicle and on the morning of the crash, he had left his girlfriend's house to visit his best friend. It was possible that his friend passed him traveling in the opposite direction, did not recognize the new vehicle, and the driver of V1 attempted a U-turn to follow him. The relative could not provide any further information regarding the driver or the crash. The Critical Pre-crash Event for V1 was this vehicle attempting a U-turn. The Critical Reason for the Critical Event was coded as an illegal maneuver, a driver related factor. The witness indicated that no brake lights were visible on Vehicle 1 when he pulled to the side of the road. In addition to the illegal maneuver (U-turn), wet roads and drug use (marijuana) were coded as associated factors. V2 was driven by a belted 19-year old male who was transported, treated and released for minor injuries. He stated he was on his way to a work site when a car pulled off the road in front of him. He entered the eastbound lane in an effort to go around it, but it began a U-turn as he approached it. He attempted to avoid it by braking and steering left but there was not enough room and they collided. The Critical Pre-crash Event for V2 was other vehicle encroachment from adjacent lane, over the right lane line. The Critical Reason for the Critical Pre-crash Event was not coded to this vehicle. Associated factors coded to this driver include the use of an allergy medication (possible side effects of drowsiness or fatigue) as well as a false assumption in that the driver of V2 assumed that V1 would stop and remain on the shoulder. The wet roads were coded as an associated factor as well.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Drugs, Roadway, Weather/Environment present problem 
+Vehicle 2:  Decision, Drugs, Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Other- Other (specify) :
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Illegal maneuver
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

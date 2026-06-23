@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two vehicle crash occurred just before noon, at a on-colors controlled intersection. Four lanes undivided east/west and two lanes north/south. Road surface dry, level asphalt. Posted speed limit 56 kmph (35 mph). Vehicle one (V1) was a 1995 white Plymouth Acclaim 4-door driven by a 22 year-old female with one passenger was traveling west in the second lane. The driver of vehicle had stopped at the intersection with the intentions of turning left. The passenger in the vehicle asked the driver if she could open up her happy meal. The driver looked in the rear mirror to look at the passenger to respond, when the driver noticed V2 coming from behind her vehicle at a high rate of speed. The driver of V1 tried to start a left turn to avoid the crash. V1 was struck from behind on the right rear bumper. V1 spun around almost 180 degrees, to end up facing southeast in the middle of the intersection. Vehicle two (V2) was a 1997 green Chevrolet Lumina 4-door sedan driven by a 26 year-old male. V2 was heading west in the same lane as V1. As V2 crested the hill going west, the driver of V2 saw V1 at the intersection. The driver stated he did not see any turn signals or brake lights. The driver's attention was directed to the left side of the roadway for a brief moment. He also was looking at a portable DVD player on the right front seat, but it is unknown if he was also watching a DVD. When the driver's attention returned to the roadway ahead of him, his vehicle was closing fast on V1. The driver of V2 tried to veer to the right to steer out of the impending crash. The driver of V2 failed to steer far enough away from V1 and V2 struck the rear of vehicle 1. V2 continued west and stopped at the corner, where the driver got out to evaluate the crash. The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in the same direction with higher speed. The critical reason was not coded to this vehicle. The critical pre-crash event for V2 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded as a driver related factor: internal distraction, for looking at the DVD player.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction present problem 
+Vehicle 2:  Decision, Distraction, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Stopped in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+ 2 ：Other Motor Vehicle in Lane- Other vehicle stopped
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- Internal distraction

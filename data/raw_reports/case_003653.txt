@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This single vehicle night time crash occurred on a two-lane entrance ramp, which feeds into a three lane westbound expressway. There is also a southwest entrance ramp which feeds into the expressway, but it was not factor in this crash. The on ramp curves to the right, has an up hill grade, a bituminous surface, and a posted speed limit of 64 kph (40 mph). At the time of the crash, traffic was light, it was dark but the roadway was illuminated by street lights and there were no sight restrictions or road defects, but it had recently rained heavily, so the road surface was wet. Vehicle one (V 1), a 1997 Chevrolet Cavalier four-door driven by a 20 year-old female was traveling south on the entrance ramp at a speed of approximately 105 kph (65 mph). While negotiating the curve, V 1 lost traction, entered a counterclockwise rotation, departed the road to the left, and impacted a concrete jersey barrier with the front plane. After impact with the barrier, V 1 continued to rotate and came to rest across both travel lanes facing generally northeast. Vehicle evidence and the V 1 driver interview corroborate that V 1 had a fire in the engine compartment, and the fire occurred after impact to the barrier, according to the V 1 driver, The criticaL event for V 1 was coded "This Vehicle control loss due to traveling too fast for conditions." The Critical Reason for the Critical Pre-crash event was coded driver related factor "Decision error - too fast for curve/turn". (It had recently rained heavily and the roads were still wet). Associated factor right front tire over inflated by 90 kPa (13 lbs).
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Driver Performance, Roadway, Speed/Distance, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for curve/turn

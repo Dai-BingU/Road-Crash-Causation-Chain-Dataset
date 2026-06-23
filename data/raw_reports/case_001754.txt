@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary A two-vehicle crash occurred mid-afternoon on a clear day mid-week. The crash occurred on a straight, level, bituminous, and two-lane two-way roadway that intersect with a private parking area that is controlled with a stop sign. There were no sight line restrictions for either driver. Vehicle one (V1), a 2001 Dodge Stratus, was leaving the parking area and turning left to head north onto the two-lane roadway. The driver stated that she was stopped at the stop sign and adjusted the radio while she waited for traffic to clear. She then pulled into the intersection and was struck by vehicle two. Vehicle two (V2), a 2004 Mitsubishi Lancer, was southbound traveling at approximately 64 kmph (40 mph) on the two-lane two-way roadway. Vehicle two's driver stated that she was in a hurry because she was late for work and she was conversing with her boyfriend on the cell phone when V1 pulled in front of her and she impacted with V1. The driver of V1 was a 22 year-old female who had just gotten off work and was heading home. She indicated she stopped at the stop sign and let one car clear on the crossing street. She then said she looked but did not see V2 coming until the impact after she pulled into the intersection. V1's critical pre-crash event was coded as: This vehicle traveling/ turning left at intersection. The Critical reason was assigned to this driver and coded as a driver recognition factor: inadequate surveillance. V1 also had associative factors coded as an interior distraction of other non-driving actions, adjusting radio. The driver of V2 was a 31 year-old female who was going to work after a doctor's appointment. She was on her cell phone prior to the crash and was in a hurry because she was running late for work. V2's critical pre-crash event was coded as: Other vehicle encroachment/ from crossing street, turning into opposite direction. There was no critical reason coded for V2. V2 also had associative factors coded for: talking on the cell phone and the driver was in a hurry because she was late for start of her work shift. Prior to impact the driver of V2 applied the brakes and left 20.09-meters (65.91-feet) of pre-impact skid marks. Using a slide-to stop calculation for speed, V2 was traveling a minimum of 24-kmph (15-mph) above the posted speed limit. Speeding was considered a factor for the driver of V2.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Surveillance present problem 
+Vehicle 2:  Aggressive Behavior, Cell Phone Use, Decision, Distraction, Driver Stress/Emotion, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Starting in traffic lane
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From crossing street, turning into opposite direction
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

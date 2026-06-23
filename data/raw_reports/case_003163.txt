@@ -1,0 +1,24 @@
+Case Summary:
+1    Case Summary This three-vehicle crash occurred near a 4-way intersection during a weekday afternoon. The conditions were cloudy and wet due to a rainstorm and the traffic level was moderate because of lunch-hour commuters. The main highway runs north and south with a divided grass median and a posted speed limit of 89 kmph (55 mph) but as the road approaches this intersection it enters a business district and the speed limit drops to 72 kmph (45 mph). The intersecting east and west roadways also have a posted speed limit of 72 kmph (45 mph) and the pretimed traffic signal at this intersection has controls for right and left turns for all four directions. V1, a 1992 Lexus LS400, was northbound in lane one, a designated right-turn-only lane. V2, a 2004 Dodge Ram, and V3, a 1994 Chevy Blazer, were both westbound in lane four, a designated left-turn-only lane. As V1 was completed its right turn and began to accelerate when it entered the eastbound travel lanes. The driver of V1 lost control on the wet road and hydroplaned into the westbound travel lanes where it struck V2 head-on. After that impact, the front of V3 struck the back of V2. All three vehicles were towed from the scene. The driver of V1, a 20-year-old male in good health, was returning home from class when he was involved in this crash. He was driving his aunt's vehicle, which has he driven the past six months after wrecking his father's car earlier this year. He stated that as he made a right turn he lost control of the vehicle on the wet road. His vehicle began to skid and he hit the brake pedal, which caused him to hydroplane over a small concrete divider and crash into opposing traffic. He admitted he probably took the turn too fast for the conditions but denied he was speeding. He is very familiar with this intersection as it is only 3 miles from his home. The Critical Precrash Event for V1 was coded this vehicle control loss due to traveling too fast for conditions. The Critical Reason for the Critical Event was coded traveling too fast for conditions (turn and wet roads). In addition to the traveling too fast (reason unknown) the weather (rain) and wet roads were coded as associated factors. The driver of V2, a 42-year-old male, left work early this afternoon for a scheduled dentist appointment when he was involved in this crash. He reports that he was driving west toward this intersection and had let his foot off the accelerator as he approached the intersection because he saw the traffic signal was red. He believes he was traveling about 48 kmph (30 mph) when, suddenly, a vehicle (V1) traveling in the opposite direction lost control on the wet road and drove into the front of his truck. This driver did not react to V1 as it came toward him because he claimed there was nowhere to go or anything he could do. He admitted he was talking on his mobile phone to his wife when the crash happened and that he never knew there was a third vehicle involved in the crash until he got out of his truck. The Critical Precrash Event for V2 was coded other vehicle encroaching from opposite direction - over left lane line. The Critical Reason for the Critical Event was not coded to this vehicle. Associated factors for this crash include the internal distraction of talking on the cell phone as well as the rain and wet roads. The driver of V3, a 29-year-old male, was leisurely following V2 as they both approached the intersection to make a left turn. This driver was traveling about 10-15 mph when suddenly V2 was hit head-on by V1. This driver said that crash happened so fast that he was not able to stop and he drove into the back of V2. This driver was not involved in the first harmful event and the Critical Reason for the Event was not coded to this vehicle. The only associated factors coded to V3 were the rain and wet roads.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Speed/Distance, Weather/Environment present problem 
+Vehicle 2:  Cell Phone Use, Distraction, Roadway, Weather/Environment present problem 
+Vehicle 3:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning right
+ 2 ：Decelerating in traffic lane
+ 3 ：Decelerating in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Traveling too fast for conditions
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+ 3 ：Other- Not involved first harmful event
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Too fast for conditions (specify) :
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 3 ：Not coded to this vehicle- Critical reason not coded to this vehicle

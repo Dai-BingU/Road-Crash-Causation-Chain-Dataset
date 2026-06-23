@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred on a two lane, one way, dry concrete roadway in daylight conditions. V1, a 2003 Chevrolet Malibu was traveling north in lane two. There was a crash up ahead on the left side and it was a construction zone. Traffic had slowed down. V2, a 1993 Chevrolet Suburban was also in lane two, traveling northbound on the same roadway in front of V1. V2 had stopped because of another crash up ahead, V1's front contacted V2's back. They both came to final rest in the roadway. The driver of V1 was a 20 year-old male who stated that he was slowing down for traffic because there was another crash. He didn't realize the traffic slowed down that fast and he couldn't avoid hitting V2. The driver reported that he had been traveling between 34-48kmph (21-30mph) prior to the crash. The EDR reported a speed of 121kmph (75mph) prior to the crash. He was rested and traveling home. He was uninjured in the crash and refused treatment. The Critical Precrash Event was coded other motor vehicle in lane: other vehicle stopped. The Critical Reason for the Critical Precrash Event was a driver related error: external distraction because he was looking at a previous crash. The driver of V2 was a 47-year old male who had reported that he had been stopped for approximately 5 seconds because the traffic was backed up from another crash. Then V1 just ran in the back of him. He was rested and traveling to a job. He was uninjured in the crash and refused treatment. The Critical Precrash Event was coded other motor vehicle in lane: traveling in same direction with higher speed. The Critical Reason for the Critical Precrash Event was not coded to this vehicle. Some associated factors were the previous crash and the roadway was under construction.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Distraction, Speed/Distance, Surveillance, Traffic, Vehicle present problem 
+Vehicle 2:  Driver Inexperience, Traffic present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Decelerating in traffic lane
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- External distraction
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

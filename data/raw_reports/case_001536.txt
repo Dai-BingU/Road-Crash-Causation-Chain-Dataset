@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a barrier-divided roadway in an interchange area. The eastbound lanes have a slight curve to the left, a 3.3% upgrade and consist of four through lanes. The speed limit on this roadway is 97 kmph (60 mph). It was dark with streetlights on at the time of the crash and there were no adverse atmospheric conditions. Vehicle one (V1), a 1997 Chrysler Cirrus, was eastbound in lane three. Vehicle two (V2), a 1998 Oldsmobile Delta 88, was eastbound in lane four. The driver of V1 noticed a large piece of a truck tire in his lane and steered right. V1 entered lane two and the driver steered left. V1 rotated counterclockwise, continuing to travel eastbound. The driver of V2 noticed V1 out of control and applied the brakes and steered left. When V1 entered lane four, the front struck the front of V2. V2 veered to the left and the front struck the median jersey barrier. V1 rotated clockwise traveling to the southeast and the front struck the jersey barrier off the right side of the roadway. Both vehicles were towed due to damage. The driver of V1, a twenty-four-year-old male, was traveling from his home to make a business deal. He was well rested and familiar with his vehicle. He drives this route daily. This driver takes an antipsychotic medication as well as an unspecified sleeping aid. The driver of V2, a twenty-year-old male, was traveling from his home to his sister's home. He was healthy, well rested and comfortable with his vehicle. This driver travels on this roadway daily. The critical pre-crash event for V1 was coded as "object or animal; object in roadway." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; overcompensation." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from adjacent lane (same direction) - over right lane line." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Driver Performance, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Negotiating a curve
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：Object or Animal- Object in roadway
+ 2 ：Other Vehicle Encroachment- From adjacent lane (same direction) - over right lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

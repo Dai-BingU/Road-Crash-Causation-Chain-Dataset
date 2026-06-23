@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary This one-vehicle crash occurred during daylight hours on a northbound, five-lane expressway. This northbound section is separated from the southbound section by a median wall. The southbound section did not play a role in the crash. To the east of the roadway was a narrow shoulder. At the approximate crash location, there was an exit ramp the road surface level,dry asphalt that departed from the east (right) side of the roadway and proceeded northbound under a bridge. On either side of the exit ramp were large concrete walls that acted as bridge supports. The speed limit on the expressway was 72 kmph (45 mph). Vehicle one, (V1) a 2001 Mitsubishi Eclipse coupe driven by a 21 year-old male was traveling northbound in the first lane. The driver was intending to exit on the ramp, but lost track of the location and passed the exit up. The driver stated that while he was traveling at approximately 97 kmph (60 mph), he realized he had just passed his exit and decided to make the lane change. He applied the brakes and swerved right, lost control and began to rotate clockwise. The vehicle entered the exit lane then departed the roadway to the right and the vehicle's front end contacted a large concrete bridge support wall. This impact caused the vehicle to rapidly spin clockwise approximately 270 degrees and re-enter the exit lane roadway in a northbound direction. V1 came to rest partially on the road and partially off to the left side of the lane, facing northbound. After the impact to the wall, a fire started in the vehicle's engine compartment. The fire was safely extinguished by the fire department. The vehicle was towed due to damage and the driver was not transported to a medical facility. The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical event was coded as a driver related factor: overcompensation. The driver didn't recognize the exit ramp until almost past it. He was was tired and in a slight hurry to get home to go to sleep.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Decision, Distraction, Driver Fatigue, Driver Performance, Driver Stress/Emotion, Speed/Distance, Surveillance, Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Overcompensation

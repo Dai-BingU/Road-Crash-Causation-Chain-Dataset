@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary The crash occurred in the northbound lane of a six-lane, two-way roadway. There were four northbound lanes of which one is a right turn only and one is a left turn only lane and two southbound lanes. This was a straight, level bituminous roadway with a posted speed of 64 kmph (40 mph). It was afternoon on a weekday and the road was dry and the sky was clear. V1, a 1975 Rolls Royce Silver Shadow 2 was traveling northbound in lane three intending to go straight. V2 was a 2001 Chevrolet Silverado that was stopped for a red light in lane four. He was on a cell phone talking to his boss. Traffic was stopping ahead so the driver of V1 attempted to slow down. He reported that the car stalled and the brakes went to the floor. He dropped the phone and steered left to avoid hitting a vehicle with children it. The front of V1 contacted the back of V2 before they both came to final rest in the roadway. The driver of V1 was a 32-year old male who reported that he had been traveling between 18-32 kmph (11-20 mph) prior to the crash. The driver of V1 stated that the vehicle was in for repairs at his work and he was taking it for a test drive. He stated the car died and the brakes went to the floor. He had a choice of hitting a car with kids in it or a semi head on. So he decided he could probably handle it in the truck. He didn't know what else to do. He was uninjured and refused treatment. The Critical Precrash Event for the driver of V1 was other motor vehicle in lane: other vehicle stopped. The Critical reason for the Critical Precrash Event was a vehicle related factor: the brakes failed. An associated factor was that the driver was on the phone at the time of the crash. The driver of V2 was a 54-year old male who reported that he had been stopped prior to the crash. He stated he was stopped at the light in the left turn lane. The cops said that V1's brakes went out and V1 hit him. He remembered looking in the mirror and thinking V1 is not going to stop. He had a history of a collapsed lung and had taken Albuteral for it. He was wearing his prescribed lenses that corrected a hyperopic (far-sighted) condition. He sustained minor injuries and was transported to a local trauma facility. The Critical Precrash Event for the driver of V2 was other motor vehicle in lane: traveling in same direction with higher speed. The Critical reason for the Critical Precrash Event was not coded to the driver of V2 and he was not thought to have contributed to the crash.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Cell Phone Use, Distraction, Driver Inexperience, Vehicle present problem 
+Vehicle 2:  Driver Inexperience, Drugs present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Changing lanes
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Brakes failed
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

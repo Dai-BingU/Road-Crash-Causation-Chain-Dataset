@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a two-way, two-lane, straight, level, bituminous, urban road with a posted speed limit of 72 kmh (45 mph). Conditions at the time of the weekday evening crash were daylight, clear and dry. A vehicle inspection was obtained on-scene. V1, a 1999 Mercury Cougar, driven by a 17 year-old male, was traveling eastbound on the road after accelerating quickly from a side street 2 tenths of a mile prior to the crash. V1 was observed by a witness to be swerving back and forth across both lanes and then rotated counterclockwise before leaving the road on the right side. V1 struck a 4” x 4” wooden mailbox post with the front left corner, and then dug into a grassy embankment with the right side tires. V1 rolled right, became airborne, and continued rolling 8 quarter turns. V1 came to rest 40 meters from the trip point, which was 2-4 meters past the mailbox. The Mercury was towed from the scene due to damage. The unrestrained driver was ejected from the vehicle 31 meters past the trip point. The driver was transported to a local trauma center from the scene. The Critical Precrash Event coded to v1 was 'this vehicle traveling leaving the road on the right side.' The Critical Reason for the Critical Event coded was 'driver related factor of internal distraction'. The driver stated that he was messing around with his CD's just prior to the crash. An associated factor of fatigue was also coded, as the driver stated that he was tired from too little sleep that day. In addition, speed too fast was also coded to this driver.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Aggressive Behavior, Distraction, Driver Fatigue, Speed/Distance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Off the edge of the road on the right side
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Internal distraction

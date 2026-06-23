@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary The crash occurred in the intersection of a one-way North-South road and a two-way East-West road. The roadway was straight and level and had a posted speed limit of 48kmph (30mph). The conditions were daylight and the roadway was dry. Vehicle # 1 was a Chevrolet Malibu, which was traveling northbound on a one-way roadway with one lane. Vehicle # 2 was a Chevrolet G-Series Van that was traveling eastbound on a two-way roadway with one-lane in each direction and stopped for the stop sign. At the intersection, Vehicle # 1 proceeded through and the front of Vehicle # 2 contacted the left side of Vehicle # 1. Vehicle # 1 was driven by a 37-year old male, who had two occupants, an 11 year-old female in the front-right position and a 10-year old female in the back-right seat. The 11-year old female and the 10-year old female both sustained minor injuries and were transported to a medical facility. The Chevrolet Malibu was towed. The Critical Pre-Crash Event for Vehicle # 1 was coded as: Other Vehicle Encroachment, from crossing street, across path. The Critical Reason for the Critical Pre-Crash Event was not coded to this vehicle. The associated factors were coded as unknown. The driver of Vehicle # 1 was not thought to have contributed to the crash. Vehicle # 2 was driven by a 41-year old male who stated that he thought the other driver also had a stop sign, and thought the driver of Vehicle # 1 was going to stop when he proceeded through the intersection. The driver sustained no injuries and was not transported. The Van was not towed. The Critical Pre-Crash Event for Vehicle # 2 was coded as: This Vehicle Traveling, crossing over intersection. The Critical Reason for the Critical Event was coded as a Driver Related Error, false assumption of other's actions. Two emotional factors were coded to the driver, he was visiting his grandmother who just came back from the hospital and he was also concerned about his financial situation. He has no employer stress factors because he is the owner of the business.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 2:  Decision, Distraction, Driver Stress/Emotion, Surveillance present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：Other Vehicle Encroachment- From crossing street, across path
+ 2 ：This Vehicle Traveling- Crossing over (passing through) intersection
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Not coded to this vehicle- Critical reason not coded to this vehicle
+ 2 ：Driver Related Factor- False assumption of other's actions

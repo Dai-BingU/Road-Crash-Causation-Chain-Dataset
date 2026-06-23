@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred on a weekday during morning daylight hours at an intersection with traffic signals. The speed limit for the roadway is 56 kmph (35 mph). The road is a 4-lane divided (no positive barrier) concrete roadway from north to south. The northbound lanes of the roadway have an additional left turn only lane for a total of five lanes. The road surface was dry and there were no detrimental atmospheric conditions at the time of the crash. Vehicle one (V1), a 1993 Lincoln Town Car, was traveling north in lane five of the northbound lanes, attempting a left turn at the intersection. Vehicle two (V2), a 2005 Chevrolet Equinox, was traveling south in the first lane. A non-contact vehicle (NCV), was southbound in lane two next to V2. In the intersection, the front of V2 struck the right side of V1. V2 rotated clockwise and came to rest within the intersection, facing southwest. V1 continued to rotated clockwise and came to rest within the intersection, facing northwest. Both vehicles were towed from the scene. A 68-year old female drove V1. She was heading for a shopping center located on the northwest side of the intersection. She is in good health, was well rested and does not take any medication. She is living out of state and was visiting her daughter. It was the first time she was on this roadway. She stated she had a protective left turn arrow when she started her turn. She said she was stopped in lane five until the left-turn arrow illuminated. She then started her turn. She tried to accelerate when she noticed the southbound traffic was moving. The critical pre-crash event for V1 was coded: this vehicle traveling-turning left at an intersection. The critical reason for the critical event was coded to V1 as a driver related factor: turned with obstructed view. A 56-year old male drove V2. He was heading from his work site to a doctor's appointment. He said he was not in a hurry. He is in good health, was well rested and takes medication for high cholesterol as well as aspirin. He stated he did not see V1 because of a vehicle traveling in the lane to his left. The critical pre crash event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line. No critical reason for the critical event was coded to this vehicle. While approaching the intersection, V2 received a green light and continued to drive.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision, Driver Inexperience, Roadway present problem 
+Vehicle 2:  Driver Inexperience, Drugs, Roadway present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Turned with obstructed view
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

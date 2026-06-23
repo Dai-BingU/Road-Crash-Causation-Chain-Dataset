@@ -1,0 +1,16 @@
+Case Summary:
+1    Case Summary The crash occurred on a southbound exit ramp for a high volume, high occupancy highway. The ramp was straight and level and consisted of two lanes with paved emergency shoulders on either side. The skies were clear and it was early evening on a weeknight. The crash involved a 1992 Chevy Silverado pickup that was traveling southbound in lane one when the right front tire delated for an unknown reason. The driver lost control of the vehicle and crashed into the right concrete barrier. The driver of the vehicle attempted to leave the scene by driving away before realizing that the right front tire was flat. The identity of the driver was unknown as he/she fled the accident scene before the police arrived. The vehicle was not reported stolen and the police recovered a wallet on the front seat that belonged to a high school-age male. The police attempted to contact the owner of the vehicle but were unsuccessful. Police left the driver as unknown on the police accident report because there were a few different names on the contents of the wallet. The truck was towed due to damages but it was not known if the driver was injured. The critical pre-crash event for Vehicle # 1 was a loss of control due to a tire failure. The critical reason was a tire failure, a vehicle-related factor. On-scene physical evidence indicated that there was a pre-crash deflation of the right front tire prior to the impact with the wall. No additional associated factors could be coded due to the driver fleeing the scene and no interview having been obtained.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Vehicle present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+
+ Critical Pre-Crash Event
+ 1 ：This Veh. Control Loss Due To:- Blow out/flat tire, (specify) :
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Vehicle Related Factor- Tires/wheels failed

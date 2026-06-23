@@ -1,0 +1,20 @@
+Case Summary:
+1    Case Summary This crash occured on a three lane highway on the west and east bound lanes. The posted speed limit is 35 mph. Conditions were dark with heavy rain in the early evening. Vehicle 1 a 2000 Toyota Tundra pickup truck was traveling westbound on the roadway and was goint to turn left at the intersection. Vehicle 2 a 1996 Toyota Avalon was traveling east on the same roadway when Vehicle 1 turned left in front of Vehicle 2. Driver of Vehicle 2 and her two children were transported due to injury and both vehicles were towed due to damage. Vehicle 1 was driven by a 54 year old male who stated he was turning left at the intersection and he just hit the person in fron of him. The Critical Pre-crash Event for V1 is : turnig left at intersection The Critical Reason for the Criticla Pre-crash Event was too fast for conditions Vehicle 2 was driven by a 39 year old female. The attorney for the driver of Vehicle 2 refused his client to do an interview. The Criticla Pre-crash Event for V2 is: other vehicle encroachment from opposite direction - over left lane line. The Critical Reason was not coded for this vehicle
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Roadway, Surveillance, Weather/Environment present problem 
+Vehicle 2:  Roadway, Weather/Environment present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Turning left
+ 2 ：Negotiating a curve
+
+ Critical Pre-Crash Event
+ 1 ：This Vehicle Traveling- Turning left at intersection
+ 2 ：Other Vehicle Encroachment- From opposite direction - over left lane line
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- Inadequate surveillance (e.g., failed to look, looked but did not see)
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

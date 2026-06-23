@@ -1,0 +1,19 @@
+Case Summary:
+1    Case Summary This two-vehicle crash occurred in the afternoon of a weekday in the southbound lanes near a four-way intersection. The intersection consists of four multi-lane roadways controlled by a properly functioning traffic signal. The main thoroughfare is a two-lane divided highway that expands to four lanes at this intersection to accommodate left and right-turn only lanes. The bituminous roads are straight, flat, and have a posted speed limit of 72 kmph (45 mph). The road was dry and the weather condition was clear and daylight. V1, a 1990 Oldsmobile Cutlass Ciera SL with one occupant, was southbound in lane two intending to go straight. V2, a 2002 Chevrolet Silverado with one occupant was stopped in the same southbound lane, ahead of V1, intending to go straight. V1 failed to stop and struck the back of V2. V1 was towed due to damage but V2 was driven from the scene. The driver of V1 is a 19-year-old male that was commuting to work after paying his utility bill this afternoon when he was involved in this crash. He states that as he was approaching this intersection he saw that the red traffic signal had turned green and instead of braking he only took his foot off the accelerator. As he drew closer to V2 he realized it was not moving forward and that he had to slam on his brake to avoid crashing into the back of it. He reports that once he locked-up the brakes, his car "slid for a long time" into the back of a pickup truck. He was not injured in the crash but his car was towed and salvaged. The Critical Precrash Event for V1 was coded “other motor vehicle in lane stopped”. The Critical Reason for the Critical Event was coded “false assumption of other's actions (assuming that the other driver would continue to proceed)”. An associated factor includes insufficient braking inputs. The driver of V2 is a 53-year-old male that was returning to work from an agricultural supply store when he was involved in this crash. He states that he was driving a company-owned truck and was stopped in lane two for a red light when he heard tires squealing. He immediately looked in his rear view mirror when he heard the tire screech and realized V1 was going to crash into the back of his truck. He knew there was nowhere to go so he braced himself for the impact. He was not injured in the crash and his company truck was barely damaged. The Critical Precrash Event for V2 was coded “other motor vehicle in lane traveling in same direction with higher speed”. The Critical Reason was not coded to this vehicle.
+Name: Case Summary, dtype: object
+
+Output Text 1:
+Vehicle 1:  Decision present problem 
+
+Output Text 2:
+ Movement Prior to Critical Crash Envelope
+ 1 ：Going straight
+ 2 ：Stopped in traffic lane
+
+ Critical Pre-Crash Event
+ 1 ：Other Motor Vehicle in Lane- Other vehicle stopped
+ 2 ：Other Motor Vehicle in Lane- Traveling in same direction with higher speed
+
+ Critical Reason for Critical Pre-Crash Event
+ 1 ：Driver Related Factor- False assumption of other's actions
+ 2 ：Not coded to this vehicle- Critical reason not coded to this vehicle

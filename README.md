@@ -2,17 +2,25 @@
 
 This repository provides the Road-Crash-Causation-Chain dataset, a manually reviewed dataset for case-specific crash causation-chain inference. The dataset is built from in-depth crash investigation records and uses the Driving Reliability and Error Analysis Method (DREAM) to represent crash causation chains in a standardized code-label format.
 
-## Dataset Overview
+The dataset accompanies the paper:
 
-- **Number of cases:** 4,000
-- **Source:** National Motor Vehicle Crash Causation Survey (NMVCCS)
-- **Task:** Generate a structured DREAM causation chain from in-depth crash investigation data
-- **Train/validation split:** 3,200 training cases and 800 validation cases
-- **Sample IDs:** `case_000001`, `case_000002`, ...
+> Leveraging large language models for crash causation chain inference with in-depth accident investigation data  
+> Transportation Research Part C: Emerging Technologies, 191, 105820  
+> https://doi.org/10.1016/j.trc.2026.105820
+
+## Dataset Summary
+
+| Item | Description |
+| --- | --- |
+| Number of cases | 4,000 |
+| Data source | National Motor Vehicle Crash Causation Survey (NMVCCS) |
+| Task | Generate a structured DREAM causation chain from in-depth crash investigation data |
+| Train/validation split | 3,200 training cases and 800 validation cases |
+| Sample IDs | `case_000001`, `case_000002`, ... |
 
 The sample IDs are stable across the raw reports, causation-chain labels, and train/validation splits.
 
-## Repository Structure
+## Repository Contents
 
 ```text
 data/
@@ -36,11 +44,11 @@ figure/
   Genotype.png
 ```
 
-## Data Format
+## Data Organization
 
 Each file in `data/raw_reports/` contains the crash investigation input used for causation-chain inference. Each file in `data/causation_chains/` contains the corresponding DREAM causation-chain annotation.
 
-Example output format:
+Example DREAM causation-chain label:
 
 ```text
 Vehicle 1 (V1)
@@ -64,19 +72,19 @@ The SFT files `data/train.json` and `data/val.json` use a chat-style format:
 }
 ```
 
-## Annotation Notes and Dataset Maintenance
+## Quick Start
 
-The DREAM framework may allow reasonable alternative coding paths in some cases. For example, the same crash can sometimes be represented from the perspective of an action-level phenotype, or alternatively from an observation- or cognition-level phenotype. Therefore, some annotations may differ from a user's preferred coding path while still following the DREAM rules and being supported by the crash report.
+The released `train.json` and `val.json` files are already provided. The evaluation script uses only the Python standard library. Model inference requires PyTorch, Transformers, and PEFT when a LoRA adapter is used.
 
-If you identify a potentially incorrect, ambiguous, or disputable annotation, please contact the authors or open an issue in this repository. We will continue to review feedback and maintain updated versions of the dataset when necessary.
+Install optional inference dependencies:
 
-## Usage
-
-The evaluation script uses only the Python standard library. Model inference requires PyTorch, Transformers, and PEFT when a LoRA adapter is used.
+```bash
+pip install -r requirements.txt
+```
 
 ### Build SFT Data
 
-The released `train.json` and `val.json` files are already provided. To rebuild an SFT file from paired text files:
+To rebuild an SFT file from paired text files:
 
 ```bash
 python scripts/build_sft_dataset.py \
@@ -107,16 +115,9 @@ python scripts/evaluate.py \
   --save-details outputs/val_eval_details.json
 ```
 
-The evaluation script reports:
+The evaluation script reports Vehicle-node Precision, Vehicle-node Recall, Vehicle-node F1, ROUGE-1, ROUGE-2, and ROUGE-L.
 
-- Vehicle-node Precision
-- Vehicle-node Recall
-- Vehicle-node F1
-- ROUGE-1
-- ROUGE-2
-- ROUGE-L
-
-## Figures
+## Dataset Visualization
 
 <p align="center">
   <img src="figure/example.png" alt="Case example">
@@ -130,6 +131,12 @@ The evaluation script reports:
 </p>
 
 <p align="center">Phenotype and genotype distributions in the Road-Crash-Causation-Chain dataset</p>
+
+## Annotation Notes and Feedback
+
+The DREAM framework may allow reasonable alternative coding paths in some cases. For example, the same crash can sometimes be represented from the perspective of an action-level phenotype, or alternatively from an observation- or cognition-level phenotype. Therefore, some annotations may differ from a user's preferred coding path while still following the DREAM rules and being supported by the crash report.
+
+If you identify a potentially incorrect, ambiguous, or disputable annotation, please contact the authors or open an issue in this repository. We will continue to review feedback and maintain updated versions of the dataset when necessary.
 
 ## Citation
 
